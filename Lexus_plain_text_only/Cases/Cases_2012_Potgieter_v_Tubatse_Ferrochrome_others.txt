@@ -1,0 +1,182 @@
+
+
+
+
+Potgieter v Tubatse Ferrochrome & others [2012] JOL 28181 (LC) 
+Judgments Online
+
+Division: Johannesburg
+Case No: JR 1874 / 08
+Hearing Date(s): 12 / 10 / 2011
+Judgment Date(s): 10 / 11 / 2011
+Bench: Louw AJ
+
+
+Keywords
+
+
+Labour law — Dismissal — Arbitration — Relief — Compensation instead of reinstatement — Review application
+Labour law — Practice and procedure — Review applications — Documents placed before court — Burdening of record
+
+Mini Summary
+
+
+During his employment with the first respondent, the applicant was charged at a disciplinary inquiry with alleged failure to obey a reasonable instruction to report for duty, absence of leave without permission and insubordination. He was found guilty and was dismissed. He referred an unfair dismissal dispute to the bargaining council where the third respondent, as arbitrator, found the dismissal to have been unfair. She ordered the first respondent to pay one month’s remuneration as compensation.
+
+In seeking review of the arbitration award, the applicant desired the order of compensation to be replaced with one of reinstatement.
+
+Held that in not ordering the primary remedy of reinstatement, the arbitrator was motivated by the fact that the applicant had, after his dismissal, made certain allegations in an article published in an industry magazine. The allegations related to pollution caused by the first respondent’s activities, and according to the applicant, amounted to protected disclosures. The arbitrator disagreed that the allegations amounted to protected disclosures, expressing doubt about whether they had been made in good faith. On that basis, reinstatement was considered impractical. The Court agreed with the arbitrator, and found that her conclusions were ones which a reasonable arbitrator could make, thereby complying with the test for review.
+
+The Court went on to address certain matters of procedure concerning the review application. Much of the focus in that regard was on the applicant’s burdening of the record with unnecessary documents, and prolix affidavits. The Court cautioned that parties should be careful of what they place before the Court, so as to not overburden judges by obliging them to read pleadings, transcripts and documents which in the end serves no purpose for deciding any attack or challenges that are made on the awards issued by arbitrators.
+
+The application was dismissed.
+
+ 
+[2012] JOL 28181 (LC)  at 1
+
+LOUW AJ
+
+[1]    The applicant seeks to review and set aside an arbitration award made by the arbitrator under the auspices of the MEIBC.
+
+ 
+[2012] JOL 28181 (LC)  at 2
+
+[2]    The applicant was charged at a disciplinary inquiry for his alleged failure to obey a reasonable instruction to report for duty, absence of leave without permission and insubordination.
+
+[3]    The applicant pleaded not guilty to these charges. On the evidence presented to the chairperson of the disciplinary proceedings, the applicant was found guilty and dismissed. After the confirmation of the finding and sanction on appeal, the applicant referred a dispute to the MEIBC alleging that he was unfairly dismissed. The arbitrator (ie, the third respondent) concluded in her award that the applicant's dismissal was substantively and procedurally unfair. Instead of affording the applicant the primary remedy of reinstatement, she elected to only order the employer to compensate the applicant in an amount equal to his last annual remuneration. I must at this stage add that it is obvious from the arbitrator's award that she duly considered the evidence presented to her and in an exemplary fashion analysed this evidence to ultimately conclude that the applicant's dismissal was unfair.
+
+Nature of the relief sought
+
+[4]    In considering the application to review the award issued by the arbitrator, despite the applicant seeking totally different relief, I shall, however, assume that what the applicant seeks, is that the award is merely to be set aside by this Court in so far as the arbitrator did not order his reinstatement, and subsequently determine the appropriate remedy, in the event that I conclude that the applicant should have been granted reinstatement.
+
+Background to the dismissal
+
+[5]    The applicant was employed as a project engineer, and in his normal course of duties reported to the employer's (the first respondent's) System Manager. At the time of his alleged transgressions the applicant was in charge of the "ground water remediation project".
+
+[6]    Following his dismissal by the employer the applicant, however, published an article in a magazine called Mining Weekly.
+
+ 
+[2012] JOL 28181 (LC)  at 3
+
+[7]    A perusal of an extract of the relevant article,1 reads as follows:
+
+"The report describes the environmental pollution caused by Tubatse Ferrochrome (the first respondent) in the Steelpoort Valley. Special emphasis will be placed on hexavalent chromium pollution."
+
+[8]    The purpose of the article, as put forward by the applicant was:
+
+"To ensure that the public is informed about the extent of the pollution and the dangers involved. Effective measures are put in place to ensure that the public is not exposed to the hexavalent chromium [. . .] contaminated underground water (sic). Effective measures are put in place to prevent further contamination. Effective measures are put in place to remove the existing contamination."
+
+[9]    The applicant, and on his own evidence, wrote the article "months before" his dismissal. When it was put to the applicant that his article was published by him to intentionally harm the reputation of the employer, he inter alia responded by claiming that the article was compiled by him for purposes of protecting the public and the environment, and that he is protected by law for making these types of disclosures.
+
+[10]    The issue of an alleged protected disclosure was raised in argument during the arbitration process by the applicant's representative by quoting various sections from the Protected Disclosures Act2 ("the PDA") and pointing out the following:3
+
+The employer bases his argument on the fact that the applicant had disclosed certain information with (sic) respect to the water usage of the employer to the environmental inspectors and the press which damaged the employer's reputation in the eyes of the public.
+These disclosures were made by the applicant after the date of his dismissal;
+At no stage does the employer deny the contents of these reports by the applicant are correct;
+The employer merely says that it should not have been disclosed to the public;  
+[2012] JOL 28181 (LC)  at 4
+[and later on:]
+There can be no doubt that this protection extends to a situation such as this where the employer seeks to prevent the reinstatement of the applicant after an unfair dismissal by virtue of reference to the disclosure by the applicant of information relating to potential damage to the environment by the employer;
+The applicant's actions in disclosing information relating to the contamination of water in Steelpoort area fall squarely within the ambit of the provisions of the Protected Disclosures Act, and as such his actions cannot constitute a destruction of the trust relationship between the employer and the employee."
+
+[11]    The arbitrator answered these arguments in her award, being the central thread in her reasoning for concluding that reinstatement was impractical, in the following manner:4
+
+"The applicant's contention that this was a 'Protected Disclosure', made in terms of the Protected Disclosures Act, is not plausible and probable in my view. In terms of the Protected Disclosures Act, the disclosure that is being made is protected if it is made in 'good faith'. It is highly improbable that the applicant made the disclosure in good faith, as it was only made after his dismissal, yet it is common cause that he had the report with him long before his dismissal. I am of the view that it is highly probable that the disclosure was made by a vindictive employee who wanted to humiliate and embarrass his employer to get even, so to speak.
+
+It is for this reason that I find that reinstatement would be impractical."
+
+[12]    Not only do I agree with the third respondent's exposition of the law, but more importantly her conclusion is certainly a finding which a reasonable commissioner could have reached on the evidence before the commissioner (see Sidumo & another v Rustenburg Platinum Mines Ltd & others;5 Fidelity Cash Management Service v CCMA & others).6
+
+ 
+[2012] JOL 28181 (LC)  at 5
+
+[13]    Employees are protected under the PDA if they make wider disclosures (for example even to the media). This is known as a general protected disclosure. Crucially, to be protected there must also be a good cause for going outside and the particular disclosure must be reasonable. There are four good causes recognised in law.7
+
+The concern was raised internally or with a prescribed regulator, but has not been properly addressed;
+The concern was not raised internally or with a prescribed regulator because the whistle-blower reasonably believed he or she would be victimised;
+The concern was not raised internally because the whistle-blower reasonably believed a cover-up was likely and there was no prescribed regulator; or
+The concern was exceptionally serious.
+
+[14]    Before considering the four good causes recognised in law, the disclosure must have been made in good faith (own emphasis) by an employee.8
+
+[15]    No evidence was led to indicate that the concerns addressed in the article published in the Mining Weekly were: raised internally; the applicant reasonably believed (months before his dismissal) that he would be victimised; and not raised internally because a cover-up was likely.
+
+[16]    Such evidence may have gone a long way to show that the applicant had good cause to make the disclosure, and should therefore be protected. It may certainly have also convinced the commissioner that the disclosure was made in good faith.
+
+[17]    No evidence was led as to why the applicant only decided to publish the article after his dismissal instead of keeping it a secret "months before my dismissal". Such an explanation might have moved the commissioner to conclude that the  
+[2012] JOL 28181 (LC)  at 6
+applicant indeed acted in good faith and not with the intention of being vindictive as a result of his dismissal.
+
+[18]    There are, however, important aspects concerning the applicant's review application which I believe need to be addressed.
+
+[19]    In the applicant's affidavit in support of his notice of motion to review, set aside or correct the award, the applicant, first of all, and in nine pages of this affidavit, deals with issues which were not dealt with during the arbitration process, and which could never assist this Court in deciding the crisp and clear question for consideration. In addition to that the applicant served and filed 56 pages as part of the record, including the applicant's application for condonation for the late referral of his dispute to the MEIBC; the certificate of outcome; the ruling on his condonation application; the employer's application for a postponement of the arbitration hearing; the applicant's opposing affidavit to the postponement and lastly the postponement ruling. Why it was necessary to file and serve these documents as part of the record only the applicant or his attorney of record will know.
+
+[20]    To further burden the record, the applicant served and filed the entire transcript of the proceedings before the commissioner held on 8 November 2007, 18 February 2008 and a reconstruction of the proceedings on 28 May 2008. In total this comprises of almost 300 pages.
+
+[21]    In continuance of burdening the record, the applicant subsequently filed a supplementary affidavit dealing with his "motivation for reinstatement". This particular affidavit comprises of 139 pages. To top it all the applicant finally submitted heads of argument totalling 170 pages.
+
+[22]    Since no notice was filed with this Court to indicate that attorney L Hugo of Nelspruit no longer represented the applicant, it was quite a surprise when the applicant in person appeared at the hearing of this matter on 12 October 2011, and until then I assumed that the serving and filing of all pleadings on behalf of the applicant were the efforts of Mr Hugo. Based on this assumption, I took the existence of the voluminous record and the unjustifiable need for this up with the parties. Save for counsel for the respondent agreeing that no need existed for the serving and filing of at least 80 percent of the transcript and the other documents and  
+[2012] JOL 28181 (LC)  at 7
+pleadings as set out above, the applicant gave me no indication that it was to a large extent he who elected to serve and file these unnecessary further pleadings. On closer inspection it may very well have been the product of the applicant's efforts and not that of his attorney of record.
+
+[23]    The rules of this Court allows for the applicant in a review application to serve and file only part of the record of the arbitration proceedings (see rule 7(a)(5) and (6) of the Rules of the Labour Court). In New Clicks SA (Pty) Ltd v Commission for Conciliation, Mediation & Arbitration & others,9 the learned Judge remarked as follows:
+
+"But where a reviewing party like the applicant before me was able to demonstrate its grounds on portions of the records available, such a party is not prejudiced and should not gain an advantage simply because certain portions not germane to its grounds are missing."
+
+[24]    In what appears to be an opposing view, the learned Francis J in Boale v National Prosecuting Authority of SA & others,10 stated as follows:
+
+"It is trite that there is a duty on an applicant to provide a review court with a full transcript of the proceedings that he wishes to have reviewed. The applicant has failed to provide this Court with a full transcript of the proceedings that he wishes to have reviewed. Where an applicant fails to provide a full transcript of the proceedings, the review application must be dismissed. The only exceptions would be where the tape cassettes are missing or where the parties are unable to reconstruct the record. Where an applicant is furnished with all the audio cassettes and fails to transcribe the audio cassettes, this Court must follow only one route which is to dismiss the application."
+
+And continued: 
+[2012] JOL 28181 (LC)  at 8
+"I am bound by the decision of JDG Trading (Pty) Ltd t/a Russells v Whitcher NO and Others (2001) 22 ILJ 648 (LAC); [2001] 3 BLLR 300 (LAC)."11
+
+[25]    I am, with respect not inclined to agree with the learned Judge that JDG Trading (Pty) Ltd t/a Russells v Whitcher NO & others,12 did indeed lay down such a bold and unqualified obligation. What the learned Judges of the appeal court found was that the applicant had been obliged to do, in terms of rule 7A(5)–(7) of the Rules of this Court, was to have the handwritten record and the cassette tapes transcribed, which the appellant had failed to do in that matter. In the absence of the transcribed record of the proceedings before the CCMA the Labour Court had been in no position to adjudicate properly on the application before it ( own underlining) and it ought, accordingly, to have dismissed the review. This was clearly a case where the information before the Labour Court (own underlining) did not entitle this Court to review and vary the award made by the relevant commissioner.
+
+[26]    Similarly, in Lifecare Special Health Services (Pty) Ltd t/a Ekuhlengeni Care Centre v Commission for Conciliation, Mediation & Arbitration & others,13 the learned Judges remarked:
+
+"It follows that what Lifecare was obliged to place before the Labour Court in terms of rule 7A was a transcript of the electronic recording of the arbitration proceedings, which was the 'record' for the purposes of the review" (own underlining).
+
+[27]    In Department of Transport, North West Province v Sebotha NO & others,14 this Court found that the arbitrator's handwritten notes were incomplete and provided a partial recording of the testimony of the only witness for the applicant. Since the applicant based its attack on that part of the award that criticised the testimony of the witness and found the witness to be unreliable, his testimony was crucial in determining whether or not to review the award. In the absence of a proper record the court was unable to determine whether or not there was any basis for the criticism by the arbitrator and his conclusion that the witness had been an unreliable witness (own underlining).
+
+ 
+[2012] JOL 28181 (LC)  at 9
+
+This becomes all the more clear when the learned Judge remarked the following:
+
+"There are however instances where the court may be able to determine whether or not the award is reviewable based on specific and relevant portions of the record only or for that matter on the arbitration award alone. This would be so in particular if the irregularity complained of is patent from a reading of the award. See Shoprite Checkers (Pty) Ltd v CCMA (2002) 23 ILJ 943 (LC); [2002] 7 BLLR 677 (LC) at para 11."15
+
+[28]    In my view parties, especially applicants and their attorneys who practise in this Court, and deem themselves to be au fait with the Rules of this Court and its judgments, should be careful of what they place before this Court, or not, so as to not overburden judges by obliging them to read pleadings, transcripts and documents which in the end serve no purpose for deciding any attack or challenges that are made on the awards issued by arbitrators. Judges of this Court have more than enough to do otherwise.
+
+[29]    Had I been convinced that the applicant's attorney of record was somehow responsible for the manner in which the record in this matter was burdened with irrelevant issues for purposes of determining the question whether the commissioner's decision was that of a reasonable decision-maker, I would have had no hesitation in awarding cost against him de bonis propriis.
+
+[30]    As I have stated before, the test to determine whether or not a conclusion reached by an arbitrator is reasonable or otherwise is that of a reasonable decision-maker. The question to be answered in considering the reasonableness or otherwise of an award is whether the conclusion of the arbitrator is one which a reasonable decision-maker could not reach. This is certainly not the case in the current matter.
+
+I accordingly make the following order:
+
+The application to have the award reviewed, set aside or corrected is dismissed.
+The applicant is ordered to pay the costs.
+
+
+Footnotes
+1	  Annexure "A" to applicant's supplementary affidavit.
+2	  Act 26 of 2000.
+3	  Applicant's heads of argument submitted to the arbitrator.
+4	  Para 6.11 in the award.
+5	  2008 (2) SA 24 (CC) [also reported at [2008] JOL 20811 (CC), 2008 (2) BCLR 158 (CC), [2007] 12 BLLR 1097 (CC) – Ed].
+6	  (2008) 29 ILJ 964 (LAC) [also reported at [2008] JOL 21211 (LAC), [2008] 3 BLLR 197 (LAC) – Ed].
+7	  S 9 of the PDA.
+8	  S 9(1) of the PDA.
+9	  (2008) 29 ILJ 1972 (LC) [also reported at [2008] JOL 22781 (LC) – Ed] at para [26].
+10	  (2003) 24 ILJ 1666 (LC) [also reported at [2003] JOL 11388 (LC), [2003] 10 BLLR 988 (LC) – Ed] at para [5].
+11	 Id at para [9].
+12	  (2001) 22 ILJ 648 (LAC) [also reported at [2001] JOL 7842 (LAC), [2001] 3 BLLR 300 (LAC) – Ed].
+13	  (2003) 24 ILJ 931 (LAC) [also reported at [2003] JOL 10826 (LAC), [2003] 5 BLLR 416 (LAC) – Ed] at para [13].
+14	  (2010) 31 ILJ 97 (LC) [also reported at [2009] JOL 23818 (LC) – Ed].
+15	 Id at para [17].
+
+Appearance:
+In Person (At); Adv L Giai-Coletti, Webber Wentzel (R)
+
+
+End of Document

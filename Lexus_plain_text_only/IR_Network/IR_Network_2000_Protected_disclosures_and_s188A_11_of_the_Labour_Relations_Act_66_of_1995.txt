@@ -1,0 +1,45 @@
+
+
+
+
+Protected disclosures and s188A(11) of the Labour Relations Act 66 of 1995
+IR - Weekly Comment
+
+Protected disclosures and s188A(11) of the Labour Relations Act 66 of 1995
+
+It goes without saying that disclosures by whistle-blowers are important in the fight against corruption and other irregular activities or improprieties. It is equally important that whistle-blowers are protected from any kind of occupational detriment that could result from such disclosures. This is where the Protected Disclosures Act1 (PDA) comes into play. The Act is aimed at providing procedures for employees and workers to disclose information regarding unlawful or irregular conduct by their employers or other employees without fear of reprisal or victimisation. 
+
+Section 3 of the PDA provides that 
+
+No employee or worker may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure.
+
+Occupational detriment is extensively defined, and includes for purposes of this comment “being subjected to any disciplinary action”. Time was when the remedy for employees in this situation would be to refer an unfair labour practice dispute to the CCMA or relevant bargaining council in terms of s186(2)(d)2 of the LRA3 and then approach the Labour Court on an urgent basis for an order interdicting the employer from taking or continuing with disciplinary action, pending the resolution of the unfair labour practice dispute. The 2014 amendments to s188A of the LRA however introduced an alternative remedy: now headed “Inquiry by arbitrator”, s188A(1) provides for a council, accredited agency or the CCMA to appoint an arbitrator to conduct an inquiry into allegations about the conduct or capacity of that employee. Section 188A(11) goes on to provide that 
+
+Despite subsection (1), if an employee alleges in good faith that the holding of an inquiry contravenes the Protected Disclosures Act, 2000 (Act 26 of 2000), that employee or the employer may require that an inquiry be conducted in terms of this section into allegations by the employer into the conduct or capacity of the employee. (emphasis added)
+
+Functionally, s188A(11) strikes a balance between taking no action against an employee alleged to have misconducted him or herself on the grounds that the employee claims to be  a whistle-blower, and following a process that is akin to a disciplinary enquiry but that is independent of the employer. 
+
+In Ndlangana v Mine Health and Safety Council and Another4, the applicant sought to follow the path of s188A(11). Pursuant to an investigation conducted into allegations of irregularities in the awarding and management of a tender for memorial plaques, she had been suspended in September 2021. Some six months later she was notified to attend a disciplinary enquiry to answer to various allegations of misconduct. Responding through her attorneys, the applicant asserted that the disciplinary action against her constituted an occupational detriment and requested to rather proceed in terms of s 188A(11). She based her claim on three disclosures made to the Public Protector during 2019 and 2020, alleging maladministration and abuse of power by the first respondent (her employer), including “tender malfeasance”. Notwithstanding, the enquiry duly convened, during which the applicant made the same request. The chairperson subsequently issued a ruling dismissing the request and directing the hearing to proceed a week hence, that is on 22 June 2022. At that point the applicant referred a request to the CCMA in terms of s188A(11) and at the same time referred an unfair labour practice dispute in terms of Section 186(2)(d) of the LRA. When the disciplinary enquiry continued on 22 June 2022 the applicant raised these referrals as a point in limine, noting that the hearing should accordingly terminate. When the chairperson refused to terminate the hearing, the applicant approached the Labour Court on an urgent basis, seeking an order setting aside the disciplinary steps taken thus far and the chairperson’s in limine rulings, and terminating the disciplinary enquiry in favour of the s188A process.
+
+Counsel for the employer submitted that the applicant had failed to make out a case for the s188A(11) enquiry on the basis that her disclosures were not protected in terms of the PDA. The court per Nkutha-Nkontwana J found this argument untenable, agreeing with the judgment in Nxele v National Commissioner: Department of Correctional Services and others5 that on a proper construction of s188A(11), where an employee or employer requires a pre-dismissal arbitration in terms of that subsection, “that request is imperious”. All that is required to trigger or invoke the subsection is for the employee to allege in good faith that holding the disciplinary inquiry contravenes the PDA (emphasis added). In other words, and as stated by Prinsloo J in Tsibani v Estate Agency Affairs Board and Others (Tsibani)6, the provision “is not designed or intended to determine whether the facts constitute a protected disclosure as contemplated by the PDA or not, and if not, for an internal disciplinary hearing to proceed”.
+
+The court granted the order as requested, enjoining the employer to take all necessary steps to ensure that the matter was conducted in terms of s188A of the LRA. Employers take note that the chairperson’s intransigence cost the first respondent dearly, the court awarding costs in favour of the applicant on the basis that she had made several unsuccessful attempts to obviate the urgent application. 
+
+Being an option available to both employer and employee, S188A(11) is the exception to the normal application of s188A, which in terms of subsection (1) is an option that only the employer may utilize, either with the consent of the employee or in terms of a collective agreement. In practice it is an option infrequently requested though. Perhaps an off-putting factor is the requirement to pay the prescribed fee. At this time, resolving a dispute by inquiry by arbitrator in terms of s188A attracts a fee of between R3175.08 – R7214.43 (ex VAT), plus 50% of all direct variable costs.
+
+Till next time
+
+Anne Erwin
+
+
+
+Footnotes
+1	   26 of 2000, as amended.
+2	   This subsection defines an unfair labour practice amongst others as an occupational detriment other than dismissal, in contravention of the PDA, on account of the employee having made a protected disclosure.
+3	   Labour Relations Act 66 of 1995, as amended.
+4	   (J770/22) [2022] ZALCJHB 193
+5	   (2018) 39 ILJ 1799 (LC) also reported at [2019] JOL 43840 (LC) at para 31.
+6	   Unreported judgment under case no: J642/2021 delivered on 24 June 2021, at para 72.
+
+
+End of Document

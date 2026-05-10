@@ -1,0 +1,451 @@
+
+
+
+
+(ZA) GNR.1383 of 14 December 2018:  Regulations relating to the Protection of Personal Information ( (Government Gazette No. 42110)
+South Africa National Subordinate Legislation
+
+
+National Subordinate Legislation  >  ZA Subordinate Legislation  >  P  >  Protection of Personal Information Act, No. 4 of 2013  >  Rules and Regulations  >  Regulations
+
+as amended
+
+
+EDITOR’S NOTE:
+
+GN 6126 in Government Gazette 52523 of 17 April 2025 gives notice of publication of amendments to these regulations for implementation with immediate effect and refers to the version on the Information Regulator’s website at https://inforegulator.org.za/wp-content/uploads/2025/04/POPIA-2021-Regulations-FINAL-21-Jan-2025.pdf for the text thereof. These amendment regulations include inconsistent numbering and instructions – refer to the various editorial notes below for more detail where duplicate numbering occurs.
+
+DEPARTMENT OF JUSTICE AND CONSTITUTIONAL DEVELOPMENT
+
+The Information Regulator has, under section 112 (2) of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013), made the regulations in the Schedule.
+
+SCHEDULE
+ARRANGEMENT OF REGULATIONS
+1. Definitions
+2. Objection to the processing of personal information
+3. Request for correction or deletion of personal information or destruction or deletion of record of personal information
+4. Additional duties and responsibilities of Information Officer
+5. Application for issuing code of conduct
+6. Request for a data subject's consent to process personal information for direct marketing through unsolicited electronic communication
+7. Submission of complaint
+8. Regulator acting as conciliator during investigation
+9. Pre-investigation proceedings of Regulator
+10. Settlement of complaints
+11. Assessments
+12. Informing the parties of developments regarding investigation
+9. Administrative Fines
+10. Transitional provisions
+13. Short title
+Form 1 Objection to the processing of personal information in terms of section 11 (3) of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 2 Request for correction or deletion of personal information or destroying or deletion of record of personal information in terms of section 24 (1) of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 3 Application for the issue of a code of conduct in terms of section 61 (1) (b) of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 4 Request for the consent of a data subject for the processing of personal information for the purpose of direct marketing though unsolicited electronic communication in terms of section 69 (2) of the Act
+Form 5 Complaint regarding interference with the protection of personal information/complaint regarding determination of an adjudicator in terms of section 74 of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 6 Notice to parties: conciliation meeting regarding interference with the protection of personal information in terms of section 76 of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 7 Notice to parties: conciliation regarding interference with the protection of personal information in terms of section 76 of the protection of personal information act, 2013 (act no. 4 of 2013)
+Form 8 Notice to parties of intention of regulator to investigate a complaint in terms of section 79 of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 9 Notice to parties: settlement meeting regarding interference with the protection of personal information in terms of section 76 of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 10 Notice to parties: settlement regarding interference with the protection of personal information in terms of section 76 of the protection of personal information act, 2013 (act no. 4 of 2013)
+Form 11 Request for an assessment section 89 (1) of the Protection of Personal Information Act 4 of 2013)
+Form 12 Notification section 89 of the Protection of Personal Information Act 4 of 2013)
+Form 13 Notice to parties not to issue an enforcement notice in terms of section 94 of the Protection of Personal Information Act, 2013 (Act No. 4 of 2013)
+Form 14 Referral to enforcement committee in terms of section 92 of the Protection of Personal Information Act 4 of 2013)
+Form 15 Enforcement notice in terms of section 95 of the Protection of Personal Information Act 4 of 2013)
+Form 16 Cancellation or variation of enforcement notice section 96 of the Protection of Personal Information Act 4 of 2013)
+Form 17 . . . . . . 
+Form 18 . . . . . . 
+Form 19 . . . . . . 
+
+1.     Definitions.—  
+
+In these Regulations, any word or expression to which a meaning has been assigned in the Act has the meaning so assigned and, unless the context otherwise indicates—
+
+“complainant”    means any person who lodges a complaint with the Information Regulator;
+
+[Definition of “complainant” inserted by GN 6126 of 17 April 2025.]
+
+“complaint”    means—
+(a)   a matter reported to the Information Regulator in terms of section 74 (1) and (2) of the Act;
+(b)   a complaint referred to in section 76 (1) (e) and 92 (1) of the Act; and
+(c)   a matter reported or referred to the Information Regulator in terms of other legislation that regulates the mandate of the Information Regulator.
+
+[Definition of “complaint” inserted by GN 6126 of 17 April 2025.]
+
+“data message”    includes a data message as defined in section 1 of the Electronic Communications and Transactions Act, 2002 (Act No. 25 of 2002);
+“day”    means a calendar day, unless the last day of a specified period happens to fall on a Sunday or on any public holiday, in which case the time shall be calculated exclusive of that Sunday or public holiday in accordance with section 4 of the Interpretation Act, 1957 (Act No. 33 of 1957);
+
+[Definition of “day” inserted by GN 6126 of 17 April 2025.]
+
+“form(s)”    as referred to in these Regulations, means a form referred to in the annexures to these Regulations or any form which is substantially similar to that form;
+“Office hours”   —
+(a)   in respect of offices of the Information Regulator, means the hours between 08:00 and 16:00 on Monday to Friday, excluding public holidays; and
+(b)   in respect of offices designated by the Information Regulator, means the hours during which the offices are operating;
+
+[Definition of “Office hours” inserted by GN 6126 of 17 April 2025.]
+
+“Relevant body/bodies”    refers to any specified body or class of bodies, or any specified industry, profession, or vocation or class of industries, professions, or vocations that in the opinion of the Regulator which has sufficient representation;
+
+[Definition of “Relevant body/bodies” inserted by GN 6126 of 17 April 2025.]
+
+“signature”    includes an electronic signature as defined in section 1 of the Electronic Communications and Transactions Act, 2002 (Act No. 25 of 2002);
+“submit”    means submit by—
+(a)   data message;
+(b)   electronic communication
+(c)   registered post;
+(d)   electronic mail;
+(e)   facsimile; and
+(f)   personal delivery.
+“the Act”    means the Protection of Personal Information Act, 2013 (Act No. 4 of 2013); and
+“writing”    includes writing as referred to in section 12 of the Electronic Communications and Transactions Act, 2002 (Act No. 25 of 2002).
+
+(Date of commencement of reg. 1: 1 July 2021.)
+
+“writing”    means writing as referred to in section 12 of the Electronic Communication and Transaction Act, 2022 (Act No. 25 of 2002).
+
+[Definition of “writing” substituted by GN 6126 of 17 April 2025.]
+
+ (Date of commencement of reg. 1: 1 July 2021.)
+2.     Objection to the processing of personal information  
+2.1   A data subject who wishes to object to the processing of personal information in terms of section 11 (3) (a) of the Act, must submit the objection to a responsible party at any time during office hours of a responsible party and free of charge.
+2.2   A data subject who wishes to object to the processing of personal information in terms of section 11 (3) (b) of the Act, must submit the objection to a responsible party at any time during office hours of a responsible party and free of charge.
+2.3   A data subject who wishes to object to the processing of personal information must do so on a form substantially similar to Form 1, free of charge and reasonably accessible to a data subject by hand, fax, post, email, SMS, or WhatsApp and or in any manner expedient to a data subject in terms of section 11 (3) (a) of the Act;
+2.4   A responsible party must, when collecting personal information of a data subject, notify the data subject, in terms of Section 18 (1) (h) (iv) of the Act, of their right to object, as referred to in Section 11 (3) of the Act.
+2.5   If an objection to the processing of personal information of a data subject is made telephonically, such an objection shall be electronically recorded by a responsible party and upon request, be made available to the data subject in any manner, including the transcription thereof.
+
+[R. 2 substituted by GN 6126 of 17 April 2025.]
+
+3.     Request for correction or deletion of personal information or destruction or deletion of record of personal information  
+3.1   A data subject has the right, in terms of section 24 of the Act, to request, where necessary, the correction, destruction, or deletion of his, her or its personal information.
+3.2   A data subject, who wishes to request a correction or deletion of his, her, or its personal information, as provided for in section 24 (1) (a) of the Act, has the right to request for correction or deletion of personal information at any time and free of charge, if the personal information is inaccurate, irrelevant, excessive, out of date, incomplete, misleading or obtained unlawfully.
+3.3   A data subject, who wishes to request the destruction or deletion of a record of his, her, or its personal information, in terms of section 24 (1) (b) of the Act, has the right to request the destruction or deletion of a record of his, her or its personal information at any time and free of charge, if a responsible party is no longer authorised to retain in terms of section 14 of the Act.
+3.4   A request for a correction or deletion of personal information, as referred to in sub regulation 3.2 or a request for the destruction or deletion of a record of personal information, as referred to sub regulation 3.3 must be submitted to a responsible party on a form which is substantially similar to Form 2 free of charge and reasonably accessible to a data subject by hand, fax, post, email, SMS, WhatsApp message or in any manner expedient to a data subject;
+3.5   A request for a correction or deletion of personal information by telephonic means shall be recorded by a responsible party and such recording must, upon request, be made available to a data subject in any manner, including the transcription thereof which shall be free of charge.
+3.6   A responsible party must, within thirty (30) days of receipt of the outcome of the request referred to in sub regulation 3.2 or 3.3, notify a data subject, in writing, of the action taken as a result of the request.
+
+[R. 3 substituted by GN 6126 of 17 April 2025.]
+
+4.     Additional duties and responsibilities of Information Officer.—  
+(1)    An information officer must, in addition to the responsibilities referred to in section 55 (1) of the Act, ensure that—
+(a)   a compliance framework is developed, implemented, monitored, maintained and continually improved;
+
+[Para. (a) substituted by GN 6126 of 17 April 2025.]
+
+(b)   a personal information impact assessment is done to ensure that adequate measures and standards exist in order to comply with the conditions for the lawful processing of personal information;
+(c)    . . . . . .
+
+[Para. (c) deleted by GN 6126 of 17 April 2025.]
+
+(d)   internal measures are developed together with adequate systems to process requests for information or access thereto; and
+(e)   internal awareness sessions are conducted regarding the provisions of the Act, regulations made in terms of the Act, codes of conduct, or information obtained from the Regulator.
+(2)    . . . . . .
+
+[R. 4 heading substituted by GN 6126 of 17 April 2025. Sub-r. (2) deleted by GN 6126 of 17 April 2025.]
+
+ (Date of commencement of reg. 4: 1 May 2021.)
+5.     Application for issuing code of conduct.—  
+
+A relevant body/bodies which is sufficiently representative of any class of bodies, or of any industry, profession, or vocation that wishes to apply for the issuing of a code of conduct in terms of section 61 (1) (b) of the Act, must submit an application to the Regulator on Form 3.
+
+[R. 5 substituted by GN 6126 of 17 April 2025.]
+
+(Date of commencement of reg. 5: 1 March 2021.)
+
+6.     Request for a data subject's consent to process personal information for direct marketing through unsolicited electronic communication  
+6.1.   A responsible party who wishes to process the personal information of a data subject for the purposes of direct marketing through unsolicited electronic communication must in terms of section 69 (2) of the Act obtain written consent from a data subject on a form substantially similar to Form 4 or in any manner that may be expedient, free of charge and reasonably accessible to a data subject, including—
+6.1.1.   email;
+6.1.2.   telephonically;
+6.1.3.   SMS or WhatsApp;
+6.1.4.   facsimile;
+6.1.5.   automated calling machine.
+6.2.   A request for a data subject’s consent to the processing of his, her, or its personal information as referred to in sub-regulation 6.1 above by telephonic means must be electronically recorded by a responsible party and such recording must, upon request, be made available to a data subject in any manner, including the transcription thereof which must be free of charge.
+6.3.   A request for a data subject’s consent to the processing of his, her, or its personal information as referred to in sub regulation 6.1 by an automated calling machine must be electronically recorded by the responsible party and such recording must, upon request, must be made available to a data subject in any manner, including the transcription thereof which must be free of charge.
+6.4.   For the purposes of direct marketing through unsolicited electronic communications, opt-out shall not constitute consent as referred to in section 69 (2) of the Act.
+
+[R. 6 substituted by GN 6126 of 17 April 2025.]
+
+7.     Submission of complaint.—  
+(1)    Any person who wishes to submit a complaint contemplated in section 74 (1) of the Act must submit such a complaint to the Regulator on Part I of Form 5.
+(2)    A responsible party or a data subject who wishes to submit a complaint contemplated in section 74 (2) of the Act must submit such a complaint to the Regulator on Part II of Form 5.
+
+(Date of commencement of reg. 7: 1 July 2021.)
+
+(Editorial Note: The original regs. 7 (1) and 7 (2) that commenced on 1 July 2021 have been retained as GN 6126 of 17 April 2025 read with the amendment regulations on the Information Regulator’s website are unclear, referring to the insertion of reg. 7.3 to 7.18 but numbering the items as reg 7.1 to 7.12.)
+
+7.1.   The following persons may lodge a complaint—
+7.1.1.   A data subject whose personal information has been interfered with in terms of section 73 of the Act;
+7.1.2.   Any person acting on behalf of a data subject whose personal information has been interfered with, as referred to in section 73 of the Act;
+7.1.3.   Any person with a sufficient personal interest in the subject matter of the complaint referred to in section 73 of the Act;
+7.1.4.   A responsible party or data subject who is aggrieved by the determination of an adjudicator in terms of section 63 (3) of the Act; or
+7.1.5.   Any person acting in the public interest.
+7.2.   Subject to Regulation 7.10 a complaint submitted to the Regulator must be in writing by completing—
+7.2.1.   an online complaint Form 5 available on the website of the Regulator; or
+7.2.2.   the complaint form, Form 5 which shall be made available at the offices of the Regulator during office hours and any office designated by the Regulator.
+7.3.   The Regulator will assist any person who wishes to make a complaint, to reduce that complaint to writing—
+7.3.1.   Should a complainant require assistance in a language other than English, the Regulator will strive to provide a person competent in the language of the complainant to assist to reduce the complaint to writing—
+
+7.3.1.1. A complaint may be submitted at,
+
+7.3.1.2. The offices of the Regulator during office hours,
+
+7.3.1.3. any other office designated by the Regulator as a place where complaints may be lodged.
+
+7.4.   The office designated by the Regulator in terms of sub-regulation 7.3.1.1.3 shall transfer the complaint to the Regulator within 14 days of receipt of the complaint.
+
+(Editorial Note: Wording of “sub-regulation 7.3.1.1.3” as per GN 6126 of 17 April 2025 read with the amendment regulations on the Information Regulator’s website.)
+
+7.5.   A complaint may also be submitted to the Regulator in the following manner—
+7.5.1.   by fax;
+7.5.2.   by post;
+7.5.3.   by courier, at the Regulator’s physical address; or
+7.5.4.   by email to a designated email address.
+7.6.   The Regulator shall acknowledge receipt of the complaint and provide the complainant with the reference number within fourteen (14) days after receipt thereof.
+7.7.   A complaint form referred to in sections 74 (1) and (2) of the Act shall contain the following information—
+7.7.1.   name(s) and surname / registered name of a complainant;
+7.7.2.   unique identifier/identity number/company registration number of a complainant, if required;
+7.7.3.   address of a complainant;
+7.7.4.   the telephone and facsimile numbers of a complainant and e-mail address, if available;
+7.7.5.   reasons for a complaint;
+7.7.6.   name(s) and surname of a responsible party  / registered name of a responsible party;
+7.7.7.   address of a responsible party;
+7.7.8.   the telephone and facsimile numbers of a responsible party and e-mail address, if available.
+7.8.   A complaint form referred to in section 74 (2) of the Act shall contain the following information—
+7.8.1.   If a complaint is regarding the determination of an adjudicator, the name(s) and surname of the adjudicator; and
+7.8.2.   Any other information that identifies the adjudicator.
+7.9.   A complaint may also contain any other relevant additional information about the incident or matter concerned, which may include—
+7.9.1.   the place and date of the occurrence;
+7.9.2.   particulars of the Information Officer concerned, if known;
+7.9.3.   the names and addresses of any person who could provide information relevant to the complaint, if known; and
+7.9.4.   any other relevant information or documents that may be used during the investigation.
+7.10.   If a complaint lodged with the Regulator contains any personal information which is protected in terms of the Protected Disclosures Act, 2000 (Act No. 26 of 2000) (PDA), the identity of the complainant will be protected.
+7.11.   In the event the complainant wishes his, her or its identity not to be disclosed, valid reasons must be submitted together with the complaint. The Regulator will consider the reasons and inform the complainant of its decision as to whether it accepts or rejects the request for non-disclosure of the complainant’s identity. The complainant will then be able to either withdraw or proceed with the complaint on this basis.
+7.12.   A staff member, duly designated by the Regulator, must render the necessary assistance, free of charge, to enable any person to comply with this Regulation.
+
+[R. 7.1 to R. 7.12 inserted by GN 6126 of 17 April 2025.]
+
+ (Editorial Note: The original regs. 7 (1) and 7 (2) that commenced on 1 July 2021 have been retained as GN 6126 of 17 April 2025 read with the amendment regulations on the Information Regulator’s website are unclear, referring to the insertion of reg. 7.3 to 7.18 but numbering the items as reg 7.1 to 7.12.)
+8.     Regulator acting as conciliator during investigation.—  
+(1)    If during the investigation of a complaint the Regulator decides to act as a conciliator in terms of section 76 (1) (b) of the Act, and convene a conciliation meeting, the Regulator must, as soon as it is practically possible, inform the data subject and the responsible party implicated in the complaint on Form 6 of the following—
+(a)   the Regulator’s decision to act as a conciliator in the matter; and
+(b)   the date, time and place of the conciliation meeting.
+(2)    The Regulator—
+(a)   may consolidate separate complaints, which are alleged to relate to the same interference with the protection of personal information by the same responsible party, in order to deal with the complaints in the same conciliation proceedings;
+(b)   must ensure that all persons entitled to attend the conciliation meeting are notified within a reasonable time, of the date, time and place of the meeting;
+(c)   may request all the relevant documentation relating to the complaint from the data subject and the responsible party; and
+(d)   may confer with the parties in person, by electronic communication means, or by any other means as is deemed appropriate.
+(3)    Where a conciliation meeting fails to take place, the Regulator must arrange for an alternative date and notify the persons entitled to attend the conciliation meeting accordingly.
+(4)    The Regulator must issue a conciliation certificate on Form 7 within a reasonable time after the date of the conclusion of the conciliation meeting.
+(5)    If the complaint is not resolved, or either or both of the parties did not attend a conciliation meeting, the Regulator must proceed with the complaint as provided for in terms of section 76 of the Act.
+
+(Date of commencement of reg. 8: 1 July 2021.)
+
+9.     Pre-investigation proceedings of Regulator.—  
+(1)    If the Regulator intends to investigate any matter contemplated in Chapter 10 of the Act, the Regulator must in terms of section 79 of the Act, notify the parties to whom the investigation relates of such intention on Part I of Form 8 prior to conducting the investigation.
+(2)    The Regulator must inform the responsible party to whom the investigation relates on Part II of Form 8 of the complaint, or the subject matter of the investigation, and must inform the responsible party of the right to submit a written response to the complaint or the subject matter of the investigation within the time allocated by the Regulator.
+
+(Date of commencement of reg. 9: 1 July 2021.)
+
+10.     Settlement of complaints.—  
+(1)    If it appears from a complaint or any written reply to the complaint under section 79 (b) (ii) of the Act or during a conciliation meeting, that it may be possible to secure a settlement between the parties and if appropriate, satisfactory assurances as contemplated in section 80 of the Act, the Regulator may confer with the parties in person, by electronic communication means, or by any other means as is deemed appropriate to endeavour to obtain a settlement and if appropriate, satisfactory assurances as contemplated in section 80 of the Act.
+(2)    If during the process referred to in sub-regulation (1) the Regulator decides to convene a settlement meeting, the Regulator must, as soon as it is practically possible, inform the data subject and the responsible party on Form 9 of the date, time and place of the settlement meeting.
+(3)    For the purpose of settlement proceedings, the Regulator has the same powers of a conciliator contemplated in sub-regulations (2) to (3) of Regulation 8.
+(4)    The Regulator must issue a settlement certificate on Form 10 within a reasonable time after the date of the conclusion of the settlement meeting.
+(5)    If no settlement and assurance is secured or if either or both of the parties did not wish to attend a settlement meeting, the Regulator must proceed with the matter as provided for in terms of section 76 of the Act.
+
+(Date of commencement of reg. 10: 1 July 2021.)
+
+11.     Assessments.—  
+(1)    A request for an assessment in terms of section 89 (1) of the Act must be submitted to the Regulator on Part 1 of Form 11.
+(2)    The Regulator must inform the requester on Part II of Form 11 if it has decided to conduct an assessment on—
+(a)   its own initiative; or
+(b)   as requested in terms of sub-regulation (1);
+
+within a reasonable time from the date that the decision was made.
+
+(3)    The period of assessment will be determined by the Regulator on a case by case basis.
+(4)    The Regulator must notify the requester or the responsible party (if not the requester) of any decision made, or action taken, or view formed on Form 12 within a reasonable time from the date that the decision was made or action taken or view formed.
+
+(Date of commencement of reg. 11: 1 July 2021.)
+
+12.     Informing the parties of developments regarding investigation.—  
+(1)    During the course of an investigation, the Regulator must within a reasonable time from the date of a decision being made or action being taken—
+(a)   keep the complainant, the data subject (if not the complainant) and the responsible party informed of the developments of the investigation; and
+(b)   inform the complainant, data subject (if not complainant) and the responsible party of the result of the investigation.
+(2)    The notifications contemplated in sub-regulation (1) must be served at the designated addresses of the complainant, the data subject and the responsible party advising—
+(a)   on Form 13 that an enforcement notice will not be issued in terms of section 94 (a) of the Act;
+(b)   on Form 14 that the complaint has been referred to the Enforcement Committee in terms of section 92 of the Act;
+(c)   on Form 15 that an enforcement notice has been served in terms of section 95 of the Act;
+(d)   on Form 16 that an enforcement notice had been cancelled or varied in terms of section 96 of the Act;
+(e)   on Form 17 that an appeal has been lodged against an enforcement notice for cancellation or variation of the notice in terms of section 97 of the Act;
+
+[Form 17 deleted by GN 6126 of 17 April 2025.]
+
+(f)   on Form 18 that an appeal against an enforcement notice has been allowed and that an enforcement notice has been substituted in terms of section 98 of the Act; or
+
+[Form 18 deleted by GN 6126 of 17 April 2025.]
+
+(g)   on Form 19 that an appeal has been dismissed in terms of section 98 of the Act.
+
+[Form 19 deleted by GN 6126 of 17 April 2025.]
+
+ (Date of commencement of reg. 12: 1 July 2021.)
+9.     Administrative Fines  
+9.1   The responsible party served with an infringement notice, in terms of section 109 (1) of the Act, and who is unable to pay the administrative fine in a lump sum, may make arrangements with the Regulator to pay the administrative fine in instalments on a case-by-case basis.
+9.2   When determining an appropriate payment period, the Regulator must consider the following factors—
+9.2.1.   The financial circumstances of the responsible party; and
+9.2.2.   Any other relevant compelling reasons that may directly or indirectly impact on the responsible party’s affordability.
+
+[R. 9 inserted by GN 6126 of 17 April 2025.]
+
+ (Editorial Note: GN 6126 of 17 April 2025 read with the amendment regulations on the Information Regulator’s website are unclear, referring to the insertion of reg. 13 but numbering it as reg. 9.1–9.2 with the heading erroneously numbered as reg. 8.)
+10.     Transitional provisions.—  
+
+Anything done under a provision of the Regulations relating to the Protection of Personal Information Act: Regulations: GG 42110, RG 10897, GN 1383, 14 Dec 2018 and which could have been done under a provision of these Regulations, is regarded as having been done under the later provision.
+
+[R. 10 inserted by GN 6126 of 17 April 2025.]
+
+(Editorial Note: Numbering as per GN 6126 of 17 April 2025 read with the amendment regulations on the Information Regulator’s website.)
+
+13.     Short title.—  
+
+These Regulations shall be called the Regulations relating to the Protection of Personal Information, 2018 and shall commence on a date to be determined by the Regulator by proclamation in the Government Gazette.
+
+(Date of commencement of reg. 13: 1 July 2021.)
+
+FORM 1 OBJECTION TO THE PROCESSING OF PERSONAL INFORMATION IN TERMS OF SECTION 11 (3) OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2021  
+
+[Regulation 2.]
+
+[Form 1 substituted by GN 6126 of 17 April 2025.]
+
+
+FORM 2 REQUEST FOR CORRECTION OR DELETION OF PERSONAL INFORMATION OR DESTROYING OR DELETION OF RECORD OF PERSONAL INFORMATION IN TERMS OF SECTION 24 (1) OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013  (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2021  
+
+[Regulation 3.]
+
+[Form 2 substituted by GN 6126 of 17 April 2025.]
+
+
+FORM 3 APPLICATION FOR THE ISSUE OF A CODE OF CONDUCT IN TERMS OF SECTION 61 (1) (B) OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2021  
+
+[Regulation 5.]
+
+[Form 3 substituted by GN 6126 of 17 April 2025.]
+
+
+FORM 4 REQUEST FOR THE CONSENT OF A DATA SUBJECT FOR THE PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSE OF DIRECT MARKETING THOUGH UNSOLICITED ELECTRONIC COMMUNICATION IN TERMS OF SECTION 69 (2) OF THE ACT
+
+[Regulation 6.]
+
+[Form 4 substituted by GN 6126 of 17 April 2025.]
+
+
+FORM 5 COMPLAINT REGARDING INTERFERENCE WITH THE PROTECTION OF PERSONAL INFORMATION/COMPLAINT REGARDING DETERMINATION OF AN ADJUDICATOR IN TERMS OF SECTION 74 OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2021  
+
+[Regulation 7.]
+
+[Form 5 substituted by GN 6126 of 17 April 2025.]
+
+
+FORM 6 NOTICE TO PARTIES: CONCILIATION MEETING REGARDING INTERFERENCE WITH THE PROTECTION OF PERSONAL INFORMATION IN TERMS OF SECTION 76 OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 8 (1).]
+
+
+FORM 7 NOTICE TO PARTIES: CONCILIATION REGARDING INTERFERENCE WITH THE PROTECTION OF PERSONAL INFORMATION IN TERMS OF SECTION 76 OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 8 (4).]
+
+
+FORM 8 NOTICE TO PARTIES OF INTENTION OF REGULATOR TO INVESTIGATE A COMPLAINT IN TERMS OF SECTION 79 OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 9.]
+
+
+FORM 9 NOTICE TO PARTIES: SETTLEMENT MEETING REGARDING INTERFERENCE WITH THE PROTECTION OF PERSONAL INFORMATION IN TERMS OF SECTION 76 OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 10.]
+
+
+FORM 10 NOTICE TO PARTIES: SETTLEMENT REGARDING INTERFERENCE WITH THE PROTECTION OF PERSONAL INFORMATION IN TERMS OF SECTION 76 OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 10.]
+
+SETTLEMENT CERTIFICATE  
+
+FORM 11 REQUEST FOR AN ASSESSMENT SECTION 89 (1) OF THE PROTECTION OF PERSONAL  INFORMATION ACT 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 11.]
+
+
+FORM 12 NOTIFICATION SECTION 89 OF THE PROTECTION OF PERSONAL  INFORMATION ACT 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation (11) (4).]
+
+
+FORM 13 NOTICE TO PARTIES NOT TO ISSUE AN ENFORCEMENT NOTICE IN TERMS OF SECTION 94 OF THE PROTECTION OF PERSONAL INFORMATION ACT, 2013 (ACT NO. 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 12 (2) (a).]
+
+
+FORM 14 REFERRAL TO ENFORCEMENT COMMITTEE IN TERMS OF SECTION 92 OF THE PROTECTION OF PERSONAL INFORMATION ACT 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 12 (2) (b).]
+
+
+FORM 15 ENFORCEMENT NOTICE IN TERMS OF SECTION 95 OF THE PROTECTION OF PERSONAL INFORMATION ACT 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 12 (2) (c).]
+
+
+FORM 16 CANCELLATION OR VARIATION OF ENFORCEMENT NOTICE SECTION 96 OF THE PROTECTION OF PERSONAL INFORMATION ACT 4 OF 2013)
+
+REGULATIONS RELATING TO THE PROTECTION OF PERSONAL INFORMATION, 2018  
+
+[Regulation 12 (2) (d).]
+
+
+FORM 17 . . . . . .
+
+[Form 17 deleted by GN 6126 of 17 April 2025.]
+
+FORM 18 . . . . . .
+
+[Form 18 deleted by GN 6126 of 17 April 2025.]
+
+FORM 19 . . . . . .
+
+[Form 19 deleted by GN 6126 of 17 April 2025.]
+
+____________
+
+
+
+End of Document

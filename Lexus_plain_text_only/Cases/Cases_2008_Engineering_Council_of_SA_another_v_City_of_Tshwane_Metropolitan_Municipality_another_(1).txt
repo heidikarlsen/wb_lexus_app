@@ -1,0 +1,1096 @@
+
+
+
+
+Engineering Council of SA & another v City of Tshwane Metropolitan Municipality & another [2008] JOL 21387 (T)
+Judgments Online
+
+Division: Transvaal Provincial 
+Case No: 2261 / 07 
+Hearing Date(s): 01–02 / 11 / 2007 
+Judgment Date(s): 24 / 01 / 2007 
+Bench: WRC Prinsloo J 
+
+
+Keywords
+
+
+Labour Law — Disciplinary enquiry — Application to restrain — Protected disclosure — Appointment of engineers — Health and safety requirements — Employment equity prioritised — Appointment of designated operators — Safety regulations compromised — Final interdict granted
+Engineering Profession Act 46 of 2000 — Engineering Profession Act 46 of 2000, sections 18 and 39 — Engineering Profession Act 46 of 2000, section 39(2)
+Occupational Health and Safety Act 85 of 1993 — Occupational Health and Safety Act 85 of 1993, section 26 — Occupational Health and Safety Act 85 of 1993, section 26
+Employment Equity Act 55 of 1998 — Employment Equity Act 55 of 1998, section 15 — Employment Equity Act 55 of 1998, section 15(4)
+Protected Disclosures Act 26 of 2000 — Protected Disclosures Act 26 of 2000, sections 2, 4 and 9 — Protected Disclosures Act 26 of 2000, sections 2(1), (3) and 4(1)
+
+Mini Summary
+
+
+The second applicant was an engineer registered with the first applicant, a professional body registered under section 18 of the Engineering Profession Act 46 of 2000 ("the EPA"). In his position as Managing Engineer: Power System Control ("PSC") with the first respondent, a local authority, he had refused to co-operate with the appointment of certain black people who had obtained excessively low marks in performance tests which were part of the selection process. He considered, inter alia, that it would be a danger to the public to appoint them as PSC operators.
+
+Conflict developed between the first applicant and one the municipality's General Managers who had informed the first applicant that, given the employment equity numbers, candidates who "did not comply with equity requirements" would "not be listed at all". As a result certain appointees were removed from the list.  In response the second applicant raised his concerns with other officials and warned them of his intention to report the matter to the Department of Labour, which he did. In addition he asked to be relieved of his duties under regulation 2(7) promulgated under the Occupational Health and Safety Act 85 of 1985 ("OHSA") related to an obligation to ensure various safety requirements.
+
+A few months later he was called before a disciplinary enquiry where he was charged with misconduct for writing the letter to the Department of Labour "without authority". When the matter was postponed the applicants approached the high court for urgent interim relief to interdict the respondents from proceeding with the hearing pending the outcome of this application for a final interdict to restrain the respondents from imposing disciplinary sanction on the second applicant. His defence against the charge of misconduct was that he had had a duty to make the disclosure, which was protected under the EPA, the OHSA and the Protected Disclosures Act 26 of 2000 ("the PDA").
+
+Held that in terms of section 39(2) of the EPA a registered person who, in the public interest, refuses to perform an act, or informs the council or other appropriate authority of an act performed by any other person which is likely to endanger the health or safety of the public or fellow employees, is not liable for that refusal, omission or information. In addition, section 26 of the OHSA forbids victimisation of employees who give information to the Minister "or any other person charged with administration" for refusing to do anything which he is prohibited from doing in terms of the OHSA. The court could therefore not conclude that disciplinary proceedings against the second applicant were lawful. 
+
+Held that section 15(4) of the Employment Equity Act 55 of 1998 forbids employers to take any decision that would establish an absolute barrier to the employment of people who are not from "designated groups". In the circumstances, the court could not express approval for actions taken by the respondents which were aimed at achieving equity transformation regardless of safety considerations. There had to be a sensible balance between employment equity and safety.
+
+Held that the second applicant's disclosure was protected under sections 2(1), (3), 4(1) and 9 of the PDA. He had informed senior officials about his intentions, there was no evidence that they had objected. The applicants had established that the second applicant had a "clear right" to a final interdict. He had no alternative remedy; the application had to succeed. The respondents were accordingly interdicted from imposing any disciplinary sanction against the second applicant.
+
+Page 1 of [2008] JOL 21387 (T)
+
+
+
+
+
+[1]    This matter came before me as a special opposed motion and was argued over two days. Mr Mullins SC, assisted by Mr Swanepoel, appeared for the applicants and Mr Paauw SC, assisted by Mr Shaba, appeared for the first respondent. The second respondent withdrew his initial notice of opposition, so that he did not oppose the application.
+
+Page 2 of [2008] JOL 21387 (T)
+
+Background and brief synopsis of what the case is about
+
+[2]    The second applicant, Mr Weyers, is an adult male electrical engineer. He has been in the employ of the first respondent municipality since 1 December 1996. His current position is that of managing engineer: Power System Control ("PSC") and this has been the case since April 2003.
+
+[3]    The second applicant is registered as a professional engineer with the first applicant as provided for in section 18 of the Engineering Profession Act 46 of 2000 ("the EPA").
+
+[4]    The first applicant is the Engineering Council of South Africa, a juristic person established in terms of section 2 of the EPA.
+
+The first applicant has taken an active part in these proceedings and fully supports the second applicant in his efforts to obtain the relief set out in the notice of motion.
+
+[5]    The second applicant also holds two post graduate degrees from the University of Pretoria, namely, an Honours Degree and a Masters Degree in Electrical Engineering.
+
+Page 3 of [2008] JOL 21387 (T)
+
+[6]    It is not disputed on the papers that some of the professional duties of the second applicant which vested in the latter during his employment with the first respondent would include the following:
+
+His job description is as follows:
+
+"To manage and control the activities of the Power System Control Centre and its operation of branches to ensure that the correct system configurations and safety measures are applied in the City of Tshwane's high, medium and low voltage networks, thereby striving to continuity, quality and safety of electrical supply to all consumers."
+
+He was delegated by Mr G Booysen, the manager: Technical Services of the Municipality, in terms of regulation 2(7) of the General Machinery Regulations, to ensure that various safety requirements imposed by the occupational Health & Safety Act 85 of 1993 ("the OHSA") are complied with. The second applicant's regulation 2(7) certificate of appointment forms part of the papers.
+He was, at all relevant times, a member of the working group that compiled the Municipality's "code for the safe operation and maintenance of the electricity network in the municipality's distribution area".
+
+Page 4 of [2008] JOL 21387 (T)
+
+The primary function of the PSC section of which the second applicant was, at all relevant times for purposes of this application, the managing engineer, is to ensure that the correct systems of configurations and safety measures are applied in the municipality's high, medium and low voltage networks to ensure, inter alia, the safety of electrical supply to all consumers.
+
+[7]    It is not disputed on the papers that there are substantial and defined inherent dangers in the work of PSC system operators. In terms of his job description, the second applicant was responsible for the recruitment and appointment (obviously, in terms of prescribed appointment procedures) of competent PSC system operators who would be able to do this dangerous work without placing the lives and safety of the public and other employees at risk.
+
+[8]    On the papers, it is not disputed that the following are dangers inherent in the work of PSC system operators:
+
+The primary function of the PSC section is to ensure that the correct systems of configurations and safety measures are applied in the first respondent's high, medium and low voltage networks, so as to ensure continuity, quality and safety of electrical supply to all consumers.
+The section is responsible to ensure safe electrical operations on a network. It does this by physically doing operations on a live electrical 
+
+Page 5 of [2008] JOL 21387 (T)
+
+network, after which the said network is declared safe by the PSC's system operators, who issue official permits to this effect. The system can then be worked on by electricians from the respondent's Maintenance & Construction ("M&C") depots.
+
+The PSC section also controls low voltage and limited medium voltage switching, which is done by selected electricians from the M&C depots on selected network components. The M&C depot electricians first require permission from the PSC section for this.
+The PSC section is also responsible to do operations on the live electrical network (on all voltage levels) in the case of complaints about electrical shocks, in order to prevent a power failure (in overload conditions), in order to reconnect a network after a power failure or in order for the M&C depots to do maintenance.
+The work done by system operators employed in the PSC section is significantly more dangerous than the work done by electricians employed in other parts of the first respondent's electrical division. To this allegation in the second applicant's founding affidavit, the first respondent offers a feeble denial without any motivation. It is an unconvincing bare denial. I find the denial completely out of kilter with all the other 
+
+Page 6 of [2008] JOL 21387 (T)
+
+admissions by the first respondent relating to the particular dangers inherent in the work of these PSC system operators.
+
+There are different fault levels associated with different voltage levels. A fault level is the energy which would be emitted if a fault occurs, ie the size of a "spark" or of the electrical explosion which will result from a fault. The higher the voltage level, the higher the fault level and therefore the more potentially dangerous the associated electrical work. Different safety distances apply when working on different voltage levels. A safety distance is the distance that one should be from an electrical uninsulated device to be safe from electrical shock, which is always life threatening.
+Every time an electrical connection in any electrical network is broken by a switch operation, an electrical spark is always created. This happens regardless of the voltage level, but the physical size of the electrical spark is dependent on the voltage level. This is why specialised system operator personnel from the PSC section are utilised to do medium voltage switching. The PSC's system operators must therefore be carefully selected to ensure that they have the necessary technical and safety knowledge and operational adequacy. The PSC's system operator position is therefore a specialist position requiring specialist knowledge. To these latter allegations, the first respondent also offers a weak denial, stating that it is incorrect that the PSC's system operators must be carefully selected, 
+
+Page 7 of [2008] JOL 21387 (T)
+
+as opposed to other employees. This general denial is not in harmony with the other admissions offered by the first respondent to the detailed analysis furnished by the second applicant of the work done by system operators.
+
+All qualified electricians (ie all persons who have received a "red seal" trade certificate as an electrician from the Department of Labour) are qualified to work on low voltage networks. Work on medium and high voltage systems requires specialist skill and knowledge because of the high levels of danger involved.
+The electrical work performed by the PSC's system operators also has considerably greater potential negative implication for power supply to consumers than the work done by the first respondent's ordinary electricians (employed for example in its M&C depots). An electrician employed at such a depot working on low voltage systems might, if he makes an error, affect the power supply to between one and 20 consumers. System operators employed in the PSC section can, if they make an error, cause a power failure to whole suburbs or even a whole town (and accordingly a power failure to hospitals, old age homes, clinics, etcetera).
+
+To these compelling considerations the first respondent only has the following to offer in its opposing affidavit:
+
+Page 8 of [2008] JOL 21387 (T)
+
+"The statements made by the deponent are in essence correct. However, training takes place thus alleviating any potential negative implication for power supply."
+
+Electricians employed by the first respondent in its M&C depots can acquire, after years of relevant experience, the requisite knowledge to qualify them to be appointed as system operators within the PSC system. Whether they are in fact system operators depends on the experience they have had and the manner in which they have applied themselves and acquired the requisite knowledge.
+The high level of danger associated with the PSC system operator's position is such that if one were to appoint a qualified electrician without the requisite skills and experience, that person would be a danger both to himself and to his colleagues. Without the relevant experience and knowledge, including familiarity with the network equipment utilised in the PSC system, it is quite possible for an insufficiently experienced electrician to misunderstand what is required to be done or to erroneously perform dangerous network operations. It happens not infrequently that in order to address a widespread power outage, system operators are required to work at considerable distances from each other but in a co-ordinated fashion. They frequently do this under considerable pressure. Each system operator needs to have complete confidence that 
+
+Page 9 of [2008] JOL 21387 (T)
+
+his colleague is operating the equipment in the correct manner and reporting the relevant status of the network equipment accurately. An error in doing this can easily lead to fatal consequences. In his founding affidavit Mr Weyers, the second applicant, mentions an example of an electrician, Mr Mabe, who took it upon himself to perform certain work which, under normal circumstances, would have been performed by a system operator. In essence, he had to replace a fuse on the 11 kV system. He used gloves which were not sufficient to isolate him from an 11 kV system and experienced a severe electric shock. The official report into the incident concluded that the accident was caused by Mr Mabe's inexperience and failure to comply with the safety regulations.
+
+In his founding affidavit the second applicant also refers to an incident involving Mr Malema whose limited knowledge about the first respondent's safety procedures and operational procedures and his lack of relevant experience in the field led to the electrocution and death of a child.
+It is therefore essential for electricians appointed as system operators to have the requisite experience and skills and it is imperative that the colleagues and supervisors of newly-appointed system operators can justifiably have confidence in the skills of their newly-appointed colleagues.
+
+Page 10 of [2008] JOL 21387 (T)
+
+[9]    It is against this background that events occurred which led to certain managers of the first respondent, lacking the necessary technical expertise, requiring the second applicant to appoint system operators who, in his judgment, simply did not have the skill to do what was required of them if appointed as system operators within the PSC section.
+
+[10]    Brief details of these events will be recorded hereunder, but, for purposes of this background synopsis, it is sufficient to state that the second applicant refused, after raising his concerns at high level meetings of senior managers of the first respondent, to co-operate with the appointment of people who, in his judgment, were not fit to do the job and whose required appointment could lead to the lives of the public and/or fellow employees being endangered.
+
+[11]    It is this confrontational state of affairs which inspired the second applicant to write a letter, not only to senior managers of the second respondent, but also to the Department of Labour and the first applicant, his professional controlling body, expressing his concerns and also asking to be relieved from his professional duties flowing from his regulation 2(7) OHSA appointment, supra.
+
+[12]    It was the writing of this letter, which galvanised the senior officials of the first respondent to take disciplinary action against the second applicant: this particular letter in which the second applicant expressed his concerns, supra, and which he 
+
+Page 11 of [2008] JOL 21387 (T)
+
+addressed to senior officials of the first respondent and to the Department of Labour and his governing body, the first applicant ("the letter"), was written on 31 August 2005. On 2 February 2006 the second applicant received the written "charge of misconduct" from the first respondent, setting out certain allegations against him. On 29 May 2006 the disciplinary enquiry commenced before the second respondent. The second applicant pleaded not guilty to all the charges and furnished the second respondent with a comprehensive explanation of his defence.
+
+[13]    On 7 August 2006 the first respondent municipality commenced to lead its evidence against the second applicant. Thereafter, on 16 August 2006, the municipality abandoned all the charges against the second applicant, other than charge one. There was some debate on the papers as to whether or not an alternative charge to charge 1 had also been abandoned, with the second applicant stating that it had, and the first respondent stating that it had not. Nothing turns on this. In the opposing affidavit it is conceded that the alternative to charge 1 in any event "fell away" with the conviction on the main charge 1.
+
+[14]    On 12 September 2006, the second respondent, who presided over the proceedings, handed down his written judgment finding the second applicant guilty of charge 1.
+
+Page 12 of [2008] JOL 21387 (T)
+
+[15]    After this finding, the second applicant was notified that the disciplinary enquiry would resume on 23–24 January 2007 for purposes of hearing evidence and argument in relation to the question of sanction.
+
+[16]    On 23 January 2007 both applicants appeared, through their respective legal representatives, at the resumption of the disciplinary enquiry and requested the second respondent to postpone the matter pending the relief sought by the applicants in this application (which had by then not yet been launched). The application for postponement was refused by the second respondent whereafter the applicants launched an urgent application for interim relief.
+
+[17]    On 27 February 2007 this Court granted an interim order in favour of the present applicants, pending finalisation of this application, whereby the respondents were interdicted from continuing with the disciplinary hearing against the second applicant and/or imposing any disciplinary sanction upon him for his conduct in sending copies of the letter to, inter alia, the first applicant and the Department of Labour.
+
+[18]    Prayer 1 of the present notice of motion reads as follows:
+
+That the first and second respondents be interdicted from imposing any disciplinary sanction on the second applicant for his conduct in sending copies of a letter to the First Applicant and the Department of Labour on or about 31 August 2005."
+
+Page 13 of [2008] JOL 21387 (T)
+
+[19]    Initially there were no fewer than six charges. As already indicated, they were all abandoned with the exception of charge 1. Charge 1 reads as follows:
+
+"You have contravened clause 1.1.1 which reads: 'employees are expected to comply in every respect with the conditions of employment and collective agreements and any related regulation, order, policy and practice and to refrain from any conduct which would give just cause for discipline' in that on or about 31 August 2005 and at Pretoria, you copied a letter you had written to the SEO electricity department, to the external organs, that is, the Department of Labour and the Engineering Council of South Africa. The said letter was written and copied without authorisation and/or prior approval and/or knowledge of the Head of Electricity Department."
+
+In its opposing affidavit, the deponent on behalf of the first respondent says the following:
+
+". . . before sending the letter to ECSA [ie the first applicant] and the Department of Labour, he [Mr Weyers] should at the very least have taken what he perceived as concerns to the highest level within the First Respondent [the Municipality]. He did not do so."
+
+Page 14 of [2008] JOL 21387 (T)
+
+[20]    In his papers, the second applicant furnishes detailed accounts of occasions on which he expressed his concerns to senior management of the first respondent. I mention a few examples:
+
+In the letter itself the second applicant records that he had raised his concerns.
+On 10 August 2005 (about three weeks before he wrote the letter) Mr Weyers attended a top management meeting where the following took place: when asked to report on personnel issues in his division, he reported that he had been in touch with the first applicant to obtain advice as to his professional obligations if he found himself in a situation where he believed he was being forced to make appointments of personnel who he believed to lack (sic) the requisite competencies. He reported that he had been advised that, as a professional engineer, it would be regarded as unprofessional and misconduct for him to appoint persons to positions which might give rise to safety risks if he was of the view that they were not competent for such positions. He reported that he had been advised that if he was forced by his employer to make such appointments, he would be obliged to report this fact to the first applicant.
+
+This emphatic statement in the founding affidavit is met with the following response in the opposing affidavit:
+
+Page 15 of [2008] JOL 21387 (T)
+
+Dr Lukhwareni denies that a top management meeting took place on 10 August 2005.
+In the circumstances, these allegations are denied and the first respondent puts the applicants to the proof of these allegations."
+
+This unacceptable bare denial is met, in reply, by Mr Weyers when he attaches a copy of an email message sent to top management by an official of the first respondent which reads as follows:
+
+"Dear Colleagues
+
+Due to unforeseen circumstances the top management meeting will be reschedule (sic) for the 10 August 2005 at Rooiwal.
+
+Regards."
+
+While on the subject of bare denials, I point out that the opposing affidavit is littered with unacceptable bare denials and repeated statements that the respondent's witnesses "cannot recall" whether this or that happened or not. The following examples may suffice: in paragraphs 87, 88 and 89 of his founding affidavit Mr Weyers says the following:
+
+I should make clear that, although I cannot recall the date on which I first contacted the first applicant about this issue, I believe it must have been on or after 4 August 2005, 
+
+Page 16 of [2008] JOL 21387 (T)
+
+the date on which Mahlangu made clear that only EE candidates would be considered for appointment and expressed the view that the lack of skills and expertise of the black applicants was not their fault and therefore, by implication, should be disregarded. I spoke initially to one Colonel Jordaan, who had given me the advice referred to above which I conveyed to the respondent at the abovementioned meeting.
+
+Mahlangu responded that the first applicant could not dictate to the respondent on how to appoint staff. I responded that they probably could not, but that they could definitely instruct professional engineers how to conduct themselves. I stated that I believed that appointing incompetent candidates was in breach of a professional engineer's obligations, that I was unwilling to do so, and that I would report such appointments to the first applicant.
+My comments caused considerable disquiet. During an adjournment of the meeting, Lukhwareni approached me and asked me, in a friendly manner, why I was upsetting the people so much. Lukhwareni is himself a professional engineer bound by the same professional responsibilities as 
+
+Page 17 of [2008] JOL 21387 (T)
+
+myself. I responded that, as a professional engineer, I had certain responsibilities and that I thought that he, as a professional engineer, would understand my position. He did not really respond or express a view in this regard."
+
+The allegations in these paragraphs attracted the following comments from the first respondent:
+
+Ad paragraph 87:
+
+I cannot comment on what transpired between Mr Weyers and Mr Jordaan. I have no knowledge of the competence of Mr Jordaan to give any advice."
+
+(Note that the first portion of the Weyers paragraph is not commented upon.)
+
+Ad paragraph 88:
+Mr Mahlangu informed Mr Weyers that ECSA (ie the first applicant) could not dictate to the first respondent on the appointment of staff. Mr Mahlangu cannot recall whether in fact there was any reference of a referral to ECSA.
+
+Page 18 of [2008] JOL 21387 (T)
+
+Dr Lukhwareni cannot recall that the matter would be referred to ECSA. [Emphasis added.]
+Dr Lukhwareni stressed that head hunting was inappropriate in the circumstances. It will not necessarily have the desired effect to attract fully qualified and experienced persons for the position, whatever the suggestions of Mr Weyers may be.
+Ad paragraph 89:
+Dr Lukhwareni met with Mr Weyers and asked him why he was upsetting people about the filling of the number of the Government Competency Certificate posts. It was not about the issues which formed the subject-matter of his complaints set forth in the letter of 31 August. [This I find totally improbable: the whole debate centered around the relevant issues forming the subject of this case. I can see no reason why a different issue would have been introduced.]
+Dr Lukhwareni was not interested to take sides and therefore did not express a view."
+
+Page 19 of [2008] JOL 21387 (T)
+
+Paragraph 90 of the Weyers founding affidavit reads as follows:
+On 15 August 2005 I attended a management interaction meeting. The meeting was chaired by Lukhwareni. He encouraged all those present to raise any problems that they had, without having the fear of being victimised for doing so, in order for him to see if he could solve such problems. I regarded the failure to appoint candidates in my section, including system operators, as an important problem that needed to be addressed. I therefore took my courage in my hands and made the following points:
+I stated that it seemed to be impossible to find any more internal EE candidates with the necessary competencies to and experience within the first respondent's existing staff.
+I therefore requested that 'head hunting' should be done by HR to find external EE candidates with the necessary competencies to fill the various positions.
+I proposed to Lukhwareni that he make available to me forty electricians already in the employ of the first respondent who had their 'red seal' electricians 
+
+Page 20 of [2008] JOL 21387 (T)
+
+certificate for training by myself. At the same time I requested that I be permitted to appoint immediately the necessary fully competent personnel to address immediate needs.
+
+I stated that appointing candidates simply for the sake of employment equity was not in the interests of the first respondent and would negatively influence both service delivery and safety.
+My intervention was minuted in corrections to the minutes of the relevant meeting, which were effected at a subsequent meeting held on 10 October 2005 . . .
+I received no response from Lukhwareni. He did not contradict my assertion that appointing candidates simply for the sake of employment equity could adversely affect safety."
+
+The response in the opposing affidavit reads as follows:
+
+Page 21 of [2008] JOL 21387 (T)
+
+Ad paragraph 90:
+It is correct that the meeting was held on 15 August 2005.
+It is correct that the four points were raised at the meeting. . . . I emphasise, however, that what is recorded in paragraph 90.4 indicates the ignorance of Mr Weyers of the role and function of employment equity and the relevant policies in that regard."
+Paragraph 97 of the Weyers affidavit reads as follows:
+I responded at the meeting on 29 August that I was not prepared to sign this short list. I stated that I regarded this as incompatible with my professional duties. I stated that Mahlangu was proposing to short list some of the very worst candidates and that this was not in the interest of safety or of providing proper service delivery. I said that if these candidates were appointed, I would put safety at risk. I told Mahlangu that if he continued with the process, I would write a letter to his previous employer, the Department of Labour, reporting this whole issue to them. His words were: 'You can write a letter – I don't care.' I also recall that he said that he will take full responsibility.
+
+Page 22 of [2008] JOL 21387 (T)
+
+I should point out that Mahlangu is neither a professional engineer nor is he legally accountable (as I was) for the safety of my staff."
+
+The response to be found in the opposing affidavit is typically evasive:
+
+Ad paragraph 97:
+As regards the threat of Mr Weyers to write the letter to the Department of Labour, Mr Mahlangu denies that he had said anything about it. Mr Mahlangu does not recall the meeting. In the absence of minutes, Mr Mahlangu cannot comment on the allegations. [Emphasis added.]
+Mr Mahlangu having taken full responsibility for the consequences (on Mr Weyers' version), Mr Weyers had in fact discharged any obligations that was upon him. It does not matter that Mr Mahlangu is not a registered engineer. He is an electrical engineer. By virtue of his position as the person in charge of transformation management, Mr Mahlangu remained accountable. In any event, Mr Weyers had already discharged his obligations in terms of regulation 2(7) by reporting to Mr Booysen 
+
+Page 23 of [2008] JOL 21387 (T)
+
+and other persons higher up in the first respondent's hierarchy."
+
+In his replying affidavit, Weyers, correctly, points out that the opposing affidavit contains a clear contradiction because in paragraph 133.2 thereof there is an admission that the meeting of 29 August took place and that Mahlangu was present. This is another example of the evasive and unsatisfactory nature of some of the submissions offered by the first respondent in the opposing affidavit.
+
+[21]    Reverting to the single complaint raised by the first respondent when defending disciplinary charge 1, namely that ". . . before sending the letter to ECSA and the Department of Labour, he [Mr Weyers] should at the very least have taken what he perceived as concerns to the highest level within the First Respondent [the Municipality]. He did not do so.": it is patently clear, from the examples extracted from the papers, that Weyers indeed raised his concerns repeatedly at high level meetings with the managing officials of the first respondent.
+
+[22]    As to the allegation in charge 1, supra, that "the letter was written and copied without authorisation and/or prior approval and/or knowledge of the head of electricity department", I could find no evidence, neither do I recall any argument from either side, to the effect that Weyers was obliged to obtain such prior authority or approval before writing the letter.
+
+Page 24 of [2008] JOL 21387 (T)
+
+[23]    The main thrust of the second applicant's defence to the charge, such as it is, is that he had a duty to make these disclosures for the reasons already emerging from extracts quoted from the papers, and, in particular, the first applicant also relies on statutory protection: he refers to at least three statutes containing clauses indemnifying or protecting the maker of such disclosures from prosecution and/or victimisation. These statutes are the EPA, the OHSA and the Protected Disclosures Act 26 of 2000 ("the PDA").
+
+[24]    These statutes will require further attention hereunder, but it is the belief of the applicants that the second applicant is protected by these statutes, which inspired them to apply for the interdictory relief to restrain the first respondent from taking further disciplinary action against the second applicant.
+
+The letter
+
+[25]    The contents of the letter is a factor relevant to determine whether or not the second applicant complied with the requirements for indemnity or protection in terms of the three statutes mentioned.
+
+[26]    In the result, although it is a lengthy document, I find it necessary and convenient to quote the contents of the letter.
+
+ "CAPITAL PARK CONTROL CENTRE 31 August 2005
+
+The SEO Electricity
+
+Page 25 of [2008] JOL 21387 (T)
+
+Mr N Lukwareni
+
+Department: Electricity
+
+City of Tshwane Metropolitan Municipality
+
+CC: The General Manager: Electricity Development and Energy Business
+
+The Municipal Manager
+
+(City of Tshwane Metropolitan Municipality)
+
+The Department of Labour
+
+The Engineering Council of South Africa
+
+SHORT LISTING OF INCOMPETENT CANDIDATES
+
+Dear Sir
+
+In my capacity as Professional Electrical Engineer bound by the Engineering Profession of South Africa Act, 1990 (Act 114 of 1990), and as a Municipal Staff member bound by the Code of Conduct of the City of Tshwane Metropolitan Municipality (council resolution 1 November 2001), I am compelled to inform the council about possible irregularities in the process of the appointment of personnel in the Power System Control section of which I am the Managing Engineer.
+
+As the section of Power System Control is primarily involved in ensuring the supply of electricity to the Tshwane community and is required to work with dangerous live electrical equipment, the Managing Engineer sets high standards in appointing staff that has the best skills and competencies in the field. It is my professional opinion that academic 
+
+Page 26 of [2008] JOL 21387 (T)
+
+qualifications alone, is not sufficient and therefore all applicants are tested on their knowledge of the theory, work, electrical network and of safety procedures. These tests are approved by human resources before being used.
+
+After obtaining the test results, the best candidates are invited for an interview. It was, however, found that the highest marks are mostly obtained by white candidates, and in order to adhere to the Employment Equity (EE) Act, 10% was added to each EE candidate's test results to give them a better chance of being invited to an interview.
+
+This whole process was implemented in order to appoint System operators and a short list was ready to be signed by HR on 8 April 2005. There was a great deal of unhappiness from HR as the short list only contained white candidates, purely for the reason that they scored the highest marks and that it would be in the best interest of Council to interview such candidates for possible employment in a section. It was decided by HR and Top Management of Electricity to re-advertise the positions externally to draw a greater compliment of possible EE candidates. With this done the candidates were tested again and again very little EE candidates proved to be competent enough. No further actions as suggested by myself, such as 'Head Hunting' or the use of personnel agencies to find specific 
+
+Page 27 of [2008] JOL 21387 (T)
+
+candidates, was taken by HR to find the right EE candidates for the positions.
+
+On 29 April 2005 I was involved in a meeting with HR and Members of Top Management where it was decided that my competency test marks will be totally disregarded and only black candidates, some of who scored the worst in the tests, be short listed. This was done for the positions of System operator, System Controller and Dispatch agent, all positions that is critical for effective and safe service delivery.
+
+The personnel structure of the section of Power System Control currently consists of 54.5% EE candidates, 1,5% women and 44% white candidates. The Technical Service section under which Power System Control resides has 48% EE personnel, 4.3% Female personnel and 47.7% White personnel.
+
+The report to council 23 June 2005: ELECTRICITY DEPARTMENT: SUPPORT SERVICES DIVISION UPDATE ON THE EMPLOYMENT EQUITY STATUS OF THE DEPARTMENT AND PLANS TO ACCELERATE THE PROCESS, where the equity target is set at 50% was disregarded by the short list team, all white candidates' applications were removed and only black candidates' applications were accepted, no one cared about the levels of competency of persons being short listed.
+
+Page 28 of [2008] JOL 21387 (T)
+
+I raised my concern about the fact that it should not be a question of white or black but of the most competent person in order for it to be in the best interest of the Council's Service Delivery and Electrical Safety. The General Manager responded to my concern by implicating me of being a racist.
+
+The decision was however taken that all black candidates will be send (sic) for training at Escom and will be certified competent by Escom before they are allowed to perform operational functions in the Power System Control Section. (Arrangements with Escom has (sic) yet to be made and money for the training must still be found.)
+
+I wish to confirm that I support the policy to train EE candidates to increase levels of competent service delivery to the public. This is in the best interest of our Municipality. I have on different occasions proposed to different members of HR and Top Management to give me thirty EE candidates in special training positions created for the purpose, who will then be trained on the job, – but as the section is an operational section with immense staff shortages, the personnel needed now has to be competent to perform the work required of them without endangering their own lives, the lives of their colleagues or that of the public.
+
+Page 29 of [2008] JOL 21387 (T)
+
+I believe that the short listing of the candidates with the lowest competency levels, even though they will be send (sic) for training (probably for a period of two months) is not in the best interest of the council. With the current staff levels of Power System Control at a mere 58%, having no competent people appointed and with the possibility of training be done that may take a great deal of time, or even may not materialise at all, it is my Professional opinion that the following Acts, collective agreements and codes could be contravened: Code of Conduct for Municipal Staff Members 2. General conduct, (d); 3. Commitment to serving the public interest, (b) the eighth principle of Batho Pele: give the best possible value for money.
+
+Occupational Health and Safety Act, Act 85 of 1993.
+
+General machinery regulations.
+
+Operations of machinery 4.(1)(6)
+
+Working on moving or electrically alive machinery 5.(1)
+
+Official circular of CTMM: Circular 64 of 2004.
+
+Municipal Systems Act 2000.
+
+Organisation of administration 51.(g) – (i) and (m)
+
+Municipal services: general duty 73.(2)(b)(i) and (ii)
+
+I wish therefore to distance myself from this process, and wish to be exonerated of the negative impact this process might have on the performance of the Power System Control section, the Electricity Department, the Council and the public of Tshwane in regard to safety as 
+
+Page 30 of [2008] JOL 21387 (T)
+
+well as service delivery. I also would like to humbly request that my 2(7) appointment according to the OHS Act hereby be withdrawn and that someone else be appointed in that capacity.
+
+Please be assured that despite of this problematic situation, I remain committed to do my job to the best of my ability and with necessary diligence with the limited resources I have, whilst acting in the best interest of the City of Tshwane Metropolitan Municipality.
+
+I eagerly await your response regarding the abovementioned issues and am looking forward to receiving guidance from your office in respect of the issues raised by me in this letter.
+
+Regards
+
+A J WEYERS
+
+42159-3
+
+(M.Eng, Pr. Eng, MSAIEE)"
+
+[27]    When considering the statutory protection relied upon by the applicants, I will revert briefly to the contents of the letter.
+
+Page 31 of [2008] JOL 21387 (T)
+
+The disciplinary proceedings
+
+[28]    The merits (or lack thereof) of the second respondent's decision to convict the second applicant on charge 1 are not before me for decision. Nevertheless, I consider it appropriate to make a few brief remarks.
+
+[29]    I have already quoted charge 1. It involves nothing more and nothing less than the second applicant's action of sending a copy of the letter to his governing body, the first applicant and to the Department of Labour. I have illustrated that there is clear evidence in the papers that the second applicant raised his concerns with his senior management before writing the letter. There is clear evidence that he warned the senior officials of his intention to write the letter, and to copy same to the parties concerned. There is no evidence of a prohibition against writing the letter to the outside parties. There is no evidence about prior approval or authority having to be obtained. The respondents concede in the opposing affidavit that, at least, Weyers was entitled to write the letter internally to his own superiors. There is no evidence to the effect that the contents of the letter are to be classified as confidential. Such an argument was not raised before me.
+
+[30]    According to the second applicant and his attorney (who filed a verifying affidavit) an agreement was reached between the parties on 16 August 2006 (after the proceedings had already commenced on an earlier date) and after the employer (first respondent) had abandoned all charges with the exception of charge 1, that no further evidence would be led and that the litigants would 
+
+Page 32 of [2008] JOL 21387 (T)
+
+present their cases in the form of legal argument contained in written heads of argument.
+
+[31]    On the same day when this agreement was reached the second applicant's attorney recorded the agreement in writing in a letter which he telefaxed to his opposite number, the prosecutor appearing on behalf of the employer. A copy of the letter, dated 16 August 2006, and written by telefax to the inhouse prosecutor and typed on the letterhead of the second applicant's attorney, forms part of the papers and reads as follows:
+
+"Disciplinary enquiry: AJ Weyers
+
+With reference to what has transpired today during the disciplinary hearing, we confirm that the parties have recorded the current state of affairs as follows:
+
+As a result thereof that all the allegations levied against the employee stand and fall by the subject-matter of whether our client had a positive duty to report to the external organs (Department Labour and ECSA), the employer abandoned all charges with the exception of charge one; and
+the proceedings adjourn by agreement to Monday 21 August 2006 at 13:30 subject to what is stated hereunder; and
+
+Page 33 of [2008] JOL 21387 (T)
+
+no further evidence and/or examination of witnesses shall be necessary; and
+Mr Weyers be found not guilty of charges 1 (alternative), charge 2, charge 3, charge 4, charge 5 and charge 6; and
+the respective representatives prepare legal arguments on the issues raised in charge 1 and specifically addressing the tribunal on the duty of our client to report (or not to report) to the abovementioned external organs; and
+the parties are expected to assist the chairperson by submitting written heads of argument to supplement the oral argument; and
+the chairperson be afforded an opportunity to adjourn the hearing in order to consider all arguments, whereafter the party shall reconvene to note the findings; and
+should it prove necessary, the parties shall then present the chairperson with arguments on mitigating and aggravating circumstances.
+
+Page 34 of [2008] JOL 21387 (T)
+
+We trust you find the above in order and shall meet with you on Monday first coming.
+
+Yours faithfully" (emphasis added).
+
+[32]    It is not disputed that the first applicant's attorney then prepared comprehensive heads of argument setting out the case of the first applicant in great detail and containing all the arguments relating to the statutory protection relied upon. There are also arguments based on the provisions of the Constitution of the Republic of South Africa, 1996 ("the Constitution"). I add that in the present application, the applicant also relies on certain sections of the Constitution to which I shall refer later.
+
+[33]    During the disciplinary enquiry it was not disputed by the second applicant that he had written and copied the letter. In addition to the other agreements reached between the parties, supra, it was also orally agreed that all the documents placed before the chairperson were what they purported to be.
+
+[34]    The heads of argument were handed to the second respondent when the hearing continued and, according to the second applicant and his attorney, a copy of the letter of 16 August was attached to the heads of argument.
+
+Page 35 of [2008] JOL 21387 (T)
+
+[35]    The pro forma prosecutor does not deny having received the letter of 16 August 2006, supra, but, in typical evasive fashion, the following is said in the opposing affidavit:
+
+The pro forma prosecutor (Mr Mthimunye) denies the correctness of the letter dated 16 August 2006 ('AJW11'), which purports to record the contents of the agreement. According to him, paragraphs 1.1 and 1.2 are correct. However, paragraph 1.3 is incorrect. Paragraph 1.4 is incorrect to the extent that the alternative to charge 1 was dropped. I am advised that nothing turns on paragraph 1.4. Of importance, however, is the dispute concerning paragraph 1.3.
+There is a further dispute as to whether 'AJW11' had been attached to the heads of argument filed on behalf of Mr Weyers. Mr Mthimunye advises that it was not attached to the heads of argument furnished to him. It is apparent from the affidavit of the second respondent that he, too, did not have sight of this agreement. However, I submit that even if this document had been made available to the second respondent, it cannot be interpreted so as to mean that any unproven allegations could be made . . ."
+
+[36]    The deponent does not say in which respect paragraph 1.3 is incorrect. That is of course the paragraph which states that no further evidence and/or examination of 
+
+Page 36 of [2008] JOL 21387 (T)
+
+witnesses shall be necessary. I find it totally improbable that the attorney would have recorded such an arrangement if it had not been made. Mthimunye never responded to the letter or attacked the correctness thereof. This is another example of the unsatisfactory manner in which the respondents dealt with the case advanced by the applicants. Generally, I find the submissions on behalf of the respondents evasive and unconvincing. Some of the reasons for these observations I have articulated.
+
+[37]    True to the agreement relied upon, the second applicant's attorney truncated his cross-examination of the single witness led by the employer, Mr Lukhwareni, and presented his case on the strength of the legal argument.
+
+[38]    A few weeks after the proceedings were concluded, the second respondent handed down his written reserved judgment. About the development midway through the proceedings he said the following:
+
+"I wish to state that in the middle of the cross-examination of the witness by Mr Bakker, the defence and the prosecution agreed that the employer was abandoning charges two to six and would deal with charge one only. This was confirmed by the defence. Mr Mthimunye stated that he was no longer going to call further witnesses in view of the fact that he has abandoned the last five charges against the accused employee.
+
+Page 37 of [2008] JOL 21387 (T)
+
+I asked Mr Bakker if he had any further questions to the witness in view of the latest developments in this hearing and he said that he had no further questions. Mr Mthimunye closed his case in the absence of the witness who would have been called in case Mr Bakker had any further questions to ask Mr Lukhwareni.
+
+The matter was then adjourned for arguments. At argument stage I enquired from Mr Bakker to indicate to me if he was not going to call a witness before arguments are presented and he stated that he was not. He closed the accused employee's case without calling a witness."
+
+[39]    This was obviously in line with the agreement reached. I find it totally improbable that the attorney would have closed the case without calling further evidence in the absence of the agreement relied upon. The diligence with which the attorney compiled his heads of argument militates against a conclusion that he would have, for no reason at all, let down his client by closing the case without properly protecting his interests.
+
+[40]    Astonishingly, the second respondent, in his judgment, made no mention whatsoever of the comprehensive legal argument contained in the heads of argument submitted on behalf of the second applicant. The presiding officer concluded that there was only one case before him, and nothing in rebuttal. The fact that documentation were agreed to be what they purported to be did not 
+
+Page 38 of [2008] JOL 21387 (T)
+
+elevate the documentation to evidence. He duly convicted the second applicant. In his own answering affidavit, the second respondent reiterated that he did not see the letter of 16 August but added: 
+
+"However, even if I had known of the contents thereof, I do not interpret paragraph 1.3 to mean that no further evidence was necessary and that there was no obligation upon Mr Weyers to testify . . ." 
+
+He does not explain or motivate this conclusion. It is difficult to understand how he can arrive at such a conclusion because 1.3 simply states exactly that "no further evidence and/or examination of witnesses shall be necessary". It is also significant that the second respondent does not attack the correctness of the agreement as contained in paragraph 1.3, as did Mthimunye.
+
+[41]    Although I am not called upon to make a decision on the matter, I cannot escape the conclusion that the proceedings were seriously flawed, for the reasons mentioned, and that the second applicant did not have a fair hearing.
+
+The first applicant
+
+[42]    The interaction between second applicant Weyers and the first applicant, and, particularly, the advice given by the latter to the former before the letter was written, are, in my view, relevant for purposes of deciding whether or not Weyers qualifies for indemnity and/or protection in terms of the relevant statutory provisions.
+
+Page 39 of [2008] JOL 21387 (T)
+
+[43]    The deponent to the first applicant's founding affidavit is Mr Anthony Faul. He is the manager: Legal Services of the first applicant. He confirms that the first applicant is the Engineering Council of South Africa, a juristic person established in terms of section 2 of the EPA.
+
+[44]    Crucially, Mr Faul states in his affidavit that Weyers sought advice on several occasions before he wrote the letter and he was ultimately advised by the first applicant to write the letter. Weyers initially communicated on several occasions with Colonel Jordaan, an employee of the first applicant. Colonel Jordaan's advice was, in brief, that as a professional engineer, it would be contrary to the second applicant's professional responsibilities and obligations to appoint electricians to posts for which he did not believe that they had the requisite experience and skills with the result that safety concerns arose. This advice came from Colonel Jordaan on more than one occasion.
+
+[45]    On the morning of 24 August 2005 second applicant Weyers telephoned Mr Faul himself. He was at his wit's end. He told the deponent that his employer, the first respondent, was disregarding tests that he had devised for selecting system operators to be appointed to posts for which he was accountable. His employer wanted to force him to make these appointments. In his judgment, these appointees would not be competent for the relevant posts and safety considerations came into play.
+
+Page 40 of [2008] JOL 21387 (T)
+
+[46]    Deponent Faul asked the second applicant whether he had an electrical engineers certificate of competency and he confirmed that he did. Such a certificate is issued in terms of OHSA and potentially made the second applicant accountable in terms of that Act for safety issues which he failed to address. A copy of the second applicant's certificate forms part of the papers. I add that Colonel Jordaan also filed a verifying affidavit.
+
+[47]    Deponent Faul also established that the second applicant was a "registered person" as defined in the EPA, by virtue of the fact that he is a qualified and registered professional engineer. Faul advised the second applicant to report his concerns to the respondents' mayor and advised him that he was obliged to report his concerns both to the first applicant and to the Department of Labour.
+
+[48]    In giving this advice, Faul was aware of, and had in mind the Code of Conduct for registered persons drawn up by the first applicant pursuant to section 27(1) of the EPA. In terms of section 27(3), all registered persons must comply with the Code of Conduct and failure to do so constitutes improper conduct, for which sanctions may be imposed by the first applicant in terms of the EPA. Deponent Faul also had in mind rule 2(a) thereof which provides as follows:
+
+"Registered persons. In fulfilling the objects contemplated in rule 1 – (a) must have due regard to public safety, public health and the public interest generally."
+
+Page 41 of [2008] JOL 21387 (T)
+
+Deponent Faul was of the opinion that this rule made it improper conduct for the second applicant, as a registered person, to be party to anything which, in his professional judgment, was incompatible with public safety, public health and the public interest generally.
+
+[49]    Equally important, in my view, was the fact that deponent Faul was alive to the provisions of section 39(2) of the EPA which provide as follows:
+
+A registered person who, in the public interest – (a) refuses to perform an act; (b) omits to perform an act; or (c) informs the council [a reference to the first applicant] or other appropriate authority of an act or omission performed by any other person, which act or omission endangers or is likely to endanger the safety or health of the public or fellow employees, is not liable for that refusal, omission or information."
+
+[50]    Deponent Faul makes the submission that if the second applicant informed the first applicant and the Department of Labour of the concerns that he had drawn to the attention of Mr Faul, he could not be subjected by his employer to any disciplinary action by virtue of the provisions of section 39(2) of the EPA.
+
+[51]    After it became apparent that the second applicant was to be subjected to disciplinary action because of the letter he had written, deponent Faul, on behalf of the first applicant, attempted to assist the second applicant by writing letters 
+
+Page 42 of [2008] JOL 21387 (T)
+
+both to the second applicant and to the first respondent. The last-mentioned letter was sent on 28 March 2006. It deals with all the relevant issues. It expresses the view that Weyers performed an act in good faith and in terms of his obligations. The first respondent ignored the letter and proceeded with the disciplinary proceedings.
+
+[52]    In September 2006 second applicant Weyers again approached the first applicant for advice and assistance. This resulted in the first applicant sending a letter, on 19 October 2006, to the respondents' executive mayor. The first applicant expressed shock at the decision to discipline the second applicant.
+
+[53]    That letter was responded to by the first respondent on 23 November 2006. The first respondent accused the first applicant of interference in its affairs, disputed various contentions set out in the first applicant's letter and refused to review or reverse its decision to discipline the second applicant.
+
+[54]    I find it convenient to quote the last two paragraphs of Mr Faul's founding affidavit:
+
+The First Applicant is greatly concerned about the possible consequences if the First Respondent should be permitted to impose a disciplinary sanction (whether a dismissal or otherwise) for sending the letter to the First Applicant and to the Department of Labour. That letter was sent at my behest, acting within the 
+
+Page 43 of [2008] JOL 21387 (T)
+
+course and scope of my authority as a representative of the First Applicant. Section 39(2) of the EPA protects the Second Applicant against adverse consequences for sending such a letter. If the First Respondent is seen to take disciplinary steps against the Second Applicant, this will have a dangerous 'chilling' effect and will act as a disincentive to others who may be contemplated (sic) reporting acts or omissions which endanger or are likely to endanger the safety or health of the public or fellow employees to the First Applicant or to other appropriate authorities. It is, I admit, in the public interest that such persons should not be discouraged from making such reports. It is therefore imperative (if this Honourable Court concurs with the First Applicant's submission as to the effect of section 39(2)) that an interdict should be granted restraining the respondents from acting in breach of their obligations.
+
+No suitable alternative remedy exists. The prejudice caused by the Respondent being permitted to impose a disciplinary sanction on the Second Applicant, and being seen to do so, may cause incalculable harm to the public interest and to the policy which the EPA is designed to advance."
+
+Page 44 of [2008] JOL 21387 (T)
+
+[55]    I find myself in respectful agreement with these sentiments in the context of this particular case.
+
+[56]    The first respondent does not agree. In its opposing affidavit, it is said, "ECSA had no business to interfere in the decisions and internal matters of the first respondent". It also says "the Department of Labour and ECSA have no business with what happens internally within the first respondent in respect of the application of discipline".
+
+In fairness, it must be said that the first respondent, in expressing these views, refers to its letter of 23 November 2006, supra, which deponent Faul attached to his founding affidavit to illustrate that the first applicant's request for the disciplinary steps against second applicant Weyers to be reconsidered, were rejected out of hand. This is a lengthy letter, containing strong, emotional and, in my view, argumentative matter. The main thrust of the letter appears to be that there was no factual basis for Weyers to conclude that the equity candidates which the first respondent proposed appointing as system controllers were not suitable to do the work.
+
+Of course, the whole letter should be read in its full context, but an example of the oft repeated sentiments therein contained may be quoted for illustrative purposes:
+
+"Your purported stance to this end in the main seems to suggest and perpetuate a culture of anarchy and insubordination by your members and 
+
+Page 45 of [2008] JOL 21387 (T)
+
+organisations (simply because their (sic) engineers), even if it is in breach of Council policies, Code of Conduct and Disciplinary Code Collective Agreement."
+
+And:
+
+"Your organisation should at very least be ashamed of jumping the gun and reaching conclusion prior to having sight of the outcome of the hearing and the reasons by the independent learned Chairperson of the Tribunal for his finding of guilt."
+
+And:
+
+"Your urgent request to review and reverse our decision to discipline Mr Weyers is threatening and disrespectful to our processes, and is undermining our Collective Agreements, and even if adhered to, may set a wrong precedent, and is gravely unreasonable, and at most unlawful."
+
+[57]    Astonishingly, in its opposing affidavit dealing with the submissions by deponent Faul, the first respondent then goes on to make the following, in my view significant, concession:
+
+"I repeat that section 39(2) of the EPA does not preclude disciplinary action. A person such as Mr Weyers (who obviously has to act bona fide and in the public interest), is merely indemnified."
+
+Page 46 of [2008] JOL 21387 (T)
+
+I find it difficult to understand the purpose of disciplinary action against a person who will be indemnified against any punitive result which may flow from such disciplinary proceedings.
+
+[58]    In any event, the notice of motion (prayer 1 has been quoted) is aimed at restraining the respondents from imposing any disciplinary sanction on the second applicant. This appears to be in harmony with the sentiments expressed in the concession made by the first respondent. Moreover, if such indemnity were to be available to second applicant Weyers, that would also, in my view, constitute the "clear right" applicable to final interdict proceedings.
+
+[59]    Finally, on the topic of the role and involvement of the first applicant, I have to deal with a submission by the first respondent that the first applicant has no locus standi to feature as a party to this application.
+
+The statutory basis for the creation and existence of the first applicant has been explained. The same goes for the Code of Conduct and the rules administered by the first applicant with regard to the conduct of registered engineers such as Mr Weyers. The intimate involvement of the first applicant, both before and after the finding of guilty handed down by the second respondent, has been explained. The same applies to Mr Faul's compelling submissions regarding possible harm to the public interest and to the policy which the EPA is designed to advance which may flow from these disciplinary proceedings.
+
+Page 47 of [2008] JOL 21387 (T)
+
+[60]    Against this background, I find it useful to revisit the test which has on numerous occasions been affirmed and applied and is to be found in Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (A) at 659:
+
+"If a party has a direct and substantial interest in any order the court might make in proceedings or if such order could not be sustained or carried into effect without prejudicing that party, he is a necessary party and should be joined in the proceedings, unless the court is satisfied that he has waived the right to be joined."
+
+In my view, the first applicant is such a party. There is no question of a waiver. The subject is fully discussed by Erasmus Superior Court Practice B1-94 to 1-96. As to the locus standi of a statutory body, reference can be had to the useful summary by Rogers AJ in Financial Services Board & another v De Wet NO & others 2002 (3) SA 525 (C) [also reported at [2002] JOL 9319 (C)–Ed] at 579 paragraph [142] and further.
+
+[61]    In my opinion, the first applicant is "an interested party", as defined in the authorities quoted, and has the necessary locus standi to take part in these proceedings.
+
+Page 48 of [2008] JOL 21387 (T)
+
+Reference to the Employment Equity Act 55 of 1998
+
+[62]    In the papers, many references, by both sides, to the Employment Equity Act are to be found. Some of these appear from extracts quoted, supra, from the founding and opposing papers.
+
+[63]    It is fair to say that the provisions of the Employment Equity Act played a significant role in the events leading up to second applicant Weyers writing the letter, and the subsequent decision to launch disciplinary proceedings against him.
+
+[64]    Mindful of the principles laid down in Plascon-Evans Paints Ltd v Van Riebeeck Paints (Pty) Ltd 1984 (3) SA 623 (A), and inasmuch it is even necessary to apply these principles, given the very narrow ambit of the real dispute between the parties, I consider the following to be a fair summary of the facts central to the employment equity debate raging between the parties, particularly before the letter was written: the Power System Control ("PSC") Centre under the management of Mr Weyers was seriously understaffed. Suitably qualified system operators had to work unacceptably high levels of overtime. New operators had to be appointed as a matter of urgency. The safety of employees and the public as well as the need for proper service delivery were at stake.
+
+Weyers prepared a test for the selection of a foreman and system operators. His immediate head, Booysen, approved the test. It was generally agreed that the test was appropriate. The test was submitted for the approval by Ms Zaayman, the deputy manager: Recruitment & Selection, in the first respondent's Human 
+
+Page 49 of [2008] JOL 21387 (T)
+
+Resources department. On 2 March 2005, Ms Zaayman approved the test in the following terms by email:
+
+"Die toets bevat die regte tipe vrae. Dit is miskien 'n bietjie lank. Maak seker dat die kandidate genoegsame tyd gegun word om die toets te antwoord."
+
+In a second email, dated 10 August 2005, Ms Zaayman said the following:
+
+"Ek het die toets teruggekry. Philip sê dit is reg maar julle moet ook sorg dat ons die antwoorde het, en die resultate moet met ons bespreek word."
+
+The reference to "Philip" is Mr Philip Ratsiane, the manager: Recruitment & Selection of the first respondent. A feeble attempt by the first respondent, in the opposing affidavit, to deny that the tests were approved, reads as follows:
+
+"Ms Zaayman states that what she intended to convey to Mr Kleynhans is that she had received the test results. The words 'Philip sê dit is reg' were intended to convey not that the test results and the application of the test were in order, but that all the results had to be discussed. Mr Ratsiane states that he never saw this e-mail" (emphasis added).
+
+Understandably, Weyers, in his reply, describes this statement as a blatant lie. He says: 
+
+"If the test[s] were not in order why did she not immediately stop the commencing thereof and why did she and Mr Ratsiane want to see the results?" 
+
+I find, on the probabilities, that the tests were approved despite attempts, as 
+
+Page 50 of [2008] JOL 21387 (T)
+
+illustrated, to deny this. There is also strong evidence that the same tests were applied even after the letter was written to employ other system controllers. A copy of the test forms part of the founding papers. This example was completed by a system operator, one Wynand Potgieter, who did well in the test. Weyers was of the opinion that any competent system operator ought to be able to achieve a 50% pass mark.
+
+The system operator (and foreman) positions were initially advertised internally. There were 13 applicants. They all did the test. The results went to Booysen and Ms De Klerk, an administration officer in the electricity department's Human Resources division. The top four candidates, all white, scored between 62% and 42%. The next eight candidates, all white, scored between 38% and 21%. The only employment equity candidate came last with 12%. Weyers expressed the view that the latter could not be considered for the position because he would endanger his own life. As it happened, this candidate was later appointed by the respondent. Booysen short-listed the top four candidates referred to. He submitted the short list to Human Resources on 8 April 2005. Ratsiane, on 25 April, recorded that he did not concur with the short list and suggested a meeting. On 10 May, an agreement was reached as follows:
+
+four system operators to be filled from the competent group based on test results;
+
+Page 51 of [2008] JOL 21387 (T)
+
+four system operators' posts to be re-advertised and filled from a group of people with necessary qualifications and which could be trained within reasonable time to be competent.
+
+This agreement is recorded in written documents attached to the founding papers. I have referred to the unconvincing attempt by the first respondent, supra, to deny that there was a meeting held on 10 May, and later documentation submitted in reply confirming the existence of the meeting. Minutes of the 10 May meeting were sent to Lukhwareni, Ratsiane, Garegae, Booysen, Weyers and Jansen. The last portion of the minutes is quoted:
+
+"Taking the facts into account the agreement were (sic) made that the available positions at Power Systems Control be filled in a ratio of 60% competent personnel based on training and test results and 40% to be filled from qualified trainable personnel.
+
+The agreement could be summarised as follows for the above posts:
+
+four system operators to be filled from the competent group based on test results;
+four system operators posts to be re-advertised and filled from a group of people with necessary qualifications and which could be trained within reasonable time to be competent;
+one competent foreman to be appointed;
+one competent system controller to be appointed;
+
+Page 52 of [2008] JOL 21387 (T)
+
+two dispatch agents posts to be re-advertised.
+
+I hope you fill (sic) find this in order.
+
+G J BOOYSEN
+
+MANAGER: DISTRIBUTION OPERATIONS:
+
+TECHNICAL SERVICES"
+
+None of the recipients of the memorandum ever disputed that it correctly recorded what had been agreed. There is no verifying affidavit from Booysen in support of the first respondent's case.
+
+[65]    As a result of the agreement of 10 May, the first respondent placed an advertisement in the Pretoria News on 18 May for system operators. The external re-advertisement of 18 May drew in excess of 120 new applications. Only 15 applicants were employment equity candidates with the requisite electricians' trade certificate and some relevant experience. They were all invited to do the test. Eleven of them turned up to do so. They did poorly. They scored from 32% down to 2%. Their marks were adjusted upwardly by 10% and Weyers set the process in motion for purposes of short-listing the most successful of these candidates. On my reading of the papers, the agreement reached on 10 May was still on course.
+
+Page 53 of [2008] JOL 21387 (T)
+
+[66]    On 1 June 2005 an important event occurred which, in my view, made a significant impact on the circumstances which culminated in this dispute between the parties: one Mr Benny Stanley Mahlangu ("Mahlangu") was appointed to the position of general manager: Electricity Development & Energy Business. On 28 July 2005, Lukhwareni issued a memorandum announcing that he had "delegated all transformation responsibilities across all sections of the electricity department with the necessary and appropriate powers to ensure compliance" to Mahlangu.
+
+[67]    It is fair to say that Mahlangu made short shrift of the efforts, as described, by all concerned to urgently appoint system operators both from the white (competent, from a test result point of view) and employment equity ranks.
+
+[68]    To avoid prolixity, I propose telling the story merely by quoting two emails which Mahlangu sent to Booysen (on 4 August 2005) and Weyers (also on 4 August 2005). It is not disputed that Mahlangu sent these emails.
+
+The first one reads as follows:
+
+"Hi Gert
+
+I am disappointed to see that a list containing only whites was submitted to HR against what we agreed upon. This act can be construed as fighting against transformation. To fast track transformation, all tests are to be 
+
+Page 54 of [2008] JOL 21387 (T)
+
+submitted to me and HR for review and it is HR that shall administer all the tests if there is a need for one.
+
+The lack of skills and expertise is not the fault of the Black employees but their managers who did not ensure that everyone irrespective of colour acquires experience and expertise. Given our numbers with regard to equity, candidates who do not comply with equity requirements will not be short listed at all. This is the policy that has be (sic) adopted and has the full support of council.
+
+Regards
+
+Benny Mahlangu" (emphasis added).
+
+The next email, to Weyers, reads as follows:
+
+"Hi AJ
+
+It has been decided that only candidates that complies (sic) with the requirements of equity shall be considered. Your previous agreement with David Garegae and Ndivho does not hold any more. Tests shall be approved by me and HR shall conduct the testing without your involvement.
+
+The list that you had, shall be used for short listing for equity candidates.
+
+Thanks
+
+Page 55 of [2008] JOL 21387 (T)
+
+Benny S Mahlangu" (emphasis added).
+
+[69]    Both these emails were copied to all the other management role-players like Garegae, Lukhwareni, Sedumede and Ratsiane. "Ndivho" is Lukhwareni.
+
+[70]    The last email puts paid to any feeble efforts, supra, by the first respondent to deny the earlier agreement about balanced employment of competent candidates on the one side and equity candidates on the other side. If there had been no such agreement, Mahlangu would not have bothered to unilaterally set it aside and declare that it was no longer in force.
+
+[71]    These are the events which inspired Weyers to express his concern and to indicate his intention to report the matter to his governing body (the first applicant) and the Department of Labour. I have already referred to much of these developments and also to the meeting of 15 August 2005.
+
+[72]    These are the circumstances under which Weyers, on the advice of the first applicant, wrote the letter. In my opinion, his concerns were genuine. His bona fides were beyond question.
+
+[73]    The first respondent's own recruitment policy, with regard to short-listing, reads as follows:
+
+Page 56 of [2008] JOL 21387 (T)
+
+"• The short list must also be representative of all races and genders.
+
+ • If representivity is unobtainable (eg in the engineering field) it must be explained and motivated in a short list letter why specific candidates were invited and why the short list is not representative (eg if no black candidates applied).
+
+ • Be sensitive to this issue – adhere to the rules, but a short list of five white males or five black females is not representative. Keep this in mind when compiling criteria" (emphasis added).
+
+[74]    In the present case, there was no shortage of motivation for short-listing only white candidates. Nevertheless, sincere efforts were made by all concerned (before the intervention of Mahlangu) to compile an equity friendly short list.
+
+[75]    Mahlangu was not sensitive. He paid no regard to his own employer's equity policy. The last thing on his mind was the safety of employees or members of the public. It was only equity that mattered. The lack of skills and expertise on the part of black employees was not their fault. The need for tests was placed on the back burner. If there were to be tests, Mahlangu would approve and conduct them. It does not matter that he is not a registered engineer. He is in charge of transformation management and for that reason remains "accountable".
+
+[76]    Perhaps the following email authored by Mahlangu the day after Weyers wrote the letter sums it all up:
+
+Page 57 of [2008] JOL 21387 (T)
+
+"Hi Ndivho [which is Lukhwareni]
+
+To avoid such incidents where junior officials jumps (sic) the SEO and runs to the MM, calls for strong disciplinary measures. This is perturbing especially from an individual who has failed to demonstrate a commitment to transformation. If disciplinary measures are not taken, this scenario will be a recurring event where the SEO directives are challenged by everyone and you can't run the department in this fashion.
+
+Your mandate to transform this section is being challenged and failure to act will result in every decision that you make being challenged because someone does not like it.
+
+That is my contribution to this matter and I personally will not change from the stance I have taken unless you give in to this threat."
+
+[77]    I see no provision in the Employment Equity Act to the effect that non-designated (white) candidates should be excluded altogether. According to the preamble, the Act is aimed to "promote the constitutional right of equality and the exercise of true democracy; eliminate unfair discrimination in employment".
+
+[78]    Indeed, section 15(4) of the Employment Equity Act reads as follows:
+
+Subject to section 42, nothing in this section requires a designated employer to take any decision concerning an employment policy or 
+
+Page 58 of [2008] JOL 21387 (T)
+
+practice that would establish an absolute barrier to the prospective or continued employment or advancement of people who are not from designated groups."
+
+Section 42 does not apply to this case on these particular facts. This also appears to be in line with the first respondent's employment policy to which I have referred, and which Mahlangu ignored.
+
+[79]    In all these circumstances, I fail to see how I can express approval for actions aimed at achieving (and accelerating) equity transformation at all costs and in disregard of safety considerations. This must be particularly true in the case of a lethal commodity like high voltage electricity. In my view, there must be a sensible balance between considerations of employment equity on the one side and safety on the other side.
+
+[80]    The fact that much was made in the papers by the first respondent of alleged subsequent training programmes for the equity candidates who underperformed in the tests and allegations that they were later successfully deployed as system operators I consider to be irrelevant for purposes of this case: what is relevant, is the frame of mind of Weyers at the time when he wrote the letter and the events immediately preceding that. These I have described.
+
+Page 59 of [2008] JOL 21387 (T)
+
+[81]    Finally, it should be recorded that this case does not involve the determination of any dispute about the interpretation or application of the Employment Equity Act. This was not argued to be the case either, and rightly so. In any event, the Labour Court has exclusive jurisdiction to determine such a dispute (see section 49 of the Employment Equity Act).
+
+Rather, this case is about the writing of the letter under the prevailing circumstances and the question of whether or not Weyers can rely on the protection of the statutes referred to for indemnity or protection. In addition, he relies on the Constitution.
+
+The grievance procedure initiated by Weyers
+
+[82]    On 31 August 2005 (the same day when the letter was written) Weyers completed a "grievance form" issued by corporate services under the auspices of the general manager: Human Resources. He describes the nature of the grievance as follows:
+
+"Victimisation for adhering to Code of Conduct of the City of Tshwane Metropolitan Municipality, the Engineering Profession of South Africa Act and the Occupational Health and Safety Act – by being implicated as a 'racist' and the process of filling critical staff positions with the most incompetent EE staff available, while EE levels are correct. Enforcing low levels of service delivery which could eventually lead to the employee being dismissed for non-performance in terms of his appointment." (Emphasis added. The weight of the evidence on the papers indicates that EE levels in the department of Weyers were within acceptable parameters.)
+
+Page 60 of [2008] JOL 21387 (T)
+
+[83]    Weyers describes the grievance as follows in the rest of the document:
+
+"I want to avoid a break in trust between myself and the General Manager Energy. If he continues with incorrect implications regarding racism he will make it impossible for the continuation of a normal working relationship.
+
+In order to avoid potential problems in this regard I request to report directly to the SEO regarding matters in relation to the assessment and appointment of candidates within my section.
+
+Mr Mahlangu be instructed in writing, to stop remarks as member of Top Management that he believes Mr Weyers is a racist, and apologise in writing for his inflammatory remark against Mr Weyers.
+
+The Top Management of Electricity Department stop victimising Mr Weyers for adhering to the Engineering Profession of South Africa Act, 1990 (Act No 114 of 1990) as well as the Code of Conduct of the City of Tshwane Metropolitan Municipality (Council Resolution 1 November 2001). Mr Weyers should be allowed to appoint the most competent personnel for the positions now in question, as his section's global EE 
+
+Page 61 of [2008] JOL 21387 (T)
+
+target has already been met and as he is in (sic) person responsible for the performance of his section.
+
+Mr Mahlangu defends Mr Weyers if the issue of him being a racist arises again and reports the occurrence to the SEO."
+
+Despite requests from Weyers, this grievance was not prosecuted to its final stages. Even if it was, the result, either way, would not have any effect on the disciplinary proceedings which Weyers is seeking to bring to an end by interdict. In my opinion, this state of affairs puts paid to the argument, advanced by the respondent, that the grievance procedure is a so-called "alternative remedy" open to the second applicant which "alternative remedy" would therefore render the interdict application defective.
+
+The statutory provisions relied upon by the second applicant and whether or not they can be applied in his favour
+
+(i)  The EPA
+
+[84]    Section 39(2) of the EPA reads as follows:
+
+Liability
+
+. . .
+
+A registered person who, in the public interest–
+refuses to perform an act;
+omits to perform an act; or
+
+Page 62 of [2008] JOL 21387 (T)
+
+informs the council or other appropriate authority of an act or omission performed by any other person,
+
+which act or omission endangers or is likely to endanger the safety or health of the public or fellow employees, is not liable for that refusal, omission or information."
+
+[85]    Section 27(3) of the EPA reads as follows:
+
+Professional conduct.–
+
+. . .
+
+All registered persons must comply with the Code of Conduct and the Code of Practice and failure to do so constitutes improper conduct" (emphasis added).
+
+[86]    The Rules of Conduct for Registered Persons was published in Board Notice 107 of 1997 in Government Gazette 18454 of 28 November 1997 ("the rules"). Rule 1 requires registered persons (like Weyers) to apply their knowledge and skill in the interests of humanity and the environment. They must execute their work with integrity and sincerity and in accordance with generally accepted norms of professional conduct. Rule 2 provides that registered persons, in fulfilling the objects contemplated in rule 1, must have due regard to public safety, public health and the public interest generally. They must uphold the dignity, standing and reputation of the profession.
+
+Page 63 of [2008] JOL 21387 (T)
+
+Although these rules have been repealed by the new rules published on 17 March 2006, the provisions of the old rules apply to the relevant conduct of Mr Weyers. The new rules, in any event, place more emphasis on public health, safety and interest. New rule 3(3) provides that registered persons must at all times have due regard and priority to public health, safety and interest. They must also, when providing professional advice to a client or employer, inform such client or employer of any consequences which may be detrimental to the public health, safety or interest and at the same time inform the council (first applicant) of their action.
+
+[87]    Do these provisions come to the assistance of Mr Weyers? In my view they do. As a professional person, Weyers has a duty to pay due regard to public safety considerations. He has a duty to satisfy himself, on the strength of his qualifications and skills and experience, that his employer does not embark on acts or omissions likely to endanger the safety and/or health of either the public or fellow employees. If he is for good reason of the opinion that the municipality is intent on doing so, then not only is his disclosure to the first applicant protected in terms of section 39(2) of the EPA, but in fact in terms of the rules this is a disclosure that he is obliged to make. In my opinion, the Department of Labour is the "other appropriate authority" as intended by section 39(2)(c).
+
+Page 64 of [2008] JOL 21387 (T)
+
+Weyers acted in good faith and had the reasonable belief, in all the circumstances, that the actions of his employer endangered or, at least, were likely to endanger, the safety or health of the public or fellow employees. The reasons for this have been described. In these circumstances, I am of the view that Weyers, legally, cannot be held liable for writing the letter. This renders the disciplinary enquiry unlawful and subject to be restrained by interdict.
+
+(ii)  The OHSA
+
+[88]    The following appear to be relevant extracts from section 8:
+
+General duties of employer to the employees
+Every employer shall provide and maintain, as far as is reasonably practicable, a working environment that is safe and without risk to the health of his employees.
+Without derogating from the generality of an employer's duty under subsection (1), the matters to which those duties refer include in particular–
+the provision and maintenance of systems of work, plant and machinery that, as far as is reasonably practicable, are safe and without risks to health;
+taking such steps as may be reasonably practicable to eliminate or mitigate any hazard or potential hazard to the safety or health of employees, before resorting to personal protective equipment;
+
+Page 65 of [2008] JOL 21387 (T)
+
+. . .
+establishing, as far as is reasonably practicable, what hazards to the health or safety of persons are attached to any work which is performed, . . . and any plant or machinery which is used in his business, and he shall, as far as is reasonably practicable, further establish what precautionary measures should be taken with respect to such work, article, substance, plant or machinery in order to protect the health and safety of persons, and he shall provide the necessary means to apply such precautionary measures;
+providing such information, instructions, training and supervision as may be necessary to ensure, as far as is reasonably practicable, the health and safety at work of his employees;
+as far as is reasonably practicable, not permitting any employee to do any work . . . unless the precautionary measures contemplated . . . or any other precautionary measures which may be prescribed, have been taken;
+
+. . .
+
+Page 66 of [2008] JOL 21387 (T)
+
+enforcing such measures as may be necessary in the interest of health and safety;
+ensuring that work is performed and that plant or machinery is used under the general supervision of a person trained to understand the hazards associated with it and who have the authority to ensure that precautionary measures taken by the employer are implemented."
+
+[89]    Section 9(1) reads as follows:
+
+General duties of employers and self-employed persons to persons other than their employees.
+Every employer shall conduct his undertaking in such a manner as to ensure, as far as is reasonably practicable, that persons other than those in his employment who may be directly affected by his activities are not thereby exposed to hazards to their health or safety."
+
+[90]    Section 14(a) reads as follows:
+
+General duties of employees at work. Every employee shall at work–
+
+Page 67 of [2008] JOL 21387 (T)
+
+take reasonable care for the health and safety of himself and of other persons who may be affected by his acts or omissions."
+
+[91]    Section 26 reads as follows:
+
+Victimisation forbidden.
+No employer shall dismiss an employee, or reduce the rate of his remuneration, or alter the terms or conditions of his employment to terms or conditions less favourable to him, or alter his position relative to other employees employed by that employer to his disadvantage, by reason of the fact, or because he suspects or believes, whether or not the suspicion or belief is justified or correct, that that employee has given information to the Minister or to any other person charged with the administration of a provision of this Act which in terms of this Act he is required to give or which relates to the terms, conditions or circumstances of his employment or to those of any other employee of his employer, or has complied with a lawful prohibition, requirement, request or direction of an inspector, or has given evidence before a court of law or the industrial court, or has done anything which he may or is required to do in 
+
+Page 68 of [2008] JOL 21387 (T)
+
+terms of this Act or has refused to do anything which he is prohibited from doing in terms of this Act."
+
+[92]    Section 38(1) provides that any person who willfully or recklessly does anything at a workplace or in connection with the use of plant or machinery which threatens the health or safety of any person shall be guilty of an offence and on conviction be liable to a fine not exceeding R50 000 or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment.
+
+[93]    The general machinery regulations are also of relevance. They were promulgated in August 1988 under section 35 of the Machinery & Occupational Safety Act 6 of 1983, as amended.
+
+Regulation 2(7) provides that an employer or user of machinery may designate one or more competent persons to assist a person designated in terms of subregulation (1). This is what Booysen did to Weyers, supra. This is also the appointment mentioned in the letter.
+
+[94]    Regulation 4(1) provides that an employer or user of machinery shall ensure that every person authorised to operate machinery is fully aware of the dangers attached thereto and is conversant with the precautionary measures to be taken or observed to obviate such dangers.
+
+Page 69 of [2008] JOL 21387 (T)
+
+[95]    Regulation 4(6) provides that if machinery in operation threatens or is likely to threaten the safety of persons the supervisor or user of the machinery shall immediately stop such machinery or cause it to be stopped.
+
+Regulation 5(1) provides that no employer or user of machinery shall permit or require any person other than a competent person or a person who has been trained to the satisfaction of an inspector to do any work on or near moving or electrically alive machinery if such work may endanger him: Provided that this subregulation shall not apply in respect of the operation of machinery under the general supervision of a shifts-man.
+
+[96]    In terms of OHSA "machinery" is defined as follows:
+
+"'Machinery' means any article or combination of articles assembled, arranged or connected and which is used or intended to be used for converting any form of energy to performing work, or which is used or intended to be used, whether incidental thereto or not, for developing, receiving, storing, containing, confining, transforming, transmitting, transferring or controlling any form of energy."
+
+[97]    With regard to OHSA, Mr Mullins, on behalf of the applicants, submitted that the OHSA provisions emphasise the importance of workplace safety. Workplace safety carries an importance that overrides an individual employer's wants and needs. Section 38 of OHSA exposes an employee in the position of Mr Weyers to 
+
+Page 70 of [2008] JOL 21387 (T)
+
+penalties if he allows a dangerous situation to develop "which threatens the health and safety of any person". That alone, so the argument of Mr Mullins goes, must be sufficient to entitle an employee who is forced by his employer to expose himself to potential penalties, to report this to the relevant authorities, and, in the process, to claim the protection against victimisation provided for in terms of section 26(1). I find myself in respectful agreement with these submissions. The minister referred to in section 26(1) is the Minister of Labour. Mr Weyers copied the letter to the Minister of Labour.
+
+[98]    It is uncertain what the result of the disciplinary process will be if not restrained by interdict. On the papers, the expectation by Mr Weyers that he may eventually be dismissed (after having now been suspended for more than two years) is not denied by the first respondent but only described as "speculation". In any event, the suspension and other victimisation described in the grievance document falls inside the ambit, in my opinion, of the various alternatives mentioned in section 26(1) and against which Mr Weyers would be protected.
+
+[99]    Mr Mullins also pointed out that the regulations quoted serve to emphasise Weyers's exposed position as designated person. In terms of regulation 2(7) he is exposed to liability if he allows a potentially dangerous situation to develop. It was also argued, correctly in my view, that the equipment used in the PSC section of the electricity department falls inside the definition of "machinery" in OHSA.
+
+Page 71 of [2008] JOL 21387 (T)
+
+[100]    For all these reasons, I have also come to the conclusion that the disciplinary proceedings against Weyers are unlawful in view of the provisions of section 26(1) of OHSA. Consequently, they fall to be restrained by interdict.
+
+(iii)  The Constitution of the Republic of South Africa
+
+[101]    Section 16 reads as follows:
+
+Freedom of expression.
+Everyone has the right to freedom of expression, which includes–
+
+ . . .
+
+freedom to receive or impart information or ideas."
+
+[102]    Section 23 reads as follows:
+
+Labour relations.
+Everyone has the right to fair labour practices."
+
+[103]    Both these provisions form part of Chapter 2, which is the Bill of Rights.
+
+[104]    Section 38 of the Constitution (also part of the Bill of Rights) makes provision for someone complaining of an infringement of his fundamental right, to approach a court for appropriate relief which could include a declaration of rights.
+
+Page 72 of [2008] JOL 21387 (T)
+
+In my opinion, the actions of the first respondent, in these particular circumstances, infringe upon the fundamental right of Weyers to impart the information as intended by section 16, supra. The same applies to section 23.
+
+"Appropriate relief" as intended by section 38 would, in my view, resort comfortably under the relief claimed in the notice of motion. As to the meaning of "appropriate relief" in this context, see Fose v Minister of Safety & Security 1997 (3) SA 786 (CC) [also reported at [1998] JOL 1364 (CC)–Ed] at 799F–G.
+
+(iv)  The PDA
+
+[105]    The following definitions are to be found in section 1:
+
+"'Disclosure' means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+that a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+that a miscarriage of justice has occurred, is occurring or is likely to occur;
+that the health or safety of an individual has been, is being or is likely to be endangered;
+
+Page 73 of [2008] JOL 21387 (T)
+
+that the environment has been, is being or is likely to be damaged;
+unfair discrimination is contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000); or
+any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed.
+
+'Employee' means–
+
+any person, excluding an independent contractor, who works for any person or for the state and who receives, or is entitled to receive, any remuneration;
+any other person who in any manner assists in carrying on or conducting the business of an employer.
+
+'Employer' means any person–
+
+who employs or provides work for any other person and who remunerates or expressly or tacitly undertakes to remunerate that other person; or
+who permits any other person in any manner to assist in the carrying on or conducting of his, her or its business,
+
+including any person acting on behalf of or on the authority of such employer.
+
+'Occupational detriment', in relation to the working environment of an employee, means–
+
+being subjected to any disciplinary action;
+
+Page 74 of [2008] JOL 21387 (T)
+
+being dismissed, suspended, demoted, harassed or intimidated;
+being transferred against his or her will;
+being refused transfer or promotion;
+being subjected to a term or condition of employment or retirement which is altered or kept altered to his or her disadvantage;
+being refused a reference, or being provided with an adverse reference, from his or her employer;
+being denied appointment to any employment, profession or office;
+being threatened with any of the actions referred to in paragraphs (a) to (g) above; or
+being otherwise adversely affected in respect of his or her employment, profession or office, including employment opportunities and work security."
+
+[106]    Weyers is clearly an employee as intended by the PDA definition. The first respondent (including those acting on its behalf and on its authority) is an employer as intended by the definition.
+
+Weyers was subjected to an "occupational detriment", at least by being suspended and subjected to disciplinary action.
+
+Page 75 of [2008] JOL 21387 (T)
+
+[107]    In terms of section 2(1) the objects of the Act are to protect an employee from being subjected to an occupational detriment on account of having made a protected disclosure.
+
+[108]    In terms of section 3 no employee may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure.
+
+[109]    In terms of section 4(1) any employee who has been subjected, or is subject or may be subjected to an occupational detriment in breach of section 3, may:
+
+approach any court having jurisdiction, including the Labour Court established by section 151 of the Labour Relations Act 66 of 1995, for appropriate relief; or
+pursue any other process allowed or prescribed by any law.
+
+[110]    Section 9 reads as follows:
+
+General protected disclosure.
+Any disclosure made in good faith by an employee–
+who reasonably believes that the information disclosed, and any allegation contained in it, are substantially true; and
+
+Page 76 of [2008] JOL 21387 (T)
+
+who does not make the disclosure for purposes of personal gain, excluding any reward payable in terms of any law;
+
+is a protected disclosure if–
+
+one or more of the conditions referred to in subsection (2) apply; and
+in all the circumstances of the case, it is reasonable to make the disclosure.
+The conditions referred to in subsection (1)(i) are–
+. . .
+. . .
+that the employee making the disclosure has previously made a disclosure of substantially the same information to
+his or her employer; or
+a person or body referred to in section 8
+
+in respect of which no action was taken within a reasonable period after the disclosure; or
+
+that the impropriety is of an exceptionally serious nature.
+In determining for the purpose of subsection (1)(ii) whether it is reasonable for the employee to make the disclosure, consideration must be given to–
+
+Page 77 of [2008] JOL 21387 (T)
+
+the identity of the person to whom the disclosure is made;
+the seriousness of the impropriety;
+whether the impropriety is continuing or is likely to occur in the future;
+whether the disclosure is made in breach of the duty of confidentiality of the employer towards any other person;
+in a case falling within subsection (2)(c), any action which the employer or the person or body to whom the disclosure was made, has taken, or might reasonably be expected to have taken, as a result of the previous disclosure;
+. . .
+the public interest.
+For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information referred to in subsection (2)(c) where such subsequent disclosure extends to information concerning an action taken or not taken by any person as a result of the previous disclosure."
+
+Page 78 of [2008] JOL 21387 (T)
+
+[111]    In my opinion, Weyers made a general protected disclosure, as intended by section 9 and, consequently, is entitled to the protection afforded by section 3: he reasonably believed that the information disclosed, and any allegation contained therein are substantially true. He did not make the disclosure for purposes of personal gain. It was reasonable to make the disclosure. Weyers had previously made a disclosure of substantially the same information to his employer in respect of which no action was taken within a reasonable period after the disclosure, and the impropriety, in my view, is of an exceptionally serious nature.
+
+Moreover, the reasonableness of the disclosure, when tested against the provisions of section 9(3), is manifest. If nothing else, it was in the public interest.
+
+[112]    Mr Mullins referred me to the case of Tshishonga v Minister of Justice & Constitutional Development & another 2007 (4) SA 135 (LC) [also reported at [2007] 4 BLLR 327 (LC)–Ed] at 166 paragraph [174] where the learned Judge says the following:
+
+"The overarching motivation for the PDA and similar legislation internationally is to protect employees who disclose information about improprieties by their employers or other employees."
+
+[113]    I was also referred to another finding of the learned Judge, in paragraph [215] to the effect that the employee does not bear the burden of proving that he acted in good faith as per the requirements for a protected disclosure in terms of the PDA. 
+
+Page 79 of [2008] JOL 21387 (T)
+
+I express no view on this finding. In my opinion, even if Weyers bore the onus of proving that he acted in good faith, he succeeded in discharging that onus.
+
+[114]    What is clear, is that the "whistle-blower" in the position of Weyers, does not have to prove or guarantee the truth of his disclosure. It is sufficient, in order to enjoy the statutory protection, if he reasonably believed that the disclosure is substantially true. In my view, this is unquestionably so in the case of Weyers in the circumstances described.
+
+[115]    In an interesting article entitled "Protected disclosures and compensation, whistle-blowing, occupational detriments and remedies" by Carl Mischke Contemporary Labour Law Volume 16 No 9, April 2007 the principles and philosophy behind the PDA are described as follows by the learned author:
+
+"The Labour Court considered the underlying philosophy of the PDA, starting off by saying that whistle-blowing is healthy for organisations – managers no longer have a monopoly on information and that they need to know that their actions can and will be monitored and reported to shareholders and to the public at large. There is a loyalty to the organisation at large. Whistle-blowing should be a safe alternative to silence; it deters abuse. Many catastrophies could be averted if employees did not turn a blind eye and if employers did not turn a deaf ear or blame the messenger instead of heeding the message."
+
+Page 80 of [2008] JOL 21387 (T)
+
+I am in respectful agreement with these sentiments. The present case is, in my view, a good example of a bona fide "whistle-blower" who deserves protection. The comparable protection afforded by the relevant sections in the EPA and OHSA were, no doubt, enacted in the same spirit. Other examples include the well-known "crime stop" hotline enabling members of the public to report criminal activities. Another time-honoured example is the practice of making use of police informers. Without these anonymous individuals, often working under extremely dangerous conditions, many crimes would otherwise remain unsolved.
+
+In my view, a court must be slow to condemn a whistle-blower.
+
+[116]    As to the question whether the relief sought by the present applicants (a final interdict) is appropriate, I have already expressed the view that the required "clear right" has been proved by reference to the protection afforded by the relevant statutes. I have also expressed the view that an interdict would be an "appropriate remedy" as intended by section 38 of the Constitution. Moreover, I have come to the conclusion that there is no alternative remedy and, in this regard, I have referred to the pending grievance procedure. The prejudice experienced by the applicants as a result of the disciplinary proceedings is self-evident. I have come to the conclusion that the requirements for final interdictory relief have been proved.
+
+Page 81 of [2008] JOL 21387 (T)
+
+As a matter of interest, it is useful to record that the Labour Court has also, in reported cases, opted for interdictory relief in favour of whistle-blowers (see, for example, the case of Grieve v Denel (Pty) Ltd [2003] 4 BLLR 366 (LC)).
+
+[117]    Finally, I must deal with a submission by Mr Paauw that this Court does not have jurisdiction as far as the PDA is concerned. No such argument was presented with regard to the EPA and the OHSA.
+
+[118]    As to the PDA my attention was drawn to section 4(2)(b). It was argued that this subsection provides "that any occupational detriment apart from dismissal is deemed to be an unfair labour practice". It was submitted that the section is pre-emptory and, if an employee wants to rely on the PDA, such employee must follow the procedure set out in the Labour Relations Act 66 of 1995 ("the LRA"). Should the matter not be resolved through conciliation, Mr Weyers may refer it to the Labour Court for adjudication. Accordingly, it was submitted that this Court, as far as the PDA is concerned, has no jurisdiction.
+
+[119]    Section 4(2) reads as follows:
+
+For the purposes of the Labour Relations Act, 1995, including the consideration of any matter emanating from this Act by the Labour Court–
+any dismissal in breach of section 3 . . .
+
+Page 82 of [2008] JOL 21387 (T)
+
+any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in part B of schedule 7 of that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part: Provided that if the matter fails to be resolved through conciliation, it may be referred to the Labour Court for adjudication" (emphasis added).
+
+[120]    It seems to me that the argument of Mr Paauw ignores the introductory part of subsection (2) which appears to limit the provision "for the purposes of the Labour Relations Act 66 of 1995, including the consideration of any matter emanating from this Act by the Labour Court".
+
+[121]    In my opinion, section 4(2) cannot be read in isolation without considering the implications of section 4(1) which read as follows:
+
+Remedies
+Any employee who has been subjected, is subject or may be subjected, to an occupational detriment in breach of section 3, may–
+approach any court having jurisdiction, including the Labour Court . . . for appropriate relief; or
+
+Page 83 of [2008] JOL 21387 (T)
+
+pursue any other process allowed or prescribed by any law" (emphasis added).
+
+[122]    This appears to be a clear provision that an aggrieved person may in terms of this act approach "any court having jurisdiction" including the Labour Court. It does not appear to me to constitute an ouster of the jurisdiction of the High Court.
+
+[123]    Such a conclusion would appear to me to be in harmony with the provisions of section 157 of the LRA which reads as follows:
+
+Jurisdiction of the Labour Court–
+Subject to the Constitution and section 173, and except where this Act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters that elsewhere in terms of this Act or in terms of any other law are to be determined by the Labour Court.
+The Labour Court has concurrent jurisdiction with the High Court in respect of any alleged or threatened violation of any fundamental right entrenched in Chapter 2 of the Constitution of the Republic of South Africa, 1996 and arising from–
+employment and from labour relations;
+
+Page 84 of [2008] JOL 21387 (T)
+
+any dispute over the constitutionality of any executive or administrative act or conduct . . .; and
+the application of any law for the administration of which the Minister is responsible."
+
+[124]    Given the provisions of section 4(1)(a), supra, of the PDA, there appears to be recognition, in the latter subsection, of the concurrent jurisdiction of the High Court as intended by section 157(2). Moreover, Weyers also relies on an alleged or threatened violation of any fundamental right entrenched in Chapter 2 of the Constitution (the freedom of expression) which flows from employment and from labour relations (section 157(2)(a)) and/or which flows from the application of any law for the administration of which the Minister is responsible (section 157(2)(c)), with particular reference to OHSA, for example.
+
+[125]    I am alive to the fact that sections 186 and 187 of the LRA recognise a contravention of the PDA by an employer as an unfair labour practice and also as a basis for complaining of an automatically unfair dismissal. However, section 191 of the LRA, dealing with disputes about unfair dismissals and unfair labour practices, appears to provide, in subsection (13)(a), an employee with an option to refer a dispute concerning such an unfair labour practice to the Labour Court for adjudication. The provision is not peremptory. It appears to be in harmony with section 4(1)(a) of the PDA and section 157(2) of the LRA.
+
+Page 85 of [2008] JOL 21387 (T)
+
+[126]    It also bears mentioning that in Fredericks & others v MEC for Education & Training, Eastern Cape & others 2002 (2) SA 693 (CC) [also reported at [2001] JOL 9225 (CC)–Ed] the Constitutional Court held that the Labour Courts are not afforded general jurisdiction in employment matters and that the High Court's jurisdiction is not ousted by the provisions of section 157(1) simply because "a dispute is one that falls within the overall sphere of employment relations" (at paragraph [40]).
+
+[127]    Similar sentiments were expressed by the SCA, notably in Fedlife Assurance Ltd v Wolfaardt 2002 (1) SA 49 (SCA) [also reported at [2001] JOL 8759 (SCA)–Ed] and United National Public Servants Association of South Africa v Digomo NO & others [2005] 12 BLLR 1169 (SCA) [also reported at [2005] JOL 15383 (SCA)–Ed].
+
+[128]    For all these reasons, I am of the view that the jurisdiction of the High Court has not been ousted as argued by Mr Paauw. The fact that this Court has jurisdiction to otherwise entertain the application (for example with regard to the arguments flowing from the EPA and the OHSA) also militates against a conclusion that the provisions of the PDA cannot be considered at the same time.
+
+[129]    I also had regard to the recent decision of Chirwa v Transnet Ltd & others (Constitutional Court case 78/06, decided on 28 November 2007). This case was decided after the present application came before me.
+
+Page 86 of [2008] JOL 21387 (T)
+
+In my view, that case is distinguishable because it deals with an alleged unfair dismissal.
+
+[130]    Although it appears that the majority, in its judgment, favours a single legal framework within which all labour disputes may be speedily resolved, it recognises the existence of section 157(2) of the LRA. Indeed, the majority appears to be anxious to have the provisions of section 157(2) revisited, but, at present, it is still there!
+
+[131]    I also find support, with respect, in the following words of the learned Chief Justice in his minority judgment:
+
+"However, while forum-shopping may not be ideal, section 157(2) of the LRA as interpreted in Fredericks confers concurrent jurisdiction to decide a claim concerning the right to administrative justice in the labour context on two courts. The possibility of forum-shopping is an unavoidable consequence of that legislative decision. There have been calls for legislative intervention to alter that decision and those calls are not without merit. But unless and until the call is heeded, the meaning of section 157(2) is set" (see paragraph [177]).
+
+[132]    For all these reasons, I have come to the conclusion that the application must succeed.
+
+Page 87 of [2008] JOL 21387 (T)
+
+The order
+
+[133]    I make the following order:
+
+The first and second respondents are interdicted from imposing any disciplinary sanction on the second applicant for his conduct in sending copies of a letter to the first applicant and the Department of Labour on or before 31 August 2005.
+The first respondent is ordered to pay the costs of this application, including the costs of the urgent court proceedings of 27 February 2007, which will include the costs flowing from the employment of two counsel.
+Appearance:
+Adv Mullins SC, Mr Swanepoel, Serfontein, Viljoen & Swart (At); Adv Paauw SC, Mr Shaba, Ngoepe Attorneys (1R), None Indicated (2R)
+
+
+End of Document

@@ -1,0 +1,384 @@
+
+
+
+
+Jaihai v Financial Services Tribunal and another [2023] 4 All SA 404 (GP)
+All South African Law Reports
+
+Division: Gauteng Division, Pretoria
+Case No: 3419/2022
+Date: 17 August 2023
+Before: CM SARDIWALLA J
+
+Notes
+
+For Financial Sector Regulation see:• LAWSA (3ed) (Vol 20, paras 297–381)
+
+Keywords
+
+
+Financial Services Regulation — Financial Services Tribunal — Review application — Tribunal failing to comply with procedures set out in the Financial Sector Regulation Act 9 of 2017 and Tribunal’s Rules, in not constituting a panel or issuing directions or calling for a hearing prior to summarily dismissing a reconsideration application, and failing to apply rules of natural justice — In summarily dismissing reconsideration application, Tribunal failing to properly apply its mind, rendering decision reviewable.
+
+Editor’s Summary
+
+
+A protected disclosure made to the second respondent (the “Prudential Authority”) by the applicant was found not to reveal any contraventions, and the matter was considered finalised. The applicant’s request for reasons for the decision was refused, and the applicant applied to the first respondent (the “Financial Services Tribunal”) for reconsideration of the second respondent’s decision. The Tribunal summarily dismissed the application for reconsideration under section 234(4) of the Financial Sector Regulation Act 9 of 2017, ruling that the applicant had no interest in the outcome of the decision or lack of the decision, as he was in the position of an informer and was not a person aggrieved. The applicant brought the present application in terms of section 6(2)(a)(i) and 6(2)(b) of the Promotion of Administrative Justice Act 3 of 2000, alternatively on the principle of legality, seeking the review and setting aside of the Tribunal’s summary dismissal of the application for reconsideration.
+
+Held – Section 34 of Constitution guaranteed the right to a fair trial which included affording parties to the litigation a fair opportunity to adequately address material issues in the papers, by evidence or during argument. A basic rule of fairness was that a person who would be adversely affected by an act or a decision of the administration or authority should be granted a hearing before he suffers detriment. 
+
+Section 8 of the Protected Disclosures Act placed a duty on the Prudential Authority to render assistance to an employee such as the applicant where another body was the appropriate body to deal with the matter. The Prudential Authority was required to have advised the applicant of the appropriate forum to resolve his complaint. The Authority refused to provide reasons for its decision to dismiss the matter, and whilst some of the information might be covered by the secrecy clause detailed in section 33 of the South African Reserve Bank Act, that did not absolve the second respondent of its statutory duty in terms of section 8 of the Protected Disclosures Act. The applicant was clear that the review was based on the grounds of the Tribunal’s failure to comply with the procedures set out in the Financial Sector Regulation Act and Tribunal’s Rules, in not constituting a panel or issuing directions or calling for a hearing prior to summarily dismissing the reconsideration application. He was not seeking to review whether or not the Tribunal had jurisdiction. The court found the grounds of review to have merit, and questioned the Prudential  
+[2023] 4 All SA 404 (GP) at 405
+Authority’s opposition to the present application, when the Tribunal, against which the relief was sought, abided by the court’s decision.
+
+The Tribunal did not at any stage of its investigation find it necessary to engage with the applicant, who was clearly adversely affected by the decision. That was against the principles of natural justice and fair procedure, and rendered the decision reviewable. The Tribunal did not properly apply its mind to the matter in summarily dismissing the application. Its decision was set aside and the application for reconsideration was remitted to the Tribunal.
+
+____________________________________________________________________________________
+
+
+
+
+
+Cases referred to in judgment
+
+Legislation Considered
+
+Promotion of Administrative Justice Act 3 of 2000: s 3(2)(b), s 3(4), s 6(2)
+
+Protected Disclosures Act 26 of 2000: s 8(1)(c), s 8(2) 
+
+South African Reserve Bank Act 90 of 1989: s 33
+
+The applicant seeks to review and set aside the decision of the first respondent under case number PA3/2021 and declaring the decision of the first respondent unconstitutional, unlawful and invalid.
+
+Background facts
+The following are the material facts of this matter:
+The applicant was employed by Investec Bank Limited (“Investec”) from 2005–2014.
+He resigned from his position with Investec in 2014. 
+[2023] 4 All SA 404 (GP) at 406
+Three years later, in 2017, he referred grievances pertaining to what he viewed as the unfair, undignified, and discriminatory way he was treated during his period of employment to two sub-committees of Investec’s Board.
+In 2018 a mediation process was embarked on which proved unsuccessful.
+The applicant’s referral was subsequently dismissed.
+Aggrieved by the dismissal of his referral the applicant made a protected disclosure in terms of section 8(1)(c) of the Protected Disclosures Act 26 of 2000 (the “PDA”) to the second respondent on 10 December 2019.
+The second respondent acknowledged receipt of the complaint on 10 February 2020.
+
+“The PA’s primary mandate is to promote and enhance the safety and soundness of financial institutions. The PA’s approach to supervision is risk-based, and as such, it focuses resources in areas which pose the greatest risk to the achievement of the PA’s objectives as well as to the safety and soundness of the financial system in its entirety. Furthermore, ongoing supervision includes monitoring licenced [sic] financial institutions’ adherence to the financial sector laws and related prudential requirements. In this instance the requirements contained in the Banks Act 94 of 1990 (the ‘Banks Act’) and the Regulations relating to the banks (the ‘Regulations’) are exclusively relevant. The PA has duly considered the content of your disclosure under reference and, cognisant of the ambit of the above-mentioned mandate and supervisory approach, thoroughly assessed all allegations raised in the disclosure documentation that fall within the PA’s ambit of responsibilities as prudential supervisor. In this regard the PA did not identify any matters of concern nor any reason to believe that Investec Bank Limited (‘Investec’) contravened or transgressed the provisions of the Banks Act and the Regulations. Accordingly, the PA could not be of any further assistance to you, and from the PA’s perspective, the matter is regarded as finalised.”
+
+On 14 March 2021, the applicant requested a statement of reasons and material facts from the second respondent.
+On 20 April 2021, the second respondent replied to the applicant refusing the request for reasons on the preservation of secrecy clause detailed in section 33 of the South African Reserve Bank Act 90 of 1989 (the “SARB Act”).
+On 10 May 2021, aggrieved by the second respondent’s response the applicant applied to the first respondent for reconsideration of the second respondent’s decision.
+On 10 June 2021, the second respondent’s attorneys addressed a letter to the first respondent advising that no decision had been taken as contemplated in section 218 of the FSR Act and as a result the first respondent did not have jurisdiction to adjudicate the matter. 
+[2023] 4 All SA 404 (GP) at 407
+The applicant replied to the letter of 10 June 2021 on 15 June 2021 essentially disputing that the second respondent had made a decision.
+On 28 June 2021 the second respondent replied reaffirming their position on jurisdiction and addressed matters related to conflict of interest and again requested directions from the first respondent.
+
+“The application for reconsideration is summarily dismissed under section 234(4) of the FSR Act 9 of 2017 because the applicant has no interest in the outcome of the decision or lack of the decision. He is in the position of an informer and is not a person aggrieved. Apart for this, the application is otherwise also vexatious and scurrilous.”
+
+The applicant brought the present application seeking the following relief in terms of section 6(2)(a)(i) and 6(2)(b) of the Promotion of Administrative Justice Act 3 of 2000 (“PAJA”) alternatively on the principle of legality:
+Reviewing and setting aside, and declaring unconstitutional, unlawful, and invalid, the decision of the first respondent in Ahjeeth Jaihai v Prudential Authority (PA3/2021).
+Directing that the application for reconsideration is remitted to the first respondent for reconsideration.
+Directing the first respondent, in reconsidering the application for the reconsideration, to act in accordance with its statutory mandate and its tiles which may include issuing directions on:
+
+  3.1 the filing of a statement of reasons, further reasons, and a properly collated, indexed, and paginated bundle of relevant underlying documents by the second respondent; and
+
+The filing of amended and/or augmented grounds by the applicant.
+As far as it may be necessary, condoning the delay in filing this application, and extending any applicable time period to the date of its launch.
+Ordering that any respondents opposing this application pay the costs of the application, on a joint and several basis.
+Further and/or alternative relief.”
+It is the first respondent’s summary dismissal which the applicant in these proceedings seeks to have reviewed and set aside.
+The first respondent has filed a notice to abide by this Court’s decision and the second respondent has opposed the application.
+
+Grounds of review
+The applicant’s grounds of review are that:
+The Deputy Chairperson on his own of the FST was not authorised by an empowering provision to make the summary dismissal decision. Alternatively, a mandatory and material procedure prescribed by an empowering provision was not complied with.
+The summary dismissal decision was procedurally unfair. 
+[2023] 4 All SA 404 (GP) at 408
+The summary dismissal decision was irrational, unreasonable and arbitrary.
+In reaching the summary dismissal decision, the FST failed to consider relevant considerations and took into consideration irrelevant considerations.
+
+ The summary dismissal decision was materially influenced by an error of law, particularly in relation to the application of the FSR Act and the Protected Disclosures Act.
+
+The applicant’s submission in support of the relief
+The applicant submitted that the first respondent made a decision without affording the applicant an opportunity to address the first respondent. This infringed on his right to a hearing and to have his dispute resolved by a competent authority. It is his submission that even if the first respondent has the power to summarily dismiss the application, it did not have the power to mero motu decide the application on other grounds without first putting them to him. Therefore, the matter was determined in his absence and by default.
+The applicant avers that the second respondent also intended opposing the application and bringing a counter-application, therefore the first respondent’s conduct in ignoring the contention of both parties led to the first respondent making a decision unilaterally and denying him the opportunity to respond to the second respondent’s averments. It is his submission that his averments would have impacted the probabilities of the matter.
+He contends that the conduct of the first respondent is a breach of his right to access to the courts as guaranteed by the Constitution of the Republic of South Africa, 1996 (the “Constitution”). He further contended that the section 224 of the FSR Act requires that the Chairperson of the Tribunal constitute a panel for reconsideration applications and that the first respondent did not do so and the decision was made by the Deputy Chairperson alone. Further that there is no indication from the ruling that other members of a panel were involved and the fact that the first respondent has elected to abide by this Court’s decision and not answer the applicant’s allegations is proof of same.
+The applicant further submitted that section[s] 227 and 229 of the FSR Act together require that in reconsideration applications that the second respondent furnish the Tribunal with a “properly collated indexed and paginated bundle of the relevant underlying documents on which the decision was based together with further reasons, where necessary”. Further that rule[s] 9 and 13 state that an application for reconsideration must contain amongst others a statement of reasons. The second respondent did not furnish the first respondent with a statements of reasons and the first respondent took no steps to direct that the second respondent provide a statement of reasons or failed to issue directions in terms of section 232 of the FSR Act. In addition the bundle submitted by the second respondent to the FST did not constitute all the underlying documents and therefore could not have properly engaged or considered the reconsideration application. The first respondent’s decision is therefore in violation of the FSR  
+[2023] 4 All SA 404 (GP) at 409
+  Act and FST Rules and therefore the procedure adopted by the first respondent was unfair and flawed and stands to be reviewed and set aside in terms of section 6(2)(c) of PAJA alternatively on the principle of legality.
+By failing to issue directions to the parties for information to be made available the decision of the first respondent was unreasonable, arbitrary and not rationally connected to the factual matrix of the matter. The decision therefore stands to be reviewed and set aside in terms of section 6(2)(f)(ii), 6(2)(e)(iii), and 6(2)(e)(vi) of PAJA.
+That the finding by the first respondent that the applicant had “no interest in the outcome of the decision of lack of decision” and that the applicant is in “the position of an informer” and not a “person aggrieved” is a material misrepresentation as the applicant acted as both an informer and an aggrieved person by the second respondent’s decision in terms of section 230 of the FSR Act. Further that he had a material interest in the protected disclosure as he must be made aware of the next steps he must take in terms of section 8(1) of the Protected Disclosures Act 26 of 2000 (the “Protected Disclosures Act”) in the event that the second respondent was not equipped to deal with the matter and therefore erred in finding that he had no interest in the outcome. Section 8(2) of the Protected Disclosures Act states that in the event that a body to whom a protected disclosure is made, and who believes that the content of such protected disclosure is best dealt with by another body, then the former must render assistance to the employee or worker as is necessary to ensure that the protected disclosure may be properly made and dealt with.
+The finding that the “application is otherwise also vexatious and scurrilous” as the summary dismissal does not provide clarity on why the application is vexatious and scurrilous. The summary dismissal is therefore based on material errors of law and stands to be reviewed and set aside in terms of section 6(2)(d) of PAJA alternatively the principle of legality and declared unconstitutional and unlawful.
+In terms of section 235 of the FSR Act any party to the proceedings for an application for reconsideration that is dissatisfied with an order of the FST may institute proceedings for judicial review of the order in terms of PAJA or any other law. Therefore, he brings the present application in terms of section 235 of the FSR Act and that the decision of the first respondent is unlawful and invalid and stands to be reviewed and set aside in terms of PAJA.
+The applicant submitted that the first respondent has elected not to oppose the application, being the party whom relief is being sought against, and yet the second respondent whose decision is not under review has opposed the application. Therefore, it is unclear why the second respondent elected to oppose the application given the stance of the first respondent in these proceedings. That it is not whether the first respondent had jurisdiction that is being reviewed but whether the first respondent complied with the procedures in FSR Act and Regulations and therefore the decision stands to be reviewed and set aside.
+The applicant brought a conditional strike out application under rule 6(15) of the Uniform Rules of Court to strike out certain paragraphs of the answering affidavit alleging that the incorrect person deposed to the  
+[2023] 4 All SA 404 (GP) at 410
+  answering affidavit. He submits that Mr Naidoo’s term as Chief Executive Officer lapsed on 31 March 2022 and therefore was functus officio when he deposed to the answering affidavit on 12 April 2022. For this reason the applicant submits that he is no longer empowered to act on behalf of the second respondent and this renders the answering affidavit pro non scripto.
+
+The second respondent’s version
+Firstly the second respondent noted that the applicant did not address the strike out application in its heads of argument. On this point the second respondent relied on Ganes v Telkom Limited and Eskom v Soweto City Council with the courts stating that an affidavit in motion proceedings need not be authorised by the party concerned and that what is of relevance is whether the attorney bringing the application is authorised to do so and that a challenge to same should be brought in terms of rule 7(1). The second respondent submits that there has been no challenge to its attorneys’ authority in this matter. Further that at the time Mr Naidoo as the CEO declined to take a decision to the applicant’s protected disclosure and as such majority of the letters were penned and signed by him therefore the facts are within his personal knowledge and is best placed to give evidence to this Court.
+It [is] the second respondent’s version that that the applicant mistakenly considers what is an employment related dispute to that of one of unfairness and/or discrimination as constitution contraventions of provisions of financial sector laws being that which is in the ambit of the second respondent.
+The second respondent’s contention that the primary objective of the second respondent is to assist in maintaining financial stability and ensuring financial customers are protected against the risk that financial institutions may fail to meet their obligations. Further that in terms of the definition of a decision in section 218 of the FSR Act the second respondent did not take a decision in terms of financial sector laws.
+That the relief sought by the applicant is incompetent and it is submitted that section 232 indicates how proceedings of the Tribunal are to be conducted and any attempt by this Court to usurp the discretionary powers of the Tribunal would be a violation of this provision, especially where it is clear that the reconsideration application falls outside the ambit of the second respondent and that it made no decision in terms of section 218 of the FSR Act and therefore there is no decision for the first respondent to reconsider. Therefore it is evident from the first respondent summary dismissal that it did not assert jurisdiction and that it was therefore not necessary to provide further directions or conduct any hearing. The summary dismissal was lawful and justified.
+The second respondent submits that there are good grounds not to remit the matter to the first respondent as the first respondent does not have jurisdiction to reconsider the second respondent’s “decision”. This Court cannot impart jurisdiction on an administrator when the Legislature has not done so. The first respondent’s jurisdiction is circumscribed by the FSR Act and can only reconsider decisions as defined in section 218 of the FSR Act. The second respondent in [sic] not take any decision in terms of a financial sector law and as such the first respondent does not  
+[2023] 4 All SA 404 (GP) at 411
+  have the jurisdiction to reconsider the second respondent’s decision. As the first respondent cannot adjudicate the issue there has been no prejudice to the applicant by the first respondent’s decision to dismiss the application. Lastly that the standard principle that costs should follow the result should apply.
+
+The applicable law
+Trend Finance (Pty) Ltd and another v Commissioner for SARS and another [reported at [2005] 4 All SA 657 (C) – Ed] concerned the seizure of a shipment of shoes imported by the first and second applicants by the Commissioner for SARS and the Cape Town Controller of Customs (second respondent) for non-compliance with customs and duty requirements laid out in the Customs and Excise Act 91 of 1964. The applicants sought review of the respondents’ actions in the alternative on the basis of PAJA. Van Reenen J summarised the argument as follows:
+
+“The review of the determination is being sought on the following grounds: Firstly, that the respondents did not follow a fair procedure or afford the applicants a fair hearing before making the determination; Secondly, in the alternative, that the respondents did not afford them a fair hearing before demanding payment of an amount equal to the value thereof for duty purposes, namely R695 508; and Thirdly, that the determination was arbitrary and capricious as it was made on inadequate and insubstantial grounds” (at paragraph 73).
+
+Turning to the first two grounds of challenge, the judge began by noting that the challenge raised the requirements of procedural fairness set out in section 3 of PAJA. It is to be noted in this respect that the judge considered the application on this ground even though the applicants “fell somewhat short” of the obligation to identify clearly on which sections of PAJA reliance is placed (at paragraph 68). The Judge stated: 
+
+“Content is given to the concept ‘procedurally fair administrative action’ by section 3(2)(b) of PAJA which provides as follows:
+
+In order to give effect to the right to procedurally fair administrative action, an administrator, subject to subsection (4), must give a person referred to in subsection (1)–
+adequate notice of the nature and purpose of the proposed administrative action;
+a reasonable opportunity to make representations;
+a clear statement of the administrative action;
+adequate notice of any right of review or internal appeal, where applicable; and
+
+  (e) adequate notice of the right to request reasons in terms of section 5.’
+
+Those five requirements, which are considered to constitute the core elements of procedural fairness, may be departed from in the circumstances set out in subsection 3(4) which provides as follows:
+
+
+If it is reasonable and justifiable in the circumstances, an administrator may depart from any of the requirements referred to in subsection (2).
+In determining whether a departure as contemplated in paragraph (a) is reasonable and justifiable, an administrator must take into account all relevant factors, including–
+the objects of the empowering provision; 
+[2023] 4 All SA 404 (GP) at 412
+ (ii) the nature and purpose of, and the need to take, the administrative action;
+the likely effect of the administrative action;
+the urgency of taking the administrative action or the urgency of the matter; and
+the need to promote an efficient administration and good governance.’
+
+Section 3(3) of PAJA provides that an administrator, in order to give effect to the right of procedurally fair administrative action, in his discretion, may give the person whose rights or legitimate expectations are materially and adversely affected thereby an opportunity to:
+
+obtain assistance and, in serious or complex cases, legal representation;
+present and dispute information and arguments; and
+appear in person.’
+
+There is no evidence that the Controller, as delegate of the Commissioner, considered or was required to consider the discretion reposed in him by subsections 3(3) and (4)” (at paragraphs 77–78).
+
+The judge then set out the facts relevant to the determination of whether the applicants had been subject to unfair administrative processes. He drew from this factual exposition that the Controller had failed to notify the applicants that he was intending to exercise his discretion against the applicants, and failed to afford them any opportunity to make representations to the Controller prior to the exercise of that discretion. This, he concluded, “clearly offended against the mandatory requirements of subsections 3(2)(b)(i) and (ii) of PAJA”.
+Section 6 of PAJA sets out when a person can institute judicial review of administrative action as follows:
+
+“6  Judicial review of administrative action
+
+Any person may institute proceedings in a court or a tribunal for the judicial review of an administrative action.
+A court or tribunal has the power to judicially review an administrative action if–
+the administrator who took it–
+was not authorised to do so by the empowering provision;
+acted under a delegation of power which was not authorised by the empowering provision; or
+was biased or reasonably suspected of bias;
+a mandatory and material procedure or condition prescribed by an empowering provision was not complied with;
+
+  (c) the action was procedurally unfair;
+
+the action was materially influenced by an error of law;
+the action was taken–
+for a reason not authorised by the empowering provision;
+for an ulterior purpose or motive;
+because irrelevant considerations were taken into account or relevant considerations were not considered;
+because of the unauthorised or unwarranted dictates of another person or body;
+in bad faith; or
+arbitrarily or capriciously; 
+[2023] 4 All SA 404 (GP) at 413
+ (f) the action itself–
+contravenes a law or is not authorised by the empowering provision; or
+is not rationally connected to–
+the purpose for which it was taken;
+the purpose of the empowering provision;
+the information before the administrator; or
+the reasons given for it by the administrator;
+the action concerned consists of a failure to take a decision;
+the exercise of the power or the performance of the function authorised by the empowering provision, in pursuance of which the administrative action was purportedly taken, is so unreasonable that no reasonable person could have so exercised the power or performed the function; or
+the action is otherwise unconstitutional or unlawful.
+If any person relies on the ground of review referred to in subsection (2)(g), he or she may in respect of a failure to take a decision, where–
+
+ (a) (i) an administrator has a duty to take a decision;
+
+  (ii) there is no law that prescribes a period within which the administrator is required to take that decision; and
+
+the administrator has failed to take that decision, 
+
+  institute proceedings in a court or tribunal for judicial review of the failure to take the decision on the ground that there has been unreasonable delay in taking the decision; or
+
+ (b) (i) an administrator has a duty to take a decision;
+
+
+a law prescribes a period within which the administrator is required to take that decision; and
+the administrator has failed to take that decision before the expiration of that period, 
+
+  institute proceedings in a court or tribunal for judicial review of the failure to take the decision within that period on the ground that the administrator has a duty to take the decision notwithstanding the expiration of that period.”
+
+Section 8 of PAJA sets out the remedies in proceedings for judicial review of administrative action as follows:
+
+“8  Remedies in proceedings for judicial review
+
+The court or tribunal, in proceedings for judicial review in terms of section 6(1), may grant any order that is just and equitable, including orders–
+directing the administrator–
+to give reasons; or
+to act in the manner the court or tribunal requires;
+prohibiting the administrator from acting in a particular manner;
+setting aside the administrative action and–
+remitting the matter for reconsideration by the administrator, with or without directions; or
+
+  (ii) in exceptional cases–
+
+substituting or varying the administrative action or correcting a defect resulting from the administrative action; or 
+[2023] 4 All SA 404 (GP) at 414
+ (bb) directing the administrator or any other party to the proceedings to pay compensation;
+declaring the rights of the parties in respect of any matter to which the administrative action relates;
+granting a temporary interdict or other temporary relief; or
+as to costs.
+The court or tribunal, in proceedings for judicial review in terms of section 6(3), may grant any order that is just and equitable, including orders–
+directing the taking of the decision
+declaring the rights of the parties in relation to the taking of the decision;
+directing any of the parties to do, or to refrain from doing, any act or thing the doing, or the refraining from the doing, of which the court or tribunal considers necessary to do justice between the parties; or
+as to costs.”
+
+Financial Sector Regulation Act 9 of 2017
+Section 232 of the [FSR Act] states as follows:
+
+“Proceedings for reconsideration of decisions
+
+ 232. (1) In proceedings for reconsideration of a decision–
+
+the procedure is, subject to the financial sector laws and the Tribunal rules, determined by the Chairperson;
+
+  (b) the proceedings are to be conducted with as little formality and technicality, and as expeditiously, as the requirements of the financial sector laws and a proper consideration of the matter permit; and
+
+any party may be represented by a legal representative.
+
+  (2) The person chairing a panel may give directions to facilitate the conduct of proceedings for reconsideration of a decision before the panel.
+
+  (3) A panel must conduct any hearing it holds in public, but the person presiding over the panel may direct that a person be excluded from a hearing on any ground on which it would be proper to exclude a person from civil proceedings before the High Court.
+
+  (4) In proceedings for reconsideration of a decision, the panel is not bound by the rules of evidence, but may, subject to this section, inform itself on any relevant matter in any appropriate way.
+
+  (5) The person presiding over a panel–
+
+may, on good cause shown, by order, direct a specified person to appear before the panel at a time and place specified in the order to give evidence, to be questioned or to produce any document; and
+must administer an oath to or accept an affirmation from any person called to give evidence.
+
+  (6) A person giving evidence or information, or producing documents, has the protections and liabilities of a witness giving evidence in proceedings before the High Court.”
+
+ 
+[2023] 4 All SA 404 (GP) at 415
+Section 228 of the FSR Act States as follows:
+
+“Right to be informed
+
+An obligation in a financial sector law to notify a person of a decision taken in relation to that person must be read as including an obligation to notify the person of that person’s right–
+to request reasons for the decision in terms of section 229; and 
+to have the decision reconsidered in terms of Part 4.”S
+Section 229 of the FSR [Act] states:
+
+“Right to reasons for decisions
+
+ 229. (1) A person who has not already been given the reasons for the decision may, within 30 days after the person was notified of the decision, request a statement of the reasons for the decision from the decision-maker.
+
+ (2) The decision-maker must, within one month after receiving a request in terms of subsection (1), give the person a statement of the reasons for the decision, which must include a statement of the material facts on which the decision was based.”
+
+Section 224 of the FSR Act relates to the panel and states as follows:
+
+“Panels of Tribunal
+
+ 224. (1) The Chairperson must constitute a panel of the Tribunal for each application for reconsideration of a decision.
+
+ (2) The panel constituted to consider an application for the reconsideration of a decision is the decision-making body of the Tribunal, and the panel exercises any of the powers of the Tribunal relating to the reconsideration of the decision.
+
+ (3) The decision of the panel is the decision of the Tribunal as referred to in sections 234, 235 and 236 in respect of an application for the reconsideration of a decision.
+
+ (4) A panel consists of–
+
+a person to preside over the panel, who must be a person referred to in section 220(2)(a) or 225(2)(a)(i); and
+two or more persons who are Tribunal members or persons on the panel list.
+
+ (5) If, for any reason, a panel member is unable to complete proceedings for a reconsideration of a decision, the Chairperson may–
+
+replace that member with a person referred to in subsection (4);
+direct that the proceedings continue before the remaining panel members; or
+constitute a new panel and direct the new panel to either continue the proceedings, or start new proceedings.”
+
+Financial Services Tribunal Rules
+Rule 9 of the FST Rules states that:
+An application for reconsideration must contain the:
+decision letter; and
+statement of reasons, referred to in section 229 of the Act, and any other information including annexures provided to the applicant by the decision-maker.” 
+[2023] 4 All SA 404 (GP) at 416
+Rule 13 of the FST Rules states that:
+Upon receipt of the application for reconsideration, the decision-maker must, within 30 days of the date of receipt thereof, furnish the Tribunal secretariat with a hard copy or an electronic PDF version of a properly collated indexed and paginated bundle of the relevant underlying documents on which the decision was based together with further reasons, where necessary. Duplicates and documents that are not relevant to the application for reconsideration may not form part of the record. Records that do not comply with this provision will be returned to the decision-maker.”
+
+The audi alteram partem rule
+In a number of decisions in South Africa, including in such cases as South African Rugby Football Union and others v President of the Republic of South Africa and others 1998 (10) BCLR 1256 (T) and the South African Roads Board v Johannesburg City Council 1991 (4) SA 1 (A) [also reported at [1991] 4 All SA 722 (A) – Ed] the view was expressed that the audi alteram partem rule should not necessarily depend on whether proceedings were administrative, quasi-judicial or judicial.
+In Du Preez and another v Truth and Reconciliation Commission 1997 (3) SA 204 (A) [also reported at [1997] 2 All SA 1 (A) – Ed] (“Du Preez”) the court held that the Commission was under a duty to act fairly towards those implicated by the information received during the course of its investigations or hearings.
+The court indicated that it was instructive that the Committee’s findings in this regard and its report to the Commission could accuse or condemn persons in the position of the appellants. The court also noted that, subject to the granting of amnesty, the ultimate result could be criminal or civil proceedings against such persons. The court noted that the whole process was potentially prejudicial to them and their rights of personality. They had to be treated fairly. Procedural fairness meant they had to be informed of the substance of the allegations against them, with sufficient detail to know what the case was all about.
+In the case of SARFU, cited above, the question was whether the President, in appointing the Commission, acted in accordance with the principles and procedures which in that particular situation or set of circumstances were right and just and fair. Accordingly, the principle of natural justice should have been enforced by the court as a matter of policy irrespective of the merits of the case.
+The Commission emphasised that the fact that a commission is an advisory body does not detract from the fact that it is likely in the ordinary course of events, to make findings would cause prejudice to SARFU, and its officials.
+Section 34 of Constitution guarantees the right to a fair trial which includes affording parties to the litigation a fair opportunity to adequately address material issues in the papers, by evidence or during argument. A basic rule of fairness is that a person who will be adversely affected by an act or a decision of the administration or authority shall be granted a hearing before he suffers detriment. Peach sums up the audi rule as follows:
+
+“The audi alteram partem rule implies that a person must be given the opportunity to argue his case. This applies not only to formal administrative 
+
+ 
+[2023] 4 All SA 404 (GP) at 417
+
+enquiries or hearings, but also to any prior proceedings that could lead to an infringement of existing rights, privileges and freedoms, and implies that potentially prejudicial facts and considerations must be communicated to the person who may be affected by the administrative decision, to enable him to rebut the allegations. This condition will be satisfied if the material content of the prejudicial facts, information or considerations has been revealed to the interested party.”
+
+The requirement that in certain circumstances decision-makers must act in accordance with the principles of natural justice or procedural fairness has ancient origins.
+In general terms, the principles of natural justice consist of two component parts; the first is the hearing rule, which requires decision-makers to hear a person before adverse decisions against them are taken. The second and equally important component is the principle which provides for the disqualification of a decision-maker where circumstances give rise to a reasonable apprehension that he or she may not bring an impartial mind to the determination of the question before them. The latter aspect is not relevant in this matter.
+The principles of natural justice are founded upon fundamental ideas of fairness and the inter-related concept of good administration. Natural justice contributes to the accuracy of the decision on the substance of the case.
+The rules of natural justice help to ensure objectivity and impartiality and facilitate the treatment of like cases alike. Natural justice broadly defined can also be seen as protecting human dignity by ensuring that the affected individual is made aware of the basis upon which he or she is being treated unfavourably, and by enabling the individual to participate in the decision-making process. The application of the principle of natural justice has proved problematic.
+The challenge is always how to strike the right balance between public and private interest. Whilst this Court, in the circumstances of this matter, has to respond to the vulnerability of the applicant, I am at the same time aware that the court has to avoid a situation where the unconstrained expansion of the duty to act fairly threatens to paralyse its effective administration.
+In my respectful view, the public interest necessarily comprehends an element of justice to the individual. The competing values of fairness and individual justice on the one hand and administrative efficiency on the other hand constitute the public and the private aspects of the public interest.
+It seems plain to me that the principles of natural justice are intended to promote individual trust and confidence in the administration. They encourage certainty, predictability and reliability in government interactions with members of the public, irrespective of their stations in life and this is a fundamental aspect of the rule of law.
+In a delicate balancing act, it is the duty of the courts to uphold and vindicate the constitutional rights of the applicant to its good name cannot have the effect of precluding the Commissioner from discharging duties and responsibilities exclusively assigned to it by the relevant legislation. However, such an inquiry may only proceed in a manner  
+[2023] 4 All SA 404 (GP) at 418
+  which strictly recognises the right of the applicant to have the inquiry conducted in accordance with natural justice and fair procedures.
+In Gamede v The Public Protector (99246/2015) [2018] ZAGPPHC 865, 2019 (1) SA 491 (GP) [also reported at [2018] JOL 40338 (GP) – Ed] De Vos J held that:
+When it appears to the respondent, during the course of an investigation, that a person is implicated by the investigation and that such implication may be to his/her detriment, or that an adverse finding may be made against such person, the respondent will inform the affected person of the implication and provide him/her with an opportunity to respond. Taking into account that the complaint was lodged in June 2015 and the applicant was informed about this complaint on 17 June 2015, it must be accepted as a fact that the applicant was informed of – and requested to respond to – the complaint very soon after it was received. Therefore, I can safely conclude that on 17 June 2015 the investigation process was in a preliminary stage before any provisional or final decision was taken. The respondent will, after completion of the preliminary investigation and if it appears to her that the applicant may be implicated to his detriment, by way of letter communicate her preliminary findings based on the information sourced during the investigation process, and will propose remedial action in light of these findings. The affected individuals are thereby provided with a further opportunity to present any additional evidence to the respondent. The respondent also provides the complainant with an opportunity to submit any further comments on the matter being investigated, should he/she wish to do so.”
+After considering the comments and/or additional information received, the respondent, with the assistance of her staff, integrate[s] the comments and evaluates them, following which the respondent edits and completes the final report. Subsequent to that event the final report is published and made accessible to the public, unless there are special considerations that require that it be kept confidential.
+The investigation is still in the preliminary stage and essentially comprises of an information gathering exercise. The investigative process is a fact finding mission which includes personal interaction and engagement with the complainant, the applicant, and factual witnesses.
+
+Principle of legality
+In Fedsure Life Assurance Ltd and others v Greater Johannesburg Transitional Metropolitan Council and others 1999 (1) SA 374 (CC) [also reported at 1998 (12) BCLR 1458 (CC) – Ed] – where the Constitutional Court held that the exercise of public power is only legitimate when it is lawful. The principle of legality has expanded and encompasses several other grounds of review, including lawfulness, rationality, undue delay and vagueness (see Hoexter “Administrative Justice in Kenya: Learning from South Africa’s Mistakes” 2018 62(1) Journal of African Law 105 123).
+In the case of Law Society of South Africa and others v President of the Republic of South Africa and others 2019 (3) SA 30 (CC) [also reported at 2019 (3) BCLR 329 (CC) – Ed] the court in dealing with the point of irrationality referred to the case of Masetlha v President of the Republic of South Africa and another 2008 (1) SA 566 (CC) [also reported at 2008 (1) BCLR 1 (CC) – Ed] (“Masetlha”). It was held that the principle does not encompass the  
+[2023] 4 All SA 404 (GP) at 419
+  requirement of procedural fairness. It was, therefore, essential to distinguish between these two requirements. Procedural fairness provides that a decision-maker must grant a person who is likely to be adversely affected by a decision a fair opportunity to present his or her views before any decision is made. Procedural rationality provides that there must be a rational relation not only between a decision and the purpose for which the power was given, but also between the process that was followed in making the decision and the purpose for which the power was given (at paragraph 63). The court held the following at paragraph 64:
+
+“The proposition in Masetlha might be seen as being at variance with the principle of procedural irrationality laid down in both Albutt and Simelane. But it is not so. Procedural fairness has to do with affording a party likely to be disadvantaged by the outcome the opportunity to be properly represented and fairly heard before an adverse decision is rendered. Not so with procedural irrationality. The latter is about testing whether, or ensuring that, there is a rational connection between the exercise of power in relation to both process and the decision itself and the purpose sought to be achieved through the exercise of that power.”
+
+The critical issue in this case was not whether a fair hearing was given or not. Instead, the critical issue was whether the process followed before the deciding [sic] effectively to suspend the Tribunal and deprive it of its existing jurisdiction to hear individual complaints was rationally connected to the purpose for which the power to amend the Treaty had been given to him. The court found that it was not.
+
+Analysis and findings
+It is clear from the reading of section 8 of the Protected Disclosures Act that it was the Legislature’s intention that the second respondent render assistance to an employee where another body is the appropriate body to deal with the matter and to ensure that the employee is able to comply with that section. In essence there is a statutory duty on the second respondent to have advised the applicant of the appropriate forum to resolve his complaint even if the second respondent was of the view that it was a labour dispute, it should have informed the applicant. The second respondent refused to provide reasons for its decision to dismiss the matter, and whilst this Court appreciates that some of the information may be covered by the secrecy clause detailed in section 33 of the South African Reserve Bank Act 90 of 1989, I am of the view that this did not absolve the second respondent of its statutory duty in terms of section 8 of the Protected Disclosures Act. The second respondent has offered no explanation to this Court for its failure to comply with this section. Had the respondent done this, it would not have necessitated the present application or even the reconsideration application to the first respondent.
+Notably, as pointed out by the applicant, the decision being reviewed is that of the first respondent who has elected to abide by this Court’s Ruling. I am at odds to understand the second respondent’s opposition to the application given the first respondent’s stance.
+The applicant was clear that the review was on the grounds of the first respondent’s failure comply with the procedures set out in the FSR Act and FST Rules in not constituting a panel or issuing directions or calling  
+[2023] 4 All SA 404 (GP) at 420
+  for a hearing prior to summarily dismissing the reconsideration application, is what is being reviewed as it was irrational, unreasonable and unlawful. It was not seeking to review whether or not the first respondent had jurisdiction. I agree with the applicant that the first respondent’s jurisdiction is irrelevant to the review before me.
+Turning on whether the failure by the first respondent to permit the applicant a hearing or provide directions to the parties before summarily dismissing the application, I am satisfied that the decision amounts to administrative action for the purposes of PAJA. I am mindful of that the ground for review is not related to the decision to first respondent’s jurisdiction but rather the failure to provide the applicant with a fair hearing and in terms of Masetlha, supra, whether or not there was procedural rationality between the first respondent’s decision and the purpose for which the power was given, and also between the process that was followed in first respondent arriving at making the decision and the purpose for which the power was given.
+Section 224(4)(b) clearly states that a panel must consist of two or more persons. There is no indication from the ruling of 6 July 2021 by the first respondent that the decision was not only made by the Deputy Chairperson and this is not evident from the record either. It is therefore clear that a panel was not constituted in terms of the FSR Act as required by the first respondent.
+In terms of section[s] 228–229 of the FSR Act both the first and second respondents has [sic] a statutory obligation to inform the applicant of his right to request reasons and then to provide those reasons. None of their letters setting out their decisions state this. It is common cause that the second respondent refused to furnish the applicant with reasons in terms of section 33 of the SARB Act, however I already found above that this did not absolve the second respondent from its statutory duty in terms of section 8 of the Protected Disclosures Act. It has therefore also failed to inform and provide reasons as required by the FSR Act.
+The FST Rules are clear that reasons must be submitted in order for the reconsideration application to be considered and if not done so the decision-maker must do so within 30 days. It seems plain to me from the papers that the first respondent does not deny the applications contentions and for that reason has chosen to abide by this Court’s Ruling. It my view, the second respondent’s opposition does not take the matter any further and there is no need to delve into the merits of the second respondent’s averments. The first respondent, although clearly entitled to determine procedures relating to it at its own discretion, it is also prudent in a fact-finding investigation to inform and interact with a person whose rights may be adversely affected. In the present matter the first respondent did not at any stage of its investigation find it necessary to engage with the applicant [who] is clearly adversely affected by the decision. This goes against the principles of natural justice and fair procedure. At this stage I am satisfied that this failure to do so renders the conduct to be reviewed and set aside. It cannot be denied that the decision adversely affected the applicant and at the very least he should have been given reasons for the decision by both the first and second respondents. I am in agreement with the applicant that without the reasons from the second respondent being provided to the first respondent it did not have the necessary information  
+[2023] 4 All SA 404 (GP) at 421
+  before it which in terms of the FST Rules it was required to have for a reconsideration application, that the first respondent did could not have properly applied its mind to the matter in order to summarily dismiss the application. In absence of the first respondent’s reasoning I cannot find any procedural rational[e] for the first respondent’s decision.
+This Court is empowered in terms of section 8(2) of PAJA to make an order directing the parties at this Court finds necessary to do justice between the parties. Therefore the contention by the second respondent that this Court cannot in terms of section 232 attempt to usurp the discretionary powers of the Tribunal and this would be a violation of this provision, is misguided.
+I see no reason why the costs should not follow the result. I grant the following order:
+That the decision of the first respondent in Ahjeeth Jaihai v Prudential Authority (PA3/2021) is hereby reviewed and set aside.
+The application for reconsideration is remitted to the first respondent for reconsideration.
+The first respondent is directed, in reconsidering the application for the reconsideration, to include issuing directions on:
+the filing of a statement of reasons, further reasons, and a properly collated, indexed, and paginated bundle of relevant underlying documents by the second respondent; and
+The filing of amended and/or augmented grounds by the applicant.
+The first and second respondents are ordered to pay the costs of this application, on a joint and several basis.
+
+[Paragraph numbering as per original court transcript – Ed].
+
+For the applicant:
+
+K Premhid and S Mohammed instructed by Power Singh Incorporated
+For the second respondent:
+
+M Majozi instructed by Werksmans Attorneys
+
+
+End of Document

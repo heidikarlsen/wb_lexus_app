@@ -1,0 +1,1169 @@
+
+
+
+
+(ZA) GN 6554 of 29 August 2025:  National Policy for the management of waste electrical and electronic equipment ( (Government Gazette No. 53243)
+
+
+
+National Subordinate Legislation  >  ZA Subordinate Legislation  >  N  >  National Environmental Management: Waste Act, No. 59 of 2008  >  Rules and Regulations  >  Notices
+
+DEPARTMENT OF FORESTRY, FISHERIES AND THE ENVIRONMENT
+
+I, Dion Travers George, Minister of Forestry, Fisheries and the Environment, hereby publish the National Policy for the management of Waste Electrical and Electronic Equipment for implementation, as set out in the Schedule hereto.
+
+(Signed)
+
+DR DION TRAVERS GEORGE
+
+MINISTER OF FORESTRY, FISHERIES AND THE ENVIRONMENT
+
+SCHEDULE
+NATIONAL POLICY FOR THE MANAGEMENT OF
+WASTE ELECTRICAL AND ELECTRONIC EQUIPMENT
+(WEEE)
+TABLE OF CONTENTS
+Acronyms and Abbreviations
+Glossary of Terms
+Executive Summary
+1. Introduction
+2. WEEE Policy Structure
+3. Policy Direction
+3.1Goal
+3.2Vision
+3.3Aims
+4. Background
+5. Rationale
+6. Methodology
+6.1General
+6.2Social aspects
+6.3Environmental aspects
+6.4Economic aspects
+6.5Technical aspects
+6.6Legal aspects
+7. Alignment
+7.1National Legislation
+7.1.1The Constitution of the Republic of South Africa (7 of 1996)
+7.1.2National Environmental Management Act (107 of 1998)
+7.1.3National Environmental Management: Waste Act (59 of 2008)
+7.1.4Occupational Health and Safety Act (85 of 1993)
+7.1.5Hazardous Substances Act (15 of 1973)
+7.1.6Second-Hand Goods Act (6 of 2009)
+7.1.7Precious Metals Act (37 of 2005)
+7.1.8The Consumer Protection Act (68 of 2008)
+7.1.9The South African National Roads Agency Limited and National Roads Act (7 of 1998)
+7.1.10The Public Finance Management Act (1 of 1999)
+7.1.11Local Government: Municipal Finance Management Act (53 of 2003)
+7.1.12Protection of Personal Information Act (4 of 2013)
+7.1.13Cybercrimes Act (19 of 2020)
+7.2Regulations, Guidelines and Strategies
+7.2.1EPR Regulations and Notices (Section 18 of NEMWA)
+7.2.2National Waste Management Strategy (2020)
+7.2.3Local Municipal Integrated Development Plans and Integrated Waste Management Plans
+7.2.4National Waste Picker Integration Guidelines
+7.2.5South African Plastics Pact
+7.3Key National Development and Economic Growth Strategies
+7.3.1National Development Plan: Vision 2030
+7.3.2The Seven Priorities of the 6th Administration
+7.3.3National Spatial Development Framework
+7.4International and Regional Alignments
+7.4.1Basel Convention on the Control of Transboundary Movements of hazardous wastes and their Disposal of 1989, ‘The Basel Convention.
+7.4.2Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade, ‘The Rotterdam Convention.’
+7.4.3Stockholm Convention
+7.4.4Montreal Protocol
+7.4.5ISO IWA 19: Guidance Principles for the Sustainable Management of Secondary Metals
+7.4.6UN Sustainable Development Goals
+7.4.7Bamako Convention
+7.4.8Global Treaty on Plastics
+8. Environmentally Sound Management of WEEE
+8.1International Guiding Principles
+8.2International Trading Principles
+8.2.1Transboundary Movement of WEEE
+8.2.2SADC Wide Collaboration
+8.3Integrated Environmental Management
+9. Implementation Framework and Institutional Arrangement: WEEE Policy Steering Committee
+9.1Establishing the WEEE Policy Steering Committee
+9.2Representation in the WEEE Policy Steering Committee
+9.3Funding the WEEE Policy Steering Committee
+10. Roles of Key Stakeholders
+10.1Department of Forestry, Fisheries and the Environment
+10.2Department of Trade, Industry and Competition
+10.3Department of Science and Innovation
+10.4Council of Scientific and Industrial Research
+10.5Department of Statistics: Stats SA
+10.6Department of Communications and Digital Technologies
+10.7Treasury
+10.8Department of Health
+10.9Department of Employment and Labour
+10.10South African Revenue Services, Customs and the International Trade Admission Commission
+10.11Department of Higher Education and Training
+10.12Municipalities
+10.13South African Local Government Association
+10.14Provinces
+10.15Producers
+10.16Producer Responsibility Organisations
+10.17WEEE Processors
+10.18Informal WEEE Collectors
+10.19EEE Retailers
+10.20EEE Consumer
+10.21Auditors
+10.22Academia
+10.23Civil Rights Organisations
+11. Resource Mobilization
+12. Monitoring and Evaluation Framework and Reporting
+13. Advocacy and Dissemination
+14. Legal Arrangements
+15. Implementation & Action Plan
+16. Conclusion
+Appendix 1 WEEE Policy Matrix
+References 
+
+Acronyms and Abbreviations
+
+
+Glossary of Terms
+
+Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal   The ‘Basel Convention’ is a multilateral environmental agreement that aims to protect human health and the environment against the adverse effects of hazardous wastes and other waste through the promotion of ESM and regulation of transboundary movements of hazardous wastes and other waste.
+Best Practicable Environmental Option (BPEO)   The option that provides the most benefit or causes the least damage to the environment as a whole, at a cost acceptable to society, in the long term as well as the short term.
+Circular economy   A regenerative system in which resource inputs and waste, emissions, and energy leakage are minimised by slowing, closing, and narrowing energy and material loops. This systemic approach contributes to sustainable development by supporting the regeneration of natural ecosystems and preventing waste and pollution. This is achieved by designing circular resource flows, minimizing the inflow of virgin resources, and keeping the value of resources as high as possible for as long as possible. To achieve circularity, people must consider all technical and natural systems throughout production, consumption and waste management practices. Systems must include durable design, maintenance, repair, reuse, remanufacturing, refurbishing, and recycling. A circular economy is in contrast to a linear economy which is a ‘take, make, dispose’ model of production [1]
+Depollution   A process whereby authorised and trained personnel undertake selective treatment removing hazardous substances and components from WEEE or EEE. The removal can be manual, mechanical, or metallurgic treatment, resulting in hazardous substances and components as an identifiable and clearly measurable mass-balance based, separate and controllable stream at the end of the treatment process.
+Electrical and Electronic Equipment (EEE)   Equipment which is dependent on electric currents or electromagnetic fields to work properly and equipment for the generation, transfer and measurement of such currents and fields and designed for use with a voltage rating not exceeding 1 000 volts for alternating current and 1 500 volts for direct current [2]
+Extended Producer Responsibility (EPR)   As defined in the EPR Regulations.
+Environmentally Sound Management (ESM)   Taking all practical steps to manage hazardous waste or other wastes to protect human health and the environment against the adverse effects that may result from such wastes, as outlined in Article 2 of the Basel Convention. Also defined in the NEMWA (59 of 2008) [3] as: “environmentally sound management” means the taking of all practicable steps to ensure that waste is managed in a manner that will protect health and the environment.
+Free-rider   A producer, as defined in the EPR Regulations who benefits from the actions or efforts of another producer, in relation to an EPR scheme without fully complying with the requirements of EPR scheme;
+Norms and Standards (N&S)   National Norms and Standards for the Management of Waste Electrical and Electronic Equipment (WEEE).
+Producer   As defined in the EPR Regulations.
+Producer Responsibility Organisation (PRO)   Non-profit organisations established by producers or any person operating in any of the industrial sectors covered in the Notices published in terms of the NEMWA (59 of 2008) [1] to support the implementation of their EPR scheme and may represent individual or collective producers.
+Sustainable Development Goals (SDGs)   United Nations Member States in 2015 adopted a collection of 17 interconnected global goals as a universal call to action for global partnership on global challenges.
+The Policy   The Draft National Policy for the Management of Waste Electrical and Electronic Equipment (WEEE) in terms National Environmental Management: Waste Act, 2008 (Act No. 59 of 2008)
+The Polluter Pays Principle   There should be life-cycle responsibility for anything that impacts the environment. The responsibility includes the costs of remedying environmental pollution and preventing, controlling and minimising environmental damage must be covered by those responsible for harming the environment.
+Waste Electrical and Electronic Equipment (WEEE)   Various forms of electric and electronic equipment that have ceased to be of any value to their owners without the intent of reuse and which include all components, sub-assemblies and consumables that are part of the product at the time of discarding. The Policy covers all WEEE categories described in the NEMWA (59 of 2008) [4] namely:
+
+Large Household Appliances
+
+Small Household Appliances
+
+Office, Information & Communication Equipment
+
+Entertainment & Consumer Electronics and Toys, Leisure, Sports & Recreational Equipment, and Automatic Issuing Machines
+
+Lighting Equipment
+
+Electric and Electronic Tools
+
+Security and Health Care Equipment
+
+Mixed WEEE
+
+WEEE Management Chain   Any operator or facility conducting any of the WEEE-specific management activities listed below is part of the WEEE management chain—
+
+• Collection
+
+• Sorting and Classification
+
+• Logistics
+
+• Transportation
+
+• Processing
+
+• Preparation for reuse
+
+• Preparation for final treatment
+
+WEEE Value Chain   The WEEE value chain refers to the sequence of activities involved in managing and processing WEEE. Parties that provide value include suppliers, outsourced workers, contractors, and others that receive value, including customers, consumers, clients, members, and other users.
+
+Executive Summary
+
+Historically there was no specific dedicated legislation framework governing the environmentally sound management (ESM) of end-of-life electrical and electronic equipment (EEE), also known as “e-waste” or waste electrical and electronic equipment (WEEE) in South Africa. However, the Waste Act (Act no. 59 of 2008) has in recent years (2021) directed extended producer responsibility (EPR) regulations [1] were introduced to South Africa, which covering, for the first time, target-defined take-back and treatment obligations for producers of various waste streams deemed “problematic”, including all types of WEEE. Therefore, the WEEE Policy calls for setting up a clear regulatory and institutional framework based on the principles of EPR, with clear roles and responsibilities laid down in law and underpinned by a financing system required for the ESM of WEEE.
+
+Over the years and with rapidly increasing per capita WEEE generation volumes, there is mounting visible evidence that, in many instances, poor handling, mismanagement, inadequate recycling and illegal treatment practices and disposal of WEEE globally, (Global E-waste monitor, 2024) as is the case in South Africa. This status quo is leading to challenges to legally introduce circular economy principles for the cradle-to-cradle management of obsolete EEE and waste.
+
+Consequently, the key stakeholders identified in the Policy need to ensure that any valuable, recoverable secondary resources locked in any WEEE are available again for manufacturing and not permit any hazardous substances to leak into the environment. Stakeholders must take guidance from the Policy to follow fundamental principles, such as the waste hierarchy, sustainable development, and the polluter pays principle.[5] A sustainable WEEE management system appropriate to South Africa aims to guide decisions and achieve rational outcomes according to the best practicable environmental option (BPEO).
+
+The vision of the Policy is to be designed as a robust, integrative, harmonising and comprehensive framework for the sustainable management of all types of WEEE in South Africa and benefit all South Africans. This Policy aims to ensure the efficient, equitable, inclusive, and financially sustainable management of all WEEE that is safe for the environment, protects human health and furthers Circular Economy principles based on social and technical development opportunities in South Africa.
+
+The Department of Forestry, Fisheries and Environment (DFFE), with guidance from the international and local stakeholders, developed the South African National Policy for the Management of Waste Electrical and Electronic Equipment (WEEE).
+
+This WEEE Policy document sets out the framework, defines the key policy aims and describes the suggested objectives and expected outcomes required for South Africa to be able to both harness any socio-economic opportunities from WEEE management while ensuring that the protection of all South Africans and the environment is always in place while tackling the growing challenge of WEEE.
+
+Section 24 of the Constitution of the Republic of South Africa enshrines the protection of the environment and the right of every South African to an environment that is not harmful [6]. The WEEE Policy further aligns with the critical strategic outputs from policies and guiding documents of international importance, such as the Sustainable Development Goals (SDGs) and various multilateral environmental agreements (such as the Basel Convention). Local policies and strategies that shape the face of waste management and local economic growth and development opportunities in South Africa include but are not limited to the following—  
+
+• National Waste Management Strategy 2020 (NWMS) [5];
+
+• National Policy Development Framework 2020;
+
+• National Development Plan: Vision 2030 (NDP); and
+
+• Waste Picker Integration Guideline for South Africa: Building the recycling economy and improving livelihoods through Integration of the informal sector, 2020.
+
+In addition, the Policy outlines more regulations and strategies in detail in section 7.
+
+The complex nature of this waste stream means that the development of the WEEE Policy requires a cross-cutting and collaborative management approach. The approach spans several sectors, with diverse public and private key stakeholder input. The Policy focus areas are discussed in the stakeholder’s summary, including the roles and responsibilities of critical stakeholders in section 10.
+
+The WEEE policy matrix in Appendix 1 includes the critical elements of the proposed policy-related Implementation and Action Plan (I&A Plan). The DFFE develops the I&A Plan in consultation with other government departments and a dedicated WEEE Policy Steering Committee (WEEPSC) workgroup after the final policy is established. The WEEE policy matrix in Appendix 1 does not provide for the overall budgeting of the I&A Plan and the anticipated timelines to reach all aims on a milestone basis, this is established in the Costing Framework held by the DFFE.
+
+Appendix 1 provides further details about the activities under each policy aim, the defined objectives and how to accomplish them, and any envisaged outcomes. It establishes the critical stakeholders required, their roles and responsibilities, and the suggested Key Performance Indicators (KPIs). The KPI’s allow for systematic evaluation, monitoring, and reporting geared towards continuous improvements and subsequent implementation.
+
+The EPR Regulations provide crucial regulatory mandates to specific vital stakeholders to achieve the six Policy aims. Enforcing the EPR Regulations requires effective and expedient cooperative environmental governance and integrated environmental management. Designing an efficient EPR system of governance around WEEE management must promote circular economy initiatives. The required EPR fees can also provide financial support for actioning policy objectives
+
+1     Introduction   Globally, countries are increasingly adopting WEEE-specific legislation, most often based on the framework of EPR and the polluter pays principle. International conventions, treaties and protocols exist that cover various aspects of the responsible management of WEEE, and the most important ones which South Africa has signed are the following—
+
+• Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (as amended);
+
+• Rotterdam Convention on Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade;
+
+• Montreal Protocol: Protocol for the Protection of the Ozone Layer; and
+
+• Stockholm Convention on Persistent Organic Pollutants.
+
+Section 24 of the Bill of Rights in the Constitution of the Republic of South Africa [6] states that ‘Everyone has the right to an environment that is not harmful to their health or wellbeing; and to have the environment protected, for the benefit of present and future generations, through reasonable legislative and other measures that prevent pollution and ecological degradation; promote conservation; and secure ecologically sustainable development and use of natural resources while promoting justifiable economic and social development’. Pertinent legislation that furthers the purpose of section 24 is the National Environmental Management Act (107 of 1998) (NEMA) and the National Environmental Management: Waste Act (59 of 2008) (NEMWA). Globally, WEEE is the fastest-growing hazardous waste stream, and South Africa will need to manage WEEE to uphold the Bill of Rights and pertinent legislation.  
+
+The National Waste Management Strategy 2020 (NWMS) [5] aims to achieve the aims of NEMWA and has highlighted WEEE as an essential waste stream to manage. NWMS, in Strategy Pillar 1, “Waste Minimisation”, promotes opportunities to advance WEEE as a resource and better separation at source to enable increased recycling and beneficiation of WEEE. Based on the proposed actions required in the NWMS, South Africa successfully introduced a range of EPR Regulations and specific product Notices for EEE, lighting, paper, packaging, and some single-use products, portable batteries, pesticides and lubricant oil.
+
+Globally, the level of sound WEEE recycling is currently very low and estimated to be between 7-12%1. According to the Global E-Waste Monitor 2020 [7], South Africa generated 415.5 metric kilo-tons (kt) of WEEE in 2019, while reported tonnages of WEEE by most of the data sources used in the Greencape 2022 Market Intelligence report [8] suggest that the annual generation rate of WEEE for South Africa has now reached anything between 340 000 to 380 000 tons per year. Approximately 6 kg/y to 7 kg/y of WEEE is generated on average by every South African citizen. Thus, WEEE should be recovered for reuse, refurbishment, or recycling. However, the public and private sectors stockpile vast amounts of WEEE.
+
+Lydall, Nyanjowa and James did the first thorough mapping of WEEE in 2017 [9] to establish the current WEEE dismantling, pre-processing and processing technology landscape in South Africa. The resultant Mintek report sought to identify and promote justifiable economic and social development opportunities from WEEE. For South Africa, it is essential to strengthen local and regional WEEE dismantling, pre-processing and processing capacity and invest in additional technology, and this will require more significant efforts by the public and private sectors to divert WEEE out of the waste stream. Access to current WEEE stockpiles and controlled public and private release programmes are crucial, with the report pointing out that “currently the main source of WEEE ‘inputs’ (waste) to the recycling sector in South Africa is derived from local and provincial government departments (45%), followed by the business sector (35%) and households (20%)”.[9]
+
+In urban centres in South Africa, there are WEEE recycling activities. Gauteng is the primary hub of WEEE management. However, outside the WEEE key recycling activity areas, rural areas in South Africa typically lack a proper WEEE collection and recycling system. There is also a lack of awareness about its proper treatment instead of illegal disposal.
+
+At the time of the study [9], 100 formally registered companies were operating across the South African WEEE recycling value chain (from collection to processing). However, 85% of volumes handled in 2015 were by a handful of processing facilities. These facilities sourced most of their materials through smaller formal operators and informal collectors. Contributions from more miniature and informal collectors have not been easily quantified and subsequently honoured in the past.
+
+The new EPR regulations require WEEE producers and their mandated Producer Responsibility Organisation (PRO) to provide proof of informal sector integration for collection. Activities such as preparation for recycling-type processes can also be a form of integration, provided supervision and support are available. This Policy also sees informal sector integration and upskilling as cross-cutting key deliverables and touching on most of the six policy aims.
+
+In addition, the Policy seeks to develop opportunities for local economic development from WEEE, using the secondary resources as a powerful driver for South Africa’s emergence of a Circular Economy. All this while ensuring no harm is caused to the environment or any South African citizen when harnessing the value fractions from WEEE. Isolating and treating pollutants must ideally be done according to the applicable BPEO and its relevance to the waste sector and EIA processes [10].
+
+The National Policy in Thermal Treatment of General and Hazardous Waste [11] states that properly designed and operated thermal treatment facilities are considered the best technology for various general and hazardous waste streams. The current emission standards for incineration and co-processing that align with best environmental practices are very stringent, with extremely low emission limits permissible are practical to ensure the protection of human health and the environment.
+
+The successful implementation of the WEEE Policy requires the commitment of a range of stakeholders, and the DFFE will provide an ongoing opportunity for contributions to the implementation of this Policy.
+
+2     WEEE Policy Structure   The WEEE Policy document starts by providing acknowledgements, a foreword section, a list of acronyms and abbreviations used, and a glossary of terms providing key definitions. It then contains the executive summary, which summarises and synthesises the essential WEEE Policy elements described in the main body of the Policy.
+
+The document’s second section introduces the policy direction regarding policy goals, vision, aims, and objectives. The third section provides a detailed background from to the status quo of WEEE generation and management worldwide and in South Africa. Section four provides the motivation and reasons for developing a South African WEEE policy and defines the context.
+
+In section five, the Policy provides insights into the methodology used and how it subsequently informed the design and the timeline throughout the policy development process. Section six summarises the legal landscape in South Africa while highlighting the areas of policy alignment to national legislation, regulations, guidelines and strategies, as well as regional and international conventions, instruments, policies and protocols. In section seven, international guiding principles, international trading principles, and integrated environmental management principles clarify what it means to undertake the environmentally sound management of WEEE.
+
+Section eight provides the Implementation Framework and Institutional Arrangement, particularly establishing the WEEE Policy Steering Committee. After that, section nine provides the roles and responsibilities of all the identified key stakeholders and the suggested KPIs as reporting tools to assess progress in reaching each policy aim. Sections ten, eleven, twelve and thirteen deal with resource mobilisation; steps towards establishing a monitoring, evaluation and reporting framework; advocacy and Policy dissemination strategies; and appropriate legal arrangements.  
+Section ten clarifies the I&A Plan and concludes with a review and critical considerations. Notably, after the conclusion in Appendix 1, the WEEE Policy Matrix details the aims, outcomes, stakeholders and indicators for each action listed under the six aims.  
+3     Policy Direction  
+3.1   Goal
+
+The goal of this Policy is to:
+
+Ensure the efficient, equitable, inclusive, and financially sustainable management of all WEEE that is safe for the environment, protects human health and furthers Circular Economy based social and technical development opportunities in South Africa.
+
+As such, the South African WEEE Policy Goal aligns with the United Nations Agenda 2030 embedded SDGs and targets 3.9, 8.3, 8.8, 11.6, 12.4 and 12.5 as those relate directly to the issues associated with WEEE2.
+
+3.2   Vision
+
+With the DFFE as the custodian of the Policy, the vision of the latter is “to provide a robust, integrative, harmonising and comprehensive legislative framework that leads to the safe and sustainable management of all WEEE in South Africa that is evidence-based, transparent and inclusive therefore responding to the needs of all South Africans”.
+
+3.3   Aims and Objectives
+
+The aims and the defined aims related to each of the aims of this Policy are as follows:
+
+
+Table 1: South Africa’s WEEE Policy Aims and Objectives
+
+4     Background   WEEE is one of the world’s fastest-growing waste streams, and that is also the case for South Africa. Apart from imports of end-of-life equipment set to become WEEE quickly, in most countries, increased consumer demand, access to electrical and electronic equipment, and perceived and planned equipment obsolescence have caused the waste stream’s rise. Rapid technological advancements [12], exclusive ownership claims, and poorly designed products promote the growth of WEEE as a global waste stream. The adoption of EEE by more prominent sections of the population due to greater access and affordability has led to a growing stock of discarded WEEE in South Africa.
+
+Generally, WEEE management is a process that presents an opportunity to recover secondary resources such as metals, plastics, and glass. The possibility of recovering valuables from WEEE has yielded significant employment and economic opportunities in developed and developing countries.
+
+Despite these opportunities, poor handling, mismanagement, inadequate recycling, illegal treatment practices, and disposal of WEEE in South Africa are taking place and are exacerbated by the rapidly increasing per capita WEEE generation and consumption volumes. The unsound disposal of WEEE affects environmental and human health. For example, improperly disposed refrigerants significantly contribute to greenhouse gas emissions, and dumped appliances can leach pollutants into the soil and water, impacting life-sustaining systems. Many South Africans have been subject to unsound WEEE management practices, such as open-air cable burning that pollute the air with dangerous toxins [13].
+
+The status quo requires a legal framework driven by circular economy principles. These principles must first ensure the value-preserving cradle-to-cradle management of any EEE and, second, minimise WEEE from the outset by applying the Waste Management Hierarchy. The hierarchy includes the promotion of reductions in WEEE through smart procurement and reasonable maintenance of ICT/EEE, reuse of well-functioning electronic equipment that can be donated or sold, and recycling of materials as the last resort if the functionality of equipment and its key components cannot be restored.
+
+Some of the essential envisaged outcomes of this Policy are ensuring ESM of WEEE by—
+
+1. defining “Minimum Technical and Operational Requirements” for all WEEE value chain partners and as per the Norms and Standards (N&S)4; and
+
+2. encouraging the use of BPEO in line with feasible environmental practices globally, thereby eliminating or mitigating any negative impact on the environment and human health.
+
+The South African legal policy framework also draws inspiration and guidance from several international and regional conventions (such as the Basel and Rotterdam Conventions) designed to control the transboundary movement of hazardous substances.
+
+Through this Policy5, all stakeholders, including producers, consumers, recyclers and the Government (as the policy custodian), are guided on how to drive the changes required for the ESM of WEEE in South Africa going forward. Therefore, an appropriate legal, regulatory and institutional framework is required to cover the critical administrative, technical, social and economic aspects to mandate stakeholders to participate in the ESM of WEEE. Introducing a feasible financing mechanism is another critical component required for a WEEE management system that is desirable, appropriate, and affordable in the South African context.
+
+The Policy defines clear goal-oriented aims which seek aim to retain the financial value of WEEE and the benefits of related economic opportunities in South Africa while at all times ensuring the ecological preservation and the protection of the human health of every South African. South Africa is taking a first step by adopting a national policy covering all types of WEEE and its responsible management. As such, the Policy also encompasses all categories of EEE which have reached their end of life, including all components, sub-assemblies and consumables that are part of the product at the time of discarding.
+
+5     Rationale   The rationale of the Policy is to outline the intention of the Government of the Republic of South Africa to address future WEEE management in a way that yields triple-bottom-line benefits. The triple-bottom-line aims to create—
+
+1. New economic opportunities6,
+
+2. Offering decent and safe working conditions, and
+
+3. Ensuring the protection of the environment and people who depend on it.
+
+The Policy seeks to guide WEEE management and align with laws such as EPR regulations and respective WEEE-related notices. The Policy also seeks to guide the appropriate N&S for legally mandated, minimum technical and operational requirements for compliant WEEE operators.
+
+The Policy seeks to balance the problems and the potential management solutions of WEEE. Depending on the degree of depollution, WEEE can have the characteristics of both general and hazardous waste. Therefore, WEEE has a transient legal nature and can be legally classified accordingly [14]. WEEE has both hazardous and general components and valuable materials, such as gold and copper. Therefore, aside from the environmental benefits of redirecting end-of-life WEEE from landfill, the recovery and processing of WEEE in South Africa represent an essential source of secondary metal supply, particularly for critical metals [9]. The primary rationale for effective WEEE management remains with circular economy principles and assuring product stewardship throughout the value chain, thus keeping the triple bottom line regarding sustainable resource management in mind.
+
+Stakeholders and their respective roles and responsibilities are identified and required to implement the I&A Plan jointly. The Policy clearly defines stakeholders and their respective roles and responsibilities in the overall value chain of WEEE management in South Africa. The Policy aims to create a level playing field amongst all types of WEEE operators guided by the N&S and the Waste Picker Integration Guidelines.
+
+With the ban on end-of-life EEE and lighting waste to landfill, the Policy must enable supportive mechanisms for EEE consumers to “bring back” discarded EEE, e.g., to a private collection site or a municipal drop-off. From there, it must be passed on transparently and safely to a legally compliant recycler (also called a “processor”). The legally compliant recycler must make sure that—
+
+1. All WEEE gets depolluted,
+
+2. Valuable secondary resources are recovered,
+
+3. The amount of non-recoverable residues generated in the process that need to enter a safe final treatment7 process in line with emerging global best practices and standards are kept to an absolute minimum.
+
+6     Methodology   The development of the South African WEEE policy followed a structured methodology based on transparent, inclusive public/private multi-stakeholder engagement and the application of “systemic design thinking.” The method to obtain consensus on the critical building blocks and strategic components required for a successful policy was introduced first and documented by SRI for establishing a WEEE Policy in Columbia [15]. The systems approach considers the integrated management of WEEE to be a sociotechnical system constituted by the interaction between human factors—e.g., decision-making, interests, and habits or customs—and technical elements—e.g., waste as a resource, treatment technologies, and infrastructure. The Policy is developed following a sequence of stakeholder workshops and through focus group engagements. The stakeholders assumed the role of designers while including the following elements in their WEEE policy development decisions—
+
+1. understanding the various aspects of the real problem, including social, technical, environmental, economic, legislative, and other aspects;
+
+2. involving different actors and taking their points of view and interests into account;
+
+3. including different system processes from the perspective of the life cycle (such as the production, retail, and consumption of EEE and the collection, treatment, utilisation, and final disposal of WEEE) to design the solution; and
+
+4. devising solutions based on causal and temporal logic, i.e., analysing causes and effects, learning from past experiences, and visualising possible future effects of present decisions.
+
+The first workshop in August 2021 agreed on how the five key planning aspect areas, namely social, environmental, economic, technical, and legal, should be addressed in the WEEE policy. How these aspects are addressed is based on the current challenges and opportunities in these areas and deliverables that participants expected in the WEEE policy. The general nature and key deliverables for the five key planning aspect areas are described in the sections below.
+
+After the first workshop, the designers established an overall policy goal and the six aims informing the envisaged goal. The policy goal and six aims formed the foundation to develop an expanded “matrix”. The expanded matrix assigns targeted objectives to each aim and the respective envisaged outcomes related to the objectives. The required stakeholders, their roles, responsibilities, and suitable KPIs to assess the relative proximity to the targets are linked to each aim. Finally, the matrix informed ongoing extensive work group input and public participation commenting periods preceding the WEEE Policy. The matrix forms the departure point for the DFFE to formulate a detailed I&A Plan.
+
+6.1   General
+
+As part of the first workshop outcomes, consensus was reached on the following general type of policy requirements as follows—
+
+1. From an evolutionary perspective, the WEEE policy development was inspired by the “Plan, Do, Check, Act/Plan, Do, Study, Act cycle”, which is a continuous loop of planning, doing, checking (or studying) and followed the vision of applying the four phases of—
+
+(a) policy formulation,
+
+(b) policy adoption,
+
+(c) policy implementation, and
+
+(d) policy evaluation.
+
+2. The Policy must strengthen and align with other (DFFE) government strategies and planning priorities while reflecting the operational and financial realities of the broader South African WEEE recycling industry.
+
+3. The Policy must be designed to—
+
+(a) Serve as an overall framework that can house any WEEE-specific regulations and policies and,
+
+(b) Harmonise—
+
+(i) existing national, provincial or local “WEEE relevant” by-laws,
+
+(ii) local economic growth plans,
+
+(iii) development plans, and
+
+(iv) municipal Integrated Development Plans (IDPs) and Integrated Waste Management Plans (IWMPs) accordingly.
+
+4. All formulated aims end related to envisaged outcomes must be—
+
+(a) practically achievable; and
+
+(b) described in detail through an I&A Plan. The plan must allow optimal stakeholder integration and clearly define each party’s role and responsibilities.
+
+5. As described in the I&A Plan, an independent coordinating body must adopt the policy deliverables to oversee compliance and adherence to the specified timelines.
+
+6.2   Social aspects
+
+The informal sector plays a significant role in WEEE management, and there is a need to integrate informal sector workers into the formal economy. This integration should be done to provide meaningful employment opportunities and ensure that workers are protected and empowered. Disadvantaged communities, women and the youth are essential demographics to consider to align with the EPR regulations [1] and the Waste Picker Integration Guideline for South Africa 2020 [16].
+
+Training and upskilling workers in both the formal and informal sectors is crucial. Accredited training materials should be developed to ensure workers have the skills to manage WEEE in an environmentally sound and financially feasible manner. Developing accredited training materials will aid in developing jobs (direct and indirect) for unskilled, semi-skilled and qualified labour.
+
+Assurance and interventions must be provided to assist and protect existing members of the South African legally compliant formal recycling industry from ungainful financial advantages of illegal and non-compliant operators. Creating an enabling environment for expanding legal WEEE operations also increases formal, high-skill-based employment levels. This protection should be done in a way that does not limit the growth of the formal legal sector.
+
+Promoting a truly inclusive WEEE value chain can provide employment opportunities at various levels of formality. The Policy should prevent monopolisation or market domination by any stakeholder and ensure all stakeholders have an equal opportunity to participate in the value chain. Job creation is at the forefront of South African socio-economic development aims; inclusivity is a crucial social aspect to consider in any policy intervention.
+
+Responsible consumption of EEE and fulfilling end-user “bring back” responsibilities need to be promoted. The Government and other stakeholders, such as EPR-obligated parties (producers and PROs), must collaborate with the media to encourage environmental awareness among consumers to ensure collection points are widely advertised and subsequently used as intended by any consumer of EEE. Environmental awareness targeted at all sectors of society is needed. However, starting awareness at a young age is vital to ensure product stewardship informs future generations buying decisions.
+
+6.3   Environmental aspects
+
+For the management of WEEE to be environmentally sound, knowledge of the dangers of improper equipment management is needed. For example, waste reclaimers, informal dismantlers and entire communities (indirectly exposed to pollution from improper WEEE management) are often unaware of the hazards associated with liberating specific components of WEEE in an unprotected environment. If WEEE is dismantled in an uncontrol and uninformed manner, toxic and hazardous materials such as lead, cadmium, and mercury can be released and subsequently accumulate in the environment, impacting all biotic life.
+
+The concepts of the Best Environmental Practice, Best Available Technology, and BPEO need to be incorporated into any intervention to ensure that the management of WEEE is as environmentally sound as possible. The use of Best Available Technology for the processing and disposal of WEEE is a vital component of WEEE management. BPEO principles require that the most appropriate environmental option is selected based on a holistic assessment of environmental, social, and economic factors. Alongside Best Environmental Practice, Best Available Technology and the BPEO considerations, the Policy must ensure WEEE is managed according to the waste hierarchy, which prioritises waste prevention and minimisation, reuse, recycling, and other recovery options before disposal as described in the National Waste Management Strategy 2020 [5]. In this regard, BPEO is encouraged to handle and process WEEE.
+
+The N&S for WEEE, once developed, is intended to set minimum operational requirements. These requirements will apply to all operators in the WEEE management chain that conduct risk-based activities. Part of the WEEE Policy’s first aim is the adoption and mandatory implementation of these normative requirements (N&S for WEEE). The Policy also seeks to strengthen and motivate the introduction of the Circular Economy principle based on cradle-to-cradle business models and minimisation strategies such as green procurement and leasing as part of a more equitable, sharing economy approach.
+
+In accordance with the Norms and Standards for Disposal of Waste to Landfill (2013), the ban of all WEEE to landfills since 23 August 2021 is a key departure point for policy development. The ban demands practical policy outcomes supporting a future where all WEEE enters the WEEE management chain and does not get discarded with any other waste by any end-user. The Policy should also require reporting any non-recoverable residues from the processed WEEE to the DFFE to explore further beneficiation opportunities that can reduce the amount and types of WEEE residues that require final treatment.
+
+6.4   Economic aspects
+
+Economic aspects must be considered to ensure the economic feasibility and financial sustainability of the envisaged practical outcomes of this Policy. Aim 3 of the Policy seeks to create a legally compliant, private sector enabling environment that encourages sustainable investment, infrastructure, and technology development and embeds economic sustainability in the Policy.
+
+It is important to note that there are high upfront financial costs associated with implementing the aims of the Policy, including the depollution of materials through selective treatment steps during which hazardous substances and components are removed from WEEE. Therefore, a substantial initial investment is required for the legally compliant take-back (collection) and required processing infrastructure for all types of WEEE. However, improper management’s environmental and social costs are incalculable, and developing countries must have the infrastructure to manage these hazards.
+
+On the other hand, WEEE also has the potential for valuable materials recovery, such as precious and rare earth metals. Therefore, incentivising local recovery processes encourage industry development and avoids the export of valuable secondary minerals while securing the resources needed for South Africa’s circular and just energy transition, such as in the renewable energy sector.
+
+Policy implementation must support and promote the recovery of still functional equipment and its components over any exclusive material recovery through conventional recycling. Additionally, any opportunities for WEEE material beneficiation (re-purposing) should be higher ranked than conventional material recycling in the waste hierarchy to stimulate and grow local product innovation.
+
+The Policy supports an EPR-based take-back system for all types of WEEE and cross-cutting for all obligated producers and their representative PROs. The take-back systems need to include incentives to consumers “to bring back” and retailers and other collection points and service providers to “take back”.
+
+6.5   Technical aspects
+
+The effective management of WEEE requires special processing treatment for certain hazardous materials. These fractions require higher levels of regulation than WEEE of “general waste nature”. South Africa has limited capacity for the ESM of specific outgoing WEEE components, such as CRTs, and new incoming types of WEEE, such as solar panels and lithium-ion batteries. The Policy needs to address the need to treat all types of legacy WEEE while being flexible enough to support the introduction and effective management of newer technologies with different designs and reuse potential required for an entirely new generation of WEEE types that are currently emerging in the context of building the renewable energy sector in South Africa. The management technologies for these components exist, and the major bottleneck to increasing current treatment capacity is the financial implications of capital expenditure to localise the required technologies.
+
+The Policy needs to support the development and implementation of dedicated N&S for “problematic” WEEE types and constituents such as Compact Fluorescent Lamps, transformer oil, Brominated Flame Retardant (BFR) plastics, cooling gas, mercury switches which are formulated over and above the general N&S.
+
+The Policy must support academic and private sector-based research and development to address better management of complex WEEE fractions. Public-private partnership initiatives such as eco-industrial parks can provide a test bed for new technologies. For example, the Policy can be used as a guide, informing grant funding proposals for these new initiatives.
+
+The Policy must create an enabling environment for the private sector to invest in technologies that maximise the value of raw materials extracted in South Africa via primary mining and recovered as secondary materials in South African-based WEEE recycling operations. For example, systems to separate BFR-treated WEEE plastics from untreated ones could create substantial supplies of fully recyclable plastic.
+
+The Policy needs to support the public and private sector-based development of WEEE collection/small-scale treatment facility-based infrastructure, specifically in rural areas. Rural areas are often plagued by poor waste management. Public and private initiatives to set up collection and management systems for WEEE in hard-to-reach areas must also be considered when implementing the Policy.
+
+6.6   Legal aspects
+
+The WEEE Policy and I&A Plan must be developed in alignment with all existing key national, provincial and local laws and policies related to WEEE management. The laws include, but are not limited to the—
+
+• The Constitution of the Republic of South Africa, 1996,
+
+• NEMA,
+
+• NEMWA,
+
+• Customer Protection Act (CPA),
+
+• Second Hands Goods Act,
+
+• Norms and Standards for the Storage of Waste,
+
+• Waste Classification and Management Regulations,
+
+• EPR regulation and notices for WEEE, Lighting Waste and Portable Batteries,
+
+• Waste Information Regulations,
+
+• Environmental Impact Assessment Regulations,
+
+• Occupational Health and Safety Act; and
+
+• National Norms and Standards for the Disposal of Waste to Landfill.
+
+The WEEE Policy must also comply with international conventions and existing WEEE-related import and export trade obligations to which it is a signatory, such as the Basel Convention, Stockholm Convention, and the Montreal Protocol. The Policy also needs to allow for the phased introduction of all current and future WEEE-related regulations in a manageable process. A significant concern for implementing the Policy is the import of poorly designed EEE that is soon to become WEEE and falsely declared EEE as “second-hand goods”. South Africa imports soon-to-be hazardous waste by importing poorly designed EEE and receiving near-to-end-of-life second-hand EEE. The EEE falsely declared as “second-hand goods” forms part of the WEEE entering South Africa, thereby adding to the local WEEE generation volumes.
+
+7     Alignment   Given the inter-disciplinary nature of WEEE management, including economic, social, environmental, technical and legal aspects, the alignment of this Policy with other laws and development strategies is paramount [17]. The following domestic and international laws and policies for managing waste provide a sound basis for formulating specific instruments for WEEE management [17].
+7.1   National Legislation
+
+The main pieces of legislation that currently govern waste in South Africa and thus also may impact the South African WEEE management industry are according to the DFFE and as listed on the SAWIC website8 as follows: The South African Constitution (Act 108 of 1996), Hazardous Substances Act (Act 5 of 1973); Health Act (Act 63 of 1977); National Road Traffic Act (93 of 1996); Environment Conservation Act (Act 73 of 1989); Occupational Health and Safety Act (Act 85 of 1993); National Water Act (Act 36 of 1998), The National Environmental Management Act (Act 107 of 1998), Municipal Structures Act (Act 117 of 1998), Municipal Systems Act (Act 32 of 2000), Mineral and Petroleum Resources Development Act (Act 28 of 2002), and the Air Quality Act (Act 39 of 2004).
+
+The section below further describes the most relevant national laws, guidelines and strategies concerning WEEE management in South Africa which includes some of the ones listed above and adds additional ones per perceived importance and relevance.
+
+7.1.1   The Constitution of the Republic of South Africa (7 of 1996)
+
+The Constitution of South Africa is the country’s supreme law, and all legislation and policies are subject to it. Section 24 of the South African Constitution provides environmental rights. Other Constitutional rights, such as the right to just administrative action (section 33), the property right (section 25), and the constitutional division of public power according to national, provincial, and local competencies, also play an essential role. The Policy reinforces and supports the progressive realisation of the Bill of Rights and cooperative governance in pursuing WEEE product stewardship.
+
+7.1.2   National Environmental Management Act (107 of 1998)
+
+NEMA is the principal environmental protection act per Section 24 of the Constitution. The Act aims to provide for cooperative environmental governance by providing decision-making principles and establishing institutions coordinating environmental functions exercised by state organs. NEMA provides for certain aspects of the administration and enforcement of other environmental management laws and related matters.
+
+NEMA provides key principles in section 2 that guide sound environmental management practices for all development activities. Key NEMA principles related to WEEE management and EEE product stewardship include, but are not limited to—
+
+(a)   Environmental management must place people and their needs at the forefront of its concern and equitably serve their physical, psychological, developmental, cultural, and social interests. (s2 (2))
+(b)   Sustainable development requires the consideration of all relevant factors, including the following—
+
+- that pollution and degradation of the environment are avoided, or, where they cannot be altogether avoided, are minimised and remedied; (s2 (4) (a) (ii))
+
+- that waste is avoided, or where it cannot be altogether avoided, minimised, and reused or recycled where possible and otherwise disposed of in a responsible manner; (s2 (4) (a) (iv))
+
+- that a risk-averse and cautious approach is applied, which considers the limits of current knowledge about the consequences of decisions and actions; (s2 (4) (a) (vii))
+
+- that negative impacts on the environment and people’s environmental rights be anticipated and prevented, and where they cannot be altogether prevented, are minimised and remedied. (s2 (4) (a) (viii))
+
+(c)   Environmental justice must be pursued so that adverse environmental impacts shall not be distributed so as to unfairly discriminate against any person, particularly vulnerable and disadvantaged persons. (s2 (4) (c))
+(d)   Responsibility for the environmental health and safety consequences of a policy, programme, project, product, process, service, or activity exists throughout its life cycle. (s2 (4) (e))
+(e)   The costs of remedying pollution, environmental degradation, and consequent adverse health effects and of preventing, controlling, or minimising further pollution, environmental damage or adverse health effects must be paid for by those responsible for harming the environment. (s2 (4) (p))
+
+NEMA does not explicitly refer to WEEE or EEE but provides mandates to consider when managing waste. For example, in section 31, NEMA grants anyone access to publicly held environmental information, e.g., concerned with activities that pose an environmental threat related to pollution/hazardous waste management activities. Section 31 also grants protection to whistle-blowers reporting environmental crimes. The Policy aims to align with the Act’s principles and related waste management sections.
+
+7.1.3   National Environmental Management: Waste Act (59 of 2008)
+
+The NEMWA regulates all waste management-related activities (i.e., collection, storage, treatment, and disposal) and includes the licensing requirements for waste management activities. All WEEE management activities are subject to this Act and related regulations.
+
+Schedule 3 of the NEMWA defines hazardous waste and general waste. The Schedule states that the hazardous portion of wastes from EEE is categorised as hazardous and that wastes from EEE not otherwise specified as hazardous are classified as general waste. The National Waste Information Regulations [18], to report to SAWIS, defines WEEE as hazardous waste (HW18) unless decontaminated with all hazardous substances removed (GW18). This suggests that a GW18 classification also applies to any WEEE mix or fraction not containing any hazardous components/materials. With the above definition, the hazardous components of WEEE are required, from a precautionary principle perspective, to be handled, stored, transported, and disposed of per national legislation applicable to hazardous waste management.
+
+The storage, reuse, recycling or recovery, treatment, and disposal of WEEE is conducted in terms of the List of Waste Management Activities that have, or are likely to have, a detrimental effect on the environment (List of Waste Management Activities) [19]. Where the waste management activity meets the specific technical qualifications provided in the List, such as the process, volume, area, and type of waste (general or hazardous), either a waste management license is required, or the person wishing to commence, undertake or conduct a waste management activity must comply with the following relevant norms or standards—
+
+• Norms and Standards for Storage of Waste, 2013; or,
+
+• National Norms and Standards for the Sorting, Shredding, Grinding, Crushing, Screening or Baling of General Waste, 2017.
+
+Parallel to the development of the WEEE policy, the DFFE is developing a dedicated set of N&S for the management of WEEE with specific reference to the hazardous portion found within WEEE. N&S intends to establish minimum technical and operational requirements for WEEE practitioners and their operations and provide specificity regarding management of hazardous portion. The DFFE-mandated requirements will ease the current operational waste license requirements and remove operational bottlenecks hindering the growth of SMME-type WEEE operators in South Africa, whilst strengthening environmental stewardship and BPEO.
+
+7.1.4   Occupational Health and Safety Act (85 of 1993)
+
+The Occupational Health and Safety Act 85 of 1993 (OHSA) [20] is designed to provide a broad framework for improving workplace health and safety standards by reducing work-related injury and illness. The Act extends its protections to persons other than the persons at work against health and safety hazards arising from the activities of the person at work. Therefore, OHSA applies to those exposed to thehazards during the processing of WEEE and people impacted indirectly by the processing of WEEE.
+
+It endeavours to establish an Advisory Council for Occupational Health and Safety, a Health and Safety Policy, technical committees, health and safety representatives, and health and safety committees. The Act provides duties of chief executive officers, inspectorates, employers, and employees.
+
+The overarching aim is to—
+
+- secure employees’ health, safety, and welfare;
+
+protect people from health and safety risks of business activities; and
+
+- ensure the participation of employers, employees, and the organisations that represent them, in formulating and implementing health, safety, and welfare standards.
+
+Hence, WEEE Policy seeks to instill the same aims. The OHSA is a guiding document to formulate any specific Health and Safety interventions dealing with WEEE management.
+
+7.1.5   Hazardous Substances Act (15 of 1973)
+
+The Hazardous Substances Act provides regulations to control the management of hazardous substances and disposal of hazardous waste, including the control of substances which may cause injury, ill health, or death to human beings because of their toxic, corrosive, irritant, or explosive nature.
+
+The Act provides for the substances to be divided or classified concerning the degree of the danger they pose. In addition, the Act also provides for the prohibition and control of the importation, manufacture, sale, use, operation, application, modification, disposal and dumping of hazardous substances. The Act controls certain electronic products. Specifically, any manufactured products that—
+
+- emit radiation, or
+
+- because of a breakdown, may cause a hazard or excessive temperature, pressure, or ignition of flammable material, which may result in ill-health or death to human beings.
+
+7.1.6   Second-Hand Goods Act (6 of 2009)
+
+The Second-Hand Goods Act regulates the buying and selling of second-hand goods to reduce theft incidents and promote ethical practices within the sector. ID registration requirements of sellers help to ensure that criminal electronic sales can be identified and distinguished from regular WEEE trading activities. The Act impacts and plays a vital role in the reuse of EEE to avoid waste.
+
+7.1.7   Precious Metals Act (37 of 2005)
+
+The Precious Metals Act regulates the permitted conditions and requires licenses for extracting, refining and trading precious metals such as gold, platinum, and palladium. Based on this act, unless specifically authorised, no South African WEEE processor is allowed to conduct any end-processing activities in chemical leaching or hydro or pyro-metallurgical processing that would yield such metals without a permit and licence, depending on the activity.
+
+7.1.8   The Consumer Protection Act (68 of 2008)
+
+CPA of South Africa aims to protect consumers’ rights and interests against unfair business practices. The Act aims to promote a fair, accessible and sustainable marketplace for consumer products and services. It applies to all goods and services offered in South Africa, including WEEE. Consumer rights are also crucial in the enforcement of EPR. The responsibility lies with producers, not consumers. It is essential to protect consumers from bearing the costs of EPR.
+
+The CPA requires that suppliers of EEE take responsibility for the disposal of WEEE and ensure that it is disposed of in an environmentally friendly way. According to section 59 of the CPA, read in conjunction with the e-waste landfill ban, any person who, in the ordinary course of business, supplies goods of that kind to consumers must accept the return of any such goods, components, remnants, containers, or packaging from any consumer, without charge to the consumer, irrespective of whether that person supplied the object to that particular consumer. Suppliers must also inform consumers about the environmental impact of their products, including the potential WEEE generated.
+
+The National Consumer Commission, the Consumer Goods Council, and the consumer ombudsman are key national role players. Within the provincial sphere of Government, the Provincial Consumer Protection Authority deals with consumer protection matters. First and foremost, the CPA empowers consumers to hold suppliers accountable for any harm caused by the products they sell, including the disposal of WEEE. Therefore, the CPA is crucial in promoting sustainable consumption and responsible WEEE management in South Africa.
+
+7.1.9   The South African National Roads Agency Limited and National Roads Act (7 of 1998)
+
+The South African National Roads Agency Limited and National Roads Act of South Africa primarily focuses on establishing and regulating the country’s national road network, and it does not have a direct relationship with WEEE. However, the proper transport of WEEE is crucial for the management of the national road system.
+
+WEEE can contain hazardous materials that can harm the environment and public health if improperly handled and disposed of. Therefore, it is vital to regulate the transport and disposal of WEEE according to both the Act and local By-laws to minimise any negative impacts. The Act can indirectly support the proper management of WEEE by facilitating the development of infrastructure and regulations that ensure the safe and efficient transportation of WEEE to recycling or disposal facilities. Another consideration is the sustainability of the transportation system in South Africa, which relies heavily on electronic equipment and devices. WEEE management is regulated by the various laws that impact its movement in society, and law enforcement must be done in a manner consistent with the ESM of WEEE.
+
+7.1.10   The Public Finance Management Act (1 of 1999)
+
+The Public Finance Management Act is a legal framework that governs financial management and accountability in the national and provincial spheres of Government. While the act does not explicitly address WEEE management, it can indirectly impact the management of WEEE in government agencies and public institutions by ensuring that all revenue, expenditure, assets, and liabilities of those governments are managed efficiently and effectively.
+
+The Act requires public institutions to responsibly and accountably manage their finances and assets, including correctly disposing of assets such as EEE. The requirements can ensure that WEEE is managed responsibly and does not pose a risk to human health or the environment. Additionally, the act strongly emphasises transparency and reporting, which can promote greater accountability in WEEE management practices.
+
+Furthermore, the Act must be read with NEMA, NEMWA and the Prevention and Combating of Corrupt Activities Act (12 of 2004) to encourage public institutions to consider environmental and social sustainability in their decision-making processes. Certain restrictions on persons and enterprises convicted of corrupt activities relating to tenders and contracts are necessary. These restrictions help guide towards more sustainable procurement practices that prioritise the use of socially conscious and environmentally friendly products and services, including those that reduce EEE’s environmental and social impacts.
+
+As mentioned above, while the PFMA does not directly address WEEE management, read alongside pertinent acts, its requirements for responsible financial management and transparency, as well as its encouragement of sustainable decision-making, can indirectly support more responsible management of e-waste in government agencies and public institutions in South Africa and aid the development of targeted transparent and safe WEEE asset release programmes.
+
+7.1.11   Local Government: Municipal Finance Management Act (53 of 2003)
+
+The Municipal Finance Management Act of South Africa is an essential piece of legislation that provides the framework for the sound and sustainable financial management of municipalities and other institutions that function in the local sphere. The Act aims to promote sound financial management, accountability, and transparency in the local sphere of Government by establishing treasury norms and standards for financial management, budgeting, and reporting.
+
+The proper management and disposal of WEEE can have an impact on the financial management of municipalities. The disposal of WEEE requires significant resources, including labour, equipment, and disposal fees. By implementing proper WEEE management practices, municipalities can reduce the financial burden associated with waste management and allocate resources to other essential services.
+
+The Act’s legal framework primarily impacts EEE as an asset, of which procurement and disposal should align with NEMA and NEMWA. The Act guides municipalities through asset and liability management, supply chain management, and the conditions and process for public-private partnerships. Complying with the prescribed framework would support the proper management of WEEE by ensuring that municipalities have the financial resources and management capacity to implement effective waste management practices and aid the development of targeted transparent and safe WEEE asset release programmes.
+
+7.1.12   Protection of Personal Information Act (4 of 2013)
+
+The Protection of Personal Information Act of South Africa is a comprehensive data protection law that regulates the processing of personal information by public and private bodies. The Act aims to protect the privacy rights of individuals by requiring organisations to obtain consent before collecting, processing, and sharing personal information.
+
+The improper disposal of EEE can lead to the disclosure of personal information. The Act requires organisations to take reasonable steps to safeguard personal information. As a result, security safeguard includes the secure disposal of EEE by the responsible party. By implementing proper WEEE management practices, organisations can reduce the risk of access to personal information and comply with the Act’s data protection requirements.
+
+7.1.13   Cybercrimes Act (19 of 2020)
+
+The Cybercrimes Act of South Africa criminalises various forms of cybercrime, including computer-related offences such as unlawful access, data interception, cyber fraud, and cyber extortion. The act aims to provide effective legal mechanisms to combat cybercrime, protect critical information infrastructures, and promote cybersecurity in the country. The Act seeks to impose obligations to report cybercrimes; to provide capacity building; to provide that the Executive may enter into agreements with foreign States to promote measures aimed at detecting, preventing, mitigating, and investigating cybercrimes.
+
+Cybercriminals often target EEE, including any form of data storage medium, to gain access to information or install malware. The improper disposal of such EEE can pose a risk of data breaches or theft, as cybercriminals can retrieve sensitive information from disposed devices. By implementing proper WEEE management practices, individuals and organisations can reduce the risk of data breaches and prevent cybercriminals from accessing sensitive information. Hardware data security is globally significant, and the Cybercrimes Act supports the proper disposal of WEEE to combat cybercrime and promote cybersecurity in South Africa.
+
+7.2   Regulations, Guidelines and Strategies
+7.2.1   EPR Regulations and Notices (Section 18 of NEMWA)
+
+The DFFE established mandatory EPR in November 2020 with the EPR Regulations and accompanying product-specific notices for EEE, lighting and paper, packaging and some single-use products. [1] The mandatory EPR system established collection and recycling targets for WEEE and lighting waste.
+
+EPR extends a producer’s responsibility to the post-consumer stage of a product’s life cycle. The fundamental purposes of the South African EPR Regulations are to—
+
+1. provide the framework for the development, implementation, monitoring, and evaluation of EPR schemes by producers;
+
+2. ensure the effective and efficient management of the identified product at the end of its life; and
+
+3. encourage and enable the implementation of the circular economy initiatives.
+
+The responsibility to achieve the purpose of the EPR Regulations regarding EEE and the resultant waste lies with producers, not consumers. It is vital to ensure that the costs of production and managing the resultant waste are not externalised to the consumer. Enabling the implementation of the circular economy initiatives requires producers to innovate in design to encourage durability and repairability throughout the product life cycle. Consumer rights are also crucial in the enforcement of EPR.
+
+The EPR Regulations make producers legally responsible for the take-back and safe disposal of EEE they manufacture or import. In cases of non-compliance, producers would face penalties. As part of the EPR Regulation, a broad-based economic empowerment transformation charter must be developed and implemented. Transformation must happen within all levels of the value chain, establishing secondary markets for recyclable materials and taking back all products at the end of life.
+
+The minimum requirement for the EPR includes the following—
+
+• List of products which will be regulated;
+
+• Registration of producers;
+
+• EPR measures to be implemented by producers or PRO;
+
+• Financial arrangements for the EPR scheme (including the determination of a fair EPR fee)
+
+• Promoting the empowerment of waste collectors, reclaimers, and pickers by integrating them where safe and feasible in the WEEE value chain
+
+• Collaboration with municipalities;
+
+• Monitoring, evaluation, and reporting; and
+
+• Performance review.
+
+7.2.2   National Waste Management Strategy (2020)
+
+The National Waste Management Strategy [5] has the primary purpose of establishing aims, plans, guidelines, systems and procedures relating to the protection of the environment and the generation (including the avoidance and minimisation of such generation), reuse, recycling, recovery, treatment, disposal, use, control and management of waste to achieve the objects of NEMWA. The Strategy must also affect international agreements, such as the Basel Convention (see international alignments), and provide measures for cooperative governance, awareness raising, compliance enforcement and monitoring.
+
+In 2020, an updated version of the NWMS was published. While minimal mention is made regarding WEEE, the overall concept of the strategy is firmly hinged on a Circular Economy based strategy framework and is based on three pillars of focus.
+
+Three overarching pillars of the 2020 NWMS are—
+
+1. Waste Minimisation
+
+Prevent waste where possible. Where waste cannot be prevented, 40% should be diverted from landfill within five years through reuse, recycling, recovery, and alternative waste treatment: 25% of waste reduction in waste generation, and 20% waste reused in the economic value chain;
+
+2. Effective and sustainable waste services
+
+Effective and sustainable waste services for all South Africans living in clean communities with waste services that are well-managed and financially sustainable. The strategy comes with an implementation plan which aims to create jobs in the waste sector and allow for waste picker integration which is a significant alignment area for the WEEE policy; and
+
+3. Compliance, Enforcement and Awareness
+
+Waste Awareness and Compliance aimed at creating a culture of compliance with zero tolerance of pollution, litter, and illegal dumping.
+
+WEEE is recognised as a potential source of secondary resources around waste beneficiation as part of the circular economy. The tonnage of WEEE is relatively low in comparison to other hazardous wastes. However, the lack of effective management and the stream’s fastest percentage growth in volume has been highlighted by the NWMS. The WEEE policy has the potential to further the NWMS’s goals of reusing reusable components, reclaiming economically valuable materials, and managing environmentally harmful ones. NWMS also set the target of an EPR Scheme for WEEE that includes measures of cleaner production, industrial symbiosis and EPR. The WEEE Policy aims to support and align with the NWMS and the EPR Scheme.
+
+7.2.3   Local Municipal Integrated Development Plans and Integrated Waste Management Plans
+
+Local Municipal Integrated Development Plans (IDPs) and Integrated Waste Management Plans (IWMPs) are two central planning documents within the local sphere in South Africa. The IDPs and IWMPs need to align and relate to each other to impact WEEE management in the country significantly.
+
+Municipalities establish IDPs according to the Local Government: Municipal Systems Act (32 of 2023) legal framework. The IDPs are comprehensive plans that provide a framework for development and service delivery at the municipal level. The Plans need to be developmentally orientated and contribute to the progressive realisation of the Bill of Rights, a fundamental right being the right to a safe environment. Similarly, orientated are the IWMPs established by municipalities according to NEMWA. However, the IWMPs are plans that focus specifically on waste management, including the reduction, reuse, recycling, and safe disposal of waste. Both plans are required by law to be written by every municipality and must be regularly updated and reviewed to ensure they remain relevant and practical.
+
+Effective WEEE management requires a comprehensive approach that includes the development of infrastructure and regulations that ensure the safe and efficient transportation and disposal of WEEE. The IWMPs can include specific WEEE management provisions, such as establishing WEEE collection points or promoting WEEE recycling programs. These provisions can be aligned with the broader development goals outlined in the IDPs, which may include promoting sustainable development or reducing the carbon footprint of municipalities.
+
+The IDPs and IWMPs are complementary planning documents that can be used to address the challenges of WEEE management in South Africa. By ensuring that WEEE management is integrated into broader development and waste management plans, municipalities can promote sustainable development and reduce the negative environmental and health impacts of WEEE.
+
+7.2.4   National Waste Picker Integration Guidelines
+
+Building on the requirements of creating inclusive waste management opportunities in the NWMS, a national Waste Picker Integration Guideline was published by the DFFE in 2019.
+
+The Guideline defines integration as: “the creation of an official recycling system that values and improves the present role of waste pickers, builds on the strengths of their informal system to collect and revalue materials, and includes waste pickers as key partners in its design, implementation, evaluation and revision.”
+
+7.2.5   South African Plastics Pact
+
+The South African Plastics Pact is a voluntary agreement between various stakeholders to create a circular economy for plastics in South Africa. The pact sets targets for reducing plastic waste and increasing the amount of reused, recycled, or composted plastic. While the pact does not explicitly address e-waste, it can indirectly impact e-waste management in South Africa.
+
+Many EEE contains plastic components that can contribute to plastic waste volumes. By promoting the reduction and recycling of plastics, the South African Plastics Pact can help reduce the overall environmental impact of EEE, especially considering the hazardous nature of some of the plastics used. Additionally, the pact’s emphasis on circular economy principles, such as EPR and product design for recycling, align with the EPR Regulations and show a willingness from the industry to participate in effective WEEE management.
+
+7.3   Key National Development and Economic Growth Strategies
+
+The WEEE Policy must align with the critical national development and economic growth strategies. Alignment between the Policy and national strategies means the Policy and the strategies have common aims and aims for the development of South Africa. The Policy focuses on achieving more significant development and economic aims within WEEE management.
+
+7.3.1   National Development Plan: Vision 2030
+
+The NDP aims to eliminate poverty and reduce inequality by 2030. Chapter 3 begins by emphasizing that the New Growth Path represents the government’s critical programme to launch the economy onto a higher growth trajectory towards more employment opportunities through government investment, microeconomic reforms that lower the costs of business, competitive and equitable wage structures, and the unblocking of constraints to investment in these sectors. The need for economic growth, specifically in rural environments, is also taken up again in Chapter 6. Chapter 5 discusses elements that strengthen South Africa’s environmental sustainability and resilience. One of the key aims to reach is the absolute reduction in the total volume of waste disposed to landfills each year while upscaling any recycling efforts.
+
+The other key alignment area with the WEEE policy is the call for education, training and innovation improvement. This is a crucial element of policy aim four, where outcomes require the development of accredited entry-level and advanced WEEE operator training.
+
+7.3.2   The Seven Priorities of Government
+
+In 2019 as part of his annual “State of the Nation” address, the President noted that to ensure that Vision 2030 of the NDP is achieved, seven priority areas must be developed in close alignment with all national departments and other key stakeholders. These priority themes focus, therefore, on the following—
+
+• Economic transformation and job creation;
+
+• Education, skills, and health;
+
+• Consolidating the social wage through reliable and quality basic services;
+
+• Spatial integration, human settlements, and local government;
+
+• Social cohesion and safe communities;
+
+• A capable, ethical, and developmental state and
+
+• A better Africa and World.
+
+Looking at the aims and the envisaged outcomes under each of the aims, it becomes evident that the WEEE Policy is built on providing strong alignment on all aspects related to economic growth, job creation, and, in particular, aiding to build social cohesion, e.g., through pro-actively building key deliverables and reporting indicators on informal sector integration.
+
+7.3.3   National Spatial Development Framework
+
+The National Spatial Development Framework (NSDF) is a strategic long-term spatial plan towards 2050. The NSDF is legally mandated by the Spatial Planning and Land Use Management Act, 2013 and has to be aligned with the NDP.
+
+7.4   International and Regional Alignments
+7.4.1   Basel Convention on the Control of Transboundary Movements of hazardous wastes and their Disposal of 1989, ‘The Basel Convention.’
+
+The Basel Convention is an international treaty that intends to reduce and regulate the international shipment of hazardous waste. Its main aim is protecting human health and the environment from the potential impacts associated with the disposal and treatment of hazardous. In the South African waste classification system, any WEEE that is not depolluted or free of hazardous constituents is hazardous waste; thus, all treaty declarations apply to it. South Africa has ratified the Convention and should follow all its guidelines.
+
+7.4.2   Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade, ‘The Rotterdam Convention.’
+
+The Rotterdam Convention aims to promote shared responsibility and cooperative efforts among Parties in the international trade and use of such substances. South Africa became a signatory to the Rotterdam Convention in 2002. The Rotterdam Convention entered into force on 24 February 2004, becoming legally binding on all signatories.
+
+In South Africa, the Rotterdam Convention is considered one of the multilateral environmental agreements dealing with ESM of certain hazardous chemicals and resulting wastes. National Regulations to domesticate the requirements of the Rotterdam Convention were published in 2021. The Regulations purposed to outline the prior informed consent procedure for obtaining and exchanging information on banned or restricted hazardous chemicals, pesticides and industrial chemicals. The Regulations promote cooperative efforts between states and seek to contribute to information exchange and national decision-making processes.
+
+7.4.3   Stockholm Convention
+
+The Stockholm Convention on Persistent Organic Pollutants is a global treaty to protect human health and the environment from chemicals that remain intact in the environment for long periods. South Africa signed the Stockholm Convention on 23 May 2001 and entered into force on 17 May 2004. According to the provisions of the Convention, each party must develop a plan to implement its obligations under the Stockholm Convention. Consequently, South Africa must put in place measures and report on its efforts via a National Implementation Plan to meet the aims of the Convention.
+
+7.4.4   Montreal Protocol
+
+South Africa is one of only 46 countries to have signed the Montreal Protocol since its enactment in 1989. Only a few have ratified the Kigali Amendment to the Montreal Protocol, which came into force on 1 January 2019. South Africa, as a party to the Vienna Convention for the protection of the Ozone Layer, is also committed to the Kigali amendment, which focuses on phasing down hydrofluorocarbons (HFCs), potent climate-warming gases.
+
+7.4.5   ISO IWA 19: Guidance Principles for the Sustainable Management of Secondary Metals
+
+IWA 19:2017 provides a global framework for the sustainable management of secondary metals derived from typical stocks9 such as WEEE. The framework includes sustainability and traceability requirements for metals recovered and guides economic operators of secondary metals value chains, including those engaged in the informal sector, in the efficient and credible implementation of improved recycling practices, particularly in emerging and developing economies10. As such, the WEEE Policy aims speak powerfully to all aspects of the five sustainability principles that are further described below—
+
+• enabling safe, healthy and equitable working conditions;
+
+• building and strengthening local community relations and resilience;
+
+• conserving and protecting the environment and natural resources;
+
+• improving the recovery of secondary metals; and
+
+• implementing a sustainable management approach (toward continuous improvement of the four principles previously listed.
+
+7.4.6   UN Sustainable Development Goals
+
+The SDGs of the United Nations 2030 Agenda provide much inspiration for formulating and aligning the “goal” statement expressed in the South African WEEE policy with a range of SDG-described targets. As such, the South African WEEE Policy Goal speaks directly to these SDG targets as those relate directly to the issues associated with WEEE—
+
+• 3.9: substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water, and soil pollution and contamination,
+
+• 8.3: promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services,
+
+• 8.8: protect labour rights and promote safe and secure working environments for all workers, including migrant workers, particularly women migrants, and those in precarious employment,
+
+• 11.6 reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality, municipal and other waste management,
+
+• 12.4 achieve the ESM of chemicals and all wastes throughout their life cycle, following agreed international frameworks, and significantly reduce their release to air, water and soil to minimize their adverse impacts on human health and the environment and
+
+• 12.5 substantially reduce waste generation through prevention, reduction, recycling, and reuse.
+
+7.4.7   Bamako Convention
+
+The Bamako Convention is an international treaty that aims to prevent the dumping of hazardous waste, including e-waste, in Africa. It was created in response to concerns about the negative environmental and health impacts of hazardous waste dumping in Africa, and it prohibits the import of hazardous waste into African countries for any reason, including recycling.
+
+The convention places a special emphasis on WEEE, recognizing that EEE contain hazardous substances that can pose a significant risk to human health and the environment. Although South Africa has not ratified the convention, most African states have. Therefore, the Bamako Convention is a notable treaty when considering regional integration and management of EEE and WEEE flows in Southern Africa.
+
+The Bamako Convention provides exemptions for importing used EEE that is functional and not considered hazardous waste. These exemptions can help support the repair and refurbishment of EEE in South Africa and other African countries. It is crucial to consider the convention when developing more regional initiatives.
+
+7.4.8   Global Treaty on Plastics
+
+The Global Treaty on Plastics is a proposed international treaty addressing the global plastic pollution crisis. While the treaty does not explicitly address e-waste, it can impact e-waste management in South Africa and other countries by promoting more sustainable consumption and production patterns. Like the South African Plastics Pact, there is an emphasis on EPR and product stewardship. Consequently, the Treaty can help address the challenge of managing e-waste, which requires specialized knowledge and equipment.
+
+8     Environmentally Sound Management of WEEE   The ESM of WEEE is a cornerstone of the WEEE Policy. Supporting the cornerstone would be the international guiding principles, international trading principles, and cooperative environmental governance. The international guiding principles are sourced from international environmental law and prominent waste-management scholarship moving towards ‘waste as a resource’ and circular economy ideals. The international trading principles highlight the international flows of EEE and WEEE and the potential SADC regional collaboration. Integrated environmental management relies on intergovernmental cooperation stipulated in integrated environmental management plans.
+8.1   International Guiding Principles
+
+The following internationally acknowledged guiding principles to protect the environment and human health are also informing the South African WEEE Policy, and they are listed further below:
+
+Precautionary principle: requires decision-makers to adopt preventive measures when scientific evidence about an environmental or human health hazard is uncertain. A point in case is the DFFE’s classification system [14] for waste, where all WEEE is defined as hazardous waste (HW18) unless depolluted.  
+Waste Hierarchy: South Africa’s National Waste Management Strategy [5] places waste prevention over waste minimisation, and only if any of those options are not available is waste explored according to its recoverable resource potential. Green procurement, good maintenance of EEE as well as the reuse, refurbishment and repair of any WEEE are favoured. WEEE processing for the recovery of secondary materials occurs after all reasonable measures of repair and reuse have been exhausted. The least preferred method of waste management is disposal to landfill. However, the DFFE has banned WEEE from landfill; therefore, in the context of WEEE, the least preferred method is ‘waste-to-energy’ as the landfill is prohibited. ‘Waste-to-energy’ refers to a process by providers to generate energy from non-recoverable WEEE residuals.  
+Polluter pays principle: The polluter pays principle is an environmental principle which requires that the costs of pollution and any measures to reduce the latter causing damage to the society or the environment must be borne by those who cause it. The polluter pays principle has received support from most of the Organisation for Economic Co-operation and Development countries and the European Community. International environmental law mentions it in Principle 16 of the 1992 Rio Declaration on Environment and Development [23]. Upholding the polluter pays principle is crucial for EPR and enforcing the EPR Regulations.  
+EPR principle: EPR means that a producer’s responsibility for an identified product is extended to the post-consumer stage of an identified product’s lifecycle [21]. Producers of EPR-obligated waste streams are assigned responsibilities (either of financial or operational nature) to ensure the safe take-back and treatment of their post-consumer stage products. In South Africa, the EPR regulations make these assigned responsibilities mandatory. EPR policy elements in South Africa include the product’s sustainable (lifecycle-based) design and circular economy-based “cradle to cradle” producer liability for the product. Producers can organize themselves into individual or collective systems, also known as producer responsibility organizations (PROs).  
+Circular Economy principles: According to the Ellen MacArthur Foundation, the circular economy has three principles driven by design—   • Design the system so that waste is no longer present
+
+• Circulate (intensify and prolong the use of) products and materials (at their highest value)
+
+• Regenerate natural systems
+
+A transition to renewable energy and materials underpins it. A circular economy decouples economic activity from the consumption of finite resources. It is a resilient system that benefits businesses, people and the environment.
+
+Resource conservation principle: Producers aim to conserve resources by extending the product, component, and material use, where possible, by upgrading or maintaining the function and integrity based on the best environmental outcome from a life cycle perspective. They are committed to the sustainable production of their goods and services through non-polluting systems, conserving energy and natural resources.  
+Sustainable consumption and production principle: Any EEE must be produced and consumed in a manner that has a minimal impact on the environment and provides socially equitable and safe access to products and services for consumers.  
+8.2   International Trading Principles
+
+Fundamental international trading principles highlight the governance of the transboundary movement of WEEE and the potential for regional SADC collaboration to establish economies of scale for WEEE valorisation. The Basel Convention governs the transboundary movement of WEEE. SADC-wide collaboration would require WEEE trade agreements that follow Basel Convention protocols and consider the objects of the Bamako Convention. Although South Africa is not a signatory to the Bamako Convention, regional collaboration would require the consideration of the Convention if trading states were party to the Convention.
+
+8.2.1   Transboundary Movement of WEEE
+
+The Basel Convention has tightened controls on global hazardous waste trade. [24] The Basel Convention defines WEEE as any waste electrical or electronic equipment, including all components, sub-assemblies and consumables that are part of the equipment when the equipment becomes waste. The Basel Convention governs all transboundary movement of WEEE.
+
+At COP15, in June 2022, the Parties adopted amendments to Annexes II, VIII and IX to the Basel Convention to list both hazardous and non-hazardous types of WEEE in the Annexes of the Convention. Non-hazardous e-wastes are listed in Annex II with the code Y49, and hazardous e-wastes are listed under a new code in Annex VIII. The amendments will become effective on 1 January 2025. After this date, both hazardous and non-hazardous e-waste transboundary movements will be subject to the Prior Informed Consent Procedure according to the Basel Convention.
+
+Any WEEE pre-processed in the exporting country to a “safe, non-hazardous” concentration of metals or plastics is exempted from the Basel Convention to protect legitimate recycling” and “enable more electronics to be recycled into commodity-grade secondary resources rather than getting incinerated or landfilled.
+
+However, exporters of WEEE who claim that their exports are to be repaired can also avoid the Convention’s rules on the transboundary movement of waste, which is considered a major remaining loophole in the Convention that needs urgent addressing.
+
+8.2.2   SADC Wide Collaboration
+
+The DFFE is committed to strengthening the establishment of Southern African WEEE trade agreements strictly governed by the Basel application process through establishing a focused and transparent “green channel” import of WEEE to South Africa to legally compliant recyclers through a centralised office for the application for transfer of WEEE within SADC.
+
+The objective is the creation of economies of scale and financial incentives (or, where required, funds e.g., through EPR obligations) that promote private sector investment in technologies and infrastructure needed for safe and financially viable end-processing opportunities (both on positive and hazardous/negative WEEE value fractions) in South Africa. Such collaboration will ensure value retention from secondary resources of WEEE in Africa for the benefit of Africans.
+
+8.3   Integrated Environmental Management
+
+In implementing this policy, the DFFE will consult other ministries and stakeholders to establish an appropriate regulatory framework governing WEEE’s complete life cycle management. Integrated waste management plans can support and align with the WEEE Policy and its various aims. The aims include supporting any potential economic opportunities that WEEE management and related secondary resource recovery could yield.
+
+The Policy Aims include promoting jobs and entrepreneurship opportunities from WEEE and setting South Africa as a regional centre of expertise and excellence for responsible and state-of-the-art WEEE treatment. As such, the DFFE is committed to remaining closely involved with the Department of Trade, Industry and Competition (dtic), the Department of Science, Technology and Innovation (DSTI) and the Department of Communications and Digital Technologies (DCDT) as identified key departmental stakeholders to consult and plan going forward. Research partners such as the Council for Scientific and Industrial Research (CSIR), Mintek, and the NCPC are vital contributors to future intergovernmental collaboration initiatives. All stakeholders will ensure adequate public awareness about the policy, promoting awareness of safely handling and disposing of WEEE.
+
+9     Implementation Framework and Institutional Arrangement: WEEE Policy Steering Committee   The policy implementation is mandated and delivered under the leadership of the DFFE with solid support from other governmental and civil society and private sector key stakeholders. There is a need for a dedicated, influential and inclusive WEEE Policy Stakeholder Committee (WEEEPSC) representing diverse interests and stakeholders. The DFFE will promptly establish a WEEEPSC to oversee, coordinate and provide technical direction and monitoring of the progress of the policy implementation phase.
+
+The purpose of the WEEEPSC is to serve as a platform for negotiation, debate, problem-solving, and information dissemination. The WEEEPSC may also provide information about the regulatory changes and expectations. Focus areas for the WEEEPSC task teams should include identifying research aims focused on finding feasible solutions for the value chain management and treatment of WEEE and filling in the data gaps within the EEE value chain. Another focus area would be on good governance processes between all the parties and how to ensure transparency and accountability throughout the EPR implementation process.
+
+9.1   Establishing the WEEE Policy Steering Committee
+
+The WEEEPSC will be set up after the approval of this policy, and the Minister of Environment will appoint the relevant parties. DFFE, in collaboration with the dtic, DCDT and the DSTI, will establish the WEEEPSC. The DFFE will chair will the WEEEPSC.
+
+In its first meeting, the WEEEPSC shall determine the mode of operation consistent with the aimaims of the Policy, and it is equally finalised and approved I&A Plan and assign to the various task team members any related development and monitoring activities to be able to report back along the set KPIs assigned to each aim based outcome. The DFFE will establish these modalities.
+
+In particular, the WEEEPSC shall ensure the effective implementation and sustainable funding of South Africa’s EPR Regulations since most of the WEEE policy aims (such as informal sector integration, public WEEE education, strengthening of WEEE-related research as well as the development and support of the WEEE industry sector as a whole) are strongly aligned with the EPR Regulations.
+
+An example of industry governance is existing and future WEEE-related11 PROs can ally to represent industry interests in the WEEPSC. A cooperative relationship between the PROs will build long-term leadership and drive systemic changes to ensure the ESM of WEEE in South Africa. Such a relationship should fully consider the South African waste hierarchy and favour any recovery of WEEE products or their components for reuse, repair, refurbishment or remanufacturing over recycling of the materials.
+
+A cooperative PRO structure will have ownership of coordinating the operational aspects as contained within the I&A Plan. This structure will include coordinating activities and monitoring the efficiency of the WEEE management system in alignment with the Government and as part of their standard EPR target reporting duties to the DFFE.
+
+Quarterly, a task team will report on progress towards each policy aim to the WEEEPSC. There will be task team-based stakeholder representation from all relevant parties along South Africa’s WEEE value chain governed through this WEEE Policy.
+
+9.2   Representation in the WEEE Policy Steering Committee
+
+Adequate representation on the WEEEPSC of pertinent stakeholders is necessary to inform and legitimise the decisions made. However, the WEEEPSC must remain effective and not result in frequent gridlocks. The WEEEPSC must further the purpose of the Policy in all decisions. A balance is necessary between consideration of individual stakeholder interests, active stakeholder involvement and effective policy implementation. There must be a balance between private and public sector-based stakeholders. All WEEPSC members must have the relevant expert knowledge of the EEE value chain; such as expertise in EEE production, consumption and waste management, education and training. It is vital that, where possible, representatives remain consistent and abreast of new policy developments. Frequent turnaround of participants within the WEEEPSC should be avoided will hamper the committee’s effectiveness.
+
+Regarding the national government-based representation, there should be at least one individual each from the DFFE, DTIC, DSTI and DCDT. Further representation can be considered from other departments such as the Treasury, the Ministry of Health, and the Department of Higher Education and Training. Provincial representation should be secured. In addition, municipal support would be crucial. All spheres of government need to be represented to promote cooperative government relations regarding the WEEE Policy implementation and the larger EPR Project. The private sector and civil society must also ensure this policy’s effective and sustainable implementation. Hence stakeholders are foreseen to include EPR responsible parties such as producers (including retailers), PROs, recyclers, informal waste collectors (both from the South African Waste Pickers Association or ‘SAWPA’ and the African Reclaimers Organisation or ‘ARO’), WEEE research institutes, the National Consumer Commission and civil/environmental protection agencies.
+
+Different types of producer representation, such as brand owners, retailers, importers, distributors, and OEMs (represented by PROs and National Consumer Commission), are required within the WEEEPSC as they all have different processes, challenges and interests in the implementation process. Entire supply chain representation is required – or at least people qualified to understand and represent various interests. Regarding PRO representation, individual PROs may not have representation but instead have a collective representative to further the purpose of PROs in the context of the Policy. However, each might have their interest. It is preferable to have an organisation jointly represent PRO stakeholder interests.
+
+Those that are the most impacted by the Policy should be represented. This would include the most significant contributors to WEEE generation, which are those that need to pay per the Polluter Pays Principle, and thus need to be included in the proceedings. Top EEE producers are the most likely to cause the most waste if not abated.
+
+9.3   Funding the WEEE Policy Steering Committee
+
+A comprehensive funding strategy for the WEEEPSC is required. Various potential funding sources are available. Other methods of securing funding include voluntary contributions from PROs and funds from industry, private sector, non-governmental organisations and other government l initiatives.
+
+(Editorial Note: Wording as per original Government Gazette.)
+
+10     Roles of Key Stakeholders   Table 2 below provides a high-level overview of identified key stakeholders. However, additional stakeholders will likely be required when implementing the policy. This section provides more detailed roles and responsibilities that key stakeholders will assume regarding adopting and implementing the Policy in all aspects.
+
+Table 2: Categories and Interest Angle of Key Policy Stakeholders
+
+10.1   Department of Forestry, Fisheries and the Environment
+
+The DFFE is the custodian of the National WEEE Policy. DFFE’s responsibilities include the official approval of the WEEE Policy I&A Plan and the costing thereof (including expenses for the plan into the annual budget). DFFE’s responsibilities also include agreement on the timelines attached to the plan. As such, the DFFE will also assign any required responsibilities to other government entities and actively identify any additional stakeholders required to put the WEEE Policy in motion. The DFFE will create and oversee the proposed establishment of the WEEEPSC, including the successful formation of any technical workgroups required to reach the aims of the I&A Plan. The DFFE will also have the vital role of reviewing the WEEE Policy to ensure the Policy responds to the rapidly changing dynamics in the WEEE value chain, for example the introduction of new EEE, such as renewable energy equipment, to the South African market.
+
+The WEEE Policy will provide the more significant legal framework under which WEEE-related regulations, such as NEMWA Section 18-based EPR regulations and notices for all WEEE types, fall. The DFFE must create an enabling environment for producers and PROs to fulfil their EPR obligations. An enabling environment includes enforcing the law, prosecuting and fining individuals, and sentencing free-riders. DFFE is committed to specific communication strategies discussed to address free-riders, including reporting mechanisms and warnings. Enforcement will require close collaboration with all customs regulation-affiliated parties (South African Revenue Services or ‘SARS’, International Trade Admission Commission or ‘ITAC’, and Treasury) as this will be the first control point for identifying free-riders.
+
+The DFFE is committed to aiding the development of future mandatory WEEE N&S and the subsequent establishment of a Conformity Assessment and Verification Protocol. The N&S and Protocol will provide a benchmark against which independent third parties can audit various WEEE operators and their facilities. The development of the N&S and Protocol includes a commitment to integrate or replace the current WEEE management relevant legal requirements if needed. The aim is to harmonise and unblock bottlenecks and actively facilitate government-based WEEE asset release, thus allowing for and supporting the safe growth of the entire WEEE service sector.
+
+The DFFE is further required to enforce informal sector integration EPR regulation-based requirements while also assisting the existing formal recycling industry is thriving. Consequently, the national processing capacities could expand significantly, increasing employment levels. The regulations also ensure that the DFFE establishes, monitors and gradually adjusts realistic targets for the collection and recovery for both reusing and recycling purposes of all WEEE in alignment with the national waste management hierarchy.
+
+The DFFE has established EPR Fee Determination Guidelines to provide clarity and consistency for different product categories. PROs need from DFFE a uniform pricing model that applies to all PROs, and then PROs can consider what fees they charge based on their internal costing models. Therefore, the DFFE and all PROs must communicate openly on establishing effective EPR fees and also clarify the price setting rationale to producers.
+
+10.2   Department of Trade, Industry and Competition
+
+The DTIC must collaborate closely with the DFFE and strongly support enforcing the EPR regulation. The DTIC is also pivotal in reporting on the number of registered WEEE management-related small businesses and entrepreneurs as part of the DTIC SMME development initiative. Reporting includes the number of WEEE management-related sustainable income opportunities created. Development must focus on women, youth and persons with disabilities from DTIC records. The DTIC must assist in identifying free-riders.
+
+Through its current solid focus on the United Nations Industrial Development Organisation-funded Eco-Industrial Parks programme, the DTIC must actively support the development of local WEEE collaboration and co-working facilities in such areas, supporting the expansion of existing recycling facilities.
+
+The Eco-Industrial Parks programme can include investment towards WEEE enterprises focusing on recycling and the reuse of EEE, thus promoting the economic utilization of WEEE and bridging the digital divide. It also includes the design of subsidies and other incentive-based mechanisms to support entrepreneurs in the WEEE sector.
+
+10.3   Department of Science, Technology and Innovation
+
+In collaboration with the CSIR and any relevant academic research institute, the DSTI can create and support any programmes that focus on the development of research within South Africa, specifically in the areas of developing local end-processing technology solutions to retain the wealth in WEEE in South Africa and treatment solutions for hazardous WEEE residuals. The DSTI can also support by collecting, analysing and providing data regarding the WEEE sector in South Africa and regionally. Support is not limited to finances but includes collaborations, knowledge sharing and business development.
+
+10.4   Council of Scientific and Industrial Research
+
+In collaboration with the DSTI, the CSIR will define required WEEE research areas and provide grant funding for academic institutions accordingly. The CSIR is also responsible for establishing and further developing the National Registration Database for Informal Waste Pickers. The DSTI and the CSIR are crucial stakeholders in establishing evidence-based interventions in the WEEE sector. Research is specifically required to understand the impacts and target EPR measures. Primary data is required.
+
+10.5   Department of Statistics: Stats SA
+
+Stats SA plays a crucial role by providing data collection, analysis, and reporting expertise. Working collaboratively with the CSIR and the DSTI, dtic, Stats SA can provide invaluable insights and evidence-based information to drive effective decision-making processes. Firstly, Stats SA can conduct comprehensive surveys and studies to assess the current state of EEE consumption and production practices, WEEE generation, disposal practices, and associated environmental impacts in South Africa. This data will serve as a foundation for policy formulation and target setting.
+
+Stats SA can assist in designing monitoring and evaluation frameworks to track the progress and effectiveness of the Policy over time. By regularly collecting and analysing relevant data, they can identify trends, gaps, and areas that require further attention, enabling policymakers to make informed adjustments and improvements.
+
+Stats SA can collaborate with other stakeholders, such as environmental agencies and industry experts, to gather data on recycling rates, economic implications, and potential job creation opportunities. By providing accurate statistical information, Stats SA can empower policymakers, advocacy groups, and industry stakeholders to make evidence-based decisions and prioritize resources effectively guided by circular economy principles.
+
+10.6   Department of Communications and Digital Technologies
+
+On its website,12 the DCDT points out that “the National Development Plan indicates that by 2030, ICTs will underpin the development of a dynamic information society and knowledge economy that is more inclusive and prosperous” and that the “DCDT will therefore play a specific role in fostering broader economic and social participation by all citizens through digital transformation underpinned by the Fourth Industrial Revolution (4IR).”
+
+Therefore, the DCDT must play a crucial role in strengthening the development of a sharing (circular) economic model where South Africans are encouraged to have widespread access to ICT equipment over individual ownership.
+
+DCDT should actively drive the early release of end-of-life equipment from the South African private and public telecommunication sector that still has the option of functionality recovery either by direct reuse, repair, refurbishment or remanufacturing.
+
+10.7   Treasury
+
+Treasury is crucial to securing the financial sustainability of the policy I&A Plan by establishing funding mechanisms for policy outcomes not covered via producer-based EPR obligations. Treasury is also an essential stakeholder in communicating to PROs and the DFFE essential data including product placed on the market and collaborating towards the consistency of HS-based import codes.
+
+Regarding improved asset disposal measures in the future, Treasury also plays a crucial leading role. Section 16A.7 of the treasury regulations provide the framework that all government supply chain asset managers must follow regarding the disposal of all assets from the asset register. The section states that the Department of Education is the first entity contacted for the potential re-use of assets. If the Department of Education indicates that the said assets are unnecessary, then that department may sell, auction, or donate the assets. The fate of the assets after the donation or auctions when the assets become waste is, however, unmanaged and unknown, and the DFFE strives to change this by ensuring a sustainable management approach for each disposed asset.
+
+Treasury considers disposal as removing all assets from the asset registers by the asset committee. It does not consider what happens after donation/selling, or auction. Treasury plays a crucial role in enabling the release of assets to ensure ESM of WEEE. Assets auctioned or donated must follow specific processes such as fate determination and disposal certification. The waste management hierarchy needs to guide these processes, prioritising reduction, reuse, and repair practices.
+
+10.8   Department of Health
+
+This department is a vital collaboration partner for the scientific evidence-based development of any WEEE education and awareness materials or training curriculum that outlines the human health and safety impact primarily related to the mismanagement of WEEE.
+
+10.9   Department of Employment and Labour
+
+This department must advise DFFE on any aspects of the OHSA that must be integrated into the WEEE policy and its I&A Plan. The OHSA prescribes the conditions that all employers and managing staff must enforce to protect the well-being of workers and employees.
+
+10.10   South African Revenue Services, Customs and the International Trade Admission Commission
+
+SARS’s Customs division plays an integral role in facilitating the movement of goods, including all new and used EEE entering or exiting the borders of the Republic. ITAC is responsible for trade remedies in South Africa, including investigation of alleged dumping, subsidised imports and other incidences and irregularities following domestic legislation and consistent with World Trade Organisation Rules. Together these organisations monitor and regulate all imports and are, therefore, the parties that obtain the relevant primary data in import codes placed on the South African markets.
+
+Customs and ITAC are in the ideal position to contribute to the identification of free-riders. They have the responsibility to report them to the DFFE and could assist the protection of the state by withdrawing any import permits to South Africa until importers provide proof that they have registered with a PRO and are contributing to the EPR fund. Customs and ITAC should identify free-riders at the point of import. Customs and ITAC shall remain open and transparent about their role and current procedures regarding EEE importers and their responsibilities towards PROs.
+
+10.11   Department of Higher Education and Training
+
+The department is a crucial collaboration partner in the WEEEPSC-based required task team, which is responsible for driving the agenda to further knowledge, foster awareness, grow skills, and build human capacity to provide the public education and professional expertise required to ensure responsible management of all WEEE in South Africa.
+
+10.12   Department of Small Business Development
+
+MSME’s are a crucial component of the WEEE Management value chain in South Africa, with the bulk of the management occurring in small operations. The Department of Small Business Development would be key in the development of programmes for the growth of MSMEs in the WEEE management sector. WEEE MSMEs would promote entrepreneurship, growth and support in line with the NDP targets to assist small business and the green economy.
+
+10.13   Municipalities
+
+Municipalities will be responsible for identifying where gaps are present and where challenges and opportunities exist. Municipalities will also support implementing an appropriate WEEE consolidation system on the local government level. The role of municipalities is to ensure that WEEE does not end up in the domestic, municipal solid waste stream. Diverting WEEE can be facilitated by the provision of drop-off sites accepting WEEE. Municipal interest must be represented by an elected municipal stakeholder, specifically SALGA, on the relevant WEEEPSC work group(s).
+
+Municipalities are encouraged to reach out to EPR-obligated producers via all PROs to explore opportunities for public-private partnerships that aid more collection schemes for all EPR-obligated waste streams (including next to WEEE also Lighting Waste and Batteries) create economies of scale and one-stop solution set-ups for citizens. Municipalities should also actively seek collaboration with producers, PROs and the DFFE when developing public education materials or hosting collection events.
+
+Municipalities are needed to support the mobilisation of communities and to raise awareness about the WEEE regulatory development and the required societal changes to manage WEEE responsibly. Awareness and education start by approaching schools and supporting households through separation at source initiatives in the various municipalities to be able to manage their WEEE responsibly.
+
+Any WEEE recovered by municipalities must be adequately recorded (to inform PROs/DFFE and avoid double-counting) and then handed over to the relevant EPR system-compliant service provider. Municipalities shall not get involved with preparing for recycling, recycling, or further processing WEEE.
+
+10.14   South African Local Government Association
+
+The South African Local Government Association (SALGA) plays a vital role in implementing the WEEE National Policy by articulating common policy positions and representing local government interests while delivering solutions to broader municipal challenges. Through its established position in local governance, SALGA is uniquely equipped to facilitate capacity building programmes focused on WEEE management at the municipal level, addressing both institutional waste management and household WEEE collection within municipal jurisdictions.
+
+Furthermore, SALGA serves as a crucial intermediary between various stakeholders, particularly PROs, and local municipalities. This intermediary role enables the development of coordinated logistics strategies for effective WEEE management across multiple municipal boundaries. As a central knowledge hub, SALGA is also well-positioned to maintain and disseminate essential information regarding WEEE management practices to municipalities, ensuring consistent and efficient implementation of waste management protocols.
+
+10.15   Provinces
+
+Under Section 24 of the Constitution, provinces have the responsibility and authority to ensure a healthy environment through effective waste management, including WEEE. The provinces’ mandate includes licensing of waste management activities, monitoring compliance with national norms and standards, and coordinating the implementation of EPR schemes within their jurisdictions.
+
+Provincial authorities are specifically empowered by NEM:WA to develop and implement Provincial Integrated Waste Management Plans that must include provisions for WEEE management. These plans must align with the National Waste Management Strategy while addressing province-specific challenges and opportunities in WEEE management. The provinces serve as regulatory intermediaries, ensuring that municipality-level collection and management of WEEE meets national standards, while also maintaining provincial records of WEEE volumes and flows. Additionally, under the Industry Waste Management Plans framework, provinces have oversight responsibilities for the implementation of industry-led WEEE management initiatives, including the authorisation of collection points, recycling facilities, and monitoring the achievement of prescribed targets for WEEE recovery and recycling within their boundaries.
+
+10.16   Producers
+
+Producers must join any PRO authorised to fulfil EPR obligations or set up their own (IPR) scheme. The EPR Regulations establish the scope of a producer.13 Producers need to comply with the Regulations. Mandates include updating the information system of both the PRO and the DFFE (SAWIC) databases, financing the EPR system, including any collection infrastructure required, establishing and meeting targets, reporting results, working on eco-design improvement, and conducting LCA research related to their products.
+
+In collaboration with DFFE and the PROs, producers need to assist with identifying and reporting free-riders. They must be truthful about their products placed on the South African market and not underpay the EPR fees due. Producers must also provide information relevant to optimal product recovery to both WEEE recyclers and consumers. Producers also have an essential role to inform consumers that they abide by their EPR obligations.
+
+Producers must agree on and appoint a representative for their stakeholder group reflecting their interests whilst participating and contributing to the relevant WEEEPSC-defined workgroups.
+
+10.17   Producer Responsibility Organisations
+
+PROs must use their current members as system advocates and encourage reporting of noncompliance and whistleblowing of identified free-riders. PROs need to ensure that the licensed recyclers appointed by them meet stringent quality procedures and any regulatory requirements (e.g., the future mandatory WEEE-specific N&S). This is usually ensured through technical controls on recyclers by external auditors. Legislation must ensure that the collection and associated actors are obligated to ensure proper take-back, treatment, and lawful export for disposal.
+
+All PROs fulfilling EPR obligations on behalf of their producer members must adhere to the EPR regulation-based informal sector integration targets, e.g., through encouraging collaborative agreements of PRO WEEE management partners, including co-working spaces for informal sector representatives in supervised environments. They also must fulfil the annual and biannual reporting requirements to the DFFE.
+
+All PROs should assist the DFFE in developing public education materials and Sector Education and Training Authorities (SETAs) with the development of accredited training curricula. PRO producer members and critical service providers (e.g. recyclers) must be involved in curricula development. PROs should be the primary report-back structures, this can happen in a form of monthly newsletter, websites (or any other means of communication).
+
+Regarding the EPR fee allocation, PROs must be transparent and have a sufficient flow of capital to remain operationally compliant. PROs should make reports available to producers to understand the impact of their contributions. EPR fees should reflect specific costs associated with processing different product types. When determining the EPR fees, PROs should factor in the complexity and required technical processes needed for waste management and how often the item can be recovered for reuse.
+
+Finally, PROs must earmark a certain percentage of the EPR budget to affect action items in the WEEE policy I&A plan that are aiding to meet Section 18-based PRO or Individual producer obligations.
+
+10.18   WEEE Processors
+
+WEEE Processors must remain compliant with all relevant legal requirements. Should a WEEE recycler be found to engage in non-ESM recycling or is otherwise non-compliant they will have to be given a grace period by PROs to rectify matters. If no required changes are made, their contracts with PROs must be cancelled, and material supplies cut off.
+
+10.19   Informal WEEE Collectors
+
+All informal WEEE collectors shall register on the National Database as a non-negotiable requirement to become eligible for EPR-driven informal sector integration activities and resulting financial benefits (such as getting paid for collection services). WEEE collectors shall not use any treatment or processing to aid selective recovery of value fractions. All WEEE collected must be handed over to a duly authorised processor. Supervised dismantling at a safe location (e.g., in the form of a co-working facility or on the premises of a recycler) might be an option but is strictly subject to special arrangement and approval via the DFFE.
+
+10.20   EEE Retailers
+
+According to SRI experience [25], retail outlets should insist that their upstream wholesale vendors and suppliers who generate the first point of sale by importing EEE to South Africa are registered in the EPR system before carrying their products. That will pressure producers to register with a PRO for a collective take-back system or introduce an individual Take-Back system to secure their market access. EEE Retailers are also mandated to take back any EEE unwanted by consumers as part of the CPA.
+
+10.21   EEE Consumer
+
+All consumers, private sector (households or businesses) or public sector-based (institutions or government departments), must reduce WEEE through responsible consumption. Sustainable consumption means businesses and the public sector must actively develop and adopt sustainable procurement strategies.
+
+All consumers should be aware of their rights (e.g., as enshrined in the Consumer Protection Act [26]) as well as their responsibilities to return WEEE or end-of-life EEE to operators and their collection infrastructure that are part of the EPR system and can therefore guarantee proper handling along the entire value chain. Consumers should choose producers that abide by their EPR obligations.
+
+10.22   Auditors
+
+Any third-party auditor must ensure transparency and openness regarding the recycling quality, including the overall compliance status of recycling facilities and all operations and activities conducted. They must identify any recycler that has a service level agreement with a PRO and does not follow environmental, health and safety standards and illegally export their waste to other countries for processing or dumping. Auditors must remain independent and impartial.
+
+10.23   Academia
+
+Academia will support any necessary research studies to implement this policy and realise WEEE policy aims. Key research areas must aim to support new business opportunities related to the pre-treatment of value fraction before the end -processing. These opportunities should create more value (through concentration) before secondary materials are exported. Ideally, opportunities researched should encourage the processing of WEEE in South Africa to avoid the export of valuable materials. The other key research area in the context of the recent ban of all WEEE to landfill disposal is finding feasible treatment and ideally beneficiation options for any residues resulting from WEEE processing in the form of currently “non-recoverable resources” thereby limiting the need for any incineration as well.
+
+10.24   Civil Rights Organisations
+
+These organisations will be responsible for representing and advocating on behalf of society, informal actors and consumers regarding implementing this policy and its aims. Their role is to uncover and, where required, whistle-blow without any fear of repercussions to do so, any environmental or human rights violations observed in the context of WEEE management.
+
+11     Resource Mobilization   The required resources for a comprehensive, safe, and equitable WEEE management system in South Africa are mainly provided under the EPR regulations via the EPR funds generated. Hence, these funds should cover any aims and outcomes that speak directly to EPR deliverables in the I&A plan. It is submitted that all PROs must earmark a certain percentage (which would be subject to further discussions in a workgroup under the WEEEPSC) of the producer fees to assist with delivering the envisaged policy outcomes.
+
+WEEE policy outcomes that go over and above directly EPR-mandated action requirements depend on developing a feasible funding mechanism primarily estimated to come from other government sources such as Treasury, and the dtic and could also include fines levied against free-riders caught at the customs level. For the successful implementation, it is crucial to first identify and tap into the various policy plan funding sources required by WEEEPSC to ensure the policy yields tangible action via the I&A Plan. The WEEEPSC “would also have to pool existing resources of government ministries under relevant programmatic funding, with additional support from multilateral and bilateral development agencies as well as leveraging private sector funds where possible”.
+
+12     Monitoring and Evaluation Framework and Reporting   For effective policy implementation, consistent monitoring and evaluation is required to maintain momentum and ensure the timeline, aims, and outcomes are met as planned.[17] Being the custodian of the WEEE policy, the DFFE would lead the monitoring and evaluation of the implementation of the policy aims. The provincial department will assist the national government regarding monitoring and evaluation.
+
+Monitoring and evaluation of this policy will use a result-based management approach, focussing on tracking progress towards the overall goal, aims, aims and outcomes for the defined stakeholders, their roles and responsibilities with the KPIs as part of the policy matrix summary contained in. For this, the DFFE will develop a specific methodology that is then shared with all relevant parties required in a systematic monitoring, evaluation, and reporting framework.
+
+Existing DFFE-based engagement platforms, such as the Industry Waste Management Forum, will be invaluable for regular reporting and trouble-shooting purposes. However, an established monitoring, evaluation, and reporting body may be required. The DFFE and the WEEEPSC will communicate the progress through existing information dissemination platforms such as SAWIC.
+
+Disseminating the Policy and I&A Plan is essential for effective monitoring and evaluation.
+
+13     Advocacy and Dissemination   To encourage effective advocacy and dissemination of the WEEE Policy, a Dissemination Strategy is required. The dissemination strategy will include multiple communication channels through digital platforms and print media, in-person consultation workshops and community roadshows. Various information channels include the DFFE website, Environment Quarterly, Google search, waste management forum, PRO websites, and newsletters.
+
+The strategy would recognise the importance of targeted communication through popular news outlets and stakeholder engagement. Visually appealing pictorials, posters, or other forms of information sharing should align with the specific target audience’s interests. Accessible images can assist in simplifying and focusing critical information. It would be necessary to relate all media (with individual messages relevant to key stakeholders) to the five lenses of policy development-economic, social, legal, technical and environmental. It would be advisable to have a template approved according to DFFE design principles to avoid repetitive approval processes. The aim is to ensure the effective dissemination of information promptly.
+
+The strategy will focus on disseminating information and advocating for the benefits of ESM of WEEE through the Policy implementation. Information to disseminate includes but is not limited to—
+
+• the importance of the roles and responsibilities of all actors in the WEEE value chain;
+
+• the economic, environmental, and social benefits of environmentally sound WEEE management;
+
+• specific EPR deliverables such as—
+
+◦ quantifiable informal sector integration,
+
+◦ the marked increase in all WEEE-related economic activities related to local infrastructure,
+
+◦ and introduce technologies that can retain more value from secondary resources in WEEE in South Africa;
+
+• the consequences for non-compliance and effective enforcement of the policy
+
+Potential platforms to disseminate information include the following—
+
+• websites of professional associations, government departments websites, ICT websites, STI4CE website, PRO websites, Organisation websites such as GreenCape, and sector industry websites;
+
+• potential publication locations: Chambers of commerce (national and local and it will go to all their members;
+
+• SALGA for their publication (Voice Magazine);
+
+• the NCPC has an Expanded Industrial Symbiosis Initiative that could be of interest to the dissemination process;
+
+• the International Association for Impact Assessment (IAIA) South African branch;
+
+• the Department of Public Service and Administration;
+
+• the Department of Government Communications and Information Technology;
+
+• State IT Agency’s GovTech; and
+
+• all institutions of higher learning.
+
+Recommendations proposed to enhance stakeholder engagement—
+
+√ Tailored Communication: Customise communication strategies for different stakeholder groups, considering their preferences and characteristics.
+
+√ Proactive Engagement: Initiate engagement activities early in the project lifecycle to ensure stakeholder involvement.
+
+√ Regular Updates: Provide timely and transparent updates on project progress, addressing concerns and highlighting achievements.
+
+√ Relationship Building: Organize networking events or workshops to foster stakeholder relationships and encourage collaboration.
+
+√ Continuous Feedback Loop: Implement mechanisms for ongoing feedback collection, allowing stakeholders to provide input at various project stages.
+
+14     Legal Arrangements   A regulatory framework for managing WEEE in South Africa has been developed through this Policy in line with the aims of existing regulations (including EPR), policies and national legislation. Where applicable, it continues to put local economic development strategies and by-laws into account to harmonise all those envisioned outcomes so that the cross-cutting mandates of human health protection, environmental protection, economic growth, trade opportunities, the introduction of minimum operational and technical standards via the WEEE N&S etc. are all addressed as critical deliverables from the Policy’s I&A plan.
+
+As outlined, DFFE is the custodian of the WEEE Policy but can only activate all elements in the I&A plan through collaboration with other key government institutes (including but not limited to the dtic, Treasury, the DSTI, the DCDT) and the relevant private sector partners required as identified in stakeholder analysis in Chapter 10.
+
+Any legal instrument governing the management of WEEE in South Africa must align with the guiding principles of the Policy and the defined goal.
+
+15     Implementation & Action Plan   The I&A Plan forms a separate document from the Policy and is built on the matrix elements described in Appendix. The matrix elements (namely for each of the six aims) include—
+
+• objectives;
+
+• outcomes;
+
+• relevant Stakeholders;
+
+• roles & responsibilities; and
+
+• KPIs.
+
+The complete I&A Plan will also include the costs and timelines needed to achieve all aim-related objectives. The six aims, the costs, and the timelines need to be reviewed by the WEEPSC as frequently as necessary to remain relevant within the rapidly changing dynamics of the WEEE value chain.
+
+The DFFE will complete the I&A Plan after the approval of the WEEE policy in consultation with other government departments and possibly through a dedicated WEEEPSC-driven workgroup. The DFFE’s high-level budget estimates for each aim will be broken down by WEEEPSC by the date of implementation and duration required to reach critical milestones.
+
+The I&A Plan must include clear procedures for the handover and acceptance of roles and responsibilities that key stakeholders have to assume. The Plan must also provide clarity on how stakeholders are to institutionalise the expected aims. For example, with the landfill ban in place for WEEE, the I&A Plan can guide how municipalities can adapt operations accordingly.
+
+Stakeholder engagement on the I&A Plan rollout must be held with their particular interest and challenges in mind to get the policy and its envisaged outcomes into the mainstream of sharing knowledge. There is a need to clearly understand the roles required and assign the responsibility to the relevant parties without any ambiguity.
+
+There is a need for consistency regarding I&A Plan engagements. Parties presenting the Policy and I&A plan must be the same people. Otherwise, various interpretations from different people will promote confusion. If someone different presents in every province, there will be a proliferation of understanding of the document. Information sharing should be consistent, and having the same individuals embark on a country-wide information campaign is preferable.
+
+Each custodian entity described in the matrix and later in the I&A Plan will ensure the timely completion of the action items according to the KPIs. The KPIs are used to assess the level of implementation that could be achieved.
+
+16     Conclusion   The recent introduction of EPR regulation affects Section 18 of NEMWA for managing all WEEE. The Regulation is accompanied by the relevant product-specific Notices such as the Notice for EEE, Lighting and batteries. The Regulation provides much of the required value-chain-based stakeholder identification. It demands a level of accountability required to drive the goal and reach any of the six aims in the WEEE Policy. The NEMA and NEMWA are the overarching legislative framework structures under which the WEEE regulation and any other WEEE-related legislation are embedded. The legislative framework ensures the responsible and safe management of WEEE from an environmental, social and economic sustainability perspective in South Africa.
+
+The DFFE, as the custodian of the Policy, has taken the lead in devising an I&A Plan designed to fulfil the policy goal and builds on the vision and achievement of the six identified and formulated aims. Therefore, the DFFE, has established a dialogue between public and private stakeholders. The DFFE will organise further consultations with crucial WEEE value chain actors to implement the policy successfully in all the strategic aspects linked to the various environmental, economic and societal goals. Therefore, the Policy and its aims are designed to assist the DFFE in collaborating with all EPR value chain partners to build a robust, lucrative, inclusive, and sustainable WEEE management infrastructure that creates an enabling environment and incentivises producers to produce and consumers to discard, their EEE and WEEE responsibly.
+
+APPENDIX 1   WEEE POLICY MATRIX  
+
+
+References
+
+[1]
+ DFFE, “Regulations regarding Extended Producer Responsibility (GG 43879),” 2020.
+
+[2]
+ DFFE, “Notice: Extended producer responsibility scheme for the electrical & electronic equipment sector (GG 43880),” 2020.
+
+[3]
+ The Presidency, No. 59 of 2008: National Environmental Management: Waste Act, 2008 (GG 3200), Pretoria, 2009.
+
+[4]
+ DEA, “Waste Classification and Management Regulations (GG 36784),” Pretoria, 2013.
+
+[5]
+ DFFE, “National Waste Management Strategy for South Africa,” DFFE, Pretoria, 2020.
+
+[6]
+ National Constitutional Assembly, Constitution of the Republic of South Africa, ISBN 978-0-621-39063-6 ed., Pretoria: National Government, 1996.
+
+[7]
+ Forti V., Baldé C.P., Kuehr R., Bel G, “The Global E-waste Monitor 2020: Quantities, flows, and the circular economy potential,” United Nations University, 2020.
+
+[8]
+ Greencape, “Market Intelligence Report: Waste,” 2022.
+
+[9]
+ Lydall; Nyanjowa and James, “Mapping South Africa’s Waste Electrical and Electronic Equipment (WEEE) dismantling, pre-processing and processing technology landscape,” Mintek, 2017.
+
+[10]
+ Office of the Presidency, “National Environmental Management Act (NEMA) (107 of 1998) GG 19519,” President, Pretoria, 1998.
+
+[11] Department of Environmental Affairs, National Environmental Management: Waste Act, 2008 (Act No. 59 Of 2008) National Policy On Thermal Treatment Of General And Hazardous Waste (GG32439), Pretoria, 2009.
+
+[12]
+ Sadan. Z, “Exploring the potential for local end-processing of e-waste in South Africa,” 2019.
+
+[13]
+ Karcher S.; Valdivia S.; Schluep M, “From Worst to Good Practices in Secondary Metals Recovery: Fact Sheets,” Sustainable Recycling Industries (SRI), St.Gallen; Switzerland, 2018.
+
+[14]
+ DEA, Draft Waste Classification and Management Regulations, Pretoria: Government Gazette, 2011.
+
+[15]
+ S. Méndez-Fajardo, “A practical guide for the systemic design of WEEE Management Policies in Developing Countries,” SRI, St.Gallen, 2017.
+
+[16]
+ M. Samson, “Waste picker integration guideline for South Africa: Building the Recycling Economy and Improving Livelihoods through Integration of the Informal Sector,” Pretoria, 2021.
+
+[17]
+ Ministry of Information and Communication Technology (MICT), “Namibia National Policy on Management of Waste Electrical and Electronic Equipment,” Windhoek, 2019.
+
+[18]
+ DEA, “NEMWA (ACT NO. 59 OF 2008): National Waste Information Regulations (GG 35583),” Pretoria, 2012.
+
+[19]
+ DEA, NEMWA (Act No. 59 of 2008): List of Waste Management Activities that have or are likely to have a detrimental effect on the environment (GG 37083), Pretoria: GG 37083, 2013.
+
+[20]
+ Presidents Office, “Occupational Health and Safety Act 85 of 1993 (GG 14918),” Pretoria, 1993.
+
+[21]
+ DFFE, “National Environmental: Waste Act (NO.59 OF 2008) Amendments to the Regulations and Notices Regarding Extended Producer Responsibility (GG 44539),” DFFE, Pretoria, 2021.
+
+[22]
+ DFFE, “Operation Phakisa - Chemicals and Waste Economy,” 2020. [Online]. Available: https://www.environment.gov.za/projectsprogrammes/ operationphakisa_chemical_waste_economy.
+
+[23]
+ EJOLT, “Mapping Environmental Justice: Polluter Pays Principle,” 12 2013. [Online]. Available: http://www.ejolt.org/2013/05/polluter-pays-principle/.
+
+[24]
+ UNEP, “Basel Convention (Overview),” 2022 July. [Online]. Available: http://www.basel.int/Implementation/Ewaste/Overview/tabid/4063/Default.aspx.
+
+[25]
+ Schluep M., “Case Study e-Waste Management,” Sustainable Recycling Industries, 2014.
+
+[26]
+ Presidency of South Africa, “Consumer Protection Act (68 of 2008) GG 32186,” Pretoria, 2009.
+
+____________
+
+
+
+Footnotes
+1	https://weee-forum.org/international-waste-country/za/
+2	This relationship involves the link between deaths and illnesses, and hazardous substances across their life cycle; decent work and labour rights; air quality and municipal waste management; and the reduction of waste generation through following the waste hierarchy.
+3	A harmonised approach entails agreeing on an integrative yet controlled modus operandi that provides defined opportunities for safe formal and informal sector collaboration
+4	These N&S will be developed by the DFFE and have not been gazetted.
+5	Successful policy implementation needs to be linked closely to the requirements of the recently introduced EPR regulation and its separate notices on WEEE, lighting waste and portable batteries e.g., requesting detailed collection and recycling performance evidence).
+6	Especially significant opportunity to expand and diversify the small- and medium-sized business sector [9]
+7	Final treatment for WEEE residuals would be incineration (with or without energy recovery) or landfill disposal.
+8	http://sawic.environment.gov.za/?menu=13
+Repealed Act	Act 5 of 1973 has been repealed by s 9 of Act 24 of 2005
+9	https://www.iso.org/standard/69354.html
+10	https://www.iso.org/standard/69354.html
+11	This includes all types of WEEE including lighting waste, batteries, and renewables
+12	https://www.dcdt.gov.za/about-us/mandates.html
+13	“producer” means any person or category of persons, including a brand owner, who is engaged in the commercial manufacture, conversion, refurbishment (where applicable) or import of new or used identified products.
+14	A harmonised approach entails agreeing on an integrative yet controlled modus operandi that provides defined opportunities for safe formal and informal sector collaboration
+
+
+End of Document

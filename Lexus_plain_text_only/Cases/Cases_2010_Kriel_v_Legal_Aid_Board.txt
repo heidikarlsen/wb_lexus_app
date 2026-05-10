@@ -1,0 +1,184 @@
+
+
+
+
+Kriel v Legal Aid Board [2010] JOL 26431 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JR 3518 / 09
+Hearing Date(s): 10 / 06 / 2010
+Judgment Date(s): 30 / 07 / 2010
+Bench: Bhoola J
+
+
+Keywords
+
+
+Labour law — Practice and procedure — Unfair dismissal referral — Preliminary objections 
+Res judicata — Lis pendens
+
+Mini Summary
+
+
+The applicant was dismissed following a disciplinary enquiry in 2003. The employer (the respondent) was an organ of state, and the applicant therefore first tried to challenge his dismissal on administrative law grounds. When that failed, he referred an automatically unfair dismissal dispute to the present court. That application was pending.
+
+The respondent raised in limine points regarding non-joinder, res judicata and lis pendens, the competence of a section 158(1)(h) review, and undue delay.
+
+Held that the non-joinder point was without merit and was dismissed.
+
+On res judicata and lis pendens, the respondent contended that the applicant’s challenge insofar as it related to the authority of the chairpersons and the powers delegated to them formed part of a review application which had already been brought by the applicant in the high court, and had been disposed of. Furthermore, the applicant’s dismissal was the subject of a pending trial before this Court.
+
+The court found that the relief sought in the present proceedings duplicated to a large degree, the relief sought in the earlier proceedings. The points regarding res judicata and lis pendens were thus both upheld.
+
+ 
+[2010] JOL 26431 (LC) at 1
+
+BHOOLA J
+
+Introduction
+
+[1]    The applicant brought an application in terms of section 158(1)(h) of the Labour Relations Act 66 of 1995 ("the LRA") for the review and setting aside of certain actions and decisions of the respondent, an organ of State, in its capacity as employer ("the review"). The grounds for the review are that the respondent acted unlawfully in that it failed to comply with the requirements of legality and the rule of law (as referred to in section 1(a), 1(c) and 2 of the Constitution of the Republic of South Africa, 1996), the Legal Aid Act,1 the Public Service Act, the Doctrine of Separation of Powers and the Disciplinary Code and Procedures for the Public Service. The nub of the review is the respondent's failure to comply with the Legal Aid Act in that it did not validly delegate its powers to the chairperson of the applicant's disciplinary enquiry and  
+[2010] JOL 26431 (LC) at 2
+appeal hearing ("the chairpersons"). The applicant seeks to review and set aside the purported delegation of authority as being unlawful and unconstitutional, rendering his dismissal void.
+
+[2]    The respondent brought a rule 11 application seeking dismissal of the review, following which the two matters were consolidated by order of this Court. The respondent raised various in limine objections and in an ex tempore order the court upheld the respondent's objections save for the non-joinder point. This dispensed with the need to determine the merits.
+
+Background
+
+[3]    This matter has an extensive history. The applicant was dismissed following a disciplinary enquiry in 2003. His dismissal was confirmed on appeal in September 2004. He brought a review application in the High Court in 2005 to assert his right to fair administrative action under the Promotion of Administrative Justice Act 3 of 2000 ("PAJA") (see Kriel v Legal Aid Board & others (2009) 29 ILJ 1091 (T) [also reported at [2007] JOL 20991 (T) – Ed]). The High Court held that it lacked jurisdiction to determine the matter since the dismissal of employees fell within the ambit of the LRA. It accordingly dismissed the review. On appeal the Supreme Court of Appeals ("SCA") held that the High Court had retained jurisdiction but that the true issue for decision was whether the dismissal constituted administrative action as envisaged by PAJA (see Kriel v Legal Aid Board & others (2009) 30 ILJ 1735 (SCA) [also reported at [2009] JOL 23684 (SCA) – Ed]). The applicant then approached the Constitutional Court, which refused leave to appeal in November 2009.2
+
+[4]    In January 2010 the applicant referred an automatically unfair dismissal dispute as envisaged by section 187(1) of the LRA to this Court, which is pending.
+
+ 
+[2010] JOL 26431 (LC) at 3
+
+Preliminary objections
+
+[5]    The respondent raised the following in limine points: non-joinder, res judicata and lis pendens, section 158(1)(h) review non-competent, and undue delay. I turn now to deal with each of these.
+
+Non-joinder
+
+[6]    The respondent submitted that the applicant should have joined the chairpersons since their appointments form the subject of the review. Relying on Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (AD), the respondent submitted that they have a direct and substantial interest in the outcome of the proceedings and should have been joined to answer or defend the nature and extent of their involvement. The applicant does not seek an opportunity to join them and disputes their interest. It submits that it is not their decisions that are being challenged, but the purported delegation of authority to them in contravention of the Legal Aid Act. Thus, they have no interest in the delegation being declared unlawful. The respondent further contended that the applicant had not complied with rule 7A(1) of the Rules for the Conduct of Proceedings in the Labour Court in that it had not served the notice of motion on all affected parties, which is mandatory. Since no condonation is sought this should be held to be fatal to its case.
+
+[7]    I agree with the applicant that in circumstances where the purported delegation of authority and not the outcome of the disciplinary process is subject to review, the chairpersons lack a direct interest. If the applicant were to succeed it would result in the disciplinary proceedings being set aside as void ab initio and this would not affect the rights or interests of the chairpersons.3 It follows then that compliance with rule 7A(1) in this respect was not necessary.
+
+ 
+[2010] JOL 26431 (LC) at 4
+
+Lis pendens and res judicata
+
+[8]    The respondent submitted that the authority of the chairpersons and the powers delegated to them formed part of the review application in the High Court, and had been disposed of. Furthermore, the applicant's dismissal is the subject of a pending trial before this Court. In Makhanya v University of Zululand (2009) 30 ILJ 1539 (SCA) [also reported at [2009] JOL 23690 (SCA) – Ed], the implications arising from this approach to litigation was made clear. The court4 held:
+
+"Naturally a claim that falls within the concurrent jurisdiction of both the High Court and a special court could not be brought in both courts. A litigant who did that would be confronted in one court by either a plea of lis pendens (the claim is pending in another court) or by a plea of res judicata (the claim has been disposed of by the other court). A claimant who has a claim that is capable of being considered by either of two courts that have concurrent jurisdiction must necessarily choose in which court to pursue the claim and, once having made that election, will not be able to bring the same claim before the other court."
+
+[9]    Furthermore, the respondent submitted, it is clear from Chirwa v Transnet Ltd & others (2008) 29 ILJ 73 (CC) [also reported at [2008] JOL 21166 (CC) – Ed], that a public sector employee is not in a preferential position so as to be afforded an election, and having elected to bring his action in the High Court cannot now seek the same remedy here, particularly in circumstances where his unfair dismissal claim is pending. In his majority judgment Ngcobo J5 cautioned against forum shopping when he held:
+
+"Therefore, I am unable to agree with the view that a public sector employee, who challenges the manner in which a disciplinary hearing that resulted in his or her dismissal, was held, has two causes of action, one flowing from the LRA and another flowing from the Constitution and PAJA."
+
+ 
+[2010] JOL 26431 (LC) at 5
+
+[10]    The applicant submitted that this review, unlike that in the High Court, did not rely on a cause of action under the Promotion of Administrative Justice Act 3 of 2000 ("PAJA"), but on the doctrine of legality. Moreover, the SCA, in dismissing the applicant's appeal, did not consider it necessary to decide on the lawfulness of the delegation, but had held:
+
+"By a parity of reasoning, it is also unnecessary to decide whether the second respondent lacked the authority to adjudicate at the disciplinary enquiry and whether there had been any impermissible delegations of authority. The resolution of these issues is irrelevant to whether the decision to dismiss amounted to administrative action which could be reviewed."6
+
+[11]    The applicant thus submitted that for present purposes it was not relevant whether the functions exercised by the respondent constituted administrative action or not, since it seeks to challenge the respondent's functions under its empowering statute. This is a constitutional rather than an administrative justice challenge. The applicant's counsel submitted that in citing Makhanya (supra) the respondent had failed to point out that the court7 had acknowledged that: 
+
+". . . where a person has two separate claims, each for enforcement of a different right, the position is altogether different, because then both claims will be capable of being pursued simultaneously or sequentially, either both in one court or each in one of those courts." 
+
+The applicant is therefore entitled, the applicant submitted, to enforce his right both in regard to the lawfulness as well as the unfairness of his dismissal. This is moreover a separate and distinct cause of action from his unfair dismissal claim, and despite the fact that the latter is pending, if he were to succeed in casu it would follow that he would abandon the unfair dismissal claim.
+
+[12]    This Court's concern about this course of conduct constituting parallel litigation and forum shopping was raised with the applicant's counsel, who  
+[2010] JOL 26431 (LC) at 6
+addressed this by reiterating (in the light of authorities such as Fedlife Assurance v Wolfaardt (2001) 22 ILJ 2407 (SCA) [also reported at [2001] JOL 8759 (A) – Ed], Denel (Pty) Ltd v Vorster 2004 (4) SA 481 (SCA) [also reported at [2004] JOL 12535 (SCA) – Ed] and Fredericks & others v MEC for Education & Training, Eastern Cape & others 2002 (2) SA 693 (CC) [also reported at [2001] JOL 9225 (CC) – Ed]), that employment-related actions give rise to more than one cause of action. The applicant relied further on Nakin v MEC, Department of Education, Eastern Cape Province & another [2008] 5 BLLR 489 (Ck) [also reported at [2008] JOL 21482 (Ck) – Ed] as authority for the proposition that employment gave rise to a combination of contractual, administrative, and statutory rights and it was not desirable to classify particular rights into exclusive categories if they all expressed similar underlying constitutional values. Furthermore, in Louw v Acting Chairman of the Board of Directors of the North West Housing Corporation & another (2000) 21 ILJ 482 (B) [also reported at [1999] JOL 5802 (B) – Ed] the court commented on the tendency, following promulgation of the LRA, particularly by practitioners, to subsume all matters concerning employer and employee under the aegis and authority of the LRA, and to engage in a "blind surge towards simplification" which is: 
+
+". . . a dangerous tendency, because then the practice of labour law becomes like an inverted pyramid balanced insecurely on a slender apex."8 
+
+On this basis applicant's counsel contended that the applicant was entitled to rely on a combination of contractual, labour, constitutional and administrative law rights.
+
+[13]    This review, applicant's counsel submitted, is based on what would have been ultra vires under common law by reason of a functionary exceeding a statutory power, and is now invalid under the Constitution according to the doctrine of legality. That this is still the applicable approach, she contended, was confirmed in Pharmaceutical Manufacturers Association of SA & another: In re Ex parte President of the Republic of SA & others 2000 (2) SA 674 (CC) [also reported at [2000] JOL 6158 (CC) – Ed] and in AAA Investments (Pty) Ltd v Micro Finance Regulatory Council & another 2007 (1) SA 343 (CC) [also reported at [2006] JOL 18021 (CC) – Ed] at paragraph [40], where the Bill of Rights was held to apply unconditionally as to the function performed, irrespective of whether it was administrative, legislative or executive.
+
+[14]    Lastly on this issue, applicant's counsel submitted that in  
+[2010] JOL 26431 (LC) at 7
+Makambi v MEC for Education, Eastern Cape Province 2008 (5) SA 449 (SCA) [also reported at [2008] JOL 21798 (SCA) – Ed], the court found that the High Court had jurisdiction to entertain a claim arising from employment disputes in the public sector, although on different grounds. Thus while the employees could still pursue an unfair dismissal dispute, they elected to pursue it on other grounds. The same conclusion was reached in Boxer Superstores Mthatha & another v Mbenya 2007 (5) SA 450 (SCA) [also reported at [2007] JOL 20009 (SCA) – Ed], where it was held that the High Court retained jurisdiction to adjudicate employment disputes provided that they were formulated in terms of contractual unlawfulness rather than unfairness.
+
+[15]    On the basis of these authorities the applicant submitted that it has a separate course of action arising from the same facts, namely, the rule of law, which reinforces the rights of an employee not to be denied constitutional rights or freedoms through the arbitrary exercise of its delegation of powers by an organ of State.
+
+Review not competent
+
+[16]    This then raises the further objection that a review under section 158(1)(h) (of the conduct of an organ of State to hold a disciplinary hearing that results in a dismissal) is not competent in that it does not constitute administrative action. The respondent relies in this regard on Bato Star Fishing (Pty) Ltd v Minister of Environmental Affairs & Tourism & others 2004 (7) BCLR 687 (CC), where O'Regan J held that PAJA gives effect to the section 33 right to fair and lawful administrative action, and there is no residual common-law remedy. The court confirmed further that a decision must constitute administrative action as defined in PAJA in order to found a review.9 The applicant is therefore obliged to bring his review in terms of PAJA unless the constitutionality of PAJA is being challenged, which is not the case. However, the respondent submitted, even if a principled approach is taken as advocated in  
+[2010] JOL 26431 (LC) at 8
+President of the RSA & others v SA Rugby Football Union & others 2000 (1) SA 1 (CC) [also reported at 1999 (10) BCLR 1059 (CC) – Ed], and regard is had to the nature of the power exercised rather than the functionary (and ignoring Chirwa for these purposes), there is still no administrative function that can be subject to review. In the applicant's appeal, the SCA applied the principle expounded in Chirwa, namely, that the conduct of an employer in terminating a contract of employment does not constitute administrative action under section 33 of the Constitution.10 A fortiori, the review is not competent as section 158(1)(h) does not contemplate a review on any other ground.
+
+[17]    This, the respondent submitted, is consistent with the approach taken by the Labour Court in similar matters. In Ekhuruleni Metropolitan Municipality v Mashazi NO & another [2009] 12 BLLR 1196 (LC) [also reported at [2009] JOL 24321 (LC) – Ed] Francis J concluded that there is no review under section 158(1) (h) of a public sector dismissal. The learned Judge,11 quoting the following dictum from Fredericks, held that where there is no other residual common-law ground of review the applicant can no longer attempt to fashion some cause of action under section 158(1)(h) by falling back on the Constitution:
+
+"Whatever the precise ambit of s 158(1)(h), it does not expressly confer upon the Labour Court constitutional jurisdiction to determine disputes arising out of alleged infringements of the Constitution by the state acting in its capacity as employer. Given the express conferral of jurisdiction in such matters by s 157(2), it would be a strange reading of the Act to interpret s 158(1)(h) read with s 157(1) as conferring on the Labour Court an exclusive jurisdiction to determine a matter that has already been expressly conferred as a concurrent jurisdiction by s 157(2). Section 158(1)(h) cannot therefore be read as conferring a jurisdiction to determine constitutional matters upon the Labour Court sufficient, when read with s 157(1), to exclude the jurisdiction of the High Court."
+
+ 
+[2010] JOL 26431 (LC) at 9
+
+[18]    Similarly, in Ngutshane v Ariviakom (Pty) Ltd t/a Arivia.kom & others (2009) 30 ILJ 2135 (LC)12 [also reported at [2009] JOL 23183 (LC) – Ed] Pillay J (distinguished the LAC decision in Member of the Executive Council for Finance, KwaZulu-Natal & another v Dorkin NO & another (2008) 29 ILJ 1707 (LAC) [also reported at [2008] 6 BLLR 540 (LAC) – Ed] relied upon by the applicant in casu where a review was granted due to public interest considerations), held that following Chirwa it was clear that:
+
+"Section 158(1)(h) of the LRA, which empowers the Labour Court to review any decision or act of the state in its capacity as employer, and s 157 of the LRA must be construed in the context of the primary objects of the LRA (Chirwa per Ngcobo J at paragraphs 108–110).One of the primary objects of the LRA is to resolve disputes effectively (s 3(a) read with s 1(d)(iv) of the LRA)."
+
+Further:
+
+"[19]  A termination of employment that is unlawful is also unfair. When the reason for the termination is misconduct, the termination is dismissal. In this case, the substance of the dispute is the fairness and lawfulness of the dismissal. The effective resolution of a dismissal dispute is through conciliation and arbitration."
+
+Conclusion
+
+[19]    In considering the applicant's appeal the SCA observed that the applicant had not clearly set out the cause of action upon which he relied. It delineated his cause of action as:
+
+his dismissal was unlawful and thus void. He was thus entitled to relief in terms of PAJA;
+his dismissal was unfair and unlawful as, due to improper delegation of authority, the chairperson of the disciplinary enquiry was not entitled to act as such; and
+his dismissal was unlawful and unfair as his report to the Law Society had been protected under the Protected Disclosures Act." 
+[2010] JOL 26431 (LC) at 10
+
+[20]    It is apparent that, save for the abandonment of any claim arising from PAJA, his cause of action in casu, in substance at least, emulates (a) and (b). It was on this basis that relief was sought in the High Court, which was refused and which decision was confirmed on appeal to the SCA and Constitutional Court. In my view, this would justify upholding the res judicata point on the facts without having regard to the legal issues. Furthermore, in the light of the authorities cited by the respondent, the review is equally prevented by lis pendens.
+
+[21]    However, even if regard is had to the legal issues, I agree with the respondent that the applicant would not pass the first hurdle in the review, namely, that his dismissal did not constitute administrative action.13 Indeed in substance the applicant is challenging the very conduct PAJA circumscribes, namely, that the functionary unlawfully abdicated a power it was not entitled to abdicate under its empowering statute.14 He has already availed himself of and exhausted the appropriate remedy for this conduct. In so far as the applicant sought to rely on the authority of Ntshangase v MEC: Finance, KwaZulu-Natal & another [2009] 12 BLLR 1170 (SCA) [also reported at [2009] JOL 24304 (SCA) – Ed] in support of his contention that the conduct under review is administrative action capable of being reviewed, this decision is in conflict with Chirwa and more importantly, the binding authority of Gcaba v Minister for Safety & Security & others 2010 (1) BCLR 35 (CC) [also reported at [2009] 12 BLLR 1145 (CC) – Ed]. Furthermore, as was submitted by the respondent, Ntshangase is at odds with the decision of that very court in Transman (Pty) Ltd v Dick & another (2009) 20 ILJ 1565 (SCA) [also reported at [2009] JOL 23374 (SCA) – Ed].15 This was discussed at length in Chirwa and also Makhanya16 where the court relied upon the views of Professor Cheadle on the jurisdictional complexity.17 The applicant appears to ignore the fact that Gcaba has finally determined the  
+[2010] JOL 26431 (LC) at 11
+question of overlapping jurisdiction, overruling not only Ntshangase but also Nakin and Louw (supra) on which the applicant places much reliance. Indeed what the applicant seeks to do is to approbate and reprobate in contending, firstly, that administrative action is not relied upon (thus falling within Chirwa), whilst at the same time contending that if the respondent's conduct constitutes administrative action the review is nevertheless permissible (on the authority of Ntshangase). For obvious reasons this cannot be countenanced.
+
+[22]    I do not, moreover, understand the applicant to be relying on contractual unlawfulness as considered in Boxer Superstores (supra), and in so far as it seeks to do so, the SCA has already disposed of this issue. The SCA18 dispensed with the argument that the power to dismiss derived from statute; that the cause of action was in terms of the contract of employment and statute; and that the dismissal constituted administrative action. It held these submissions to be without merit.
+
+[23]    Therefore, it is in my view incontrovertible that since the applicant relies in substance on a constitutional right to lawful and fair administrative action, this falls within the ambit of PAJA and has already been disposed of by the High Court, the SCA and the Constitutional Court. The applicant cannot seek another bite at the cherry under the guise of a constitutional legality review. He is however not bereft of a remedy in that his unfair dismissal claim is still pending, and is indeed the appropriate remedy.19 Accordingly, on the lis pendens, res judicata and non-competence objections the merits of the review fall not to be entertained at all, and in these circumstances it is not necessary to consider the undue delay objection.
+
+ 
+[2010] JOL 26431 (LC) at 12
+
+[24]    In the premises, the following order was made:
+
+"The respondent's objections in limine, save for the non-joinder objection, are upheld."
+
+
+
+Footnotes
+1	  Act 22 of 1969.
+2	  Its decision had been delayed pending Gcaba v Minister for Safety & Security & others 2010 (1) BCLR 35 (CC) [also reported at [2009] 12 BLLR 1145 (CC) – Ed].
+3	  See however Chirwa v Transnet Ltd & others (2008) 29 ILJ 73 (CC) [also reported at [2008] JOL 21166 (CC) – Ed], where the High Court's remedy was to declare the dismissal a nullity and order that the employee be reinstated, but Cameron JA took a different view, preferring that the matter be remitted to Transnet for a fresh and proper hearing. See in this regard the judgment of the majority (per Skweyiya J) at paras [33]–[34]. Neither approach would affect the chairpersons in that they are functus officio.
+4	 At para [27].
+5	  At para [149].
+6	 At para [20].
+7	  At para [27].
+8	  At 492A.
+9	  At para [22] it held: 
+"There are not two systems of law regulating administrative action – the common law or the Constitution – but only one system of law grounded in the Constitution. The grundnorm of administrative law is now to be found in the first place not in the doctrine of ultra vires, nor in the doctrine of parliamentary sovereignty, nor in the common law itself, but in the principles of our Constitution."
+10	 This principle found application both in Transman (Pty) Ltd v Dick & another (2009) 20 ILJ 1565 (SCA) [also reported at [2009] JOL 23374 (SCA) – Ed] and Makambi v MEC, Department of Education, Eastern Cape Province 2008 (5) SA 449 (SCA) [also reported at [2008] JOL 21798 (SCA) – Ed].
+11	  At para [34].
+12	  At para [23].
+13	  As decided by Chirwa and finally by the Constitutional Court in Gcaba.
+14	  See s 6(2)(a) of PAJA.
+15	  Which dealt with a private sector employer and where a dismissal was held not to be reviewable under s 33 of the Constitution or PAJA. The court also held (at para [27]) that there was no review based on principles of fairness being introduced into a contract and that Chirwa excluded a review of a dismissal decision by a court.
+16	 Supra at para [68].
+17	  H Cheadle "Deconstructing Chirwa v Transnet" (2009) 30 ILJ 741. In this regard see also T Ngcukaitobi "Life after Chirwa: Is there Scope for Harmony between Public Sector Labour Law and Administrative Law?" (2008) 29 ILJ 813.
+18	 Kriel, supra, at paras [12]–[13].
+19	  The SCA held in Kriel, supra, (at para [21]): 
+"It was open to him to review his dismissal under section 158(1)(g)of the LRA as an act 'performed by the State as employer, on such grounds as are permissible in law'. It was certainly open to him to contend that the termination of his employment had constituted an unfair dismissal as envisaged by section 185 and 186 of the LRA. In particular, if his employment had indeed been terminated because he was a white Afrikaner as he alleged had been the case, it would probably have amounted to an automatically unfair dismissal under s 187(1)(f). Similarly, if his report to the Law Society was protected under the Protected Disclosures Act, to dismiss him as a result would probably also be automatically unfair under s 187(1)(h). By the same token, many of the other allegations relied on by the appellant, if accepted, even if not necessarily automatically unfair under s 187, could well justify the conclusion that it was otherwise unfair under s 188."
+
+Appearance:
+Adv Van der Walt, JP Kriel & Associates (At); Adv Venter, Legal Aid Board (R)
+
+
+End of Document

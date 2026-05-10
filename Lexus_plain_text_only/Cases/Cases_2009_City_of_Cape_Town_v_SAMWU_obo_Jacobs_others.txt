@@ -1,0 +1,261 @@
+
+
+
+
+City of Cape Town v SAMWU (obo Jacobs) & others [2009] JOL 23709 (LAC)
+Judgments Online
+
+Division: Johannesburg
+Case No: CA 1 / 07
+Hearing Date(s): None Indicated
+Judgment Date(s): 08 / 05 / 2009
+Bench: Khampepe ADJP, Tlaletsi, Ndlovu AJJA
+
+
+Keywords
+
+
+Labour law — Unfair labour practice — Referral of dispute — Jurisdiction
+
+Mini Summary
+
+
+In a referral to arbitration in terms of section 186(2)(a) of the Labour Relations Act 66 of 1995, the first respondent had argued that the appellant's failure to appoint the individual employee herein to a certain post constituted an unfair labour practice. In a point in limine, the appellant contended that the employee was an applicant for employment and therefore fell outside of the purview of section 186(2)(a). The third respondent, as arbitrator, upheld that point but the labour court granted an application for review brought by the respondents. The present appeal was directed at that ruling.
+
+Held that the dispute ultimately turned on a point in limine raised by the appellant relating to the issue of whether the council had jurisdiction to entertain the parties' dispute.
+
+The Labour Court approached the matter on the basis of whether the finding of the arbitrator was rational and justifiable. The correct approach should have been to ask whether the jurisdictional facts which would have given the Bargaining Council jurisdiction existed or not. In this case the jurisdictional factors necessary would be an unfair act or omission that arises between an employer and an employee relating to promotion. The onus of proving the existence of the jurisdictional factors rested on the employee.
+
+Finding that the jurisdictional factors set out above were absent, the court concluded that the arbitrator was correct in finding that the bargaining council lacked jurisdiction to entertain the dispute.
+
+The appeal was upheld.
+
+ 
+[2009] JOL 23709 (LAC) at 1
+
+
+
+
+[1]    This is an appeal from a judgment of the Labour Court in a review application for the review and setting aside of an arbitration award that had been issued by the third respondent ("the commissioner") under the auspices of the South African Local Government Bargaining Council ("Bargaining Council"), the second respondent in this appeal. The award issued on 13 October 2005 was a ruling on the points in limine raised by the appellant in a dispute that was referred by the first respondent to the Bargaining Council.
+
+[2]    The referral of the dispute was made in terms of section 186(2)(a) of the Labour Relations Act 66 of 1995 ("the Act") in which the first respondent alleged that the appellant's failure to appoint its member, Mr Jonny Jacobs ("Jacobs"), to a level 3 post constituted an unfair labour practice. In the points in limine the appellant contended that Jacobs was an applicant for employment and therefore fell outside of the purview of section 186(2)(a). The appellant further contended that Jacobs' application was in the context a: 
+
+". . . process of making application to a more senior post and constituted an 'alternative to retrenchment' and as such his complaint was one which related to an unfair retrenchment  
+[2009] JOL 23709 (LAC) at 3
+process under section 189 and/or 189A and not to an unfair failure to promote."
+
+[3]    The commissioner issued an award in which she found in favour of the appellant. Aggrieved by such ruling, the first respondent brought a review application against the whole of the award of the commissioner. The Labour Court after considering the affidavits as well as the arguments on behalf of the parties made an order in terms whereof the ruling of the commissioner in respect of the points in limine was reviewed and set aside and referred the dispute back to the second respondent for arbitration by an arbitrator other than the third respondent. It is against this judgment and order of the Labour Court that the appellant is appealing with leave of the Labour Court. A brief background of the material facts is necessary for a better understanding of the issues as well as the points in limine.
+
+Factual background
+
+[4]    Jacobs was employed by the Tygerberg Municipality as a library manager. This position was graded at level 4 in the structure of the Tygerberg Municipality. The Local Government Transition Act 209 of 1993 ("the LGTA'') introduced an overall restructuring of the systems and the structures of local government in this country. The LGTA envisaged three phases for local government transition. The first was the pre-interim phase which was to take effect from  
+[2009] JOL 23709 (LAC) at 4
+2 February 1994 until the first democratic local government elections. This phase was followed by the interim phase. The final phase commenced thereafter and applied until the implementation of the Local Government: Municipal Structures Act 117 of 1998 ("the Structures Act").
+
+[5]    The process was triggered by the provincial Member of the Executive Committee ("the MEC") responsible for local government, acting in terms of sections 12 and 14 of the Structures Act by issuing a Provincial Notice 479 of 22 September 2000 in terms whereof the appellant was established. This notice is commonly referred to as "Section 12 Notice". A copy of the notice issued by the MEC is not part of the record. However, for the sake of convenience, the provisions of sections 12 and 14 of the Structures Act which prescribe the form and purpose of the notice which are relevant for the determination of this dispute, will in the course of the judgment be quoted for a better understanding of the process.
+
+[6]    The effect of the section 12 notice was to disestablish the then existing municipalities of the Cape Metropolitan Council as well as the metropolitan councils of Blaauwberg, Cape Town, Helderberg, Oosternberg, South Peninsula and Tygerberg. These municipalities were as a result amalgamated to constitute the newly-established  
+[2009] JOL 23709 (LAC) at 5
+structure which became the present appellant. At the time the new structure was described as "the Unicity".
+
+[7]    It is common cause that prior to the establishment of the Unicity a multiparty advisory body called the "Unicity Commission" was "commissioned" to develop the human resources policies to be applied when the new city has been established. The Unicity Commission was also statutorily authorised to engage in negotiations with the trade unions with a view to concluding collective agreements which would be binding on the new city on its creation. The objective was that an agreement would be concluded to regulate, amongst others, the placement of staff into the newly-established City of Cape Town.
+
+[8]    It is common cause that as at 5 December 2000 all persons who had been employed by the seven disestablished municipalities, including Jacobs, were transferred to the first respondent. The transfer of these employees was a transfer as envisaged in section 197 of the Act. The appellant was, as result of the transfer, faced with a challenge of placing employees in excess of 25 000 inherited from the seven disestablished municipalities into the structure of the newly-established City of Cape Town. It was also envisaged that in the first place, an organisational design and a staff organogram needed to be formulated. Thereafter, a method had to be formulated to place  
+[2009] JOL 23709 (LAC) at 6
+employees into appropriate posts within that newly-created structure. To this end the Unicity published, first, a "Macro Design Structure" (regulating the broader structure of the city and its management component) and thereafter a "Micro Design Structure'' (detailing the precise posts that would be available in the Unicity). 
+
+[9]    It is common cause that the process as well as the interactions with organised labour – first respondent and IMATU, also a representative trade union – were characterised by a number of difficulties. These difficulties were exacerbated by the change in the political control of the city as well as the process of negotiating with organised labour. The appellant embarked on a major restructuring exercise to fill the posts on its permanent staff establishment. The recruitment process to fill the new posts of levels 1–3 was both open to the existing employees who faced the threat of possible retrenchment at some stage in the future if they were not appointed to a permanent position in the new structure, and to persons who were not in the employ of the Unicity.
+
+[10]    It is not disputed that a number of existing employees who applied for posts advertised under the new structure and who were not appointed declared and referred their disputes with the Unicity to the Bargaining Council. They claimed that their non-appointment constituted an unfair labour practice. A collective agreement  
+[2009] JOL 23709 (LAC) at 7
+containing a dispute resolution procedure to deal with non-appointments, was in the process, concluded with IMATU. The first respondent was however not a party to this collective agreement and was therefore not bound by the collective agreement.
+
+[11]    On 20 July 2004, the Unicity addressed a letter to organised labour formally notifying them that the new structure would be implemented and invited them to participate in a consultation process as envisaged in terms of sections 189 and 189A of the Act. Following the notification, the parties embarked on an extensive process which was facilitated by the Commission for Conciliation, Mediation & Arbitration ("the CCMA"). On 8 December 2004 the Unicity provided the unions with its approved organisational structure, which reflected organisational changes at macro level. The changes mainly impacted on levels 1–4 of the Unicity's grading system. Employees who could be appointed to positions in levels 1–4 were informed that a competitive placement process would be undertaken in respect of levels 1 and 2. The level consisted of executive directors and directors and was to involve both internal and external search for appropriate incumbents. The Unicity advised further that changes and realignment of positions would occur at levels 3 and 4, but not necessarily to the same extent as levels 1 and 2. As far as employees in levels 5 and below were concerned, they  
+[2009] JOL 23709 (LAC) at 8
+were advised that they were placed into the new organisation and that their terms and conditions would remain unchanged.
+
+[12]    At a facilitation meeting held on 15 December 2004 both unions were informed by the Unicity that the section 189 process in respect of employees in levels 5 and below was being withdrawn because dismissals were no longer contemplated at those levels. This was because all employees intended for those levels had already been placed into the posts. This meant that consultations were only to continue in respect of appointments in levels 1–4.
+
+[13]    On 31 January 2005 a ''Placement Agreement" in terms of sections 189 and 189A of the Act was entered into between the Unicity and IMATU in settlement of a dispute referred by IMATU to the Bargaining Council. The dispute related to the restructuring process. The Placement Agreement was therefore binding on IMATU and its members and, according to the appellant, to non-members as well. The relevant provisions of the Placement Agreement for the purpose of this dispute provide as follows:
+
+that the agreement supersedes and replaces the Micro Design Process Agreement of 1 February 2002 and the Placement Agreement dated 7 May 2003 as well as the agreement on Restructuring and Placement dated 23 September 2004; 
+[2009] JOL 23709 (LAC) at 9
+(b) that the parties acknowledged the consultation process on the organisational structures in terms of sections 189 and 189A of the Act and that the levels below level 4 of the new organisational structure have been excluded for placement by the city as the section 189 process in respect of these employees has been completed;
+that employees on level 5 and below have been placed in positions within the city on their current pay scales and terms and conditions of employment and that these employees would not be retrenched in terms of the employer's notice of retrenchment dated 20 July 2004;
+that affected employees that have not been placed in terms of the process set out in the agreement would not be retrenched in terms of the appellant's notice of 20 July 2004 and that such employees would be offered reasonable alternative positions on their current pay scales and "terms and conditions of employment";
+that all permanent employees transferred from the disestablished municipalities to the city have been transferred in accordance with section 197 of the Act as from 6 December 2000 and that they enjoy the same rights 
+[2009] JOL 23709 (LAC) at 10
+and privileges they had with the disestablished municipalities;
+that the agreement forms "part and parcel" of the consultation process in terms of sections 189 and 189A of the Act;
+that employees in level 1–3 who are not successful in their applications for posts in any of these levels can apply for posts in level 4 but that posts in level 4 would however first be filled from employees occupying this level on the basis of "unchanged", "minor changed" or "major changed posts";
+that all employees who are not placed will be offered reasonable alternative positions within the city; 
+that the appellant would follow a competitive recruitment, selection and appointment process in respect of posts at levels 1, 2 and 3.
+
+[14]    It is common cause that the city proceeded with the advertising and filling of positions in levels 1–3 and at the same time engaging with the unions in the section 189A facilitation process. The facilitation process was concluded on 10 June 2005 and the facilitator was advised by the appellant that he was no longer required. It is not disputed that the appellant recorded the following aspects on conclusion of the facilitation process:  
+[2009] JOL 23709 (LAC) at 11
+ "(a) That levels 5 and below have been placed and those levels have formally been withdrawn from the section 189A process;
+
+In respect of levels 3 and 4, in the city's view, this consultation process has been completed as no dismissals are contemplated any longer. Where applicable, affected employees will be offered reasonable offers of employment. The city will nevertheless keep the section 189A process open to deal with the issues relating to reasonable alternative offers of employment should the need arise;
+In respect of level 4 the placement process as agreed to with IMATU would proceed and SAMWU was once again being offered an opportunity to sign the agreement;
+In respect of levels 1–2 the city accepted IMATU'S proposal on the basis that affected employees in these levels would not be retrenched provided they accepted reasonable alternative positions on terms and conditions which were not less favourable than those they currently enjoyed;
+It was the city's view that through this process it had achieved the objectives of section 189A, ie to avoid  
+[2009] JOL 23709 (LAC) at 12
+dismissals, and that there was no longer a need for the section 189A facilitation process to continue."
+
+[15]    It is common cause that the appellant continued to apply, without the specific consent of the first respondent but as agreed with IMATU, the provisions of the Placement Agreement in respect of all employees including the first respondent's members. The appellant was of the view that it was entitled to do so given that the parties had failed to reach consensus through the section 189 and 189A process. It is not clear from the record whether SAMWU formally or otherwise objected to the implementation of the Placement Agreement to all other employees who were not members of IMATU.
+
+[16]    Jacobs, whose grievance is the subject-matter of the present dispute, occupied the position of Manager: Library Services for the disestablished Tygerberg Municipality. At the time, he continued to occupy such position when transferred to the appellant despite the fact that such a post did not exist on the appellant's permanent establishment. According to the appellant all the old posts that existed in the disestablished municipalities, were retained for administrative purposes only until the appellant's organisational design was completed and placement could be effected.
+
+ 
+[2009] JOL 23709 (LAC) at 13
+
+[17]    It is common cause that when the appellant created its first staff structure, one of the posts created was that of "Manager: Library and Information Services". Jacobs applied for this post and was not appointed. On 22 July 2005 the second respondent referred a dispute to the Bargaining Council on his behalf complaining about his non-appointment to the post and claiming that the failure to promote him constituted an unfair labour practice. The relief he sought was either appointment to this post or that "severance be negotiated and concluded as a final settlement".
+
+The arbitration proceedings
+
+[18]    The commissioner recorded what she regarded in her opinion to be the "crux of the matter" to be:
+
+"Is Mr Jacobs an existing employee, or, is he an applicant for a new position in this situation?
+Does the acceptance that the process is one of restructuring in terms of section 189 preclude a referral under the unfair labour practice definition?"
+
+[19]    In response to the above questions the commissioner reasoned, inter alia, that the appointments into the new entity were appointments in the first instance with a newly-created employer and that Jacobs had never been employed before by the new entity  
+[2009] JOL 23709 (LAC) at 14
+and as a result he could not be an existing employee of the new entity for him to regard his non-appointment as a failure to be promoted. She further held that the placements were done as an alternative to potential retrenchments. The commissioner ruled that the Bargaining Council lacked jurisdiction to entertain the dispute pertaining to non-placement in the newly-formed entity as an unfair labour practice and that since the placement of Jacobs was an alternative to potential retrenchment he had not been retrenched and that his dispute referral was accordingly premature. The commissioner consequently upheld the "point in limine" raised by the appellant and made no order as to costs.
+
+Proceedings in the Labour Court
+
+[20]    Aggrieved by the decision of the commissioner, the first respondent brought a review application with a view to have, inter alia, the ruling reviewed, set aside and be corrected, alternatively substituted to cure the defects alleged by the applicants. The grounds upon which the first respondent relied upon to support its review application were that: 
+
+the findings made by the third respondent upholding the appellant's point in limine constitute a gross error of law;  
+[2009] JOL 23709 (LAC) at 15
+(b) the third respondent failed to sufficiently apply her mind to the law applicable to the dispute;
+the third respondent failed to apply her mind to certain material facts, thereby rendering her award irrational;
+the third respondent relied on facts and arguments irrelevant to a determination of the issues before her; and
+the ruling made by third respondent is irrational and unjustifiable in relation to the reasons given for it and in relation to the facts and the law relevant to a determination of the dispute.
+
+[21]    The Labour Court recorded in its judgment that the placing of employees in a newly-established entity could result in the unfair labour practice dispute. It further recorded that the placing of the employees was done in accordance with the Placement Agreement which the first respondent did not sign. The court held, however, that the fact that the Placement Agreement was not signed by the second respondent was not relevant for the purposes of this matter. The Labour Court upheld the conclusion by the commissioner that: 
+
+". . . for a dispute to be framed as an unfair labour practice relating to promotion, the first criterion is that the grievant needs to be an existing employee." 
+
+The Labour Court found, however, that the finding by the commissioner that, "Jacobs had never been  
+[2009] JOL 23709 (LAC) at 16
+employed before by the new entity" and that "he cannot therefore be an existing employee of the new entity" to be flawed. The Labour Court reasoned that the commissioner "failed to take into account the fact that the new entity was the employer of Mr Jacobs having taken him over in terms of section 197 of the LRA" and that he could not be regarded as a non-employee of the Unicity. The Labour Court found further that the new employer did not come into effect at the time of restructuring but came into existence in December 2000 and as a result Jacobs was "covered by section 186(2)(a) as an employee".
+
+[22]    The Labour Court found further that since the appellant had advertised the level 3 position both internally and externally, Jacobs was free to apply for that post which would have, if appointed, been an advancement in his status and therefore a promotion, and that any unfair act relating to the appointment of Jacobs to the position applied for would (if proved) be regarded as unfair labour practice. The Labour Court went further to reason that had the appellant retrenched all its employees and "began to employ its own employees, the position would [have been] different". In that instance, the court held, the provisions of section 186(2)(a) would not apply.
+
+ 
+[2009] JOL 23709 (LAC) at 17
+
+[23]    With regard to the contention that Jacobs could have attacked the appellant's conduct on the basis of unfair retrenchment the Labour Court reasoned that Jacobs had not been retrenched and such attack would not be available to him. The court held further that an appointment to level 3 would not have constituted an alternative to retrenchment because Jacobs had been advised that the employees on level 4 would be placed and not retrenched. It is, however, not clear from the judgment of the Labour Court as to which level 4 structure it was referring to. In conclusion the Labour Court ruled that the second respondent does have the requisite jurisdiction to arbitrate the dispute and ordered that the ruling by the commissioner be reviewed and set aside and that the dispute be referred back to the second respondent to be arbitrated by an arbitrator other than the third respondent.
+
+The appeal
+
+The statutory framework
+
+[24]    The relevant provisions of sections 12 and 14 of the Structures Act in terms whereof the section 12 notice was issued to establish the appellant are: 
+
+MECs to establish municipalities. 
+[2009] JOL 23709 (LAC) at 18
+The MEC for local government in a province, by notice in the Provincial Gazette, must establish a municipality in each municipal area which the Demarcation Board demarcates in the province in terms of the Demarcation Act.
+The establishment of a municipality–
+must be consistent with the provisions of this Act; and 
+takes effect at the commencement of the first election of the council of that municipality.
+The notice establishing the municipality must set out– 
+the category of municipality that is established;
+the type of municipality that is established;
+the boundaries of the municipal area;
+the name of the municipality;
+in the case of a metropolitan or local municipality, the number of wards in the municipality; and
+the number of councillors as determined in terms of section 20;
+in the case of a district municipality, the number of councillors, determined in terms of section 23, to– 
+proportionally represent parties; 
+be appointed by each of the local councils within the district municipality to directly represent each local municipality; and 
+proportionally represent parties from each district management area within that district municipality;
+which councillors of the municipality (if any) may be designated as full-time in terms of section 18(4); 
+[2009] JOL 23709 (LAC) at 19
+ (h) any provisions of this Act from which the municipality has been exempted in terms of section 91; and
+any other relevant detail. 
+The MEC for local government must– 
+at the commencement of the process to establish a municipality give written notice of the proposed establishment to organised local government in the province and any existing municipalities that may be affected by the establishment of the municipality; 
+before publishing a notice in terms of this section, consult– 
+organised local government in the province; and 
+the existing municipalities affected by the proposed establishment; and
+after such consultation publish particulars of the proposed notice for public comment.
+
+. . .
+
+14  Regulation of effects of establishment of municipality on existing municipalities
+(a) A municipality established in terms of section 12 in a particular area, supersedes the existing municipality or municipalities to the extent that the existing municipality or municipalities fall within that area. 
+The superseding municipality becomes the successor in law of the existing municipality subject to paragraph (c).
+Where a district municipality and one or more local municipalities within the area of the district municipality supersede the existing municipality or municipalities in that area, the district and local  
+[2009] JOL 23709 (LAC) at 20
+municipalities in that area become the successors in law of the existing municipality or municipalities depending on the specific assets, liabilities, rights and obligations allocated to the district and local municipalities respectively in terms of the relevant section 12 notice or notices.
+If subsection (1) is applicable, the section 12 notice, or any amendment of the section 12 notice, must– 
+provide for the disestablishment of the existing municipality or, if only part of the existing municipality's area is affected, the disestablishment of the existing municipality in the affected area; and 
+regulate the legal, practical and other consequences of the total or partial disestablishment of the existing municipality, including– 
+the vacation of office by councillors of the existing municipality; 
+the transfer of staff from the existing municipality to the superseding municipality, or, if there is more than one superseding municipality, to any of the superseding municipalities;
+the transfer of assets, liabilities, rights and obligations, and administrative and other records, from the existing municipality to the superseding municipality, or, if there is more than one superseding municipality, to any of the superseding municipalities, taking into account the interests of creditors of the existing municipality; and  
+[2009] JOL 23709 (LAC) at 21
+ (iv) the continued application of any by-laws and resolutions of the existing municipality to or in that area, and the extent of such application:
+
+Provided that if the superseding municipality is a district or local municipality a transfer referred to in subparagraph (ii) or (iii) must be effected in a way that would enable the superseding municipality to perform the functions or exercise the powers assigned to it in terms of section 84(1) or (2).
+
+(a) On production of a certificate by a municipality that any asset registered in a deeds registry was transferred to it in terms of a section 12 notice, a registrar of deeds must make such entries or endorsements in or on any relevant register, title deed or other document to register that asset in the name of that municipality.
+No duty, fee or other charge is payable for a registration in terms of paragraph (a).
+The MEC for local government in a province, by notice in the Provincial Gazette, may make provision for transitional measures to facilitate the disestablishment of an existing municipality and the establishment of a new municipality. The MEC must consult the existing municipality before publishing the notice."
+
+[25]    Section 186(2) of the Act which is the subject of the point in limine provides that:
+
+"'Unfair labour practice' means any unfair act or omission that arises between an employer and an employee involving– 
+[2009] JOL 23709 (LAC) at 22
+ (a) unfair conduct by the employer relating to the promotion, demotion, probation (excluding disputes about dismissals for a reason relating to probation) or training of an employee or relating to the provision of benefits to an employee;
+
+the unfair suspension of an employee or any other unfair disciplinary action short of dismissal in respect of an employee;
+a failure or refusal by an employer to re-instate or re-employ a former employee in terms of any agreement; and
+an occupational detriment, other than dismissal, in contravention of the Protected Disclosures Act, 2000 (Act 26 of 2000), on account of the employee having made a protected disclosure defined in that Act" (emphasis added).
+
+[26]    Turning to the case at hand, it is not in dispute that the appellant was in a transition process involving placement of employees into the first posts of a newly-established local government entity. The transition was effected in accordance with the above quoted legislative provisions. It is further common cause that Jacobs together with many other employees were in fact and in law employees of the appellant. To clear any misunderstanding about this aspect, counsel for the appellant submitted on behalf of the appellant that it had never been the case for the appellant that Jacobs was not an employee of the appellant. The appellant's case, he submitted, has always been that Jacobs was an employee of the appellant. Therefore the real issue before the commissioner, in my  
+[2009] JOL 23709 (LAC) at 23
+view, was whether given the transitional phase of local government at the time, whether a person in a position of Jacobs could challenge his non-placement in the position he applied for under the unfair labour practice jurisdiction as being a dispute involving promotion.
+
+[27]    The point in limine raised by the appellant relates to the issue of whether the council had jurisdiction to entertain the parties' dispute. That being the case, it is the general principle of our law that in determining whether the council had jurisdiction, the enquiry is not whether a finding by the commissioner that the council had or did not have jurisdiction is justifiable, rational or reasonable. The question that the Labour Court should have asked itself was whether, objectively speaking, the facts which must exist to clothe the council with jurisdiction did exist. If they exist then the council would have jurisdiction. If they do not exist, then the council had no jurisdiction to determine the dispute (see Benicon Earthworks & Mining Services (Edms) (Bpk) v Jacobs NO (1994) 15 ILJ 801 (LAC); Agricultural & Rural Development Corporation v Commission for Conciliation, Mediation & Arbitration & others (unreported) Labour Appeal Court case JA 3/06 delivered on 6 May 2008;  
+[2009] JOL 23709 (LAC) at 24
+Fidelity Cash Management Service v CCMA & others [2008] 3 BLLR 197 (LAC) at paragraph [101], (2008) 28 ILJ 964 (LAC) at paragraph [101] [also reported at [2008] JOL 21211 (LAC)–Ed]).
+
+[28]    It is evident from the judgment of the Labour Court that it approached the matter on the basis of answering the question whether the finding of the commissioner was either rational, justifiable or not. The correct approach should have been to ask whether the jurisdictional facts which would have given the Bargaining Council jurisdiction existed or not. In this case the jurisdictional factors necessary would be an unfair act or omission that arises between an employer and an employee relating to promotion. The onus of proving the existence of the jurisdictional factors rests on the employee. It must be established that Jacobs was an existing employee of the appellant and that his appointment would have resulted in some advancement or elevation in rank or rise in status (see generally Department of justice v CCMA & others [2004] 4 BLLR 297 (LAC) and Department of Justice v CCMA & others (2001) 22 ILJ 2439 (LC)).
+
+[29]    It is tempting at first glance to conclude that the jurisdictional factor relating to the employment relationship has been satisfied. This is because in this case it is common cause that Jacobs was an employee of the appellant. His employment relationship was created as a result of his transfer to the appellant in terms of  
+[2009] JOL 23709 (LAC) at 25
+section 197 of the Labour Relations Act. However, in view of the process that was followed, his position differed from that of an ordinary employee, in the sense that he was not transferred into a particular position within the new employer. Jacobs like the many others, were placed in what was described as an "administrative unit" created by the implementation of the Structures Act. He however, moved across as an employee retaining all his benefits. He was occupying no position as the position that he occupied at the Tygerberg Municipality no longer existed following the disestablishment of that municipality. The commissioner's remarks that Jacobs was never employed by the appellant may have created confusion because Jacobs was an employee of the appellant by the operation of law. Although he was an employee, he together with the other employees were employees in a technical sense because they were placed in a unique structure created by the Structures Act, as a vehicle to facilitate the transition process. They retained their post designations with the disestablished municipalities for administrative purposes to facilitate the transfer to the newly-established City of Cape Town until the city's organisational design was complete and placement could be effected. Because Jacobs' position did not exist within the appellant there were no prescribed duties and functions attached to it. He may have  
+[2009] JOL 23709 (LAC) at 26
+continued to perform the same functions he did before the amalgamation of the municipalities. Such functions were however not attached to any particular position within the appellant. 
+
+[30]    The true position is that it was only after the structure of the new employer (the appellant) had been established and approved, that Jacobs would be able to occupy a particular position. Because several municipalities were being amalgamated it would not have been Jacobs alone who had occupied the position of Manager: Library Services or similar position. One would expect that there would have been other employees who occupied similar positions in the disestablished municipalities who would have had to be placed in the new structure who were also retained in the administrative unit for the time being. It would be absurd therefore to expect each and every one of those employees to claim that they were entitled to be appointed to a newly-created position when it required only one person to be appointed in line with the Placement Agreement.
+
+[31]    In my view, the Labour Court seems not to have fully appreciated the mechanism that was put in place to facilitate the transition. The Labour Court concluded that because section 197 of the Act was applied to transfer Jacobs and other employees of the disestablished municipalities, they for all intents and purposes  
+[2009] JOL 23709 (LAC) at 27
+became the employees of the appellant and concluded the enquiry without investigating the nature of the relationship the employees had with the appellant as well as their standing and positions within the appellant. The Labour Court ought to have recognised the fact that Jacobs and many other employees were in a unique situation which was established merely to facilitate a smooth running of the process. Their position was different from that of a conventional existing employee who enjoys an existing employment relationship with his employer and seeking to be fairly treated in the promotion process. This aspect distinguishes Jacobs' position from that of the employees in the Department of Justice cases referred to above, which cases were mainly relied upon by counsel on behalf of the employee and the union. In the Department of Justice case this Court did not consider the position of an employee under the circumstances in which Jacobs found himself. Therefore, the principle enunciated in that case remains valid but is not applicable in this case.
+
+[32]    I therefore come to the conclusion that the commissioner was correct to find that the Bargaining Council lacked jurisdiction to entertain the dispute as formulated by the respondents. In the light of this conclusion I do not find it necessary to consider the issue  
+[2009] JOL 23709 (LAC) at 28
+relating to whether Jacobs could challenge his non-placement under the unfair retrenchment provisions of the Act.
+
+[33]    What remains is the issue of costs. Even though counsels' attitude was initially that costs should follow the result, I am of the view that given the importance of this matter to the parties and the process of transformation of local government from a long history of what this country has gone through, it will be in accordance with the requirements of the law and fairness that there be no order as to costs. 
+
+[34]    In the result I make the following order:
+
+The appeal is upheld.
+The order of the Labour Court is set aside and substituted as hereunder:
+
+"The point in limine is upheld."
+
+There shall be no order as to costs either in the Labour Court or in this Court.
+
+(Khampepe ADJP and Ndlovu AJA concurred in the judgment of Tlaletsi AJA).
+
+Appearance:
+Adv JJ Gauntlett, Adv CS Kahanovitz, Sonnenberg Hoffmann Galombik Attorneys (A); Adv J Whyte, Cheadle Thompson & Haysom Attorneys (R)
+
+
+End of Document

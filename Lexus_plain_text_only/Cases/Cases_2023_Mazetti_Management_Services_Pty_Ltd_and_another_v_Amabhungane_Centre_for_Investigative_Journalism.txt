@@ -1,0 +1,368 @@
+
+
+
+
+Mazetti Management Services (Pty) Ltd and another v Amabhungane Centre for Investigative Journalism NPC and others (South African Editors Forum and others as Amicii Curiae) [2023] JOL 59926 (GJ)
+Judgments Online
+
+Division: Gauteng, Johannesburg
+Case No: 2023-050131
+Hearing Date(s): 27 / 06 / 2023
+Judgment Date(s): 03 / 07 / 2023
+Bench: R Sutherland DJP
+
+
+Keywords
+
+
+Civil Procedure — Ex parte applications — Justification — Interdictory relief against journalists — Entitlement to relief
+
+Mini Summary
+
+
+The respondents had published articles severely critical of the applicants and its principal director, Mr Zunaid Moti. The subject matter concerned the business activities of the applicants and alluded to the correlation between the flourishing of the businesses and the intimate proximity of Mr Moti to political elites in Zimbabwe. Dealings in South Africa that were supposedly dodgy if not criminal were also addressed. The publications showed that the respondents had read and either possessed or had access to internal documents of the applicants.
+
+In June 2023, the applicants obtained an order ex parte and in camera providing for the return of a final order that digital documentation allegedly stolen from the applicants by an ex-employee and allegedly in the possession of the respondents be returned within 48 hours; and forbidding publication of anything that was based on the documentation or in any other way using the documentation. The Uniform Rules of Court, make provision for an urgent reconsideration of such ex parte order, and the court in this matter was faced with that task.
+
+Held that the order granted to the applicants should never have been sought ex parte, still less granted. Referring to what would constitute the kind of exceptional circumstances which would justify bringing an application on an ex parte application, the court could not accept that the applicants harboured a sincere belief that the respondents would destroy the documents in question. Nothing that had legitimately been placed before the court in the papers filed for the reconsideration offered any justification for seeking the order on an ex parte basis. That was sufficient reason to set aside the order in its entirety.
+
+Regarding the respondents’ duty to return the documents, a question implicated was whether the data in the respondents’ possession was susceptible to a rei vindicatio. The controversy related to the legal standing of the respondents in relation to the data. The court rejected the applicants’ contention that the respondents were, at best for them, accomplices, after the fact, to theft. It also recognised the respondents’ valid reasons for resisting the relief due to the need to protect their source of information.
+
+The second point of contestation was whether the respondents’ likely future publication of more articles about the applicants and Mr Moti, using the applicants’ data, should be interdicted. As a general principle, an interdict to restrain or forbid an intended publication by a journalist must be brought on appropriate notice to the journalist. The ex parte application was an abuse of the process of court. No cogent case was made out to compel the respondents to disgorge the data files which were the subject matter of the application, or to interdict the respondents from publishing articles which referred to the data files.
+
+The order granted to the applicants was set aside in its entirety. 
+
+ 
+[2023] JOL 59926 (GJ) at 2
+
+
+
+
+SUTHERLAND DJP:  
+
+Introduction
+
+[1]    In our law, there is a fundamental norm that no decision adverse to a person ought to be made without giving that person an opportunity to be heard. In a court of law, this norm is scrupulously observed. However, in the real world, prudence dictates that sometimes pragmaticism must be applied and in  
+[2023] JOL 59926 (GJ) at 3
+exceptional circumstances that sacred right of audi alterem partem may be relaxed, but when it is appropriate to do so, such a decision is hedged with safeguards. The principle which governs whether to grant an order against a person without their prior knowledge is straightforward: only when the giving of notice that a particular order is sought would defeat the legitimate object of the order.1 This procedure is rare and is called an ex parte application. The classic examples of its usage are where the applicant is the victim of a theft and seeks an order to either recover the stolen goods from the thief or procure evidence of the crime through an unannounced raid on the premises of the alleged perpetrator, a spouse who seeks protection from a violent partner or a creditor who seeks to freeze the bank account of a debtor when grounds exist to fear illegitimate dissipation, especially in insolvency proceedings. Any order made ex parte is provisional. The Uniform Rules of Court, make provision for an urgent reconsideration of such an order.
+
+[2]    Rule 6(12)(c) provides:
+
+"A person against whom an order was granted in his absence in an urgent application may by notice set down the matter for reconsideration of the order."
+
+[3]    The proceedings before this Court have been convened pursuant to that rule.
+
+ 
+[2023] JOL 59926 (GJ) at 4
+
+[4]    The applicants obtained an order ex parte and in camera on 1 June 2023 in the urgent motion court. The founding affidavit was signed on 25 May 2023 and the application issued on the day the order was granted. The relief sought and obtained was twofold. In its essence the relief was, first, a final order that digital documentation allegedly stolen from the applicants, (being companies in business) by an ex-employee and allegedly in the possession of the respondents (an investigative journalistic enterprise, and its individual journalists) be returned within 48 hours, and second, an interdict forbidding publication of anything that was based on the documentation or in any other way using the documentation. Together with this was a rule nisi – in effect a notice to show cause on 2 October 2023, four months hence, why these orders should not be made final. In respect of the first order to deliver up the documentation the rule nisi was a nonsense as compliance would have had to precede the return date. In any event, upon being served with the orders, the respondents brought the matter before the urgent motion court on 3 June, where a modification to the first order was agreed upon to read that pending the reconsideration proceedings, the respondents would not destroy any of the documentation. Thereafter, the reconsideration hearing was set down for 27 June 2023.
+
+[5]    Much of what has been argued in this hearing has addressed the age-old debate about the scope which ought to be allowed to the press to snoop uninhibited into the affairs of people and entities and publish information about  
+[2023] JOL 59926 (GJ) at 5
+them that reveals to the world what they would prefer to remain unknown. A key dimension of effective investigative journalism is receiving information from sources that wish to remain anonymous. This in turn precipitates an ethical obligation to protect their anonymity. Within limits, in general, the law acknowledges the propriety of protecting sources from being unmasked. To this end, three civil society organisations devoted specifically to the promotion of the freedom of the press joined as amici curiae – the South African Editors Forum, Media Monitoring Trust, and Campaign for Free Expression. A fourth civil society organisation, Corruption Watch, joined as an amicus to contribute its perspective on the critical value of an effective investigative media in unveiling the corruption, which to the knowledge of all South Africans, infects our lives and is often connived at by persons of influence in all quarters of society. I express my appreciation for the contributions they have made to the proceedings.
+
+[6]    The function of the courts in holding an appropriate balance between the rights of privacy and confidentiality in private matters, on one hand, and the public interest in a free flow of news and especially news exposing skulduggery, on the other, is a well-traversed terrain. How the courts go about doing so, contrary to popular belief, is quite unspectacular. Everyone is entitled to expect the courts and the process of the courts to afford them fair treatment. The law and the Rules of Court provide the scaffolding for that aim to be achieved. Getting the simple things done correctly is often quite enough to take care of the big things. This is a case which provides an example of just that.
+
+ 
+[2023] JOL 59926 (GJ) at 6
+
+Evaluation of the initial ex parte application
+
+[7]    The elephant in this case is not press freedom or a violation of privacy. Rather, it is a most egregious abuse of the process of court. It is manifest that the order granted on 1 June should never have been sought ex parte, still less granted. There is not a smidgeon of justification for it being brought ex parte.
+
+[8]    The relevant facts are few and common cause.
+
+In February 2023, the applicants were confronted with questions posed to them by the respondents, preparatory to publishing an article. The questions evidenced a critical and unwelcome intrusion. Thereafter articles were published on 17 February, 28 April and 17 May. All were severely critical of the applicants and its principal director, Mr Zunaid Moti. The subject matter concerned the business activities of the applicants and alluded, among other matters, to the ostensibly curious correlation between the flourishing of the businesses and the intimate proximity of Mr Moti to political elites in Zimbabwe. Dealings in South Africa that were supposedly dodgy if not downright criminal were also addressed.
+The content of the publications showed that the respondents had read and either possessed or had access to internal documents of the applicants. Indeed some of the documents were displayed as part of the articles. The respondents were thereupon challenged with being in improper possession of documents which the applicants alleged had  
+[2023] JOL 59926 (GJ) at 7
+been "stolen" by an ex-legal advisor, Clinton van Niekerk.2 The first of several demands by the applicants for the "return" of the documents was made on 12 April 2023.
+During the period February to May 2023, there were frequent exchanges of communications between the applicants and the respondents, either directly or via their respective attorneys. The thrust of the exchanges records the ire of the applicants that the respondents had access to the documents, demands that the respondents disgorge them and, moreover, that it was unfair to be asked to comment on allegations based on documents that were not first shown to the applicants, notwithstanding that the documents emanated from their own records. The respondents were steadfast in refusing to send copies of the material that they had either possessed to which they had access. Throughout this time the refusal was explained on the premise that the respondents, as they saw themselves, were ethical and responsible journalists, and had a duty not to reveal their sources which would have that effect if the documents were shown.3 
+[2023] JOL 59926 (GJ) at 8
+This series of communications reached a notable point on 13 April. The attorneys of the respondents wrote a letter that contained statements that are significant for these proceedings; the relevant passages read:
+To the extent that our client has access to any documentation with a view to publishing content pertaining to the Moti Group, our client declines to provide you with such documentation. This is apart from anything else, because to do so may reveal the identity of confidential sources. Our client is in any event under no legal obligation to provide you with any details pertaining to their sources or their journalistic research, and there is no basis for your demand that they do so.
+In any event we are instructed to inform you that our client is not currently in possession of any such documentation. There is no such documentation stored in physical form or in virtual form on any hard drives or computers currently in the possession of our client or its employees.
+Instead, the only access of our client and its employees to any such materials is via two secured servers located outside of South Africa. One server is not controlled by our client, whereas the second is. In respect of the second server, our client and its employees have no intention to delete or destroy such materials and undertake not to do so for a period of at least a year from today's date.
+Lastly, we are concerned that the tone of your letter suggests that your client may be intending to launch a court application of some sort against our client. Our client is concerned that your client may be inclined to do so on an ex parte basis, which would in the circumstances be unlawful:
+We deny that there is any basis for such an application.
+But even if there were, in light of the facts set out above, there would certainly be no basis for such an application to proceed ex parte. The ordinary requirements for ex parte applications are not met. Moreover, any relief granted against our client would seriously harm threaten our client's rights and obligations to freedom of expression and the media, including multiple ongoing investigations into a range of issues." 
+[2023] JOL 59926 (GJ) at 9
+8.5 Thereafter, the applicants' attorney offered a riposte on the same day, inter alia, demanding that the respondents not publish anything on the topics put to the applicants for comment until after 8 May. The respondents replied to offer an extension to 28 April.
+Onwards continued the exchanges.
+On 5 May a letter of inordinate length was written by Attorney Stephen May to several police officials and the NPA. This was copied to the applicants. Apparently, it had been thought that the applicants had laid criminal charges against one or more of the respondents. The letter was aimed at forestalling any arrests and provided, for the convenience of the police, a crash course in criminal procedure. Inter alia, it cautioned the police not to become an accomplice to the applicants' allegedly likely efforts to abuse the criminal process to achieve a SLAPP suit which they allegedly would be unable to achieve in a civil court. 4The applicants' attorney replied on 10 May to offer his thoughts on aspects of the criminal law and demand explanations from the respondents for the basis upon which Mr Moti was accused of several crimes, including allegations of corruption, fraud, money laundering and racketeering.
+On 15 May the comments solicited by the applicants were provided by Mr Moti. Among several emotive remarks evidencing understandable irritation, this document declared that the applicants were themselves instituting their own investigation into the respondent's activities. 
+[2023] JOL 59926 (GJ) at 10
+On 18 May the third of the critical articles was published by the respondents. On 25 May, a week later, the founding affidavit for the ex parte application was signed.
+
+[9]    Regardless of the calibre of the merits of the substantive relief sought, to which I shall advert later, the decision to seek an order ex parte against this background calls for examination. Ex parte applications are always brought under circumstances of, at least, alleged urgency, and therefore that attribute is suffused with the justification for the ex parte character.
+
+[10]    What was offered to justify the ex parte character of the application was this, as appears from these passages in the founding affidavit:
+
+Considering the manner in which the stolen documents were initially acquired and are now being concealed from the application from the applicants and the Moti Group, there is a real apprehension that if the interim order that is sought, is not granted or if Amabhungane were to receive notice of this application, the information that they have collected will be concealed, wiped from their servers or even destroyed.
+Put differently there was no reason for Amabhungane to previously refuse to identify to the applicants and URA, the precise stolen confidential documents, admittedly taken by Van Niekerk from Mazetti and the Moti Group, unless the intention was, and is, to hide  
+[2023] JOL 59926 (GJ) at 11
+the identity of the documents from the applicants and use them clandestinely against Mr Moti and the Moti Group in future.
+The documents are stated to be 'leaked' which means that they did not come into the possession of Amabhungane and the journalists via legitimate means.
+In such circumstances, the applicants have been compelled to institute this application.
+
+This Court will appreciate from the articles and correspondence that the matter has received considerable attention in the media and the disputes between Mr Moti on the one hand and Amabhungane, M Lutzie and Van Niekerk on the other hand have garnered significant public attention.
+If this matter is placed on the ordinary roll there is every likelihood that it will come to the attention of Amabhungane and the journalists.
+Invariably the press and journalists are never far from our courts as there are always matters that may form the basis of a newsworthy story.
+If this matter is placed on the ordinary roll, there is every likelihood that the respondents will learn of this application and take steps to defeat its purpose, notwithstanding the previous undertaking to keep documents on one of the servers, because this undertaking to keep documents on one of the servers, because this undertaking is meaningless when Amabhungane and the journalists refuse to identify the very documents etc that the articles are going to be based on.
+In the circumstances the undertaking is meaningless and of cold comfort to the applicant.
+The applicants accordingly submit that this is a matter which deserved to be heard in camera and ask that it be so heard."
+
+[11]    The facts described demonstrate an egregious example of the abuse of the ex parte procedure. Throughout a period of three months of verbal jousting including between the attorneys representing the parties, the points of contestation between the parties were articulated repeatedly. The point was whether an obligation existed to show the applicants what material the respondents had and whether the critical statements published were  
+[2023] JOL 59926 (GJ) at 12
+actionable. An undertaking had been given to preserve what the respondents had. A reason for not showing the documents was given by the respondents, ie, the protection of the sources. I leave aside whether these reasons relied upon by the respondents were meritorious; indeed, for the purposes of examination of the ex parte character of the application, it may be assumed they were specious.
+
+[12]    I have already described what justifies an ex parte application. On these facts, a sincere belief that the respondents would destroy (whatever that means in respect of digital data) any documents derived from the applicants is hard to credit. Even if there were cogent grounds expressed for doubting the efficacy of the undertaking given via the respondents' attorney, which are absent here, there remains the inherent improbability of a journalist alienating the very evidence necessary to justify the publication of defamatory statements.5 The contention that a refusal to show the documents – on the principled ground of protecting a source – lends weight to the notion that the undertaking given was false and deceitful is unsustainable.
+
+[13]    Moreover, the interaction between the legal representatives over this period and the express caution against taking an order behind the respondents' back are material factors why any legal proceedings to determine the rights and wrongs of the parties' respective well-known stances could not justifiably have  
+[2023] JOL 59926 (GJ) at 13
+been brought ex parte. The decision to do was an abuse of the process. The courts cannot tolerate abuse of the process.
+
+[14]    Rule 6(12)(c) confers a wide discretion on the court hearing the reconsideration application. The scheme of the Rules of Court as a whole and, no less, of rule 6 itself is to facilitate orderly and fair proceedings. Rule 6(12)(c) exists to remedy an injustice if one was done when the ex parte order was granted. What it creates is the opportunity for the respondent to rebut the case for the order. To that end a respondent may either argue that the order was unjustified on its own terms or provide additional facts on affidavit to support an argument that on an enlarged factual matrix the order should be set aside. If a respondent introduces additional evidence, an applicant has a right of reply, but it is not open to an applicant to seek fresh relief or introduce, itself, new allegations of fact. The scheme of the rule takes as its point of departure that the applicant has got its order and the reconsideration is about whether it can keep its order. To belabour the point – an applicant cannot make out a better case for the ex parte order than the case it put before the court when the order was granted. It was for this reason that an attempt by the applicants to bring a counterclaim to seek further relief was dismissed by me out of hand. It was irregular and yet another abuse of the process.
+
+[15]    Nothing that has legitimately been put before me in the papers filed for the reconsideration offers a justification for seeking the order on an ex parte basis. This is a sufficient reason to set aside the order in its entirety. Only were there a question of the interests of justice being compromised by a  
+[2023] JOL 59926 (GJ) at 14
+dismissal would a different result be appropriate. There is no such risk on these facts.
+
+[16]    Lastly an aspect seemingly ignored in the application is the well-established norm against pre-publication restraints on the media. This norm does not articulate an absolute prohibition, but rather, that such an order should be made only where the public interest is not served by publication. I shall address this aspect in due course in a broader context.
+
+[17]    I have yet to deal with the substantive merits, if any, of the application, and strictly speaking, in the light of the conclusions to which I have already come it could be argued it is unnecessary because, were the substantive relief sought, either in whole or in part, have been meritorious, the proper route to obtaining such relief would, in any event, have been proceedings launched upon proper notice.
+
+[18]    I turn to deal with the two legs of the applicants' case.
+
+The "return" of the data
+
+The first point of contestation was whether the respondents should be compelled to "return" the "stolen" documents they possess, or have access to, because they belong to the applicants or, on the other hand, that the respondents are justified to refuse because to do so would unmask their source. 
+[2023] JOL 59926 (GJ) at 15
+
+[19]    Several tricky legal and forensic issues bedevil the notion of "documentation" in digital form being, by unauthorised means, downloaded and copied onto other digital databases constituting theft. For the purposes of this judgment, I am content to refer to the conduct of Van Niekerk as theft, leaving aside whether that label is jurisprudentially accurate or is merely a colloquial usage.6 Plainly, the evidence marshalled constitutes a powerful case to demonstrate that Van Niekerk appropriated the data and did so, at very least in breach of his contractual obligations to his former employer and that this conduct by Van Niekerk is actionable at law. This betrayal by Van Niekerk is quite justifiably regarded as outrageous by the applicants. They need not apologise for their sensitivities. Furthermore, whether or not Van Niekerk has claimed or can claim protection under the Protected Disclosures Act 4 of 2013 (PDA) is unimportant.
+
+[20]    The more interesting question is whether the data that the respondents allegedly have, in one way or another,7 is susceptible to a rei vindicatio. This is an aspect that does seem to have been appropriately ventilated in the initial hearing. What is plain, and confirmed by Counsel for the applicants is that the decision in Waste-Tech (Pty) Ltd v Wade Refuse (Pty) Ltd 8 was not drawn to the attention of the judge in the urgent motion court. In that case the respondent came into possession of copies of documentation taken from the applicant by an ex-employee turned thief. The court addressed the question  
+[2023] JOL 59926 (GJ) at 16
+of whether relief in the form of a rei vindicatio could be invoked to seize the copies containing allegedly confidential information. It was held that the remedy lay in delict not upon a proprietary claim. It was doubted whether copies of information could be classed as property. After citing the earlier authorities, it was held at 842F–843D:
+
+"Neither of those judgments, however, in the passages quoted, suggests that the action to restrain use of confidential information is based on a proprietary right. Specifically, the Courts categorised the action as one in delict. There is in any event a more substantial impediment in the applicant's way in contending that it has a proprietary right in such information. I raised with Mr Nugent the first part of the judgment in the Dun and Bradstreet case where it was contended by counsel that the information contained in the plaintiff's credit records 'constituted property in the plaintiff's hands and that the unlawful misappropriation and use of this property by defendant constituted a delict in our law' (at 215F–G). The judgment continues at 215H:
+
+'What the plaintiff is claiming is that the subject-matter of these contractual rights, viz the confidential information imparted in "credit records", and not the rights themselves, is incorporeal property at common law and that plaintiff is entitled to be protected against the unlawful us of this property by defendant. In my view, this claim is unfounded. I do not think that, except in a somewhat loose sense, such information, as distinct from the contractual rights, can be regarded as property at common law; nor do I believe that the plaintiff can found a cause of action upon an alleged invasion of its rights of "property" in such information (cf Nelson and Meurant v Quin and Co (supra)).'
+
+The latter judgment (reported in 1874 Buch 46) is a judgment by De Villiers CJ and Denyssen J. The issue was whether the writer of the letters, Nelson, was entitled to an interdict against a newspaper, the Fort Beaufort Advocate, preventing it from publishing letters of which he was the author. It was contended on his behalf that he had a right of property in the letters which he could not be deprived of without his consent. At 51 in the judgment of De Villiers CJ it was held:
+
+'In order to make good Mr Cole's contention, it would be necessary for him to show that, by the law of this Colony, every person has a clear and undoubted right of property in his own composition, to the extent of being entitled to prevent everyone else from multiplying copies of such compositions, whether they be of a purely literary character or not, and whether they have been communicated to others or not. No authority from the civil law bearing on this point has been cited in the argument, nor have I been able to find any but the most remote references to it.'
+
+Later at 51 the Court held:
+
+'In Justinian's Institutes (2. 1. 33), it is said that "if Titius has written a poem, a history, or a speech on your paper or parchment, you, and not Titius, are the owner of the written paper".'
+
+I am not aware of any decision in South African law in more recent times in which it has been held that information, whether confidential or otherwise, is the subject- 
+[2023] JOL 59926 (GJ) at 17
+matter of proprietary rights at common law in the absence of statutory protection under intellectual property statutes." 9
+
+(Emphasis supplied)
+
+[21]    The proposition that the respondents had some form of access to or control over some or all of the information in data files which the applicants discovered had been appropriated by Van Niekerk is demonstrated with reasonable certainty.
+
+[22]    What the legal standing of the respondents' relationship with this data is the true point of controversy. The applicants contend that the respondents are, at best for them, accomplices, after the fact, to theft. This belief is incorrect.
+
+[23]    All legal concepts originate in the imagination as an idea which is translated into a rule to deal with real world needs. On what grounds would it thought useful to society that a journalist who is granted access to a digital data file by  
+[2023] JOL 59926 (GJ) at 18
+a person not authorised to do so, ie, a thief, be also committing the crime of theft? In our law there are indeed crimes of possession, as alluded to in Waste-Tech; for example, in respect of uncut diamonds and of unwrought gold, which have been created by statute. These are examples of laws which protect the integrity of a critical industry from being compromised when it is thought that unregulated possession could afflict the national interest. What these examples illustrate is that an activity can be criminalised to serve a purpose thought to a social good.
+
+[24]    Contraband information in the hands of a journalist is certainly not in such a category; on the contrary, there is overwhelming support for such activity being a positive and necessary good in society. In contemporary South African society there could be a cogent argument advanced that such activity is an essential good without which our country cannot crawl out of the corrupt morass in which we find ourselves.
+
+[25]    The resistance to disgorgement of information on the ground of protecting a source is functional and not optional to the work process of investigative journalism. This conduct is not mala fide but is rooted in a norm both practical and ethical. In Bosasa Operation (Pty) Ltd v Basson10 the question arose in an action for defamation against a journalist whether he should be compelled, in the discovery process, to provide documents that would identify his sources. He had tendered redacted copies. The court dismissed an  
+[2023] JOL 59926 (GJ) at 19
+application for such disclosure; in respect of the principles pertinent to whether such an order as sought could be appropriate it was held at paragraph [38]:
+
+"Having regard to the authorities cited above, it is apparent that journalists, subject to certain limitations, are not expected to reveal the identity of their sources. If indeed the freedom of the press is fundamental and a sine qua non for democracy, it is essential that in carrying out this public duty for the public good, the identity of sources should not be revealed, particularly when the information so revealed would not have been publicly known. The essential and critical role of the media, which is more pronounced in our nascent democracy, founded on openness, where corruption has become cancerous, needs to be fostered rather than denuded."
+
+[26]    Bosasa was subsequently cited with approval by the Constitutional Court in Amabhungane v Minister of Justice11 where at paragraph [115] it was held:
+
+"I agree that keeping the identity of journalists' sources confidential is protected by the rights to freedom of expression and the media. This court has acknowledged the constitutional importance of the media in our democratic society and has confirmed that '(t)he Constitution thus asserts and protects the media in the performance of their obligations to the broader society, principally through the provisions of s 16'. It follows that the confidentiality of journalists' sources, which is crucial for the performance by the media of their obligations, is protected by s 16(1)(a). Like the High Court, I place reliance on Tsoka J who held as much in Bosasa. Relying on local and foreign authorities, he put it thus:
+
+'(I)t is apparent that journalists, subject to certain limitations, are not expected to reveal the identity of their sources. If indeed freedom of press is fundamental and sine qua non for democracy, it is essential that in carrying out this public duty for the public good, the identity of their sources should not be revealed, particularly, when the information so revealed, would not have been publicly known. This essential and critical role of the media, which is more pronounced in our nascent democracy founded on openness, where corruption has become cancerous, needs to be fostered rather than denuded.'"
+
+[27]    I have been favoured with a plethora of authorities from other jurisdictions and from international courts supportive of affording journalists, in the public  
+[2023] JOL 59926 (GJ) at 20
+interest, a freedom to function which embraces the notion that it is proper to protect sources. I do not cite them all. It suffices to allude to some of the international instruments.
+
+[28]    The United Nations Joint Declaration on Media Freedom and Democracy of 2 May 2023, includes recommendations to member States thus:
+
+Take measures to protect journalists and media outlets from strategic lawsuits against public participation and the misuse of criminal law and the judicial system to attack and silence the media, including by adopting laws and policies that prevent and/or mitigate such cases and provide support to victims. In particular, States should consider that legal proceedings against journalists that excessively extend over time or are accumulated in bad faith harm journalistic work and/or the operation of the media. In addition, data protection laws should be designed and applied in ways not interfering with media freedom, for example by establishing disproportionate obstacles to investigations and reporting.
+Ensure the full protection of confidentiality of journalistic sources in law and in practice. Any limitations on source confidentiality, including via surveillance, should be pursuant to clearly defined exceptions set out in law, which apply only where necessary to protect an overriding interest, with judicial authorisation, and in compliance with international human rights law. Whistle-blowers' ability to resort to the media should be correspondently protected."
+
+[29]    The Declaration of Principles of Freedom of Expression and Access to Information in Africa issued in 2019 by the African Commission on Human and Peoples Rights addresses this issue in principle 25:
+
+Journalists and other media practitioners shall not be required to reveal confidential sources of information or to disclose other material held for journalistic purposes excerpt where disclosure has been ordered by a court after a full and fair public hearing.
+The disclosure of sources of information or journalistic material ordered by a court shall only take place where:
+the identity of the source is necessary for the investigation or prosecution of a serious crime, or the defence of a person accused of a criminal offence.
+the information or similar information leading to the same suit cannot be obtained elsewhere; and 
+[2023] JOL 59926 (GJ) at 21
+ (c) the public interest in disclosure outweighs the harm to freedom of expression."
+
+(Emphasis supplied)
+
+[30]    The United Nations Convention against Corruption adopted on 31 October 2003 and in force from 14 December 2005 was ratified by South Africa on 22 November 2004. Among the provisions is article 13(c) which requires signatories to take steps that have the effect of:
+
+"Respecting, promoting and protecting the freedom to seek receive publish and disseminate information concerning corruption. That freedom may be subject to certain restrictions, but these shall only be such as are provided for by law and are necessary."
+
+(Emphasis supplied)
+
+[31]    More pointedly, the International Covenant on Civil and Political Rights to which South Africa is a signatory provides in article 19(2) for the free flow of information. The general comment number 34 on article 19(2) by the UN Human Rights Committee states that signatories should:
+
+". . . recognise and respect that element of the right of freedom of expression that embraces the limited journalistic privilege not to disclose information sources."
+
+(Emphasis supplied)
+
+[32]    The decision in the European Court of Human Rights, Goodwin v United Kingdom12 reflects these norms at paragraph [46]:
+
+". . . Having regard to the importance of the protection of journalistic sources for press freedom in a democratic society and the potentially chilling effect an order of source disclosure has on the exercise of that freedom such a measure cannot be compatible with article 10 of the convention unless it is justified by an overriding requirement in the public interest." 
+[2023] JOL 59926 (GJ) at 22
+Evaluation of the publication of confidential information
+
+[33]    The second point of contestation is whether the respondents' likely future publication of more articles about the applicants and Mr Moti, using the applicants' data, ought to be interdicted. Self-evidentially, the constitutional guarantees in section 16 of the Constitution are implicated. The critical part reads:
+
+Everyone has the right to freedom of expression, which includes–
+freedom of the press and other media.
+freedom to receive or impart information or ideas;"
+
+(Emphasis supplied)
+
+[34]    A South African court shall not shut the mouth of the media unless the fact-specific circumstances convincingly demonstrate that the public interest is not served by such publication. This is likely to be rare; the Constitutional Court in Print Media South Africa and another v Minister of Home Affairs and another at paragraph [22] expresses this proposition thus:
+
+"The case law recognises that an effective ban or restriction on a publication by a court order even before it has 'seen the light of day' is something to be approached with circumspection and should be permitted in narrow circumstances only."13
+
+[35]    This rationale was addressed at length by the SCA in Midi Television (Pty) Ltd v Director of Public Prosecutions 14 The case concerned an application to interdict the screening of interviews with witnesses in an upcoming prosecution:
+
+In summary, a publication will be unlawful, and thus susceptible to being prohibited, only if the prejudice that the publication might cause to the administration of justice is demonstrable and substantial and there is a real risk that the prejudice will occur if publication takes place. Mere conjecture  
+[2023] JOL 59926 (GJ) at 23
+  or speculation that prejudice might occur will not be enough. Even then publication will not be unlawful unless a court is satisfied that the disadvantage of curtailing the free flow of information outweighs its advantage. In making that evaluation it is not only the interests of those who are associated with the publication that need to be brought to account but, more important, the interests of every person in having access to information. Applying the ordinary principles that come into play when a final interdict is sought, if a risk of that kind is clearly established, and it cannot be prevented from occurring by other means, a ban on publication that is confined in scope and in content and in duration to what is necessary to avoid the risk might be considered.
+Those principles would seem to me to be applicable whenever a court is asked to restrict the exercise of press freedom for the protection of the administration of justice, whether by a ban on publication or otherwise. They would also seem to me to apply, with appropriate adaptation, whenever the exercise of press freedom is sought to be restricted in protection of another right. And where a temporary interdict is sought, as pointed out by this Court in Hix Networking Technologies, the ordinary rules, applied with those principles in mind, are also capable of ensuring that the freedom of the press is not unduly abridged. Where it is alleged, for example, that a publication is defamatory, but it has yet to be established that the defamation is unlawful, an award of damages is usually capable of vindicating the right to reputation if it is later found to have been infringed, and an anticipatory ban on publication will seldom be necessary for that purpose. Where there is a risk to rights that are not capable of subsequent vindication a narrow ban might be all that is required if any ban is called for at all. It should not be assumed, in other words, that once an infringement of rights is threatened, a ban should immediately ensue, least of all a ban that goes beyond the minimum that is required to protect the threatened right."
+
+(Emphasis supplied)
+
+[36]    It was urged on me to invoke the example in the OUTA case15 where the Constitutional Court held that an interdict against an Organ of State should be rarely granted if there was a risk that such organ would be inhibited from fulfilling its mandate. I am unpersuaded this is an opposite comparison to the circumstances of freedom of the press. In OUTA there were considerations pertinent to the separation of powers among the principal arms of the State, an aspect absent here.
+
+ 
+[2023] JOL 59926 (GJ) at 24
+
+[37]    On the facts, the first question that arises is whether the information in the data files is indeed "confidential"? The applicants' mere say so is unhelpful in establishing that proposition. In general, the attribute of "confidentiality" in a document is a value derived from more than simply being something not intended for random circulation.16 However, for the purposes of the analysis I shall assume, without deciding, that at least some of the information in the data files could fairly be categorised as confidential. The relevant question is whether the attribute of confidentiality was lost as a result of the leak?
+
+[38]    The decision in SABC v Avusa Ltd and another17 is direct authority for the proposition that there is a forfeiture of confidentiality upon the information being leaked to the world at large. This case too, seems not to have been drawn to the attention of the urgent court in the ex parte hearing. The facts of that case are on all fours with the facts of this case; an embarrassing internal  
+[2023] JOL 59926 (GJ) at 25
+report of the SABC was copied and leaked to the Sunday Times and other media. At paragraph [18] it was held:
+
+". . .. Confidentiality is certainly no 'sacred virtue' and I accept, as Mr Trengove, who together with Ms Hofmeyr appears for the respondents, contended, that confidentiality may, from time to time, have to yield to higher interests. Notwithstanding the fact that confidentiality is not necessarily a paramount interest, my difficulty, in any event, is this: the respondents have not breached a duty of confidentiality owed to the SABC. The respondents owe it none, although SABC's employees and office-bearers may well have such an obligation. The respondents have not acted wrongfully or unlawfully. The Sunday Times' possession of a copy of the report is not wrongful or unlawful. In NM and others v Smith and others (Freedom of Expression Institute as Amicus Curiae) it was held that even where a litigant wishes to rely on the common law of the actio injuriarum for an invasion of privacy, the element of wrongfulness must also be established. I do not see how the delivery by the Sunday Times of a copy of the report, at this stage, can protect the SABC's interest in confidentiality. Even if one accepts that the SABC has a right to privacy in respect of the document, I cannot see how, consequent upon the events recorded above, the delivery of the copy of the report will, in any event, affect this privacy: the horse has bolted. That, it seems to me, is the end of the matter."
+
+(Emphasis supplied)
+
+[39]    Endorsing that proposition, the decision in South African Airways SOC v BDFM Publishers (Pty) Ltd and others18 held that:
+
+In SABC v Avusa . . .Willis J dealt with a demand by the SABC to return to it a confidential document revealing various irregularities, which had fallen into the hands of the Sunday Times. The court affirmed a right to the protection of a person's confidential information, distinguishing that right from privacy rights. In paragraph 26 Willis J remarked that 'confidentiality was lost when the copy of the report was handed over to the Sunday Times and handing it back will not restore the confidentiality which has been lost'. The absence of any duty of confidentiality by the reporters of the Sunday Times to the SABC, unlike the duties of persons who stood in some form of relationship to the SABC from which such a duty could derive, like employees, meant that possession and dissemination of the information by the newspaper could not attract a liability to desist (paragraph 18).
+Moreover, an interdict is an appropriate form of relief to prevent future harm, not afford redress for past harm. Once confidentiality is shattered, like Humpty Dumpty, it cannot be put back together again. It is not apparent how frank SAA was when addressing the urgent  
+[2023] JOL 59926 (GJ) at 26
+judge and whether the difficulties arising from the extent of publication were properly drawn to her attention, and moreover whether the case law on the approach of the courts to lost confidentiality was mentioned. It seems rather plain that, had these matters, no less the real inadequacies of service, been fully dealt with, the order might not have been so readily granted."
+
+[40]    In argument during the hearing, it seemed as if was implied that some of the data files could contain information subject to legal privilege; this was unclear, and it could be that the concepts of confidentiality and privilege were merely elided. This notion adds no strength to the applicants' case. In respect of information deemed to be the subject of legal privilege, the court in BDFM Publishers held:
+
+Moreover, in divining the exact nature of the right, its rationale must dictate the nature of the right. The rationale for the concept of legal advice privilege has been distilled from what has been understood to be the essence of the adversarial legal system. The right of a person to a guarantee of confidentiality over communications with that person's legal advisor is an indispensable attribute of the right to counsel and the adversarial litigation system. The professional duty of legal practitioners towards their clients is inseparable from the duty to respect their clients' wishes about the secrets revealed by the clients and the confidential advice given to the clients. The legal advisor is by reason of that relationship forbidden to reveal the communications in any proceedings because the relationship between the legal advisor and the client establishes a right by the client against the legal advisor to preserve confidentiality. It is plain that the privilege is so called precisely because it is an exception to the rule about what must be adduced.
+By invoking such legal advice privilege, no less than litigation privilege, the client invokes a 'negative' right, ie the right entitles a client to refuse disclosure by holding up the shield of privilege. What the right to refuse to disclose legal advice in proceedings cannot be is a 'positive right', ie a right to protection from the world learning of the advice if the advice is revealed to the world without authorisation. The client may indeed restrain a legal advisor on the grounds of their relationship and may also restrain a thief who takes a document evidencing confidential information on delictual grounds. 
+[2023] JOL 59926 (GJ) at 27
+But if the confidentiality is lost and the world comes to know of the information, there is no remedy in law to restrain publication by strangers who learn of it. This is because what the law gives to the client is a 'privilege' to refuse to disclose, not a right to suppress publication if the confidentiality is breached. A client must take steps to secure the confidentiality and, if these steps prove ineffective, the quality or attribute of confidentiality in the legal advice is dissipated. The concept of legal advice privilege does not exist to secure confidentiality against misappropriation; it exists solely to legitimise a client in proceedings refusing to divulge the subject-matter of communications with a legal advisor, received in confidence. This vulnerability to loss of the confidentiality of the information over which a claim of privilege can and is made, flows from the nature of the right itself."
+
+[41]    Does the subject matter of the data files place the information in a category which the public interest requires not to be revealed? There are examples where the publication of private details is indeed not appropriate for publication. For example, usually, the details of family squabbles over children may not be shared with the public. The classic illustration of the forbidden category is that in Tshabalala-Msimang v Makanya 19 in which the publication of the applicant's personal medical records was forestalled on the principle that there could be no public interest that trumped the rights to privacy of the applicant. This was so notwithstanding that the applicant as a Cabinet member was a public figure of considerable stature and was embroiled in a controversy over her allegedly questionable decision-making in respect the issue of an existential threat to the health of the South African populace and the death of thousands from Aids infections.
+
+ 
+[2023] JOL 59926 (GJ) at 28
+
+[42]    In Financial Mail (Pty) Ltd v Sage Holdings Ltd 1993 (2) SA 451 (AD) [also reported at [1993] 2 All SA 109 (A) – Ed], The appellate division, in the pre-constitutional era, dealt with a case in which the current confidential information about Sage's current business dealings were obtained by a phone tap and then disseminated to the press. The court interdicted the information so derived from publication. On the facts, the court found that there was no public interest demonstrated in the dissemination of the information. It was held thus at 452E–463G:
+
+"I need not essay a definition of the right to privacy. Suffice it to identify two forms which an invasion thereof may take, viz (i) an unlawful intrusion upon the personal privacy of another and (ii) the unlawful publication of private facts about a person (see McQuoid-Mason The Law of Privacy in South Africa at 37–9, 86–8, 135 et seq, 169 et seq; Deliktereg (op cit at 346–7); Neethling Persoonlikheidsreg (2ed) at 217–34). Of course, not all such intrusions or publications are unlawful. And in demarcating the boundary between lawfulness and unlawfulness in this field, the Court must have regard to the particular facts of the case and judge them in the light of contemporary boni mores and the general sense of justice of the community as perceived by the Court (cf Schultz v Butt 1986 (3) SA 667 (A) at 679B–C [also reported at [1986] 2 All SA 403 (A) – Ed]; S v A and another 1971 (2) SA 293 (T) at 299C–D [also reported at [1971] 2 All SA 484 (T) – Ed]; S v I and another 1976 (1) SA 781 (RA) at 788H–789B [also reported at [1976] 2 All SA 183 (RA) – Ed]; Deliktereg (op cit at 346)). Often, as was pointed out by Joffe J (see reported judgment at 130C–131E), a decision on the issue of unlawfulness will involve a consideration and a weighing of competing interests. For example, in the case of S v I and another (supra) the Appellate Division of Rhodesia held (in a prosecution for criminal injuria) that where an estranged wife, together with a private detective employed by her, had peeped at night into her husband's bedroom, this invasion of his privacy was 'justified' in that they did so solely with the bona fide motive of obtaining evidence of the husband's adultery; and that accordingly the wife and private detective were not guilty of criminal injuria. Here the Court had to weigh the husband's right to privacy against the wife's interest in obtaining evidence of his infidelity. Similarly, in a case of the publication in the press of private facts about a person, the person's interest in preventing the public disclosure of such facts must be weighed against the interest of the public, if any, to be informed about such facts. In this weighing-up process there are usually a number of factors to be taken into account (see Persoonlikheidsreg (op cit at 243 et seq)). Whether the defendant's competing interest should be regarded as a ground of justification ('regverdigingsgrond' – see Persoonlikheidsreg (op cit at 237 et seq)) which rebuts a prima facie unlawfulness or whether it is simply one of the facts to be taken into account in determining unlawfulness in the first place need not now be considered.
+
+I now return to the facts of this case. The telephone-tapping which occurred was manifestly an unlawful invasion of the privacy of Sage and its corporate executives and appellants did not seek to justify the tapping; nor is there any acceptable evidence on record which would possibly provide such justification. Indeed, I did not understand appellants' counsel to argue to the contrary. The actual tapping,  
+[2023] JOL 59926 (GJ) at 29
+however, is not the real issue in the case. The real issue is whether appellants, having come into possession of the tapes that were produced in the tapping process, were entitled to use information derived therefrom in an article to be published in the Financial Mail. Furthermore, it should be pointed out that in the Court a quo the legal proceedings were for an interdict to prevent unlawful publication; not for damages arising from an unlawful publication which had taken place.
+
+In considering this issue, the fact that the information in question was obtained by means of an unlawful intrusion upon privacy is a factor of major significance. In Persoonlikheidsreg, Prof Neethling states (at 223):
+
+'Dit behoef myns insiens geen betoog nie dat indien 'n persoon kennis van private feite deur 'n onregmatige indringingshandeling bekom, enige openbaarmaking van sodanige feite deur daardie persoon, of trouens enige ander persoon, die benadeelde se reg op privaatheid skend.'
+
+While I agree, with respect, with this as a general proposition, I would be hesitant to hold that it is subject to no exceptions. It might well be that, if in the case of information obtained by means of an unlawful intrusion the nature of the information was such that there were overriding grounds in favour of the public being informed thereof, the Court would conclude that publication of the information should be permitted, despite its source or the manner in which it was obtained."
+
+[43]    What is notable about this decision is that the weight to be given to an unlawful intrusion is a factor to be taken into account within the prevailing social context to determine whether an interdict is appropriate. In the context of 2023, the broader public interest about the need to weed out corruption would be a factor of foremost importance, lending itself to perhaps a more generous pragmaticism than in the relatively innocent age of 1993. Significantly, the information sought to be broadcast about Sage did not suggest corrupt activity.
+
+[44]    How can the applicants' legitimate interests be protected which is consistent with the public interest? The allegation is made that the publications are defamatory; I shall assume without deciding that they are indeed defamatory. The important question is however whether the defaming of the applicants  
+[2023] JOL 59926 (GJ) at 30
+and of Mr Moti is unlawful. The self-evident reaction is to exercise a right of rebuttal to the publications and if need be, sue for unlawful defamation. The articles contain prolific citations of denials and challenges by the applicants, derived from the comment offered to the questions put by the respondents to the applicants. In addition, the papers reveal that the applicants' Mr Moti has engaged with social media to voice the applicants' perspectives.
+
+Conclusions
+
+[45]    In summary:
+
+On the law:
+
+As a general principle, a journalist who has received information in confidence is justified in refusing to perform an act which would unmask the source, unless the refusal would be inconsistent with the public interest.
+As a general principle, an interdict to restrain or forbid an intended publication by a journalist must be brought on appropriate notice to the journalist.
+
+On the facts:
+
+The ex parte application was an abuse of the process of court.
+The attempt in the proceedings in terms of rule 6(12)(c) to claim fresh relief was an abuse of the process of the court.
+No cogent case has been made out to compel the respondents to disgorge the data files which are the subject matter of the application. 
+[2023] JOL 59926 (GJ) at 31
+No cogent case has been made out to interdict the respondents from publishing articles which refer to the data files provided to them.
+
+[Sub-paragraph numbering as per Court transcript – Ed.]
+
+The costs
+
+[46]    I have already alluded to aspects of the prosecution of this case which, on the part of the applicants, constitute an abuse of the process of court. There must be consequences.
+
+[47]    There have been three hearings and prolific papers drawn. Had the applicants initiated an application in the ordinary way, even if by way of urgency, huge effort could have been spared.
+
+[48]    In such circumstances the appropriate order is to mulct the applicants by an order of costs on the attorney and client scale.
+
+The order
+
+The order granted to the applicants on 1 June 2023 and amended on 3 June 2023 is set aside in its entirety.
+The applicants shall bear the costs of the first to fourth respondents on the attorney and client scale including the costs of two Counsel.
+
+
+Footnotes
+1	 See: Shoba, Officer Commanding Temporary Police Camp, Wagendrift Dam and another et al 1995 (4) SA 1 (A) [also reported at [1995] 2 All SA 300 (A) – Ed], a case decided in respect of Anton Piller application; at 15H–I the three requirements are stated, of which the third articulates the proposition.
+  Further, in a case similar to this application, where a reconsideration of an ex parte order was being dealt with, the court in South African Airways SOC v BDFM Publishers 2016 (2) SA 561 (GJ) held at para [22] [also reported at [2016] 1 All SA 860 (GJ); [2016] JOL 35097 (GJ) – Ed]: "The principle of audi alterem partem is sacrosanct in the South African legal system. Although, like all other constitutional values, it is not absolute and must be flexible enough to prevent inadvertent harm, the only times that a court will consider a matter behind a litigant's back are in exceptional circumstances. The phrase 'exceptional circumstances' has regrettably, through overuse and the habits of hyperbole, lost much of its impact. To do that phrase justice it must mean 'very rarely' – only if a countervailing interest is so compelling that a compromise is sensible, and then a compromise that is parsimonious in the deviation allowed. The law on the procedure is well established.".
+2	 It may be noted that the conclusion of the applicants that Van Niekerk was responsible for the appropriation of digitally held data from the servers of the applicants on a great scale is wholly plausible. Van Niekerk, so the applicants' investigations revealed, had during September–October 2022 appropriated some 4 000 data files, said to belong to several entities in the Moti Group of companies. Van Niekerk resigned from the employ of the applicants on 7 October 2022. In November 2022, a former business partner, Lutzkie attached documents belonging to the Moti Group in litigation papers; this is what first alerted the applicants to the misappropriation of their documentation.
+3	 The Press Council of South Africa issued in January 2019 "The Code of Ethics and Conduct for the South African Print and online Media" (The Press Code) which, inter alia, stipulates thus:
+ "11. Confidential and Anonymous Sources:
+  The media shall:
+ 11.1 protect confidential sources of information – the protection of sources is a basic principle in a democratic and free society.
+ 11.2 avoid the use of anonymous sources unless there is no other way to deal with a story, and shall take care to corroborate such information; and
+ 11.3 not publish information that constitutes a breach of confidence, unless the public interest dictates otherwise.".
+4	 A SLAPP suit is the anagram for Strategic Lawsuit Against Public Participation. The use of that label has widened beyond its literal meaning to refer to any legal proceedings by a well-resourced entity aimed at harassing a vulnerable person or entity by outspending them in litigation and thereby forcing a capitulation.
+5	 See: National Media Ltd v Bogoshi 1998 (4) SA 1196 (SCA) [also reported at [1998] 4 All SA 347 (A); [1998] JOL 3766 (A); 1999 (1) BCLR 1 (A) – Ed] where the principles upon which a journalist who publishes a defamatory statement which is later proven to be untrue could escape liability by being able to show a good faith and reasonable belief in the accuracy of the falsehood.
+6	 The Provisions of the Cyber Crimes Act of 19 of 2020 as they apply to Van Niekerk's conduct probably do establish that his acts were criminal – at least on the version of the applicants. I deliberately refrain from trying Van Niekerk's case in his absence from these proceedings.
+7	 See para [8.4] of this judgment, supra, where the respondents' attorney's letter is cited: in paras [4.2] and [4.3] it is stated what the "relationship" of the respondents is to the "documentation".
+8	 1993 (1) SA 833 (W) at 842H–845A [also reported at [1993] 3 All SA 542 (W) – Ed].
+9	 In the reconsideration hearing, an attempt was made to suggest that the Cyber Crimes Act 19 of 2020 which declares the crime of theft to encompass not only the misappropriation of data but also the possession of data helped to overcome the proposition upheld in Waste-Tech.
+  The relevant text in s 3 reads: "(1) Any person who unlawfully and intentionally intercepts data, . . .., is guilty of an offence. (2) Any person who unlawfully and intentionally possesses data or the output of data, with the knowledge that such data was intercepted unlawfully as contemplated in subsection (1), is guilty of an offence."
+  In my view this text does not assist. The text suggests that possession must be unlawful possession independently of knowledge of its being wrongfully procured. Moreover, the expansion of the concept of theft for the purposes of imposing criminal liability does not automatically extend beyond the compass of the problem the statute was intended to address.
+  Certain remarks made in Absa Insurance and Financial Advisers (Pty) v Moller [2014] ZAWCHC 176 (21 November 2014) at para [10] were referred to as suggestive that the point made in Waste-Tech was compromised. The court in that case stated that the categorisation of the relief as vindicatory in an Anton Piller application, although said to be incorrect, was not destructive of the validity of the claim for seizure of certain information in a procedure as an Anton Piller application. This observation does not diminish the effect of the decision in Waste-Tech.
+10	  2013 (2) SA 570 (GSJ) [also reported at [2012] JOL 29106 (GSJ) – Ed].
+11	  2021 (3) SA 246 (CC) [also reported at 2021 (4) BCLR 349 (CC) – Ed].
+12	  22 Eur Ct HR 123 (1996).
+13	  2012 (6) SA 443 (CC) [also reported at 2012 (12) BCLR 1346 (CC); [2012] JOL 29450 (CC) – Ed].
+14	  2007 (5) SA 540 (SCA) [also reported at [2007] 3 All SA 318 (SCA); 2007 (9) BCLR 958 (SCA) – Ed].
+15	 National Treasury v Opposition to Urban Tolling Alliance 2012 (6) SA 223 (CC); see para [45] [also reported at 2012 (11) BCLR 1148 (CC); [2012] JOL 29422 (CC) – Ed].
+16	 The need to prove confidentiality in the context of a restraint of trade application was set out in Alum-Phos (Pty) Ltd v Spatz and another [1997] 1 ALL SA 616 (W) at 623 [also reported at [1997] JOL 472 (W) – Ed]:
+  "In order to qualify as confidential information, the information concerned must comply with three requirements. First, it must involve and be capable of application in trade or industry: ie, it must be useful (Van Heerden & Neethling, Unlawful competition at 225). Second, it must not be public knowledge and public property: ie objectively determined it must be known only to a restricted number of people or to a closed circle (Saltman Engineering Co Ltd v Campbell Engineering Co Ltd [1948] 65 RPC 203 (CA) at 211 and 215: Harvey Tiling Co (Pty) Ltd v Rodomac (Pty) Ltd 1977 (1) SA 316 (T) at 321G–H [also reported at [1977] 1 All SA 481 (T) – Ed]: Van Castricum v Theunissen and another 1993 (2) SA 726 (T) at 731C–E [also reported at [1993] 4 All SA 279 (T) – Ed] and the cases there cited). Third, the information objectively determined must be of economic value to the person seeking to protect it (Coolair Ventilator Co (SA) (Pty) Limited v Liebenberg 1967 (1) SA 686 (W) at 691B–C [also reported at [1967] 2 All SA 125 (W) – Ed]: Van Castricum v Theunissen, supra, at 732A–F). The nature of the information is irrelevant. If it complies with the requirements stated it will be confidential (SA Historical Mint (Pty) Ltd v Sutcliffe and another 1983 (2) SA 84 (C) at 89H–90D [also reported at [1983] 3 All SA 523 (C) – Ed]: Meter Systems Holdings Limited v Venter 1993 (1) SA 409 (W) at 428A–430H [also reported at [1993] 3 All SA 574 (W) – Ed]). Ordinary general information about a business does not become confidential because the proprietor chooses to call it confidential (SA Historical Mint (Pty) Ltd v Sutcliffe and another, supra, at 89H). Whether or not what appears to be a commonplace piece of business information is confidential will depend on all the relevant circumstances (SA Historical Mint (Pty) Ltd v Sutcliffe and another, supra, at 90A–C).
+17	  2010 (1) SA 280 (GSJ).
+18	  2016 (2) SA 561 (GJ) [also reported at [2016] 1 All SA 860 (GJ); [2016] JOL 35097 (GJ) – Ed].
+19	  2008 (6) SA 102 (W) [also reported at [2008] 1 All SA 509 (W); [2007] JOL 20547 (W); 2008 (3) BCLR 338 (W) – Ed].
+
+Appearance:
+Adv V Maleka SC, Adv P Strathern SC, Adv L Sisilana, Adv D Wild, Adv S Meyer, Adv T Ngukaitobi SC, Adv D Mahon, Adv K Premhid, Ulrich Roux & Associates (At); Adv S Budlender SC, Adv L Goodman,  Adv B Winks, Webber Wentzel (1–4R); M Power, Adv M Bishop, M Power, T Power, Power & Associates Incorporated (1–3 amici curiae), Adv P Hathom SC, Adv T Masvika, Adv D Sive, Norton Rose Fulbright Africa Incorporated (4 Amicus Curiae)
+
+
+End of Document

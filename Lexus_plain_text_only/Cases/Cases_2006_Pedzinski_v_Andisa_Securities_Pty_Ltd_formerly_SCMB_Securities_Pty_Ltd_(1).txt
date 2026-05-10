@@ -1,0 +1,469 @@
+
+
+
+
+Pedzinski v Andisa Securities (Pty) Ltd (formerly SCMB Securities (Pty) Ltd) [2006] JOL 16364 (LC)
+Judgments Online
+
+Division: Braamfontein
+Case No: JS 396 / 04
+Hearing Date(s): 30 / 05 / 2005
+Judgment Date(s): 30 / 11 / 2005
+Bench: MM Leeuw AJ
+
+
+Keywords
+
+
+Labour Law — Automatically unfair dismissal — Protected disclosure — Probable and reasonable inference — Dismissal due to disclosure — Automatically unfair — Compensation granted with costs 
+Labour Relations Act 66 of 1995 — Labour Relations Act 66 of 1995, section 187 — Labour Relations Act 66 of 1995, section 187(1) — Labour Relations Act 66 of 1995, section 187(1)(c) 
+Protected Disclosure Act 2000 — Protected Disclosure Act 2000, section 6 
+
+Mini Summary
+
+
+Due to health problems, the applicant had been employed half-day by the respondent as a Compliance Manager in a department responsible for, inter alia, investigating misdeals and irregularities in share trading. When she reported irregular insider trading to her superior as well as to wider structures within the organisation, her superior viewed her conduct as insubordinate. Thereafter he started "operational requirements" in terms of which she was offered full-day employment or retrenchment. Her alternative suggestion was not considered and she was dismissed. In this application she sought compensation on the grounds of an automatically unfair dismissal in terms of section 187(1)(c) of the Labour Relations Act 66 of 1995. Her reasons were, inter alia, that she had been dismissed for making a protected disclosure within the meaning of section 187(1)(h) of the Labour Relations Act 66 of 1995, and that the dismissal had been procedurally and substantively unfair.
+
+Held that the applicant had made the disclosures with the reasonable belief that she was acting in accordance with the regulatory procedures in place and that her conduct fell squarely within the ambit of section 6 of the Protected Disclosure Act 26 of 2000. The only probable and reasonable inference to be drawn was that the applicant was dismissed because she had made the protected disclosure. The dismissal fell within the ambit of section 187(1)(c) because the respondent was aware that the applicant's health condition would preclude her from accepting the full-day position. It was therefore automatically unfair. The reason for the retrenchment was a sham and the dismissal was substantively and procedurally unfair. The applicant received 24 months' compensation with costs.
+
+ 
+[2006] JOL 16364 (LC) at 1
+
+
+
+
+Introduction
+
+[1]    Applicant was dismissed on 24 April 2004 by respondent, citing operational requirements as the reason for dismissal. Applicant instituted action against respondent for her dismissal, alleging that the retrenchment proceedings were a sham designed to disguise the true reasons for her dismissal. She has alleged two separate and alternative causes of action, to wit:
+
+Her dismissal was automatically unfair in that: 
+[2006] JOL 16364 (LC) at 2
+ (i) she made a protected disclosure within the meaning of section 187(1)(h) of the Labour Relations Act 66 of 1995 ("the LRA"); in the alternative, 
+that she was dismissed by the respondent in order to compel her to accept a demand in respect of a matter of mutual interest as envisaged in section 187(1)(c) of the LRA; alternatively
+that she was unfairly discriminated against as an employee because of her disability, as defined in section 187(1)(f) of the LRA.
+Her dismissal was substantively and procedurally unfair, for want of compliance with the provisions of section 189 of the LRA.
+
+[2]    The applicant referred the dispute to the Commission for Conciliation, Mediation & Arbitration ("the CCMA"). A conciliation meeting was held on 11 August 2003 and the dispute remained unresolved. A certificate of outcome was issued and the matter was referred to arbitration. The senior commissioner of the CCMA referred this matter on 4 March 2004 to this Court in terms of section 191(6) of the LRA.
+
+ 
+[2006] JOL 16364 (LC) at 3
+
+The facts which are common cause
+
+[3]    Applicant commenced employment with the respondent on 17 April 2000 as a compliance manager in the compliance department. She was dismissed on 24 April 2003.
+
+[4]    She was previously employed by the Standard Bank of South Africa trading as Standard Corporate Merchant Bank "(SCMB)" as a treasury auditor in the internal audit division from 17 August 1998 to 16 April 2000.
+
+[5]    The respondent and SCMB are associated companies forming part of the Standard Bank Group of companies. The separate corporate identity of respondent was due to regulatory requirements. Respondent operated as a division of SCMB and its employees were regarded as employees of SCMB and the same human resource policies and practices applied to them.
+
+[6]    Within the Standard Bank Group, respondent was a group which dealt with legal issues and which was a subsidiary under the SCMB umbrella. On 17 April 2000, applicant was offered and accepted a position with respondent as compliance manager. This was an internal transfer from treasury auditor to compliance manager within the Standard Bank Group.
+
+[7]    As compliance manager, applicant was responsible for monitoring compliance by respondent, its officers and all employees, of the statutory regulatory and supervisory requirements applicable to respondent's business. She was  
+[2006] JOL 16364 (LC) at 4
+also mainly responsible for the Private Client Business Division.
+
+[8]    The head of compliance at the time of applicant's appointment was Lawrence Jacobs ("Jacobs"). He was later replaced by Chris Schnetler ("Schnetler") on 1 July 2002. The other compliance manager working with the applicant was Mr Shaun Petersen ("Petersen").
+
+The issues
+
+[9]    Applicant alleged that she suffered from back pains whilst she was employed in the internal audit section during March 1999. She testified that she developed this condition whilst working in this section because of a faulty chair and desk which were assigned to her and which she was using at the office. She went through a conservative treatment in a form of physiotherapy and traction and had a fusion operation on 29 June 1999.
+
+[10]    As a result of her health condition, she was off sick for almost six months during 1999, which leave was extended to the end of December 1999 because her back ailment was not improving. The doctor recommended that she be offered a half-day job in view of the fact that she was experiencing spasms exasperated by sitting for longer hours.
+
+[11]    From April 2000, she was compelled to sit and work for the whole day and after normal working hours because of  
+[2006] JOL 16364 (LC) at 5
+Petersen's continuous absence from work. The cumulative effect of sitting for long hours in the office and driving in the afternoon traffic jam, aggravated her back pain, and greatly affected her emotionally. This state of affairs continued for almost three months. Because of the unbearable conditions prevailing then, she resigned from her position as compliance manager per letter dated 21 July 2000. Her reasons for resigning were cited as "personal reasons as discussed", but did not elaborate on the nature thereof. Respondent was aware of the applicant's back problem.
+
+[12]    She was then offered continued employment with respondent as compliance manager on a half-day basis, which offer she accepted. She was re-employed per e-mail dated 15 August 2000, and was allowed to take leave from 1 September 2000 to 8 September 2000 by Jacobs who was her line manager. Her working hours were set down as 8:30am–1pm, and her remuneration was 66% of the current package she was receiving.
+
+[13]    I have alluded to the fact that applicant alleged that Petersen was always off sick for long periods which resulted in her working overtime and being overworked. This despite the fact that she was supposed to work for half a day. She further alleged that the overtime hours caused her further discomfort which resulted in the need for physiotherapy and medication.
+
+[14]    According to her she suggested to management that part of the work in her department be outsourced to other sections of  
+[2006] JOL 16364 (LC) at 6
+the respondent. As a result of her request, Jacobs compiled a Compliance Strategy Report dated March 2002, wherein the current staff component of two full-time and one half-time employees were to be retained.
+
+[15]    The compliance department was restructured in that some of the duties and responsibilities were either reduced or outsourced to other sections within the respondent's establishment. She further intimated that they were able to cope with the workload even though she and Jacobs had to work overtime because of the frequent and protracted absence from work of Petersen due to ill health.
+
+[16]    Jacobs was transferred and Schnetler took over his duties with effect from 1 July 2002. On assumption of office as head of the Compliance Department, Schnetler conducted a Compliance Balanced Scorecard, which was a tool prepared for the purpose of managing performance and key result areas in the different departments of respondent. This exercise was conducted and the findings thereof compiled in a document dated 29 August 2002. The issue of the staff component was not raised in this document.
+
+[17]    Applicant stated that the Compliance Balanced Scorecard did not have any effect on the workload but was mainly aimed at assessing their performance with a view to improving service delivery. On 2 September 2002, Schnetler furnished the applicant with her Key Results Area ("KRA") which was compiled from information supplied by applicant and the  
+[2006] JOL 16364 (LC) at 7
+objectives and actions to be achieved under the Divisional Balanced Scorecards. He further informed applicant per e-mail of 2 September 2002, that the actions to be undertaken would be a team effort of all members of the Compliance Department. The need for three full-time employees or the shortage of staff was not mentioned in the KRA. Although these were provisional or draft KRA, no changes or updates were effected thereafter.
+
+[18]    On 18 November 2002, applicant reported to Schnetler as well as other persons in the SCMB Group Compliance Structures that certain irregular trading of shares involving staff members were identified. One of the members implicated was an executive director of respondent, namely Grant Talbot ("Talbot"), who was Schnetler's senior manager. 
+
+[19]    Schnetler expressed dissatisfaction with regard to the manner in which the irregularities were reported, and in particular the fact that the irregularities were reported to persons in the wider SCMB Compliance Structures prior to a decision being taken on this issue by himself and management of respondent. Applicant was adamant about the correctness of her actions which, she averred, were within the powers and responsibilities of her duties and functions as a compliance manager. 
+
+[20]    Applicant testified that this issue had a negative impact on her relationship with Schnetler. It is evident from the e-mails exchanged between the applicant and Schnetler during the  
+[2006] JOL 16364 (LC) at 8
+period 19 November 2002 and 22 November 2002 that their relationship was strained. Schnetler viewed applicant's conduct as insubordination and undermining his authority as her senior. He was obviously upset by the fact that he was contacted by his senior, Mike Wuth ("Wuth") on 19 November 2002, about the irregularities before he (Schnetler) could advise him thereof. The tone of the following letter from Schnetler to applicant epitomises the extent to which this issue brought about a breakdown in the working relationship between the two:
+
+ "From: Schnetler, Chris C
+
+ Sent: 22 November 2002 12:48pm
+
+ To: Pedzinski, Allison A
+
+ Subject: RE: Reporting of irregularities
+
+Hi Allison,
+
+I thought I have made myself clear in this matter, but obviously not. Please read my mail and let's discuss this if there is still uncertainty.
+
+As I mentioned to you, being Head of the Department I expect you to advise me of matters affecting our business before reporting it elsewhere. I am your manager and the reporting structure should be clear. The fact that you would send out a report without discussing it with me first and obtaining my opinion undermines my authority. I made it quite clear in my mail that the matter would have been reported, but that as Head of the Department I should be afforded the opportunity to decide on the way to proceed with the matter as I am expected to take ultimate responsibility for what happens in the department. I am aware that you and Shane advised me that you were looking into the matter, but as I was not privy to the information, obviously had no idea as to the extent thereof.
+
+As stated before, if you need the assistance of another department in an investigation then you should approach them, but that does not mean that you should issue any reports to them before having discussed the matter with your manager. The issue is that you reported the matter to another department before I could have advised our MD, that is not only undermining my authority, but also of the MD. As I had no clear understanding of the matter and requested you for a report on it, I did not think it was prudent to discuss it with the MB until I was fully briefed.
+
+Thank you."
+
+ 
+[2006] JOL 16364 (LC) at 9
+
+[21]    On 3 December 2002, almost a week after the unpleasant interaction between Schnetler and the applicant, Schnetler made a recommendation to Barbara Bates ("Bates") of the Human Resource Department, that the staff component in the Compliance Department be increased to three full-time employees which would require applicant to work on a full-time basis instead of her working half a day.
+
+[22]    The motivation was that his department was required to be more proactive and that the applicant and Petersen, who were responsible for the daily operational matters of the Compliance Department, were not coping with the workload because Petersen was ill for a substantial period during the year and the applicant was working for half a day, which resulted in him being alone at the department in the afternoons and thus could not adequately render assistance in the Compliance Department. Applicant was on leave on 3 and 4 December 2002. She was not given a copy of this letter. She came to know about it for the first time at the CCMA.
+
+[23]    On 4 December 2002, applicant requested Schnetler, per e-mail, to furnish her with a copy of the report of the findings and action taken against the employees involved in the irregular purchase of shares. She did not receive any response. Schnetler, when cross-examined about this issue, was evasive and could not explain the reason why he did not give her the report, despite acknowledging the fact that as part of  
+[2006] JOL 16364 (LC) at 10
+her functions, applicant was required to keep record of members or employees who violated the rules and regulations of the respondent, and those prescribed by the law.
+
+[24]    She received an e-mail on 5 December 2002 from Peterson with a report attached. The report was from Petersen to Schnetler and it contained responses to questions submitted during the investigations of the irregularities discovered by the applicant. A remark was made by Petersen in the report, expressing his disquiet about applicant having reported the irregularities to structures outside the SCMB Securities before it could be resolved internally. He further remarked that the issue was blown out of proportion. To sum up, the tone of Schnetler's e-mails to applicant were indicative of one extremely dissatisfied with the irregularities being reported by applicant to persons within the SCMB Compliance Structures, prior to him taking a decision on the matter.
+
+[25]    Applicant was informed per letter dated 31 December 2002 by Schnetler that she would be required to work full time and was asked to consider the proposal and respond thereto by 14 January 2003; and furthermore that if the proposal was not acceptable, she would be offered an alternative position within SCMB or the Standard Bank Group. She was further informed that the letter served as notification in terms of section 189 of the LRA if no suitable alternative placement or employment could be found within the establishment. She was given the letter on 31 December 2002 in the afternoon at an unscheduled meeting between Bates, Schnetler and  
+[2006] JOL 16364 (LC) at 11
+herself. Bates had to be recalled from leave for the purpose of this meeting.
+
+[26]    Subsequent to this meeting, applicant made counterproposals in an effort to secure her employment which proposals were rejected by the respondent. I will come back to this issue later. 
+
+Was the applicant's dismissal automatically unfair as defined in section 187(1) of the LRA?
+
+[27]    The applicant's counsel submitted that applicant's dismissal was automatically unfair for the reasons stated above. I will deal with the above mentioned submissions ad seriatim. 
+
+Protected disclosure
+
+[28]    It is common cause that the applicant made a disclosure. The question to be decided is whether such disclosure constituted a protected disclosure as defined in the LRA.
+
+Section 187(1)(h) of the Act provides that: 
+
+"A dismissal is automatically unfair . . . if the reason for dismissal is–
+
+. . .
+. . .
+. . .
+
+a contravention of the Protected Disclosures Act, 2000, by the employer, on account of an employee having made a protected disclosure defined in that Act."
+
+ 
+[2006] JOL 16364 (LC) at 12
+
+[29]    Section 1 of the Protected Disclosures Act 26 of 2000 ("the PDA") defines a "protected disclosure" as including: 
+
+. . . a disclosure made to an employer in accordance with section 6." 
+
+Section 6(1) provides that:
+
+"Any disclosure made in good faith–
+
+and substantially in accordance with any procedure prescribed, or authorized by the employee's employer for reporting or otherwise remedying the impropriety concerned; or
+to the employer of the employee, where there is no procedure as contemplated in paragraph (a).
+Any employee who, in accordance with a procedure authorised by his or her employer, makes a disclosure to a person other than his or her employer, is deemed, for the purposes of this Act, to be making the disclosure to his or her employer."
+
+[30]    Respondent submitted that the disclosure is not protected because it does not comply with the provisions of sections 1 and 3 of the PDA, in that applicant made a disclosure to Estia Papadopoulos ("Papadopoulos") and Irene McMillan ("McMillan") who were not employees of SCMB Securities (Pty) Ltd.
+
+ 
+[2006] JOL 16364 (LC) at 13
+
+[31]    Applicant testified that she disclosed the irregularities to her line manager, Schnetler and copied her report to McMillan because the irregularities were in contravention of both the SCMB Securities (Pty) Ltd and the Group PA Trading Policies, and because it was necessary to involve her as the Group's PA Trading Compliance Function. Furthermore, she intimated that it was in compliance with the respondent's regulations as well as her duty and function to report all regulatory breaches to Group Compliance as and when they became known. Papadopoulos was the head of the SCMB Compliance Group and thus part of the SCMB Risk Management team, and could therefore not be regarded as external parties.
+
+[32]    Schnetler conceded during cross-examination that applicant was fulfilling her duties as compliance manager by reporting the irregularities. applicant has substantiated the reasons for having reported the irregularities to her line manager Schnetler, and the Group Compliance structures, including those which respondent regard as external to SCMB Securities (Pty) Ltd. 
+
+[33]    I am of the view that applicant made the disclosures with the reasonable belief that she was acting in accordance with the regulatory procedures in place and that her conduct fell squarely within the ambit of section 6 of the PDA.
+
+[34]    It is submitted by counsel for the respondent that the disclosure made by applicant would qualify as a protected  
+[2006] JOL 16364 (LC) at 14
+disclosure only if the conditions stated in section 9(1) of the PDA were proved to be present by her. 
+
+[35]    I am of the view that it is not necessary for the purpose of this action to deal with the provisions of section 9 of the PDA because respondent did not cite disclosure of protected information as the reason for applicant's dismissal which in turn would require applicant to prove the grounds referred to in section 9 to justify her actions. She was also not charged with misconduct for her actions. What I am required to establish is whether the true reason for the dismissal of the applicant was her disclosure of this damning information, against a senior director of the company and other employees, and not operational requirements as alleged by the respondent.
+
+Analyses of issues
+
+[36]    It is common cause that the applicant discovered irregularities which were committed by certain employees at the instance of Talbot, a senior director of respondent. The disclosures were of a serious nature in that fiscal regulations were breached and were likely to jeopardise the position of the senior managing director involved. The respondent did not seem to suggest that the applicant committed any wrong save for the fact that it disapproved of the manner in which the irregularities were reported.
+
+ 
+[2006] JOL 16364 (LC) at 15
+
+[37]    It is submitted on behalf of applicant that respondent was not transparent and open to the applicant and actually excluded her from the investigative process into the irregularities and made every effort to conceal the irregularities committed from becoming generally known to external bodies, and in particular the Johannesburg Stock Exchange ("JSE"). This is evident from the e-mail dated 27 November 2002 from Schnetler to Wuth, wherein he informed Wuth that the report of the investigations was made available to Wuth and Petersen only.
+
+[38]    According to applicant, the irregular shares issued were reversed except for those issued at the instance of Talbot. Furthermore, as at 5 December 2002, the JSE was not advised of the irregularities, but were later reported on 10 December 2002, except for those shares issued at Talbot's instructions. Other employees involved in the irregular share trading were given written warnings but the name of Talbot did not appear in the list. Schnetler testified that Talbot was given a written warning but could not produce any proof thereof because the documents were destroyed. 
+
+[39]    Applicant persisted with her request for a report on the outcome of the investigation and insisted on being furnished with documentary proof of the action taken against the employees and whether the JSE was informed about what had transpired. 
+
+ 
+[2006] JOL 16364 (LC) at 16
+
+[40]    Subsequently, Schnetler wrote a letter to applicant dated 31 December 2002, where he stated the following:
+
+ "RE: OPERATIONAL REQUIREMENTS AND STAFF COMPLEMENT – COMPLIANCE DEPARTMENT
+
+Since my appointment as Head: Compliance Department, a number of initiatives have commenced, which were designed to determine whether the Compliance Department was satisfying the requirements of its various 'clients' and whether it was appropriately structured to do so.
+
+These initiatives and the results were:
+
+Operational changes in other areas of the Bank:
+One of the primary 'clients' of Compliance Department, is the Private Client Business Division. The Private Client Business Division is currently under review and the general consensus is that greater involvement will be required and expected of the Compliance Department in future.
+Balanced Scorecard:
+As part of the Balanced Scorecard procedure, the Compliance Department sent out a questionnaire to all SCMB Securities staff to obtain an indication of how they rated the Compliance Department, what their general compliance awareness is and what suggestion they had to improve the Compliance Department's performance. Through this process, an indication was given to the Compliance Department that the Compliance Department needed to improve on the current performance and that there is a demand for training and compliance awareness.
+The requirement is that the Compliance Department becomes more proactive. The Compliance Department took the responses to the questionnaire into consideration when drawing  
+[2006] JOL 16364 (LC) at 17
+up its Balanced Scorecard. The Compliance Department has set vital targets in the Balanced Scorecard and will not be able to reach these on the current performance levels. 
+Staffing / Operational backup:
+You and Shane are currently responsible for the daily operational matters. This varies from client disputes, investigation into misdeals, investigating various irregularities, monitoring reports and performing entries on the BDA system etc. When I was employed, I was advised that there is sufficient operational backup, but that the business requires compliance to be more proactive and a legal officer would be beneficial to assist in this regard.
+As you are aware, Shane had been ill for substantial periods during this year. As a result of this, and the fact that you are currently on half-day position, I am often in the Department during the afternoons. This is unacceptable. On occasions, the Compliance Departments' 'clients' require operational assistance that cannot be provided by myself and needs to be postponed until the following day or referred to other departments. We also serve as liaison with our regulators (JSE / FSB) and clients, and it is unprofessional that no one is present in the Department should we be contacted in the afternoon. This also places restrictions on scheduling and attending meetings during the afternoons.
+
+As a result of this, it is my view that the Compliance Department requires three fulltime employees, and possibly a fourth fulltime employee. Whether or not a fourth fulltime employee will be required, will be determined once three fulltime employees are up and running within the Compliance Department.
+
+Since the Compliance Department agreed to accommodate you in a half-day position, there have been a number of changes, in addition to the aspects raised above. Much more is expected of the Compliance  
+[2006] JOL 16364 (LC) at 18
+Department than has been delivered in the past. The business requirements and expectations have changed. In order to meet these expectations and to change the overall impression people have of the Compliance Department and the need to be more proactive and professional, it is appropriate to request you to consider reverting to a fulltime position. Naturally adjustments will be made to your remuneration should you elect to do so. At the time that the Compliance Department agreed to accommodate you in the half-day position, the operational requirements of the Compliance Department indicated that you could be accommodated. 
+
+The Compliance Department therefore, formally offers a fulltime position as Compliance Manager to you. You are requested to consider this offer and revert to me by no later than 14 January 2003.
+
+In the event that you do not wish to revert to the fulltime position, the Bank will attempt to accommodate you in suitable alternative employment with SCMB, or the greater Standard Bank Group. The redeployment period will be for a period of eight weeks. During this period you would be assisted by Human Resource (Barbara Bates), and you will also be required, independently to seek employment within relevant areas of the Bank. In the event that it is not possible to accommodate you in suitable alternative employment, the Bank will have no alternative but to terminate your services on the basis of operational requirements. This letter will serve as notification in terms of section 189 of the Labour Relations Act 66 of 1995 ('the LRA'). Should your services be terminated for operational reasons, you will be paid out a retrenchment package in accordance with the Bank's retrenchment policy. In addition, you will be entitled to the normal benefits in terms of the Bank's retrenchment process and policy.
+
+Should you require any further information or discussion, please arrange to see either myself, or Barbara Bates." 
+
+[41]    The possibility of requesting applicant to revert to a full-time position was never discussed with applicant prior to this letter  
+[2006] JOL 16364 (LC) at 19
+being written. In the above letter, he informed applicant that the Private Client Business Division was under review and would be restructured in the future.
+
+[42]    The Balanced Scorecard exercise was conducted and finalised on 16 August 2002 and between this period and December 2002, there was nothing of significance which could have prompted respondent, in particular Schnetler, to take the stance as reflected in the letter of 31 December 2002. Schnetler confirmed that there was no urgency to restructure but that this was an ongoing process which had started in August 2002 between himself, Wuth and Talbot. This averment was not mentioned in the pleadings.
+
+[43]    Applicant was not involved in the discussions and in actual fact, Schnetler confirmed during cross-examination that he, Talbot and Wuth discussed and took the decision before approaching applicant. Schnetler requested applicant to respond to his proposal of reverting to full-time employment by 14 January 2003, but at the same time gave her a notification in terms of section 189 of the LRA. It can therefore be inferred from this letter that respondent contemplated retrenchment and that Schnetler, when he made the offer to applicant, did not believe that applicant would accept the offer.
+
+[44]    Up to this stage, there is no direct evidence indicating that the respondent dismissed applicant because she made a protected disclosure. But that there was unhappiness on the  
+[2006] JOL 16364 (LC) at 20
+part of Schnetler with the applicant from the way she went about reporting the irregularities, comes out clear from the correspondence between the two (see in particular the e-mail dated 22 November 2002 referred to in paragraph [20] above). 
+
+[45]    The respondent relies on operational requirements as the reason for dismissal and bears the onus to prove that the dismissal was for a fair reason and effected in accordance with a fair procedure (see section 188(1)(a) and (b) of the LRA). In order to determine the true reason for the dismissal, I am guided by what was stated by Froneman DJP (as he then was) in the case of SACWU & others v Afrox Ltd [1999] 10 BLLR 1005 (LAC) at 1013G–1014B where he adopted the following approach in determining the true reason for the dismissal of employees allegedly dismissed for operational requirements:
+
+"The enquiry into the reason for the dismissal is an objective one, where the employer's motive for the dismissal will merely be one of a number of factors to be considered. The issue (the reason for the dismissal) is essentially one of causation and I can see no reason why the usual twofold approach to causation, applied in other fields of law, should not also be utilised here (cf S v Mokgethi and others 1990 (1) SA 32 (A) at 39D–41A; Minister of Police v Skosana 1977 (1) SA 31 (A) at 34). The first step is to determine factual causation: was participation or support, or intended participation or support, of the protected strike a sine qua non (or prerequisite) for the dismissal? Put another way, would the dismissal have occurred if there was no participation or support for the strike? If the answer is yes, then the dismissal was not automatically unfair. If the answer is no, that does not immediately render the dismissal automatically unfair; the next issue is one of legal causation, namely whether such participation or conduct was the 'main' or 'dominant', or 'proximate', or 'most likely' cause of the dismissal. There are no hard and fast  
+[2006] JOL 16364 (LC) at 21
+rules to determine the question of legal causation (cf S v Mokgethi (supra) at 40). I would respectfully venture to suggest that the most practical way of approaching the issue would be to determine what the most probable inference is that may be drawn from the established facts as a cause of the dismissal, in much the same way as the most probable or plausible inference is drawn from circumstantial evidence in civil cases. It is important to remember that at this stage fairness of dismissal is not yet an issue (. . .). 
+
+Only if the test of legal causation also shows the most probable cause for dismissal was only participation or support of the protected strike, can it be said that the dismissal was automatically unfair in terms of section 187(1)(a). If that probable inference cannot be drawn at this stage, the enquiry proceeds a step further."
+
+[46]    Schnetler was at pains to explain to the court as to what could have triggered the sudden retrenchment of applicant when he had clearly stated in his letter of 31 December 2002 that the "Private Client Business Division was currently under review and the general consensus was that greater involvement would be required and expected of the Compliance Department in future" (emphasis added).
+
+[47]    I have alluded to the fact that Schnetler testified that when he took over from Jacobs in July 2002, he conducted a survey of the Compliance Division during August 2002, which results indicated that there was a need for more interaction and training of the staff in the general SCMB Group, and that the staff was to be made more aware of the duties and functions of the Compliance Department which ought not to be operational issues but rather concentrate or focus on research and training of staff to comply with the laws and industrial requirements.
+
+ 
+[2006] JOL 16364 (LC) at 22
+
+[48]    He further testified that the Compliance Department was lacking in that regard and was required to deliver more. He held discussions during October 2002 with Wuth, Barbara and Talbot where assessments from a business perspective were held and further raised the issue of the staff component of two full-day and one half-day position which contributed towards their not being able to comply with the demands expected of the Compliance Department.
+
+[49]    According to Schnetler, the October discussions, especially with regard to three full-time employees, was formalised per the e-mail of 3 December 2002 sent to Bates, and that the heads of all departments were involved in the review and restructuring process from August 2002 up to January 2003.
+
+[50]    One of the reasons for requesting applicant to revert to a full-time position was that Petersen had been ill for substantial periods during 2002. Applicant responded on 14 January 2003 and offered to work one full day in a week with a possibility to be extended at a future date. She further made counterproposals to the effect that respondent consider employing a second half-day employee alternatively employing a full-time employee to fill in for Petersen who had been on protracted sick leave for the past three years and was to undergo further surgery.
+
+[51]    Schnetler rejected applicant's counterproposals per letter dated 15 January 2003. The reasons advanced can be summarised as follows: 
+[2006] JOL 16364 (LC) at 23
+(i) employing a second half-day staff member would not be viable because that person would have to be employed at a salary of two-thirds to that of a full-time employee which would make it two with the applicant, instead of paying for one full-day staff member;
+
+it would not be fair to overburden the staff with the work of the Compliance Department because they also had their own goals and objectives in their various Departments; and
+with regard to the prolonged absence of Petersen from work, he stated the following: 
+
+"We will have to assess the staffing situation in the event that Shane or any other staff member, should suffer an illness or be absent from work for prolonged periods for any reason. This is however, equally applicable to any member of the Compliance Department and will be addressed if/whenever such is required. We cannot employ an additional staff member based upon possibility that Shane might be absent from work in the future. I am unaware of any imminent surgery for Shane, but we cannot make decisions in this regard unless it is certain that he will be absent from work for a definite period of time. 
+
+This does, however, highlight one of the reasons that we require three full-time dedicated staff members, i.e. so that we are sufficiently staffed in the event that a staff member should be absent from work for whatever reason. As mentioned in our meeting, we would like to assess the progress, performance and workload of the Compliance Department when having three full-time staff and in future we will then be able to determine whether we would require a fourth member of staff or not."  
+[2006] JOL 16364 (LC) at 24
+The offer for the full day job was further extended to 21 January 2003.
+
+[52]    I wish to observe here that Petersen sent out an e-mail on 10 September 2002 indicating that he would be absent from work for some time, the period was not mentioned. But he indicated that quite a number of duties at the Compliance Department be outsourced to other sections of respondent. He again wrote an e-mail on 24 January 2003 to applicant where he indicated that he would "be away until further notice". He further indicated in this e-mail that work in the Compliance Department be referred to applicant before 1pm and after 1pm to Schnetler every day. This corroborates the fact that Petersen's regular absence from work did, to a great extent, affect the workload and performance of the Compliance Department.
+
+[53]    On 21 January 2003, applicant offered to work for three full days in a week with a possibility of extending the period at a future date, "after the progress, performance and workload of the Compliance Department has been assessed". On 24 January 2003 applicant retracted her proposal to work three full days per week, and reverted to her half-day position. The reason was that she was unduly pressured to change her conditions of service.
+
+[54]    Schnetler responded to applicant's letter on the same day, 24 January 2003, and reiterated the fact that the offer for a  
+[2006] JOL 16364 (LC) at 25
+full-time position, which he extended to 27 January 2003 remained unchanged. He further informed applicant that she would therefore be redeployed within the Standard Bank Group for a period of eight weeks starting from 27 January 2003 until 27 March 2003, thereafter her services would be terminated. Applicant rejected the offer on 27 January 2003. A meeting was held on 28 January 2003 with Bates, Schnetler and applicant wherein she asked one colleague, Ian Patter, to be present. In desperation, applicant offered to work one shift, either in the morning or afternoon shift. This offer was rejected. She offered to work for five full days on condition that she be allowed to leave at 4:15pm to avoid the heavy afternoon traffic and also to enable her to attend her physiotherapy sessions. She testified that she made Bates and Schnetler aware of the fact that Petersen was allowed to leave at 4:30pm instead of 5pm. Schnetler confirmed that applicant did make this proposal which he rejected because it was unacceptable. 
+
+[55]    On the same date, after the meeting of 28 January 2003 Schnetler wrote a letter to applicant where he indicated that respondent was commencing with a retrenchment process and further that it would embark on consultations with her, which would be aimed at attempting to reach a consensus on "appropriate measures (to be employed in order) to avoid retrenchment and mitigate the adverse effects of the retrenchment," timing of the retrenchment and severance pay for retrenchment (emphasis added). This was lip service on Schnetler's part as will become clearer hereunder.
+
+ 
+[2006] JOL 16364 (LC) at 26
+
+[56]    In his letter of 31 December 2002, Schnetler indicated that in his view, the Compliance Department required three full-time employees and possibly four, which would be determined whilst three full-time employees were up and running within the department. I have already alluded to the fact that the impression created was that the restructuring was to take place in the future. It is therefore surprising that Schnetler was not amenable to the suggestions and proposals which would most likely have addressed his concerns without having to make applicant work on a full-time basis, or for that matter dismiss her for operational requirements.
+
+[57]    Furthermore, it would seem it is common cause that Petersen's frequent absence from work contributed greatly to the workload and alleged negative performance of the Compliance Department. When applicant suggested that the position of Petersen be considered, Schnetler dismissed this fact and intimated that he did not know the extent of his (Petersen's) illness. 
+
+[58]    I doubt the ingenuity of Schnetler on this aspect, in that it is clear in his letter of 31 December 2002, that "Shane (Petersen) has been ill for substantial periods this year" (2002). Furthermore, in a letter dated 3 December 2002 to Bates, Schnetler stated that "Shane's health is a concern as he has been ill for a substantial time this year and we cannot foresee how things will be in the future". It can therefore not be probable, as he testified, that Petersen's prognosis  
+[2006] JOL 16364 (LC) at 27
+was good. In fact, it is common cause that Petersen was on sick leave for the whole year in 2003 and he subsequently passed away.
+
+[59]    Schnetler was not prepared to consider and explore the proposals made by the applicant. Applicant was given an option either to take up full-time employment or accept retrenchment. This issue is related to the ground raised under section 187(1)(c) of the LRA and dealt with hereunder. Respondent's attitude clearly shows that at that stage, even before applicant's counterproposals could be communicated to the respondent, a decision was taken to lay her off. It is common cause that applicant, after her dismissal, was not replaced by a full-time employee until 25 August 2003. When Petersen took ill in February 2003, two student temporary workers were hired despite the suggestion of utilising temporary staff by applicant which suggestion was rejected by respondent.
+
+[60]    I am of the view that the fact that Schnetler decided, as a matter of urgency, to request applicant to work on a full-day basis and also rejected her valid counterproposals, is indicative of one who wanted to get rid of applicant under the pretext of operational requirements. 
+
+[61]    I therefore find that the only probable and reasonable inference to be drawn from Schnetler's conduct is that after applicant had made the protected disclosure, which exposed the unlawful conduct of Talbot and other employees of  
+[2006] JOL 16364 (LC) at 28
+respondent, he was not happy about the manner in which the disclosure was reported. 
+
+[62]    Talbot's conduct was not adequately addressed even though he admitted to having committed the irregularities. Applicant's testimony, based on lack of documentary proof from respondent, is more probable and can be relied on for the purpose of allowing me to draw an inference that the irregular shares issued at Talbot's request were not reversed and further that no action was taken against him. Respondent was unable to rebut this piece of evidence by at least producing some documentary proof in rebuttal. I find it strange that Schnetler destroyed the documents which were relevant for the purpose of this action whilst the matter was still pending. The reasons advanced for rejecting applicant's counterproposals are not convincing. Schnetler did not apply his mind in rejecting applicant's counterproposals which, in my view, were persuasive. It is not surprising that respondent employed temporary workers as initially suggested by applicant. Applicant's working relationship with Schnetler had become strained, intolerable and had irretrievably broken down. There was no basis on which respondent could dismiss applicant other than to request her to work full time with the hope that she would reject the offer and consequently be dismissed. I will deal with this aspect later. 
+
+[63]    The only reasonable inference to be drawn is that applicant was dismissed because of the protected disclosure made. The decision to retrench was not genuine, it was a sham  
+[2006] JOL 16364 (LC) at 29
+(compare Kotze v Rebel Liquor Discount Group (Pty) Ltd (2000) 21 ILJ 129 (LAC) at 133). Applicant's dismissal was therefore automatically unfair, as contemplated in section 187(1)(h) of the LRA.
+
+On the application to strike out
+
+[64]    It is therefore appropriate at this stage, to deal with the preliminary point raised by the respondent pertaining to the applicant's ground for dismissal based on section 187(1)(h) of the LRA.
+
+[65]    At the commencement of this trial, counsel for respondent indicated that respondent did not wish to persist with the point in limine and further indicated that the issue would more properly be determined after the leading of evidence. He further indicated that the intention was to cast doubt on the credibility of the applicant.
+
+[66]    I am of the view that it was necessary for the applicant to lead evidence on the details of the irregular transactions involved in order to enable the court to appreciate the significance of the protected information disclosed, and which would enable this Court to determine the true reason for her dismissal. I have found applicant to be an honest and credible witness and accordingly dismiss the application to strike out. The costs will follow the result. 
+
+ 
+[2006] JOL 16364 (LC) at 30
+
+Section 187(1)(c) of the LRA 
+
+[67]    In order to fall within the ambit of section 187(1)(c) of the LRA, a dismissal must have as its purpose the compulsion of the employee concerned to accept a demand in respect of a matter of mutual interest between employer and employee. If the dismissal is not for that purpose, it cannot succeed as a ground in terms of section 187(1)(c) of the LRA. The applicant was required to agree to work on a full-time basis by working for a full day instead of half a day. This was a dispute of mutual interest between the applicant as employee and respondent as employer.
+
+[68]    It is trite that a dismissal as contemplated in section 187(1)(c) of the LRA, cannot be final. It is subject to withdrawal upon the employee accepting the employer's demand (see Fry's Metal (Pty) Ltd v NUMSA & others [2003] 2 BLLR 140 (LAC)).
+
+[69]    In the present case, Schnetler indicated that the Compliance Department needed to be more proactive and professional and that in order to cope with the workload, the applicant was to revert to a full-time position. Had the applicant agreed to the change of her conditions of employment, the dismissal would not have been proceeded with. But if she had not agreed, attempts would have been made to find alternative employment for her. Failing which, she would then have to be dismissed. The letter making the offer was served with notification in terms of section 189 of the LRA. 
+
+ 
+[2006] JOL 16364 (LC) at 31
+
+[70]    The letter dated 31 December 2002 was to the effect that the applicant should either agree to the change of conditions of service or face retrenchment if she could not be placed in alternative employment within the SCMB or the Standard Bank Group. 
+
+[71]    Schnetler intimated during cross-examination that when he wrote the letter of 31 December 2002, it was not finally decided that applicant would be retrenched; he was confident that applicant would accept the offer. When asked as to why he mentioned retrenchment in the letter, he stated that he was advised by the Human Resources section of respondent to write such a letter. He further stated that he did not know that the notification in terms of section 189 of the LRA was to be sent out when an employer contemplated retrenchment. I wish to pause here and remark that Schnetler is a qualified lawyer who would have been expected to familiarise himself with this provision of the LRA. In its pleadings, respondent stated that its intention was to avoid the termination of applicant's services by offering her a full-day position as compliance manager.
+
+[72]    This offer could not have been genuine in that applicant was offered a full-time position despite the fact that respondent was well aware of the fact that she had previously resigned from her job because of her back problem. She was re-employed by the respondent on 15 August 2000 on a half-day employment contract because respondent recognised  
+[2006] JOL 16364 (LC) at 32
+and acknowledged that applicant would not be in a position to cope with a full-day job.
+
+[73]    It can therefore not be probable that Schnetler, when he offered a full-day position to applicant, was confident that applicant would accept the offer. The contrary is actually true in that in the same letter offering applicant a full-day position, Schnetler gave her the purported notice of retrenchment in accordance with section 189 of the LRA.
+
+[74]    It is also difficult to establish as to when exactly respondent contemplated dismissing applicant for operational requirements. Bates testified that discussions on restructuring and the need for three full-time employees were initiated in October 2002. Schnetler contradicted her and stated that at that stage, there were no discussions around this issue until December 2002 when he wrote the letter on 3 December 2002 to Bates about requesting applicant to work on a full-day basis.
+
+[75]    The fact that the respondent was aware of the health condition of the applicant and that she would not be in a position to accept the offer of a full-day employment but nevertheless offered her that position, is indicative of the fact that respondent was of intent to dismiss or relieve applicant of her services if she did not accept the new terms of service proposed by Schnetler (compare CWIU & others v Algorax (Pty) Ltd [2003] 11 BLLR 1081 (LAC) 1081). This  
+[2006] JOL 16364 (LC) at 33
+therefore on its own renders the applicant's dismissal to be automatically unfair.
+
+On dismissal in section 187(1)(f) of the LRA 
+
+[76]    Section 187(1)(f) provides:
+
+"A dismissal is automatically unfair if the reason for dismissal is . . . that the employer unfairly discriminated against an employee, directly or indirectly, on any arbitrary ground, including, but not limited to race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, political opinion, culture, language, marital status or family responsibility."
+
+[77]    Applicant alleged that because of her medical condition which resulted in her not being able to work for a full day, she was dismissed by the respondent and was thus unfairly discriminated against.
+
+[78]    It is not the respondent's case that the applicant was dismissed for the above reasons. Respondent submitted, and in my view correctly, that no evidence was led to substantiate this allegation. To succeed in a claim based on automatically unfair dismissal based on this section, applicant must establish on a balance of probabilities that the dismissal was directly and causally connected to the allegations mentioned above, namely that she was unfairly discriminated against because of  
+[2006] JOL 16364 (LC) at 34
+her medical condition. It may well be that the true reason for the retrenchment of the applicant was related to her health condition but this will come out clear when I deal with the question whether the retrenchment was a sham or not.
+
+[79]    There is no direct evidence presented by the applicant establishing the above. Applicant's counsel submitted that an inference should be drawn from the facts presented that the reason for the dismissal of applicant by respondent was not for operational requirements but that the true reason was one or more of the factors alleged by the applicant already alluded to above. Applicant can therefore not succeed on this claim.
+
+Was there a fair reason for the dismissal?
+
+[80]    If the dismissal was not automatically unfair, it is important to establish whether there was a fair reason for the dismissal. Applicant submitted in the alternative that even if the dismissal were to be found to be not automatically unfair there was no fair reason for her dismissal as defined in section 188 of the LRA.
+
+[81]    Section 188(1)(ii) of the LRA provides:
+
+A dismissal that is not automatically unfair, is unfair if the employer fails to prove–
+the reason for dismissal is a fair reason–
+related to the employee's conduct or capacity; or 
+[2006] JOL 16364 (LC) at 35
+ (ii) based on the employer's operational requirements; and 
+that the dismissal was effected in accordance with a fair procedure."
+
+[82]    In Schnetler's letter to Bates dated 3 December 2002, he stated that the decision to request applicant "to work full-time was after weighing up the current workload and expectations of the Compliance Department against the present staff performance". A careful analysis of this letter leaves one with the impression that there was a need to improve performance and to focus on being more proactive in the Compliance Department. There was sufficient operational staff in the form of applicant and Petersen, and Schnetler as a legal officer would be beneficial to the Compliance Department with regard to training and compliance awareness. Of importance and which seemed to be of great concern, was the fact that Schnetler was often left alone in the Compliance Department during afternoons because of the fact that applicant was working half a day and Petersen was frequently absent from duty because of ill health. 
+
+[83]    Schnetler put the blame of not having assistance in the afternoons at the Compliance Department on applicant, whereas Petersen, who was employed on a full-day basis, was supposed to be on duty at that time. It was not fair to request applicant to work on a full-day basis when Petersen was the person who created the problems and inconvenience experienced by Schnetler.
+
+ 
+[2006] JOL 16364 (LC) at 36
+
+[84]    Applicant testified that the workload in the Compliance Department was reduced to a great extent and that save for Petersen's frequent absence from work, the staff as it was composed was able to cope with the workload. The reduction of duties in this department is confirmed by an e-mail from Petersen dated 11 December 2002 where he effected the operational changes with immediate effect.
+
+[85]    From Schnetler's letter of 31 December 2002, he required the Compliance Department staff to change its focus from their daily operational matters which vary from "client disputes, investigation into misdeals, investigating various irregularities, monitoring reports and performing entries on the BDA system etc", to being more proactive in that they needed to improve on their current performance and concentrate more on training and compliance awareness.
+
+[86]    Schnetler did not suggest that the applicant was incompetent to conduct training and compliance awareness. The contrary seems to be true because she was offered a full-day job in the same department. Schnetler did not explain or enlighten the court on how he would achieve the objectives and targets set out in the Balance Scorecard with the current performance levels of 2½ staff complement, save for stating that there has been no assistance from the Compliance Department in the afternoons. I have already alluded to the fact that applicant cannot be held liable for that. Respondent did not adequately address Petersen's health problem which  
+[2006] JOL 16364 (LC) at 37
+had a great impact on the performance of the Compliance Department.
+
+[87]    I am of the view that the respondent ought to have addressed Petersen's problem differently, or even as suggested by applicant, instead of dismissing applicant for operational requirements. I find that the applicant's dismissal was unwarranted. Consequently I find that her dismissal was without a fair reason and was therefore substantively unfair (compare CIWU & others v Algorax (Pty) Ltd, supra, paragraphs [70] and [71]).
+
+Were consultations in accordance with section 189 of the LRA?
+
+[88]    Applicant submitted that the retrenchment was procedurally unfair in that the respondent resolved to retrench her and had decided on the terms of the retrenchment before consulting with her.
+
+[89]    The tone of the letter of 31 December 2002 clearly stipulated that that letter served as notification in accordance with section 189 of the LRA. I have already rejected Schnetler's explanation in court as spurious with regard to the reason for issuing such notification.
+
+[90]    Counsel for the respondent has submitted, correctly in my view, that fair retrenchment does not entail a mechanical compliance with section 189 of the LRA on a checklist basis, but  
+[2006] JOL 16364 (LC) at 38
+provides guidelines for the equitable implementation of the process. He referred to Sikhosana & others v Sasol Synthetic Fuels (2000) 21 ILJ 649 (LC), [2000] 1 BLLR 101 (LAC) at 248.
+
+[91]    After Schnetler's letter of 31 December 2002 to applicant, consultations between applicant and Schnetler and Bates took place on 31 December 2002, 14 January 2003, 15 January 2003, 24 January 2003 and 28 January 2003. In all these consultations, respondent's proposal was that applicant should either revert to a full-time position or face dismissal for operational requirements.
+
+[92]    From the onset of the consultations, the respondent took the position that the only alternative appropriate measure to avoid dismissal was for applicant to work full time. This was an unfair and unreasonable demand in view of the applicant's health condition.
+
+[93]    The counterproposals of the applicant were rejected and most importantly that of considering the position of Petersen. Respondent did not adequately elaborate on the reasons why applicant and not Petersen was selected for retrenchment. I have already found Schnetler's reasons for not considering applicant's counterproposal unconvincing and without merit.
+
+[94]    I am of the view that respondent was not desirous of making a bona fide attempt to reach consensus with regard to the retrenchment process especially on the alternatives available  
+[2006] JOL 16364 (LC) at 39
+to it in order to avoid the dismissal (compare Johnson & Johnson (Pty) Ltd v Chemical Workers Industrial Union (1999) 20 ILJ 89 (LAC)). 
+
+In summary
+
+[95]    . . .
+
+The applicant made a protected disclosure as defined in section 187(1)(h) of the LRA.
+She reported the irregular insider share trading to Schnetler and the wider SCMB Compliance Structures, which conduct was viewed as insubordination by Schnetler. Talbot's conduct was not adequately addressed. The relations between Schnetler and applicant were strained as a result thereof.
+Schnetler decided to request applicant to take a full-day employment well knowing that it would be impossible for applicant to work for a full day because of her back problem. The only reasonable inference to be drawn is that the protected disclosure was the real and true reason for this decision. Her dismissal was consequently automatically unfair as stipulated in section 187(1)(h) of LRA. 
+Applicant was given a choice either to work on a full-day basis or face dismissal; she was in a way compelled to accept a demand by respondent in respect of a matter of mutual interest as contemplated in section 187(1)(c)  
+[2006] JOL 16364 (LC) at 40
+of the LRA. It is for the above-mentioned reasons that the applicant's dismissal was automatically unfair.
+Although there may have been a reason to restructure the Compliance Department by changing its focus, respondent's reason for retrenchment aimed at improving efficiency cannot fall within the ambit of operational requirements because the inefficiency of this Department could be resolved by applying other alternatives other than dismissing applicant.
+The consultations undertaken between the applicant and respondent, which were intended to be in accordance with section 189 of the LRA, were not meaningful or even aimed at avoiding applicant's dismissal in view of the fact that respondent was not amenable to any counterproposals suggested by applicant despite the fact that it did not have an immediate replacement for either applicant or Petersen. The reason for applicant's retrenchment was a sham.
+I accordingly find that the dismissal was automatically unfair as well as substantively and procedurally unfair in that there was not a fair reason for the dismissal.
+
+Relief sought compensation
+
+[96]    Applicant does not seek an order for reinstatement but rather asks for payment of compensation equivalent to 24,  
+[2006] JOL 16364 (LC) at 41
+alternatively 12 months' remuneration, and costs of suit.
+
+[97]    I have found that applicant's dismissal was automatically unfair and further that the respondent's reason for dismissal based on operational requirements was spurious and a sham. Respondent used applicant's health condition as ammunition in order to rid itself of an employee who proved herself to be diligent and committed in the execution of her duties.
+
+[98]    Applicant testified that she had decided to follow a career in compliance and had undertaken further studies in that regard. She was dismissed with effect from 24 April 2003. From 21 January 2003, during the redeployment period, until her dismissal, she reported on Mondays at respondent, with the hope of being offered alternative employment within the respondent's group. According to her, it was humiliating for her to be at her workplace whilst her post was being advertised. Her personal belongings were placed in a box and handed over to her by Schnetler. She was not given an opportunity to pack them herself.
+
+[99]    After her dismissal, she was without a job for two years and two months. She was only employed in a position which was not her career path by a Charity Organisation SOS Children's Village from 1 March 2005 at a lower salary. According to her, she was emotionally stressed and had complications with her back problem during January 2003. Her marriage took a strain and her social life and health were deteriorating to the  
+[2006] JOL 16364 (LC) at 42
+extent that she developed an asthmatic condition. It was difficult to find a job in the field of compliance.
+
+[100]    The fact that applicant is unable to fulfil her aspirations as a compliance officer and the fact that she was out of employment for a period of two years and two months, in my view, justifies a substantial amount of compensation in her favour.
+
+[101]    It was submitted on behalf of applicant that the fact that applicant was offered a full-time job which, if she had accepted, would have ensured that applicant suffered no patrimonial loss as a result of respondent's restructuring initiative, should be taken into account. Furthermore that even if the dismissal was unfair, no compensation ought to be awarded, alternatively that compensation of no more than two months be awarded to applicant.
+
+[102]    I have already made a finding that the offer for a full-time job was not meant to benefit the applicant favourably but rather to force her out of her job. Applicant was paid a retrenchment package at the time of her dismissal. I am of the view that payment of compensation equivalent to 24 months' remuneration would be appropriate in the circumstances.
+
+ 
+[2006] JOL 16364 (LC) at 43
+
+Costs
+
+[103]    The applicant was forced to refer this matter to the CCMA and subsequently to this Court, which costs could have been avoided had respondent acted reasonably and fairly towards applicant. I am of the view that costs should follow the result.
+
+[104]    I consequently make the following order:
+
+The applicant's dismissal constituted an automatically unfair dismissal and was without a fair reason and was procedurally unfair.
+The respondent is ordered to pay applicant compensation equal to 24 months' remuneration.
+Respondent may deduct the amount of severance pay already paid to the applicant at the time of her dismissal.
+The respondent is ordered to pay the costs of this action, as well as those of the application to strike out.
+Appearance:
+Malcolm Lyon & Brivik (At); Leppan Beach Attorneys (R)
+
+
+End of Document

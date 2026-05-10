@@ -1,0 +1,64 @@
+
+
+
+
+Removal from the board results in dismissal
+IR - Editorial
+
+Removal from the board results in dismissal
+
+Employment relationships usually end in one of two ways. The employee can terminate the contract: this is usually done by the employee giving a month’s notice (if the notice period is a month) of termination. The employment contract then comes to an end at the end of that notice period. This is generally unproblematic (except in so far as the terrible mess the Courts have made of resignation, saying that a resignation is only effective when it is accepted by the employer – which is, of course, perfect nonsense). For the most part, resignation on the part of the employee goes through without a hitch. 
+
+When the employer terminates the employment contract, it is called dismissal. Again, many dismissals go through without a hitch – we only hear of the unfair dismissals here on IR Network. There is another way of describing a dismissal (this is the wording once in favour at the International Labour Organisation): termination of the employment contract at the instance of the employer. 
+
+But there is a third way in which an employment contract can be terminated: by operation of law. This takes place where either the law that provided for the employment changes or where the employee’s legal status (in terms of one piece of legislation) changes and he or she no longer qualifies for that specific post. 
+
+Was there a dismissal?
+
+In SA Post Office Ltd v Mampeule  (2009) 18 LC 11.3.1 the employer (the Post Office) approached the Court for an order stating that the employee was not dismissed – his employment terminated as a direct result of his being removed from the employer’s board of directors. The employer’s argument was based on a provision in the employee’s contract of employment together with the employer’s Articles of Association, to the effect that if the employee is removed from the board, his employment automatically and simultaneously ends his employment contract. 
+
+The employee had been appointed as the Post Office’s Chief Executive Officer for a 5 year term, beginning in 2005. The contract of employment itself provided that the contract would end automatically at the end of the 5 year period, incapacity, misconduct, or the employer’s operational requirements. Upon his employment the employee was also appointed as an executive director on the board of directors – article 8.3 of the Post Office’s Articles of Association made it an “inherent requirement” that the executive also hold the office of a director. 
+
+In 2006 the Minister of Communications suspended the employee (in his capacity as Chief Executive Officer) and ordered that a forensic audit of his conduct be undertaking. The reason for this was a dispute in a multi-million Rand case for alleged breach of contract and unfair dismissal. The Post Office said that the Minister had lost confidence in the employee that that she believed that his failure to provide the board of directors with relevant, appropriate and accurate information resulted in a breakdown of trust between the parties. 
+
+Naturally, the employee claimed that there was a totally different trigger: he claims that it was related to certain protected disclosures he had made to the Minister, to the SA Police and to the Director-General of the Department of Communications about procurement irregularities involving some former employees. The employer denied that it had received such disclosures and it disputed that, even if the disclosures had been made, that they had been made in good faith and that they constituted protected disclosures. 
+
+In May 2007 the employee was given a second written notice that there would be a meeting at which a resolution would be tabled to remove him as director. The first meeting had been postponed. The notice was given in terms of the Companies Act of 1973 – it was not a notice of termination of employment as we understand that term. At the meeting the Minister of Communications then proceeded to table the resolution that the employee be removed from the board and that the chairperson be authorised to give effect to the resolution. Given the fact that the Minister also represented the majority shareholder (the State), she then promptly approved the resolution. The employee was duly informed, in writing, that as a result of his removal from the board, his employment “automatically and simultaneously” came to an end. 
+
+The present case was just one of a number of cases launched by the employee against his former employer. The main thrust of his case was breach of contract and unfair dismissal. The only issue the Labour Court had to decide in this case was whether the termination of the employee’s employment under the circumstances constituted a dismissal as defined in section 186(1)(a) of the Labour Relations Act. 
+
+Did the employer terminate the contract?
+
+For the employer it was argued that the termination of the employee’s contract of employment was not caused by an act of the employer – the employer did not end the contract. Instead, his contract of employment came to an automatic and simultaneous end as a result of his removal from the Post Office’s board of directors. It was this removal from the board that brought about the termination of his contract – by operation of a provision in his employment contract. In a sense, the argument was that the contract terminated itself; not the employer. There was no deliberate act of severing the employment relationship on the part of the employer and therefore there was no dismissal. 
+
+Seen in a certain light, said the Court, the argument could have some appeal. But it was not persuasive. The Court then proceeded to look at the employee’s employment contract is some detail. The employment contract did, however, provide that the termination of employment was regulated by article 8 of the Post Office’s Articles of Association. 
+
+The provisions of the articles of association in fact introduced a fifth ground of termination of employment – if the employee is removed from the board of directors by “the member” (the State, represented by the Minister of Communications) or if he resigns from the board at the request of the minister. 
+
+But the employer persisted with its argument that the automatic and simultaneous termination of the employee’s contract of employment was a consequence (in terms of the employment contract itself) of the removal of the employee from the board by the Minister, and that this did not constitute a dismissal for the purposes of the Labour Relations Act. The direct and proximate causes of the termination of the employment relationship are not so much the termination of the employment contract by the employer, or even the removal of the employee as a director, but it is terminated by the operation of the employment contract itself. In essence, then, the argument is that the employment contract terminates itself – it is not terminated by the employer. 
+
+The Court did not agree:
+
+ “[28] I do not agree, In my view any act by the employer which results, directly or indirectly, in the termination of the employee’s contract of employment constitutes a dismissal within the meaning of section 186(1)(a). That is why the LRA recognises the concept of constructive dismissal (section 186(1)(e) of the LRA). I do not want to be understood as saying what happened here constitutes constructive dismissal. I am not saying that. The point I make is that a dismissal does not come about only when the employer tells the employee ‘you’re fired’. Thus, when the Minister removed the respondent from the applicant’s board of directors, thereby triggering an automatic and simultaneous termination of his contract of employment with the applicant, she effectively dismissed him. With that there can be no quarrel.”
+
+The employer’s elaborate and clever argument was made, said the Court, in order to avoid a claim for damages by the employee – at least in part. But it was not necessary for the Court to decide, in this case, whether there had been a breach of contract – that was an issue that would be decided in due course in the main case.
+
+The Labour Court concluded that the employee had been dismissed as envisaged in section 186(1)(a) of the LRA. It was argued on behalf of the employee, that the contract of employment in question did not permit automatic termination. Again, the Court disagreed saying that it was clear that the contract itself provided for automatic termination if the employee is removed from director. There was no question that the contract itself permitted automatic termination (as it was alleged by the employer). But this did not change the fact that such a termination was a dismissal. And it did not answer the question whether such an automatic dismissal was permissible in law. On this latter point, the Labour Court said the following:
+
+ “[33] The respondent’s counsel say that if it were permissible, then the entire provisions of chapter 8 of the LRA, and the constitutional right to fair labour practices, could be easily circumvented. This could be achieved, so the argument goes, by including a clause in every employee’s contract that his employment will terminate automatically on the occurrence of some or other event, for example, a prescribed act of misconduct or incapacity. There is much to be said for this submission. Such clauses are eminently undesirable in the labour relations context. The progressive disciplinary measures for which schedule 8 to the LRA makes provision would be rendered otiose and the labour relations clock in this country would have been turned back some three decades.”
+
+Causation
+
+A number of detailed and technical arguments were also presented to the Court. It was argued that an employee who alleges that he or she has been dismissed (for the purposes of section 186(1)(a) of the LRA) must show that there was some overt act by the employer that is the “sole or proximate” cause of the termination of employment. The argument was presented that the sole or proximate cause of the employee’s termination of employment were the terms of the employment contract and the fact that the employee was removed from the board of directors. 
+
+But it was not possible, said the Court, to look at the terms of the employment contract in isolation from the employer’s act of removing the employee from the board. The termination of the employee’s contract was “regulated by” article 8 of the employer’s articles of association. And because membership of the board was seen as an “inherent requirement” of the employee’s employment as chief executive officer, the employee’s position on the board is inextricably linked to his employment. 
+
+The fact was that the employer (in the form and shape of the Minister of Communications representing the sole shareholder, the State) terminated the employee’s contract of employment by severing the umbilical cord that ties the employee’s employment contract to his membership of the board of directors. The Court cuts through all the arguments regarding causation and comes to the common-sense conclusion that the effective cause of termination of the employee’s contract was the Minister’s act of removing him from the board. The automatic termination clause is impermissible, said the Court, and it cannot be used to stave off the clear and unambiguous effect of what the Minister did. The employer’s point in limine was dismissed and the employer was ordered to pay the employee’s costs.
+
+Carl Mischke
+
+October 2009
+
+
+
+End of Document

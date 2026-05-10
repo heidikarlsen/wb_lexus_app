@@ -1,0 +1,247 @@
+
+
+
+
+Sekgobela v State Information Technology Agency (Pty) Ltd [2009] JOL 23676 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JS 595 / 05
+Hearing Date(s): 04–05 / 02 / 2008
+Judgment Date(s): 26 / 02 / 2008
+Bench: AC Basson J
+
+
+Keywords
+
+
+Labour law — Protected disclosure — Automatically unfair dismissal 
+
+Mini Summary
+
+
+The applicant approached the court for relief, alleging that he had been automatically unfairly dismissed for having made a protected disclosure in terms of the Protected Disclosures Act 26 of 2000.
+
+Held that in response to the applicant's allegation, the respondent led no evidence. The court pointed out that an adverse inference may be drawn where a party fails to testify or place evidence before a court where the applicant in the matter has made out a prima facie case for the relief sought. The respondent's failure to tender any evidence to dispute the extensive and detailed evidence led by the applicant and the documentation placed before the court, made it extremely difficult for the court to exercise a discretion in favour of the respondent.
+
+The court considered whether the disclosure made by the applicant was the reason for his dismissal. Finding that it was, the court deemed the dismissal to have been automatically unfair. The respondent was ordered to pay the applicant compensation equal to 24 months' salary.
+
+.Page 1 of [2009] JOL 23676 (LC)
+
+
+
+
+
+[1]    The applicant, Mr Sekgobela, was employed as a "Programme Manager: Projects" by the respondent in September 2002. The respondent is the State Information Technology Agency (Pty) Ltd, a  
+[2009] JOL 23676 (LC) at 2
+company registered under the Companies Act 61 of 1973 (also referred to as SITA in legislation) but established in terms of the State Information Technology Act 88 of 1998 (as amended). The applicant alleges that he was subjected to an occupational detriment in that he was automatically unfairly dismissed for having made a protected disclosure in terms of the Protected Disclosures Act 26 of 2000 ("the PDA").
+
+[2]    Before turning to the merits of the application, it is necessary to give a brief overview of the legal context and framework within which the respondent operates as well as the legislation and regulations which have a bearing on the powers, responsibilities and duties of the respondent. This is necessary in light of the submission advanced by counsel on behalf of the respondent in his closing argument that no "protected disclosure" was made by the applicant as contemplated by section 1(b) of the PDA. More specifically it was argued on behalf of the respondent that no disclosure had been made by the applicant as defined in terms of the PDA because, so it argued, there was no legal obligation to which the respondent was subjected to in respect of the procurement processes which formed the basis of the complaint lodged by the applicant to the Public Protector. It was further submitted on behalf of the respondent that the tender and quotation process, as had been relied upon by the applicant when he reported  
+[2009] JOL 23676 (LC) at 3
+what he perceived to be irregularities to the Public Protector, were merely internal (optional) policies deviation from which did not constitute an impropriety. Whether or not such a legal obligation existed upon the respondent, will now be considered.
+
+Protected Disclosures Act 26 of 2000
+
+[3]    Section 1(a) and (b) of the PDA defines a "disclosure" as follows:
+
+Definitions
+
+In this Act, unless the context otherwise indicates –
+
+'disclosure' means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+that a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed is failing or is likely to fail to comply with any legal obligation to which that person is subject" (own emphasis). 
+[2009] JOL 23676 (LC) at 4
+
+An "impropriety" means "any conduct which falls within any of the categories referred to in paragraphs (1)–(g) of the definition of 'disclosure'". An "occupational detriment" means "(b) being dismissed, suspended, demoted, harassed or intimidated".
+
+State Information Technology Act 88 of 1998 (as amended) (the "SITA")
+
+[4]    The respondent is established in terms of the State Information Technology Act 88 of 1998 (as amended) (the "SITA") and incorporated as a private company in terms of the Companies Act. The object of the respondent is to improve service delivery to the public through the provision of information technology, information systems and related services in a maintained information system security environment to departments and public bodies (section 6 of the SITA). A department includes national departments, provincial administration and provincial departments. A department that wishes to acquire a service from the respondent must either acquire the service from the respondent in accordance with business and service level agreements concluded in terms of this Act or must procure that service through the respondent in terms of this Act should the respondent indicate that it is unable to provide the service itself (section 4 of the SITA). A public body may similarly also acquire  
+[2009] JOL 23676 (LC) at 5
+services from the respondent or procure any information technology goods or services through the Agency (section 7 of the SITA).
+
+[5]    If the respondent decides not to provide products or services, a department or public body must procure through the respondent those products or services from a preferred authenticated service provider referred to in section 28(2) of the Electronic Communications & Transactions Act 25 of 2002.
+
+[6]    In performing its duties and powers, the respondent must comply with, inter alia, the Preferential Procurement Policy Framework Act 5 of 2000 (section 7(8)) ("the PPPFA"). Section 8 of the SITA specifically states that "in the performance of its duties and exercise of its powers, the Agency must "(c) comply with – (iv) the Preferential Procurement Policy Framework Act 5 of 2000". This Act provides the framework for the implementation of procurement policies as contemplated by section 217(2) of the Constitution. In terms of the PPPFA, the Minister may make regulations regarding any matter in order to achieve the objects of the PPPFA. A "preferential procurement policy" means a procurement policy as contemplated in section 217(2) of the Constitution.
+
+ 
+[2009] JOL 23676 (LC) at 6
+
+[7]    As already pointed out it was central to the respondent's argument that there was no legal obligation on the respondent to follow a specific procurement policy or procedure and that the policies and procedures referred to by the applicant in his evidence were purely internal processes which may be departed from at the discretion of the respondent. In others words, there was nothing to complain about simply because the respondent was under no legal duty to comply with procurement policies and procedures. As this point is important in the context of this case, I have requested counsel on behalf of the parties to prepare and submit written heads of argument addressing this point. Counsel for the applicant duly and timeously complied with this request and filed comprehensive and helpful heads of argument accompanied by extensive annexures. Counsel for the respondent simply ignored the request and notwithstanding various phone calls from the office of my associate to the respondent's attorneys to remind them that the respondent's heads of argument, which were already long overdue, had to be filed immediately, continued to ignore the request. Any detriment suffered by the respondents as a result of the failure of their attorneys and counsel to file heads of argument and to assist the court in coming to a conclusion in respect of the question that had to be addressed in the heads of argument, should be laid squarely at the door of its attorneys and counsel.
+
+ 
+[2009] JOL 23676 (LC) at 7
+
+[8]    In his evidence the applicant testified that the respondent is a public entity and as such it is bound by the provisions of the Public Finance Management Act 1 of 1999 (hereinafter referred to as the "PFMA") and the Treasure Regulations and procurement processes. The applicant explained in great detail the different processes to be followed in respect of goods or services to be acquired by the respondent ("procurement process") and explained that if the amount was less than R100 000 the respondent could obtain quotations and if the amount exceeded R100 000 the tender process had to be followed. (I will return to this point hereunder where the disclosure to the Public Protector is discussed.) More in particular, the applicant referred to two documents in the bundles and it was his testimony that these two pages were an extract of the SITA Procurement Policy and Procedure's documents ("SPPP"). The whole of the document was not before the court and was attached to the heads of argument on behalf of the applicant and submitted at the court's request. It should be pointed out that the applicant's evidence in this respect remains unchallenged. It was also never put to him that the procurement process he testified had to be followed was merely an internal policy to be followed at the respondent's whim. Furthermore, the respondent also adduced no evidence to rebut the applicant's evidence in this regard. In respect of the procurement ceiling of R100 000, the court was referred to a document issued by ITAC in terms of which it  
+[2009] JOL 23676 (LC) at 8
+was stated that the "R100 000.00 limit as per the SPPP in alignment with the PPPFA" was raised to R1 million. The document further states that "[a]ny procurement above R1million must follow the ITAC process". The present complaint still fell under the old provisions which capped the amount at R100 000. In any event it would have made no difference because the evidence was that the respondent did not follow the procedures in respect of a tender amounting to more than R9 million.
+
+[9]    Turning back to the applicable legislation. In terms of sections 2 and 3(1) of the Public Finance Management Act 1 of 1999 ("PFMA") it is clear that the object of this Act is to "secure transparency, accountability and sound management of revenue, expenditure, assets and abilities of the institutions to which this Act applies". Section 3 lists the entities and institutions to which this Act applies (and refers, inter alia, to the public entities listed in Schedule 2 or 3 of the PFMA). Schedule 3 of the PFMA indicates "Other Public Entities" and Part A thereof lists the "National Public Entities" and item 43 of Part A expressly lists the "State Information Technology Agency" (the respondent in this matter). The PFMA and the Treasury Regulations issued in terms thereof are thus applicable to the respondent.
+
+ 
+[2009] JOL 23676 (LC) at 9
+
+[10]    Section 51 of the PFMA deals with the general responsibilities of accounting authorities and the relevant subsections read as follows:
+
+ "51(1) An accounting authority for a public entity
+
+must ensure that the public entity has and maintains
+
+. . .
+
+an appropriate procurement and provisioning system which is fair, equitable, transparent, competitive and cost-effective;
+must take effective and appropriate steps to
+. . .
+prevent irregular expenditure, fruitless and wasteful expenditure, losses resulting from criminal conduct, and expenditure not complying with the operational policies of the public entity."
+
+[11]    A proper reading of section 51 clearly indicates a duty on the respondent to have a procurement and provisioning system that complies with the provisions of the PFMA. Furthermore, it is clear that the respondent is required to prevent expenditure not complying with its operational policies. The PFMA thus imposes a legal duty or obligation upon the respondent to have and maintain a procurement and provisioning system and also to prevent expenditure not  
+[2009] JOL 23676 (LC) at 10
+complying with an operational policy which in the case of the respondent would, inter alia, be the SITA Procurement Policy and procedures. In terms of Chapter 9, section 76(4)(c) of the PFMA the National Treasury may make regulations or issue instructions applicable to all institutions to which the PFMA applies concerning the determination of a framework for an appropriate procurement and provisioning system which is "fair, equitable, transparent, competitive and cost effective". It was also the applicant's evidence that the respondent is subject to the Treasury Regulations. The Treasury Regulations applicable at the time of the applicant's disclosure had been published in Government Gazette 7372, Volume 443, dated 25 May 2002. The SPPP also specifically refers to the SITA (the State Information Technology Act 88 of 1998) in terms of which the respondent was established.
+
+The SITA Procurement Policy and Procedures ("SPPP")
+
+[12]    Counsel on behalf of the applicant attached the entire SITA Procurement Policy and Procedures ("SPPP") to its supplementary heads of argument. It is a comprehensive document and comprise of 185 pages. "SITA" is defined as the State Information Technology Agency (Pty) Ltd – which is the respondent in this matter. There exists therefore no doubt that the respondent in this matter had to  
+[2009] JOL 23676 (LC) at 11
+perform its procurement functions in terms of this policy. The argument submitted by counsel on behalf of the respondent that the respondent did not have to adhere to any procurement policies was thus patently incorrect. The introduction to the SPPP states that the purpose of the SPPP document is to establish uniform policies and procedures to guide ICT acquisitions by Departments (through the respondent) and the executive divisions within the respondent. This is in accordance with the respondent's obligations in terms of the PFMA and Treasury Regulations. The SPPP defines and is the procurement system of the respondent as required by section 51(a)(iii) of the PFMA. In the introduction it is further stated that certain functions had been transferred to the respondent and that after 1 April 2002 National Treasury would retain the responsibility for monitoring the respondent's compliance with government procurement guidelines. In the introduction it is further clearly stated that ITAC procurement services may be utilised.
+
+[13]    Specific reference is made in the SPPP to the PFMA and tender board procedures. On pages 22–31 of the SPPP (on which evidence was adduced by the applicant), the procurement process is explained. It explains, inter alia, that if procurement is required, quotations may be obtained if the goods or services to be procured has a value below R100 000 and procurement of a value above R100 00 requires a tender  
+[2009] JOL 23676 (LC) at 12
+process. It is further stated that this threshold is determined by National Treasury. See clause 8.4.1 of the SPPP (page 24 thereof) where the R100 000 threshold is expressly and specifically prescribed.
+
+[14]    It is thus clear from the aforegoing that the respondent, being a public entity, is bound by the provisions of the PFMA and that it had a legal duty to comply with the PFMA, the Treasury Regulations and procurement processes and policies. The SPPP document is a policy compiled within the legal framework of the Acts and Regulations to which reference was made in the aforegoing paragraphs. Although the SPPP is a policy document, it is clear that this document was compiled within a specific legal framework and the Acts and Regulations that constituted the framework. As such the respondent was bound to comply with the legal duties and obligations. It cannot thus, in my view, in light of the aforegoing be concluded that this policy was merely an internal policy that could be deviated from since it was clearly drafted as part of the respondent's responsibilities as outlined in the PFMA. The SPPP document is thus clearly something other than an optional guideline. In the absence of any contrary submissions on behalf of the respondent in respect of this point, I am thus satisfied that the applicant has succeeded in persuading this Court  
+[2009] JOL 23676 (LC) at 13
+that the respondent had to execute procurement procedures in terms of this policy.
+
+[15]    In conclusion: The applicant made a disclosure which disclosure was a protected one because of the failure of the respondent's employees to comply with a legal obligation to which they were subject. I will return to the nature of the disclosure made to the Public Protector hereinbelow. Suffice to point out that it is clear from the disclosure that the applicant had reason to believe that the prescribed tender procedures in respect of the CALMIS Implementation Project1 was not followed: the total amount of the service amounted to more than R9 million. However, no tender process as prescribed was followed. The disclosure was furthermore made to an entity identified in section 8 of the PDA which includes the Public Protector (section 8(1)(a) of the PDA). The disclosure was furthermore made in good faith: The applicant specifically testified that he made the disclosure in good faith. It was not put to the applicant that he had an ulterior motive nor was any evidence tendered on behalf of the respondent to gainsay the applicant's evidence in this regard. It is therefore concluded that the applicant had made a disclosure of an impropriety (as defined in the PDA). He testified he made the disclosure about improprieties which he believed were substantially true. He also did not make the  
+[2009] JOL 23676 (LC) at 14
+disclosure for purposes of personal gain. Whether or not he was dismissed as a result of this disclosure is a separate question and will be considered hereunder. Before turning to this evidence, it is necessary to give a brief overview of the contents of the disclosure made to the Public Protector.
+
+Applicant's evidence
+
+[16]    On 17 December 2003 the applicant wrote a letter to the Chief Executive Officer, a certain Mr Msimang of the respondent. In this letter two grievances were raised by the applicant. The first pertained to his performance review of 23 October 2003 and the second pertained to the three issues that the applicant subsequently submitted to the Public Protector in respect of certain perceived irregularities in respect of the CALMIS Implementation Project; the OSIS-project and Tender 0199. I will return to a more detailed discussion of these issues hereinbelow. Suffice to point out at this stage that the applicant then had a meeting with the CEO on 18 December 2003 about these issues or grievances raised in this letter. At this meeting an agreement was reached in terms of which the grievance about his performance report will be dealt with by his supervisor and his grievance about certain perceived irregularities will be dealt with by the CEO.
+
+ 
+[2009] JOL 23676 (LC) at 15
+
+[17]    The applicant testified that because he was of the view that the CEO did not attend to the irregularities (identified in the letter), he then decided to approach the Public Protector.
+
+[18]    On 9 February 2004 the applicant approached the Public Protector and submitted a letter and a bundle of documents (hereafter referred to as the "Public Protector Bundle"). The Public Protector Bundle were before this Court and comprises of a two-page covering letter which identifies three aspects (of improprieties) which the applicant was of the view deserved to be investigated by the Public Protector. The further documents comprise of approximately 75 pages and relate to source documents pertaining to each of the three aspects referred to in the covering letter headed "Matters of concern at State Information Technology Agency". Although the applicant gave extensive evidence in respect of all three these issues, I will for purposes of this judgment only give a brief summary of each. It should also be pointed out that the applicant was not cross-examined on these issues apart from a few questions querying exactly what the protected disclosure actually was that the applicant sought to make to the Public Protector.
+
+ 
+[2009] JOL 23676 (LC) at 16
+
+First issue: "Motivation impropriety approved for CALMIS Implementation Project"
+
+[19]    In a nutshell the crux of the applicant's complaint was that normal procurement processes should have been followed in terms of the respondent's Procurement Policy and Procedures but it was not.
+
+[20]    A motivation was submitted by the applicant's project team to buy hardware and software to be utilised by the Department of Defence ("DoD"). A motivation was prepared for the acquisition of the hardware (referred to as the CALMIS Implementation Project) setting out all the technical specifications. The request was made by the project manager (a one Swanepoel) and dated 7 October 2003. The DoD business relationship manager also recommended the project and attached his signature to the recommendation on 7 October 2004. The applicant (the programme manager project) approved the project on 9 October 2003 and the General Manager Finance Sita Defence attached his signature to the document on 23 October 2003. A certain Ms Fouche finally approved the motivation on behalf of a certain Mojapelo (the chief executive: SITA Defence on 24 October 2003. According to the applicant it was significant that a request for a quotation (in respect of the CALMIS Project) was already put out on 16 October 2003, which was days before the motivation in respect of this project was even finally approved. The applicant also pointed out that quotations, according to this request for quotations, had to reach the respondent no later than 3pm on 20 October 2003, which is also about four  
+[2009] JOL 23676 (LC) at 17
+days before the motivation was even approved. The applicant attached two responses to this request for a quotation to his complaint submitted to the Public Protector. The first is by a company with the name of Temoso Technologies (Pty) Ltd) and dated 16 October 2003. The total quote amounted to R9 771 428,99. A company with the name of Ariviakom (Pty) Ltd also submitted a quotation on 20 October 2003 and quoted R3 441 484,85. Both these quotations were thus received four days before the motivation for the services was even approved by the Chief Executive: SITA Defence. The applicant's evidence that a request for quotation could not be issued before final approval of the motivation, was not disputed by the respondent.
+
+[21]    The applicant also explained in great detail the process that had to be followed where a procurement will exceed the limit of R100 000. He explained that a fairly extensive tender process is required whenever a procurement will exceed R100 000. A motivation is prepared and thereafter submitted to ITAC (the International Trade Administration Commissioner of South Africa), which is a division within SITA. ITAC is established in terms of the International Trade Administration Act 71 of 2002. ITAC will then prepare the tender and publish it in newspapers. Once the tender responses or bids have been received, two committees would be formed – the Suppliers Selection Board ("the SSB") and the Technical Evaluation Committee ("the TEC").
+
+ 
+[2009] JOL 23676 (LC) at 18
+
+Once these two committees have evaluated and investigated aspects such as technical compliance and related business issues, a recommendation would be made to the Suppliers Selection Authority ("the SSA"). The SSA would then have the final say.
+
+[22]    It was not disputed by the respondent that a tender process was not followed nor was it disputed that the estimated procurement price for the services to be rendered to the Department of Defence was more than R9 million. It was also not disputed that, instead of following a tender process a so-called quotation process, which was usually only used where the estimated procurement price was less than R100 000.00, was followed. A document entitled "Request for Quotation" and dated 16 October 2003 confirms that a quotation process as opposed to a tender process was followed notwithstanding the fact that it was, according to the applicant, accepted that the procurement price would be more than R9 million. The applicant's evidence that an open tender process was not followed was also not disputed by the respondent.
+
+[23]    The procurement process or policy for information technology ("IT") in the public sector confirms the process as set out above: It is furthermore specifically stated that ITAC must be involved in the  
+[2009] JOL 23676 (LC) at 19
+procurement process where the expected value of the contract exceeds R100 000.00. It is only where the expected valued is less than this amount that procurement will take place via quotes.
+
+Second issue: "OSIS project issue"
+
+[24]    The second complaint placed before the Public Protector concerned the so-called OSIS project. OSIS was an operation support information system that was used by the South African Defence Force to manage aircraft and related issues such as maintenance. In this particular instance the proper tender process was followed and a tender – hereinafter referred to as "Tender 176" – was published. A decision was taken to outsource OSIS and to terminate the employment of the contractors. A motivation was prepared and approved. The effect of this was that the contractors had to leave the respondent by the end of September 2003. Tender 176 was also placed on hold because the client experienced financial constraints. Notwithstanding this recommendation, the applicant later established that these contractors were immediately re-employed and that they were still on one of his costs centres despite the fact that there was no money to finance this service. The applicant was not able to obtain an explanation for this state of affairs.
+
+ 
+[2009] JOL 23676 (LC) at 20
+
+Third issue: "Tender 0199 – Procurement of NETAPP services"
+
+[25]    In respect of this tender, it was the applicant's case that the normal tender process was followed and awarded to a certain supplier. Once the tender was awarded, the applicant's division had to implement the solution as was awarded by ITAC. It became apparent that the pricing was incomplete and that the entire solution could not be delivered. The applicant made enquiries and it was clear that one item was missing.
+
+Disciplinary action against the applicant
+
+[26]    On 27 August 2004 the applicant was subjected to a disciplinary enquiry. He received a warning which was subsequently overturned on appeal. On 1 October 2004 the respondent removed the applicant's job responsibilities. On 9 November 2004 the applicant lodged a grievance to complain about the fact that his job responsibilities were taken away. In this regard the applicant testified that he was effectively unable to do his job as a result of the actions of the respondent. Only on 19 January 2005 the applicant received a communication clarifying his role. He also referred an unfair labour practice dispute to the CCMA in respect of his grievance. When he attended the CCMA for the arbitration, he discovered that he was dismissed.
+
+ 
+[2009] JOL 23676 (LC) at 21
+
+[27]    On 26 January 2005 the applicant was suspended and charged with a host of charges. The applicant was handed a "Notice to attend an incompatibility hearing" dated 24 January 2005. The applicant was also suspended. The charges were the following:
+
+The basis of the company's view and belief that you are incompatible with it and its management, is based, inter alia, on the following conduct on your part:
+you have refused to co-operate with your line manager, Ms Heila Fouche, with regards to your absence from work due to alleged illness and/or personal family matters and refusal to seek her prior permission or submit leave forms timeously thereafter;
+you have refused to respond to valid requests from ITAC and related instructions from your line manager, Ms Heila Fouche, with regards to tenders 176 and 184;
+you have refused and/or failed to attend investigation/ disciplinary hearings after being given appropriate notice therefor, resulting in management time being wasted; 
+[2009] JOL 23676 (LC) at 22
+ 2.4 you have repeatedly failed to attend Divcom meetings when you were required to, without a proper or acceptable explanation;
+you referred a complaint to the public Protector arising out of a grievance that you had lodged, whilst the matter was still being dealt with internally;
+you laid criminal complaints over alleged corruption by Ms Fouche, Ms Marieta van Wyk and Mr Dirk de Waal, all employees of SITA, without first having raised or discussed their alleged criminal conduct with senior management and without having been authorized to lay such complaint on behalf of the company;
+in the process of laying criminal complaints with the SAPS, you allegedly removed or copied official SITA documents and/or part thereof, and provided them to the SAPS without prior permission from SITA management, which has created a risk that classified or restricted information has been disclosed without the consent of the clients to whom the documents relate. 
+[2009] JOL 23676 (LC) at 23
+The Incidents recorded herein are but examples of conduct on your part that is indicative of your incompatibility, and is by no means exhaustive" (my emphasis).
+
+[28]    The applicant attended the hearing on the scheduled date (8 February 2005). He testified that he and his representative had informed the Chairperson that the process was not about "incompatibility" and that the whole process was designed to orchestrate his dismissal because he had made a disclosure to the Public Protector. According to him, the Chairperson effectively told him to leave. The applicant was not notified of any continuation of the hearing at a later stage. According to the notice of summary dismissal, the hearing had continued on 6 April 2005 in the absence of the applicant. The applicant denied that he ever received any notification of the continuation of the hearing. On 4 May 2005 the applicant received a letter informing him of his dismissal on all the charges.
+
+Applicant's case
+
+[29]    It was the applicant's case that he was automatically unfairly dismissed in terms of section 187(1)(h) of the LRA in that his dismissal was an occupational detriment (in contravention of the PDA). It was  
+[2009] JOL 23676 (LC) at 24
+his case that he was dismissed for having made a protected disclosure as defined in the PDA and not for misconduct.
+
+[30]    The respondent led no evidence. No explanation was tendered for this failure. It is trite that an adverse inference may be drawn where a party fails to testify or place evidence before a court where the applicant in the matter has made out a prima facie case for the relief sought. I will return to this point where I deal with the question whether or not the applicant has succeeded in persuading this Court that the true reason for his dismissal was the fact that he had made a protected disclosure. Where allegations of impropriety have been levelled against a respondent that operates in the public domain and is publicly accountable not only for any expenditures made but also for their actions against the applicant, there is, in my view, an even greater responsibility and obligation to answer to the allegations of impropriety levelled against it (see Tshishonga v Minister of Justice & Constitutional Development & another (2007) 28 ILJ 195 (LC) [also reported at [2006] JOL 16856 (LC)–Ed] at paragraph [112]). By failing to tender any evidence to this Court and by failing to dispute the extensive and detailed evidence led by the applicant and the documentation placed before this Court, it makes it extremely difficult for this Court to exercise a discretion in favour of the respondent.
+
+ 
+[2009] JOL 23676 (LC) at 25
+
+Was the disclosure made by the applicant the reason for his dismissal?
+
+[31]    In terms of section 187 of the LRA a dismissal will be automatically unfair if the reason is, for example, an employee's pregnancy or the fact that the employee made a protected disclosure (see section 189(1)(a)–(h) of the LRA). It is clear that the fairness of the dismissal (in the context of an automatically unfair dismissal) relates to the reason of the dismissal. As already pointed out, a dismissal will only be automatically unfair if the reason is one of those listed in section 187(1)(a)–(h) of the LRA. Where an employee thus alleges that his dismissal is automatically unfair, the sole enquiry would be to establish the true reason for the dismissal and once that has been established whether or not the reason is one of those identified in section 187(1)(a)–(h) of the LRA (see in general Janda v First National Bank (2006) 27 ILJ 2627 (LC) [also reported at [2006] 12 BLLR 1156 (LC)–Ed] at paragraph [10]). In the present matter the applicant testified that his dismissal for misconduct was not the true reason for his dismissal, but that it was only a pretext for his dismissal and that the real or true reason for this dismissal was the fact that he had made a protected disclosure. The employer in this case alleged (although no evidence was led to substantiate this allegation) that the applicant was dismissed for misconduct. Who must establish the reason for the dismissal? Is there an "onus" on the employee to establish the reason for his dismissal? This question was pertinently  
+[2009] JOL 23676 (LC) at 26
+dealt with in the Janda case. In terms of section 192(2) of the LRA the onus to prove the existence of a dismissal rests on the employee (section 192(1) of the LRA). Once the employee has discharged this onus, the employer bears the onus to prove that the dismissal was fair (and in this context for a permissible reason) rests on the employer (sic). This means that it is for the employer to prove that the employee was dismissed for a permissible reason and that the dismissal was effected in accordance with a fair procedure. Because this is an onus placed on the employer by the Act it is an onus in the true sense and will remain on the employer throughout the course of the trial (see Janda, supra, at paragraph [13]). The mere fact that an employee alleges that he or she was dismissed for an impermissible reason does not detract from the fact that the onus to prove the fairness of the dismissal remains on the employer. It is, however, not sufficient for the employee to simply allege that he or she was dismissed for an impermissible reason and therefore entitled to the consequences of a finding of automatically unfair dismissal. In other words, the mere allegation of automatically unfair dismissal (in the sense that the dismissal was for an unfair reason) is not sufficient to allow this Court to come to the conclusion that the dismissal falls squarely within the confines of section 187(1) of the LRA. In Kroukam v SA Airlink (Pty) Ltd (2005) 26 ILJ 2153 (LAC) [also reported at [2006] JOL 15771 (LAC)–Ed] at paragraph [28], the Labour Appeal Court confirmed that section 187 places an: 
+[2009] JOL 23676 (LC) at 27
+". . . evidential burden upon the employee to produce evidence which is sufficient to raise a credible possibility that an automatically unfair dismissal has taken place. It then behoves the employer to prove to the contrary, that is to produce evidence to show that the reason for the dismissal did not fall within the circumstance envisaged in s 187 for constituting an automatically unfair dismissal."
+
+In Janda, supra, at paragraph [18], the court explained that:
+
+"[T]he evidential burden placed upon an employee creates the need for there to be sufficient evidence to cast doubt on the reason for the dismissal put forward by the employer or, to put it differently, to show that there is a more likely reason than that of the employer. A failure to present such evidence creates the risk of the employee losing his or her case. The essential question however remains, after the court has heard all the evidence, whether the employer upon whom the onus rests of proving the issue, has discharged it."
+
+. . .
+
+"[18]  As stated earlier, there is a single issue with the burden on the employer. This essential point is obscured of one speaks of 'the employer must prove' or a 'shifting' of the onus or a duty 'to establish a  
+[2009] JOL 23676 (LC) at 28
+prima facie case that the reason for dismissal was an automatically unfair one' . . . The evidentiary burden placed upon an employee creates the need for there to be sufficient evidence to cast doubt on the reason for the dismissal put forward by the employer, or to put it differently, to show that there is a more likely reason than that of the employer. A failure to present such evidence creates the risk of the employee losing his or her case. The essential question however remains, after the court has heard all the evidence, whether the employee upon whom the onus rests of proving the issue, has discharged it."
+
+[32]    Did the applicant in this matter present sufficient evidence to this Court to cast doubt on the reason for the dismissal put forward by the employer? And, was the disclosure made by the applicant the principal or dominant reason for the disciplinary action which resulted in the applicant's dismissal? This question is pertinent in light of the fact that it was argued on behalf of the respondent that other reasons relating to misconduct may have played a decisive role in the dismissal of the applicant. I will now briefly turn to the evidence that was placed before the court. At the outset it should again be pointed out that the respondent elected not to give any evidence. Only the version of the applicant was before the court. Not even the chairperson of the disciplinary enquiry was called to give evidence and  
+[2009] JOL 23676 (LC) at 29
+to explain his decision to find the applicant guilty. No transcript of the disciplinary hearing was presented to the hearing detailing the evidence that was led before the chairperson in respect of the various charges. There is, therefore, no evidence before this Court that the chairperson of the hearing even heard evidence in respect of the charges or that he even considered the merits of the charges brought against the applicant. Apart from the charge-sheet and the letter informing the applicant of his dismissal, no evidence whatsoever was presented to this Court in respect of the merits of any of the charges against the applicant. Even if the Chairperson did hear evidence (of which there is no evidence), there is no evidence before this Court as to what role the disclosure charge had played in coming to the conclusion that the applicant was guilty as charged. It should also be pointed out that the applicant was not seriously cross-examined on the allegation that his dismissal was motivated by the fact that he had made a protected disclosure and not for misconduct. In fact, his evidence was clear: the respondent is lying if it says that other reasons had played a role in dismissing him. In light of the aforegoing and especially in light of the complete absence of any evidence that might cast doubt on the applicant's clear evidence that the true reason for his dismissal was the fact that he had made a protected disclosure, I am therefore satisfied that the applicant was dismissed for an impermissible reason and that that likely formed the principal or  
+[2009] JOL 23676 (LC) at 30
+primary reason for his dismissal. Accordingly I find that the dismissal of the applicant was automatically unfair. This conclusion is certainly reinforced by the fact that the applicant was expressly charged and expressly found guilty of having made a disclosure to the Public Protector.
+
+Appropriate remedy
+
+[33]    The applicant does not seek reinstatement. In terms of section 194(3) this Court may grant an order for compensation in respect of an automatically unfair dismissal provided that the order is just and equitable but not more than the equivalent of 24 months' remuneration calculated at the employee's rate of remuneration on the date of his dismissal. I am of the view that it would be just and equitable to order the maximum compensation allowed for by the Act. The applicant was the typical victim of an occupational detriment who dared to question the modus operandi of his employer and his colleagues. What makes this matter worse is the fact that the respondent is a State organ who is entrusted with public funds and trusted by the public to adhere to accountable procurement policies. An employee should not be subjected to an occupational detriment if it discloses information that exposes a public entity for not complying with its legal obligations and responsibilities. In the event it is ordered that the respondent pay  
+[2009] JOL 23676 (LC) at 31
+the applicant compensation equal to 24 months' salary. The applicant earned a monthly remuneration of R41 938,09. The award of compensation therefore adds up to R1 006 514,20.
+
+[34]    In respect of the issue of costs, I can find no reason why costs should not follow the result.
+
+[35]    In the event the following order is made:
+
+The dismissal of the applicant constituted an automatically unfair dismissal in terms of section 187(1)(h) of the Labour Relations Act 66 of 1995.
+The respondent is ordered to pay the applicant compensation equal to 24 months' salary.
+The respondent is ordered to pay the applicant the compensation in terms of paragraph 2 of this order within 30 days of the date of this order.
+The respondent is ordered to pay the costs of this application.
+
+
+Footnotes
+1	  See para [19] et seq.
+
+Appearance:
+Adv C Prinsloo, Erasmus-Scheepers Attorneys (At); Adv K Lengane, Maserumule Incorporated (R)
+
+
+End of Document

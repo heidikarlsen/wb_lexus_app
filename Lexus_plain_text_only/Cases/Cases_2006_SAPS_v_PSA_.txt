@@ -1,0 +1,728 @@
+
+
+
+
+SAPS v PSA [2006] JOL 18415 (CC)
+Judgments Online
+
+Division: Constitutional Court 
+Case No: CCT 68 / 05 
+Hearing Date(s): 18 / 05 / 2006 
+Judgment Date(s): 13 / 10 / 2006 
+Bench: Langa CJ, Moseneke DCJ, Sachs J, Madala J, Yacoob J, O' Regan J, Nkabinde J, Mokgoro J, Skweyiya J, Van der Westhuizen J 
+
+
+Keywords
+
+
+Administrative Law — Police services — Up-grading of posts — Commissioner's discretion to advertise — Right to fair labour practice — Interpretation of "may" 
+South African Police Services Act 68 of 1995 — South African Police Services Act 68 of 1995, section 24 — South African Police Services Act 68 of 1995, section 24(1) 
+South African Police Services Regulation 389 of 2000 — South African Police Services Regulation 389 of 2000, Regulation 24 — South African Police Services Regulation 389 of 2000, Regulation 24(6) 
+
+Mini Summary
+
+
+In order to provide for the systematic evaluation and consequent re-grading of posts in the South African Police Services, regulations were promulgated which permitted the regrading of posts. If the job weight showed that a filled post was, inter alia, undergraded the Commissioner could, on terms of Regulation 24(6) promulgated under section 24(1) of the South African Police Services Act 68 of 1995, increase the incumbent's pay and continue to employ the incumbent in the post without advertising the post. A dispute arose between the Commissioner and the unions representing police officers as to whether the Commissioner had a discretion to advertise the post if an incumbent remained in it. The unions contended that once the officer was in the post the ordinary course of advertising the post was not to be applied. The Commissioner successfully applied to the High Court for a declarator that he was entitled to advertise the post and that the incumbent was not entitled to an automatic promotion if the provisos in regulation 24(6)(a) and (b) had been met. A majority of judges in the Supreme Court of Appeal held that if a post which an incumbent was filling competently were to be advertised, the incumbent could lose his job and that would infringe his right to fair labour practice. Therefore, where an incumbent was filling the upgraded post effectively, the Commissioner was not entitled to advertise the post, in spite of the use of the word "may" in the regulation. The SA Police Services, the applicants, now appealed to the Constitutional Court.
+
+Held that the Commissioner was obliged to exercise his powers under regulation 24(6) in a manner which did not involve a violation of the right of incumbents to be subjected to unfair labour practices. The regulation had to be read in such a way as to harmonise the two conflicting concerns. This could be achieved by recognising that the Commissioner did have a discretion to advertise the post but this had to be done in such a way that it did not lead to the incumbent losing his job. The appeal was upheld but only to the extent that the Commissioner's discretion had to be exercised in a manner which did not result in retrenchment. 
+
+Held, by a minority judge, that this interpretation of the meaning of the regulation "beyond that which it (was) reasonably capable of bearing". If the Commissioner had to ensure that the incumbent was not retrenched it would mean that he was "often not able to genuinely exercise a choice". The interpretation given by the majority of judges in the SCA had been correct.
+
+ 
+[2006] JOL 18415 (CC) at 1
+
+
+
+
+[1]    This case started as a dispute over how the word "may" should be interpreted in a provision in the Police Service Regulations. It developed into a wider enquiry on how regulations should be purposefully and contextually interpreted when they are designed to serve diverse purposes in a complex context.
+
+[2]    Regulation 24(6) of the regulations for the South African Police Service (SAPS), promulgated in 2000,1 reads as follows: 
+[2006] JOL 18415 (CC) at 2
+ "(6) If the National Commissioner raises the salary of a post as provided under sub-reg (5), she or he may continue to employ the incumbent employee in the higher-graded post without advertising the post if the incumbent–
+
+already performs the duties of the post;
+has received a satisfactory rating in her or his most recent performance assessment; and
+starts employment at the minimum notch of the higher salary range" (my emphasis).
+
+The National Police Commissioner (the Commissioner) on the one side, and the unions representing police officers2 on the other, found themselves in disagreement on how the sub-regulation should be understood and applied.
+
+[3]    The Commissioner claimed that although sub-regulation (6) vested a discretion in him when upgrading a post to allow an incumbent to remain undisturbed and enjoy a higher salary without competing for the newly regraded post, it did not oblige the Commissioner to do so automatically and mechanically. The police unions on the other hand insisted that the sub-regulation did not give a discretionary power to the Commissioner, but rather established that the ordinary process of filling posts through advertisement was not to be applied in situations where an incumbent employee is working satisfactorily in a post which is upgraded and carries a higher salary.
+
+[4]    It appears that disagreement on the issue of interpretation led to great uncertainty which in turn threatened to have a negative effect on the efficiency of the SAPS and the morale of its members. Many incumbents dissatisfied at not  
+[2006] JOL 18415 (CC) at 3
+receiving automatic promotion when their posts were upgraded, resorted to arbitration.
+
+[5]    In October 2002 the Commissioner launched proceedings in the Pretoria High Court for a declarator that on a proper interpretation of regulation 24(6) he was entitled either to advertise the post which he had decided to regrade to a higher grade, or to continue to employ the incumbent employee in the newly higher-graded post without advertisement. He sought a further declarator to the effect that such incumbent was not entitled to automatic promotion. A supporting affidavit3 stated that the declarator would resolve real disputes as to the meaning of regulation 24 and prevent further disputes arising. It averred further that the Commissioner was expending huge amounts of manpower and money in dealing with such disputes. For their part, two of the police unions opposed the application, alleging that the declarators should be refused because, properly interpreted, the regulation provided for automatic promotion of an officer, certified as efficient, whose post was upgraded.
+
+[6]    The High Court granted the application4 and issued the declarators as requested by the Commissioner. It held that within the framework of the regulations, promotions are made only after the post in question is advertised; if the legislation  
+[2006] JOL 18415 (CC) at 4
+intended that retention of an incumbent in a post with an increased salary was in each instance to occur without the process of advertising, the use of the word "may" by the drafter was irreconcilable with that intent. According to the High Court the word "may" in the context in which it was used was unambiguous and had to be given its ordinary meaning, which implied a discretionary power. The judgment emphasised that "there is a powerful and legitimate public interest in an efficient and effective police service" and that a procedure which would oblige the Commissioner to elevate the status of a police officer without transparency and openness is inimical to that interest.
+
+[7]    The High Court accordingly granted an order declaring:
+
+That the applicant is vested with a discretion in terms of regulation 24(6) of Regulation 389, the Regulations for the South African Police Service, published in the Government Gazette No 21088 on 14 April 2000 either:–
+to advertise the post which he has decided to re-grade to a higher grade, or;
+to continue to employ the incumbent employee in the newly higher graded post without advertising the post, provided that the requirements of regulation 24(6)(a), (b) and (c) are satisfied.
+That the incumbent of a post is not entitled to an automatic promotion to a more senior rank upon the decision of the applicant in terms of regulation 24(6) to continue to employ the incumbent in a post which the applicant has decided to re-grade to a higher grade.
+That the costs of this application be borne by the applicant." 
+[2006] JOL 18415 (CC) at 5
+
+[8]    The Public Servants Association (the union) appealed to the Supreme Court of Appeal, which divided on the matter.5 Three judges6 stated that if the High Court interpretation of the regulation were to be upheld the effect would be that an incumbent of the upgraded post, who happened to be coping with all the duties of the  "new" post and doing so satisfactorily, would lose his or her employment if somebody else were appointed to it. This would infringe the incumbent's right to fair labour practices and the right not to be unfairly dismissed. This consequence, the majority of the Supreme Court of Appeal held, would be manifestly inequitable particularly seeing that in sub-regulation (7),7 and elsewhere in the regulations, the Labour Relations Act8 and collective agreements between the service and its employees are acknowledged and, by inference, respected. The majority accordingly decided that provided the requirements of paragraphs (a) and (b) of regulation 24(6) are met, the Commissioner is not only empowered to retain the incumbent in the upgraded post without advertising it, but under a duty to do so and to do so at the salary prescribed by paragraph (c). In the view of the majority, the application to the High Court ought to have failed. The order of the High Court was accordingly set aside and the application for a declarator was dismissed.
+
+ 
+[2006] JOL 18415 (CC) at 6
+
+[9]    The minority in the Supreme Court of Appeal9 held that upon the upgrading of a post the Commissioner had a discretion whether to continue to employ the incumbent employee in the higher-graded post. Should he or she not be employed in the upgraded post he or she could, in the circumstances mentioned in regulation 36(2),10 without the post being advertised, be appointed to a post similar to the one that had been filled by him or her, and he or she could also be discharged in terms of regulation 45.11 Although regulation 24(6) did not contain any guidance on how the Commissioner's discretion was to be exercised, such guidance could be found in regulations which, first, required that the discretion be exercised with due regard to the requirements of efficient and effective service delivery and the provision of appropriate incentives for employees,12 and, second, that the discretion be exercised in  
+[2006] JOL 18415 (CC) at 7
+the light of the principle that employment practices must ensure employment equity, fairness, efficiency and the achievement of a representative service.13
+
+[10]    Being administrative action, the minority judgment continued, a decision taken by the Commissioner would in appropriate circumstances be reviewable. Furthermore, should the incumbent employee in the particular circumstances of the case have a legitimate expectation to be appointed to the higher-graded post, the administrative action would have to be procedurally fair. Should it not be administratively fair it would likewise be reviewable. For these reasons the minority would have dismissed the appeal.
+
+[11]    The Commissioner has now applied to this Court for leave to appeal against the whole of the judgment and order of the Supreme Court of Appeal. Before it is possible to reach the merits of the application, however, two anterior questions have to be considered. The first is whether the issue raised is a constitutional one.14 The second is whether it is in the interests of justice for leave to appeal to be granted.
+
+[12]    The matter concerns the capacity of the Commissioner to fulfil responsibilities entrusted to him by the Constitution.15 Furthermore, regulation 24(6) was interpreted  
+[2006] JOL 18415 (CC) at 8
+by the Supreme Court of Appeal in the light of section 23(1) of the Bill of Rights, which guarantees to everyone the right to fair labour practices. Prominent among these rights is the right not to be unfairly dismissed. At the heart of the decision being appealed against, then, is the manner in which the majority and minority in the Supreme Court of Appeal differed over how appropriately to balance two constitutional requirements, namely, capacity-building of the SAPS, on the one hand, and respecting job security, on the other. Two constitutional issues are engaged, and the matter is clearly a constitutional one.
+
+[13]    In support of his claim that it is in the interests of justice that the appeal be heard, the Commissioner relied on the following:
+
+• There is self-evidently a reasonable prospect of the appeal succeeding given the divergent judicial views.
+
+• The issue was controversial and litigious. Many decisions had been taken by the Commissioner upon the authority of the initial judgment of the High Court that might have to be reversed. Accordingly there was a dire need for clarity and finality on the proper interpretation of regulation 24(6), a result which was not satisfactorily achieved by the division of judicial opinion.
+
+• The proper interpretation and application in practice of regulation 24(6) extended beyond the interests of the parties to this particular dispute and affected all members of the SAPS.
+
+ 
+[2006] JOL 18415 (CC) at 9
+
+• The matter was self-evidently one of substance. The practice of the Commissioner was in jeopardy and the problems of re-orienting the administrative apparatus would be considerable.
+
+• The interpretation of regulation 24(6) directly impacted on the ability of the Commissioner, under section 207 of the Constitution, to properly exercise control and manage the South African Police Services; more especially the optimal deployment of personnel, restructuring of an administrative apparatus to deliver a meaningful service, and the appropriate latitude to do so efficiently.
+
+These are serious considerations. It is in the interests of justice for this Court to consider and resolve the questions raised by them. Leave to appeal should accordingly be granted.
+
+Interpreting the word "may"
+
+[14]    Considerable attention in this matter has been given to the way in which the word "may" should be interpreted. The High Court and the minority in the Supreme Court of Appeal both indicated that the use of the word "may" clearly showed an intention to grant a discretion to the Commissioner; it was manifestly permissive, enabling the Commissioner to appoint an incumbent to the upgraded position without advertising it, but not obliging him to do so.
+
+[15]    The majority in the Supreme Court of Appeal, however, pointed out that the word "may" could simply signify an authorisation to exercise a power coupled with a  
+[2006] JOL 18415 (CC) at 10
+duty to use it if the requisite circumstances were present. This latter possibility gained support from the decision of this Court in Van Rooyen.16 In that matter a provision of the Magistrates Act 90 of 199317 stated that the Minister of Justice "may" confirm a recommendation by the Magistrates Commission that a magistrate be suspended in certain circumstances. The Court stated that if this meant that the Minister had a discretion to confirm a recommendation by the Commission that a magistrate be suspended, or to decline to do so and instead impose lesser penalties on the magistrate concerned, the vesting of such powers in the Minister would be inconsistent with judicial independence. Chaskalson CJ stated:
+
+"[T]he first question to consider is whether it is possible to read the Act and the regulations in a way that would be consistent with judicial independence . . . As far as the Act is concerned, if 'may' in (the) section 13(3)(aA) is read as conferring a power on the Minister coupled with a duty to use it, this would require the Minister to refer the Commission's recommendation to Parliament, and deny him any discretion not to do so . . . In my view this is the constitutional construction to be given to the section 13 (3)(aA)."18
+
+ 
+[2006] JOL 18415 (CC) at 11
+
+[16]    Van Rooyen indicates, therefore, that the word "may" may be construed in one of two ways: either to give a complete discretion to the Commissioner to advertise or not, or simply to give authorisation to the Commissioner to upgrade together with the duty to appoint the incumbent to the upgraded post without advertisement.19
+
+The contextual scene
+
+[17]    Since grammar and dictionary meanings are merely principal (initial) tools rather than determinative tyrants, I examine the context in which the word "may" is used. The importance of context in statutory interpretation was underlined by Schreiner JA in Jaga v Dönges, NO and another20 as follows:
+
+"Certainly no less important than the oft repeated statement that the words and expressions used in a statute must be interpreted according to their ordinary meaning is the statement that they must be interpreted in the light of their context. But it may be useful to stress two points in relation to the application of this principle. The first is that 'the context', as here used, is not limited to the language of the rest of the statute regarded as throwing light of a dictionary kind on the part to be interpreted. Often of more importance is the matter of the statute, its apparent scope and purpose, and, within limits, its background. The second point is that the approach to the work of interpreting may be along either of two lines. Either one may split the inquiry into two parts and concentrate, in the first instance, on finding out whether the language to be interpreted has or appears to have one clear ordinary meaning, confining a  
+[2006] JOL 18415 (CC) at 12
+consideration of the context only to cases where the language appears to admit of more than one meaning; or one may from the beginning consider the context and the language to be interpreted together."
+
+[18]    Schreiner JA went on to point out that whatever approach is adopted, the court must be alert to two risks. The first is that the context may receive an exaggerated importance so as to strain the language used. The second is "the risk of verbalism and consequent failure to discover the intention of the law-giver".21. He emphasised that "the legitimate field of interpretation should not be restricted as a result of excessive peering at the language to be interpreted without sufficient attention to the contextual scene".22
+
+[19]    It is necessary to add that the contextual scene has an even deeper significance in our constitutional democracy. All law must conform to the Constitution and be interpreted and applied within its normative framework.23 The Constitution itself must be understood as responding to our painful history and facilitating the transformation of our society so as to heal the divisions of the past, lay the foundations for a democratic and open society, improve the quality of life for all and build a united and democratic South Africa.24 Account must be paid to the structure and design of the Constitution, the role that different organs of government and law enforcement  
+[2006] JOL 18415 (CC) at 13
+must play and the value system articulated by section 1 of the Constitution and the Bill of Rights.
+
+[20]    Interpreting statutes within the context of the Constitution will not require the distortion of language so as to extract meaning beyond that which the words can reasonably bear.25 It does, however, require that the language used be interpreted as far as possible, and without undue strain, so as to favour compliance with the Constitution. This in turn will often necessitate close attention to the socio-economic and institutional context in which a provision under examination functions. In addition it will be important to pay attention to the specific factual context that triggers the problem requiring solution.
+
+The constitutional context
+
+[21]    A complicating matter in the present case is that regulation 26(4) has to be read in the context of not one but three different constitutional imperatives. The first is to enable the Commissioner effectively to carry out his or her specially identified constitutional mandate. It is to be noted that the Commissioner gets particular constitutional recognition,26 something not accorded to the soldier who heads the  
+[2006] JOL 18415 (CC) at 14
+defence force, or the head of the intelligence services.27 The Constitution clearly envisages an important and active decisional role for the Commissioner, and regulation 24(6) must be read in the light of this factor.
+
+[22]    At the same time, however, the Constitution declares that everyone is entitled to fair labour practices.28 Inasmuch as the decisions of the Commissioner affect the employment of the persons whose work he manages, he is obliged not to act unfairly. Regulation 26(4) must accordingly be construed so as to promote respect for fair labour practices.
+
+[23]    A third dimension must also be borne in mind. The Constitution envisages the achievement of equality in a society still disfigured by grave imbalances related to race and gender. These imbalances are reflected in the SAPS itself. Representativity is especially important in a service that has to provide security to, and have a close connection with, all members of all communities.
+
+ 
+[2006] JOL 18415 (CC) at 15
+
+The statutory context
+
+[24]    The Minister is obliged to determine a job evaluation system or systems that must be utilised as well as a range of job weights from the evaluation system for each salary range in a salary scale.29 The Commissioner is thereafter empowered to evaluate or re-evaluate any job in the police service.30 Regulation 24 as a whole is concerned with the consequences of the application of an evaluation process.3
+
+The factual context
+
+[25]    The evidence shows that the Act and the regulations were made in order to authorise and systematise the restructuring and the re-orientation of SAPS in the new constitutional order brought about in the first place by the interim Constitution. The deponent for the Commissioner says in this regard:
+
+"The democratisation of South Africa in 1994 brought about a completely new dispensation in respect of the manner in which manpower in the then South African Police would be managed. Not only had it become necessary to amalgamate all the various police agencies into the new South African Police Service, but it had also become essential to introduce a new manpower management policy that would be  
+[2006] JOL 18415 (CC) at 16
+uniformly fair and acceptable, and which would reflect the demographic distribution of the South African population."
+
+[26]    The South African Police as it existed in the pre-constitutional order had no mechanism for the systematic, continuous and regular evaluation of posts and their re-grading from time to time. Posts were regraded on an ad hoc basis. The new staffing management policy had to deal with this and did so by providing a detailed evaluation mechanism with an indication of how the consequences of evaluation are to be managed.
+
+[27]    The staffing management system had also to concern itself with promotions. In the pre-constitutional order, the South African Police had a
+
+"policy of promoting by class, (that is) in seniority in accordance with the year during which each rank group had joined the South African Police or in accordance with the year during which each rank group had completed officers training. This meant in practice that a group of inductees would progress in what can best be described as blocks."
+
+To correct this problem, an interim promotion policy was put in place by SAPS as early as 1 September 1994.32 The promotion policy sets out extensively the pre-requisites that must be satisfied before a member of SAPS in one rank is eligible for promotion to another, criteria for promotion, as well as the process of promotion including the application by and evaluation of candidates.
+
+ 
+[2006] JOL 18415 (CC) at 17
+
+[28]    The difficulties surrounding the filling of upgraded posts began to be felt most acutely during the period 2000–2001 when 1333 vacant posts of superintendent were filled by the application of the interim promotion policy.33 A large number of these advertised posts had been upgraded from that of captain to that of superintendent and were being occupied by SAPS members who held the rank of captain. Despite this, none of the posts for superintendent were filled without them being advertised. All the posts were advertised. Some of the captains who were the incumbents of the upgraded superintendents' posts and who had continued to occupy these posts even after they were upgraded, were promoted to those posts, while many were not. This resulted in a large number of grievances by those captains who had not been promoted to the superintendent posts they had occupied. The Commissioner concedes that many of these grievances proceeded to arbitration with awards being made against the Commissioner with the result that most of the captains were ultimately promoted to the rank of superintendent.
+
+[29]    The Commissioner decided to adopt a different approach when, after the new superintendents had been appointed, 3356 vacant posts of captain had to be filled. Because of the difficulties encountered during the superintendent promotions, the Commissioner decided not to advertise upgraded posts in relation to which the work was already being done by an incumbent but to promote that incumbent as if he or she was found to be suitable. When more posts were advertised in late 2001, it was decided not to fill upgraded posts at all. The filling of upgraded posts was suspended  
+[2006] JOL 18415 (CC) at 18
+in 2002. It is therefore not surprising that the interpretation of a regulation concerned with the filling of posts upgraded consequent to an evaluation, became controversial.
+
+Risk of retrenchment
+
+[30]    During the course of argument counsel for both sides vigorously debated the question of whether the reading favoured by the Commissioner would place incumbents of upgraded posts who were not successful after advertisement, in danger of retrenchment, and whether such retrenchment would signify unfair labour practices. Counsel for the Commissioner acknowledged during argument that there are indeed risks of job losses but given the absence of information on the record he could provide no further assistance to the Court. Whatever the position, the Commissioner is obliged to exercise his powers under regulation 24(6) in a manner which does not involve violation of the right of incumbents not to be subjected to unfair labour practices. The regulation must accordingly be interpreted with this in mind.
+
+Reconciling the competing considerations
+
+[31]    It is evident that there are a number of constitutional, statutory and factual considerations which may be in tension with each other. In this respect it is salutary to consider the approach of this Court in Port Elizabeth Municipality34 to the question of how to respond to questions raised when rights compete with each other. In that matter the rights of owners of land clashed with the rights of unlawful occupiers not to be arbitrarily deprived of a home. The Court said: 
+[2006] JOL 18415 (CC) at 19
+"The judicial function in these circumstances is not to establish a hierarchical arrangement between the different interests involved, privileging in an abstract and mechanical way the rights of ownership over the right not to be dispossessed of a home, or vice versa. Rather, it is to balance out and reconcile the opposed claims in as just a manner as possible, taking account of all the interests involved and the specific factors relevant in each particular case."
+
+In the present matter, too, an attempt should be made to balance out and harmonise as far as possible the competing considerations involved.
+
+[32]    In summary, the key factors are the following:
+
+• SAPS is involved in a major process of restructuring aimed at giving the service greater efficiency and ensuring proper remuneration of its members on the basis of job evaluation and performance.
+
+• The commissioner has a key role in directing this process.
+
+• Transparency in career advancement ordinarily requires advertising of posts and open procedures.
+
+• The specific purpose of the regulation is not to restructure the police force or to promote affirmative action but to ensure that posts are properly evaluated, so that those who hold them are paid in accordance with the work that they do.
+
+• A real risk exists that an incumbent of a post that is upgraded and advertised could end up without a proper job even though he or she is performing in a satisfactory manner.
+
+ 
+[2006] JOL 18415 (CC) at 20
+
+[33]    It follows from above that the regulation must be read in such a way as best to harmonise two major considerations that could collide with each other. The first is the need to give the Commissioner the necessary flexibility to strengthen the leadership capacity of the service in a transparent manner.35 The second is the requirement that incumbents whose work is satisfactory should not be subjected to the anxiety of possibly losing their jobs simply because their posts are being upgraded.
+
+[34]    In my view, then, the regulations can and should be read in a way that neither produces the rigidity of outcome that would flow from the view of the majority in the Supreme Court of Appeal, nor carries the risk of consequent redundancy, implicit in the minority approach. It is indeed possible to harmonise flexibility of application with respect for appropriate job security. This can be achieved by acknowledging that the Commissioner does have a discretion whether to advertise or not, but that the discretion must in each case be exercised in such a way as to not lead to the loss of employment by a satisfactory incumbent as a consequence of the upgrading of his or her post. Nor should incumbents who are threatened with retrenchment because their posts have been upgraded, be obliged on a case by case basis to invoke administrative or labour law mechanisms to secure their positions in the service. Since retrenchment  
+[2006] JOL 18415 (CC) at 21
+utilising the provisions of regulation 24(6) would be manifestly unfair, the regulation should be interpreted as a matter of law as requiring the Commissioner to exercise his discretion in a manner which does not lead to job loss.36 An incumbent whose work is satisfactory should not be subjected to the anxiety of losing employment simply because the work he or she is doing is considered to be worthy of an upgrade and better pay.
+
+[35]    It follows, then, that subject to the qualification mentioned below, "may" in the context of this case does not mean "must". The Commissioner has a discretion and is accordingly entitled to make a declaration that although he is authorised without advertising to promote an incumbent whose job is upgraded, he is not obliged to do so. The declaration should, however, be qualified by a further declaration that the Commissioner's discretion must be exercised in a manner which does not place an incumbent who is performing satisfactorily in jeopardy of losing his or her job in the service simply because his or her post is being upgraded.
+
+[36]    In the result, leave to appeal must be granted and the appeal must succeed in the terms mentioned above.
+
+[37]    The Commissioner was ordered to pay the union's costs in the High Court and the Supreme Court of Appeal. He did not ask for costs in this Court. The union  
+[2006] JOL 18415 (CC) at 22
+contributed helpful arguments of a substantive nature in all three courts. It has been partially successful in that it has secured an interpretation that protected its members from the threat of any retrenchment flowing from the upgrading of the post in terms of regulation 24. In these circumstances it is appropriate that the costs orders in the High Court and the Supreme Court of Appeal should stand, and that the Commissioner bear the costs of the union incurred in this Court.
+
+The order
+
+The application for leave to appeal is granted.
+The appeal is upheld to the extent indicated below and the order of the Supreme Court of Appeal is replaced with the following order–
+It is declared that:
+The applicant is vested with a discretion in terms of regulation 24(6) of Regulation 389, the Regulations for South African Police Service, published in the Government Gazette No 21088 on 14 April 2000, either:–
+to advertise the post which he or she has decided to regrade to a higher grade, or;
+to continue to employ the incumbent employee in the newly higher graded post without advertising the post, provided that the requirements of regulation 24(6)(a), (b) and (c) are satisfied. 
+[2006] JOL 18415 (CC) at 23
+The incumbent of a post is not entitled to an automatic promotion to a post upgraded by the applicant in terms of regulation 24(6).
+The Commissioner's discretion with regard to upgrading of posts in terms of regulation 24(6) must be exercised in a manner which does not result in retrenchment of an incumbent employee who is not promoted to the upgraded post.
+The costs of this application in the High Court, the Supreme Court of Appeal and this Court shall be borne by the applicant, the costs to include the costs of two counsel.
+
+(Madala J concurred in the judgment of Sachs J).
+
+YACOOB J:
+
+Introduction
+
+[38]    The applicant, the National Commissioner (the Commissioner) of the South African Police Service (SAPS) requires leave to appeal in an effort to challenge the correctness of the interpretation by the Supreme Court of Appeal of an employment regulation37 made in terms of the Police Service Act (the Act).38 The regulation  
+[2006] JOL 18415 (CC) at 24
+concerned39 focuses on the management of a process of job evaluation within SAPS. It prescribes the way in which SAPS must respond if an evaluation of a post reveals that it is undergraded.
+
+[39]    The crisp question that needs to be answered is whether the Commissioner, having upgraded a post found to be undergraded by an evaluation, is obliged by the regulation to "promote" the incumbent to that upgraded post without advertising it, regardless of the circumstances, and provided only that she already performs the duties of the post and has received a satisfactory rating in the most recent performance assessment. The Commissioner contends that a discretion whether to appoint the incumbent to the upgraded post is vested in his office by the regulation in the circumstances just described, while some of the trade unions adopt the view that no such discretion is conferred upon the Commissioner who is obliged by the legislation to appoint the incumbent to the upgraded post.
+
+[40]    I agree with the conclusions in the judgment of my colleague Sachs J that the regulation gives the Commissioner a discretion whether to allow the incumbent of the upgraded post to continue in that post, and that the incumbent concerned cannot be dismissed by reason only of the circumstance that he was not promoted to an upgraded post in which she had been performing satisfactorily before the upgrade had occurred. I feel it is necessary to elaborate on: 
+[2006] JOL 18415 (CC) at 25
+(a) the circumstances in which the case was brought and prosecuted before the High Court;
+
+why, I consider that the conclusion of the Supreme Court of Appeal that the Commissioner has no discretion is wrong; and
+the basis for the interpretation of the Regulation in so far as that interpretation has implications for the power of the Commissioner to dismiss an incumbent.
+
+[41]    I begin by relating some of the circumstances in which the High Court proceedings were brought and continued. The judgment then summarises the judgments which have gone before this one and says why, in my view, the majority in the Supreme Court of Appeal was not correct in its finding that the Commissioner was obliged to "promote" an incumbent to an upgraded post in which he had performed satisfactorily before the upgrade. Finally, the question of the correct interpretation of the regulation in relation to the dismissal of an incumbent who is neither appointed nor promoted to the upgraded post will be considered.
+
+[42]    The application to the High Court materialised because there were many disputes in relation to the interpretation and application of the regulation concerned. "Huge" sums of money were expended by the Commissioner in the process of resolving these disputes. None of the grievances that resulted from the application of the regulation were successfully conciliated and all of them were brought to arbitration. The South African Police Union (SAPU) brought an application for an interdict aimed at preventing SAPS from filling any of the upgraded posts but that was  
+[2006] JOL 18415 (CC) at 26
+dismissed. SAPU instituted grievance proceedings on behalf of and in relation to two SAPS officers. In the course of the arbitration proceedings, however, it was agreed between SAPU and SAPS that the arbitration proceedings would be adjourned pending the final determination of an application to the High Court aimed at determining the proper meaning to be ascribed to the regulation in question. It would seem that the proceedings were then adjourned and the application launched.
+
+[43]    The application in the High Court was brought pursuant to this agreement between SAPU and SAPS. SAPU was joined as the first respondent while the Public Servants Union (PSA) and the Police and Prisons Civil Rights Union (POPCRU) were the two other trade unions joined in the High Court as the second and third respondents. The PSA had represented a police officer in a grievance process in a case which also involved the correct construction of the regulation and had at the time of the institution of the proceedings in the High Court, been referred to arbitration under the relevant law. Three officers of SAPS were joined as fourth, fifth and sixth respondents respectively. These respondents too had brought proceedings against SAPS arising out of the application of the regulation; the arbitrator had concluded that the respondents were entitled to relief of "automatic promotion"; that award was the subject of a review at the instance of the Commissioner at the time when the case was brought in the High Court.
+
+[44]    The Commissioner withdrew the application against the fourth to sixth respondents before the date of argument in the High Court. SAPU and PSA opposed  
+[2006] JOL 18415 (CC) at 27
+the proceedings and contended that the Commissioner was obliged to appoint a person who had been performing satisfactorily in a post that had been upgraded to the upgraded post. Significantly, POPCRU did not oppose the proceedings in the High Court. It wrote to the applicant undertaking to abide the decision of the court and making it plain that it agreed with the Commissioner's interpretation of the regulation. In other words POPCRU supported the interpretation of the regulation that would give the Commissioner a discretion; an interpretation that would not oblige the Commissioner to appoint someone who was performing satisfactorily in a post to that post, when it was later upgraded. The significance lies in the fact that the unions themselves were divided on the correct interpretation of the regulation: SAPU and PSA disagreed with the Commissioner's interpretation while POPCRU agreed. SAPU did not appeal to the Supreme Court of Appeal against the High Court judgment presumably because of the agreement between the Commissioner and itself on the basis of which the proceedings in the High Court had been instituted.
+
+[45]    Before examining the judgments of the High Court40 and the Supreme Court of Appeal,41 it must be said that judgments of the various courts differed. The High Court found in favour of the Commissioner holding that the Commissioner did have a discretion. The Supreme Court of Appeal was not unanimous. The majority judgment42 concluded that the High Court was wrong and that the Commissioner had  
+[2006] JOL 18415 (CC) at 28
+been given no discretion by the regulation. The minority judgment43 would have upheld the decision of the High Court on the basis of its conclusion that the regulation did give the Commissioner a discretion. The judgments of the High Court and the Supreme Court of Appeal will be better understood if some of the regulations are first set out. The regulation in question is regulation 24(6) but regulations 24(4), 24(5), 24(6) and (7) must be reproduced.
+
+[46]    Regulation 24 is headed "Grading and Remuneration". Regulations 24(4), 24(5), 24(6) and 24(7) provide:
+
+If the job weight demonstrates that a filled post is overgraded or undergraded, the National Commissioner must either effect changes to the work organisation or regrade the post according to the job weight and the relevant collective agreements as provided for in sub-regulations (5), (6) and (7).
+The National Commissioner may increase the salary of a post to a higher salary range in order to accord with the job weight, if–
+the job weight as measured by the evaluation system indicates that the post was graded incorrectly; and
+the budget of the Service and the medium-term expenditure framework provide sufficient funds.
+If the National Commissioner raises the salary of a post as provided under sub-regulation (5), she or he may continue to employ the incumbent employee in the higher-graded post without advertising the post if the incumbent–
+already perfoms the duties of the post;
+has received a satisfactory rating in her or his most recent performance assessment; and
+starts employment at the minimum notch of the higher salary range.
+If the National Commissioner determines that the salary range of an occupied post exceeds the range indicated by a job weight, she or he must– 
+[2006] JOL 18415 (CC) at 29
+ (a) if possible–
+redesign the job to equate with the post grade; or
+transfer the incumbent to another post on the same salary range; and
+abide by relevant legislation and collective agreements."
+
+The High Court judgment
+
+[47]    The reasoning of the High Court may be summarised as follows.
+
+The judge referred to the principles pertaining to the appointment, promotion and termination of service of members of SAPS44 and pointed out that
+
+"transparent, open and competitive norms are intended to govern the recruitment, appointment and promotion of candidates in the SAPS";45 and that promotions and appointments in the public service are "deliberate, conscious and public events".46
+
+The court reasoned that: 
+
+"[t]he retention, with increased benefits, of an incumbent on a newly upgraded post has as its consequence the same substantive outcome as a promotion".47
+
+The judgment emphasised that "there is a powerful and legitimate public interest in an efficient and effective police service"48 and that a procedure  
+[2006] JOL 18415 (CC) at 30
+ which would oblige the Commissioner to elevate the status of a police officer without transparency and openness is inimical to that interest.
+Finally the court found that the use of the word "may" is inconsistent with an intention to remove the Commissioner's discretion.
+
+[48]    Accordingly, the High Court granted the order in the terms sought by the applicant:
+
+That the Applicant is vested with a discretion in terms of regulation 24(6) of Regulation 389, the Regulations for the South African Police Service, published in the Government Gazette No 21088 on 14 April 2000 either–
+to advertise the post which he has decided to regrade to a higher grade, or,
+to continue to employ the incumbent employee in the newly higher graded post without advertising the post, provided that the requirements of regulation 24(6)(a), (b) and (c) are satisfied.
+That the incumbent of a post is not entitled to an automatic promotion to a more senior rank upon the decision of the Applicant in terms of regulation 24(6) to continue to employ the incumbent in a post which the applicant has decided to regrade to a higher grade.
+That the costs of this application be borne by the applicant."
+
+The majority judgment
+
+[49]    The majority judgment of the Supreme Court of Appeal held against the Commissioner on two bases.49 The first was that "the Commissioner's interpretation  
+[2006] JOL 18415 (CC) at 31
+could lead to job termination and the drafter could never have intended that consequence". Secondly the judgment concluded that regulation 24(6) is, on a proper construction not merely permissive but also obligatory.
+
+[50]    In developing the first line of reasoning described in the previous paragraph, the President of that Court on behalf of the majority emphasised that if the former incumbent was not appointed to an upgraded post which the Commissioner decided to advertise, the incumbent "would" be left without a job but "it might be possible" to avoid this "drastic result" if the employee could be transferred to an existing vacant post.50 The Court reasoned that vacant posts are more likely to be available at the lower end of the employment scale but that incorrect grading "is, as a matter of probability, going to occur in the case of higher and more specialised posts".51 The implication of this reasoning is that the majority judgment adjudicated the appeal on the basis that vacant posts were not likely to be available in the upper echelons of the police service. The President found that dismissal would be inevitable absent an alternative post, and doubted whether a dismissal "merely because the post was regraded" could be fair.52 It was on this basis that the majority concluded that the drafter did not intend that upgrading would expose an incumbent who is satisfactorily performing the functions to dismissal.53
+
+ 
+[2006] JOL 18415 (CC) at 32
+
+[51]    The approach of the majority to the interpretation of the section may be summarised in this way. The starting point is that the word "may" in sub-regulation (5) is "inapposite" and really means "must" because, if I understand the reasoning, once the Commissioner has decided to upgrade the post in terms of sub-regulation (5) he has to increase the incumbent's salary.54 Next, after pointing out that sub-regulation (7) ensures the retention of the employee within SAPS if the post is found to have been too highly graded, the majority judgment expresses the view that "there is every reason to require retention in the case of a satisfactorily performing employee who has been significantly underpaid".55 The third reason given for the interpretation excluding a discretion is that the regulations contain no guidelines for how the discretion was to be exercised. Finally the President for the majority reasoned that the "stark unfairness" in the difference between the overpaid undergraded employee whose services would be retained and that of the underpaid employee who performs satisfactorily "would" suffer dismissal if somebody else was appointed to that post, would infringe the incumbent's right to a fair labour practice and the right not to be unfairly dismissed.56
+
+The minority judgment
+
+[52]    The first respect in which the minority in the Supreme Court of Appeal disagreed with the majority judgment is in its conclusion that the word "may" in sub-  
+[2006] JOL 18415 (CC) at 33
+regulation (5) has a permissive meaning because the permission to increase the salary does not in its context refer to what would happen after an upgrade but is the authorisation to upgrade.57 The minority then emphasises that the language used in the regulation consistently makes clear what the Commissioner was obliged to do. There is accordingly no reason why the word "may" was used if the intention was to say that the Commissioner was obliged to employ the incumbent in the circumstances. The question for the minority was therefore whether there were indications that the drafter should be understood to have used the word "may" to mean "must", having regard to the scope and objects of the regulations.58
+
+[53]    The minority also took issue with the majority conclusion that the incumbent would be dismissed. Instead the minority took the view that the employee does not lose his job as a result of the abolition of the post, that the Commissioner has a discretion to discharge a person if the post is abolished, and that the decision of the Commissioner is subject to review.59 The advertising of an upgraded post is not necessarily unfair says the minority judgment, and poses the example of the situation where only some of a number of undergraded posts are upgraded. The judgment points out that it will in this event be fair to allow all the people in undergraded posts to compete for the few upgraded ones.60 The minority emphasises that there is a difference between the situation that arises when a post is upgraded and the situation  
+[2006] JOL 18415 (CC) at 34
+that prevails when a post is downgraded. It would accordingly be fallacious to equate the two.61 Finally the judge for the minority emphasises that guidance for the exercise of a regulation 24(6) discretion is to be found in the regulation62 which requires that a discretion be exercised with due regard to efficient and effective service delivery and in another regulation63 which mandates the discretion to be exercised so as to ensure employment equity, fairness, efficiency and the achievement of a representative Service.64 The decisions of the Commissioner would in any event be reviewable.65 The minority accordingly agreed with the applicant and the High Court.
+
+Evaluation of the majority judgment
+
+[54]    It is appropriate to evaluate the majority judgment of the Supreme Court of Appeal against the background of the judgments of both the minority in that court and the High Court before entering upon a discussion of the meaning of the regulation in its context. I start with that part of the judgment which reaches the conclusion that the Commissioner's interpretation could lead to job termination and the drafter could never have intended that consequence.66 I could find no basis for the conclusion that incorrect grading would probably occur in the case of higher and more specialised posts nor for the statement that vacant posts are more likely to be available at the  
+[2006] JOL 18415 (CC) at 35
+lower end of the employment scale. There is also no basis for the conclusion that dismissal is likely as a consequence of the upgrading of a post.
+
+[55]    The Supreme Court of Appeal also placed considerable reliance on its analysis that the conferring of the discretion on the Commissioner would result in the incumbent who is satisfactorily performing the functions being exposed to dismissal as a result of the upgrade. It is vital that legislative provisions do not unfairly expose members of the public service to dismissal. But whether this is so depends on the proper meaning to be given to the regulation in its context. I have already said that I agree with the conclusion of my colleague Sachs J in this respect. I show later in this judgment that the regulation, properly construed does not permit dismissal merely because the incumbent who had performed satisfactorily in a post before it was upgraded was not appointed or promoted to that post.
+
+[56]    I now discuss the majority judgment's interpretation of the regulation.67 Each of the bases relied upon is discussed in turn. The first reason given is that the word "may" is not used throughout the section in a consistently permissive sense alone but also has an obligatory content. The starting point of this line of reasoning is that regulation 24(5) compels the exercise of the power conferred by it despite the fact that it uses the permissive "may".
+
+ 
+[2006] JOL 18415 (CC) at 36
+
+[57]    It is apparent and the majority of the Supreme Court of Appeal is right that regulation 24(4) gives the Commissioner the choice whether to regrade the post or to re-organise the work to cater for incorrect grading. It is also true that regulations 24(5) and 24(6) are concerned with the upgrading of a post and its consequences if the decision is to upgrade the post. Regulation 24(5) does not in specific terms authorise the Commissioner to upgrade the post. What it does though, is to authorise the Commissioner to increase the salary. But the salary is tied to a particular post or grade. The Commissioner has no power to increase the salary in relation to a particular post or grade. In the circumstances, the only way in which he can increase the salary of a post is to upgrade it. Once he has upgraded the post and thereby rendered it subject to an increased salary, regulation 24(6) comes into the picture and, depending on whether the High Court or the Supreme Court of Appeal is right, either permits or obliges the Commissioner to appoint the incumbent to that post.
+
+[58]    It is in this context that the reasoning of the majority which says that the Commissioner is obliged to increase the salary of the incumbent after he has upgraded the post must be considered. In the first place the Commissioner in terms of regulation 24(5) does not increase the salary of the incumbent. He merely increases the salary of the post. But he can do this only by upgrading the post. The incumbent is appointed to the post only after it is upgraded, that is after the salary attaching to the post has become higher consequent upon the upgrading. To say in the circumstances, that the Commissioner is obliged to increase the incumbent's salary if he has been appointed to the post is to put the cart before the horse. It is artificial to suggest that  
+[2006] JOL 18415 (CC) at 37
+the word "may" in regulation 24(5) connotes a duty. I would therefore support the judgment of the minority in this respect.
+
+[59]    The second reason advanced for the interpretation is that "there is every reason to require retention in the case of a satisfactorily performing employee who has been significantly underpaid" as there is to require the retention of the employee as provided for in regulation 24(7). Regulation 24(7) may be repeated for convenience:
+
+"If the National Commissioner determines that the salary range of an occupied post exceeds the range indicated by a job weight, she or he must–
+
+if possible–
+redesign the job to equate with the post grade; or
+transfer the incumbent to another post on the same salary range; and
+abide by relevant legislation and collective agreements."
+
+[60]    The first problem with this reasoning is that there is no basis upon which to draw the conclusion that the incumbent of the upgraded post had been "significantly underpaid". The second difficulty with this approach, is that, as was pointed out by the minority, it is quite impossible to equate the consequences of upgrading with the consequences of downgrading. The judgment of the majority is not helpful in this regard. For apart from simply stating that there is "every reason to require retention" in both upgrade and downgrade situations, no particulars of the reasons are given. I cannot think of any reason to equate the consequences of upgrading and downgrading.
+
+ 
+[2006] JOL 18415 (CC) at 38
+
+[61]    The next reason advanced is that the regulations, according to the majority, contain no guidelines for how the discretion is to be exercised. It will be remembered that the minority disputed this finding, holding that guidance for the exercise of the discretion whether to have the incumbent of the upgraded post continue in that post or to advertise the post is to be found in certain regulations. Two regulations were referred to. Regulation 22(1) which provides:
+
+"Remuneration in the Service must aim, within fiscal constraints, to support–
+
+efficient and effective service delivery and provide appropriate incentives for employees; and
+equal pay for work of equal value and other labour standards."
+
+And regulation 34 which provides:
+
+"Employment practices must ensure employment equity, fairness, efficiency and the achievement of a representative Service. Affirmative action must be used to speed up the creation of a representative and equitable Service and to give practical support to those who have been historically disadvantaged by unfair discrimination to enable them to fulfill their maximum potential. Employment practices must maximize flexibility, minimize administrative burdens on both employer and employee, and generally prevent waste and inefficiency. Having regard to section 6(1) of the Constitution and without derogating from the provisions of section 6(3)(a) of the Constitution, lack of fluency in an official language shall not be a consideration in making a recommendation on the suitability of a candidate for appointment or promotion, where such fluency is not an inherent requirement of the job for which such candidate has applied" (my emphasis).
+
+I agree with the minority to the extent that these regulations do provide some guidance but, as I will show later, the discretion must be exercised in the context of the regulations, the Act and the Constitution.
+
+ 
+[2006] JOL 18415 (CC) at 39
+
+[62]    The majority makes no effort to address the assertion by the minority that the regulations concerned do provide guidance for the exercise of the discretion. In my view there is no acceptable answer to this position of the minority.
+
+[63]    The final aspect of the reasoning for the majority in relation to interpretation is that a permissive construction of the regulation would infringe the incumbent's right to fair labour practice and the right not to be unfairly dismissed. I interpret the regulation and its implications for dismissal later in this judgment.
+
+Interpretation
+
+[64]    SAPU relies on the case of Schwartz68 in support of the proposition that the use of the word "may" does not invariably confer a discretion. The Court said the following in that case:
+
+"A statutory enactment conferring a power in permissive language may nevertheless have to be construed as making it the duty of the person or authority in whom the power is reposed to exercise that power when the conditions prescribed as justifying its exercise have been satisfied. Whether an enactment should be so construed depends on, inter alia, the language in which it is couched, the context in which it appears, the general scope and object of the legislation, the nature of the thing empowered to be done and the person or persons for whose benefit the power is to be exercised".69
+
+ 
+[2006] JOL 18415 (CC) at 40
+
+[65]    SAPU contends that Regulation 24(6) is a provision of this kind. It not only permits the Commissioner to continue to employ the incumbent but obliges him to do so provided the conditions are met. In addition SAPU also relies on the constitutional injunction to interpret law so as to promote the spirit, purport and objects of the Bill of Rights. They contend that an interpretation of regulation 24(6) that merely empowers the Commissioner to act and does not oblige him to do so would result in the regulation being inconsistent with the Constitution. The regulation should be interpreted, so the argument goes, to oblige the Commissioner to act. Reliance is also placed on the judgment of this Court in Van Rooyen.70 In that case the word "may" was interpreted as conferring both a power and a duty because, if the section were to be interpreted so as to confer only a power the provision would be inconsistent with the Constitution. The regulation must be interpreted in its constitutional and statutory context.
+
+The constitutional context
+
+[66]    Although the regulations came into operation71 at the time when our Constitution was already in force, the Act was passed as a direct result of the  
+[2006] JOL 18415 (CC) at 41
+injunctions of the Interim Constitution.72 The interim Constitution and the Constitution are therefore both relevant elements of the constitutional context.
+
+[67]    The interim Constitution had two provisions relevant for present purposes. The first concerned the public service and demanded that
+
+"[i]n the filling of any post in the public service, the qualifications, level of training, merit, efficiency and suitability of the persons who qualify for the appointment, promotion or transfer concerned . . . shall be taken into account".73
+
+The second required an Act of Parliament to provide for the establishment and maintenance of uniform standards regarding, amongst other things, recruitment, appointment, promotion and transfer of members of the police service.74
+
+[68]    The police service forms part of the public service in South Africa. The provisions of the Constitution in so far as they concern the public service are therefore relevant.75 The Constitution requires national legislation to regulate the terms and conditions of employment in the public service and by implication in the police service. Because the Constitution places the public service within the public  
+[2006] JOL 18415 (CC) at 42
+administration,76 the basic values and principles governing public administration77 would also govern the public service including the police service.
+
+[69]    In my view the following principles or values are relevant to the interpretation of the regulation:
+
+• the promotion and maintenance of a high standard of professional ethics;78
+
+• the promotion of efficient, economic and effective use of resources;79
+
+• public administration must be accountable;80
+
+• the cultivation of "good human resource management and career development practices";81 and
+
+• public administration and therefore the police service is required to be broadly representative of the South African people with employment and personnel management practices based on "ability, objectivity, fairness, and the need to redress the imbalances of the past".82
+
+ 
+[2006] JOL 18415 (CC) at 43
+
+Moreover national legislation which includes regulations83 is required to ensure the promotion of all values and principles.84 The final matter to which attention must be drawn is that the Public Service Commission is required by the Constitution to propose measures to ensure effective and efficient performance within the public service.
+
+[70]    We also find relevant provisions in the Constitution that concern SAPS directly. The National Commissioner, appointed by the President,85 "must exercise control over and manage the police service".86 This general provision is given more flesh in a provision87 concerned with the responsibilities of the National Commissioner which was expressly kept alive by the transitional provisions of the final Constitution.88 The Commissioner is specifically made responsible for the maintenance of an impartial, accountable, transparent and efficient police service,89 as well as the recruitment, appointment, promotion and transfer of all the members of SAPS.
+
+[71]    Two other constitutional provisions which I consider relevant are contained in the Bill of Rights. The first provides that everyone has the right to fair labour  
+[2006] JOL 18415 (CC) at 44
+practices.90 The second which need not be discussed here is concerned with equality and expressly authorises legislative and other measures designed to protect or advance people disadvantaged by unfair discrimination may be taken in order to promote equality.91 This is referred to in some circles as the affirmative action provision. This is the terminology I intend to adopt.
+
+[72]    In summary, it can fairly be said that the Constitution requires a balanced approach. On the one hand fair labour practices and affirmative action must be observed in the police service. On the other hand, it is recognised that effectiveness, efficiency, high ethical standards and progressive human resource policies are crucial. The case must be evaluated in this context.
+
+The statutory context and the general approach
+
+[73]    A number of statutory provisions must be borne in mind. The Public Service Act92 authorises the discharge of an employee but the power must be exercised "with due observance of the applicable provisions of the Labour Relations Act".93 In addition, these very regulations oblige the Commissioner in the process of planning to "address the position of employees affected by the abolition of unnecessary posts with the retrenchment of employees only . . . as the last resort".(My emphasis)94 Finally,  
+[2006] JOL 18415 (CC) at 45
+reference must be made to the fact that an incumbent who is dissatisfied with a decision not to promote is entitled to challenge the correctness of that decision through conciliation and mediation95 on the basis that the decision represents an unfair labour practice96 in contravention of the provisions of that Act.97
+
+[74]    A broad question to which attention must be paid before deciding how to interpret the regulation is whether the question must be decided on the assumption that the Commissioner, if he has the discretion, will exercise it properly and responsibly or whether one makes the analysis on the footing that the functionary concerned will not exercise the discretion, if it is found to have been imposed upon the office, properly. In other words, we must decide whether we determine the case on the basis of a cynical view of the ability of the Commissioner to exercise an appropriate discretion. This Court has pronounced on the vexed question of assumption-driven decision-making in Van Rooyen:98
+
+"Any power vested in a functionary by the law (or indeed by the Constitution itself) is capable of being abused. That possibility has no bearing on the constitutionality of the law concerned. The exercise of the power is subject to constitutional control and should the power be abused the remedy lies there and not in invalidating the empowering statute.
+
+The findings made by the High Court concerning the Magistrates Commission are premised on the assumption that a body consisting of judicial officers, legal  
+[2006] JOL 18415 (CC) at 46
+practitioners, members of Parliament and nominees of the Executive, charged with the important duty of protecting the independence of magistrates, will either be, or objectively be perceived to be, a sham, concerned more with pleasing the Minister of Justice than with discharging its responsibilities. I should say immediately that there is, in my view, no basis for such an assumption, nor for the conclusion reached by the High Court to that effect. However, the findings lie at the heart of the judgment of the High Court and it is therefore necessary to deal with them in some detail." (footnotes omitted)99
+
+[75]    It follows in my view that the interpretation of the regulation must be undertaken on the basis that if the Commissioner has a discretion, he will exercise it fairly and with due regard to all the relevant protection to which an incumbent is entitled in terms of the relevant legislation.100 We are required to determine whether the Commissioner has a discretion, on the assumption that, if he has a discretion, he will exercise it properly. The assumption that he would exercise the discretion improperly is an irresponsible and unjustifiable one. The improper exercise by the Commissioner of a discretion is subject to judicial control. We can now proceed to an interpretation of the regulation.
+
+[76]    In the first place I do not agree with the reasons given by the majority in the Supreme Court of Appeal for their interpretation of the regulation as I have set out above. Indeed, my colleague Sachs J is correct in the observation that the conclusion of the Supreme Court of Appeal cannot be accepted for the additional fundamental  
+[2006] JOL 18415 (CC) at 47
+reason that the majority interpretation gives rise to a situation too inflexible to accord with the constitutional and other requirements imposed upon the Commissioner. There is nothing in the context that suggests that the word "may" must be given anything but its ordinary permissive meaning without the obligation to exercise the power it confers. Where the drafters of the regulation intend to impose a duty upon the Commissioner they do so by the use of the word "must".
+
+[77]    I now come to the final argument on behalf of the union that the fact that the unpromoted incumbent of the upgraded post will be exposed to dismissal is a factor which militates against the Commissioner's exercise of any discretion. The argument is that the dismissal of a satisfactorily performing incumbent in an upgraded post merely because he is not appointed or promoted to that post would be unfair. It is argued that this unfairness would render the regulation unconstitutional.
+
+[78]    The question to be answered is whether the regulation does permit dismissal merely by reason of the fact that the incumbent concerned was not appointed to the upgraded post. It must first be acknowledged that the regulation is not concerned with dismissal at all.
+
+[79]    Regulation 24 as a whole regulates the consequences of an evaluation process. This is confirmed by the detailed job evaluation guide101 which shows how the various decisions are to be taken. In broad terms, it is sufficient to say that the decision is  
+[2006] JOL 18415 (CC) at 48
+finally taken by the appointed decision-maker on a decentralised basis. The guide says:
+
+"Emanating from the 1997 and 1998 amendments to the Public Service Act, 1994, a new decentralised approach to work organisation and human resource management, as embodied in the Public Service Regulations, 1999 has been established. Under the Regulations, executing authorities have a far greater degree of autonomy to take decisions on the salaries and grading of their employees than was previously the case. Job evaluation will help ensure that transverse consistency is maintained across the Public Service by providing the framework within which executing authorities should take such decisions.
+
+Job evaluation is the main mechanism available to ensure compliance with the principle of equal pay for work of equal value as envisaged in the White Paper on the Transformation of the Public Service."
+
+[80]    The objectives of job evaluation are stated as follows in the job evaluation guide:
+
+"In basic terms, job evaluation is a process of comparing jobs with one another. It deals with the relationships between the jobs within an organisation. Stated in another way, job evaluation is used as an objective process to determine the relative size or weight of jobs within an organisation. As such, job evaluation is aimed at providing a defensible and equitable basis for determining and managing internal pay relativity between jobs. It also provides the framework within which decisions on salaries and grading can be made."
+
+[81]    The Minister102 could never have contemplated that this regulation aimed at dealing with the consequences of the upgrading of a post could result in the dismissal of the incumbent of that post in circumstances where he had been performing  
+[2006] JOL 18415 (CC) at 49
+satisfactorily in the upgraded post. If this had been the intention, I would have expected this to have been said in so many words. And even if this had been expressly said in the regulations, the constitutionality of a provision of this kind would, in my view, be extremely doubtful. In the circumstances, I conclude that the exercise of the Commissioner's discretion is limited. The discretion cannot be exercised in such a way as to raise the possibility of the dismissal of the satisfactorily performing incumbent. If it does, the exercise of that discretion will be invalid. To put it positively, it is implied in the regulation that the Commissioner may only exercise a discretion not to appoint the incumbent if satisfied that the incumbent would not find herself out of a job merely by reason of the decision of the Commissioner to advertise the post and the fact of the incumbent not being appointed to that post.
+
+[82]    In the circumstances, on a proper construction of the regulation, the majority judgment in the Supreme Court of Appeal wrongly concluded that the conferral of a discretion by the regulation raises the spectre of unfair dismissal. It does not.
+
+[83]    For these reasons and for the reasons set out in the judgment of Sachs J that are consistent with this judgment, I concur in the order made by my colleague.
+
+ 
+[2006] JOL 18415 (CC) at 50
+
+O'REGAN J:
+
+[84]    I have had the opportunity of reading the judgments prepared in this matter by my colleagues Sachs J and Yacoob J. I cannot agree with their reasoning or outcome for the reasons that follow.
+
+[85]    The simple question in this case is what regulation 24(6) of the regulations for the South African Police Services (SAPS) means. Regulation 24(6) provides as follows:
+
+If the National Commissioner raises the salary of a post as provided under sub-regulation (5), she or he may continue to employ the incumbent employee in the higher-graded post without advertising the post if the incumbent–
+already performs the duties of the post;
+has received a satisfactory rating in her or his most recent performance assessment; and
+starts employment at the minimum notch of the higher salary range."
+
+The National Police Commissioner (the Commissioner) claims that this regulation permits him to decide when upgrading a post whether to allow an incumbent who complies with the conditions in sub-regulation 6(a) and (b) to move into the post without the post being advertised, or whether to advertise the post and appoint someone else to the newly upgraded position. The Public Servants Association (the union) on the other hand argues that if an incumbent of a post to be re-graded complies with conditions (a) and (b), then the Commissioner, when upgrading the post, must appoint the incumbent to that post without advertisement.
+
+ 
+[2006] JOL 18415 (CC) at 51
+
+[86]    The question is one of interpretation. The starting point is the text of the provision. The provision states that if the Commissioner increases the salary range of a filled position because a job evaluation process indicates that it has been under-graded, the Commissioner may continue to employ the incumbent in the position if the incumbent already performs the duties of the post, and has received a satisfactory grading for so doing. In many circumstances, where a provision provides that a person "may" do something, it means not that the person is obliged to do something, but that the person is permitted to do it, if she or he chooses. In other circumstances, the fact that a person "may" do something means that they have the power to do something (that they might not ordinarily have the power to do) and that they have a duty to exercise the power in certain circumstances.103 The question that arises is what "may" means in section 24(6).
+
+[87]    We need to answer that question with a weather-eye to the spirit, purport and objects of the Bill of Rights104 to which I will return later; but the starting point remains the text and context of the provision itself. Regulation 24(6) is part of a regulation  
+[2006] JOL 18415 (CC) at 52
+directed at grading and remuneration. Regulation 24(1) imposes an obligation upon the National Commissioner to grade posts to ensure that they are correctly graded according to their job weight.105 It also obliges the Commissioner to set commencing salaries on the lowest notch of the salary range attached to the particular grade to which a post has been allocated, save in special circumstances.106
+
+[88]    If, as a result of a job evaluation exercise, it is discovered that a post is incorrectly graded, the Commissioner must either effect changes to the work organisation (presumably, by adding or subtracting duties from a filled post so as to ensure the post is no longer incorrectly graded) or the Commissioner must re-grade the post.107 The Commissioner may only increase the salary attached to a post in order to grade it correctly, if the job evaluation exercise indicates that the post was previously incorrectly graded and there are sufficient funds in the budget to do so.108 
+
+ 
+[2006] JOL 18415 (CC) at 53
+
+Accordingly, if there are not adequate funds, the Commissioner has no choice but to make work organisational changes to ensure that the post is correctly graded.
+
+[89]    Sub-regulation (6) then provides that if the Commissioner does raise the salary of a post previously incorrectly graded he may continue to employ the incumbent employee in the higher-graded post without advertising, if the incumbent already performs the duties of the post satisfactorily. In such circumstances, the incumbent must be employed at the minimum notch of the higher salary range. In understanding this provision, it is important to note two things: firstly, that the effect of re-grading the post is to create a new job that is vacant from the moment it is created; and secondly, that ordinarily all vacant jobs in the police service must be advertised. Indeed, regulation 36(2)(c) and (d) impose an obligation upon the Minister in the following terms:
+
+The National Commissioner must advertise any vacant post in the senior management nationally simultaneously inside and outside the Service.
+The National Commissioner must advertise any vacant post other than those for the senior management, as a minimum, within the Service, but may also advertise such posts–
+within the rest of the Public Service;
+outside the Public Service either nationally or locally; or
+by other acceptable means of recruitment.
+The National Commissioner may fill a vacant post without complying with the requirements of paragraph (c) and (d) if–
+the Service can utilise supernumerary staff of equal grading to fill the post, or other staff of equal grading if the latter is in the interest of the Service;
+the Service can absorb into the post an employee appointed or serving under an affirmative action or other similar acceleration programme, and if she or he meets the requirements of the post; or 
+[2006] JOL 18415 (CC) at 54
+ (iii) the Service plans to fill the post as part of a programme of laterally rotating or transferring employees to enhance organisational effectiveness and the skills of the employees."
+
+In the ordinary course, therefore, and without any provision to the contrary, the effect of the creation of a new post as a result of the job evaluation exercise, would be to require the post to be advertised at least within the Public Service. I shall return to the significance of this in a moment.
+
+[90]    The remaining provisions of regulation 24 govern the situation where it is discovered as a result of a job evaluation exercise that a post has been over-valued. Regulation 24(7) provides that in these circumstances a Commissioner must if possible redesign the job to equate with the post grade, or transfer the incumbent to another post at the same salary range and, whichever route is chosen, he must abide by the relevant legislation and collective agreements.109
+
+[91]    The question that arises is whether regulation 24(6) in this context: (a) permits the Commissioner, in circumstances where a post that has been under-graded and is being performed satisfactorily by its incumbent, to choose whether to advertise the post or to appoint the incumbent automatically to the newly re-graded post; or (b)  
+[2006] JOL 18415 (CC) at 55
+permits the Minister not to advertise the post, despite the obligatory provisions of regulation 36, but requires the Commissioner to appoint an incumbent who is already performing the tasks of the re-graded position satisfactorily.
+
+[92]    In answering this question, the provisions of the Constitution are relevant. Section 23(1) of the Constitution provides that everyone is entitled to fair labour practices.110 The majority in the Supreme Court of Appeal held that if regulation 24(6) was interpreted to afford the Commissioner a discretion as to whether to advertise the position or not, and the position was advertised, a candidate other than the incumbent would be appointed to the post which would create the risk that the incumbent would lose his or her job. In this Court too, counsel for the Commissioner conceded that there was a real risk of such job losses. It was primarily for this reason that the majority in the Supreme Court of Appeal concluded that properly interpreted regulation 24(6) does not afford the Commissioner a discretion whether to advertise or not.
+
+[93]    Sachs J, with whom Yacoob J concurs, holds that properly understood, regulation 24(6) confers a power upon the Commissioner to choose whether or not to advertise a post that has been created in these circumstances, but holds that that choice may not result in a redundancy. Although I agree that regulation 24(6) should not be read to create the possibility of job losses, to ensure that the interpretation afforded to the regulation is consonant with the spirit, purport and object of the Bill of Rights, I  
+[2006] JOL 18415 (CC) at 56
+am not persuaded that the approach to the regulation adopted by Sachs J and Yacoob J is correct.
+
+[94]    In the first place, their interpretation may stretch the text of regulation 24(6) beyond its reasonable bounds. If the text is read to permit a choice as to whether to advertise or not, the inevitable consequence is that a person other than a satisfactorily performing incumbent may be appointed to the newly re-graded post with the effect that the incumbent no longer has a post. The requirement that the discretion may only be exercised if job losses will not result is not explicitly mentioned in the regulation. At times, to comply with section 39(2) of the Constitution, a provision must be given a meaning which may not be the first meaning that springs to mind. However, it may not be given a meaning beyond that which it is reasonably capable of bearing. It seems to me that the interpretation suggested by Sachs J and Yacoob J's may well fall foul of this requirement.
+
+[95]    As importantly, however, it seems to me that the interpretation will, in effect, result in the Commissioner often not genuinely being able to exercise a choice. Indeed, he will not be able to advertise the post unless there is a suitable vacant position at an appropriate level to which the incumbent can be moved. Bear in mind, that if after advertisement a candidate other than the incumbent is selected for the position, the incumbent will have no post unless moved to another vacant post. She or he will only be able to be moved into another vacant post in accordance with regulation 36(2)(e) if there is such a vacant post in existence at a similar grading level. 
+
+ 
+[2006] JOL 18415 (CC) at 57
+
+Moreover, given that job evaluation exercises the evaluation of large numbers of posts, it is clear what will happen should more incumbents be rendered supernumerary that the number of available suitable vacant posts. In the circumstances, unless there is a vacant post to which the incumbent can, without contest from other candidates, be moved, the Commissioner cannot be sure that a job loss will not result, once he commences the process of advertisement. In the circumstances, it is not clear to me, how often the Commissioner will really have a choice on the interpretation proposed by Sachs J and Yacoob J, that really has a choice weather to advertise or not.
+
+[96]    For these reasons, I cannot agree with the meaning given to regulation 24(6) by Sachs J and Yacoob J. In my view, the interpretation of the regulation endorsed in the majority judgment in the Supreme Court of Appeal is correct. Given the constitutional insistence on fair labour practices, regulation 24(6) should be understood as one of those occasions where the word "may" properly understood not only permits non-compliance with another general obligation (in this case, the general requirement of advertisement provided for in regulation 34), but where certain conditions are met (that there is an incumbent already satisfactorily performing the tasks of the new post), obliges the Commissioner not to comply with the obligation to advertise and to appoint the incumbent to the new post. Moreover, once the Commissioner must appoint the satisfactory incumbent to the new post, there is an obligation to appoint the incumbent at the lowest level in the salary range (regulation 24(6)(c)).
+
+ 
+[2006] JOL 18415 (CC) at 58
+
+[97]    This interpretation avoids the risk that satisfactorily performing incumbents will lose their jobs as the result of a job evaluation exercise. Job security is an important consideration given constitutional force by the right to fair labour practices. Moreover this interpretation is one that the text of the provision is quite capable of bearing. Although it may be that ordinarily the word "may" confers a choice, it is well-recognised that this is not always the case, and this, in my view, is another of those cases.
+
+[98]    The considerations raised by Sachs J and Yacoob J relating to the need to ensure that SAPS is transformed into a police service representative of the broader South African population is an important consideration, but one not relied upon by counsel for the Commissioner either in written argument or, under questioning from the bench, in oral argument. In the circumstances, I am not persuaded that it can weigh heavily in the balance.
+
+[99]    For these reasons, although I accept that a constitutional matter of substance has been raised and so would grant the application for leave to appeal, I would dismiss the appeal.
+
+(Nkabinde J concurred in the judgment of Sachs J).
+
+(Langa CJ, Moseneke DCJ, Mokgoro, Skweyiya and Van der Westhuizen JJ concurred in the judgment of Sachs and Yacoob JJ).
+
+
+
+Footnotes
+1	 By the Minister for Safety and Security in terms of s 24(1) of the South African Police Service Act, 1995 (Act 68 of 1995), R 389, Government Gazette 21088 on 14 April 2000.
+2	 These included the Public Servants Association of South Africa, the Police and Prisons Civil Rights Union (POPCRU) and the South African Police Union. At a later stage POPCRU distanced itself from the other unions and indicated its support for the position advanced by the Commissioner.
+3	By the Deputy National Commissioner responsible for human resource management and legal services.
+4	The National Commissioner of the South African Police Service v The South African Police Union and others (TPD) Case No 28812/02, 31 October 2003, as yet unreported.
+5	The Public Servants Association v National Commissioner of the South African Police Service SCA 573/04, 25 November 2005, as yet unreported.
+6	Howie P with Nugent and Lewis JJA concurring.
+7	 Sub-reg 7 reads:
+  "If the National Commissioner determines that the salary range of an occupied post exceeds the range indicated by a job weight, she or he must–
+ (a) if possible–
+ (i) redesign the job to equate with the post grade; or
+ (ii) transfer the incumbent to another post on the same salary range; and
+ (b) abide by relevant legislation and collective agreements."
+8	 Act 66 of 1995.
+9	Streicher JA with the concurrence of Maya AJA.
+10	Reg 36(2) reads:
+ "(a) The National Commissioner must ensure that advertisements of vacancies aim to reach, as efficiently and effectively as possible, the entire pool of potential applicants, especially persons historically disadvantaged.
+ (e) The National Commissioner may fill a vacant post without complying with the requirements of paras (c) and (d) if−
+ (i) the Service can utilise supernumerary staff of equal grading to fill the post, or other staff of equal grading if the latter is in the interest of the Service;
+ (ii) the Service can absorb into the post an employee appointed or serving under an affirmative action or other similar acceleration programme, and if she or he meets the requirements of the post; or
+ (iii) the Service plans to fill the post as part of a programme of laterally rotating or transferring employees to enhance orginisational effectiveness and the skills of employees."
+11	 Reg 45 reads:
+  "In the case of unsatisfactory performance, the National Commissioner must−
+ (a) provide systematic remedial or developmental support to assist the employee to improve her or his performance; or
+ (b) if the performance is so unsatisfactory as to be poor and the desired improvement cannot be effected consider steps to discharge the employee for unfitness or incapacity to carry out her or his duties."
+12	 Reg 22(1).
+13	Reg 34.
+14	S 167(3)(b) of the Constitution provides that:
+  "The Constitutional Court may decide only constitutional matters, and issues connected with decisions on constitutional matters."
+15	 S 207(2) provides that:
+  "The National Commissioner must exercise control over and manage the police service in accordance with the national policing policy and the directions of the Cabinet member responsible for policing."
+16	 Van Rooyen and others v The State and others (General Council of the Bar of South Africa Intervening) 2002 (5) SA 246 (CC); 2002 (8) BCLR 810 (CC).
+17	S 13(3)(aA).
+18	Van Rooyen above n16 at paras [180]–[182] in which it explains that the permissibility of such an interpretation has been made clear by a number of decisions, including, Weissglass N.O v Savonnerie Establishment 1992 (3) SA 928 (AD) at 937; Commissioner for Inland Revenue v IHB King; Commissioner for Inland Revenue v AH King 1947 (2) SA 196 (A) at 209–210 and South African Railways and Harbours v New Silverton Estate, Ltd 1946 AD 830 at 842.
+  Footnote 163 in Van Rooyen above n16 cites Wade and Forsyth in Administrative Law (8ed, Oxford, University Press, Oxford 2000) as saying at 239:
+  "The hallmark of discretionary power is permissive language using words such as 'may' or 'it shall be lawful', as opposed to obligatory language such as 'shall'. But this simple distinction is not always a sure guide, for there have been many decisions in which permissive language has been construed as obligatory. This is not so much because one form of words is interpreted to mean its opposite, as because the power conferred is, in the circumstances prescribed by the Act, coupled with a duty to exercise it in a proper case."
+19	Further support of the proposition that the use of the word "may" does not invariably confer a discretion, comes from Schwartz v Schwatz 1984 (4) SA 467 (AD) at 473–474 in which it was said:
+  "A statutory enactment conferring a power in permissive language may nevertheless have to be construed as making it the duty of the person or authority in whom the power is reposed to exercise that power when the conditions prescribed as justifying its exercise have been satisfied. Whether an enactment should be so construed depends on, inter alia, the language in which it is couched, the context in which it appears, the general scope and object of the legislation, the nature of the thing empowered to be done and the person or persons for whose benefit the power is to be exercised."
+20	Jaga v Dönges , NO and another; Bhana v Dönges, NO and another 1950 (4) SA 653 (AD) at 662G–H.
+21.	Id at 664C–D.
+22	 Id at 664H.
+23	 S 39(2) provides that "When interpreting any legislation . . . every court . . . must promote the spirit, purport and objects of the Bill of Rights."
+24	 See preamble to the Constitution.
+25	Investigating Directorate: Serious Economic Offences and others v Hyundai Motor Distributors (Pty) Ltd and others 2001 (1) SA 545 (CC); 2000 (10) BCLR 1079 (CC).
+26	 S 207 provides that the President as head of the national executive must appoint a woman or a man as the National Commissioner of the police service, to control and manage the police service (207(1)). The National Commissioner must exercise control over and manage the police service in accordance with the national policing policy and the directions of the Cabinet member responsible for policing (207(2)). The responsibility of provincial commissioners for policing in their respective provinces is made subject to the power of the National Commissioner to exercise control over and manage the police service (207(4)).
+27	 See chapter 11 of the Constitution, which deals with security services.
+28	S 23(1) of the Constitution. The Labour Relations Act 66 of 1995 further provides in s 185:
+  "Every employee has the right not to be−
+ (a) unfairly dismissed; and
+ (b) subjected to unfair labour practice."
+  S 186(2) provides further:
+  '"Unfair labour practice' means an unfair act or omission that arises between an employer and an employee involving–
+ (a) unfair conduct by the employer relating to the promotion, demotion, probation (excluding disputes about dismissals for a reason relating to probation) or training of an employee or relating to the provision of benefits to an employee;
+ (b) the unfair suspension of an employee or any other unfair disciplinary action short of dismissal in respect of an employee;
+ (c) a failure or refusal by an employer to reinstate or re-employ a former employee in terms of any agreement; and
+ (d) an occupational detriment, other than dismissal, in contravention of the Protected Disclosures Act, 2000 (Act 26 of 2000), on account of the employee having made a protected disclosure defined in that Act."
+29	 Reg 21(1).
+30	 Reg 21(3).
+3	 Dealing with appointments in the public service generally the guide to job evaluation says:
+  "Emanating from the 1997 and 1998 amendments to the Public Service Act, 103 of 1994, a new decentralised approach to work organisation and human resource management, as embodied in the Public Service Regulations, 1999 has been established. Under the Regulations, executing authorities have a far greater degree of autonomy to take decisions on the salaries and grading of their employees than was previously the case. Job evaluation will help ensure that transverse consistency is maintained across the Public Service by providing the framework within which executing authorities should take such decisions."
+32	 Although initially intended to last only until 31 December 1995 its application was repeatedly extended by collective agreements with the result that it was still being applied during October 2001.
+33	 The rank immediately below that of superintendent is that of captain and the evidence demonstrates that people holding the post of captain would ordinarily qualify for promotion to the post of superintendent.
+34	Port Elizabeth Municipality v Various Occupiers 2005 (1) SA 217 (CC); 2004 (12) BCLR 1268 (CC) at para [23].
+35	 In attempting to reconcile these different considerations, it will be useful to consider certain practical examples. The consequence of automatic promotion would be that a satisfactorily performing captain would become a superintendent even if not the best candidate and there is in fact no threat to his or her job because another vacant post of captain is available to which the captain can be transferred. Similarly, if four captains were doing jobs that were upgraded to the post of superintendent and money was available to upgrade only two posts, it would mean that the two captains who fortuitously occupied the only two posts that could be upgraded become superintendents on the basis of their satisfactory performance. The other two captains are excluded from the process even if they are better qualified for the job and even if they have been exceptional performers. The examples suggest that automatic promotion to the upgraded post would not necessarily best further the objectives of the regulations. On the contrary, considerations of flexibility and transparency would point in the direction of keeping alive the option of advertising the post.
+36	 This does not prevent a disappointed incumbent who remains in the service from having recourse to administrative and labour law processes on a case by case basis in order to challenge an exercise of a discretion, first to advertise and second, not to appoint him or her.
+37	 Reg 24(6) of the Regulations for the South African Police Service promulgated by the Minister of Safety and Security Government Gazette 21088 GN R 389, 14 April 2000.
+38	 South African Police Service Act 68 of 1995.
+39	 I set out the Regulation in its context later in this judgment.
+40	The National Commissioner of the South African Police Service v The South African Police Union and others (TPD) Case No 28812/02, 31 October 2003, as yet unreported.
+41	The Public Servants Association v The National Commissioner of the South African Police Service (SCA) 573/04, 25 November 2005, as yet unreported.
+42	 Three judges.
+43	 Two judges.
+44	 Reg 34.
+45	Above n4 at para [16].
+46	 Id.
+47	Id at para [20].
+48	Id at para [22].
+49	 Above n5 at para [21].
+50	 Id at para [12].
+51	 Id.
+52	 Id at para [14].
+53	 Id at para [15].
+54	 Id at para [17.
+55	 Id at para [18].
+56	 Id at para [20].
+57	 Id at para [33].
+58	 Id at para [34].
+59	 Id at paras [37] and [38].
+60	 Id at para [39].
+61	 Id at para [40].
+62	 Reg 22(1).
+63	 Reg 34.
+64	 Above n5 at para [41].
+65	 Id at para [42].
+66	 The reasoning is summarised in para [50].
+67	 As summarised in paragraph [51] of this judgment.
+68	Schwartz v Schwartz 1984 (4) SA 467 (AD) at 473–4.
+69	 Id.
+70	Van Rooyen and others v The State and others (General Council of the Bar of South Africa Intervening) 2002 (5) SA 246 (CC); 2002 (8) BCLR 810 (CC) at paras [181]–[2].
+71	S 1 of the Regulations provides:
+ "(1) These regulations shall be called the South African Police Service Employment Regulations, 1999 (hereinafter referred to as these Regulations) and subject to sub-reg (2) come into operation on 1 July 1999.
+ (2) The regulations specified hereunder shall come into operation on the dates mentioned in respect thereof:
+ (a) Regs 19(6) and 29(3) on 1 October 1999;
+ (b) Regs 14, 17(c) and 40 on 1 January 2000; and
+ (c) Regs 13(2)(b), 17(b) and 19(1) on a date to be determined by the Minister in the Gazette."
+72	 Act 200 of 1993.
+73	 S 212(4).
+74	 S 214(2)(b)(ii) of the interim Constitution repealed by s 242 of the Constitution.
+75	 Chapter 10.
+76	 S 197(1).
+77	 S 195 of the Constitution.
+78	 S 195(1)(a).
+79	 S 195(1)(b).
+80	 S 195(1)(f).
+81	 S 195(1)(h).
+82	 S 195(1)(i).
+83	 S 239 of the Constitution.
+84	 S 195(3).
+85	 S 207(1) of the Constitution.
+86	 S 207(2).
+87	 S 218 of the interim Constitution.
+88	 Schedule 6 Item 24 read with Annexure D.
+89	 S 218(1)(a) of the interim Constitution.
+90	 S 23(1).
+91	 S 9(2).
+92	 (Proclamation 103) of 1994 s 17(1)(a).
+93	Act 66 of 1995.
+94	Reg 15(1)(d).
+95	Above n55, s 191.
+96	Above n55, s 186(2).
+97	 Above n55, s 185.
+98	 Above n32.
+99	 Id at paras [37] and [38].
+100	 See Nel v Le Roux NO and others 1996 (3) SA 562 (CC); 1996 (4) BCLR 592 (CC) at paras [6]–[9]. See also Bernstein and others v Bester NO and others NNO 1996 (2) SA 751 (CC); 1996 (4) BCLR 449 (CC) at para [60].
+101	 An Evaluation Guide produced by the Department of Public Service and Administration for the guidance of all sectors of the public service including SAPS circulated during 2002.
+102	 The Minister is responsible for making the regulations. See n1 above.
+103	See Van Rooyen v The State and others 2002 (5) SA 246 (CC); 2002 (8) BCLR 810 (CC) at paras [181]–[182]. See also Commissioner for Inland Revenue v King 1947 (2) SA 196 (A) at 209–210; Weissglass NO v Savonnerie Establishment 1992 (3) SA 928 (AD) at 937B–F; Schwartz v Schwartz 1984 (4) SA 467 (AD) at 473I–474D. In the latter case, the Court held that:
+  "Whether an enactment should be so construed depends on, inter alia, the language in which it is couched, the context in which it appears, the general scope and object of the legislation, the nature of the thing empowered to be done and the person or persons for whose benefit the power is to be exercised" (at 474B).
+104	 S 39(2) of the Constitution provides as follows:
+  "When interpreting any legislation, and when developing the common law or customary law, every court, tribunal or forum must promote the spirit, purport and objects of the Bill of Rights."
+105	Reg 24(1) provides as follows:
+  "The National Commissioner must determine the grade of a post to correspond with its job weight and set the commencing salary of an employee on the minimum notch of the salary range attached to the relevant grade, unless the salary proves inadequate under the criteria in sub-reg (3)."
+106	Reg 24(3) sets out those circumstances as follows:
+  "The National Commissioner may set the salary a post or an employee above the minimum notch of the salary range indicated by the job weight–
+ (a) if she or he has evaluated the job, but cannot recruit or retain an employee with the necessary competencies at the salary indicated by the job weight; and
+ (b) she or he shall record the reasons why the salary indicated by the job weight was insufficient."
+107	Reg 24(5) provides as follows:
+  "The National Commissioner may increase the salary of a post to a higher salary range in order to accord with the job weight, if–
+ (a) the job weight as measured by the evaluation system indicates that the post was graded incorrectly; and
+ (b) the budget of the Service and the medium-term expenditure framework provide sufficient funds."
+108	Id.
+109	Reg 24(7) provides as follows:
+  "If the National Commissioner determines that the salary range of an occupied post exceeds the range indicated by a job weight, she or he must–
+ (a) if possible–
+ (i) redesign the job to equate with the post grade; or
+ (ii) transfer the incumbent to another post on the same salary range; and
+ (b) abide by relevant legislation and collective agreements."
+110	S 23(1) of the Constitution provides as follows: "Everyone has the right to fair labour practices."
+
+Appearance:
+R Sutherland SC, D Mashigo, Routledge Modise Morris (At); GJ Marcus SC, KW Luderitz, Couzyn Hertzog & Horak (R)
+
+
+End of Document

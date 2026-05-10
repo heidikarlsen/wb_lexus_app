@@ -1,0 +1,138 @@
+
+
+
+
+Whistle while you work but maybe not for long
+IR - Editorial
+
+Whistle while you work but maybe not for long
+
+On 3 April 2014 in Ngobeni v Minister of Communications (J08/14) [2014] ZALCJHB 96, Acting Justice Tlhotlhalemaje in the Labour Court held that even ‘protected disclosures’ made in good faith will not always entitle employees to relief against occupational detriments.
+
+In reaching a decision, the court referred to a 1999 survey in the United Kingdom and the USA in which 84% of 230 whistle-blowers lost their jobs after informing their employer of fraud, even though they were not party to it. 
+
+In para 4 the Acting Justice had this to say:
+
+“Following the dismantling of the evil system of apartheid, sadly in its stead, we have an even more evil and sustained system and culture of fraud, theft, corruption, nepotism, and other forms of malfeasant (sic) committed by the very same people entrusted with the protection of the public funds. The whistle-blowers are patriotic individuals, who are now the face of our new struggle against such evil and wanton looting”.
+
+In Ngobeni, the applicant disclosed improprieties on the part of senior officials in the department and revealed possible breaches of legal obligations and criminal conduct. The Minister argued that the truthfulness of the applicant’s allegations was irrelevant and instead focussed on allegations of misconduct levelled against the applicant. To this end the respondent intended to take disciplinary action, in the form of a discplinary enquiry, against the applicant.
+
+The applicant then approached the court for relief. In order to succeed in obtaining relief he had to show that the intended disciplinary action - 
+
+ • was an ‘occupational detriment’;
+
+ • would cause irreparable harm; and
+
+ • that there were no alternative remedies.   
+
+The Act: Protected Disclosures Act 26 of 2000 (PDA)
+
+The PDA deals with the disclosure of information about unlawful and/or irregular conduct by employers and their employees. 
+
+It protects employees from being subjected to ‘occupational detriments’ and provides remedies and procedures to allow employees to disclose such information safely and properly.
+
+Employers and employees are obliged to disclose criminal and irregular conduct in the workplace. Employers must also take all necessary steps to ensure that employees who disclose such information are protected from any reprisals.  
+
+'Disclosure' covers information about any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show in broad outline one or more of the following:
+
+ • commission of a crime.
+
+ • failure to comply with legal obligation.
+
+ • miscarriages of justice.
+
+ • endangering the health or safety of an individual.
+
+ • damage to the environment.
+
+ • discrimination under the Promotion of Equality and Prevention of Unfair Discrimination Act 4 of 2000.
+
+ • concealment of any of the above matters.
+
+Various sections of the PDA protect disclosures made inter alia to legal advisors, employers, Cabinet members and provincial Executive Council members.
+
+Occupational detriments
+
+Employees who have been subjected to ‘occupational detriments’ may apply to the Labour Court, amongst others, for appropriate relief or ‘pursue any other process allowed or prescribed by any law’. 
+
+An ‘occupational detriment’ is deemed to be an ‘unfair labour practice’; see section  186(2) of the Labour Relations Act 66 of 1995 (LRA). 
+
+An ’unfair labour practice’ includes any unfair act or omission that arises between an employer and an employee involving an ‘occupational detriment’, other than dismissal, in contravention of the PDA if the employee makes a ‘protected disclosure’. 
+
+The required statutory procedures, i.e. conciliation and then adjudication by the Labour Court, must be followed.
+
+Important SCA decision
+
+The SCA provided significant guidance in City of Tshwane Metropolitan Municipality v Engineering Council of SA  (2009) 18 SCA 1.11.5. 
+
+See the editorial in July 2013 Operational requirements and unprotected disclosures . 
+
+Labour Appeal Court decisions
+
+There are two particularly important judgments. 
+
+In Minister of Justice & Constitutional Development v Tshishonga  (2009) 18 LAC 1.11.23 Justice of Appeal Davis confirmed the judgment in Tshishonga v Minister of Justice & Constitutional Development  (2006) 15 LC 6.4.2. 
+
+Being subjected to an ‘occupational detriment’ is a very serious form of discrimination. Although the award of compensation was reduced there was no doubt that suspending the employee and ‘charging’ him with misconduct was just a small step away from dismissing him. See the Comment in February 2014 Requirements for dismissing unprotected strikers. 
+
+Judge President Mlambo, as he then was, in Radebe v Premier, Free State  (2013) 22 LAC 10.10.1 allowed the employee’s appeal from the judgment in Radebe v Premier, Free State  (2009) 18 LC 10.10.1. In his judgment justice Mlambo explained what constituted protected disclosures and dealt with the issue of good faith. He also held that employees were not obliged to prove the allegations.
+
+Labour Court decisions
+
+Apart from the decision under discussion there have been a number of interesting decisions, including Randles v Chemical Specialist Ltd  (2011) 20 LC 1.2.1 per Basson J; Arbuthnot v SA Municipal Workers Union Provident Fund (2012) 33 ILJ 584 per Van Niekerk J and Van Alphen v Rheinmetall Denel Munition (Pty) Ltd  (2013) 22 LC 11.1.1 per Steenkamp J.
+
+The Ngobeni dispute
+
+It was held that the allegations and disclosures made by the applicant could not simply be brushed aside for the purposes of a proper determination of this application. 
+
+The applicant contended that he was subjected to relentless occupational detriment, and further that it was within the context of the timing of these disclosures that a determination had to be made as to whether the applicant was entitled to the relief he sought.
+
+Requirement for granting final relief on application
+
+The Minister opposed the application based on the - 
+
+ • lack of good faith; 
+
+ • absence of any occupational detriment; and 
+
+ • lack of a causal relationship between the disclosure and the pending disciplinary enquiry concerning alleged procurement irregularities and insubordination.
+
+The applicant had to prove a clear right; i.e. an injury actually committed or reasonably apprehended and the absence of another suitable remedy. 
+
+The Minister agreed that the applicant had disclosed improprieties, and the court stated
+
+“[49]  In the light of it being common cause that a disclosure of improprieties was made, the only issue that the applicant needs to establish is whether the intended disciplinary hearing will be an occupational detriment on account that the disclosure was protected. This implies a consideration of the facts to determine whether he has established a clear right in terms of the PDA.”
+
+That meant proving that the intended disciplinary enquiry constituted an occupational detriment because it was taken ‘on account, or partly on account, of having made a disclosure’, which in addition, was made in ‘good faith’.
+
+Good faith
+
+As mentioned earlier the meaning of good faith was considered in Radebe v Premier, Free State  (2013) 22 LAC 10.10.1.
+
+A lack of ‘honest intention, malice, ulterior motive, a quest for revenge, reckless abandon, a quest for self or others advancement, and attempts to divert attention from one’s or others’ wrong doing and involvement in criminal or acts of misconduct will negate the requirement of good faith’.
+
+Onus of proof
+
+The Minister had to prove the lack of good faith, even though it did not detract from the fact that there was a disclosure. 
+
+But where a protected disclosure was made in good faith, and it is possible that the employee might have acted improperly, it had to be doubted whether the employee should not have to respond to those allegations. 
+
+In other words employees could not use the PDA in an attempt to conceal or divert attention away from their own involvement in alleged criminal or similar activities. Although the applicant had bravely exposed malfeasance in the department he still had to respond to the allegations against himself. 
+
+No irreparable harm and alternative remedies
+
+The applicant had an alternative remedy as there would be an opportunity to rebut the allegations against him in the disciplinary enquiry. In addition his remedies are to be found in section 4 of the PDA, which contemplates an alternative remedy for instances where employees have not been dismissed.
+
+Conclusion
+
+The court found that there was a protected disclosure in good faith. But relief was denied because the applicant failed to come within the requirements for the relief that he had sought. 
+
+The intended disciplinary enquiry would not be an occupational detriment and further he failed to prove that he would suffer irreparable harm. In addition he did have alternative remedies.
+
+10 April 2014
+
+Graham Giles
+
+
+
+End of Document

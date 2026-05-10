@@ -1,0 +1,168 @@
+
+
+
+
+SA Post Office Ltd v Mampeule [2010] JOL 25839 (LAC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JA 29 / 09
+Hearing Date(s): None Indicated
+Judgment Date(s): 04 / 06 / 2010
+Bench: S Patel, LP Tlaletsi JJA, Hendricks AJA
+
+
+Keywords
+
+
+Labour law — Termination of employment — Automatic termination clause — Fairness
+
+Mini Summary
+
+
+In bringing an interlocutory application for the determination of a point of law, the appellant had sought a declarator that the respondent's removal as a director of the appellant, and the subsequent automatic termination of his employment contract, did not constitute "dismissal" for the purposes of section 186(1)(a) of the Labour Relations Act 66 of 1995. The dismissal of that application led to the present appeal.
+
+The respondent’s employment was terminated by the appellant’s reliance on certain automatic termination provisions in his contract of employment. In terms thereof, if an executive director ceases to be a director of the company for any reason whatsoever his contract of employment would terminate automatically. The fairness of those provisions was the focus of the enquiry in this case.
+
+Held that the "automatic termination" clause was in conflict with the statutory right not to be unfairly dismissed. The onus rested on the appellant to establish that the "automatic termination" clause prevailed over the relevant provisions in the Labour Relations Act. the court pointed out that parties to an employment contract cannot contract out of the protection against unfair dismissal afforded to an employee whether through the device of "automatic termination" provisions or otherwise.
+
+The court found the trial court to have arrived at the correct conclusion, and dismissed the appeal.
+
+ 
+[2010] JOL 25839 (LAC) at 1
+
+
+
+
+Introduction
+
+[1]    This is an appeal against the dismissal by the Labour Court of the appellant's interlocutory application for the determination of a point of law. The appellant, South African Post Office Limited ("SAPO"), sought a declarator that the respondent's, Mr Khutso  
+[2010] JOL 25839 (LAC) at 2
+Mampeule's ("Mampeule") removal as a director of SAPO, and the subsequent automatic termination of Mampeule's employment contract, did not constitute "dismissal" for the purposes of section 186(1)(a) of the Labour Relations Act 66 of 1995 ("the Act").
+
+Labour Court's judgment
+
+[2]    The facts appear from the Labour Court's judgment [reported at [2009] 8 BLLR 792 (LC) – Ed]. It is common cause that SAPO's sole shareholder is the State, represented by the Minister of Communication ("the Minister"). Mampeule was appointed, on contract, as the SAPO's Chief Executive Officer. The contract was concluded on 30 October 2005. The effective date was 20 June 2005. It was a fixed-term contract. Its duration was for five years. The contract also provided for simultaneous appointment as Executive Director on the SAPO's Board of Directors. This provision was in compliance with the SAPO's Articles of Association. In particular, Article 8.3 provides:
+
+"No executive director may be appointed as such for more than 5 (five) years at a time by the company or its subsidiaries. It is an inherent requirement of an executive director's employment by the company that he holds the office of an executive director. If an executive  
+[2010] JOL 25839 (LAC) at 3
+director ceases to be a director of the company for any reason whatsoever, including removal or resignation in terms of Article 8.2, his contract of employment shall terminate automatically and simultaneously with the cessation of his office as an executive director of the company."
+
+[3]    On 21 May 2007 the Minister, on behalf of SAPO's sole shareholder, removed Mampeule from the office of director. On 22 May 2007 SAPO sent a letter to Mampeule informing him of the shareholder resolution. The relevant part reads:
+
+"In the circumstances, your contract of employment terminated automatically and simultaneously with the cessation of your office as executive director of the company . . ."
+
+[4]    The Labour Court also referred to clause 9.1 of the contract, which is reproduced below:
+
+"The Executive's term of employment and the termination of his service contract are regulated by Article 8 of the Company's Articles of Association, an extract of which is appended to this contract as Appendix A. The Executive's term of employment shall automatically terminate five years after the effective date as stipulated in clause 3. However, the Executive accepts that his services may be  
+[2010] JOL 25839 (LAC) at 4
+terminated on the grounds of incapacity as a result of poor work performance or ill health, misconduct or operational requirements. If the contract is terminated for such reasons, it will be done with due regard of fair labour practices and in conjunction with the stipulations of the Articles of Association. This shall not entitle the Executive to be paid for the full term of the contract. Should his contract be terminated for operational reasons, the Executive shall be entitled to severance pay in terms of company policy" (my emphasis).
+
+[5]    The court a quo dismissed the application on the basis that the "automatic termination" provisions relied upon by the company:
+
+". . . are impermissible in their truncation of provisions of chapter 8 of the LRA and, possibly even, the concomitant constitutional right to fair labour practices . . . Provisions of this sort, militating as they do against public policy by which statutory rights conferred on employees are for the benefit of all employees and not just an individual, are incapable of consensual validation between parties to a contract by way of waiver of the rights so conferred" (at paragraph [46] of the court a quo's judgment).
+
+The court accepted that the "automatic termination" provisions fell foul of the injunction in section 5(2)(b) and section 5(4) of the Act against the limitation of statutory rights in a contract of employment. The court further reasoned that to uphold the "automatic termination"  
+[2010] JOL 25839 (LAC) at 5
+provision would set a dangerous precedent. The provisions of the Act would be too easily circumvented by similar terms in future contracts.
+
+[6]    The court further held, on a purposive interpretation, that "dismissal" means any act by an employer which results, directly or indirectly, in termination of an employment contract. In the opinion of the court, the Minister effectively dismissed Mampeule on behalf of the sole shareholder, the State.
+
+[7]    I may mention in passing that an examination of the appeal record shows that the employment contract was signed by the Chairperson of the Board of Directors while the shareholder's resolution was signed by the Minister. The Chairperson signed as "employer" while the Minister signed as the sole shareholder. These documents were executed by different people acting in different capacities.
+
+The appeal
+
+[8]    Counsel on behalf of SAPO argued that termination of the contract by SAPO is a question of factual and legal causation. The relevant aspects of legal causation are agency and remoteness. Agency asks  
+[2010] JOL 25839 (LAC) at 6
+whether the company was the entity that removed the director. Remoteness asks whether the intervention of the "automatic termination" provision has sufficient substance to recognise the removal as director as not being the proximate cause of termination of the contract.
+
+[9]    It was further submitted that shareholders have no relationship with directors in employment law. Instead, the relationship is that between owner and controller. When the shareholder exercises her right to remove the director she is operating on the plane of company law. Indeed, as I mentioned earlier the shareholder's resolution was signed by the Minister in her capacity as representative of the sole shareholder, the State. It is trite law that the unanimous decision of all the shareholders of a solvent company about anything which the company under its memorandum of association has power to do is the decision of the company.
+
+[10]    Counsel for SAPO further argued that the employment contract merely codifies the company law reality that a managing director ceases to hold office if he ceases to hold office as director. The Minister set off the mechanism that had the effect of terminating  
+[2010] JOL 25839 (LAC) at 7
+the contract, but termination only happened by intervention of the contractual provision. SAPO sought to persuade this Court that this distinction is real and not artificial. Shareholder rights would be rendered nugatory if the exercise of their right to reconstitute the government of the company is regarded as dismissal.
+
+[11]    Counsel for Mampeule launched a multi-pronged attack against the "automatic termination" provision. First, it was submitted that the provision constitutes an impermissible limitation on statutory rights in the employment contract. The provision "vitally limits" the operation of section 185 of the LRA because the right not to be unfairly dismissed would be subject to the condition that Mampeule retained his position as director. Second, the provision is unconstitutional in that it is contrary to public policy and unenforceable. Third, the provision conflicts with the LRA, which must be purposively construed, and is liable to be set aside on the basis of section 210 of the Act. Lastly, the provision has been invoked by SAPO for an ulterior purpose.
+
+[12]    The proper interpretation of "dismissal" in section 186(1)(a) of the Act is pivotal to a decision in this matter. The subsection defines "dismissal" as follows: 
+
+". . . an employer has terminated a contract of employment with or without notice . . ." 
+[2010] JOL 25839 (LAC) at 8
+I am in agreement with the court a quo that "dismissal" means any act by an employer which results, directly or indirectly in the termination of an employment contract.
+
+[13]    The removal of Mampeule as director was premised on the exercise of shareholder rights contained in section 220 of the Companies Act 61 of 1973 ("Companies Act"), the relevant portions of which read:
+
+ "220 Removal of directors and procedures in regard thereto
+
+(a) A company may, notwithstanding anything in its memorandum or articles or in any agreement between it and any director, by resolution remove a director before the expiration of his period of office.
+. . .
+Special notice shall be lodged with the company of any proposed resolution to remove a director under this section or to appoint any person in the stead of a director so removed at  
+[2010] JOL 25839 (LAC) at 9
+the meeting at which he is removed, and, on receipt of notice of such a proposed resolution, the company shall forthwith deliver a copy thereof to the director concerned who shall, whether or not he is a member of the company, be entitled to be heard on the proposed resolution at the meeting.
+Where notice is given of a proposed resolution to remove a director under this section, and the director concerned makes representations with respect thereto not exceeding a reasonable length in writing to the company and requests their notification to members of the company, the company shall, unless the representations are received by it too late for it to do so . . ."
+
+[14]    It is appropriate at this point to refer to the company's Articles of Association. The impugned Article 8.3, which regulates clause 9.1 of the contract, provides that if the executive director ceases to hold office for any reason whatsoever, including removal by the shareholder, his contract terminates "automatically and simultaneously" with the cessation of office. A contractual provision that vitally limits an employee's statutory labour rights was held to be invalid in Igbo v Johnson Matthey Chemicals Ltd [1986] IRLR 215 (CA). This case involved a contractual amendment in terms of which the employer granted the employee  
+[2010] JOL 25839 (LAC) at 10
+additional overseas leave. The leave agreement provided that if the employee did not return to work on a specified date the employment contract would be automatically terminated. The employee failed to return to work on the specified date on account of ill-health. The court held that the contractual amendment radically changed the employee's position for the worse because she was denied the rights she had under the original agreement.
+
+[15]    To my mind, the Igbo case is distinguishable. The Igbo judgment was based on a comparison between the employee's rights before and after the contractual amendment. The "automatic termination" provision was included to ensure that the employee going overseas did not overstay her leave. This is designed to prevent loss to the company resulting from absenteeism. In the present matter although the provision was included because it codifies company law, the further question must be asked as to whether the provision was implemented in good faith by SAPO.
+
+[16]    Again, I refer to Article 8.3, which, as was stated above, provides for the automatic and simultaneous termination of the contract upon cessation of the office of executive director. The termination of employment contracts by operation of law constituted dismissal  
+[2010] JOL 25839 (LAC) at 11
+in NULAW v Barnard NO & another [2001] 9 BLLR 1002 (LAC). This case is instructive on the issue of causation. The shareholders passed a special resolution for the voluntary winding-up of their company. Consequently, the employment contracts were terminated as a matter of insolvency law. The issue was whether the initial act, which caused the voluntary winding-up, amounts to an "act" falling within the scope of the Act. The court, per Davis JA, held that the passing of the special resolution, duly registered, was the only act required to produce the desired result. Therefore, the decision to pass the resolution caused the contracts to be terminated. Significantly, the court then explained the above finding by way of comparison. It stated that in the case of compulsory winding-up the termination of the employment contracts would not constitute dismissal. Davis JA reasoned that a court's extensive role in compulsory winding-up amounted to an intervening act that broke the chain of causation.
+
+[17]    Interestingly, both SAPO and Mampeule rely on the above case, but for different reasons. On the one hand, SAPO argues that it is authority for the proposition that an employee alleging dismissal must show some overt act that is the "sole or proximate" cause of the dismissal. In the present matter, according to SAPO, the sole or  
+[2010] JOL 25839 (LAC) at 12
+proximate cause of termination is the "automatic termination" provision in the employment contract. On the other hand, Mampeule contends that the Barnard judgment is authority for the proposition that termination of employment contracts, as a matter of law, constitutes dismissal. In the case of voluntary winding-up the shareholders' resolution was recognised as causing the termination of the employment contracts, and therefore amounting to dismissal. In the present matter, can it be said that the shareholder's resolution to remove Mampeule was not the cause of the termination of the employment contract. Alternatively, the "automatic termination" provision intervened and became the proximate cause of termination of employment. Or should the question be asked as to what led the "automatic termination" provision to "kick in" in order to determine what the proximate cause was?
+
+[18]    I accept that generally speaking to hold the shareholder's act of removal of the director as the cause of termination of the employment contract may render shareholder rights nugatory. It may also have the effect of making section 220 of the Companies Act ineffective.
+
+ 
+[2010] JOL 25839 (LAC) at 13
+
+[19]    There is however a factual permutation in this matter which has to be gleaned from the pleadings in the court a quo. Mampeule followed the prescribed conciliation mechanism after he received a letter on 22 May 2007 informing him that his employment terminated, because his employment contract came to an end after he ceased to be a director. He attempted to conciliate the matter. He thereafter referred the dispute to the Labour Court through the delivery of his statement of case.
+
+[20]    As appears from the statement of case, Mampeule alleges, inter alia, that his dismissal was automatically unfair in terms of section 187(1)(h) of the Act in that he was dismissed because he made a series of protected disclosures. On the pleadings, it is not disputed that SAPO suspended Mampeule on 17 November 2006. In its response, whilst denying that any protected disclosures were made, SAPO does not clearly "pin its colours to the mast" as to why Mampeule was suspended other than to say, at paragraph 64.4 of its response, that Mampeule's "conduct led to the shareholder loosing trust and confidence in the applicant".
+
+[21]    Against the factual matrix set out hereinbefore, I make the following general observations: 
+[2010] JOL 25839 (LAC) at 14
+(a) a managing director holds two positions and acts in two different capacities in that, he is a director of a company and qua director he is governed by the Companies Act but he is also an employee of the company and qua employee the relationship must fall squarely within the ambit of the Act. Perhaps it was the latter consideration which led to the express provision in clause 9.1 which reads: 
+
+". . . However, the Executive accepts that his services may be terminated on the grounds of incapacity as a result of poor work performance or ill health, misconduct or operational requirements. If the contract is terminated for such reasons, it will be done with due regard of fair labour practices and in conjunction with the stipulations of the Articles of Association." 
+
+This latter stipulation was an express acknowledgment by SAPO that Mampeule enjoyed the full protection of the Act if his removal was premised on the stipulated grounds. Mampeule's suspension could not have happened in a vacuum but must fall within the stipulated grounds. This much must be inferred from the manner in which SAPO has pleaded its response to Mampeule's statement of case; 
+[2010] JOL 25839 (LAC) at 15
+(b) Be that as it may, it is accepted in labour law jurisprudence that lawfulness cannot be equated with fairness. Accordingly it is not a defence to an unfair dismissal claim that the employee's dismissal was lawful (see NUMSA v Vetsak Co-operative Ltd & others (1996) 17 ILJ 455 (A) [also reported at [1996] 3 All SA 311 (A) – Ed] at 460; Fedlife Assurance Ltd v Wolfaardt [2001] 12 BLLR 1301 (SCA) [also reported at [2001] JOL 8759 (SCA) – Ed] at paragraph [32]). Thus Mampeule, like any other employee, enjoyed the right not to be unfairly dismissed or more appropriately unfairly removed. This is more so since the Act was enacted to give effect to the right to fair labour practices guaranteed in section 23(1) of the Constitution of the Republic of South Africa, 1996. The right not to be unfairly dismissed is not only essential to the enjoyment of this constitutional imperative but is one of the most important manifestations thereof and further forms the foundation upon which the relevant sections of the Act are erected and is consonant with the spirit and the letter of the Act (see NEHAWU v University of Cape Town & others (2003) 24 ILJ 95 (CC) [also reported at [2003] JOL 10448 (CC) – Ed] at paragraph [42]; Sidumo & another v Rustenburg Platinum Mines Ltd & others [2007] 12 BLLR 1097 (CC) [also reported at [2008] JOL 20811 (CC) – Ed] at paragraphs [72] and [74]).
+
+ 
+[2010] JOL 25839 (LAC) at 16
+
+[22]    Mampeule, in my view, has correctly premised his defence to SAPO's point in limine that section 5 of the Act which affords him protection taken together with clause 9.1 of his contract, the relevant portion of which has been quoted above, must trump the "automatic termination" provision of the contract. Section 5(2)(b) provides:
+
+". . . no person may do, or threaten to do, any of the following . . . prevent an employee . . . from exercising any right conferred by this Act."
+
+Section 5(4) further provides:
+
+"A provision in any contract, whether entered into before or after the commencement of this Act, that directly or indirectly contradicts or limits any provision of section 4, or this section, is invalid, unless the contractual provision is permitted by this Act."
+
+[23]    The onus rested on SAPO to establish that the "automatic termination" clause prevails over the relevant provisions in the Act and clause 9.1 of the contract. A heavier onus rests on a party which contends that it is permissible to contract out of the right not to be unfairly dismissed in terms of the Act. I am in agreement with the submission made by Mampeule's counsel, supported by authorities, that parties to an employment contract cannot contract out of the protection against unfair dismissal afforded to an  
+[2010] JOL 25839 (LAC) at 17
+employee whether through the device of "automatic termination" provisions or otherwise because the Act has been promulgated not only to cater for an individual's interest but the public's interest (see Brassey Commentary on the Labour Relations Act at A2-9 and A2-11; SA Eagle Insurance Co Ltd v Bavuma 1985 (3) SA 42 (A) at 49G–H; Bafana Finance Mabopane v Makwakwa & another 2006 (4) SA 581 (SCA) [also reported at [2006] JOL 17082 (SCA) – Ed] at paragraph [10] and Denel (Pty) Ltd v Gerber [2005] 9 BLLR 849 (LAC) [also reported at [2005] JOL 14766 (LAC) – Ed] at 24). The court a quo was thus correct when it held at paragraph [46] that:
+
+"Provisions of this sort, militating as they do against public policy by which statutory rights conferred on employees are for the benefit of all employees and not just an individual, are incapable of consensual validation between parties to a contract by way of waiver of the rights so conferred."
+
+[24]    In the absence of a clear explanation by the SAPO as to why Mampeule was suspended and why it belatedly used the "automatic termination" provision in its Articles of Association and considering its response as adverted to above, the inference is overwhelming that SAPO's conduct was designed to avoid its obligations under the Act. I am satisfied that the court a quo through a process of purposive interpretation came to a correct  
+[2010] JOL 25839 (LAC) at 18
+decision and in no way misdirected itself. In light of this conclusion it is, in my view, unnecessary to consider the constitutionality vel non of the "automatic termination" clause.
+
+[25]    In the result I make the following order:
+
+The appeal is dismissed with costs, such costs to include those occasioned by the employment of two counsel.
+
+(Tlaletsi JA and Hendricks AJA concurred in the judgment of Patel JA).
+
+Appearance:
+Adv AE Franklin SC, Adv FA Snyckers, Webber Wentzel (A); Adv PJ Pretorius SC, Adv AT Myburgh, Perrot Van Niekerk Woodhouse Incorporated (R)
+
+
+End of Document

@@ -1,0 +1,50 @@
+
+
+
+
+Protected disclosures to employers: Not raising the bar too high
+IR - Weekly Comment
+
+Protected disclosures to employers: Not raising the bar too high
+
+Where an employee discloses information to her employer and seeks to rely on the Protected Disclosures Act (PDA), must the information be factually accurate? This was the main question dealt with by the Labour Appeal Court in John v Afrox Oxygen Limited .
+
+The appellant, Ms John, had been Afrox’s Head of Talent Management. She had noticed what she considered to be irregularities in the regrading of a number of employees. One of them, a Ms Armstrong, had been promoted but, at the same time, downgraded from level 2H (“high”) to 2M (“medium”) without consultation. Ms John then raised this with the responsible manager, but the explanation she received did not make sense: Ms Armstrong, she was told, had been moved “laterally” from one “2M” position to another.
+
+Dissatisfied, she brought her concerns to the attention of several of her superiors, including the Managing Director. All of them, she testified, “promised to take the matter further as she did the right thing” (para 5 of judgment). The response she got a week or two later, however, was not what she had expected: she was given an offer of termination of her services. 
+
+The reason, she was told, was feedback from her subordinates about her “negative actions on the human resources team”. She pointed out that the process was contrary to labour law. But Afrox’s German representative, a Mr Boekler, evidently informed her that “he did not ‘give a s hit’ about the labour laws of this country” (para 6). When she did not accept the offer of termination, she was dismissed without notice on the basis of “incompatibility”.
+
+Even if Mr Boekler did not care about the law, the law does care about the actions of employers. To begin with, though, it seemed as if his reported indifference to legal consequences, however crudely expressed, was well-founded. Ms John approached the Labour Court, arguing that her dismissal had been automatically unfair because it was based on a protected disclosure to her employer. The court, however, dismissed her claim on the basis that there was no factual basis for her belief in the irregularity which she had reported.
+
+On appeal, Ms John pointed out what amounted to a clear error of law in the judgment of the Labour Court. The requirement that the employee’s belief in the truth of the information must be “reasonable”, she argued, is contained in section 9 of the PDA, which deals with disclosures to persons other than employers. But she had made the disclosure to her employer in terms of section 6, which requires only that the disclosure must be made “in good faith”.
+
+The Labour Appeal Court agreed. The definition of “disclosure”, it noted, states that the employee must have “reason to believe that the information concerned shows or tends to show” one of the listed irregularities or consequences. The inquiry, therefore, is not about the correctness or reasonableness of the information on which the belief is based, but about the reasonableness of the belief. This is so, the court noted, “because a belief can still be reasonable even if the information turns out to be inaccurate”.1 
+
+Thus, when making a disclosure to an employer, “an employee needs only have ‘reason to believe’ that the information concerned ‘shows’ or ‘tends to show’ that the listed impropriety ‘has been’ or ‘is being’ or ‘may be committed in the future’” (para 21). The Labour Court, in contrast, had 
+
+“elevated the requirement of the reasonableness of the belief to one of the accuracy of the facts upon which the belief was based. This sets a higher standard than … is required by the PDA, and such a requirement would frustrate the operation of the PDA” (para 28).
+
+The court went on to note that, under cross-examination before the Labour Court, Afrox’s witness had effectively conceded that there were inaccuracies in the grading system. This was different from the response that Ms John had initially been given and demonstrated that it was “not erroneous” for her to have believed that the information was “substantively true” (para 29).
+
+The only further question was “whether it was reasonable for the appellant to have made the disclosure” – in other words, whether the facts which the employee disclosed could reasonably have led to any of the listed improprieties. The two reasons given by Ms John in justifying her disclosure were (a) that regrading without consultation would affect future salary increases of the employees concerned, and (b) that incorrect grading would distort the report on income differentials submitted by Afrox in terms of section 27 of the Employment Equity Act (EEA).
+
+In relation to the first of these arguments, the Labour Court found that Ms John had failed to point out any provision of the LRA or BCEA which the employer had contravened by failing to consult about regrading. But this was another legal error: it is a “very basic prescript of our labour laws”, the Labour Appeal Court pointed out, that employees must be consulted when their rights are to be affected. Failure to do so will generally amount to an unfair labour practice.
+
+Similarly, the Labour Court had been wrong in expecting Ms John to prove why or how irregular grading would result in a breach of the EEA. All she had to establish, it was held, was a reasonable belief that the information “tends to show that ‘a skewed report may be produced for purposes of the Employment Equity Act’” (para 38). Self-evidently, this would affect the interpretation of the report and the employer’s duty to address any disproportionate income differentials which it reflects.
+
+Afrox’s contention that Ms John had been dismissed for incompatibility, the court concluded, was “nothing short of fiction and the only probability is that the appellant’s dismissal was in retaliation for her disclosure of the irregularities in the re-grading process” (para 39). Her claim of an automatically unfair dismissal was accordingly upheld, and compensation was awarded in an amount equal to 18 months’ remuneration.
+
+The judgment does not explain the reasons behind Afrox’s extraordinary course of action, nor was the court called upon to do so. Leaving this aside, the fact that a major employer can labour under the impression that alleged incompatibility is a valid ground for dismissal without notice must raise concerns about the state of labour relations in South Africa.
+
+Until next week,
+
+Darcy Du Toit
+
+
+
+Footnotes
+1	   Para 26, citing SA Municipal Workers Union National Fund v Arbuthnot (2014) 35 ILJ 2434 (LAC) at para 15.
+
+
+End of Document

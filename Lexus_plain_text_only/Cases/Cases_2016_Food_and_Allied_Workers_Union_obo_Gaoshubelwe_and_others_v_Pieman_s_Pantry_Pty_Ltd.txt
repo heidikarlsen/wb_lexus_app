@@ -1,0 +1,435 @@
+
+
+
+
+Food and Allied Workers Union obo Gaoshubelwe and others v Pieman’s Pantry (Pty) Ltd [2016] 12 BLLR 1175 (LAC)
+Labour Law Reports
+
+Division: Labour Appeal Court, Johannesburg
+Case No: JA20/2015
+Date: 08/09/2016
+Before: SK Ndlovu, RT Sutherland Judges of Appeal and JR Murphy Acting Judge of Appeal
+Keywords
+
+
+Appeal in terms of section 166 of the LRA
+Dismissal — Remedies — Claim for unfair dismissal prescribing three years after dismissal.
+Labour Relations Act, 1995 — Prescription of claims under — Employees referring unfair dismissal dispute for adjudication by Labour Court more than three years after dismissal — Claim prescribed.
+Prescription Act 68 of 1969 — Conformity with LRA — Periods set for prescription of debts by Prescription Act not in conflict with LRA and three-year limit for claiming debt applicable to all claims under LRA.
+Sections of the LRA considered
+Section 191
+Section 210
+
+Editor’s Summary
+
+
+The appellant employees were dismissed in August 2001 for participating in an unprotected strike. They referred a dispute to the CCMA a few days later, and the dispute was certified unresolved. In March 2002, a Commissioner ruled that the CCMA lacked jurisdiction to arbitrate the dispute. The appellant union then launched a review application, which was dismissed in 2003. In March 2005 the union filed a statement of claim in the Labour Court, to which the respondent replied with special pleas that the claim had prescribed and that the late referral had not been condoned. The Labour Court condoned the late filing of the statement of claim but upheld the prescription plea and dismissed the claim. The appellants contended on appeal that the Prescription Act 68 of 1969 (“PA”) did not apply to disputes processed under the LRA.
+
+The Court noted that the PA provides that the normal rules of prescription of debts do not apply where it is inconsistent with any Act which prescribes a period in which a claim is to be made and that the LRA provides that that Act prevails over any Act that is inconsistent with its provisions. In Sidumo and another v Rustenburg Platinum Mines Ltd and others [2007] 12 BLLR 1097 
+[2016] 12 BLLR 1175 (LAC) at 1176
+(CC), the court had dealt with the meaning of section 210, and had ruled that to decide whether an inconsistency existed the purpose and apparatus of the two statutes must be considered. Whether the PA is inconsistent with the LRA has been dealt with in a number of judgments, the latest of which was Myathaza v Johannesburg Metropolitan Bus Service Soc Ltd t/a Metrobus In re: Mazibuko v Concor Plant; Cellucity (Pty) Ltd v Communication Workers Union obo Peters [2016] 1 BLLR 24 (LAC). The Court declined the invitation to rule Myathaza “plainly wrong”, and pointed out that it dealt with prescription of arbitration awards not, as in this case, prescription of dismissal claims. That issue remained res nova.
+
+The Court accepted that the interpretation of the Acts must be driven by the requirement that laws are to be interpreted to harmonise them with constitutional values. However, that issue had been dealt with in Myathaza, by which the Court was bound. The Court also accepted that the LRA creates rights unknown to the common law and also a distinct dispute resolution procedure, but could see no reason why that should exclude prescription. While the idea of prescription may be controversial, it must apply until the constitutional propriety of prescription itself is successfully challenged. The further argument that the LRA creates its own specific deadlines for the resolution of disputes should trump the provisions of the PA had also been rejected in Myathaza. The mere fact that the LRA contains its own dispute resolution is a necessary but not sufficient reason for holding that the PA is inconsistent with the LRA. Section 191 of the LRA does not create a cause of action, but merely regulates the process by which a remedy may be obtained. The purposes of the LRA and of the PA are totally different. The discretion of the Labour Court to condone the late filing of referrals operates within, and not in competition with the periods prescribed by the PA. Section 191 imposes a time bar rather than a prescription regime.
+
+The Court held further that, while debts hit by the PA must be narrowly construed, a dismissed employee’s claim that his/her employment was unfairly terminated and that the unfairness must be remedied gives rise to a debt because there is no uncertainty about what the former employer is required to do – an unfair dismissal claim is akin to a demand for specific performance, which forms a debt as contemplated by the PA. The Court, accordingly, held that the PA applies to all litigation under the LRA, including claims under section 191.
+
+Turning to whether the appellants’ claim had prescribed, the Court held that the debt arose at the time of the dismissal. The subsequent referral of the dispute to the CCMA did not interrupt the running of prescription because this was merely a procedural step akin to completing a claim form. It does not initiate litigation. The PA requires “a process . . . whereby legal proceedings are commenced” to interrupt prescription. A referral to the CCMA does not initiate legal proceedings, even if arbitration could be conceived as “legal proceedings” properly speaking. The only manner in which legal proceedings can be initiated under the LRA is by a referral under section 191, which in this case had prescribed when the appellants took that step.
+
+The appeal was dismissed.
+
+ 
+[2016] 12 BLLR 1175 (LAC) at 1177
+
+____________________________________________________________________________________
+
+Sutherland JA:
+
+A Introduction
+
+The questions on appeal
+The two questions in this appeal are:
+Whether the Prescription Act 68 of 1969 (“Prescription Act”) applies to the referral and prosecution of disputes in terms of section 191 of the Labour Relations Act 66 of 1995 (“LRA”).
+If it does apply, has the unfair dismissal dispute referred by the appellant (“FAWU”) on behalf of the workers employed by the respondent (“the employer”), indeed, prescribed.
+
+The essential contentions and the Labour Court’s findings
+On behalf of FAWU, it has been contended that the Prescription Act does not apply at all to litigation under the LRA, but if it did, the initial referral, in terms of section 191(1) of the LRA, of a dispute about an alleged unfair dismissal that occurred on 1 August 2001, interrupted the running of prescription because such referral constitutes the event contemplated by section 15(1) of the Prescription Act; ie it constituted “service on the debtor of . . . process whereby the creditor claims payment of a debt”.
+The argument on behalf of the employer, by contrast, contends that the Prescription Act indeed does apply to all labour litigation, and that prescription starts to run only upon the issue of a certificate of non-resolution, as contemplated by section 191(5) of the LRA, rather than from the date of the dismissal, because only upon the issue of such certificate is there a litigable “cause of action”.
+The judgment of the Labour Court now on appeal, held that the Prescription Act does apply to labour litigation, and, upholding the employer’s argument that union’s cause of action “to adjudicate” arose only when the certificate of non-resolution was issued, held that FAWU’s claim had indeed prescribed because the filing of the statement of case, which it held is the event contemplated by section 15(1) of the Prescription Act, occurred “three years six months and two weeks” after the issue of the certificate.
+It is necessary to enquire into the provisions of both statutes and the circumstances in evidence to evaluate these perspectives.
+
+The relevant facts
+The relevant facts are all common cause. The controversy derives from these events:
+On 1 August 2001, the workers were dismissed. The reason relied upon by the employer to justify the dismissal was that they took part in an unprotected strike. 
+[2016] 12 BLLR 1175 (LAC) at 1178
+On 7 August 2001, FAWU, on behalf of the workers, referred a dispute to the Commission for Conciliation, Mediation and Arbitration (“CCMA”).
+On 3 September 2001, the CCMA issued a certificate of non-resolution.
+FAWU referred the dispute for arbitration; the date is not appearing from the record.
+On 15 March 2002, the CCMA’s Arbitrator ruled that the CCMA had no jurisdiction to enquire into the dispute.
+FAWU launched a review application. (The record does not reflect the date).
+On 9 December 2003, the Labour Court dismissed the review application.
+On 16 March 2005, FAWU filed a statement of claim in the Labour Court.
+On 19 April 2005, the employer filed a statement of defence in which it pleaded prescription of the claim, and also, that the statement of claim had been filed late and no condonation had been sought.
+On 22 June 2008, the Labour Court granted an application by FAWU to condone the late delivery of the statement of claim. That order was varied on 24 June 2009, by agreement to exclude a reference to whether the union’s claim had prescribed.
+On 28 May 2014, the matter came before the Labour Court for trial. The plea about the prescription of the dispute was argued.
+On 15 August 2014, the Labour Court upheld the plea of prescription.
+I turn now to deal with the controversies.
+
+B The relationship between the LRA and the Prescription Act
+The prospect that litigation under the LRA might escape the application of the Prescription Act arises from two statutory provisions:
+
+“Section 16(1) of the Prescription Act:
+
+(1) Subject to the provisions of subsection (2)(b), the provisions of this chapter shall, save in so far as they are inconsistent with the provisions of any Act of Parliament which prescribes a specified period within which a claim is to be made or an action is to be instituted in respect of a debt or imposes conditions on the institution of an action for the recovery of a debt, apply to any debt arising after the commencement of this Act.”
+
+  Section 210 of the LRA:
+
+“If any conflict, relating to the matters dealt with in this Act, arises between this Act and the provisions of any other law save the Constitution or any Act expressly amending this Act, the provisions of this Act will prevail.”
+
+
+Section 16(1) of the Prescription Act has been interpreted to mean that every debt is subject to the Prescription Act, save when excluded by the 
+[2016] 12 BLLR 1175 (LAC) at 1179
+  qualifications expressed in section 16(1) and limited to the reach of such qualification. Farlam AJA, held in Moloi and others v Road Accident Fund1 that:
+
+“. . . Although section 16 of the Prescription Act is not drafted as clearly as it might be it is reasonably plain that what is intended is that the provisions of Chapter III will apply to all debts save where they are ousted by the provisions of an Act of Parliament which is inconsistent and then only to the extent of the inconsistency.”2 (Emphasis supplied.) Myathaza v Johannesburg Metropolitan Bus Service Soc Ltd t/a Metrobus In re: Mazibuko v Concor Plant; Cellucity (Pty) Ltd v Communication Workers Union obo Peters [2016] 1 BLLR 24 (LAC).
+
+Coppin JA in Myathaza v Johannesburg Metropolitan Bus Service (SOC) t/a Metrobus/ Mazibuko v Concor Plant/ Cellucity (Pty) Ltd v Communication Workers Union obo Peters3 (hereafter “Myathaza”) at [23]–[24] and [33] echoed the dictum of Farlam AJA, and also held that all debts are covered by the Prescription Act, unless the qualifications mentioned in section 16(1) are established. The decisions mentioned hitherto, pre-date the Constitutional Court’s decision in Makate v Vodacom4 (“Makate”) handed down three weeks before the hearing of this appeal. Makate has identified a class of debt that is not subject to prescription of any kind; accordingly, the legal position as expressed in the earlier decisions must be modified. Makate is dealt with more fully hereafter. Also, in terms of section 20 of the Prescription Act, “black law” is excluded.5 
+[2016] 12 BLLR 1175 (LAC) at 1180
+What exactly is the content of Chapter IIII with which inconsistency with another statute must be shown? The critical provisions relevant to a comparison with the LRA are:
+
+  Section 10(1):
+
+“. . . A debt shall be extinguished after the elapse of the period which in terms of the relevant law applies in respect of the prescription of such debt”.
+
+
+  Section 12(1):
+
+“. . . prescription shall commence to run as soon as the debt is due.”
+
+
+  Section 11(d)
+
+“Save where an Act of Parliament provides otherwise, three years in respect of any other debt.”
+
+
+  Section 15(1):
+
+“The running of prescription shall, subject to the provisions of ss (2) be interrupted by the service on the debtor of any process whereby the creditor claims payment of the debt.”
+
+
+Sidumo and another v Rustenburg Platinum Mines Ltd and others6 (“Sidumo”) dealt with the topic of a section 210 “conflict” relating to the “matters dealt with in [the LRA]”. Regrettably, that decision offered no textual analysis of the provisions of section 210 per se. In that case, the majority, by 6-4, held that the decisions of CCMA’s Arbitrators constitute “administrative action” in the sense contemplated by the Promotion of Administrative Justice Act 3 of 2000 (“PAJA”), but nevertheless, on a comparison of the schemes of the two statutes, PAJA does not apply to arbitrations in terms of LRA; ie the LRA trumps PAJA. Navsa AJ at paragraphs [94]–[104] in Sidumo addressed the differences in the two statutes. He remarked that the Supreme Court of Appeal’s (“SCA”) view a quo, had been that it was only the differently stipulated time periods within which to institute litigation that were material induciae for the conclusion to exclude the application of PAJA to LRA “matters”, but, so Navsa AJ concluded, at paragraph 99, in addition to that factor, it was the different powers of the courts which established the conflict between the two statutes and the rationale for the exclusion of PAJA from the “matters” under the LRA. This was an example of exactly the problem section 210 had been enacted to resolve. Notably, the approach of the Constitutional Court (CC) in Sidumo was to assess holistically the purpose and the apparatus of the two statutes to decide if a conflict existed. Such an approach does not, in my view, differ normatively, from the approach articulated by the CC in RAF v Mdeyide about an “inconsistency evaluation” being required.7
+The extent to which the Prescription Act applies to litigations in terms of the LRA has already been extensively considered by the Labour Appeal Court (“LAC”) which has given three judgments on the question, and the Labour Court which has given several judgments. 
+[2016] 12 BLLR 1175 (LAC) at 1181
+One major debate had been whether the Prescription Act applied to the awards of Arbitrators in the CCMA (and Bargaining Council Fora). There were decisions of the Labour Court going both ways.8 An amendment to the LRA in the form of section 145(9) took effect on 1 January 2015 provides that:
+
+“An application to set aside an arbitration award in terms of this section interrupts the running of prescription in terms of the Prescription Act, 1969 (‘Act 68 of 1969’), in respect of that award. [Sub-s. (9) added by s. 22 of Act 6 of 2014.]”
+
+The decision of the LAC in Myathaza, which dealt with three appeals, settled that question in favour of the Prescription Act being applicable to such awards prior to the amendment. The judgment a quo against which this present appeal is lodged was given on 15 August 2014. In this matter, we have been invited to consider whether Myathaza was correctly decided and overrule that earlier decision; that invitation is declined for reasons which appear hereafter.
+Among the factors to weigh in addressing the arguments in the present case is whether it is an appropriate interpretation of the LRA to construe its provisions in a way that some aspects of the litigation process are subject to the Prescription Act and others not. The applicability of the Prescription Act to awards is, in my view, a substantial indication that all litigations under the LRA ought to be so subject.
+It is important to recognise that the decision in Myathaza is not authority for the proposition that litigation under the LRA, prior to the rendering of an award, (or a judgment by the Labour Court) is subject to the Prescription Act. Therefore that judgment does not dispose of the present controversy. In Myathaza, the ratio was deliberately confined to the question of prescription of awards. However, in an obiter dictum at [9]–[10] Coppin JA expressly approved two LAC judgments which had addressed pre-award/ judgment disputes where the Prescription Act was taken to applicable.
+The first of those judgments, Solidarity and others v Eskom Holdings Ltd (Solidarity)9 dealt with an application to the Labour Court for a declaration of rights in terms of a collective agreement about early retirement rights of employees. The declarator was sought more than three years after the agreement had been concluded. The employer argued that the debt had prescribed. The employees countered with the argument that the debt upon which the employees relied, fell due only when they sought to retire and claimed the early retirement benefit. That stance was endorsed by the court. The assumption throughout the proceedings was that the claim of right in terms of the collective agreement constituted the “debt” at issue and that it was indeed subject to the Prescription Act.
+In the second matter, SA Post Office Ltd v CWU (SAPO),10 the parties had settled a dispute by means of an agreement. A subsequent dispute arose 
+[2016] 12 BLLR 1175 (LAC) at 1182
+  about whether the employer had performed in terms of it. The union instituted an action to make the agreement an order of the Labour Court four days before the third anniversary of its conclusion. Subsequently, the action was withdrawn. The union then launched an application to the Labour Court for the identical relief. However, the application was launched some four years after the conclusion of the agreement. The employer argued the claim had prescribed. The union offered as an argument that the earlier action had interrupted prescription; however, the LAC held that the withdrawal of the action meant that reliance thereon was not possible. Ergo, the application had indeed been made outside the period of prescription. However, somewhat bizarrely, the union’s bacon was saved by the LAC taking the view that prescription, as stipulated in section 17(2) of the Prescription Act, must be pleaded to be raised. It was not pleaded. Raising it in argument on appeal was held to inadequate.11 The LAC ordered the matter to be dealt with by the CCMA.
+Of course, it was not argued in either case that the Prescription Act did not apply to litigations under the LRA and therefore these decisions cannot be understood to have disposed of that issue, albeit that the application of the Prescription Act to litigation under the LRA was uncontroversial.
+In my view, the circumstances evidenced by these two decisions about pre-award and pre-judgment litigation, neither of which originated from a referral in terms of section 191(1) of the LRA, are indistinguishable, as regards the applicability of the Prescription Act, from the present case which did originate from a section 191(1) referral.
+I turn now to consider Mr Van der Riet’s various arguments on behalf of FAWU, for the exclusion of the Prescription Act from litigation under the LRA.
+
+Argument 1
+First, it is contended that the task of interpretation must be driven by section 39(2) of the Constitution of the Republic of South Africa, 1996 (“Constitution”), which requires a court to harmonise existing law with constitutional values and develop the law to achieve that outcome.12 
+[2016] 12 BLLR 1175 (LAC) at 1183
+
+  There can be no doubt this is correct. Upon that foundation, it is further argued that the LAC’s decision in Myathaza, was wrong insofar as it failed to comply with the injunctions in section 39(2). In other words, had a proper interpretation exercise been carried out, the LAC in Myathaza would have concluded that awards could not be subject to the Prescription Act. Regrettably, that is the sum of the contention advanced and we have not received assistance in unearthing exactly why we might reach a conclusion that the decision in Myathaza was clearly wrong, the necessary condition for us to reverse it. In the absence of such a foundation, we regard ourselves bound by the earlier decision.
+
+Argument 2
+It was argued, in effect, that the nature of the remedies and special procedures provided for in the LRA are a species distinct from those in civil litigation. The public interest premium placed on labour peace means that the extinction of a labour dispute by prescription runs counter to the aims and purposes of the LRA. Thus, giving due weight to the effect of section 210 of the LRA, the Prescription Act ought to be excluded from application to the LRA.
+It is certainly true that the scheme of the LRA is to create rights hitherto unknown to our common law and, moreover, creates distinct dispute resolution institutions (in the form of the CCMA and bargaining councils with adjudicative powers similar to the CCMA and the Labour Court and Labour Appeal Court) with exclusive jurisdiction to adjudicate whether claims that the rights emanating from the LRA have been breached. The model is unequivocally a self-contained system calculated to generate its own jurisprudence in parallel with the jurisprudence of the High Court.13 That the attributes of this system must necessarily be compliant with the dictates of the Constitution is self-evident, and the appeal process, which progresses ultimately to the Constitutional Court is the most visible manifestation of how that constitutional compliance is secured.
+But why should these public interest considerations which attach to labour peace and harmony imply that prescription, as a principle, has no place in that “Labour Relations” regulatory system, and further imply that there is a public interest “override”? The argument advanced to us is not novel.
+In two Labour Court judgments, this stance, in substance, had been adopted. (In Coetzee and others v MEC, Western Cape (“Coetzee”)).14 The court questioned the applicability of the Prescription Act to the LRA and set out several considerations which were thought adverse to the notion, all premised on the distinctiveness of labour disputes and the supposed special needs of constituencies that the LRA serves. The Coetzee chain of reasoning was invoked in the decision in Cellucity (Pty) Ltd v CWU obo 
+[2016] 12 BLLR 1175 (LAC) at 1184
+  Peters15 (“Cellucity”) where the thesis was again advanced. After citing the Coetzee judgment in extenso, the Labour Court held at [8]:
+
+“The matter before me provides a further and a clear illustration of why the Prescription Act should not be applied to unfair dismissal disputes under the LRA. Over and above the considerations I raised in the matter above, the question of public policy comes strongly into focus in this case. Public policy and the boni mores are now deeply rooted in the Constitution and its underlying values. The application of the Prescription Act to LRA claims can be used to frustrate the realisation of employees’ rights to fair labour practices. This is particularly so in cases where such dismissed employees are members of vulnerable groups in our society. Many of these individuals may struggle to afford the means to execute on an award in their favour, or are unable timeously to pursue their rights because of a lack of resources.”16 [Footnote omitted.]
+
+The key issue in Cellucity was whether an award had prescribed. However, it is plain that the basis for a finding that an award could not prescribe was seated in considerations broadly applicable to all litigations under the LRA. When Cellucity went on appeal (as one of three cases in Myathaza) this view was rejected by the LAC. Coppin JA, at paragraphs 14–20 cited a contrary view expressed by Van Niekerk J in CEPPWAWU obo Le Fleur v Rotolabel – A division of Bidpaper Plus (Pty) Ltd17 Van Niekerk J held thus:
+
+“Insofar as it might be suggested that the real incompatibility is between the equity based jurisdiction established by the LRA and the inflexibility of the Prescription Act, in Police & Prisons Civil Rights Union obo Sifuba v Commissioner of the SA Police Service & others (2009) 30 ILJ 1309 (LC) [A decision of Musi AJ, as he then was] the court rejected a submission that considerations of equity ought to be brought into account to determine the application of prescription.”18
+
+  The court stated at paragraph 44:
+
+“The Prescription Act does not give the court a discretion. If the requirements for a plea of prescription have been established by the party taking the point then that party is entitled as a matter of right to have that plea upheld. Although this court is a court of equity, in my view considerations of equity do not come into play when all the requirements for a successful plea of prescription are established. Extinctive prescription renders unenforceable a right by the lapse of time. See s 10(1) of the Prescription Act.”
+
+
+  Coppin JA then went on, with reference to decisions in the Constitutional Court and the SCA, to conclude at paragraph 33 that employers and employees are not exempt from litigating under the mantle of prescription. Indeed, that must be correct, and was among the reasons for concluding the narrow question of whether an award could prescribe. In particular, Coppin JA referred to the dictum of Didcott J in Mohlomi v Minister of Defence19 who, in the course of striking down section 113 of the Defence Act 42 of 
+[2016] 12 BLLR 1175 (LAC) at 1185
+  2002 as imposing unnecessary strictures on a person’s access to court, nevertheless, as regards the policy of such strictures, held at paragraph 11 that:
+
+“Rules that limit the time during which litigation may be launched are common in our legal system as well as many others. Inordinate delays in litigating damage the interests of justice. They protract the disputes over the rights and obligations sought to be enforced, prolonging the uncertainty of all concerned about their affairs. Nor in the end is it always possible to adjudicate satisfactorily on cases that have gone stale. By then witnesses may no longer be available to testify. The memories of ones whose testimony can still be obtained may have faded and become unreliable. Documentary evidence may have disappeared. Such rules prevent procrastination and those harmful consequences of it. They thus serve a purpose to which no exception in principle can cogently be taken.”
+
+
+It may indeed be appropriate to question whether the very principle of prescription ought to enjoy the imprimatur of universal morality, and at very least, it ought to be recognised that at the philosophical level, the morality of the concept of prescription is not free from doubt or controversy. In the literature about law and its relationship to morality, prescription is a favourite example of the law’s supposed asinine inequity.20 However, that is a debate which is pointless to pursue unless the constitutionality of prescription itself is challenged. There is ample authority that, hitherto, prescription is regarded as constitutionally compliant, a theme, for the present purposes, adequately addressed by Coppin JA in Myathaza at paragraphs 30–33 and unnecessary to repeat here.
+
+Argument 3
+It was argued that the litigation regime under the LRA, as provided in section 191 of the LRA, ie the “mechanisms prescribed by the LRA”21 constitutes an example of the sort of inconsistency with the Prescription Act, as contemplated in section 16(1) of the Prescription Act, and thus the LRA regime trumps the Prescription Act regime. More specifically, the LRA regime, in terms of which a party must refer a dispute with 30 days (or 90 days) of the dispute arising and if not successfully conciliated with 30 days thereafter, that party must refer the dispute to arbitration or to the Labour Court, depending on the nature of the dispute, within a further period of 90 days, subject to the power of the adjudicator to condone non-compliance on good cause shown, ought to trump the regime under the Prescription Act. The implication is that, at least in theory, a labour dispute, even after three years, or however long a period, has elapsed, can remain a litigable issue, provided only that good cause is shown to the satisfaction of the Labour Court. This theme, in substance, is also not novel. It too was ventilated in Coetzee and regurgitated in Cellucity, albeit, of course, oriented towards the problem of an award prescribing. The argument was rejected in Myathaza. 
+[2016] 12 BLLR 1175 (LAC) at 1186
+The relevant provisions of section 19122 indeed do stipulate specified 
+[2016] 12 BLLR 1175 (LAC) at 1187
+  periods within which to make a claim and also impose conditions to meet when instituting proceedings to obtain relief. But the crucial issue is whether these “other” provisions give rise to an “inconsistency” with the provisions of the Prescription Act. In my view, the mere fact of an alternative procedure is necessary but not sufficient. What is required is an examination of the relevant provisions to determine whether the two statutory regimes are functionally “inconsistent”; if they can be reconciled, there cannot be an inconsistency.23 Plainly, section 191 does not “extinguish” a claim, extinction being a substantive event; rather, section 191 regulates process and vests a wide discretion to the Labour Court to oversee that process. If this perspective is correct, can section 191 really be understood to create a regime that trumps prescription?
+The decision in Investec Employees Benefits Ltd v Marais and others24 (“Marais”) is instructive in this regard. An argument was advanced that, 
+[2016] 12 BLLR 1175 (LAC) at 1188
+  as contemplated by section 16(1), the Prescription Act did not apply to complaints submitted to the Pension Funds Adjudicator in terms of section 30A of the Pension Funds Act 24 of 1956. Such a complaint had to be submitted within a period of three years as stipulated by section 30I. The complaint was lodged later than that and, consequently, a request that the adjudicator condone the non-compliance was made. The adjudicator refused, inter alia, because it was alleged that the right to complain had prescribed. Section 30I was at that time worded thus:25
+
+“30I Time limit for lodging of complaints
+
+(1) The Adjudicator shall not investigate a complaint if the act or omission to which it relates occurred more than three years before the date on which the complaint is received by him or her in writing.
+(2) If the complainant was unaware of the act or omission contemplated in subsection (1), the period of three years shall commence on the date on which the complainant became aware or ought reasonably to have become aware of such occurrence, whichever occurs first.
+(3) The Adjudicator may on good cause shown or of his or her own motion
+(a) either before or after expiry of any period prescribed by this Chapter, extend such period;
+(b) condone noncompliance with any time prescribed by this Chapter.”
+The Court rejected the inconsistency argument: Farlam JA held that:
+“[29] The third respondent’s power under section 30I(3) to extend periods and to condone non-compliance with time limits is restricted to periods and time limits prescribed by the Act. Although there is a similarity between section 12(3) of the Prescription Act and section 30I of the Act, the sections must not be conflated The Acts serve different and discrete functions. The Adjudicator’s powers under the Act do not extend to the provisions of the Prescription Act: cf Premier Western Cape v Lakay 2012 (2) SA 1 (SCA) at paragraphs 7 and 10.
+[30] It was contended on behalf of the first respondent that on a proper construction of the Act the Prescription Act does not apply to complaints received by the third respondent. Reference was made to section 16(1) of the Prescription Act which provides that the provisions of Chapter III of that Act are to apply to any debt arising after the commencement of the Act:
+
+‘save insofar as they are inconsistent with the provisions of any Act of Parliament which prescribes a specified period within which a claim is to be made or an action is to be instituted in respect of a debt or imposes conditions on the institution of an action for the recovery of a debt.’
+
+[31] In my opinion, this subsection does not assist the first respondent because secti on 30I of the Act is not inconsistent with the Prescription Act. A claim which is the subject of a complaint to the Adjudicator and
+
+which has not prescribed (because, for example, the creditor is under an impediment), will still have to be lodged in the period prescribed in section 30I and may not be considered by the Adjudicator unless he or she grants an extension in terms of section 30I(3) to enable him or her to investigate the complaint. Totally different language would, however, be required if it was the intention of the Legislature to empower the Adjudicator to extend a period of prescription which has already run its course and thus to deprive an erstwhile debtor against whom a claim has been extinguished of its right to plead prescription.” (Emphasis supplied.)
+
+A further example is that illustrated in Ramajela v Administrator, Cape (Ramajela).26 The relationship of the Prescription Act to the Limitation of Legal Proceedings (Provincial and Local Authorities) Act 84 of 1970 (“LLP”) was at issue. The LLP provided for a period of two years from the time the plaintiff knew the identity of the wrongdoer and the facts giving rise to the claim, within which to sue the Province. It had expired. The plaintiff wished to invoke section 13 of the Prescription Act to avert a delay in the running of prescription. The question was whether the two-year period was an “expiry” period which absolutely extinguished the claim or it was a prescriptive period, which, but for the duration was in all other respects subject to the Prescription Act. If it was a prescriptive period, then section 13 of the Prescription Act would apply and the benefits of the stipulated instances which delayed prescription would apply. (The judgment, curiously does not inform the reader exactly which “delay” benefit the plaintiff relied on.) Jennet J held there was no inconsistency and the Prescription Act did apply. For present purposes, however, the case illustrates the importance of a qualitative assessment of the differences, and the mere fact that a different period was stipulated did not exclude the application of the Prescription Act in total.
+After due allowance for obvious differences in the text of the LRA, what is illustrated in Marais and in Ramajela is that similarity is not significant, but function is. Applying such an approach to the LRA and the Prescription Act, the purposes of section 191 of the LRA and the purposes of sections 10(1), 11(d), 12(1) and 15(1) of the Prescription Act, ie, the critical sections which define the regime, are not, in my view, inconsistent with section 191 of the LRA.
+The lack of inconsistency is at the heart of the argument advanced by Mr Snyman for the employer, who contends that an appropriate and useful approach to the interpretation of the two statutes is to imagine each as constructing a regime which may be overlaid upon one another as a pair of concentric circles. The outer circle is the Prescription Act which extinguishes debts upon the expiry of three years. The inner circle is the LRA which requires of parties to refer a dispute within 30 or 90 days during which conciliation may occur, and upon expiry and the failure of conciliation efforts, a party has 90 more days to refer the matter to the Labour 
+[2016] 12 BLLR 1175 (LAC) at 1190
+  Court or go to arbitration as the case may. In the present case, that next step was to the Labour Court by the filing of statement of case.27 The discretion of the Labour Court to condone late filing operates within, and not in competition with, the scope of the periods stipulated by the Prescription Act.
+Mr Snyman argues that section 191 imposes a time-bar not an alternative prescription regime. Section 191 is therefore not inconsistent with the Prescription Act. Time bars must be constitutionally compliant. In addressing the time bar in the Promotion of Access to Information Act 2 of 2000 (“PAIA”), it was held in Brümmer v Minister for Social Development and others:28
+
+“The principles that emerge from these cases are these: time-bars limit the right to seek judicial redress. However, they serve an important purpose in that they prevent inordinate delays which may be detrimental to the interests of justice. But not all time limits are consistent with the Constitution. There is no hard-and-fast rule for determining the degree of limitation that is consistent with the Constitution. The ‘enquiry turns wholly on estimations of degree’. Whether a time-bar provision is consistent with the right of access to court depends upon the availability of the opportunity to exercise the right to judicial redress. To pass constitutional muster, a time-bar provision must afford a potential litigant an adequate and fair opportunity to seek judicial redress for a wrong allegedly committed. It must allow sufficient or adequate time between the cause of action coming to the knowledge of the claimant and the time during which litigation may be launched. And finally, the existence of the power to condone non-compliance with the time-bar is not necessarily decisive.”29
+
+Zondo JP in Solidarity had occasion to address a difference of view ventilated in the majority and minority judgments about the relevance of “unreasonable delay” in approaching the court for a declaratory order some four and a half years after the agreement creating the rights. Zondo JP, for the majority, held that the notion of unreasonable delay did not apply in the circumstances of that type of case and was applicable only to proceedings where no stipulated period to procure relief was stipulated, such as a review application. However, in an obiter dictum, Zondo JP, in a lengthy passage, but notwithstanding that, appropriate here to consider in full, held thus:
+“[14] the ‘unreasonable delay’ rule does not apply in this case . . . the rule applies to reviews only. Secondly, such rule does not apply to a case that is subject to a statutory limit in terms of the period within which it should be instituted. In this case the Prescription Act applies and the prescription period had not even begun to run when the appellants instituted court proceedings . . . To apply the ‘unreasonable delay’ rule where the Prescription Act applies would, it seems to me, amount to the court legislating another prescription period in addition to the one prescribed by the Prescription Act. In my view there is no reason or
+
+justification in law for that additional prescription period and it can only serve to sow confusion as to when the one period applies and when the other does not apply.
+
+[15] Furthermore, the view that the ‘unreasonable delay’ rule applies to a case where the Prescription Act applies will render the relevant provisions of the Prescription Act redundant. In terms of the Prescription Act, if A assaults B, B has three years within which to institute court proceedings for the payment of damages arising from the assault. The effect is that A can sit at home and not do anything about his claim until the last minute before the expiry of the prescription period of three years. There is, in my view, no rule of law to the effect that, despite the availability to him of a period of three years within which to institute court proceedings, B must nevertheless, institute court proceedings within a reasonable time prior to the expiry of that period of three years because, if he fails to do so, he will be barred from doing so even though the prescription period of three years prescribed by the Prescription Act has not expired. The reason why there is no such rule is because, when the legislature prescribed three years, it regarded three years as a reasonable period within which A should be required to institute his claim for damages. There can, therefore, not be a rule that effectively nullifies the prescription period provided for in the Prescription Act. That is a rule that says A must institute court proceedings within a reasonable time before the expiry of the three years prescribed by the Prescription Act and says, if he fails to do so, he will suffer the same consequence that the Prescription Act says he will suffer if he fails to institute court proceedings within a much longer period, namely, three years. Such a rule would create a prescription period within a prescription period.
+[16] In my view the same applies to this case. In terms of the conclusion relating to the first ‘special plea’, the appellants’ claim had not prescribed at the time of the institution of the proceedings in the Labour Court. That means that the appellants could still have waited for more time before they could institute the proceedings. However, in terms of the Labour Court’s decision on the second ‘special plea’ the appellants were obliged to have instituted court proceedings despite the fact that their claim had not prescribed. The effect of that approach is that the appellants’ claim was subject to two prescription periods, one in terms of the Prescription Act and the other in terms the so called ‘unreasonable delay’ rule. The obvious question that arises is: when will the prescription period as prescribed by the Prescription Act apply and when will the prescription period founded upon the ‘unreasonable delay’ rule apply? In other words: what is the relationship between the two?
+[17] Obviously, the ‘unreasonable delay’ rule can only apply prior to the expiry of the prescription period prescribed by the Prescription Act because, once the prescription period prescribed by the Prescription Act has expired, there will be no claim to which the ‘unreasonable delay’ rule can apply. Once the ‘unreasonable delay’ has occurred in a case prior to the expiry of the prescription period, and there is no good cause shown, the litigant is deprived of his claim in the same way as he would have been if he had delayed beyond the statutory prescription period in instituting court proceedings. In my view this would be untenable. The correct position is simply that, if a claim is subject to a prescription period prescribed by the Prescription Act or is subject to
+
+any specific statutory time frame within which it is required to be brought to court, that is the time frame that governs it and the unreasonable delay rule has no application to it. In my view the ‘unreasonable delay’ rule applies to reviews that are not subject to a statutory requirement that they be instituted within a fixed period.
+
+[18] The conclusion reached in Khampepe JA’s judgment in respect of the prescription point that the appellants’ claim has not prescribed is based on the finding that, when the respondent purported to withdraw or cancel the agreement reflected in MD102, that conduct on the part of the respondent constituted a repudiation which vested the appellants with an election to accept the repudiation and treat the agreement as at an end or to reject the repudiation and treat the agreement as alive and hold the respondent to it. It is also based on an acceptance that the appellants elected to reject the repudiation and to hold the respondent to the agreement. In my view the effect of that election was that the appellants were free to wait for the time in the future when in terms of that agreement between the parties they would be entitled to go on early retirement and when the respondent would be obliged to afford them certain benefits. They would then at that time be able to say to the respondent: the conditions which in terms of the agreement must be met before you must give us benefits A, B and C have been met and you must now give us those benefits. If the respondent gave them those benefits at that time, it would have complied with its obligations. However, if it refused to do so, they would then be able at that time to institute court proceedings. At that point the ‘debt’ under the Prescription Act would become due and the prescription period would start to run. The appellants would not have been able to claim early retirement benefits prior to the time when the conditions precedent applicable had been met. In my view if and when in the future the second and further appellants reach their early retirement age in terms of MD102, they will be entitled to require the respondent to comply with its obligations and, if the respondent fails to comply, they will be entitled to institute appropriate court proceedings. I am, obviously, not necessarily saying that they will succeed. I am saying that, if their allegations are taken as correct, they will have a claim at that time.’” (Emphasis supplied.)
+In my view, this dictum is supportive of the argument advanced by Mr Snyman, inasmuch as Zondo JP sets out why the statutes are reconcilable and why condonation powers are not a substitute or an alternative to prescription, a view diametrically opposite to that advanced on behalf of FAWU by Mr Van der Riet. Mr Snyman’s argument reconciles the statutes rather than sets up a competition for jurisdiction. Moreover, insofar as the LRA must be interpreted to fulfil its mission, the high premium placed on expedition in dispute resolution remains satisfied.
+By contrast, a stark example of inconsistency with the Prescription Act is illustrated in Commissioner for Customs and Excise v Standard General Insurance Co Ltd 2001 (1) SA 978 (SCA) esp [11]–[14]. Section 99(5) of the Customs and Excise Act 91 of 1964 provides that liability shall “cease” after a two-year lapse. That was held to be a demonstrable inconsistency with section 11(d) of the Prescription Act. 
+[2016] 12 BLLR 1175 (LAC) at 1193
+
+Argument 4
+An ancillary contention was advanced by Mr Van der Riet, inspired by the recent decision in Makate to question whether there was a “debt” at all, obviously, a necessary requirement for the Prescription Act to apply. The “debt” sought to be “enforced” was construed, in the argument on behalf of FAWU, as a “claim for reinstatement”.30
+The two judgments delivered by the CC in Makate31 have illuminated a category of “right” which cannot prescribe. A claim was made in that matter that the plaintiff’s former employer was liable to negotiate fair compensation with him for an idea he thought up and which was adopted by the employer who profited handsomely. The employer, among other contentions, argued that the “right” which was alleged had prescribed because the claim was made outside the three-year period. The controversy was about whether the claim could be a “debt” as contemplated by the Prescription Act, because if it were not, it could not be hit by prescription. The claim was framed as one based on the breach of an oral agreement to negotiate an uncertain sum. The Constitutional Court held that a “debt” cannot be construed so widely as to encompass any “obligation to do something or refrain from doing something”, thereby disapproving the dictum to that effect in Desai NO v Desai32 relied upon by the court a quo. Instead, given the need, post-1994, to heed section 39(2) of the Constitution and be cautious about inhibiting rights of access to a court, a narrower meaning had to be attributed to the term “debt”. However, it was held by Jafta J at paragraph 92, that, for the purposes of Makate’s case, the dictum in Electricity Supply Commission v Stewarts and Lloyds of SA33 was sufficient; ie “. . . a debt is an obligation to pay money, deliver goods or render services”. The point made in Makate is that a claim that cannot itself result in a “deliverable” of some sort is not a “debt” as contemplated by the Prescription Act and therefore cannot prescribe. Hence, the claim had not prescribed because it was not a debt of the right sort.
+In the present case, an unfair dismissal claim is the font of the dispute [sic]. What, however, is the “debt”, if any, that is the subject matter of the unfair dismissal claim and which would bring it within the purview of the Prescription Act? In my view, the debt can be usefully described as the workers’ “claim of right”; eg, a claim that the workers’ jobs were unfairly terminated and that unfairness must be remedied. That right is expressly provided in section 185 of the LRA; ie:
+
+“Every employee has the right not be (a) unfairly dismissed; and (b) subjected to an unfair labour practice.”
+
+ 
+[2016] 12 BLLR 1175 (LAC) at 1194
+
+  Such a “debt” does not, in my view, fall into the limbo category identified in Makate because there is no uncertainty about what the employer has to do to render tangible and substantive satisfaction to the dismissed worker, and there is no middle ground to traverse upon which a joust about the creation of new rights needs to take place. An unfair dismissal claim is a species of a demand for specific performance, coupled with a right of the aggrieved party to invite an adjudicator to award compensation in the alternative, and vesting in the adjudicator, within strict parameters, a discretion not to order specific performance, but rather award compensation.34
+
+How might that sort of “debt” differ from the “debts” addressed in Solidarity or SAPO? In my view, it would be extraordinary if the Prescription Act applied to some debts and not others, or to bits and pieces of the possible proceedings in terms of the LRA and not to other bits and pieces. That incoherence is intolerable. In my view, there is no distinction to be made between these “debts” that could be relevant to prescription. (The issue of what constitutes a debt in section 191 litigation is addressed again hereafter in the context of what can interrupt prescription.)
+
+Conclusion
+Accordingly, in my view, the Prescription Act does indeed apply to all litigations under the LRA, not least of all, litigations prosecuted in terms of section 191.
+
+C Has FAWU’s claim [of] unfair dismissal prescribed?
+Prescription may be interrupted in the manner provided for in section 15(1) of the Prescription Act:
+
+“The running of prescription shall, subject to the provisions of subsection 2, be interrupted by the service on the debtor of any process whereby the creditor claims payment of the debt.” (Emphasis supplied.)
+
+  Notably, “process” is defined in section 15(6) as:
+
+“. . . includes a petition, a notice of motion, a rule nisi, a third party notice referred to in any rule of court, and any document whereby legal proceedings are commenced”. (Emphasis supplied.)
+
+
+On behalf of FAWU, it is contended that the “debt” arose upon dismissal and the referral to the CCMA of the unfair dismissal dispute in terms of section 191(1) of the LRA, constitutes the process which interrupted prescription. Hence, it matters not how long afterwards the statement of claim was filed with the Labour Court.
+On behalf of the employer, it is argued that the referral could not have such an effect because, at that stage, no “complete cause of action” yet existed. On the thesis advanced on behalf of the employer, the “cause of 
+[2016] 12 BLLR 1175 (LAC) at 1195
+  action” came into existence only upon the issue of a certificate of non-resolution. It follows that, on this thesis, the “debt” as contemplated by the Prescription Act, could not arise at the time of the actual dismissal, because an element of the cause of action was at that time absent; ie, the exhaustion of the conciliation phase, as evidenced by a certificate of non-resolution. Prescription ran from the date of the issue of the certificate and could be interrupted only by the filing of a statement of case.
+The controversy spawned by these rival contentions thus falls to be resolved by deciding these questions
+What is the legal status of:
+A section 191(1) referral;
+A certificate of non-resolution;
+A statement of case.
+Is a “cause of action” and a “debt” as contemplated by the Prescription Act the same thing or distinct concepts?
+What is the cause of action relied upon by FAWU?
+For the purposes of the Prescription Act, what is the “debt”?
+When did the “debt” upon which FAWU relies arise?
+What “step” that qualifies as “process whereby the creditor claims payment of the debt” was taken by FAWU and when was it taken?
+The FAWU thesis is that the debt is the right not to be unfairly dismissed, which right was breached by the dismissal. In my view, this is the correct perspective. The employer thesis is that a “complete cause of action” arises only after a certificate of non-resolution has been issued is misconceived. The decision of the Labour Court a quo was to uphold the employer’s contention that a certificate of non-resolution was the source of FAWU’s “cause of action” and prescription ran from then. We respectfully disagree.
+The terms “debt” and “cause of action” are not synonyms. Harms JA in Drennan Maud & Partners v Pennington Town Board35 held that a “debt” as contemplated section 15(1) of the Prescription Act:
+
+“. . . does not refer to the cause of action, but more generally to the claim”.
+
+  And, also:
+
+“In deciding whether a debt has become prescribed, one has to identify the debt, on, put differently, what the “claim” was in the broad sense of that word”.
+
+
+  In Umgeni Water and others v Mshengu,36 these notions were reiterated. The facts of that case illustrate usefully the absence of an element of a complete cause of action. Mshengu claimed early retirement benefit and sued for it. However, his parallel claim for unfair dismissal succeeded. The result was that his employment had not ended on the date he claimed 
+[2016] 12 BLLR 1175 (LAC) at 1196
+  the benefit was due. Thus, the termination of his employment which was an element of his claim was absent, at the relevant time.
+
+In relation to the meaning of “debt” in relation to prescription, Zulman JA remarked in Standard Bank of SA Ltd v Oneanate Investments (In Liquidation)37that:
+
+“. . . the concept of a ‘debt’ for the purposes of the [prescription] act,is wider than the technical term ‘cause of action . . .’”
+
+  In CGU Insurance v Rumdel Construction (Pty) Ltd,38 Jones AJA held:
+
+“. . . It is important to bear in mind that the courts are now specifically concerned with prescription of a ‘debt’ within the meaning of the 1969 Act. The Act does not define ‘debt’ and ‘there is . . . a discernible looseness of language’ in its use thereof with the result that ‘debt’ means different things in different contexts. For this reason ‘debt’ in the context of s 15(1) must bear ‘a wide and general meaning’. It does not have the technical meaning given to the phrase ‘cause of action’ when used in the context of pleadings (Standard Bank of South Africa Ltd v Oneanate Investments (Pty) Ltd (in Liquidation)). In Evins v Shield Insurance Co Ltd Trollip JA made a point of the distinction between ‘debt’ and ‘cause of action’, and describes the latter in the following way:
+
+‘Cause of action’ is ordinarily used to describe the factual basis, the set of material facts, that begets the plaintiff’s legal right of action and, complementarily, the defendant’s ‘debt’, the word used in the Prescription Act.
+
+The debt is not the set of material facts. It is that which is begotten by the set of material facts . . .’”
+
+
+Accordingly, whilst it is correct that in formulating a “claim”, it is necessary to aver the exhaustion of the conciliation phase, to justify access to the adjudicative forum (ie Labour Court or CCMA arbitration), the existence of the “debt” properly described, is not dependent on that procedural requirement. An attempt was made to invoke the decision in NUMSA v Intervalve (Pty) Ltd (2015) 36 ILJ 363 (CC) [also reported at [2015] 3 BLLR 205 (CC)] (“Intervalve”) as support for the notion that the certificate is one of the essentialia of the cause of action. That is not an accurate reading on Intervalve, which addressed the requirement of a certificate of non-resolution as a jurisdictional prerequisite, not as an element of the cause of action, still less an aspect of the debt.
+However, the contention that the referral is capable of constituting the necessary “process” to interrupt prescription is incorrect because of reasons closely related to why the certificate of non-resolution cannot interrupt prescription either. The function of a referral is similar in nature to a section 17 “claim form” in terms of the RAF Act 56 of 1996 or a section 129 notice in terms of the National Credit Act 34 of 2005. In terms section 17 of the RAF Act, liability is imposed on the Fund to compensate victims of road accidents. In Pithey v RAF39 the Full Bench considered the 
+[2016] 12 BLLR 1175 (LAC) at 1197
+  implications of a failure to comply properly with section 17(1)(b) of the RAF Act, which required the completion and timeous submission of the “claim for compensation”. It was held that if that condition was not complied with a court would not entertain a claim. The same fate befell the claimant in RAF v Duma and three similar cases,40 where it was held that a claim for general damages was premature if the procedure prescribed by regulation 3(3) for the assessment of a “serious injury” by the Health Professions Council had not been exhausted. In Investec Bank Ltd t/a Investec Private Bank v Ramurunzi,41 the bank sued to recover the debt owed by the debtor without having furnished a notice in terms of section 129 of the National Credit Act 34 of 2005 (“NCA”). Section 130(3) of the NCA prohibits recovery of a debt unless and until the section 129 process is exhausted. That process is aimed at alerting the debtor to options to avoid being sued. It was held that the summons issued against the debtor was not invalidated by the non-compliance with section 129 and served to interrupt prescription. Nevertheless, the peculiar provisions of section 130(4)(b) empowered the court to defer the bank’s claim until the debtor had the chance to exercise the available options, including debt counselling. Accordingly, in my view, the requirement of a referral can be likened functionally to these examples, where there is a condition precedent to approaching a court, but that condition is not part and parcel of the “debt” being sought to enforce.
+What section 15(1) of the Prescription Act requires to interrupt prescription is a “process . . . whereby legal proceedings are commenced”. A referral does not do so because a referral does not commence legal proceedings. The function of a referral is to oblige the CCMA to intervene in a dispute. The initial role of the CCMA is to conciliate and thus avoid legal proceedings. Section 17 of the RAF Act contemplated an opportunity for the Fund to acknowledge liability and avoid litigation by the Fund investigating the claim, details of which are submitted in the claim form for consideration. Section 129 of the NCA is one of several related provisions whose primary objective is to avoid litigation. When legal proceedings are launched steps additional to these formal requirements are necessary. A referral is no more than a condition to be fulfilled to obtain access to a forum that can adjudicate a dispute. It is the concretisation of a policy choice to avoid or limit litigation.
+In the case of a matter that must, like the present one, be ventilated in the Labour Court, the referring party must after the referral and exhaustion of conciliation in terms of section 191(5)(b) “refer the dispute to the Labour Court for adjudication”, which involves, in accordance with rule 6(1) of the Labour Court Rules, the filing of a statement of case, which, in terms of section 191(11)(a), must be done within 90 days of the certificate of 
+[2016] 12 BLLR 1175 (LAC) at 1198
+  non-resolution. This is the act initiates, as the text expressly states, “adjudication” (as distinct from conciliation) and which, for that reason constitutes the “process” which interrupts prescription.
+The procedural route to an arbitration before the CCMA is differently regulated. The relevant provisions could not be more tortuously formulated. The first reference in section 191 to the consequences of a failure to conciliate a dispute of the kind that is reserved for adjudication by arbitration is in section 191(5)(a). It states that after a certificate of non-resolution is issued or the elapse of 30 days since receipt of the referral, “. . . the . . . commission must arbitrate the dispute at the request of the employee . . .” This provision in the structure of section 191(5) is the corresponding trigger to adjudication to the “referring” of a dispute to the Labour Court in section 191(5)(b). How and when an employee may “refer” a dispute to the Labour Court is dealt with in section 191(11)(a). Initially, in respect of proceeding to an arbitration, section 191 was silent on the corresponding steps. The 2002 amendments to the LRA amplified the procedure by the insertion of section 191(5A):
+Despite any other provision in the Act, the council or Commission must commence the arbitration immediately after certifying that the dispute remains unresolved if the dispute concerns –
+(a) the dismissal of an employee for any reason relating to probation;
+(b) any unfair labour practice relating to probation;
+(c) any other dispute contemplated in subsection (5)(a) in respect of which no party has objected to the matter being dealt with in terms of this subsection.”
+On behalf of FAWU, it is argued that section 191(5A) must be read to mean that the referral kicks the referred dispute automatically into the arbitration channel, seamlessly along with the conciliation phase, and thus a referral ought on these grounds to be construed a “process” commencing legal proceedings. (Whether a CCMA arbitration is indeed a “legal proceeding” in the relevant sense is a question I shall not address here and I assume for the purposes of the analysis that it is.) CCMA rule 18 provides for a procedure in terms of which an employee may make the “request” referred to in section 191(5)(a) by filing a form LRA 7.13, and CCMA rule 19 empowers a commissioner to direct pleadings to be filed. However, CCMA rule 18(4) states that it shall not apply to “con-arb”42 proceedings held in terms of section 191(5A).
+In my view, the contentions advanced on behalf of FAWU are misconceived. Section 191(5A) may compel probation disputes to be immediately arbitrated and require, in all other types of disputes, that a party may object to immediate arbitration, but these provisions are obviously framed to address questions of timing and promote expedition, but perform no additional role. It cannot be cogently argued that there is no gear shift 
+[2016] 12 BLLR 1175 (LAC) at 1199
+  from conciliation to arbitration. The absence of an “objection” to “con-arb” has the identical function as a “request”. As regards a probation dispute, an obviously special case, the provision addresses an axiomatic intrinsic urgency to such an issue. If probation matters are not dealt at once, they shall be assured of being academic if dealt with any later. That policy choice addressing a special case cannot be allowed to intrude a meaning that distorts the rest of the process. Nevertheless, whatever industrial relations theory might be imposed on the dynamic of con-arb, the section does not create a seamless “process” to commence legal proceedings. Any other interpretation must founder on the irreconcilability of the two subsections, an outcome which an appropriate interpretation avoids.
+Accordingly, to sum up, a referral per se plays no role in interrupting prescription. The need for a statement of case to access the Labour Court is plain. In arbitrations, the need for a formal “request” can be obviated if an arbitration is actually commenced, and a fictional “request” is deemed to occur by the absence of an objection.
+To turn to the facts, which give rise to the grievance of FAWU in this case, it is evident that prescription was running from the date of the dismissal. FAWU chose to pursue and persist in efforts to get the dispute arbitrated. Those steps were ill-considered. By the time FAWU accepted it was in the wrong channel, and filed a statement of claim, prescription had occurred. Section 15(2) makes it plain that bona fide steps to initiate litigation in the wrong forum do not constitute a “process” contemplated by section 15(1) of the Prescription Act.
+Accordingly, the debt upon which FAWU relies has indeed prescribed.
+
+D The order
+In the result, the appeal must fail. Given the nature of the controversy and the ongoing relationship between the parties, no costs orders were sought.
+Accordingly, the order is thus:
+
+  The appeal is dismissed.
+
+(Ndlovu JA and Murphy AJA concurred in the judgment of Sutherland JA.)
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  2001 (3) SA 546 (SCA) at para [13] [also reported at [2000] 4 All SA 576 (A) – Ed].
+2	  Farlam AJA went on to hold that:
+“The inconsistent provisions which have to be included in an Act of Parliament and which will oust some or all of the provisions of Chapter III are provisions which (a) prescribe a specified period within which a claim is to be made; (b) prescribe a specified period within which an action is to be instituted in respect of a debt; or (c) impose conditions on the institution of an action for the recovery of a debt . . .” (Emphasis added.)
+  In my view, this passage gives rise to a difficulty if it is read to mean that the mere existence of “provisions”, as described, are sufficient to constitute the “inconsistency”. A better reading is that the ‘type’ of provisions in another statute trigger the risk of inconsistency, but inconsistency as a result of the provisions must still be qualitatively established. This would be the “consistency evaluation” mentioned in RAF v Mdeyide 2011 (2) SA 25 (CC):
+ “[44] Whether the provisions of the Prescription Act apply is determined by s 16 of the Act. It states that the provisions apply save insofar as they are inconsistent with the provisions of any Act of Parliament, which in this case would be the RAF Act.
+[45]   A consistency evaluation is thus necessary. The test has been formulated as ‘in every case in which a plaintiff relies upon a [certain provision], the cardinal question is whether that provision is inconsistent with [another provision]’. Inconsistency may arise as the result of a different time period being stipulated, but also on other points, for example, with regard to mental capacity. However, where provisions have been found to deal with a similar subject-matter, yet without being identical, it has on occasion been held that there was no inconsistency.” (Emphasis supplied.)
+3	  (2016) 376 ILJ 413 (LAC) [also reported at [2016] 1 BLLR 24 (LAC) – Ed].
+4	  2016 (4) SA 121 (CC) [also reported at 2016 (6) BCLR 709 (CC) – Ed].
+5	  This provision, now in its amended nomenclature, so self-consciously and inelegantly bowdlerised, refers to the exclusion of the concept of prescription from African Customary Law.
+6	  (2007) 28 ILJ 2405 (CC) [also reported at [2007] 12 BLLR 1097 (CC) – Ed].
+7	  See fn 1.
+8	  These decisions are collected in Myathaza.
+9	  (2008) 29 ILJ 1450 (LAC) [also reported at [2008] JOL 21489 (LAC) – Ed].
+10	  (2014) 25 ILJ 35 (LAC).
+11	  Why the proviso in s 17(2) of the Prescription Act, in terms of which a court “may allow prescription to be raised at any stage of the proceedings” was not applicable is not evident from the judgment. It may be assumed that no application to “file” an amendment about the point was made.
+12	  S 39 of the Constitution provides: Interpretation of Bill of Rights
+ (1) When interpreting the Bill of Rights, a court, tribunal or forum –
+ (a) must promote the values that underlie an open and democratic society based on human dignity, equality and freedom;
+ (b) must consider international law; and
+ (c) may consider foreign law.
+ (2) When interpreting any legislation, and when developing the common law or customary law, every court, tribunal or forum must promote the spirit, purport and objects of the Bill of Rights.
+ (3) The Bill of Rights does not deny the existence of any other rights or freedoms that are recognised or conferred by common law, customary law or legislation, to the extent that they are consistent with the Bill.
+13	  This zone of exclusivity of the labour fora exists together with a zone of concurrent competence with the civil courts: see: Chirwa v Transnet Ltd and others 2008 (4) SA 367 (CC) [also reported at [2008] 2 BLLR 97 (CC) – Ed].
+14	  (2013) 34 ILJ 2865 (LC).
+15	  (2014) 35 ILJ 1237 (LC) [also reported at [2014] 2 BLLR 172 (LC) – Ed].
+16	  At para [8].
+17	  (2015) 36 ILJ 700 (LC) [also reported at [2015] 2 BLLR 147 (LC) – Ed].
+18	  At para [16].
+19	  1997 (1) SA 124 (CC) [also reported at 1996 (12) BCLR 1559 (CC) – Ed].
+20	  Eg among many other authors see W Bradley Wendel, Lawyers and Fidelity to the Law, (Princeton University Press, 2010) at 27–29.
+21	  This is the phrase used in the heads filed on behalf of FAWU.
+22	  S 191 of the LRA:
+Disputes about unfair dismissals and unfair labour practices.
+ (1) (a) If there is a dispute about the fairness of a dismissal, or a dispute about an unfair labour practice, the dismissed employee or the employee alleging the unfair labour practice may refer the dispute in writing to –
+ (i) a council, if the parties to the dispute fall within the registered scope of that council; or
+ (ii) the Commission, if no council has jurisdiction.
+ (b) A referral in terms of paragraph (a) must be made within
+ (i) 30 days of the date of a dismissal or, if it is a later date, within 30 days of the employer making a final decision to dismiss or uphold the dismissal;
+ (ii) 90 days of the date of the act or omission which allegedly constitutes the unfair labour practice or, if it is a later date, within 90 days of the date on which the employee became aware of the act or occurrence.
+ (2) If the employee shows good cause at any time, the council or the Commission may permit the employee to refer the dispute after the relevant time limit in subsection (1) has expired.
+ 2A Subject to subsections (1) and (2), an employee whose contract of employment is terminated by notice, may refer the dispute to the council or the Commission once the employee has received that notice.
+ (3) The employee must satisfy the council or the Commission that a copy of the referral has been served on the employer.
+ (4) The council or the Commission must attempt to resolve the dispute through conciliation.
+ (5) If a council or a commissioner has certified that the dispute remains unresolved, or if 30 days or any further period as agreed between the parties have expired since the council or the Commission received the referral and the dispute remains unresolved
+ (a) the council or the Commission must arbitrate the dispute at the request of the employee if –
+ (i) the employee has alleged that the reason for dismissal is related to the employee’s conduct or capacity, unless paragraph (b)(iii) applies;
+ (ii) the employee has alleged that the reason for dismissal is that the employer made continued employment intolerable or the employer provided the employee with substantially less favourable conditions or circumstances at work after a transfer in terms of section 197 or 197A, unless the employee alleges that the contract of employment was terminated for a reason contemplated in section 187;
+ (iii) the employee does not know the reason for dismissal; or
+ (iv) the dispute concerns an unfair labour practice; or
+ (b) the employee may refer the dispute to the Labour Court for adjudication if the employee has alleged that the reason for dismissal is –
+ (i) automatically unfair;
+ (ii) based on the employer’s operational requirements;
+ (iii) the employee’s participation in a strike that does not comply with the provisions of Chapter IV; or
+ (iv) because the employee refused to join, was refused membership of or was expelled from a trade union party to a closed shop agreement.
+ (5A) Despite any other provision in the Act, the council or Commission must commence the arbitration immediately after certifying that the dispute remains unresolved if the dispute concerns –
+ (a) the dismissal of an employee for any reason relating to probation;
+ (b) any unfair labour practice relating to probation;
+ (c) any other dispute contemplated in subsection (5)(a) in respect of which no party has objected to the matter being dealt with in terms of this subsection.
+ (6) Despite subsection (5)(a) or (5A), the director must refer the dispute to the Labour Court, if the director decides, on application by any party to the dispute, that to be appropriate after considering –
+ (a) the reason for dismissal;
+ (b) whether there are questions of law raised by the dispute;
+ (c) the complexity of the dispute;
+ (d) whether there are conflicting arbitration awards that need to be resolved;
+ (e) the public interest.
+ (7) When considering whether the dispute should be referred to the Labour Court, the director must give the parties to the dispute and the commissioner who attempted to conciliate the dispute, an opportunity to make representations.
+ (8) The director must notify the parties of the decision and refer the dispute
+ (a) to the Commission for arbitration; or
+ (b) to the Labour Court for adjudication.
+ (9) The director’s decision is final and binding.
+ (10) No person may apply to any court of law to review the director’s decision until the dispute has been arbitrated or adjudicated, as the case may be.
+ (11) (a) The referral, in terms of subsection (5)(b), of a dispute to the Labour Court for adjudication, must be made within 90 days after the council or (as the case may be) the commissioner has certified that the dispute remains unresolved.
+ (b) However, the Labour Court may condone non-observance of that timeframe on good cause shown.
+ (12) An employee who is dismissed by reason of the employer’s operational requirements may elect to refer the dispute either to arbitration or to the Labour Court if –
+ (a) the employer followed a consultation procedure that applied to that employee only, irrespective of whether that procedure complied with section 189;
+ (b) the employer’s operational requirements lead to the dismissal of that employee only; or
+ (c) the employer employs less than ten employees, irrespective of the number of employees who are dismissed.
+ (13) (a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+ (b) A referral in terms of paragraph (a) is deemed to be made in terms of subsection (5)(b).
+23	  See fn 1.
+24	  [2012] 3 All SA 622 (SCA).
+25	  After 2007 the section reads thus:
+30I Time limit for lodging of complaints
+ (1) The Adjudicator shall not investigate a complaint if the act or omission to which it relates occurred more than three years before the date on which the complaint is received by him or her in writing.
+ (2) The provisions of the Prescription Act, 1969 (Act 68 of 1969), relating to a debt apply in respect of the calculation of the three year period referred to in subsection (1).
+26	  1990 (4) SA 11 (E) [also reported at [1990] 4 All SA 786 (E) – Ed].
+Repealed Act	Act 84 of 1970 has been repealed by s 26 of Act 23 of 2001
+27	  Labour Court rule 6(1) read with ss 191(5) (b) and 191(11) of the LRA.
+28	  2009 (6) SA 323 (CC) [also reported at 2009 (11) BCLR 1075 (CC) – Ed].
+29	  At para [51].
+30	  This formulation is in my view not different in substance to the formulation I prefer as addressed in para [43].
+31	  Makate at paras [81]–[93] per Jafta J (for majority) and at paras [185]–[199] [sic] per Wallis AJ (Minority) dealt with the prescription issue.
+32	  Desai NO v Desai 1996 (1) SA 141 (A).
+33	  ESCOM v Stewarts and Lloyds of SA (Pty) Ltd 1981 (3) SA 340 (A) at 344E.
+34	  S 193 of LRA. See too Benson v SA Mutual Life Assurance Society 1986 (1) SA 776 (A) [also reported at [1986] 2 All SA 30 (A) – Ed] on specific performance claims and the Civil Courts’ residual discretion about enforcement and the alternative of damages.
+35	  1998 (3) SA 200 (SCA) at 212F–J [also reported at [1998] JOL 2223 (A) – Ed].
+36	  (2010) 31 ILJ 88 (SCA) at para [6] [also reported at [2010] 2 All SA 505 (SCA) – Ed].
+37	  1998 (1) SA 811 (SCA) at 826J [also reported at [1998] 1 All SA 413 (A) – Ed].
+38	  2004 (2) SA 622 (SCA) at para [6] [also reported at [2003] 2 All SA 597 (SCA) – Ed].
+39	  2013 (5) SA 226 (GNP).
+40	  2013 (6) SA 9 (SCA).
+41	  2014 (4) SA 394 (SCA) [also reported at [2014] 3 All SA 34 (SCA) – Ed].
+42	  “Con-arb” is the label derived from a “conciliation-arbitration” process in which a single person acts as both conciliator and arbitrator, an arrangement which might seem to be counter-intuitive but is not unknown in the practice of industrial relations.
+
+For the appellant:
+
+J Van der Riet SC instructed by Cheadle Thompson & Haysom
+For the respondent:
+
+Snyman of S Snyman Attorneys
+
+
+End of Document

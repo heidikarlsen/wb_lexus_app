@@ -1,0 +1,187 @@
+
+
+
+
+Vuma and others v Executive Director: Independent Police Investigative Directorate and another [2021] JOL 49412 (GP)
+Judgments Online
+
+Division: Gauteng, Pretoria 
+Case No: 49791 / 2018
+Hearing Date(s): 22 / 10 / 2020
+Judgment Date(s): 13 / 01 / 2021
+Bench: N Davis J
+
+
+Keywords
+
+
+Criminal law and procedure — Independent Police Investigative Directorate Act 1 of 2011 — Investigative powers — Access to documents
+
+Mini Summary
+
+
+The applicants were members of the leadership of the South African Police Service (SAPS). The first respondent was the Executive Director of the Independent Police Investigative Directorate (IPID), appointed as such in terms of section 6 of the Independent Police Investigative Directorate Act 1 of 2011. The second respondent was a magistrate for the Magistrate Court of the (then) district of Pretoria (now Tshwane Central), who had issued subpoenas for the applicants to be examined or to produce documents.
+
+The present matter dealt with access by IPID to documents relating to the investigation of suspected tender fraud and corruption within the ranks of SAPS. The applicants alleged that the documents constituted “intelligence information that might compromise the national security and the identities of operatives of the intelligence community” and that IPID could therefore not demand access to the documents from SAPS.
+
+Held that IPID was charged with providing for independent and impartial investigation of identified criminal offences allegedly committed by members of the South African Police Services and Municipal Police Services. Its investigators are, in terms of section 24 of the Independent Police Investigative Directorate Act, given extensive investigative powers, corresponding to those bestowed upon peace officers and police officials in terms of the Criminal Procedure Act 51 of 1977. Section 4(2) of the Independent Police Investigative Directorate Act obliges each organ of State to assist IPID in performing its functions effectively.
+
+The court first considered what documents IPID sought access to and the reason for such access. The documents mainly pertained to investigations conducted by IPID. The question was whether access to the documents could legitimately be refused. The applicants’ stance was that the documents needed to be declassified by the Joint Standing Committee on Intelligence (JSCI) and, until so declassified, they not only had no authority to disclose the documents, but were by law precluded from granting access thereto, even to IPID. Reliance in that regard was placed squarely on section 5(2) of the Intelligence Service Oversight Act, 40 of 1994. The court held that section 5 does not impose an absolute prohibition on access to documents and does not preclude IPID from obtaining access to classified documents. On the contrary, the section was clearly aimed at imposing secrecy provisions on the JSCI itself and its members in respect of documents they obtained in the performance of their functions in terms of the Oversight Act.
+
+It was found that no explanation was given for the documents needing to be classified as inaccessible in order to ostensibly protect national security interests in respect of some of the investigations, and in respect of the other, the explanations that were forward, did not constitute cogent reasons for the classification of those documents nor for the refusal to declassify them. The National Commissioner was ordered to immediately take all necessary steps to have the documents declassified for the purpose of IPID’s investigation and any consequent prosecutions.
+
+ 
+[2021] JOL 49412 (GP) at 2
+
+
+
+
+DAVIS J:
+
+[1]    Introduction
+
+This matter deals with access by the Independent Police Investigative Directorate ("the IPID") to documents relating to the investigation of suspected tender fraud and corruption within the ranks of the South African Police Service ("the SAPS"). More specifically, access to documents relating to acquisition of software monitoring capacity, cell phone "grabbing" equipment (and possibly also bullet proof vests) were prevented by the classification of these documents as "relating to issues that fall within the ambit of the National Strategic Intelligence Act, 39 of 1994". In short, those members of the leadership of the SAPS who are applicants in this matter alleged that these documents constituted "intelligence information that might compromise the national security and the identities of operatives of the intelligence community" and that IPID may therefore not demand access to these documents from the SAPS.
+
+[2]    The parties
+
+The four applicants are the Deputy National Commissioner: Management Advisory Service, Lieutenant General FN Vuma; the Deputy National Commissioner: Crime Detection, Crime Intelligence and Forensic Services, Lieutenant General LT Tsumane; the National Commissioner,  
+[2021] JOL 49412 (GP) at 3
+General Khela Sithole ("the Commissioner"); and the former Advisor to the Minister of Police, Mr B Mbindwane.
+The first respondent is the Executive Director of IPID, appointed as such in terms of section 6 of the Independent Police Investigative Directorate Act 1 of 2011 ("the IPID Act").
+The second respondent is a magistrate for the Magistrate Court of the (then) district of Pretoria (now Tshwane Central), who had issued subpoenas for the applicants to be examined or to produce documents.
+
+[3]    The relevant duties of IPID, the Commissioner and members of the SAPS
+
+Starting with IPID, its duties relevant to this case are, in terms of section 2(d) the IPID Act, are "to provide for independent and impartial investigation of identified criminal offences allegedly committed by members of the South African Police Services and Municipal Police Services" and, in terms of section 2(g) of the IPID Act "to enhance accountability and transparency by the South African Police Services and Municipal Police Services in accordance with the principles of the Constitution".
+The object of the IPID Act was to give effect to the provisions of section 206(6) of the Constitution of the Republic of South Africa, 1996 ("the Constitution") by the establishing of IPID and the assigning of functions to it on a national and provincial level.
+In terms of section 28 of the IPID Act, it is charged with investigating all aspects of corruption in and by members of the SAPS. Its investigators are, in terms of section 24 of the IPID Act, given extensive investigative powers, corresponding to those bestowed upon peace officers and police officials in terms of the Criminal Procedure Act 51 of 1977 ("the CPA"). 
+[2021] JOL 49412 (GP) at 4
+The "cardinal importance" of IPID's oversight role has been recognised by the Constitutional Court in McBride v Minister of Police and others (Helen Suzman Foundation as amicus curiae) 2016 (2) SACR 585 (CC) [also reported at 2016 (11) BCLR 1398 (CC) – Ed] at paragraph [24] in which reference was also made to section 4(2) of the IPID Act which requires each organ of state to assist IPID in performing its functions.
+Turning to the Commissioner, he is obliged to perform the duties and functions necessary to give effect to section 207(2) of the Constitution. That is, "to exercise control over and manage the police services in accordance with national policing policy and the directions of the cabinet member responsible for policing".
+Section 4(2) of the IPID Act obliges each organ of state to assist IPID in performing its functions effectively. As head of an organ of state, the Commissioner is the person obliged to ensure compliance by that organ with this section of the IPID Act. Moreover, the duties of the SAPS under the command of the Commissioner, in terms of sections 6 and 11 of the South African Police Services Act 68 of 1995, read with section 205(3) of the Constitution, are to "prevent, combat and investigate crime . . . and to uphold and enforce the law".
+In addition to the Commissioner, in terms of section 29(2) of the IPID Act ". . . members of the South African Police Service . . . must provide their full cooperation to the Directorate, including but not limited to . . . the availability of members . . . to give evidence or produce any document in that member's possession or under his or her control which has a bearing on the matter being investigated and any other information or documentation required for investigation purposes". 
+[2021] JOL 49412 (GP) at 5
+
+[4]    What are the documents in question and why does IPID want to have access to it?
+
+From a reading of the papers and the arguments presented to court, there appears to be little dispute about the specific documents to which IPID seeks access. The documents mainly pertain to investigations dubbed by IPID "I-View I, "I-View Ⅱ" and "I-View Ⅲ".
+I-View I is the subject matter of a police docket labelled Brooklyn CAS 565/11/2017. It is an investigation into suspected fraud and corruption or, at least, gross procurement irregularities by the SAPS Crime Intelligence of goods and services from Brainwave Projects 1323 CC t/a I-View. The procurement apparently took place between 20 December 2016 and 31 March 2017. IPID's investigations revealed that, during the "Fees must fall" protests in December 2016, SAPS crime intelligence paid I-View R33 million for software aimed at monitoring social media sites, known as "RIPJAR software". Neither the formal nor emergency tender procedures were followed and neither had there been an application to depart therefrom. Only two quotations were obtained for the supply of the RIPJAR software, one from I-View itself and the other from Perfect Source Solutions (Pty) Ltd, whose director is the wife of I-View's sole member. The quotations were sourced, not by the user thereof, being SAPS Crime Intelligence: Cyber Unit, but by an officer in the SAPS Crime Intelligence IT department, one Colonel Mahwayi. The quotations were sourced on 20 December 2016 and the R33 million was paid on 22 December 2016, without any agreement in place, which was only concluded a day later on 23 December 2016. IPID could find no evidence that the goods or services had in fact been rendered and found no evidence that the RIPJAR software had been installed on the SAPS Crime Intelligence Systems. In a similar fashion, ie outside procurement procedures and with also only two quotes  
+[2021] JOL 49412 (GP) at 6
+form [sic] the same abovementioned companies, a "Deadalus system" was obtained. This system was designed to encrypt cellular phone communications and block surveillance. It cost R21 million. At the time of these procurements, I-View was under business rescue, but the business rescue practitioner had not been informed of these transactions. IPID seeks access to all documents relating to these procurements.
+On behalf of the applicants, Lieutenant General Vuma's response to these allegations was simply the following: 
+
+"SAPS management is aware that IPID is investigating allegations of fraud and corruption under Case No Brooklyn CAS 565/11/2017. As reiterated earlier herein, SAPS does not have any legal or other authority to furnish the documents required. I have already mentioned that, in terms of our interpretation, the request for the said classified documents should be made to the Joint Standing Committee on Intelligence" 
+
+I shall return hereunder to the issue of requests to the Joint Standing Committee on Intelligence ("the JSCI").
+
+I-View Ⅱ (IPID CCN 2012010527) is an investigation into an aborted attempt by SAPS Crime Intelligence in December 2017 to illegally obtain access to funds by an attempt to purchase a "cellphone grabber", available in the market for between R7–R10 million, for an amount of R45 million from I-View. Two affidavits from Brigadiers Hlungwane and Chilli confirmed the illegality of this attempted procurement. How the plot was foiled, came about as follows: IPID received a tip-off on 14 December 2017 that the R45 million transaction was being processed and obtained an affidavit by the whistle blower. IPID subsequently also obtained video footage of the meeting held on 13 December 2017 in the Courtyard Hotel in Pretoria between Mr Inbanathan Kistiah of I-View, the fourth applicant, then the advisor to the Minister and the other applicants, as well as the then acting Division Commissioner: SAPS Crime Intelligence, General B Ngcobo.   
+[2021] JOL 49412 (GP) at 7
+
+Senior members of the SAPS Crime Intelligence indicated that the transaction was being "pushed" by General Ngcobo and that no need existed for the procurement of the device. On 15 December 2017 IPID contacted the Commissioner with this information, who then stopped the processing of payment to I-View.
+
+Again, the applicant's response hereto by General Vuma is enlightening: 
+
+"SAPS management is aware that IPID is conducting an investigation as alleged in terms of the contents of these paragraphs. At this present moment and due to the sensitivity of the nature of the information, I would not comment on each and every allegation made herein. I however, wish to reiterate that the requested information to assist IPID in conducting its investigation should be sourced from the Joint Standing Committee on Intelligence as submitted hereinabove."
+
+I-View Ⅲ relates to an investigation regarding the procurement of bullet-proof vests at an amount of R33 000 per vest. The market price for such vests ranges between R5 000 to R10 000 per vest. No further detail was furnished by IPID in its counter-application, which I shall deal with hereinlater, but the applicants failed to even engage with this issue, be it by way of a denial or otherwise.
+Prima facie, the allegations in respect of the I-View I, Ⅱ and Ⅲ procurements or attempted procurements, constitute crimes or procurements transgressions, the investigation of which clearly falls within IPID's purview.
+
+[5]    Can access to the documents legitimately be refused?
+
+Prior to the events which led to this application, IPID did its level best to interview the applicants in attempted furtherance of its investigations. The  
+[2021] JOL 49412 (GP) at 8
+requests for interviews were frustrated by the applicants' requests for postponements due to non-availability, absence of legal representation and the like, all dealt with by way of correspondence.
+Frustrated, IPID resorted to section 205 of the CPA. In terms hereof, a magistrate may, upon application by an authorised public prosecutor, require the attendance before him, for examination of "any person who is likely to give material or relevant information as to any alleged offence".
+Armed with a set of affidavits by an IPID investigator and applications by a senior State Advocate with the National Prosecuting Authority, IPID obtained such subpoenas against the applicants from the second respondent.
+These subpoenas are attacked on a multitude of grounds by the applicants and their attacks prompted this application wherein they seek a review and setting aside of all the subpoenas. Much has been made in the papers of the sufficiency or not of the record of proceedings before the magistrate or the alleged different versions of the record preferred by either IPID or the State Attorney. Nothing much turns on the preferences, save for the following: in the applications for subpoenas against the first, second and fourth applicants, IPID had omitted to replace the name of the Commissioner (inserted in the applications for the subpoenas against him) with the names of the other applicants. This technical, but substantial irregularity, led IPID to concede that these subpoenas should be set aside. As for the subpoenas against the Commissioner, although IPID contends that they were validly granted, they do not in reality appear to be duces tecum subpoenas in the true sense of the word, but rather an attempt to utilise section 205 of the CPA as a mechanism to have the documents declassified. The confusion regarding the completeness of the record casts  
+[2021] JOL 49412 (GP) at 9
+some doubt as to what exactly the learned Magistrate had considered in granting the subpoenas. The Magistrate also chose not to disclose anything in this regard. The result is that the test required to be met by the Commissioner to have the subpoenas set aside, has been satisfied, even if only barely (see Matisonn v Additional Magistrate, Cape Town and another 1980 (2) SA 619 (C) [also reported at [1980] 4 All SA 24 (C) – Ed]). I interpose to state that the present Commissioner was only appointed in November 2017, after the events forming the subject matter of I-View I. It appears that his involvement might be limited to the classification of the relevant documents.
+The applicants have in one aspect been consistent in their refusal to grant IPID access to the documents, from the time that they were initially requested to being interviewed to the time of their resistance to the subpoenas and the filing of their affidavits in this application. The repeated refrain by them was that the documents needed to be declassified by the JSCI and, until so declassified, they not only had no authority to disclose these documents, but were by law precluded from granting access thereto, even to IPID.
+This argument of the applicants, repeated no less than eight times in their principal founding affidavit by Lieutenant General Vuma and no less than 13 times in the replying affidavit, which affidavit was also delivered in response to IPID's counter-application, was squarely based on section 5(2) of the Intelligence Service Oversight Act 40 of 1994 ("the Oversight Act"). In fact, Lieutenant General Vuma stated: 
+
+"It should be noted that the SAPS welcomes any investigations into any allegations of corruption amongst their ranks by IPID. It is, however, our contention that for IPID to obtain such classified information, they should follow the correct procedure which in our view is that in terms of section 5(2) of the Oversight Act such information should be sought from the Joint Standing Committee  
+[2021] JOL 49412 (GP) at 10
+on Intelligence. We have asked this Honourable Court to make such a pronouncement in terms of prayer 5 of our Notice of Motion." 
+
+Reliance on this section also took up a substantial portion of the applicants' written heads of argument.
+
+Section 5(2) of the Oversight Act States that:
+No person shall disclose any intelligence, information or document in the performance of his or her functions in terms of this Act, except–
+to the extent to which it may be necessary for the proper administration of any provision of this Act;
+to any person who of necessity requires it for the performance of any function in terms of this Act;
+with the written permission of the chairperson, which permission may be given only with the concurrence of the Head of a Service and the Inspector-General; or
+as prescribed by regulation."
+IPID firstly argued that section 29(2) of the IPID Act referred to earlier, specifically provides that "members of the South African Police Services . . . must provide or produce any document in that member's possession or under his or her control which has a bearing on the matter being investigated", without any qualification or limitation being placed on the nature or classification of such documents.
+Furthermore, under the IPID Act, the Directorate's members and investigators are required to undergo a security clearance by the National  
+[2021] JOL 49412 (GP) at 11
+Intelligence Agency (now the State Security Agency), and all the investigators in these matters have obtained the necessary security clearance. The process of vetting for such security clearance is prescribed in the Minimum Information Security Standards ("the MISS") approved by Cabinet on 4 December 1996 as part of the National Information Security Policy, which further provides in Chapter 5 thereof that "a security clearance gives access to classified information in accordance with the level of security clearance, subject to the need-to-know principle". IPID argued that the discharge of its functions in relation to the aspects investigated, clearly satisfied the "need-to-know" principle.
+More importantly, however section 5(2) must be read in the context of the Oversight Act as a whole, and with due regard to the duties of the JSCI. In particular, section 5(1) of the Oversight Act provides as follows in this regard: "5. Secrecy. (1) The Committee shall conduct its functions in a manner consistent with the protection of national security." The reference to "the Committee" is a reference to the JSCI. Section 5 therefore does not impose an absolute prohibition on access to documents and neither does it preclude IPID from obtaining access to classified documents. On the contrary, the section is clearly aimed at imposing secrecy provisions on the JSCI itself and its members in respect of documents they have "obtained . . . in the performance of [their] functions . . ." in terms of the Oversight Act. It clearly also does not provide for a requirement that the JSCI or its chairman needs to declassify a document or to determine whether to grant a person outside the JSCI access to such documents when access is sought from any institution (as in this case, IPID is seeking from the SAPS). The reliance by the SAPS and the applicants on section 5(2) of the Oversight Act is clearly misplaced. 
+[2021] JOL 49412 (GP) at 12
+I need not further detail the process of interpretation as the applicants, in the presentation of oral argument on their behalf by Adv Van der Merwe SC, assisted by Adv Mojapelo, expressly disavowed any further reliance on section 5(2) of the Oversight Act as a prerequisite for access to the documents. In my view, this concession was, for the reasons already set out above, correctly made. Counsel for the applicants submitted that the applicants were not "resistant to an order that the documents must be produced", but disagreed that such production should take place summarily as claimed by IPID in its counter-application. In fact, Adv Van der Merwe SC suggested that the relief claimed in the counter-application be refused but be replaced by an order allowing IPID, if so advised, to be entitled to submit to the Commissioner a "proper motivated application for declassification of clearly specified documents" and an order that the Commissioner decide upon such declassification within a specified time.
+This last-mentioned proposed relief is a far cry from a three-year period of resistance to IPID's requests and a refusal to allow any access at all. It is also a similar far cry from the continued resistance displayed by the applicants in their affidavits filed of record. The proposed relief was, however, still based on paragraph 28 of the founding affidavit, so it was argued. In this paragraph, Lieutenant General Vuma stated: 
+
+"It is therefore our humble view that any attempt to comply with the said subpoenas will be an infringement of law and a disclosure of sensitive National Security and Intelligence information that has the potential of compromising National Security and exposing the intelligence gathering mechanisms and sources."
+
+In its counter-application, IPID seeks the following relief which it claims is necessary to avoid any further "obstruction": 
+[2021] JOL 49412 (GP) at 13
+ – An order reviewing and setting aside the refusal of the Commissioner to declassify the documents requested by IPID (and required under the subpoenas);
+An order declaring those documents to be declassified for purposes of IPID's I-View investigations and any consequent prosecution.
+It is therefore necessary to examine the validity of this justification for not complying with the IPID Act as already described. The best the applicants could do, by way of the affidavit of Lieutenant General Vuma, was the following: 
+
+"During December 2017, there was information received about a possible national security threat, which threat was associated with the ANC National Conference that was to be held in Johannesburg. The Minister from the Security Cluster then briefed the Presidency about the threat. Then the Third Applicant, the National Commissioner of Police, tasked me and the Second Applicant to deal with the treat [sic] further . . . while assessing the treat [sic], it became apparent that there was a special equipment that needed to be procured in order to deal with the threat. All the available services providers who were approached were unable to provide equipments (sic) and services to deal with the threat of that magnitude. One service provider who would be able to deal with such threat of that magnitude was identified by the stakeholders in this field of intelligence gathering. Then on 13 December 2017 a meeting was convened to deal with, amongst others, the threat and the procurement of the necessary equipments (sic) and services to deal with the threat. I pause here to mention that the details that lead to the meeting and of the said meeting amounts to intelligence information that might compromise the national security and the identities of the operatives of the intelligence community. This is unfortunately what the impugned subpoenas are seeking to disclose." 
+[2021] JOL 49412 (GP) at 14
+5.15 The above answer has a number of fatal flaws: it clearly deals with the aborted attempt to access R45 million which forms the subject matter of I-View Ⅱ only. It says nothing about I-View I or I-View Ⅲ at all and does not even claim secrecy or classification of documents relating to the irregular procurement in respect of those investigations. The explanation furthermore fails to disclose either a link or a distinction between the interests of the ANC and its National Conference and a "national security threat". Similarly, no cogent explanation is given as to why the procurement process for the acquisition of a cell phone "grabber" from a known company would "compromise operatives in the intelligence community". Nothing mentioned in the quoted paragraph deals with the aspects which are to be investigated as detailed in paragraph 4.4 above. It also does not even attempt to engage with the contents of the affidavits of Brigadiers Hlungwane and Chilli. There are so many procurement irregularities already disclosed in IPID's affidavits that more and cogent reasons for classification are needed than the mere bald say-so of Lieutenant General Vuma. For information or documents to qualify as "national security intelligence" as contemplated in the National Strategic Intelligence Act 39 of 1994, it must "relate to any threat or potential threat to the security of the republic". Even if a threat existed, the manner in which the "grabber" was to be acquired is something distinct from the threat itself. I interpose to point out that the head of the organ of state who made the classification and who opposes access to the documents based thereon, being the Commissioner, added nothing to this explanation in his three-paragraph confirmatory affidavit. Lastly, the actual acquisition of the "grabber" was prevented by the Commissioner and nothing is explained about what happened with the alleged threat thereafter.
+
+ 
+[2021] JOL 49412 (GP) at 15
+The lack of a proper explanation for refusal of declassification or refusal to grant access to the documents becomes even more dubious in circumstances where the applicants admit that request a request [sic] for declassification had been made by IPID and how that has been dealt with. After the second request for declassification, made on 23 January 2018, the second applicant, Lieutenant General Tsumane, advised IPID in writing that the documents were then in the possession of the Inspector-General for Intelligence ("the IGI"), but that he has been requested to make all documents relating to the I-View I investigation available "for purposes of reclassification". No explanation was given for the second applicant's subsequent about-face in this application or why reclassification had not taken place.
+Another view of some weight regarding the secrecy of the documents or the need for their classification (in respect of I-View I), has been expressed by the Inspector-General of Intelligence (the IGI). In terms of section 7(7) of the Oversight Act, the functions of the IGI include the monitoring of compliance by, inter alia, the SAPS with the Constitution, "applicable laws and relevant policies on intelligence". The IGI's duties further include the "review of the intelligence and counter-intelligence activities" of any "service", which includes the SAPS. The IGI was approached by IPID subsequent to the second applicant's abovementioned letter, whereafter he advised the Minister of Police as follows: 
+
+"I am of the opinion that the information requested by the IPID relating to procurement of IP Solution (known as RIPJAR and Deadalus) does not have the potential to harmfully impact on the national security. The documents do not relate to any intelligence operation but only to the procurement of the aforesaid IT systems." 
+
+There is no evidence about what happened in respect to [sic] this letter in the Minister's office.
+
+ 
+[2021] JOL 49412 (GP) at 16
+MISS, which provides for the mechanism of classification of documents in relation to "all official matters requiring the application of security measures (exempted from disclosure) must be classified 'Restricted', 'Confidential', 'Secret' or 'Top Secret'", also carries the following warning in paragraph 3.4 thereof: 
+
+"Security measures are not intended and should not be applied to cover up maladministration, corruption, criminal actions, etc, or to protect individuals/officials involved in such cases." 
+
+Where no cogent reasons can be furnished for the classification of the documents in question in the first place (and in respect of which the grade of classification has not even been disclosed), the suspicion arises that the classification falls foul of this provision, particularly when one has regard to the nature of the allegations listed by IPID as already referred to earlier and the failure by the applicants to deal therewith.
+
+To sum up then, in respect of the documents relating to I-View I and I-View Ⅲ, no explanation has been given why these documents needed to be classified as inaccessible in order to ostensibly protect national security interests. In respect of the documents relating to I-View Ⅱ, I find that the explanations that have been put forward, do not constitute cogent reasons for the classification of those documents nor for the refusal to declassify them.
+An administrative act is reviewable in terms of section 6(2)(e)(i) of the Promotion of Administrative Justice Act 3 of 2000 ("PAJA") if it has been taken for a reason not authorised by the empowering legislation, alternatively in terms of section 6(2)(e)(iv) if taken in an arbitrary fashion, alternatively in terms of section 6(2)(f)(ii) if it was not rationally connected to the to the [sic] purpose for which it was taken and, in terms of section 6(2)(f)(dd) if it was otherwise not rationally connected to the reasons furnished for the act. Any attempt to withhold the documents from IPID  
+[2021] JOL 49412 (GP) at 17
+contrary to the IPID Act and without other lawful justification would amount to an administrative act which falls foul of any or all of these sections and which is therefore unlawful as contemplated in section 6 of PAJA and consequently reviewable.
+In order to avoid the abovementioned consequences, the applicants argued in their papers that the refusal to declassify does not constitute an administrative, but rather an executive act, as it allegedly deals with a matter of policy. This argument needs only to be stated for it to be seen to be clearly wrong and it was justifiably not relied on in oral argument on behalf of the applicants.
+The answer posed at the inception of this paragraph, must therefore be answered in the negative: there is no lawful or justifiable reason why access to the relevant documents should not be given to IPID and, if declassification is necessary to effect such access, it should be done.
+
+[6]    Conclusion and relief to be granted, including costs orders
+
+For the reasons already stated above and, despite extensive argument to the opposite on behalf of IPID and, in the absence of an explanation of exactly which affidavits and annexures were considered by the learned Magistrate when the subpoenas were issued, I am prepared to exercise my discretion in favour of the Commissioner in respect of the subpoenas issued against him. IPID has conceded the relief in respect of the subpoenas issued against the other applicants. It follows that the principal relief claimed by the applicants for the setting aside of the subpoenas should be granted.
+On behalf of the applicants it has been indicated during argument that, "upon reconsideration", once the subpoenas are set aside, the other relief claimed by them are [sic] not "strictly" necessary. As already indicated above,  
+[2021] JOL 49412 (GP) at 18
+the applicants would in any event not have been entitled to the relief claimed in paragraph 5 of their notice of motion. There is also nothing preventing IPID from applying afresh for subpoenas, should the need arise and the relief claimed in prayer 4 of the notice of motion is not supported by any valid argument.
+In fact, the contents of the affidavits as described in paragraph [3] above indicate that the applicants made no effort to comply with their obligations in terms of sections 4 and 29 of the IPID Act as referred to in paragraphs 3.6 and 3.7 above. They have neither assisted IPID nor availed themselves for interviews nor have they furnished any documents relating to the I-View I investigation. Their claims of justification in respect of documents requested in relation to the I-View Ⅱ investigation were clearly unfounded, both in respect of the subsequently aborted reliance on section 5(2) of the Oversight Act as well as the purported protection of national interests. Although the discovery of or access to documents in respect of I-View Ⅲ did not form part of the subpoenas or the counter-application, the applicants' silence in relation to the seriousness of the allegations is cause for concern. One would have legitimately expected SAPS management, upon hearing of allegations of a three-fold overpricing of basic equipment such as flak jackets, to immediately raise a hue and cry and volunteer any assistance to the investigation of such a flagrant example of corruption within its ranks. The failure to do all of the aforementioned constitutes a breach of the first three applicants' obligations, entitling IPID to the declaratory order sought in this regard as set out hereunder.
+In its counter-application, IPID claimed, additional to the relief mentioned in paragraph 5.13 above, an order whereby it is declared that the first to third applicants have breached their duties under sections 4(2) and 29(2)  
+[2021] JOL 49412 (GP) at 19
+of the IPID Act by failing to furnish IPID with the information and documents it requested for the purposes of its investigations.
+It follows that both the applicants and IPID shall be substantially successful in respect of the relief claimed by them respectively. However, the applicants' "success" in effect amounts to an extension of their refusal to furnish IPID with the required information and documents. In the exercise of my discretion, I find that they should not benefit from this "success" by way of a costs order in their favour. In respect of the actual and substantial success of the counter-application, costs should follow the event.
+
+[7]    Order
+
+Accordingly, the following order is granted:
+
+The subpoenas issued by the second respondent on 21 May 2018 against the applicants as set out in paragraphs 1.1–1.5 of the applicants' notice of motion, are hereby reviewed and set aside.
+The refusal or failure of the National Commissioner of Police to declassify the documents requested by IPID for the purposes of its investigation in Brooklyn CAS 565/11/2017 and IPID CCN 2018010527 is hereby reviewed and set aside.
+The National Commissioner is ordered to immediately take all necessary steps to have the documents referred to in paragraph 2 above declassified for the purpose of IPID's investigation and any consequent prosecutions.
+It is declared that the first to third applicants in the main application have breached their duties under sections 4(2) and 29(2) of the IPID Act 
+[2021] JOL 49412 (GP) at 20
+by failing to furnish IPID with information and documents for purposes of its investigations.
+The costs of the counter-application are to be paid by the first to third applicants in their official capacities, which costs shall include the costs of senior and junior counsel.
+Save as provided for in paragraph 5 above, there shall be no further costs order.
+Appearance:
+Adv MP van der Merwe SC, Adv M Mojapelo, Mketsu and Associates Incorporated (Pretoria) (At); Adv S Budlender SC, Adv J Bleazard, Adams and Adams Attorneys (Pretoria) (1R), No Appearance (2R)
+
+
+End of Document

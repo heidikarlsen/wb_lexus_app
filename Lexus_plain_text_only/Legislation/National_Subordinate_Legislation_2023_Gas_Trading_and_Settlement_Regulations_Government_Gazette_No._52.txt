@@ -1,0 +1,647 @@
+
+
+
+
+(ZA) SI 12 of 21 March 2023:  Gas Trading and Settlement Regulations (Government Gazette No. 52)
+Nigeria National Subsidiary Legislation
+[DATE OF COMMENCEMENT: 14 MARCH, 2023.]
+
+
+Nigeria National Subsidiary Legislation    >  Nigeria Subsidiary Legislation  >  P  >  Petroleum Industry Act No. 6 of 2021  >  Subsidiary Legislation  >  Regulations
+
+(Under sections 33, 126 and 159)
+
+IN EXERCISE of the powers conferred on it by sections 33, 126 and 159 of the Petroleum Industry Act, No. 6, 2021 (“Act”) and all other powers enabling it in that behalf, the Nigerian Midstream and Downstream Petroleum Regulatory Authority (“Authority”) makes these Regulations—
+
+[Act No. 6 of 2021.]
+
+ARRANGEMENT OF REGULATIONS
+
+PART I
+Objectives and Application
+1. Objectives.
+2. Application.
+3. Qualified persons.
+4. Market coupling of gas exchange.
+5. Extension of the applicability of these Regulations.
+6. Gas exchange contracts denomination.
+7. Approval or suspension of contracts by the Authority.
+8. Principles of market and market design.
+9. Category of members at gas exchange.
+PART IIGas Trading Licence and Authorisation of Clearing House
+10. Duty to obtain licence or authorisation.
+11. Application for licence or authorisation.
+12. Conditions for granting a gas trading licence.
+13. Conditions for granting a clearing house authorisation.
+14. Power to make inquiries and call for information.
+15. Grant of licence or authorisation.
+16. Duration of licence or authorisation.
+17. Renewal of licence or authorisation.
+18. Annual operating charge and other charges.
+19. Withdrawal of licence or authorisation.
+20. Exit scheme.
+PART IIINet Worth of Gas Exchange and Clearing House
+21. Financial requirements.
+PART IVGovernance Structure of Gas Exchange and Clearing House
+22. Governance structure of the exchange.
+23. Disclosure and corporate governance norms.
+24. Risk management by gas exchange or clearing house.
+25. Default remedy mechanism on gas exchange or clearing house.
+26. Information technology infrastructure and trading system.
+27. Delivery procedure.
+28. Grievance redressal of members and clients.
+Part VGeneral Obligations of Gas Exchange and Clearing House
+29. Clearing and settlement of trades.
+30. Agreement between gas exchange and clearing house.
+31. Settlement Guarantee Fund.
+32. Contribution to the Settlement Guarantee Fund.
+33. Equal, fair and transparent access.
+34. Maintenance of books of accounts and records.
+35. Submission of annual financial statements and returns.
+36. Bye-laws and rules of gas exchanges.
+37. Settlement and netting.
+Part VIInspection, Enquiries and Enforcement
+38. Market oversight.
+39. Other circumstances requiring intervention.
+40. Power to demand for information.
+41. Power of inspection.
+42. Directives by the Authority.
+43. Power to investigate certain matters.
+44. Power to issue interim orders.
+Part VII
+Miscellaneous Provisions
+45. Information dissemination.
+46. Market surveillance.
+47. Transaction reporting by gas exchange, trading licencees, shippers, transporters and any other market participants.
+48.  Whistleblowers’ policy.
+49. Insider trading.
+50. Internal manual for conflict resolution.
+51. Avoidance of conflict of interest.
+52. Disclosures of beneficial interest.
+53. Role of the chairman and directors in the day-to-day functioning of the gas exchange or clearing house.
+54. Access to information.
+55. Misuse of position.
+56. Oversight committee to prescribe procedures.
+57. Supremacy of Regulations.
+58. Fees.
+59. Authority to issue guidelines.
+60. Exclusions.
+61. Interpretations.
+62. Citation.
+SCHEDULES
+First Schedule Fees.
+Second Schedule Bye-laws and rules of gas exchanges.
+
+____________
+
+PART I  Objectives and Application
+1.     Objectives   The objectives of these Regulations are to—
+(a)   regulate the establishment and operations of gas trading and settlement exchange platforms;
+(b)   establish the principles for the secure, reliable and efficient trading and settlement of natural gas and other gas commodities; and
+(c)   promote and sustain the efficient and robust gas trading, exchange and settlement of natural gas and other gas commodities.
+2.     Application   These Regulations shall apply to activities connected to the establishment of secure, reliable and efficient trading and settlement systems for natural gas and other gas commodities on exchange platforms regulated by the Authority.
+3.     Qualified persons   The persons qualified to participate in a gas trading and settlement exchange are—
+(a)   exchange operators;
+(b)   natural gas transmission line operators;
+(c)   gas producers;
+(d)   gas aggregators;
+(e)   gas shippers;
+(f)   wholesale gas suppliers, gas distributors, gas retailers and wholesale gas consumers;
+(g)   gas facilities and terminals or gas importers;
+(h)   network operators;
+(i)   clearing houses;
+(j)   participants of the exchange;
+(k)   members of clearing house;
+(l)   gas transporters;
+(m)   gas storage providers;
+(n)   gas exporters;
+(o)   any other party transacting on the exchange; and
+(p)   potential exchange participants.
+4.     Market coupling of gas exchange   The Authority may initiate action for market coupling of a gas exchange with another exchange, where a commodity, which is produced by utilising gas as a major input, is traded, to minimise the risk to a producer of such commodity.
+5.     Extension of the applicability of these Regulations   The Authority may extend applicability of these Regulations, with or without modifications, to derivatives, forward and future contracts in respect of such commodities and services, and such type of contracts as specified in these Regulations.
+6.     Gas exchange contracts denomination   Subject to compliance with applicable laws, the Authority may allow contracts at the gas exchange denominated in foreign or local currencies.
+7.     Approval or suspension of contracts by the Authority  
+(1)    The Authority shall approve new contracts introduced by the gas exchange in these Regulations.
+(2)    For approval of new contracts, the Authority may examine the following and other parameters of the new contracts as may be considered appropriate—
+(a)   type of contract such as, intra-day, day-ahead, term-ahead contract and other like contracts;
+(b)   price discovery methodology and proposed matching rules;
+(c)   transaction period;
+(d)   risk management mechanism;
+(e)   margin mechanism;
+(f)   final price settlement mechanism;
+(g)   gas delivery mechanism;
+(h)   delivery duration; and
+(i)   penalty for contractual deviation.
+(3)    The Authority, after granting the gas exchange an opportunity of being heard, may by order, suspend or withdraw transactions on any contract from the gas exchange and issue any consequential directive as deemed necessary.
+8.     Principles of market and market design  
+
+A gas exchange shall adopt market design and propose contract specifications, keeping in view the following principles—
+
+(a)   price discovery mechanism shall ensure fair, neutral, competitive and efficient prices;
+(b)   the bidding mechanism may be auction or as continuous;
+(c)   contract design shall be such so as to increase liquidity; and
+(d)   the physical market design and pipeline operations shall comply with the guidelines and regulations provided by the Authority.
+9.     Category of members at gas exchange  
+(1)    The Authority shall, after due diligence, approve qualification requirements for membership and participation on a gas exchange.
+(2)    The categories of participants or members on an exchange are—
+(a)   trading members;
+(b)   clearing members;
+(c)   trading and clearing members;
+(d)   proprietary members; or
+(e)   transportation, transmission and storage members (logistics providers):
+
+Provided that the Authority may authorise the introduction of new membership categories to perform other functions as may be required.
+
+Part II  Gas Trading Licence and Authorisation of Clearing House
+10.     Duty to obtain licence or authorisation  
+(1)    A person shall not establish or operate a gas exchange without a gas trading licence issued by the Authority in accordance with these Regulations.
+(2)    A person shall not act as a clearing house for a gas exchange without the prior authorisation of the Authority.
+(3)    A qualified person under these Regulations shall only be entitled to participate in the exchange where the person holds a valid and appropriate licence or permit issued by the Authority.
+11.     Application for Licence or Authorisation  
+
+An application for a gas trading licence or clearing house authorisation shall be submitted to the Authority in the form as prescribed in guidelines issued by the Authority, subject to compliance with these Regulations.
+
+12.     Conditions for granting a gas trading licence  
+(1)    An application for a gas trading licence in these Regulations shall comply with the rules of the Securities and Exchange Commission in relation to commodities trading.
+(2)    An applicant for a gas trading licence shall—
+(a)   be a company limited by shares;
+(b)   be demutualised;
+(c)   ensure its directors are fit and proper persons as specified in these Regulations;
+(d)   satisfy the requirements relating to the ownership and governance structure specified in these Regulations and other appropriate government regulations;
+(e)   satisfy financial and technical capabilities;
+(f)   have the necessary infrastructure for the orderly execution of trades;
+(g)   have an online screen-based trading system;
+(h)   have an online surveillance capability which monitors positions, prices and volumes in real time to ensure market integrity;
+(i)   make necessary arrangements to establish connectivity with its trading members and clearing house;
+(j)   have adequate Settlement Guarantee Fund;
+(k)   have adequate mechanism to address grievances of the members, trading licensees and their clients and for dispute arising out of trades and their settlement;
+(l)   have the facility to disseminate information about trades, quantities and quote such information on its website daily and shall provide the same to the Authority on demand;
+(m)   prepare a business case;
+(n)   have adequate systems’ capacity supported by a business continuity plan, including a disaster recovery site;
+(o)   have in its employment, sufficient number of persons having adequate professional and other relevant experience to the satisfaction of the Authority;
+(p)   employ as key management personnel, at least two proficient professionals having relevant qualifications, experience and expertise in oil and gas commodities trading or exchange;
+(q)   submit the draft bye-laws and market rules to the Authority; and
+(r)   satisfy other conditions as may be specified by the Authority.
+13.     Conditions for granting a clearing house authorisation  
+
+An applicant seeking authorisation as a clearing house shall—
+
+(a)   have necessary infrastructure and resources to ensure timely clearing and settlement of trades;
+(b)   have adequate risk management mechanism;
+(c)   have the capacity to establish and publish a settlement procedure including netting, novation and guarantee for settlement of trades in place, as specified by the Authority;
+(d)   demonstrate the establishment of an applicable Settlement Guarantee Fund to guarantee settlement of trades;
+(e)   demonstrate a wide network of clearing members and have adequate facility to admit and regulate its members;
+(f)   have the facility to disseminate information about trades, quantities and quotes in real time;
+(g)   establish connectivity with the clearing banks, gas exchange and clearing members; and
+(h)   satisfy other conditions as may be specified by the Authority.
+14.     Power to make inquiries and call for information  
+
+The Authority may, before granting a gas trading licence or clearing house authorisation, make inquiries and require the applicant to furnish such further information or document, as it may deem necessary.
+
+15.     Grant of licence or authorisation  
+
+The Authority, after considering an application made in these Regulations and on being satisfied that the applicant has complied with the conditions prescribed, may grant a licence or authorisation subject to such conditions as it may deem fit.
+
+16.     Duration of licence or authorisation  
+
+A gas trading and settlement licence or a clearing house authorisation, as the case may be, shall be for a period not exceeding 10 years from the date of its issuance unless such licence or authorisation is withdrawn or cancelled.
+
+17.     Renewal of licence or authorisation  
+(1)    A gas exchange or clearing house, desirous of renewing its licence or authorisation may make an application to the Authority not later than 12 months before the expiration of the period of such licence or authorisation, in the manner specified in the guidelines issued by the Authority.
+(2)    An application for renewal shall be accompanied by the application fee as specified by the Authority.
+(3)    The Authority may, upon review of the application and conduct of due diligence, renew the licence or authorisation subject to such conditions as it may deem fit.
+(4)    The renewal of a licence or authorisation shall be for a term of 10 years.
+18.     Annual operating charge and other charges  
+
+A gas exchange and a clearing house shall pay an annual operating charge and other charges as specified in these Regulations.
+
+19.     Withdrawal of licence or authorisation  
+(1)    Where the Authority is of the opinion that the licence or authorisation granted to a gas exchange or a clearing house should, in the interest of the trade or public interest, be withdrawn, the Authority may serve a written notice on such gas exchange or clearing house, to show cause as to why such licence or authorisation should not be withdrawn, and after giving an opportunity of being heard in the matter, the Authority may withdraw such licence or authorisation granted to the gas exchange or the clearing house.
+(2)    A notice of non-compliance may be issued where the—
+(a)   operations of the gas exchange or a clearing house are in violation of these Regulations;
+(b)   operations of the gas exchange or clearing house are in violation of the terms and conditions of its licence or authorisation;
+(c)   gas exchange or a clearing house is suspected of malpractice with respect to gas trading and settlement;
+(d)   net worth of the gas exchange or a clearing house reduces at any time below the specified amount and is not replenished within three months; or
+(e)   gas exchange or a clearing house fails to comply with any directive of the Authority made in respect of gas trading or settlement.
+(3)    The withdrawal of the licence or authorisation shall not affect the validity of any contract made before the date of withdrawal.
+(4)    The Authority may, after consultation with the gas exchange or clearing house, make such provision as it deems fit in the notice of withdrawal or in any subsequent communication for the performance or settlement of any contracts outstanding on that date.
+(5)    Upon the revocation of the licence or authorisation of a gas exchange or a clearing house, the members of such gas exchange or clearing house shall cease to be members of the gas exchange or clearing house.
+20.     Exit scheme  
+(1)    A gas exchange or clearing house shall have its exit scheme approved by the Authority during the licence or authorisation process, detailing the manner in which the running contracts on the gas exchange or clearing house shall be closed or the succession plan for all transacted contracts in case of closure of the gas exchange or clearing house, and in case of cancellation or withdrawal of its licence or authorisation in these Regulations.
+(2)    Such approved exit scheme shall be prescribed in the bye-laws of the gas exchange or clearing house.
+Part III  Net Worth of Gas Exchange and Clearing House
+21.     Financial requirements  
+(1)    A gas exchange or clearing house shall comply with all financial requirements as may be specified by the Authority, and appropriate government regulations applicable for gas exchanges or clearing houses.
+(2)    The Authority may, at any time, review such financial requirements based on risk profile and other factors as it deems necessary.
+(3)    A gas exchange or clearing house shall submit to the Authority, an audited financial statement of accounts not later than 30th April every year for the preceding financial year.
+(4)    An authorised clearing house shall submit to the Authority a certificate from its auditors or company secretary certifying the shareholding pattern and compliance with these Regulations during the preceding financial year by 30th April every year.
+Part IV  Governance Structure of Gas Exchange and Clearing House
+22.     Governance structure of the exchange  
+
+The governance structure of the gas exchange shall be in compliance with the rules and regulations governing the registration and operation of an exchange as prescribed by the Securities and Exchange Commission of Nigeria.
+
+23.     Disclosure and corporate governance norms  
+(1)    The disclosure requirements and corporate governance norms provided in these Regulations shall apply to a gas exchange and a clearing house in addition to those specified by the Securities and Exchange Commission for listed companies.
+(2)    The board of directors of a gas exchange or a clearing house shall confirm compliance with these Regulations in writing on a quarterly basis to the Authority within two months from the end of each calendar quarter.
+(3)    A gas exchange and a clearing house shall disclose to the Authority its resources committed towards strengthening regulatory functions and ensuring compliance with regulatory requirements applicable to the gas exchange or clearing house, as the case may be.
+(4)    The fees and charges levied by a gas exchange or a clearing house shall be placed for review and approval before the oversight committee of such gas exchange or clearing house.
+24.     Risk management by gas exchange or clearing house  
+(1)    A gas exchange or clearing house shall adopt best practices while formulating prudent and dynamic risk management processes based on the changing risk profiles of the gas exchange or clearing house market.
+(2)    Members shall adhere to a prudent risk management policy and have a system for timely collection of margins from their clients.
+(3)    The quantum of margins collected by members from clients shall be at the discretion of the members, but at a minimum comply with the bye-laws of the gas exchange.
+(4)    A gas exchange shall set up sufficient funds in order to provide for settlement of any claims, pertaining to pending arbitration cases, arbitration awards, liabilities and claims of contingent nature, if any, and unresolved complaints and grievances of the members, trading licensees or their clients lying with the gas exchange or clearing house.
+(5)    The Authority may direct a gas exchange or clearing house to prepare a comprehensive risk management framework covering aspects such as criteria for checking the credibility of participants, margin requirement against respective contracts, sufficiency of the Settlement Guarantee Fund and risks related to the settlement cycle along with any other operational aspects.
+25.     Default remedy mechanism on gas exchange or clearing house  
+(1)    A member may be declared a defaulter by direction or circular of the gas exchange or clearing house, if the member—
+(a)   is unable to fulfil its clearing or settlement obligations;
+(b)   admits or discloses its inability to fulfil or discharge its duties, obligations and liabilities;
+(c)   fails or is unable to pay within the specified time the damages and the money difference due on a closing-out effected against him under the bye-laws of gas exchange or clearing house;
+(d)   fails to pay any sum due to the gas exchange or clearing house which may be prescribed by the authority competent for such purpose;
+(e)   fails to pay or deliver money, gas or other related assets due to a member who has been declared a defaulter within the time of declaration of default of the member, in the manner and to the person as the gas exchange or clearing house may direct; or
+(f)   under any other circumstances as may be decided by the Authority or with the approval of the Authority by the gas exchange or clearing house.
+(2)    In the event a member is declared a defaulter and the member fails to meet its clearing and settlement obligations, upon crystallisation of claims in accordance with the bye-laws of the gas exchange, the claim amount shall be set aside from deposits of the defaulting member and the recovered amount shall be distributed fairly and proportionately among the affected parties including transporter, seller, buyer, pipeline system operator and gas exchange or clearing house, from the deposits of the member or client.
+(3)    The gas exchange may utilise the Settlement Guarantee Fund and other money to the extent necessary to eliminate the obligation of the defaulting member in the following order—
+(a)   liquidation of collaterals — contributions or deposits, including margins in any form, by the defaulting member or client;
+(b)   liquidation of security deposit — membership deposit given by the defaulting member to the gas exchange or clearing house;
+(c)   liquidation of assets — the assets of such defaulter member vested with the gas exchange or clearing house;
+(d)   insurance money — insurance taken by gas exchange or clearing house of an amount as considered appropriate by them for protection against defaults;
+(e)   initial contribution of the gas exchange or clearing house towards Settlement Guarantee Fund;
+(f)   contribution towards Settlement Guarantee Fund by all members or clients, all non-defaulting members or client’s contribution in proportion of deposits towards Settlement Guarantee Fund;
+(g)   current year’s profits of the gas exchange or clearing house, including fines and penalties collected from members;
+(h)   reserves of the gas exchange or clearing house; and
+(i)   equity capital of the gas exchange or clearing house.
+(4)    An outstanding obligation after depletion of the funds will be met by contribution from members or clients in proportion to their contribution to the Settlement Guarantee Fund:
+
+Provided that once the clearing house is hived off, the default remedy mechanism shall be handled by the clearing house, but the gas exchange shall be liable to settle the default arising out of guarantee of trade such as supply of commodity in case of default by seller or failure to take delivery of commodity by buyer.
+
+26.     Information technology infrastructure and trading system  
+(1)    A gas exchange shall utilise electronic trading system and telecommunication network.
+(2)    The orders entered by a member of gas exchange shall be first checked against availability of funds or collateral in the risk management system before being accepted in the order book of the gas exchange, and this process shall be continued even after separation of clearing function to the clearing house.
+(3)    An automated audit trail of bids, offers, and the matching of orders or the execution of transactions on the facility shall be maintained for a period of at least seven years.
+(4)    The algorithm of the software application for price discovery shall be in compliance with the methodology mentioned in bye-laws and rules of gas exchange as approved by the Authority, and the gas exchange shall ensure that the algorithm is audited by a competent third party, within three months of its authorisation and thereafter, once in every two years and submit the findings of the audit to the Authority.
+(5)    The Authority shall audit the software application used by the gas exchanges in operation for price discovery on a random basis.
+(6)    The gas exchange shall—
+(a)   formulate and implement a cyber security and cyber resilience framework to manage risk to systems, networks and databases from cyber attacks and threats with the approval of its board of directors and submit it to the Authority for information;
+(b)   carry out periodic information technology system audit for data security, data integrity and operational efficiency each and submit its reports to the Authority annually by 31st March in respect of the preceding financial year;
+(c)   discharge the responsibility of activities mentioned in these Regulations in respect of all contracts transacted at the exchange; and
+(d)   build a disaster recovery site and alternate trading facility in case of emergency, within three months from the date of the issuance of licence.
+27.     Delivery procedure  
+(1)    The scheduling and delivery of contracts on the gas exchange shall be in accordance with the Network Code, pipeline and virtual pipeline system rules.
+(2)    Subject to the provisions of these Regulations, operationalisation of scheduling of transactions through the gas exchange shall be in accordance with the detailed procedure issued by the Authority under the Network Code or virtual pipeline system rules.
+(3)    The detailed procedure in subregulation (2) may cover—
+(a)   submission and processing of the application for scheduling of transactions for different contracts;
+(b)   scheduling of intra-day, day-ahead and term-ahead transactions;
+(c)   procedure for real-time curtailments;
+(d)   coordination with pipeline and virtual pipeline system operators for availability of capacity and estimating flows for the traded contracts;
+(e)   transportation tariff, various other charges, fees and other commercial conditions;
+(f)   payments and defaults in payments; and
+(g)   any other issue pertaining to operationalisation of scheduling of multiple transactions through the gas exchange.
+(4)    The charges or penalties for defaults such as imbalances, overruns and other similar defaults shall be in accordance with the Network Code or other rules issued by the Authority.
+(5)    All data transfer between pipelines and virtual pipeline system operators and the gas exchange shall be done electronically through a secure communication channel.
+(6)    The gas exchange, shippers, pipelines and virtual pipeline system operators, transporters, sellers, and buyers would have rights and obligations as defined in the Network Code, rules and bye-laws of the gas exchange.
+28.     Grievance redressal of members and clients  
+
+The Authority may call for information on redressal of any specific complaints and grievances by the gas exchange.
+
+Part V  
+
+General Obligations of Gas Exchange and Clearing House
+
+29.     Clearing and settlement of trades  
+
+A gas exchange shall use the services of a clearing house authorised by the Authority for clearing and settlement of its trades.
+
+30.     Agreement between gas exchange and clearing house  
+
+A gas exchange shall avail the service of a clearing house pursuant to an agreement in writing between the parties stipulating their rights and obligations, the conditions for admission of gas volumes for clearing and settlement, risk management measures, charges for clearing and settlement and other incidental and consequential matters.
+
+31.     Settlement Guarantee Fund  
+(1)    A clearing house or gas exchange shall establish and maintain a Settlement Guarantee Fund, to guarantee the settlement of trades executed on the gas exchange:
+
+Provided that in case a gas exchange enters into an arrangement with more than one clearing house, then it shall enter into a multi-partite agreement in writing with such clearing houses to ensure interoperability among the clearing houses.
+
+(2)    Where a member of a gas exchange or clearing house fails to honour its settlement obligations, the Settlement Guarantee Fund shall be utilised to complete the settlement.
+32.     Contribution to the Settlement Guarantee Fund  
+(1)    The contribution to the Settlement Guarantee Fund shall be made by the gas exchange, the clearing house and all members of gas exchange or clearing house, in the manner specified by the gas exchange or the clearing house.
+(2)    In case of shortfall in the Settlement Guarantee Fund, the clearing house and the gas exchange shall replenish the Settlement Guarantee Fund to the threshold level as may be specified in these Regulations or by the Authority.
+(3)    The components of the Settlement Guarantee Fund are—
+(a)   minimum balance of USD500,000 in the Settlement Guarantee Fund at the start of the exchange which shall comprise of the base minimum capital of all the members and the balance, if any, contributed by a gas exchange or clearing house;
+(b)   quarterly contribution to the Settlement Guarantee Fund by the gas exchange or clearing house, which is equal to 5% of the sum total of the gross revenue of the gas exchange or clearing house;
+(c)   returns or any other income accruing on all investments of the Settlement Guarantee Fund, including the base minimum capital; and
+(d)   all penalties charged by the gas exchange or clearing house.
+(4)    The gas exchange or clearing house, as applicable, shall invest the proceeds of the Settlement Guarantee Fund in safe liquid investments or in money market instruments issued by the Central Bank of Nigeria with maturity of less than one year.
+(5)    The Settlement Guarantee Fund shall be retained by the gas exchange as long as the Settlement Guarantee Fund is maintained by the gas exchange and in the case of hiving off of the clearing function to a separate clearing house, the Settlement Guarantee Fund shall be transferred to the clearing house.
+(6)    The contribution of fund towards the Settlement Guarantee Fund by a gas exchange shall be replaced by the clearing house to maintain the minimum balance of the Settlement Guarantee Fund.
+(7)    A gas exchange shall incorporate the provisions relating to the Settlement Guarantee Fund in detail in the bye-laws of the gas exchange.
+(8)    A gas exchange or clearing house, as the case may be, shall submit the details of investment of the Settlement Guarantee Fund to the Authority annually along with its annual report.
+(9)    The Authority may direct the requirement of additional prudential norms and incremental requirement of the Settlement Guarantee Fund upon introduction of derivatives, forward and future contracts as provided in these Regulations, and such directives shall be complied with by the gas exchange and clearing house.
+33.     Equal, fair and transparent access  
+(1)    A gas exchange or clearing house shall ensure equal, unrestricted, transparent and fair access to all persons without any bias towards its associates or affiliates.
+(2)    Where any issue arises in rendering non-discriminatory access to services of a gas exchange or clearing house, the Authority’s decision thereon shall be final in that regard.
+34.     Maintenance of books of accounts and records  
+
+Subject to the provisions of any other law for the time being in effect, a gas exchange or clearing house shall maintain and preserve applicable books of account and documents for a minimum period of seven years.
+
+35.     Submission of annual financial statements and returns  
+
+A gas exchange or clearing house shall submit to the Authority its annual report along with its audited financial statements of the immediate preceding financial year, which shall include income statement, balance sheet, cash flow and notes to financial statements, not later than 30th of April every year.
+
+36.     Bye-laws and rules of gas exchanges  
+(1)    A gas exchange shall, with the prior approval of the Authority, make bye-laws and market rules for the administration of contracts, clearing and settlement, which shall not be in conflict with the rules provided in the Second Schedule to these Regulations.
+(2)    A gas exchange may amend its market rules subject to prior approval of the Authority.
+37.     Settlement and netting  
+(1)    The payment and settlement in respect of a transaction between the parties in a gas exchange shall be determined in accordance with the netting or gross procedure as specified in the bye-laws of the gas exchange.
+(2)    Payment and settlement in respect of a transaction between parties as referred to in these Regulations, made under the bye-laws of a gas exchange shall be final, irrevocable and binding on the parties.
+(3)    When a settlement has become final and irrevocable, the right of the gas exchange to appropriate any collaterals or deposits or margins contributed by all the members of the gas exchange and their clients towards its settlement or other obligations in accordance with the bye-laws of the gas exchange shall take priority over any other liability of, or claim against, the member.
+Part VI  Inspection, Enquiries and Enforcement
+38.     Market oversight  
+(1)    The Authority may cause an investigation into the affairs of a gas exchange or clearing house to maintain market oversight and surveillance and to check market integrity.
+(2)    An investigation shall be conducted where the Authority reasonably suspects that there has been—
+(a)   manipulative or attempted manipulative activity;
+(b)   anti-competition and anti-competitive behaviour;
+(c)   transactions that are misleading or deceptive, or are likely to mislead or deceive;
+(d)   unwarranted speculation leading to market volatility;
+(e)   price distortions;
+(f)   any form of cartelisation;
+(g)   any other form of market abuse; and
+(h)   abuse of dominant position by any market participant.
+(3)    The Authority may, after investigation issue directives, as it considers appropriate to maintain market oversight and surveillance and to check market integrity.
+39.     Other circumstances requiring intervention  
+(1)    The Authority may, by an order, give such directives as may be necessary where it is satisfied that any of these circumstances exist or is likely to occur in the market—
+(a)   abnormal increase or decrease in prices of gas;
+(b)   sudden or unreasonable fluctuations or unwarranted changes in the prices of gas, and high volatility; or
+(c)   sudden high transaction volumes on a gas exchange.
+(2)    The Authority may, without prejudice to subregulation (1), by order in writing—
+(a)   suspend transaction activities for a cooling off period, in case of increased volatility;
+(b)   suspend transaction of any specific contract on gas exchange;
+(c)   increase the margin for contracts transacted on gas exchange, in a case of high volatility of prices or high speculation;
+(d)   allow trade only for trade settlements;
+(e)   limit open position of one or a section of participants on gas exchange;
+(f)   limit market wide position on gas exchange; or
+(g)   require hiving off of the clearing and settlement function from the gas exchange to a clearing house.
+40.     Power to demand for information  
+
+The Authority may demand for any information, documents or records from a gas exchange or clearing house.
+
+41.     Power of inspection  
+(1)    The Authority may at any time undertake inspection, conduct inquiries and audit of any gas exchange or clearing house, any associate or affiliate of such exchange or clearing house.
+(2)    Where an inspection in these Regulations is undertaken by the Authority, the gas exchange or clearing house or its affiliate and every manager, director, managing director, chairman or officer and other employee of the gas exchange, clearing house, affiliate or associate shall comply with the Authority.
+42.     Directive by the Authority  
+
+Without prejudice to the exercise of its powers under the Act, the Authority may, on receipt of any information or during pendency of any inspection, inquiry or investigation or on completion, in the interest of promoting competitive gas markets, issue such directive as it deems fit.
+
+43.     Power to investigate certain matters  
+(1)    The Authority may, on being satisfied that, any of the circumstances specified in regulations 38 and 39 exists, at any time, direct in writing, any gas exchange or clearing house or member of gas exchange or clearing house or trading licensee (“the person being investigated”) to furnish in writing any information or explanation, including without limitation, relating to any of their transaction, activity, business practice or business dealing.
+(2)    Notwithstanding anything contained in this regulation, the Authority may direct an officer of the Authority, or any other person (“the Investigating Authority”) specified in the order to investigate the affairs of any person being investigated, including its books of account, and submit a report to the Authority on such investigation, provided that the—
+(a)   investigating authority may, wherever necessary, employ any auditor or any other person to provide assistance to it in any investigation in these Regulations; and
+(b)   Authority may, on the request of the gas exchange or clearing house or member of gas exchange or clearing house or trading licensee, as the case may be, provide to him a copy of the report of the investigating authority.
+(3)    A person being investigated shall produce before the investigating authority directed to make the investigation under these Regulations, all such books of account, authorisation and other documents in its custody or power and to furnish them with any statement and information relating to the affairs of the person being investigated as the investigating authority may require of them within such time as it may direct.
+(4)    On receipt of any information or report in this regulation, the Authority may, after giving such opportunity to the person being investigated to make a representation in connection with the report as in the opinion of the Authority, seems reasonable, and after considering representation if any, by order, in writing—
+(a)   require the person being investigated to take such action in respect of any matter arising out of the report as the Authority may deem fit;
+(b)   suspend or cancel the licence or authorisation of the gas exchange or clearing house; or
+(c)   direct the gas exchange to cancel membership of a member:
+
+Provided that no action specified in this regulation shall be taken unless an opportunity of being heard is given to the person being investigated.
+
+44.     Power to issue interim orders  
+
+Where during an investigation or intervention, the Authority is satisfied that an act in contravention of these Regulations has been committed or continues to be committed or that such act is about to be committed, the Authority may, by order, temporarily restrain any person from carrying on such act until the conclusion of such investigation or intervention or until further orders, but such order shall not be made without giving notice and opportunity of being heard to such person.
+
+Part VII  
+Miscellaneous Provisions  
+45.     Information dissemination  
+(1)    A gas exchange shall display on its website a compilation of links to all relevant price sensitive information, including—
+(a)   gas price information;
+(b)   any urgent market information issued by pipelines system operators on its website;
+(c)   planned maintenance schedule as per the provisions of Network Code; and
+(d)   any incident related to a natural gas pipeline, liquified natural gas terminal, domestic gas field and other similar facilities which could potentially result in outage or interruptions in gas supply.
+(2)    Historical and current prices (open, close, maximum, minimum, weighted average, cleared), volumes, bids and offers, shall be made available market segment-wise on the website of the exchange and these shall be downloadable in various formats.
+(3)    A gas exchange shall organise members and clients’ awareness programmes on a regular basis.
+46.     Market surveillance  
+(1)    A gas exchange shall set up a surveillance department to carry out daily monitoring of transactions and surveillance, and undertake other analysis as mentioned in this regulation.
+(2)    The surveillance department of gas exchange shall submit its analysis report to the market surveillance committee and the market surveillance committee shall submit a quarterly surveillance report to the Authority within two months from the end of each calendar quarter through the board of directors of the gas exchange.
+(3)    Market surveillance shall be executed from a physically secure and restricted area by authorised personnel only and such personnel shall always maintain information and data security, especially when the auction window is open, and all conversations of such personnel shall be recorded and made known to them, and audio tapes of such conversations shall be made available to the Authority on demand.
+(4)    The surveillance department shall analyse bidding patterns and transactions of participants, and the analysis report of the surveillance department shall be submitted to the Authority on quarterly basis within two months from the end of each calendar quarter, which includes—
+(a)   open position by clients, by contracts;
+(b)   pattern of transactions of participants over a time period;
+(c)   daily, weekly and monthly volatility analysis of prices (intra-day, day-ahead and term-ahead contract prices);
+(d)   price setter analysis of buyer and seller;
+(e)   circular trading monitoring such as fraudulent transactions to buy and sell the same or similar quantity of a contract, at the same or similar price and within a short time period, without actual change of ownership;
+(f)   dominant participants and market concentration;
+(g)   analysis of sudden increase in transaction volumes or open position of any participant; and
+(h)   analysis and reasons of persistent default by any participant.
+(5)    The gas exchange shall also establish a system for carrying out the KYC check on members and their clients.
+47.     Transaction reporting by gas exchange, trading licensees, shippers, transporters and any other market participants  
+(1)    All reports are to be submitted to the Authority in an electronic format.
+(2)    Trading licensees shall provide to the Authority, open position report and tenure of all trades and risk summary report on a quarterly basis for risk monitoring purpose.
+(3)    A gas exchange shall—
+(a)   report price and volume of daily transactions on its website every day and a consolidated report on these parameters on a monthly basis by the 0900 hours on the first day of each month in respect of the transactions of the immediate preceding month;
+(b)   submit to the Authority, monthly details of all transactions on its platform and such details shall also be kept by the gas exchange on its website; and
+(c)   submit to the Authority, bids of all participants along with its analysis as required and as when directed by the Authority.
+(6)    The Authority may at any time—
+(a)   direct, by order, the gas exchange or any participants to submit any periodical or one-time report on any parameter in such format as it may deem required; and
+(b)   by order, lay down and review the formats in which any of the information shall be submitted by the gas exchange or any participant.
+
+[EDITORIAL NOTE: Numbering as per original Government Gazette.]
+
+48.     Whistle blowers’ policy  
+(1)    A market participant may report to the Authority, any unscrupulous activity, wrong-doing or violation of law, as may come to its attention.
+(2)    The identity of the provider of the information referred to in this regulation shall be kept confidential and not disclosed.
+(3)    The Authority shall take strict action in case of any kind of retaliation to such an informant by any affected party.
+49.     Insider trading  
+
+A person having non-public price sensitive information, including the one relating to outage of gas terminal or any major outage of gas producing field, including gas pipeline of any nature, or outage of compressors anywhere along the gas pipelines or any plant of a major customer, shall not transact on the gas exchange unless such information has been submitted to gas facility operators or the gas exchange.
+
+50.     Internal manual for conflict resolution  
+(1)    A gas exchange or clearing house shall have an internal manual covering the management of conflicts between commercial and regulatory functions of the gas exchange or clearing house.
+(2)    A gas exchange or clearing house shall put in place a policy for comprehensive training and awareness of its employees on the various conflicts of interests involved in the functioning of its regulatory departments.
+(3)    The entire conflict management framework shall periodically be reviewed and be strengthened based on the observations of such review.
+51.     Avoidance of conflict of interest  
+
+No member of any committee of the gas exchange or clearing house shall participate in any decision making or adjudication in respect of any person or matter in which he is in any way, directly or indirectly, concerned or interested, and in case of any doubt on whether there is any conflict of interest or not in a matter, decision shall be taken by the Authority.
+
+52.     Disclosures of beneficial interest  
+All   directors and key management personnel shall disclose to the board of directors, upon assuming office and during their tenure in office, whenever the following arises—
+(a)   any fiduciary relationship or directorship or partnership in any trading member or clearing member; and
+(b)   any other business interests.
+53.     Role of the chairman and directors in the daily functioning of the gas exchange or clearing house  
+(1)    The chairman and non-executive directors shall not interfere in the daily functioning of the gas exchange or clearing house and shall limit their role to decision making on policy issues and to issues as the board of directors may decide.
+(2)    The chairman and non-executive directors shall abstain from influencing the employees of the gas exchange or clearing house in conducting their activities.
+(3)    The chairman and non-executive directors shall not be directly involved in the appointment and promotion of employees unless specifically decided by the board of directors.
+54.     Access to information  
+(1)    Non-executive directors shall call for information only as part of specific committees or as may be authorised by the board of directors.
+(2)    There shall be specified channels through which information shall be communicated and an audit trail of the specified channels.
+(3)    Any confidential documents or information provided to non-executive directors shall be properly recorded and retained for a minimum period of seven years.
+(4)    All information, especially which is non-public and price sensitive, shall be kept confidential and shall not be used for any personal consideration or gain.
+(5)    Any information relating to the business or operations of the gas exchange or clearing house, which may come to the knowledge of directors or key management personnel during performance of their duties shall be held in strict confidence and shall not be divulged by them to any third party and not used in any manner except for the performance of their duties.
+55.     Misuse of position  
+
+The board of directors and committee members shall not abuse their position to obtain business or any pecuniary benefit in the organisation for themselves or their family members.
+
+56.     Oversight committee to lay down procedures  
+(1)    A gas exchange shall ensure the establishment of an oversight committee to undertake the exchange’s regulatory functions outlined in these Regulations.
+(2)    The oversight committee shall lay down procedures for the implementation of these Regulations and specify reporting formats for the disclosures required under these Regulations.
+(2)    The gas exchange shall appoint a compliance officer who shall ensure that the disclosures required in these Regulations are complied with.
+
+[EDITORIAL NOTE: Numbering as per original Government Gazette.]
+
+57.     Supremacy of regulations  
+
+Where there is a conflict between these Regulations and any other regulation in respect of gas trading and settlement, these Regulations in accordance with the powers of the Authority under the Act, shall prevail.
+
+58.     Fees  
+
+The fees in the First Schedule to these Regulations shall be applicable to gas trading licences and clearing house authorisations in Nigeria.
+
+59.     Authority to issue guidelines  
+
+The Authority may issue guidelines, rules and directives for the effective implementation of these Regulations.
+
+60.     Exclusions  
+
+Parties to a gas supply, purchase and transportation agreement in existence prior to the commencement of these Regulations may by mutual agreement exclude the terms of such agreement from the gas exchange.
+
+61.     Interpretation  
+
+In these Regulations—
+
+“Act”    means the Petroleum Industry Act, No. 6 2021;
+
+[Act No. 6 of 2021.]
+
+“affiliate”    means an associated person in relation to the entity or the entity in relation to an associated person who—
+(a)   participates directly or indirectly or through one or more intermediaries in the management or control or capital of the entity or an associated person;
+(b)   holds, directly or indirectly, shares carrying not less than 26% of the voting power in the entity or associated person;
+(c)   appoints more than half of the board of directors or members of the company board, or one or more executive directors or executive members of the company board of the entity or the associated person; or
+(d)   guarantees not less than 10% of the total borrowings of the entity or the associated person;
+“Associate”    in relation to a person shall include another person—
+(a)   who, directly or indirectly, by himself, or in combination with other persons, exercises control over the first person;
+(b)   who holds control of at least 20% of the total voting power of the first person;
+(c)   who is a holding company or a subsidiary company of the first person;
+(d)   who is a relative of the first person as defined in the Companies and Allied Matters Act, No. 3, 2020; or
+
+[Act No. 3 of 2020.]
+
+(e)   in such other cases where the Authority is of the view that a person shall be considered as an associate based on the facts and factors including the extent of control, independence, conflict of interest;
+“Authority”    means the Nigerian Midstream and Downstream Petroleum Regulatory Authority;
+“authorisation”    means an approval granted by the Authority, in these Regulations, to an applicant to operate as a clearing house to a gas exchange;
+“automated audit trail”    means automated creation and maintenance of time-sequenced record of transactions (creation, modification or deletion) in the electronic trading system of gas exchange for reference at later date and time;
+“base minimum capital”    means exposure free deposits to be deposited by all members of the gas exchange in lieu of the membership;
+“bid”    means the electronic document by which a market participant of a gas exchange submits price and quantity in relation to a contract, for which it seeks to make a transaction;
+“bye-laws”    means the provisions relating to the basic framework formulated by the gas exchange for the purposes of the management and trading at the gas exchange, which are duly approved by the Authority;
+“cartelisation”    means an act by market participants who amongst themselves limit or control or attempt to limit or control storage, transportation, distribution, marketing, sale, price, trade or transaction in gas;
+“clearing”    means the process of determination of obligations of members of exchange resulting from conclusion of a transaction at the gas exchange;
+“clearing house”    means an entity authorised by the Authority that is established to undertake the activity of clearing and settlement of trades in a gas exchange;
+“clearing member”    means a person having clearing rights in any clearing house or clearing house of the gas exchange, who may clear and settle transactions in gas;
+“client”    means an entity that has executed an agreement with a member of a gas exchange or a member of a clearing house for dealing or clearing through such member;
+“company board”    means board of directors of a gas exchange;
+“company”    means a company as defined in Companies and Allied Matters Act, No. 3, 2020;
+
+[Act No. 3 of 2020.]
+
+“contract”    means any contract, as specified in these Regulations, which is transacted on the gas exchange;
+“control”    includes the right to appoint majority of the directors or to control the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shareholding or management rights or shareholder’s agreements or voting agreements or in any other manner provided that a director or officer of a company shall not be considered to be in control over the company, merely by virtue of holding such position;
+“day-ahead contract”    means contracts where transaction occurs on day (t) and delivery of gas is on the next day (t+1);
+“gas”    means natural gas, liquified petroleum gas, liquified natural gas, compressed natural gas, commercial butane, commercial propane and other gas products;
+“gas aggregator”    means a person who aggregates orders for purchase or sale of gas from various suppliers or buyers and trades through gas exchange;
+“gas exchange”    means an exchange licenced by the Authority in these Regulations as a market (or gas market) where buyers and sellers (including aggregators, gas distribution companies, gas transporters, retailers, bulk consumers, trading licensees) as members or clients transact on contracts and where the gas exchange or clearing house is counterparty to such contracts;
+“independent director”    shall have the meaning ascribed to it in the Companies and Allied Matters Act No.3, 2020;
+
+[Act No. 3 of 2020.]
+
+“insider”    means a person who—
+(a)   is or has been, prior to the concerned event, associated with the gas exchange, directly or indirectly, in any capacity including by reason of frequent communication with its officers or by being in any contractual, fiduciary or employment relationship or by being a director, officer or an employee of the gas exchange or by holding any position including a professional or business relationship with the gas exchange whether temporary or permanent, that allows such person, directly or indirectly, access to unpublished price sensitive information about transactions on a gas exchange;
+(b)   is in possession of or has access to unpublished price sensitive information about transactions on a gas exchange; or
+(c)   has acquired unpublished price sensitive information by way of commission of an offence under any of the laws prevalent at such time in Nigeria;
+“insider trading”    means an insider—
+(a)   utilising for its own purpose, or communicating, providing, or allowing access to any unpublished price sensitive information, to any person including other insiders, except where such communication is in furtherance of legitimate purposes, performance of duties or discharge of legal obligations; or
+(b)   recommending any person, on the basis of unpublished price sensitive information, to acquire or dispose of any contract on the gas exchange, to which that information relates;
+“intra-day contract”    means contracts where transaction occurs on day (t) or (t-1) and the delivery of gas is on the day (t);
+“investigating authority”    means a person directed by the Authority to investigate the affairs of any person being investigated, including its books of account, and submit a report to the Authority on such investigation;
+“KYC”    means know your customer;
+“licence”    means a gas trading licence granted by the Authority, to an applicant, for the purpose of operating a gas exchange;
+“market or gas market”    means a forum or platform where buyers and sellers, through the gas exchange, buy or sell gas;
+“market rules”    means the provisions formulated by the gas exchange and duly approved by the Authority for transparent operations at the gas exchange;
+“member of gas exchange”    means a person who has been admitted as such by a gas exchange in accordance with these Regulations and in accordance with the bye-laws and rules of the concerned gas exchange as applicable;
+“Million British Thermal Units or MMBTU”    means one Million British Thermal Units and shall be the unit for energy content of natural gas based on gross calorific value as defined in ISO 6976;
+“net worth”    means the aggregate value of the paid-up share capital and all reserves created out of the profits, securities premium account and credit balance of profit and loss account, after deducting the aggregate value of the accumulated losses, deferred expenditure, miscellaneous expenditure not written off and debit balance of profit and loss account, as per the audited balance sheet, but does not include reserves created out of revaluation of assets, write-back of depreciation and reduced by the aggregate value of loans and advances to the associates or as may be calculated in the manner specified by the Authority;
+“Network Code”    means the rules published by the Authority, under the Act, in respect of the operation of gas transportation networks in Nigeria;
+“netting”    means the determination of net payment by gas exchange or clearing house, as the case may be, of each member of gas exchange or clearing house by setting off or adjustment of the inter-se obligations or claims arising out of buying and selling of gas;
+“open position”    means a buy or sell position, when a transaction has been executed but the delivery or financial settlement has not been completed and where a concerned person may remain exposed to price or credit or operational risk;
+“operational risk”    means any risk emanating in a contract due to systems, processes, technology error, breakdown, or non-scheduling of gas due to technical reasons;
+“pipelines system operators”    shall have the meaning as defined in the Network Code;
+“proprietary member”    means a member who can transact or clear on its own account or on account of its affiliates or associates, but not on account of anyone else;
+“safe liquid investment”    means investments in liquid assets comprising of cash in hand, cash equivalents (that is short term, highly liquid investments that are readily convertible into known amounts of cash and which are subject to an insignificant risk of changes in value) and demand and term deposits with scheduled banks;
+“Securities and Exchange Commission of Nigeria”    means the agency of the Federal Government of Nigeria responsible for the regulation of exchanges in Nigeria;
+“settlement”    means the process of discharging the obligations of members resulting from conclusion of a transaction at an exchange;
+“Settlement Guarantee Fund”    means a Fund maintained by the gas exchange or clearing house to be used for settlement of defaults of its members as specified in the default remedy mechanism of gas exchange or clearing house and may comprise of any sources of funds as may be determined by the gas exchange or clearing house;
+“term-ahead contract”    means contracts where physical delivery of gas occurs on a date more than one day (t+2) ahead from the date of transaction (t) and have a defined delivery period;
+“trading and clearing member”    means a person having both trading and clearing rights in any gas exchange or clearing house;
+“trading member”    means a person having trading rights in any gas exchange;
+“transaction period”    means when transaction commences and when transaction session continues before commencement of delivery;
+“USD”    means United States Dollars; and
+“virtual pipeline”    means transportation and distribution of gas by trucks, barges, vessels and rail wagons.
+62.     Citation  
+
+These Regulations may be cited as the Gas Trading and Settlement Regulations, 2023.
+
+____________
+
+First Schedule  FEES  
+
+(Regulation 58)
+
+1.     The following fees specified in Table I, shall be payable for the issuance of a gas exchange licence or clearing house authorisation by the Authority—  
+Table I  
+2.     The annual administrative charges specified in Table II, shall be payable by a gas exchange or a clearing house for every subsequent financial year after issuance of the licence or authorisation granted by the Authority, and shall be based on commissions received on all transactions taking place on the exchange.  
+Table II  
+
+____________
+
+Second Schedule  BYE-LAWS AND RULES OF GAS EXCHANGES  
+
+(Regulation 36)
+
+1.     A memorandum of association, articles of association or any other constitutional document, in so far as they relate to matters specified in these Regulations, bye-laws and rules of a gas exchange, shall not be amended except with prior approval of the Authority.  
+2.     The gas exchange shall function according to its bye-laws and market rules formulated by the gas exchange and as approved by the Authority.  
+3.     Such market rules amongst other requirements would cover—  
+(a)   membership and client registration process (including KYC), types of membership, membership fees and application process;
+(b)   price discovery and matching mechanism;
+(c)   qualifications for membership, exclusion, suspension and expulsion;
+(d)   rights and liabilities for each category of members;
+(e)   opening and closing of transaction hours, trading days, matching of transactions and bidding process;
+(f)   delivery, delivery obligations, scheduling, imbalance management, quantity, quality, measurements, gas specifications, taxes and like other particulars;
+(g)   clearing and settlement of trades;
+(h)   type of contracts;
+(i)   conditions of service, technical facilities, liability of exchange, confidentiality and like other details;
+(j)   margin requirements;
+(k)   procedure for handling a default relating to—
+(i)   buyer default remedy mechanism,
+(ii)   seller default remedy mechanism, and
+(iii)   mechanism to compensate transporter for system imbalances caused due to buyer or seller default; and
+(l)   any other provision as may be directed by the Authority.
+4.     Bye-laws amongst other requirements would cover—  
+(a)   market surveillance and investigation procedures;
+(b)   clearing and settlement procedure;
+(c)   risk management framework;
+(d)   levy of exchange transaction charge;
+(e)   member service charge;
+(f)   maintenance of records and accounts;
+(g)   preparation of annual accounts and audit;
+(h)   arbitration, dispute resolution and conciliation;
+(i)   procedures for identification and defining of gas hubs;
+(j)   transaction at exchange, risk management;
+(k)   Settlement Guarantee Fund - its contributions, utilisation and payment;
+(l)   code of conduct;
+(m)   mechanism for redressal of grievances and complaints;
+(n)   rights and obligation;
+(o)   management of exchange, exchange committee and its workings;
+(p)   confidentiality;
+(q)   exit scheme; and
+(r)   any other provision as may be directed by the Authority.
+
+____________
+
+
+
+End of Document

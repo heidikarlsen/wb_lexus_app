@@ -1,0 +1,375 @@
+
+
+
+
+RMS Joint Venture CC t/a Radds Transport v Transnet SOC Limited and others [2024] JOL 64325 (GP)
+Judgments Online
+
+Division: Gauteng, Pretoria
+Case No: 2022-038072
+Hearing Date(s): 30–31 / 01 / 2024
+Judgment Date(s): 19 / 04 / 2024
+Bench: S Potterill J
+
+
+Keywords
+
+
+Constitutional and Administrative Law — Procurement — Tenders — Organ of State — Award of tender — Judicial review
+
+Mini Summary
+
+
+The respondent (“Transnet”) required critical infrastructure referred to as material handling equipment at one of its port terminals. It issued a tender calling for the supply of such equipment. The applicant (“Radds”) had been rendering material handling equipment services to Transnet port terminals since 2005. It owned the majority of the equipment that Transnet required to facilitate the efficient flow of the port. It had been awarded many tenders prior to the disputed tender in this case. However, Transnet sent out a restriction notice to Radds and proceeded to disqualify it from the tender bid. Transnet’s Bid Adjudication Committee awarded the tender to the second respondent (“Eyamakhosi”) and the third respondent (“Aqua”). Eyamakosi subsequently retracted from the tender as it could not render the services required. In terms of the Promotion of Administration of Justice Act 3 of 2000, Radds sought the review of the tender award decision as well as the decision to exclude Radds from the bidding process.
+
+One of the grounds relied on heavily by Transnet in opposing the review application was that Radds had failed to exhaust its internal remedies prior to seeking judicial review, as required by section 7(2) of the Promotion of Administrative Justice Act 3 of 2000.
+
+Held that the internal remedy referred to by Transnet was illusory and did not constitute an internal remedy as contemplated by section 7(2) of the Promotion of Administrative Justice Act. There was no need for Radds to apply for exemption for not complying with section (2), and the only recourse available to it was to apply for judicial review of the tender award.
+
+It then had to be decided whether Transnet’s exclusion of Radd from the tender was defensible. The exclusion was based on Radd’s having been previously implicated in the abuse of Transnet’s supply chain management by means of collusive dealings, misrepresentations, B-BBEE fraud and over-charging. Reliance was placed on an “Integrity Pact” that was signed by Radds when submitting the tender documents as a disqualification on collusion. The court found that on no interpretation could Transnet reject a bid in terms of the Integrity Pact based on past transgressions. The Integrity Pact was signed for the specific bid and with regard to the bid relating to the present case, there was no colluding. The decision to exclude Radds from the tender was procedurally unlawful and unreasonable. The impugned decisions were set aside.
+
+Based on Transnet’s conduct, the court made the extraordinary decision to substitute Transnet’s decision with a decision to award the tender to Radds.
+
+ 
+[2024] JOL 64325 (GP) at 2
+
+
+
+
+POTTERILL J:   
+
+Introduction
+
+[1]    In 2003, the South African government adopted a supply chain system that sought to utilise the procurement processes to address the economic imbalances of the past and to ensure procurement best practices. This procurement process was granted constitutional status with section 217(1) of the Constitution requiring of an Organ of State when procuring services or goods to do so in accordance with the principles of fairness, equitability, transparency, competitiveness and cost-effectiveness. Section 217(3) sought legislation to be enacted to fulfil this constitutional objective.
+
+[2]    Legislation compels governments to call for tenders before buying any goods or services and the enacted legislation required in terms of section 217 led to the enactment of the Preferential Procurement Policy Framework Act 2000 (PPPFA Act) and the Public Finance Management Act 1 of 1999 [PFMA]. Despite this legislation, 20 years of tender practice, the noble cause tender is underpinned by and guidance by the courts, High Courts are still on a daily basis confronted with urgent interdicts to prohibit tenders from being awarded, pending reviews, due to Organs of State breaching the principles set out in section 217 and/or PAJA. This leads to courts compelled to decide whether the decision to grant a tender must be reviewed and set aside in terms of PAJA, refer it back to the decision maker, or in exceptional circumstances, make a decision itself. What makes matters worse these applications require urgency, placing pressure on the Judiciary. The matter before me is a case on point. In this matter the papers consist of 1 822 pages, in answer to a 68-page founding  
+[2024] JOL 64325 (GP) at 3
+affidavit [excluding annexures] Transnet has filed an 160-page answering affidavit [excluding annexures] that is grossly repetitive, does not meet the founding affidavit head on, contains argument and matters irrelevant to the issues to be determined. The heads of argument of both parties are close to 100 pages each.
+
+[3]    It is well known that South African ports are in disarray and has been acknowledged as such by the President. The respondent, Transnet SOC Limited [Transnet] has informed the court that Transnet Ports Terminal [TPT] has as its core purpose to facilitate the efficient flow of imports, exports, and transhipments through its cargo terminal operations. At the Richards Bay terminal, the port cannot function without the critical infrastructure referred to as material handling equipment; diesel front-end loaders [with and without pushers attached], diesel articulated dump trucks, diesel excavators and diesel bowsers. Tender number 628 TPT on 2 July 2021 went out for proposals to secure this material handling equipment.
+
+[4]    The applicant, RMS Joint Venture CC t/a Radds Transport [Radds] has been rendering material handling equipment services to Transnet port terminals since 2005. It owns the majority of the equipment that Transnet requires to facilitate the efficient flow of the port. It had been awarded many tenders prior to this disputed tender. It is common cause that during the technical evaluation stage only four bidders, Radds, Eyamakhosi Transport (Pty) Ltd, the second respondent, Aqua Transport and Plant Hire (Pty) Ltd [Aqua], the third respondent [Eyamakhosi], and Leomat scored above the prescribed threshold. It is further common cause that Radds' tendered price was assessed to be market related. The other three bidders' tender price was assessed as not being market related. Transnet however sent out a restriction notice to Radds and proceeded to disqualify Radds from the bid and Transnet's central bid adjudication committee awarded the tender to Eyamakhosi and Aqua. It is common cause that Eyamakosi has retracted from the tender as it cannot render the services required. Neither Aqua or Eyamakhosi has opposed the application.
+
+ 
+[2024] JOL 64325 (GP) at 4
+
+[5]    Radds is seeking that the court in terms of the Promotion of Administration of Justice Act 3 of 2000 [PAJA] review Transnet's decision of 24 August 2020 to award the tender to Aqua and Eyamakhosi, alternatively declare the decision unlawful and constitutionally invalid. Further, that Transnet's decisions of 24 August 2022 and 17 October 2022 to exclude Radds from the bidding process be reviewed and set aside. The court is asked to order that the contracts concluded with Aqua and Eyamakhosi be set aside and be declared void ab initio with the court substituting the decision by awarding the tender to Radds.
+
+Did Radds exhaust its internal remedies?
+
+[6]    Transnet relied heavily on this point in limine asserting that I am precluded from deciding the merits as the review application is premature because it is compulsory for Radds to exhaust the relevant internal remedies in compliance with rule 7(2) of PAJA. Radds had to at the very least, on application, have applied for exemption showing exceptional circumstances.
+
+[7]    On behalf of Radds it was argued that there was no external remedy to exhaust and therefore they need not apply to court for exemption from rule 7(2).
+
+[8]    It is common cause that Radds was aware that it could challenge Transnet's decision by means of internal remedy and review. It accordingly addressed a letter to Transnet enquiring what the internal remedy was. On 19 October 2022 Radds enquires specifically from Transnet ". . . we request that you urgently advise us on the internal remedies available to our client with reference to the applicable policy". On 31 October 2022 Transnet's attorneys, at the time, answered as follows:
+
+"Transnet no longer has an internal Ombudsman and, as an interim measure, complaints/objections received may be dealt with through an independent compliance review process as determined by the relevant Operation Division. This internal remedy is available to your client in addition to the debriefing  
+[2024] JOL 64325 (GP) at 5
+meeting where your client would be provided with the reasons for them being unsuccessful in the tender process, and is a further opportunity to provide it with clarity on the reason for its disqualification."
+
+[9]    It is accepted this flows from the March 2020 Transnet procurement procedures [PPM] issued by Transnet's Chief Procurement Officer containing the following directive:
+
+"The Transnet procurement Ombudsman process is being reviewed and currently suspended. Paragraph 3 of the National Treasury Instruction 3 of 2016/2017 on Preventing and Combating Abuse in the Supply Chain Management System requires Transnet to establish a system to deal with the management of complaints in the SCM system. As an interim measure, complaints received may be dealt with through compliance review, internal audit review or forensic audit review as determined by the relevant Operating Division."
+
+[10]    Transnet's PPM, despite its suspension, still provides that the ombudsman had the powers to investigate a complaint and make appropriate recommendations to the chief procurement officer and the chief executive of the relevant operating division in respect to the appropriate remedial measures to be undertaken. The ombudsman could recommend that the bid be cancelled if there was a material irregularity, refer a bid back for re-evaluation, reject the bid, amend a bid decision, restrict the supplier from doing business with the State, cancel the contract and claim damages (if any).
+
+[11]    On behalf of Radds it was argued that there was no internal remedy. The PPM did not contain the independent compliance review and in the answering affidavit Transnet has incorrectly quoted paragraph 5.7.2 of the PPM which still affords the relevant powers to the ombudsman, which is suspended.
+
+ 
+[2024] JOL 64325 (GP) at 6
+
+[12]    On behalf of Transnet it is averred that if Radds had filed an objection, the objection would have been lodged in a register at Transnet monitored by TPT's Governance Department. TPT's Governance Department would have reviewed the contents of the objection and recommended a response to the objection. "Should Radds not be satisfied with the response, a debriefing session would then be proposed." If Radds was not happy with the result of the debriefing session it would also have been entitled to an independent compliance review. In terms of the 2020 PPM the TPT's Chief Procurement Officer and chief executive are to review the decision.
+
+Decision on internal remedy
+
+[13]    Transnet had not yet established a system to deal with complaints in the SCM system. The interim process, a compliance review, as determined by the relevant operating division, was disclosed to Radds. It was not captured in writing and pertinently not in the PPM. And, nothing was communicated to Radds about a register that the Governance Department would monitor, review the contents of the objection and recommend a response. On no interpretation can this step be seen as an internal remedy and, although this was set out in the answering affidavit as such, it was correctly not argued as being an internal remedy.
+
+[14]    According to Transnet the next step for Radds would be a debriefing session. This was argued was an internal remedy that had to be exhausted. Debriefing is set out by Transnet exactly as "debriefing" would in the light of the ordinary rules of grammar and syntax be understood; "This internal remedy [the independent compliance review] is available to your client in addition to the debriefing meeting where your client would be provided with reasons for them being unsuccessful in the tender process, and is a further opportunity to provide it with clarity on the reasoning for its disqualification"; "The purpose of the debriefing meeting is set out as follows: 'the debriefing meeting would then unpack RADDS's proposal in line with the evaluation process and explain in detail why and how it was disqualified.'"
+
+ 
+[2024] JOL 64325 (GP) at 7
+
+[15]    The argument that the debriefing session constitutes an internal remedy is not only fallacious, but contrived. For Radds to hear why its bid was unsuccessful is simply not an internal remedy. An internal remedy has been settled as being: ". . . an administrative appeal, usually on the merits, to an official or tribunal within the same administrative hierarchy as the initial-decision-maker – or less common, an internal review . . . Inevitably the appellate body is given the power to confirm, substitute or vary the decision of the internal decision-maker on the merits."1 The debriefing session is not a review where the decision that Radds is complaining of can be substituted or varied and does not constitute an internal remedy as contemplated by section7(2) of PAJA.
+
+[16]    What makes matter worse is that Transnet persisted that the internal remedy was a two-step process. Radds had to attend a debriefing session and only then could Radds proceed to the compliance review. This argument renders the "internal remedy" completed flawed because the debriefing session is not an internal remedy. On procedural and substantive law, the argument that there was an internal remedy that Radds should have utilised is rejected.
+
+[17]    But, even if, contrary to Transnet's own argument, the compliance review was a separate internal remedy then I find that there was no such internal remedy as contemplated by section 7(2) of PAJA. Transnet in an email inform Radds that the debriefing session must be followed up with a review process to the TPT's Chief Procurement Officer and chief executive if unhappy with reasons provided at the debriefing session. The argument on behalf of Transnet went that the "essence of the powers enjoyed by the ombudsman, which had provided an effective internal remedy, had been preserved". Furthermore, that the TPT's Chief Procurement Officer and chief executive were "empowered" to take the same decisions as the ombudsman could.
+
+ 
+[2024] JOL 64325 (GP) at 8
+
+[18]    If that was indeed so, the question is how would a disgruntled bidder know that? Radds was never informed that the same procedure as set out in the PPM relating to the ombudsman, despite being suspended, was to be followed. This "preservation" and "authorisation/conferral" is nowhere to be found in a policy or a communication from Transnet to Radds. But, in any event, a suspended procedure cannot be preserved and implemented. The new "debriefing" was not part and parcel of the ombudsman review and negates against the submission that the ombudsman review was preserved. Nowhere are the grounds for challenging the decision set out. Nowhere was the process outlined to Radds. There are no guidelines as to what documents had to be submitted for consideration of the review.
+
+"Furthermore, 'a court will condone a failure to pursue an available remedy where the remedy is illusory or inadequate, or because it is tainted by the alleged illegality'."2
+
+[19]    I am satisfied that the internal remedy was illusory and did not constitute an internal remedy as contemplated by section 7(2) of PAJA. There was no need for Radds to on application apply for exemption for not complying with section 7(2) of PAJA. In the result, the only recourse available to Radds was to apply for judicial review of the tender award.
+
+Must the decision to award the tender to Aqua and Eyamakhosi be reviewed and set aside
+
+Common cause background facts to the tender sought to be reviewed
+
+[20]    Transnet set out that at the Richards Bay terminal it had ongoing challenges in procuring material handling equipment and that the increased demand and introduction of additional commodities reduced the reliability of Transnet's materials handling equipment. It thus relied on tenders, insourcing certain services by means of maintenance leases and short-term contracts to provide these services. However, there were only a limited number of service providers that can deliver these materials  
+[2024] JOL 64325 (GP) at 9
+and the lack of alternative service providers resulted in Transnet paying elevated rates for these materials impacting on Transnet's profitability.
+
+[21]    Transnet in May 2019 sought proposals for the provision of materials handling equipment at the Richards Bay port; 239/TP. Radds tendered and was invited to a negotiation meeting on 9 May 2019. Radds was informed that it was the successful bidder. In June 2019 Transnet informed Radds that it had previously overcharged it and in July 2019 Radds was informed by Transnet that it no longer required the goods and services and did not proceed to award the tender.
+
+[22]    Five days later Transnet issued tender 339/TPT with the scope materially the same as tender 239/TPT. Radds and SI Trucking (Pty) Ltd [SI Trucking] bid. It is common cause that the directors of the two companies are married to each other. On 30 October 2019, Transnet in writing awarded tender 339/TPT to Radds and SI Trucking as preferred bidders for a period of six months. A whistleblower informed Transnet on 21 November 2019 that the owners of Radds and SI Trucking were family members and averred this constituted anti-competitive practice.
+
+[23]    On 12 December 2019, after the letter of the whistleblower, Transnet awarded tender 339/TPT to Radds and SI Trucking as preferred bidders and appointed them both for five years. Transnet defended the award of this tender to the whistleblower in a letter dated 16 March 2020 with Transnet's tender process not requiring to verify the relationship of the bidders only that the bidders were not blacklisted by National Treasury. As of date of the application before me Radds and SI Trucking are still performing in terms of this tender and Transnet has given no indication that it intends to cancel the contracts.
+
+[24]    On 29 July 2020 Transnet issued requests for proposals for tender 422/TPT and on 21 October 2020 for tender 469/TPT. Both Radds and SI Trucking bid. On 15 June 2021 Transnet sent a termination letter to Radds disqualifying Radds and  
+[2024] JOL 64325 (GP) at 10
+cancelling tender 469/TPT. The letter disclosed that the disqualification was due to ". . . a material irregularity identified during the evaluation process in one of more the following manners: (1) non-disclosure of conflict of interest and (2) potential collusion in terms of non-compliance with SBD 9 through the misrepresentation to TPT in respect of the directorship relating to SI Logistics and Terminal".
+
+[25]    Despite this letter, Transnet on 14 October 2021 awarded to Radds a six-month contract in respect of RFQ 11247557 and on 20 October 2021 two three-month contracts in respect of RFQ 11243531.
+
+The tender in question
+
+[26]    On 19 July 2021 Radds submitted a bid in response to tender 628/TPT dated 2 July 2021. SI Trucking did not bid. Transnet received 22 bids. During the technical evaluation stage only four bidders scored above the prescribed threshold and proceeded for further evaluation on their price and B-BBEE scores. The other three bidders, Eyamakhosi, Aqua and Leomat were assessed not to have market-related prices.
+
+[27]    On 28 April 2022 Transnet addresses an intention to restrict notice to Radds in which it was indicated that Transnet intended to place Radds and its director Mr Radhalal on National Treasury's database of restricted suppliers for a period of 10 years for collusion. Radds, through its attorney on 17 May 2022 responded comprehensively to this letter, also pointing out that restriction cannot be done for collusion.
+
+[28]    On 27 May 2022 Transnet again sent a letter to Radds with the heading ". . . intention to restrict", but setting out reasons why it was to disqualify Radds from the tender. The reasons were that Radds through Mr Radhalal was implicated in the abuse of Transnet's supply chain management by means of collusive dealings, misrepresentations, B-BBEE fraud and overcharging. In this letter reliance is placed  
+[2024] JOL 64325 (GP) at 11
+on the integrity pact that was signed by Radds when submitting the tender documents as a disqualification on collusion. Again Radds was afforded five days to respond and again Radds requested an extension and documentation to be provided to it. With no response from Transnet Radds submitted its representations on 8 July 2022.
+
+[29]    On 24 August 2022 Transnet reacted to some of the representations Radds made and informed Radds that it was excluded from the tender process.
+
+[30]    On 9 September 2022 Radds received a letter from Transnet enquiring whether Radds was prepared to extend the validity date of Radd's proposal from 13 September 2022 to 5 December 2022 under the same terms and conditions as set out in Radds' proposal documents. Radds agreed to this.
+
+[31]    The primary reason for Transnet's decision to exclude Radds was due to evidence of corrupt and collusive bidding and bid rigging by Radds in conjunction with its associated companies of SI Trucking and SI Logistics. In terms of clauses 5.1 and 5.2 of the integrity pack Transnet excluded Radds from the bidding process.
+
+Grounds of review
+
+The first ground of review: Transnet failed to comply with the procedures as set out in the integrity pact and the PPM.
+
+Radds argument on non-compliance with the PPM
+
+[32]    On behalf of Radds it was submitted that there is no evidence to support restriction in terms of clause 20.2 of the PPM. Transnet had unlawfully exercised its power to exclude Radds from the tender in terms of either clause 20.9.1 or 20.9.2 of the PPM. The reason for this is the bidder cannot be excluded before the tender evaluation process was finalised. Radds had not yet been identified as the "highest ranked Bidder in a bid process". Clause 20.9.1 sets out that where a bidder is the subject of an ongoing restriction process, it is not advisable to award new business to that bidder if it is the highest ranked bidder in the bid process. Clause 20.9.2 reads the same applicable to a supplier that is the  
+[2024] JOL 64325 (GP) at 12
+subject of a forensic investigation. The tender evaluation and recommendation report [the TEAR report] demonstrates that Radds was not evaluated for price and B-BBEE [stage 3 of the evaluation process]. Cowen J had found in the interim interdict that Transnet had disabled itself from assessing whether Radds was the highest ranked bidder failing to follow the requisite procedure in clause 20.9.1.
+
+[33]    Clause 20.9.1 provides as follows:
+
+"In such instances it is recommended that the restriction process be expedited, if possible. However, if it is not possible to delay the award, the risks associated with awarding to such a Bidder must be considered. It may be considered whether objective criteria exists to justify award to another Bidder and such recommendation may be made to the relevant Acquisition Council. Should it be determined that it is appropriate to apply objective criteria, the Bidder must be requested to make representations as to why it should not be awarded the business and the AC must consider such representations before making a final decision."
+
+[34]    It was thus argued that Transnet did not comply with this requisite procedure because it did not ask Radds to make representations. Cowen J had also found that Transnet had not complied with this prescribed procedure. It was argued that not in the record, nor in the answering affidavit, is it set out that the risks associated with awarding the bid to Radds were considered, or what objective criteria were considered to justify awarding the tender to Aqua and Eyamakoshi. The only evidence is of a resolution by Transnet's Divisional Acquisition Council dated 28 June 2021. This resolution was however recorded after the decision to exclude Radds from the tender. There is no evidence that the DBAC recommended on 26 August 2022 that the tender be awarded to Aqua and Eyamakhosi. Nowhere is it set out what recommendation was made to Central Bid Adjudication Committee [CBAC] and that CBAC considered Radds' representations in response to the exclusion  
+[2024] JOL 64325 (GP) at 13
+notice before making a final decision. The only minutes of the CBAC relates to a meeting on 28 September 2022, but, once again, Radds had already been excluded from the tender.
+
+[35]    Transnet had also failed to expedite the restriction process as required. National Treasury on 14 February 2021 instructed that Transnet commence with the restriction of Radds immediately. The forensic report of 23 November 2021 recommended that Radds should be restricted. The restriction notice was only addressed on 28 April 2022. On 22 November 2022 TPT's Acting Chief Procurement Officer recommended that Radds be restricted. But, there is no record that the CBAC, the body empowered to do so, had taken the decision to restrict Radds.
+
+[36]    It was submitted that in this tender SI Trucking did not bid for the tender and there could be no collusion between Radds and SI Trucking and there could be no risk in awarding the tender to Radds.
+
+Radds argument on non-compliance with the integrity pact
+
+[37]    The purpose of the integrity pact can be summarised with reference to a short extract of paragraph 4.13:
+
+". . . Integrity Pact requires a commitment from suppliers and Transnet that they will not engage in any corrupt, fraudulent practices or anti-competitive practices and that they will not act in bad faith towards each other."
+
+It also sets out the remedies available to Transnet where a bidder contravenes the provisions of the integrity pact. These remedies are set out in clauses 5.1 and 5.2 of the integrity pact. In terms of clause 5.1 Transnet may reject the bidder's application from the registration or bidding process and may remove the bidder from its database, if already registered. In terms of clause 5.2 it may pursuant to following due procedures exclude the bidder from future bidding processes for a time period.
+
+ 
+[2024] JOL 64325 (GP) at 14
+
+[38]    It was argued that clause 5.1 could never empower Transnet to reject Radds' bid based on past transgressions. Clause 5.2 did not empower Transnet to exclude Radds from this tender without restricting Radds from future bidding processes. Transnet has not restricted Radds from future bidding and had not followed due procedures to exclude Radds from bidding. There is also no indication in the record or answering affidavit that Transnet, as required, considered the severity of the transgression.
+
+Transnet's argument on the PPM
+
+[39]    On behalf of Transnet it was argued that Radds was the highest ranked bidder and thus could be restricted. Furthermore, that Radds was the subject of a forensic investigation and was the subject of an ongoing restriction process. Radds should have pleaded that it was possible to expedite the process, but it did not. Transnet's Divisional Bid Adjudication Committee did expressly note that there was a risk of awarding the contract to Radds as it had been implicated in dishonesty and fraud. It relies on the Inoxico report that was submitted to Transnet and Transnet's Internal Audit Department initiated an investigation which made adverse findings about the risks of Radds. It was submitted that because there were objective risks identified pertaining to Radds it follows automatically that objective criteria existed to award the tender to Aqua and Eyamakhosi.
+
+[40]    Radds' argument that the CBAC failed to make a recommendation or to consider Radds' representations is erroneous because the main Acquisition Council of TPT is Transnet's Divisional Bid Adjudication Committee and not CBAC. This is so in terms of the definitions of the PPM that defines the "main Acquisition Council of an Operating Division Specialist Unit or Business including the Procurement Committee and EXCO, where applicable".
+
+Transnet's argument on the non-compliance of the integrity pact
+
+ 
+[2024] JOL 64325 (GP) at 15
+
+[41]    The argument went that Radds had indeed violated clause 3.3 of Transnet's integrity pact by colluding with SI Trucking by "preclude[ing] a competitive bid price, impair the transparency, fairness and progress of the bidding process, bid evaluation, contracting and implementation of the contract". Radds' transgressions were so severe that it warranted its disqualification from the tender.
+
+[42]    Radds' argument that clause 5.1 of the integrity pact does not empower Transnet to reject Radds as a bidder for past transgressions is incorrect. Radds was not disqualified from tender 469TPT as the tender was cancelled. But, more importantly a correct interpretation of clause 5.1 allows for Transnet to take into account past transgressions because clause 5.1 reads ". . . has committed a transgression" indicating that the violation of the integrity pact happened in the past. It was submitted that interpreting clause 5.1 as referring to historic transgressions is the only meaningful interpretation otherwise there would be no basis to reject a bidder. This would also be in line with the objectives of this clause to reject a bidder which would encourage all potential bidders to abide with their duty in terms of the integrity pact and to hold bidders accountable for past transgressions. Clause 5.2 must be read with clause 5.1 and it is clear that Transnet was empowered to reject Radds' bid.
+
+[43]    On behalf of Transnet it wat argued that it need not have considered the severity of the transaction because this requirement only relates to the imposition of a prospective exclusion under clause 5.2 and not the disqualification decision.
+
+Did Transnet comply with its own procedures as provided for in the PPM and integrity pact?
+
+The PPM
+
+[44]    I find it prudent to repeat the content of the relevant provisions of the PPM. As background Chapter 20 has the heading "What is a Restriction?" It explains in clause 20.1 that it is a mechanism used to exclude suppliers, shareholders and  
+[2024] JOL 64325 (GP) at 16
+directors from future business with all Organs of State including Transnet for a specified period. The decision to restrict must be based on one of the prescribed grounds for restriction as set out in National Treasury Instruction 3 of 2016/2017 on Prevention and Combatting Abuse in the SCM system and the PPPFA Regulations, 2017. Transnet relied on the ground set out in 20.2.1 that Radds had acted in bad faith towards Transnet. Clause 20.4 sets out the factors that must be considered before taking a decision to restrict.
+
+[45]    Clause 20.9 is the provision applicable to the facts of this matter as Radds was a supplier/bidder that is subject to an ongoing restriction process or a forensic investigation. Clause 20.9.1 sets out that where a bidder is the subject of an ongoing restriction process, it is not advisable to award new business to that bidder if it is the highest ranked bidder in the bid process. Clause 20.9.2 reads the same but made applicable to a supplier that is the subject of a forensic investigation. It goes further to say that "the mere fact that a forensic investigation is commissioned against the supplier would indicate that there are significant allegations of wrongdoing against the supplier, which, if proven correct, could result in the supplier being restricted from doing business with organs of state".
+
+[46]    As for clause 20.9.1 the bald assertion by Transnet that Radds was the highest ranked bidder, without being assessed for stage 3 of the bid evaluation, is simply incorrect. The TEAR report clearly reflects that Radds was not evaluated for stage 3 as it was removed before it could be evaluated for stage 3. Stage 3 involved being evaluated on price and B-BBEE. Without a stage 3 evaluation it simply cannot be asserted that Radds was the highest ranked bidder at the time it was removed from the bid evaluation process. From clause 20.9.1 it is clear that there is a qualification in that the bidder "if it is the highest ranked bidder in a bid process". Then only it is not advisable to award new business to that bidder. Transnet thus followed the incorrect procedure. This decision was also in direct conflict with Transnet's second audit report of 8 March 2022 that recommended that management should reconsider the inclusion of Radds in the procurement process.
+
+ 
+[2024] JOL 64325 (GP) at 17
+
+[47]    From clause 20.9.1 it is clear that Transnet had a choice, if the bidder is the highest ranked bidder, to then either expedite the restriction process, or if it is not possible to delay the award, to consider the risks associated with awarding the tender to the bidder and whether objective criteria exist to justify the award to another bidder.
+
+[48]    The common cause facts show that there was no expediting of the restriction process. Transnet had thus also failed to adhere to its own process to expedite the restriction process as required. National Treasury on 14 February 2021 instructed that Transnet commence with the restriction of Radds immediately. The restriction notice was addressed on 28 April 2022. Only on 22 November 2022 did TPT's Acting Chief Procurement Officer recommended that Radds be restricted. Transnet's Group Governance Department is considering the restriction. Absolutely no reasons are forthcoming as to why this restriction process has not been expedited from 14 February 2021 to date of hearing 30 January 2024, three years.
+
+[49]    If the restriction process cannot be expedited and the award cannot be delayed then Transnet must consider the risks of granting the award to Radds. It is correct that clause 20.9.1 reads that the mere fact that a forensic investigation is commissioned against the supplier would indicate that there are significant allegations of wrongdoing against the supplier. But, this must be weighed as a risk against other factors, like the delay of the award and the competence of the supplier/bidder. In this matter there is the anomaly that Radds is still performing under 339/TPT. Other factors to consider is, that pursuant to Transnet on 15 June 2021 sending a letter to disqualify Radds from tender 469/TPT it on 14 October 2021 and 28 October 2021 awarded two short-term contracts to Radds. With the turmoil at the ports this award cannot be delayed. No evidence is put before court how these risks where assessed.
+
+[50]    There is no evidence set out as to why the award is then made to Aqua and Eyamakhosi. It is common cause that Eyamakhosi simply could not perform for what  
+[2024] JOL 64325 (GP) at 18
+it tendered. It is also common cause that Transnet was aware of the criminal fraud and corruption charges against Aqua relating to the KwaZulu-Natal Department of Transport before it concluded the contract pursuant to the tender being awarded to it. Aqua in a variation application, related to this matter, admitted that it has been charged and that its director appeared in the Pietermaritzburg Magistrates' Court on charges of fraud and corruption. There is no explanation on the papers why this fact was negated in awarding the tender to Aqua. Transnet had the knowledge that Aqua is alleged to be involved or being investigated and charged in corrupt, unlawful or illegal activities yet it proceeds to award the tender to Aqua. The Competition Commission, in fact, found that there was collusion between Aqua and another company and the Competition Tribunal prosecution against Aqua was set down for hearing in March 2023. Transnet arguing to the contrary is simply false. On 23 November 2022 National Treasury had directed Transnet to investigate and update it by no later than 2 December 2022 whether the awarded contractors [Aqua] are those involved with fraud and corruption related to the Department of Transport KZN contract. Pikitup has resolved to restrict Aqua from business in the public sector pursuant to investigations by KPMG and the Public Protector and a recommendation that National Treasury blacklist Aqua. There is no evidence how these objective criteria were evaluated and weighed against awarding Radds the contract.
+
+[51]    This is especially so when one also factors in the bid price that Aqua and Eyamakhosi quoted versus what Radds had bid. Their bid price was R112 million more than Radds. Transnet has now recommended that the full tender be awarded to Aqua pursuant to Eyamakhosi withdrawing. On no argument can this be seen as fulfilling the cost-effective criteria. It is correct that there can be post bid price negotiations, but the bid price would be the starting point with it being very unlikely that negotiations would lead to R112 million less being negotiated.
+
+[52]    As far as the process in the PPM is set out where a bidder is the subject of an ongoing restriction process or forensic investigation Transnet has not complied with clause 20.9 of the PPM.
+
+ 
+[2024] JOL 64325 (GP) at 19
+
+[53]    Furthermore, I find there was no assessment of the criteria and risk, and if there was, rationality did not prevail. It must be remarked that Transnet's defence of Aqua in court, despite the common cause adverse findings against Aqua, was most disconcerting. The appointment of Aqua was so unreasonable that no reasonable person could have taken such a decision.
+
+The integrity pact
+
+[54]    I repeat the relevant clause of the integrity pact:
+
+If the Bidder/Supplier has committed a transgression through a violation of paragraph 3 of this Integrity Pact or in other form such as to put its reliability or credibility as a Bidder/Supplier into question. Transnet may reject the Bidder's/Supplier's application from the registration or bidding process and remove the Bidder/Supplier from its database, if already registered.
+If the Bidder/Supplier has committed a transgression through a violation of paragraph 3, or any material violation such as to put its reliability or credibility into question, Transnet may after following due procedures and at its own discretion also exclude the Bidder/Supplier from future bidding processes. The imposition and duration of the exclusion will be determined by the severity of the transgression. The severity will be determined by the circumstances of the case, which will include amongst others the number of transgressions, the position of the transgressions within the company hierarchy of the Bidder/Supplier and the amount of the damage, the exclusion will be imposed for up to a maximum of 10 (ten) years. However, Transnet reserves the right to impose a longer period of exclusion, depending on the gravity of the misconduct."
+
+[55]    Clause 5 must be read in conjunction with clause 3.1 
+[2024] JOL 64325 (GP) at 20
+ "3.1. The Bidder/Supplier commits itself to take all measures necessary to prevent corrupt practices, unfair means and illegal activities during any stage of its bid or during any ensuing contract stage in order to secure the contract or in furtherance to secure it and in particular the Bidder/Supplier commits the following:
+
+will not, directly or through any other person or firm, offer, promise or give to Transnet or to any of Transnet's employees involved in the bidding process or to any third person any material or other benefit or payment, in order to obtain an exchange and advantage during the bidding process; and
+The Bidder/Supplier will not offer, directly or through intermediaries, any bribe, gift, consideration, reward, favor, any material or immaterial benefit or other advantage, commission, fees, brokerage or inducement to any employee of Transnet, connected directly or indirectly with the bidding process, or to any person, organization or third party related to the contract in exchange for any advantage in the bidding, evaluation, contracting and implementation of the contract . . ."
+
+[56]    Clause 3 makes it clear that a bidder commits itself to take measures necessary to prevent corrupt practices, unfair means and illegal activities during any stage of its bid or during the ensuing contract. Radds and all the bidders in the tender were required to certify in the declaration form that they had acquainted themselves with, and agreed with the content of the integrity pact. The integrity pact was incorporated into the RFP of the tender.
+
+[57]    If the bidder contravenes the integrity pact then Transnet is in terms of clause 5 empowered to reject the bidder's application from the registration of the bidding process and remove the bidder from its database, if already registered. And it may, after following due procedures, exclude the bidder from future bidding processes.
+
+ 
+[2024] JOL 64325 (GP) at 21
+
+[58]    On no interpretation can Transnet reject a bid in terms of the integrity pact based on past transgressions. The reason for the rejection was that Radds had colluded with SI Trucking. SI Trucking did not bid for this tender. The integrity pact is signed for this specific bid; there was no colluding.
+
+[59]    The argument on behalf of Transnet that upon a proper interpretation the words "has committed a transgression" in clause 5 can only be interpreted as an action that already occurred indicating that the violation happened in the past, is contrived. Clause 3 sets out that the bidder undertakes to adhere to the integrity pact "during any stage of its bid or during the ensuing contract". Clause 5.1 correctly interpreted can only relate to a transgression committed to the bid at hand. If it only relates to past transgressions, then it would lead to the absurdity that any transgression of the bid at hand can only be addressed in a future bid; if there is no future bid from the bidder then in terms of the integrity pact the bidder could not be held accountable for past transgressions.
+
+[60]    Clause 5.2 affords Transnet to exclude the bidder, after following due process, from future bidding. Clause 5.2 does not permit for exclusion of a bidder from a tender pending restriction in contradiction to clause 20.9 of the PPM.
+
+[61]    Transnet could not invoke the provisions of clauses 5.1 and 5.2 of the integrity pact due to the mandatory conditions applicable to the empowering provisions being absent. Transnet could not exclude Radds from the bidding process for the tender at hand.
+
+Other grounds of review
+
+[62]    Due to my finding on the first ground of review rendering the decision to exclude Radds from the tender procedurally unlawful as well as an unreasonable decision I do not address the other points raised. The decision to exclude Radds is reviewed and set aside and the flip side of the decision to award the tender to Aqua  
+[2024] JOL 64325 (GP) at 22
+and Eyamakhosi is reviewed and set aside. Consequently, the contracts awarded, if any, pursuant to the award of the tender to Aqua and Eyamakhosi is reviewed and set aside.
+
+Relief
+
+[63]    Radds is seeking the extraordinary remedy that the court award the tender to Radds and not refer it back to Transnet for the award of the tender. Section 8(1)(c)(ii)(aa) of PAJA permits a court, in exceptional cases, to substitute or vary the administrative action that it has reviewed and set aside.
+
+Radds' argument on the remedy
+
+[64]    On behalf of Radds it was argued that there exist exceptional circumstances for this Court to award the tender to Radds. The exceptional circumstances are that the Court is in a position to grant the award because Radds had already been evaluated for functionality and its capacity to perform in terms of the tender is not disputed. The Court can rely on Transnet's own expertise on the bids submitted. Radds quoted price was assessed as being market-related. Aqua and Eyamakhosi quoted prices were assessed not to be market-related.
+
+[65]    As for the last stage of bidding, ie the pricing and empowerment, this does not require any special expertise to adjudicate. The price must be evaluated in terms of section 9 of the RFP and paragraph 15.6 of the PPM which calculates a score based on a prescribed formula which compares the price of the total bid under consideration with the price of the lowest acceptable bid. Radds' prices are set out in its pricing schedule. If those rates are subjected to the application of the methodology prescribed in the PPPFA and the RFP Radds is the highest ranked bidder in respect of all the equipment except for the front-end loaders. Eyamakhosi placed first, but this is now immaterial as Eymakhosi is out of the picture. Such an assessment by the Court would not infringe on the separation of powers principle as price and B-BBEE do not involve questions of policy.
+
+ 
+[2024] JOL 64325 (GP) at 23
+
+[66]    Substitution would prevent further delay. Transnet had sought several extensions for bidder extensions stretching from 17 August 2021 to 5 December 2022. Transnet had failed to file a complete record and filed its answering affidavit to this application late which conduct has compounded the delay. Transnet brought a variation order pending this application to urgently award the tender to Aqua to "safeguard the effective functioning of the port of Richards Bay, the failure of which would have a huge adverse impact on the South African economy and pose severe risks". From this statement it is clear that Transnet urgently needs these services at Richards Bay.
+
+[67]    On behalf of Radds it was argued that Transnet is bias and has an indefensible relationship with Aqua. Transnet is prepared to conclude a contract with Aqua despite the Competition Commission Tribunal hearing and the criminal matter against Aqua. This bias renders it unsuitable to remit the bid to Transnet for reconsideration.
+
+Transnet's argument on the remedy
+
+[68]    On behalf of Transnet it was argued that this is not an exceptional matter for substitution. Furthermore, the doctrine of the separation of powers mandates a circumscribed role for this Court to play. Transnet exercises a polycentric discretion when making this decision and the Court must observe appropriate deference. A court lacks the institutional competence to make a tender award.
+
+[69]    Reliance was placed on the finding of the Constitutional Court in Trencon Construction (Pty) Limited v Industrial Development Corporation of South Africa Limited and another 2015 (5) SA 245 (CC) paragraph [47] [also reported at [2016] JOL 33413 (CC); 2015 (10) BCLR 1199 (CC) – Ed]:
+
+"To my mind, given the doctrine of separation of powers, in conducting this enquiry there are certain factors that should inevitably hold greater weight. The first is whether a court is in as good a position as the administrator to  
+[2024] JOL 64325 (GP) at 24
+make the decision. The second is whether the decision of an administrator is a foregone conclusion. These two factors must be considered cumulatively."
+
+[70]    Radds' bid was not evaluated for step 5 of the tender evaluation process and this implicates the calculation of pricing and empowerment scores under the PPM and RFP. It would be separation of powers incentive for the court to perform this evaluation. The award to Radds is not a foregone conclusion because to evaluate the competing bids the bids must be adjusted based on the different B-BBEE contributor scores.
+
+Decision on the remedy
+
+[71]    The administrative review context of section 8(1) of PAJA and the wording under subsection (1)(c)(ii)(aa) make it plain that substitution remains an extraordinary remedy rendering remittal the proper course. "A court will exercise this power with considerable caution because the court's primary function is the restoration of legality."3
+
+[72]    The Constitutional Court has found that section 8(1)(c)(ii)(aa) must be read in the context of section 8(1); an exceptional circumstances enquiry must take place in the context of what is just and equitable in the circumstances; would the granting of a substitution order be just and equitable.
+
+[73]    The first question I have to consider is whether I am in as good a position as Transnet to award the tender to Radds. The procurement process was in the final stages of evaluation. It is common cause that functionality has been assessed by Transnet. There has never been a dispute that Radds does not have the capacity to  
+[2024] JOL 64325 (GP) at 25
+perform in terms of the tender. Transnet has described Radds, albeit it ex post facto, throughout its answering affidavit as the highest ranked bidder. Radds' bid price was found to be market-related. The manner in which the price is evaluated is set out in section 9 of the RFP and paragraph 15.6 of the PPM, which is not a finally weighted evaluation, but a prescribed formula. The price evaluation is not based on policy and I would not be infringing the separation of powers principle.
+
+[74]    The only remaining issue is the B-BBEE issue. In the answering affidavit Transnet stated as follows: "Transnet proceeded to evaluate the remaining eligible bidders using the automated price and B-BBEE scorecard and entered into post tender negotiations with them to negotiate market negotiated prices." The automated scorecards place the Court in the same position as Transnet to decide whether Radds must be awarded the tender. The Court is thus in as good as a position as Transnet to grant the tender.
+
+[75]    The proposition in the heads that Transnet has spilt the tender amongst various suppliers to mitigate the risks to Transnet's business continuity and achieve the most cost-effective outcome and the Court would interfere with this policy decision is contrived. This decision was taken due to the interim interdict restricting Transnet from awarding the tender to Aqua, is an ex post facto decision and was not a policy decision at the time of awarding the tender.
+
+[76]    Once a court has established that it is in as good a position as the administrator, it is competent to enquire into whether the decision of the administrator is a foregone conclusion. A foregone conclusion would imply that there is only one proper outcome of Transnet's award of the tender. There is only one proper outcome of the award of the tender and that is to Radds as the highest ranker bidder pursuant to its exclusion being procedurally unfair and unreasonable.
+
+ 
+[2024] JOL 64325 (GP) at 26
+
+[77]    The only other factor the Court is considering is whether an ongoing restriction process has an impact on awarding the tender. The restriction process is aimed at any other tenders Radds may be awarded in future and has no bearing on this tender.
+
+[78]    I am also satisfied that Transnet cannot use the delay it has caused to submit that the market may have changed in a year and therefore the Court cannot grant the award. In this instance the delay weighs more in granting the substitution. Radds can perform in terms of the contract and both parties are suffering due to the delay. Transnet in the variation application set out why the tender must be urgently awarded, albeit to Aqua. The delay can also affect the public purse. Transnet had failed to set out how and why the market had changed in a year.
+
+[79]    As far as the averment of bias is concerned, I will remark that the award of the tender to Aqua and Transnet's defence thereof is simply indefensible. Aqua can never be seen to be the lesser of two evils; its bid price was not close to market related, it stands charged before a court for corruption against Transnet and it is before the Competition Commission Tribunal for collusion. The fact that Transnet defends and brushes this aside raises serious concerns and I have already found that no reasonable decision maker will reasonably make an award to Aqua.
+
+[80]    Upon a consideration of all the facts I am satisfied that the decision to exercise the award of the tender should not be left to Transnet.4
+
+Costs
+
+ 
+[2024] JOL 64325 (GP) at 27
+
+[81]    On behalf of Radds it was argued that Transnet should pay the costs on a punitive scale. This would mark this Court's disapproval of Transnet's conduct treating Radds contemptuously, it raised debunked grounds to justify its conduct and flatly refused to consider exculpatory evidence. It raised concerns about governance in justifying its exclusion of Radds, but defended its decision to appoint Aqua.
+
+[82]    It did all of the above while there is "A higher duty imposed on public litigants, as the Constitution's principal agents, to respect the law, to fulfil procedural requirements and to tread respectfully when dealing with rights".5
+
+[83]    The costs of the urgent interim interdict were reserved and the costs awarded in this application must follow.
+
+[84]    There was also an application to compel brought by Radds to provide documents that were not included in the record. The three reports produced by Transnet pursuant to the application to compel were sought in the application to compel. There was no basis for Transnet to resist the production of these documents and the reserved costs must be awarded to Radds.
+
+[85]    Transnet is also seeking the wasted costs of 28 July 2023. The matter had to be postponed because Transnet had filed its opposing affidavit two weeks' late leaving insufficient time for the delivery of Radds' reply. Transnet must also be ordered to pay those costs.
+
+ 
+[2024] JOL 64325 (GP) at 28
+
+[86]    Due to the complexity of the matter the three counsel were justified and the costs order should include the costs of three Counsel.
+
+[87]    On behalf of Transnet it was argued that it should be awarded the costs, if successful including the costs of two Counsel. It agreed that the costs of part A should follow the result in this matter.
+
+[88]    It argued that the application to compel was unjustified and that the audit report sought by Radds was included in the record furnished by Transnet. Radds should thus not be awarded those costs.
+
+Decision on costs
+
+[89]    Radds, as the successful party must be awarded the costs of part A and part B of this application. The question is whether it must be on a punitive scale. A court will grant such an award to mark its disapproval of a party's conduct. A court will not lightly grant such an order and special grounds must exist before such an order is granted. Although some grounds raised may lead to such an award, I exercise my discretion to upon the totality of the factors before me not to award attorney and client costs. However, I agree that three Counsel in this matter was not an overkill, but necessary and the costs include costs of three Counsel, where so employed.
+
+[90]    Transnet must also pay the wasted costs of 28 July 2023 in that they caused the postponement with the late filing of their answering affidavit.
+
+[91]    Transnet must also pay the costs of the application to compel because Radds was substantially successful in its application.
+
+ 
+[2024] JOL 64325 (GP) at 29
+
+[92]    I accordingly make the following order:
+
+Transnet's decisions of 24 August 2022 and 17 October 2022 to exclude Radds from the tender is reviewed and set aside.
+Transnet's decision of 17 October 2022 to award the tender to Aqua and Eyamakhosi is reviewed and set aside.
+Such contracts that have been entered into between the respondents pursuant to the award is reviewed and set aside and declared void ab initio.
+Transnet's decision to award the tender to Aqua and Eyamakhosi is substituted with a decision to award the tender to Radds.
+Transnet is directed to pay the costs of this application, including the reserved costs of part A of the application, the costs of the application to compel and wasted costs of 28 July 2023, such costs to include the costs consequent upon the employment of three Counsel.
+
+
+Footnotes
+1	Reed and others v Master of the High Court and others [2005] 2 All SA 429 at para [25].
+2	DPP Valuers (Pty) Ltd v Madibeng Local Municipality (233/2015) [2015] ZASCA 146 (1 October 2015) at para [14] [also reported at [2016] JOL 34189 (SCA) – Ed] [footnotes omitted]
+3	Valobex 173 CC v Member of the Executive Council for Economic Development, Environment, Agriculture and Rural Development, Gauteng Provincial Government and another (19803/2021) [2024] ZAGPJHC (2 February 2024).
+4	Gauteng Gambling Board v Silverstar Development Ltd and others 2005 (4) SA 67 (SCA) para [28] [also reported at [2005] JOL 14068 (SCA) – Ed].
+5	Public Protector v South African Reserve Bank 2019 (6) SA 253 (CC) para [155] [also reported at 2019 (9) BCLR 1113 (CC); [2019] JOL 45174 (CC) – Ed].
+
+Appearance:
+Adv HF Oosthuizen SC, Adv T Scott, Adv Z Raqowa, Froneman Roux & Streicher Attorneys (At); Adv T Motau SC, Adv D Sive, Mkhabela Huntley Attorneys Incorporated (R)
+
+
+End of Document

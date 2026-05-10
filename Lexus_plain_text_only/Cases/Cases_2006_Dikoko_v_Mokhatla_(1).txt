@@ -1,0 +1,811 @@
+
+
+
+
+Dikoko v Mokhatla [2006] JOL 18035 (CC)
+Judgments Online
+
+Division: Constitutional Court 
+Case No: CCT 62 / 05 
+Hearing Date(s): 23 / 03 / 2006 
+Judgment Date(s): 03 / 08 / 2006 
+Bench: Langa CJ, Moseneke DCJ, Mokgoro, Sachs, Skweyiya, Madala, Ngcobo, Nkabinde, O'Regan, Van der Westhuizen, Yacoob JJ
+
+
+Keywords
+
+
+Local government — Councillors — Statements made by councillors — Defamation — Damages — Quantum 
+
+Mini Summary
+
+
+The applicant sought leave to appeal against a High Court order in which it was found that the applicant had defamed the respondent and was liable for damages in the amount of R110 000. During his term as mayor, the applicant had contravened the council's policy regarding cell phone accounts. He was called before a standing committee, where he blamed the respondent for the problem, and made certain comments about the respondent's motives. The High Court, in finding against the applicant in an action based on defamation, dismissed the defence of privilege.
+
+Before the present court, the applicant argued firstly, that the court should interpret sections 161 together with section 28 of the Local Government: Municipal Structures Act 117 of 1998 to allow privilege to extend to municipal councillors performing their functions outside of Council. The said provisions provide privilege and immunity from criminal or civil liability to a councillor for anything said in or submitted to a Council or one of its committees.
+
+Held that the applicant's argument had to be dismissed as the applicant’s explanation of his personal indebtedness to the Council did not constitute the Council’s real and legitimate business. A further argument that the court should interpret section 117 of the Constitution together with the relevant provisions of the North West Provincial Legislature’s Powers, Privileges and Immunities Act 5 of 1994 to provide privilege to members of the provincial legislature was also unsuccessful. 
+
+However, leave to appeal was granted as the quantum awarded by the High Court was considered excessive.
+
+ 
+[2006] JOL 18035 (CC) at 1
+
+
+
+
+MOKGORO J
+
+Introduction
+
+[1]    This case concerns the ambit of the immunity from civil liability given to municipal councillors in respect of what they say when carrying out their functions as municipal councillors. The immunity from civil liability which protects councillors from defamation actions enables them to speak and express themselves freely and openly. This, in turn, advances democratic government. The ambit of the immunity is not without limit; for although the immunity constitutes an important bulwark of constitutional democracy, it prevents those that may be defamed from seeking recourse through the courts. Determining its ambit precisely therefore raises important and difficult questions of constitutional principle, as this judgment will illustrate.
+
+ 
+[2006] JOL 18035 (CC) at 2
+
+[2]    This case comes to this Court as an application for leave to appeal against the judgment and order of the Transvaal High Court. The applicant is Mr David Dikoko, who at the time the cause of action arose, was Executive Mayor of the Southern District Municipality incorporating the Southern District Council ("the Council") in the North West Province. The respondent is Mr Thupi Zacharia Mokhatla, who at the time was Chief Executive Officer ("CEO") of the Municipality.
+
+[3]    Mr Dikoko raises two arguments. First, he asks that this Court interpret sections 1611 and 1172 of the Constitution, together with section 283 of the Local Government: Municipal Structures Act4 ("the Structures Act") and section 35 of the North West Municipal Structures Act6 ("the North West Structures Act") to allow privilege to municipal councillors performing their functions outside of Council. Second, that the court interpret sections 2,7 9,8 109 and 3510 of the North West Provincial Legislature's Powers, Privileges & Immunities Act11 ("the North West Privileges Act") to provide the privilege and immunity to persons who are not members of a provincial legislature but appear before it to give information. There is no challenge to the constitutional validity of any of the provisions of the relevant legislation.
+
+ 
+[2006] JOL 18035 (CC) at 3
+
+Background
+
+[4]    The Council has a policy under which a basic amount of R300 is payable by it towards the payment of the cell phone account of each councillor. Any amount above R300 must be satisfactorily justified or else the amount is personally payable by the councillor and deductible from his or her salary. The Council had submitted its annual financial report to the Auditor-General of the North West Province ("the Provincial Auditor-General"), who voiced his dissatisfaction with it, pointing to the unacceptable excess of R3 200 on Mr Dikoko's cell phone account, an outstanding amount which had been long overdue.
+
+[5]    Mr Mokhatla had earlier in his capacity as CEO of the Council, received management letters from the Provincial Auditor-General, questioning Mr Dikoko's overdue indebtedness to the Council. Although Mr Mokhatla had on a number of occasions and over a considerable period brought this matter to Mr Dikoko's attention, he had failed to settle the debt. Eventually he came to an agreement with the Council to write off all but R3 200 of the debt. This agreement also caused the Provincial Auditor-General dissatisfaction. He then called on Mr Dikoko to appear before the North West Provincial Public Accounts Standing Committee ("the Standing Committee") to provide an explanation.
+
+[6]    During the course of his explanation, Mr Dikoko made the following statement:
+
+"I might say maybe it was politically motivated. That is why I am saying it could have been best if [Mr Mokhatla] was here to tell why because . . . my personal view might have been he did it deliberately for it to accrue and build a big sum, because some of the colleagues in Council, more especially from our other political parties want to misconstrue when they give information out, whether to the media or so, wanting to make it as if it was R21 000 for one month whilst it was R21 000 for three years."
+
+[7]    The statement was to the effect that his overdue indebtedness was because Mr Mokhatla had changed the accounting procedures of the Council, providing for periodic as opposed to more frequent monthly payments of cell phone account excesses; that he did so deliberately, causing his indebtedness to the Council to accumulate, thereby giving political opponents a basis for an attack on his integrity. Mr Mokhatla instituted an action for damages against Mr Dikoko in the High Court, claiming that Mr Dikoko's statement to the Standing Committee was defamatory. In his defence, Mr Dikoko entered a special plea, claiming that the statement enjoyed privilege under the relevant legislation.
+
+[8]    It is convenient to discuss at this stage, the relevant provisions of the Constitution and the legislative framework within which the privilege operates.
+
+ 
+[2006] JOL 18035 (CC) at 4
+
+Constitutional and legislative framework
+
+(a)  Privilege afforded to Municipal Councils
+
+[9]    Section 161 of the Constitution provides:
+
+"Provincial legislation within the framework of national legislation may provide for privileges and immunities of Municipal Councils and their members."
+
+The Constitution therefore permits Parliament to pass framework legislation providing and regulating the privilege afforded to municipal councils and their members.
+
+[10]    Parliament proceeded to pass the Municipal Structures Act aimed at providing the national legislative framework referred to in section 161 of the Constitution. Section 28 of this Act provides:
+
+Provincial Legislation in terms of section 161 of the Constitution must provide at least–
+that councillors have freedom of speech in a municipal council and in its committees, subject to the relevant council's rules and orders as envisaged in section 160(6) of the Constitution; and
+that councillors are not liable to civil or criminal proceedings, arrest, imprisonment or damages for–
+anything that they have said in, produced before or submitted to the council or any of its committees; or
+anything revealed as a result of anything that they have said in, produced before or submitted to the council or any of its committees.
+Until provincial legislation contemplated in subsection (1) has been enacted the privileges referred to in paragraphs (a) and (b) of subsection (1) will apply to all municipal councils in the province concerned."
+
+[11]    In response to section 28(1) of the Structures Act, the North West Municipal Structures Act was passed by the provincial legislature providing, among other things, for the freedom of speech and immunity of municipal councillors against criminal or civil liability for statements made in council or any of its committees. Section 28(2) made provision for the application of section 28(1) to municipal councils until the provinces enacted their own legislation, making provision for  
+[2006] JOL 18035 (CC) at 5
+privilege in their provinces. The North West Municipal Structure Act was therefore enacted, providing in section 3 for privilege in the precise terms provided by section 28 of the Structures Act. Section 28(1) and section 3 therefore both make provision for freedom of speech and immunity from civil or criminal liability for anything said in council or in one of its committees.
+
+(b)  Privilege accorded to provincial legislature
+
+[12]    Section 117 of the Constitution accords privilege to members of provincial legislatures. This section provides in relevant part:
+
+Members of a provincial legislature . . .–
+have freedom of speech in the legislature and in its committees, subject to its rules and orders; and
+are not liable to civil or criminal proceedings, arrest, imprisonment or damages for–
+anything that they have said in, produced before or submitted to the legislature or any of its committees; or
+anything revealed as a result of anything that they have said in, produced before or submitted to the legislature or any of its committees."
+
+[13]    Responding to the constitutional imperative in section 117, the North West Privileges Act was passed to provide for privilege for members of the North West Provincial Legislature. Section 2 provides:
+
+Subject to the standing orders there shall be freedom of speech and debate in or before the Provincial Legislature and any committee, and such freedom shall not be impeached or questioned in any court.
+Anything said by any member in or before the Provincial Legislature or a Committee, whether as a member or a witness, shall be deemed to be a matter of privilege as contemplated in section 7.
+The provisions of subsection (1) shall not apply to any person other than a member, giving evidence before the Provincial Legislature or any committee."
+
+[14]    The section therefore immunises a member for anything said in or before the provincial legislature or any of its committees against civil or criminal liability, regardless of whether he or she appeared as a member or as a witness. On its plain meaning, section 2 provides this protection for members of the provincial legislature only. It does not give protection to any other person who might appear as a witness before the provincial legislature or any of its committees.
+
+[15]    Section 9 of the North West Privileges Act protects members against liability for civil and criminal proceedings, and provides: 
+[2006] JOL 18035 (CC) at 6
+"Notwithstanding this or any other Act, no member shall be liable to any civil or criminal proceedings, arrest, imprisonment or damages by reason of anything that he or she has said, produced or submitted in or before or to the Provincial Legislature or any committee thereof or by reason of anything that may have been revealed as a result of what he or she has said, or produced or submitted in or before or to the Provincial Legislature or any committee thereof."
+
+Section 9 therefore protects only members of the provincial legislature.
+
+[16]    Mr Dikoko also relies on sections 10 and 35 of the North West Privileges Act to claim that the privilege generally accorded to members of the Provincial Legislatures should also cover him. Whereas section 10 provides that no person shall be liable for anything done under the authority of or within the legal powers of the Provincial Legislature, section 35 goes further. It provides that the privileges, immunities and powers of the Provincial Legislature do not need to be specifically pleaded, as courts must take judicial notice of them. There is no similar provision made for the privilege in municipal councils and their committees.
+
+Proceedings in the High Court
+
+[17]    Before the High Court Mr Mokhatla's claim was that Mr Dikoko's statement to the Standing Committee was defamatory in that it conveyed the following meaning:12 Mr Mokhatla was devious; was not independent and impartial as his position necessitated; was not worthy of the trust necessary for the proper functioning of a chairperson of a municipal council; and the CEO thereof and was capable of being manipulated by political parties or members of those parties. In addition it also conveyed that Mr Mokhatla was not fit for senior administrative office within local government; was promoting a personal and political agenda; was manipulative and should be held accountable for a seriously irregular situation.
+
+[18]    Mr Dikoko entered a special plea of privilege based on section 28 of the Structures Act, arguing that this section afforded him privilege in that he was not liable to civil proceedings for the statements he had made in the Standing Committee. In support of this contention, he averred that the Standing Committee was a public hearing of the Council. He was therefore entitled to the privilege as a member of the Council under section 28.
+
+[19]    The High Court rejected the special plea, finding that the Standing Committee, though held in the chambers of the Council was a meeting of the  
+[2006] JOL 18035 (CC) at 7
+provincial legislature and not that of the Council. For that reason the court held section 28 was not applicable.
+
+[20]    In the result, the High Court found that Mr Mokhatla had made out a case for defamation. Having considered plaintiff's position in society, the relationship that existed between the parties, the absence of an apology and the seriousness of the allegations, the court determined that all these factors weighed against Mr Dikoko and awarded Mr Mokhatla damages in the amount of R110 000 with costs.13
+
+Proceedings in the Supreme Court of Appeal
+
+[21]    Mr Dikoko applied for leave to appeal to the Supreme Court of Appeal against the judgment and order of the High Court. He also appealed against the quantum of damages awarded by the High Court, arguing that it was excessive in the circumstances of the case. The Supreme Court of Appeal dismissed the application and provided no reasons.
+
+Issues before this Court
+
+[22]    The High Court rejected Mr Dikoko's special plea. He now approaches the issues somewhat differently. He submits that the meeting of the Standing Committee was a meeting of a committee of the Council, as contemplated in section 28 of the Structures Act and section 3 of the North West Structures Act. Alternatively, he submits that his attendance at the Standing Committee was part of the extended business of the Council. Arguing that even if the meeting in question was a meeting of the Standing Committee, Mr Dikoko avers that he would qualify for the privilege under section 117 of the Constitution, read together with section 9 of the North West Privileges Act.
+
+[23]    In summary, the case Mr Dikoko now makes before this Court is that the privilege afforded to members of the Council under section 28 of the Structures Act and section 3 of the North West Structures Act immunises the statements he made in the Standing Committee. This he contends is so because even though the Standing Committee was a meeting of the provincial legislature as the High Court found, he attended it as a member of the Council, for purposes of conducting the legitimate business of the Council.
+
+[24]    Mr Dikoko did not address the question of quantum in his heads of argument. During oral argument he was requested to submit supplementary heads of  
+[2006] JOL 18035 (CC) at 8
+argument setting out his case in relation to the question of quantum. He submitted his supplementary heads of argument on 28 March 2006 averring that the award of damages against him in the High Court is excessively disproportionate or grossly unreasonable, in that it is not commensurate with the limited publication of the statement as well as the slightness of the injury to Mr Mokhatla's reputation. Consequently, he argues that this Court should interfere with the High Court's award and substitute it with its own. He submits further that an award of R20 000 to R30 000 would be adequate.
+
+[25]    The High Court made a finding that the meeting of the Standing Committee was not a meeting of the Council as Mr Dikoko had contended. Mr Mokhatla therefore argues that Mr Dikoko cannot, without challenging that finding, now submit that he had attended the meeting as a member of a committee of the Council or that the meeting was that of the Standing Committee and the Council combined. For this reason, submits Mr Mokhatla, Mr Dikoko cannot be said to have been engaged in the business of the Council and is therefore not entitled as a councillor to the protection under section 28.
+
+[26]    Further, submits Mr Mokhatla, Mr Dikoko does not qualify, as he contends, for the privilege afforded to members of the provincial legislature under section 117 of the Constitution read with section 9 of the North West Privileges Act. Mr Dikoko is not a member of the provincial legislature and the plain meaning of section 117 of the Constitution does not extend that privilege to him. Besides, Mr Mokhatla contends Mr Dikoko did not make these arguments before the High Court and may not raise them on appeal, thereby denying Mr Mokhatla adequate opportunity to respond appropriately. For these reasons, submits Mr Mokhatla, Mr Dikoko should be refused leave to appeal.
+
+[27]    Concerning quantum, Mr Mokhatla argues that only if this Court grants leave to appeal should it consider the appeal against the amount of damages awarded by the High Court. Because the issue of damages in isolation of the merits is not a constitutional issue and the SCA is the highest court of appeal on non-constitutional matters, if need be, the SCA has jurisdiction in this aspect of the appeal, under section 168(3)14 of the Constitution. This Court, goes Mr Mokhatla's further argument, is in the same position as any other appellate court and should not readily interfere with the amount of damages of the trial court award, replacing it with its own merely on the basis that this Court would in its own assessment, have arrived at a different amount. Before considering the questions regarding privilege and quantum of damages, it is convenient to first dispose of the application for leave to appeal.
+
+ 
+[2006] JOL 18035 (CC) at 9
+
+Application for leave to appeal
+
+[28]    It is well established that the decision whether to grant leave to appeal is a matter for the discretion of the court and that leave will be granted if Mr Dikoko has raised a constitutional matter and it is in the interests of justice to grant leave.15
+
+Constitutional matter
+
+[29]    The issue whether privilege extends to Mr Dikoko for the statement he made to the Standing Committee involves the interpretation and application of the provisions of the Constitution and statutory provisions authorised by the Constitution. It also pertains to the regulation of aspects of the constitutional powers and functions of municipal councillors and members of provincial legislatures. This clearly raises a constitutional issue.
+
+Interests of justice
+
+[30]    As mentioned in paragraph [1] of this judgment, this case raises the important constitutional issue of the ambit of the privilege afforded under the Constitution and the legislation authorised by the Constitution. That immunity protects councillors from defamation actions, enabling them to speak and express themselves freely and openly. It is therefore essential to constitutional democracy. However, it prevents those that may be defamed from seeking recourse through the courts. Its precise ambit is therefore an important constitutional issue and it is in the interests of justice for this Court to hear the appeal.
+
+ 
+[2006] JOL 18035 (CC) at 10
+
+Whether Mr Dikoko is entitled to the privilege under the Constitution and the relevant legislation
+
+[31]    The Standing Committee was a meeting of the North West Legislature Finance Committee and not a meeting of the Council or one of its committees. What should now be determined is whether Mr Dikoko's statement qualifies for privilege on the basis that when he attended the meeting he was conducting the business of the Council or, alternatively, that the privilege which is accorded to members in provincial legislatures should extend to him.
+
+Whether Mr Dikoko is protected under section 28 of the Structures Act and section 3 of the North West Structures Act
+
+[32]    Premised on his submission that attending the Standing Committee constituted the extended business of the Council, Mr Dikoko contends that he should be accorded privilege under section 2816 of the Structures Act. He further argues that the link between the Council's business and the Standing Committee makes the privilege envisaged in section 28 applicable. Whatever he said or did, he avers, was in his capacity as a member of the Council and in the course of carrying out the business of the Council. The texts of both section 28 of the Structures Act and section 3 of the North West Structures Act provide immunity for municipal councillors for anything said in, produced before or submitted to the council or any of its committees, or anything revealed as a result of it. It does not expressly extend to councillors acting outside of council. The plain meaning of these provisions does not support the interpretation Mr Dikoko argues for and section 28 of the Structures Act can therefore not be extended to afford Mr Dikoko the privilege, immunising his statement against civil liability, as he contends.
+
+[33]    The next question is whether the provision, properly interpreted, extends to the conduct of councillors acting outside the proceedings of a committee. Our courts have not yet considered and decided the question whether this privilege extends outside of the proceedings of council.17 In Swartbooi & others v Brink & another (2),18 this Court considered the interpretation of section 28 of the Municipal Structures Act to determine whether privilege extended to resolutions adopted during the full deliberations of the council. For a unanimous court, Yacoob J found that the section 28 privilege indeed covered the conduct of members of a municipal council participating in the affairs of the full council in the course of the legitimate business of council.19
+
+[34]    In arriving at this conclusion he considered whether that privilege would extend to everything said or done in a committee of the council, irrespective of the committee's function or purpose. Yacoob J was of the view that the function of the committee might be relevant in deciding whether a municipal councillor was  
+[2006] JOL 18035 (CC) at 11
+exempted for conduct which amounts to participation in the affairs of a committee.20 Swartbooi did not consider or decide the applicability of privilege outside of the full deliberations of council.
+
+[35]    In a pre-constitutional case, Poovalingam v Rajbansi,21 the Appellate Division, as the Supreme Court of Appeal then was, held that parliamentary privilege extended to anything done in Parliament which constituted the business of Parliament.22 The court however held that privilege would not apply in Parliament or in one of its committees if the impugned conduct amounted to a personal matter between members of Parliament and was not part of Parliament's business.23 That the business occurred in Parliament is therefore not decisive. The business has to be that of Parliament.24
+
+[36]    A number of Canadian cases have considered the extension of privilege outside of Parliament.25 A review of these cases suggests that privilege would be extended where the impugned conduct was an extension of the member's real or essential parliamentary functions. In Roman Corp Ltd v Hudson's Bay Oil & Gas Co Ltd26 the court held that the object of privilege was not to further the selfish interests of the members of Parliament. It was to protect them from harassment inside and outside of the House, when they carry out the legitimate business of the House.
+
+[37]    In Stopforth v Goyer27 a Minister of a government department, in response to questions by reporters outside of the House of Commons, made defamatory allegations against the plaintiff, a public servant. The question that arose was whether he was protected by the defence of privilege. The court decided that the principle of absolute privilege can be extended to apply to proceedings that are an extension of the proceedings in Parliament and those conducted outside of the House.28 In the case of Re Clark v Attorney General of Canada29 the applicants were all members of the Federal Progressive Conservative Party and brought an application in the Supreme Court of Ontario seeking a number of declarations with respect to a promulgated regulation. The question arose whether the regulation overrode or abridged existing parliamentary privilege and whether the courts had jurisdiction to determine the nature and extent of parliamentary privilege. In deciding this question the court held that the privilege covers proceedings in Parliament, encompassing a member's real or essential functions. Those functions, it was held, did not include the release of information to constituencies.30 The place where the words were spoken or the acts performed was immaterial provided there was a reasonable connection between the words or  
+[2006] JOL 18035 (CC) at 12
+acts and the business of the House so as to make them part of the proceedings.31
+
+[38]    For Mr Dikoko's statement to be privileged in the Standing Committee we must conclude that the privilege afforded under section 28 extends not only to the legislative functions of councillors, but also to their executive functions. This would be necessary because the business of the Standing Committee was executive and not legislative in nature. Although the question whether the privilege extends to the executive functions of the council did arise in Swartbooi32 the court did not decide the question, stating only that the privilege would apply in the deliberations of the full council, regardless of whether the resolution deliberated upon and finally adopted was of a legislative, executive or administrative nature.33 The full deliberations of council in the course of council's legitimate business would therefore be privileged even though the resolution dealt with executive matters. The passing of a resolution affecting the executive functions of council would, however, still be a legislative process. The court therefore left open this question.
+
+[39]    To determine the question requires a consideration of the purpose of the privilege in a constitutional democracy. Immunising the conduct of members from criminal and civil liability during council deliberations is a bulwark of democracy. It promotes freedom of speech and expression. It encourages democracy and full and effective deliberation. It removes the fear of repercussion for what is said. This advances effective democratic government. There is therefore much to be said for a conclusion that if a councillor participates in the genuine and legitimate functions or business of council, whether inside or outside of council, the privilege afforded under section 28 ought to extend to her or him. For the reasons stated below, however, it is not necessary to determine that question in this case.
+
+[40]    The Provincial Auditor-General called upon Mr Dikoko to appear before the Standing Committee to discuss the Council's financial matters arising from the financial report. This included a personal explanation of the excess amount outstanding on Mr Dikoko's cell phone account and his indebtedness to the Council, which did not constitute the Council's business. As soon as he started to explain he descended into a self-gratuitous and unwarranted personal attack on Mr Mokhatla's personal and professional integrity. This was unbecoming of an Executive Mayor. He took no personal responsibility for his irresponsible conduct. Instead, he placed all blame on Mr Mokhatla, unduly questioning his efficiency and loyalty as CEO of the municipality. Not in any context can his statements in the Standing Committee in respect of his overdue cell phone account be viewed as constituting the real and legitimate business of the Council. They concerned only Mr Dikoko's personal finances and indebtedness to the Council. I  
+[2006] JOL 18035 (CC) at 13
+therefore conclude that the facts of this case do not require us to decide whether the privilege under section 28 and section 3 should be interpreted to extend to the business of council outside of council or its subcommittees. I leave open this question.
+
+[41]    For the reasons stated above, I find it unnecessary to decide whether the privilege under section 28 and section 3 should be extended to apply to the executive functions of municipal councillors.
+
+Whether the privilege which applies to members of the North West Provincial Legislature should extend to Mr Dikoko
+
+[42]    Section 117 of the Constitution and sections 2 and 9 of the North West Privileges Act apply to members of a provincial legislature in the legislature and its committees, immunising their conduct against criminal and civil liability. Section 1034 of the North West Privileges Act applies to other persons who are  
+[2006] JOL 18035 (CC) at 14
+non-members of the provincial legislature and have acted under the authority of the provincial legislature while section 3535 is applicable to members and officers of the provincial legislature.
+
+[43]    Arguing that the occasion was also governed by section 11736 of the Constitution, Mr Dikoko submitted that the privilege which applies to members of a provincial legislature should extend to his appearance before the Standing Committee as a witness. Relying in this regard on sections 2, 9, 10 and 35 of the North West Privileges Act he submitted that in so far as he was not a member of the Standing Committee the privilege afforded by those provisions should extend beyond members, to officials and others who act in the Standing Committee and on the authority of the provincial legislature.
+
+[44]    In terms, section 117 of the Constitution and sections 2, 9 and 35 of the North West Privileges Act limits the privilege to members and officers of the legislature. They too, do not afford the privilege to officials or persons other than members of the provincial legislature, even where those officials and persons come as witnesses called by the provincial legislature or its committees to testify. In particular section 2(2) of the North West Privileges Act expressly limits the privilege to those who appear as witnesses before the provincial legislature and its committees only if they are members of the legislature. Other witnesses who are not members of the legislature do not enjoy that protection.
+
+[45]    Mr Dikoko argued that the provisions should be construed purposively to extend immunity from civil liability to persons other than members of provincial legislatures. I cannot accept that the text of each of the relevant provisions can reasonably accommodate such a construction. Each of the provisions specifically extends its protection to members of provincial legislatures alone. It is not possible on the language of the provisions to read them as he contended. In the circumstances, Mr Dikoko's argument must fail.
+
+[46]    As far as Mr Dikoko's reliance on section 10 of the North West Privileges Act is concerned, it provides that: 
+
+"[n]o person shall be liable in damages . . . for any act done under the authority of the Provincial Legislature and within its legal powers . . ."37 
+
+This provision cannot be read to extend the scope of the immunity for civil liability for defamation conferred upon members of the legislature by sections 2, 9 and 35 of that Act. Moreover, it cannot be said that the defamatory remarks by Mr Dikoko before the Standing Committee constitute "acts done under the authority of the Provincial Legislature". That legislation did not authorise the defamatory statements by Mr Dikoko, nor arguably could it lawfully have done so. This argument too must fail.
+
+ 
+[2006] JOL 18035 (CC) at 15
+
+[47]    Accordingly, a situation is created where others who participate in the same deliberations as witnesses, promoting the same role and functions of the legislature and advancing the same business of the legislature are not protected. That leaves them exposed to criminal and civil proceedings on the basis that they are not members of the legislature. It might be argued that this does not seem to accord with the basic principle of fairness. Quite often, it is not only members of the legislature who participate in or appear before the provincial legislature and its committees to provide or give information. Others also do so. The question is whether legislation should not have afforded the applicable privilege more equitably, not only to members but also to those who appear before the legislature or its committees as witnesses. This could have been done on the basis of a qualified privilege. It might be argued that this would be more in line with a Constitution which places much importance on the values of equality, human dignity and freedom. These questions are, however, also not before us and will not be decided.
+
+[48]    Qualified privilege does not afford absolute immunity to the speaker and can be defeated if the person concerned acts with an improper motive. Currently, our law recognises three categories of occasions that enjoy qualified privilege. These are: 
+
+statements published in the discharge of a duty or the exercise of a right; 
+statements published in the course of judicial or quasi-judicial proceedings; and 
+reports of proceedings of courts, Parliament or public bodies. 
+
+These occasions should not, however, be regarded as exhaustive. Whether a particular occasion is privileged depends on applicable public policy.38
+
+[49]    The defence of qualified privilege was not raised by Mr Dikoko and is therefore not before this Court for determination. The appearance in relation to his cell phone account did not qualify as the legitimate business of the Council. This makes it unnecessary to decide whether privilege under section 117 of the Constitution and related legislation can be extended to cover officials and others who are not members of the provincial legislature, but appear before the provincial legislature to testify as witnesses or to give information. In the result, section 117 cannot come to Mr Dikoko's assistance.
+
+[50]    Mr Dikoko's statement before the Standing Committee therefore does not enjoy immunity under section 161 of the Constitution, section 28 of the Structures Act or section 3 of the North West Structures Act. Similarly, section 117 of the Constitution and sections 2, 9, 10 and 35 of the North West Privileges Act do not afford him the privilege for which he contends. The appeal against the decision of the High Court denying him privilege therefore fails.
+
+ 
+[2006] JOL 18035 (CC) at 16
+
+Mr Dikoko's appeal against the quantum of damages
+
+[51]    The High Court, having found Mr Dikoko liable for defamation, awarded damages against him in the amount of R110 000. He appealed against the award, claiming that it is excessively disproportionate or grossly unreasonable39 and not commensurate with the limited publication of the statement as well as the slight injury to Mr Mokhatla's reputation and contended for this Court to substitute its own award of damages for that of the High Court.
+
+[52]    The emerging question is whether this Court has jurisdiction to review the High Court award. First to determine is whether the award of damages is a constitutional issue falling within the jurisdiction of this Court. Should this Court have jurisdiction to review the award, the next question would be whether in our jurisprudence and under the applicable legal principles this Court should do so.
+
+[53]    I agree with Moseneke DCJ's finding in paragraph [92] of his judgment that the extent of damages for defamation has implications for the relationship between dignity and freedom of expression. Robust awards will indeed have a "chilling effect" on freedom of expression.40
+
+[54]    Moseneke DCJ assumes without deciding that the amount of damages in a defamation suit is a constitutional matter. My view is that when a damages award is excessive, as this judgment finds, it has the effect of curbing freedom of speech for fear of repercussions that might flow from exercising that freedom guaranteed and protected in the Constitution. In my view, therefore, we are clearly seized with a constitutional matter. What remains to be determined is whether this Court should interfere with the High Court's award.
+
+[55]    In that regard, Mr Mokhatla submits this Court should only interfere with the damages award if leave to appeal on the constitutional issue is granted. Having granted leave, there can be no objection on the part of Mr Mokhatla for this Court to redetermine the High Court's assessment.
+
+[56]    Even if this Court has jurisdiction to review the quantum, Mr Mokhatla submitted, being in the same position as any appellate court, it ought not to interfere with the High Court's award merely for the reason that its own  
+[2006] JOL 18035 (CC) at 17
+assessment would yield a different amount. What would additionally be required, Mr Mokhatla argues, is for this Court to make a finding that the High Court's award of damages was manifestly unreasonable.
+
+[57]    The approach of the Supreme Court of Appeal to the question whether it can replace a trial court's award of damages has been that the amount of damages to be awarded is in the discretion of the trial court but that that court must exercise its discretion reasonably.41 In Sandler v Wholesale Supplies Ltd42 the Supreme Court of Appeal held that should an appellate court find that the trial court had misdirected itself with regard to material facts or in its approach to the assessment, or having considered all the facts and circumstances of the case, the trial court's assessment of damages is markedly different to that of the appellate court, it not only has the discretion but is obliged to substitute its own assessment for that of the trial court. In its determination, the court considers whether the amount of damages which the trial court had awarded was so palpably inadequate as to be out of proportion to the injury inflicted.43
+
+[58]    The Supreme Court of Appeal will therefore only interfere with an award of damages if it finds that the award of the trial court was palpably excessive, clearly disproportionate in the circumstances of the case,44 grossly extravagant or unreasonable45 or so high as to be manifestly unreasonable.46 An appellate court may therefore interfere if a trial court is found to have misdirected itself in its assessment of damages.47
+
+[59]    In S v Basson48 this Court considered the approach which an appellate court should take to the exercise of a discretion by a trial court. Noting two different types of discretion, the court stated: "[A] discretion in the sense that the [C]ourt must have regard to a number of factors before coming to a decision",49 which I will refer to as a broad discretion, and a "strong" or "true" discretion which is said to exist when the court has a range of options available to it.50 Regarding a broad discretion, an appellate court can interfere if it is of the view that it would have exercised its discretion differently on the merits.51 With a "strong" or "true" discretion52 however, an appellate court can interfere only when shown that the trial court exercised its discretion on the basis of wrong principles of law or a mistaken view of the facts.53
+
+[60]    In the approach of the Supreme Court of Appeal, an award of damages is a matter which is best left to a trial court to determine. The court has therefore held that it will not interfere with a trial court's award if it is of the view that on a  
+[2006] JOL 18035 (CC) at 18
+consideration of all of the relevant facts and circumstances in a particular case it would have come to a different assessment. Rather, the court has held that it can only substitute its own assessment for that of the trial court if it is of the view that the trial court's assessment was manifestly incorrect or if its assessment differs markedly from that of the trial court. An assessment which is markedly different to that of a trial court indicates that the court considered that the trial court had misdirected itself on the law or the facts before it. The trial court's discretion to award damages is therefore, in my view, a "true" discretion, in which this Court can interfere if it is of the view that the High Court, in its assessment, misdirected itself either on the law or on the facts before it.
+
+[61]    When the High Court assessed the quantum it took into account and emphasised relevant factors which demonstrated the serious nature of the defamation. Relying on the dictum in Skinner v Shapiro (1)54 the High Court simply stated without motivation:
+
+"[W]hen this dictum is applied to the facts of the present case it is clear that the plaintiff's position in society; the relationship that existed between the parties; the absence of an apology and the seriousness of the allegations all weigh against the defendant." 
+[2006] JOL 18035 (CC) at 19
+After considering that all these factors weighed against Mr Dikoko the court found that it was reasonable to make an award of damages of R110 000.
+
+Assessment of the quantum
+
+[62]    The law of defamation is based on the actio injuriarum, a flexible Roman law remedy which afforded the right to claim damages to a person whose personality rights had been impaired by another.55 The action is designed to afford personal satisfaction for an impairment of a personality right56 and became a general remedy for any vexatious violation of a person's right to his dignity and reputation.57 A number of factors arising from the facts and circumstances of the case are taken into account in assessing the amount of damages.
+
+[63]    Mr Dikoko has not apologised to Mr Mokhatla for his defamatory statement. The question arises as to what effect an apology should have on the amount of damages to be awarded. In Mineworkers Investment Co (Pty) Ltd v Modibane58 (the Mineworkers case) the plaintiff had brought two separate defamation actions against the defendant, which were consolidated and set down together for trial. The order which the plaintiff requested was an order for damages in the event that the defendant did not publish within 10 days of the court's order an apology and a retraction of the statements which he had made.59 Willis J proceeded to consider whether a defendant in a defamation action could be ordered to apologise. The court considered a remedy which had existed in Roman-Dutch law, known as the amende honorable. In describing this remedy he referred to Melius de Villiers in The Roman and Roman-Dutch Law of Injuries at 177, which stated the following:60
+
+"In the systems of jurisprudence founded on Roman law a legal remedy has been introduced which was entirely unknown to the Romans, known as the amende honorable . . . This remedy took two forms. In the first place, there is the palinodia, recantatio or retractio, that is, a declaration by the person who uttered or published the defamatory words or expressions concerning another, to the  
+[2006] JOL 18035 (CC) at 20
+effect that he withdraws such words or expressions as being untrue; and it is applied when such words or expressions are in fact untrue. In the second place there is the deprecatio or apology, which is an acknowledgment by the person who uttered or published concerning another anything which if untrue would be defamatory, or who committed a real injury, that he has done wrong and a prayer that he may be forgiven."
+
+[64]    Willis J held further that the remedy had fallen into disuse in our law, mainly because in Roman-Dutch law it was to be enforced by means of civil imprisonment, a remedy of which the courts disapproved. This did not mean it had been abrogated by disuse; it still formed part of our law and:
+
+"[E]ven if I am wrong in the conclusion that the amende honorable is still part of our law, there are other reasons why I believe a remedy analogous thereto should be available. I agree with the submission of Mr Chaskalson that if the only other remedy available in a defamation action is damages, then very often an appropriate balance will not be struck between the protection of reputation on the one hand and freedom of expression on the other. It fails in two respects: (i) often, it does not afford an adequate protection to reputation and (ii) it can, at least indirectly, impose restrictions on freedom of expression. Awards of damages can ruin defendants financially and this risk can operate to restrict information being published which may indeed be in the public interest. The uncertainty as to whether the 'truth plus public benefit' defence will succeed can inhibit freedom of expression. As Hefer JA, as he then was, said in the case of National Media Ltd v Bogoshi (supra at 1201G–I):
+
+ 'Much has been written about the "chilling" effect of defamation actions but nothing can be more chilling than the prospect of being mulcted in damages for even the slightest error.'"61
+
+Furthermore, the harm done by a defamatory statement is damage to the reputation of a person. A public apology will usually be far less costly than an award of damages. It can set the record straight; restore the damaged reputation giving the necessary satisfaction; avoid serious financial harm to the culprit and encourage, rather than inhibit, freedom of expression.
+
+[65]    A somewhat different approach was adopted in Young v Shaikh.62 In that matter statements made during an interview with the defendant on a South African  
+[2006] JOL 18035 (CC) at 21
+television station on 21 November 2001 and repeated on 26 November 2001, led the plaintiff to claim damages in the amount of R250 000. In his plea the defendant apologised to the plaintiff unconditionally and unreservedly and, in addition, tendered to pay his costs up to and including the consideration of his plea.63 The defendant submitted that the plaintiff should have claimed an apology instead of damages and should have been satisfied with the apology tendered in the plea. As authority for this submission reference was made to the dictum of Willis J in the Mineworkers case.64
+
+[66]    The court nonetheless held that even if the amende honorable was still part of South African law, an apology in the circumstances of that case would not serve the interests of justice. Freedom of expression, it held, does not include the right to attack falsely the integrity of a fellow citizen for selfish reasons which have nothing to do with "public benefit".65 It further held that if the award which it intended to make might have a chilling effect on possible future and similarly baseless and selfish attacks on the integrity of others it would be an additional reason not to make use of the amende honorable.66 In addition it was found that an apology in a plea given half-heartedly in evidence could not be regarded as adequate. An aggravating factor was that the defendant had not shown any compunction when attacking the plaintiff's integrity and was indifferent to any financial harm which his baseless accusations could have caused.67
+
+[67]    The case illustrates that whether or not the amende honorable technically still forms part of our law, it is important that once an apology is tendered as compensation or part thereof, it should be sincere and adequate in the context of each case. When considering the purpose of compensation in defamation cases the true value of a sincere and adequate apology, the publication of which should be as prominent as that of the defamatory statement, and/or a retraction as a compensatory measure restoring the integrity and human dignity of the plaintiff, cannot be exaggerated.68 Far more is involved than protecting freedom of speech from inordinate damages claims.
+
+[68]    In our constitutional democracy the basic constitutional value of human dignity relates closely to ubuntu or botho, an idea based on deep respect for the humanity of another. Traditional law and culture have long considered one of the principal objectives of the law to be the restoration of harmonious human and social relationships where they have been ruptured by an infraction of community norms. It should be a goal of our law to emphasise, in cases of compensation for defamation, the re-establishment of harmony in the relationship between the parties, rather than to enlarge the hole in the defendant's pocket, something more likely to increase acrimony, push the parties apart and even cause the defendant  
+[2006] JOL 18035 (CC) at 22
+financial ruin. The primary purpose of a compensatory measure, after all, is to restore the dignity of a plaintiff who has suffered the damage and not to punish a defendant.69 A remedy based on the idea of ubuntu or botho could go much further in restoring human dignity than an imposed monetary award in which the size of the victory is measured by the quantum ordered and the parties are further estranged rather than brought together by the legal process. It could indeed give better appreciation and sensitise a defendant as to the hurtful impact of his or her unlawful actions, similar to the emerging idea of restorative justice in our sentencing laws.70
+
+[69]    The focus on monetary compensation diverts attention from two considerations that should be basic to defamation law. The first is that the reparation sought is essentially for injury to one's honour, dignity and reputation, and not to one's pocket. The second is that courts should attempt, wherever feasible, to re-establish a dignified and respectful relationship between the parties. Because an apology serves to recognise the human dignity of the plaintiff, thus acknowledging, in the true sense of ubuntu, his or her inner humanity, the resultant harmony would serve the good of both the plaintiff and the defendant. Whether the amende honorable is part of our law or not, our law in this area should be developed in the light of the values of ubuntu emphasising restorative rather than retributive justice. The goal should be to knit together shattered relationships in the community and encourage across-the-board respect for the basic norms of human and social interdependence. It is an area where courts should be pro-active encouraging apology and mutual understanding wherever possible.
+
+[70]    This case suggests itself as one where perhaps more could have been done to facilitate an apology. The parties worked closely together in the same environment. An apology or retraction by Mr Dikoko could have gone a long way. At no stage did he offer an apology or a retraction of his false and damaging accusations. The evidence that he led before the High Court, testifying to the high regard he had for Mr Mokhatla, was of an abstract nature and fell far short of a direct apology for the specific and baseless charges he had made. This is a case where it might have been appropriate to order an apology if this had been a majority judgment. However, considering that this is a minority judgment it is not appropriate. Having said that, what remains is to consider whether the monetary award made by the High Court can be interfered with.
+
+[71]    When assessing damages for defamation, courts have in the past considered a range of factors arising from the circumstances and facts of the case: the nature and gravity of the defamatory words; falseness of the statement; malice on the part of the defendant; rank or social status of the parties; the absence or nature of an apology; the nature and extent of the publication; and the general conduct of the  
+[2006] JOL 18035 (CC) at 23
+defendant.71 The court must therefore have regard to all the circumstances of a case where the assessment is always context specific. The list is non-exhaustive.72 Although earlier cases of a similar nature give guidance, they must always be applied with the necessary circumspection.
+
+[72]    In Charles Mogale73 the SCA found that a court of first instance had misdirected itself when it did not show what factors had been taken into account in the determination of the award of damages. Similarly, if a trial court mentions expressly what factors it had taken into account and determined as relevant for assessing the award, it is reasonable to conclude that other factors not referred to at all in the assessment had not been taken into account. In this case Mr Dikoko's defence against what he submitted was an excessive award is that the publication of the statement was limited; the statement was speculative; he did not have the intention to injure Mr Mokhatla and the statement was made in the context of a meeting aimed at overseeing and managing public funds in which councillors should be given the scope to articulate their views and opinions. He argues further that there is no evidence that the persons at the meeting drew any negative inferences from the statement. None of these defences were shown anywhere in the judgment to have been considered. The factors mentioned and shown to have been considered all weighed against Mr Dikoko, as the court correctly observed. Those not considered, could, in my view, have mitigated the gravity of the defamation and affected the award and the determination of the quantum accordingly.74
+
+[73]    When factors that could have a mitigating effect on the seriousness of the defamation are not shown to have been taken into consideration a difficulty arises. The difficulty is that unless shown this Court will never know. In Charles Mogale,75 the court stated that:
+
+"A court of appeal may also interfere if the court of first instance materially misdirected itself and in this regard it is important for a court of second instance to know what factors a trial court has taken into account in determining the award . . ."76
+
+[74]    It is therefore important that all relevant factors be taken into account when assessing damages for defamation. Also important is to strike an equitable balance in the determination of the gravity of the damage. It is for this reason too that a trial court must show that it has considered those relevant factors which not only aggravate but also mitigate the seriousness of the damages. Hulley v Cox,77 considering quantum in a different context,78 emphasised the importance of equity in the assessment of damages and held: 
+
+"The amount . . . should be estimated on  
+[2006] JOL 18035 (CC) at 24
+an equitable basis on a consideration of all the circumstances."79
+
+[75]    Equity in determining a damages award for defamation is therefore an important consideration in the context of the purpose of a damages award aptly expressed in Lynch80 as solace to a plaintiff's wounded feelings and not to penalise or deter people from doing what the defendant has done. Even if a compensatory award may have deterrent effect, its purpose is not to punish. Clearly, punishment and deterrence are functions of the criminal law. Not the law of delict.81
+
+[76]    In our law a damages award therefore does not serve to punish for the act of defamation. It principally aims to serve as compensation for damage caused by the defamation, vindicating the victim's dignity, reputation and integrity.82 Alternatively, it serves to console.83 For the reasons stated above and in particular having disregarded relevant factors which could have mitigated the damage caused by the defamation, the High Court, in my view, had materially misdirected itself thereby arriving at an unreasonable award. The grounds for this Court to make its own assessment of the damages are therefore sufficient and I proceed to do so.
+
+[77]    The High Court had taken into account Mr Mokhatla's position in society, the relationship between Mr Dikoko and Mr Mokhatla, the absence of an apology and the seriousness of the allegations made by Mr Dikoko against Mr Mokhatla. It said so expressly. Additional relevant factors not mentioned and, in my view, not given due regard are: the nature of the defamatory statement; the damaging effect that it had on Mr Mokhatla; and the nature and extent of circulation of the publication.84
+
+[78]    The untruthful nature of the statement; denying responsibility for his tardiness and placing all blame on Mr Mokhatla for the predicament which he created for himself are factors which aggravate the damage done not only to Mr Mokhatla's personal reputation, dignity and esteem, but also to his professional integrity. Although Mr Mokhatla has no doubt suffered serious damage to his professional integrity, the damage was, in my view, not fatal to his career. At the time the proceedings were launched he was municipal manager of the Klerksdorp Municipal Council, a position of high public office, directly relevant to his experience, performance and trustworthiness as CEO of the Council and his integrity as a person and a professional in the management of local government. Although Mr Mokhatla had been defamed largely in local and provincial government circles, having been appointed to this high public office within the same government circles, is demonstration that his integrity as a trustworthy public manager in local government is still largely intact despite Mr Dikoko's statement. 
+
+ 
+[2006] JOL 18035 (CC) at 25
+
+This is an important mitigating factor, which the High Court should not have disregarded.
+
+[79]    Mr Dikoko's statements were made in the Standing Committee and were published only in the local press. The statements therefore had limited circulation. Although Mr Mokhatla contended that this local publication did more damage to his career than would publication at a national level, in that his professional reputation was more at stake in local circles, his professional reputation does not seem to have been fatally dented. As indicated above, his current position as municipal manager after he had left the Council where he served as CEO seems to suggest that he is still held in high esteem in local government circles and in the province. This too, is a factor which, had the High Court taken into account would have influenced its assessment of damages.
+
+[80]    In making its award of damages, the High Court did not exercise its discretion reasonably. It did not take into account factors which mitigate the damages award. Mr Dikoko contends that an amount of R20 000 to R30 000 would be adequate. The High Court made an award of R110 000. For reasons outlined above85 I conclude that in the circumstances of this case an award in the amount of R50 000 would have been appropriate. I would therefore have replaced the High Court's order that Mr Dikoko pay damages in the amount R110 000 with an order that he pay damages in the amount of R50 000.
+
+ 
+[2006] JOL 18035 (CC) at 26
+
+Costs
+
+[81]    Given that Mr Dikoko is partially successful I would have proposed there be no order as to costs.
+
+The order
+
+[82]    I would further have proposed that the application for leave to appeal be granted and that the High Court order be set aside and replaced with an order for damages in the amount of R50 000.
+
+[83]    The order of the court appears in the judgment of Moseneke DCJ.
+
+(Langa CJ, Moseneke DCJ, Madala, Ngcobo, Nkabinde, O'Regan, Sachs, Skweyiya, Van der Westhuizen and Yacoob JJ concurred in the judgment of Mokgoro J on the merits. Nkabinde and Sachs JJ concurred in the judgment of Mokgoro J on the issue of quantum. )
+
+MOSENEKE DCJ:
+
+[84]    I have had the benefit of reading the judgment of Mokgoro J. I am in agreement with the outcome she proposes that the application for leave to appeal  
+[2006] JOL 18035 (CC) at 27
+be granted. I also concur that the appeal against the decision of the High Court holding Mr Dikoko liable for defamation has no merit and should fail for the reasons she admirably advances. However, Mokgoro J concludes that the appeal of Mr Dikoko against the quantum of damages awarded by the High Court has merit and should succeed. I respectfully disagree.
+
+[85]    Skweyiya J has written a separate dissenting judgment. He concludes that the application for leave to appeal against the quantum of defamation damages must fail because this Court has no power to entertain the appeal. I agree that the appeal must fail. However, this he says because, in his view, the assessment of defamation damages, particularly in this matter, is neither a constitutional matter, nor a matter connected to a constitutional matter. Given the conclusion I arrive at, I do not consider it necessary to decide whether the assessment of damages raises a constitutional issue.
+
+[86]    In another separate judgment, Sachs J concurs in the minority judgment of Mokgoro J that the damages awarded are excessive and must be reduced. In addition Sachs J finds that monetary compensation alone is often not appropriate relief for defamation and that courts need to explore the wide and creative possibilities afforded by restorative justice as contemplated by the indigenous values of ubuntu or botho. Persuasive as this line of reasoning may be, it raises issues which never confronted the trial court and therefore do not properly arise before us.
+
+[87]    It will be remembered that the High Court made an award of R110 000 in damages against the applicant. Mokgoro J takes the view that in all the circumstances of this case a proper award should be no more than half of the original award and that accordingly an award of R50 000 should replace that of the High Court. In her view, the principal misdirection of the High Court is that it omitted from its assessment of damages factors that could mitigate the amount of the award. The omission, she finds, makes the award palpably excessive and significantly higher than her estimation to the extent that the award is unreasonable. Relying on the authority of Hulley v Cox,1 Mokgoro J holds that once an award is unreasonable an appellate court is obliged to substitute it with its own assessment.
+
+[88]    Two obvious issues surface. They are whether this Court has the power to review the award of damages and, if so, whether it should do so. The first issue speaks to whether an assessment of defamation damages is a constitutional matter or an issue connected to a decision on a constitutional matter.2 The second poses the question whether any ground exists to interfere with the award of the trial court.
+
+ 
+[2006] JOL 18035 (CC) at 28
+
+[89]    Counsel for the respondent argued that the application for leave to appeal on the quantum of damages is incompetent because the assessment of defamation damages is not a constitutional matter, but rather a matter pre-eminently within the discretion of a trial court. He asserted that even if the determination of delictual damages passes as a constitutional matter, an appeal against the award would ordinarily lie with the Supreme Court of Appeal3 and not with this Court. If, however, we were minded to interfere with the award, he urged that we remit the award to the trial court for its reconsideration.
+
+[90]    It seems to me that the delict of defamation implicates human dignity4 (which includes reputation)5 on the one side and freedom of expression6 on the other. Both are protected in our Bill of Rights. It may be that it is a constitutional matter because although the remedy of sentimental damages is located within the common law, it is nonetheless "appropriate relief" within the meaning of section 387 of the Constitution. In Fose v Minister of Safety & Security8 this Court assumed but stopped short of deciding whether "appropriate relief" in section 7(4)(a)9 of the interim Constitution includes an award for damages where the award is required to enforce or protect rights in the Bill of Rights. The court, however, made it clear that:
+
+"[T]here is no reason in principle why 'appropriate relief' should not include an award of damages, where such an award is necessary to protect and enforce [Chapter] 3 rights. Such awards are made to compensate persons who have suffered loss as a result of the breach of a statutory right if, on a proper construction of the statute in question, it was the Legislature's intention that such damages should be payable, and it would be strange if damages could not be claimed for, at least, loss occasioned by the breach of a right vested in the claimant by the supreme law. When it would be appropriate to do so, and what the measure of damages should be will depend on the circumstances of each case and the particular right which has been infringed"10 (footnotes omitted).
+
+[91]    Although these remarks in Fose were directed at the remedy provision of the interim Constitution, it seems to me that the same considerations apply to the "appropriate relief" envisaged in section 38 of the Constitution when an award of damages is necessary to vindicate, that is to protect and enforce rights, which aside their common-law pedigree are also enshrined in the Bill of Rights. There appears to be no sound reason why common-law remedies, which vindicate constitutionally entrenched rights, should not pass for appropriate relief within the reach of section 38. If anything, the Constitution is explicit that subject to its supremacy, it does not deny the existence of any other rights that are recognised and conferred by the common law.11
+
+ 
+[2006] JOL 18035 (CC) at 29
+
+[92]    The extent of sentimental damages for defamation has implications for the properly mediated connection between dignity and free expression. It is plainly so that overly excessive amounts of damages will deter free speech and foster intolerance to it. As it is often said, robust awards will have a "chilling effect" on free expression, which is the lifeblood of an open and democratic society cherished by our Constitution. On the other hand, as Smalberger JA observed in Van der Berg v Cooper & Lybrand Trust (Pty) Ltd & others12 "a person whose dignity has unlawfully been impugned deserves appropriate financial recompence to assuage his or her wounded feelings". I therefore think there is a very strong argument to be made that the assessment of damages in a defamation suit is a constitutional matter and I will assume in favour of the applicant that it is. However, as will appear from the reasoning below, it is not necessary to finally decide the issue in this case.
+
+[93]    The next question is whether this Court should interfere with the extent of the compensation award? It is a well settled general rule that the assessment of sentimental damages properly resides within the province of a trial court.13 It is better suited to the task having had the opportunity to evaluate at first hand the evidence and demeanour of the parties. In fixing damages the trial court is entrusted with a wide discretion which must be exercised reasonably in the light of all the germane facts and other relevant factors. In defamation cases in particular, compensation is for sentimental damages which perforce are inexact and no more than a conjectural estimate. They cannot readily be translated into monetary terms. The discretion exercised in such cases, therefore, falls within the category of discretion strictly so called.14
+
+[94]    By its nature, this general rule imposes a limitation on an appellate court. In Neethling v Weekly Mail & others15 Hoexter JA explains that in the absence of special circumstances an appellate court should be slow to depart from the general rule that damages should be left to the determination of the trial court. Should an appellate court opt nevertheless to exercise the power it would "[represent] an encroachment upon a function which is intrinsic to the trial court".16
+
+[95]    Special circumstances which justify encroachment are said to be present when the trial court has misdirected itself in the sense that it has awarded high or low damages on the wrong principle or when in the opinion of the appellate court the award is so unreasonable as to be grossly out of proportion to the injury inflicted.17 It must, however, be emphasised that the mere fact that the damages seem high is no reason to cut them down. In other words, the mere preference of a court with appellate power is not sufficient to upset a damages award. The  
+[2006] JOL 18035 (CC) at 30
+standard at issue is not whether or not the trial court is correct but whether there is a glaring disproportionality between the amount awarded and the injury to be assuaged. Ultimately, the test is whether in all the circumstances of the case the compensation is a reasonable and just measure of the harm.
+
+[96]    Mokgoro J finds that the quantum of damages awarded is unreasonable.18 It is higher because none of the factors, which would have the effect of mitigating the gravity of the defamation, have been shown to have been considered. In her view, the trial court appears to have considered only factors that aggravate the seriousness of the defamation and damages. She finds that the following factors "have not been given due regard"; the nature of the defamatory statements; the effect of the statements on the respondent; and the nature and extent of the circulation of the publication.19
+
+[97]    As we have seen, the principal charge against the High Court is that it omitted to have regard to all factors relevant in assessing damages. I am constrained to disagree. In my view, the approach of the trial court to fixing damages should not be evaluated by the discussion in the judgment of the quantum of the compensation only. It must be gathered from the judgment read as a whole. One has to read the judgment, inclusive of the discussion on the merits and quantum, as a whole. The mere fact that certain considerations relevant to quantum are mentioned in the discussion on the merits only should not lead to the inference that they were not in the mind of the trial court when it determined the extent of the damages. The very nature of an enquiry into whether an expression is a defamatory matter requires an examination of the very factors Mokgoro J says the trial court has omitted. The body of the judgment of the trial court in fact traverses, as it must, the nature of the defamatory statement, the scope of its publication and effect and whether the respondent took any steps to rectify the harm done.
+
+[98]    First, the trial court cites a passage from Skinner v Shapiro (1)20 which narrates the factors relevant to fixing defamation damages. The list is comprehensive and certainly includes factors which go well beyond those which the judgment of Mokgoro J draws attention to as absent. I have no ground to infer that the trial court cited the relevant factors but ignored them in ascertaining just compensation.
+
+[99]    In the judgment on the merits, the trial court discusses several factors relevant to quantum of damages. One of these is that the applicant is an unimpressive witness. His defamatory comments are speculative and unfair towards the respondent who then was the Chief Executive Officer or town clerk of the municipality concerned. All the respondent did was his official duty. As  
+[2006] JOL 18035 (CC) at 31
+chairperson of the council of a municipality, the applicant had a duty to deal with public funds in a lawful and accountable manner. Despite many notices by the respondent, he ran excessive cell phone accounts to a point where the Provincial Auditor-General raised concerns. At a point the owed amount ran up to R21 000. He refused to accept responsibility and that he was to blame for not paying his excess account. When he was held accountable before the Public Accounts Standing Committee he resorted to an unnecessary and gratuitous attack on the respondent. He claimed that the respondent deliberately allowed the cell phone indebtedness to the municipality to increase to a large amount in order to afford the political opponents of the applicant or the respondent himself a basis for an attack on the respondent.
+
+[100]    Before the Public Accounts Standing Committee and in the absence of the respondent the applicant erupted into an uninvited attack on the respondent. The respondent was not there to defend his good name. The defamatory remarks were again published the following day in a local newspaper in Klerksdorp.
+
+[101]    The trial court was fully alive to the personal circumstances of both parties. In particular the senior employment of the respondent at the time of the trial as a municipal manager of Klerksdorp. The court has recorded in detail his distinguished academic and work record. I think it is indeed relevant that the defamation was to a group of people who have oversight of the work of the respondent. Moreover there has been no formal apology up to now. The applicant's response after the defamatory event has been to litigate up to this forum seeking to hide behind the skirts of his public office.
+
+[102]    I would not interfere with the award of damages made by the High Court. I would instead find that there is no reasonable prospect that this Court would alter the award of the trial court.
+
+[103]    In my view, this is an appropriate matter in which costs should follow the result. Although in constitutional matters the ordinary rule is that an unsuccessful plaintiff who has sought to rely on constitutional rights is not ordinarily required to pay costs, particularly when litigating against the State, I do not think that that rule should be followed in this case. The respondent was admittedly defamed by the applicant. The applicant sought to raise a range of constitutional arguments in this Court not proffered before and has not been successful. The respondent, as a private citizen, has had to come to this Court to oppose those arguments. It seems fair and equitable in the circumstances that the applicant should pay the costs of the respondent.
+
+[104]    As this judgment has the support of the majority of the members of the court it is appropriate that it should reflect the court's order. The order is as follows:
+
+The application for leave to appeal is granted.
+The appeal is dismissed.
+The applicant is ordered to pay the costs of the respondent, such costs to include the costs of two counsel.
+
+(Langa CJ, Madala, Ngcobo, O'Regan, Van der Westhuizen and Yacoob JJ concurred in the judgment of Moseneke DCJ.)
+
+ 
+[2006] JOL 18035 (CC) at 32
+
+SACHS J:
+
+[105]    In concurring with the judgment of Mokgoro J, I offer reasons for proposing a remedial shift in the law of defamation from almost exclusive preoccupation with monetary awards, towards a more flexible and broadly-based approach that involves and encourages apology. Developing the common law in this way would, consistently with our new constitutional ethos, facilitate interpersonal  
+[2006] JOL 18035 (CC) at 33
+repair and the restoration of social harmony.
+
+[106]    The facts of this case illustrate well the limitations of responding to injury to a person's good name simply by making a monetary award. When trying to evade responsibility for his grossly excessive use of a municipal cell phone, Mr Dikoko, the mayor, uttered manifestly silly and self-serving words to the Public Accounts Standing Committee about Mr Mokhatla, the municipal manager. Mr Mokhatla was entitled to see the mayor publicly rebuked, entitled to have any possible doubts about his own integrity cleared up, entitled to a retraction of the slur, and entitled to an apology. But he was not, in my opinion, entitled to R110 000.
+
+[107]    Hard-boiled members of the committee, who have heard every exculpatory story under the sun, could scarcely have taken his words seriously. And certainly the readers of the local newspaper, in whose columns his exchange with the committee was repeated, could be expected to have taken his bluster with a large dose of salt. Indeed, made in the context of pitiful evasions to the Accounts Committee, the utterances were so blatantly incredible and unworthy as to demean their author rather than the person blamed. Above all, they were delivered on the fringes of protected institutional speech, calling for institutional remedies and apology, rather than payment of an incongruously large and punitive sum.
+
+[108]    It might well be that the issue of quantum of damages would generally not on its own qualify as being a constitutional one falling within the jurisdiction of this Court. In this case, however, it arises on the periphery of and in connection with issues of a manifestly constitutional character. Here were public figures being called to account by a public institution for behaviour or misbehaviour in an official setting. Even although qualified privilege was not pleaded as a defence to the claim, the context should have had a significant bearing on the appropriateness of any damages to be awarded. The mayor was testifying before a governmental committee. Witnesses before such investigative committees should feel free to speak their mind. As a matter of general principle they should not be made to fear heavy damages suits if they either overstep the mark in the telling, or do not have iron-clad proof to substantiate their testimony. The chilling effect of punitive awards would not only be felt by officials caught with their metaphorical pants down, but by honest whistleblowers and by newspapers simply carrying testimonial exposures.
+
+[109]    There is a further and deeper problem with damages awards in defamation cases. They measure something so intrinsic to human dignity as a person's reputation and honour as if these were marketplace commodities. Unlike businesses, honour is not quoted on the Stock Exchange. The true and lasting solace for the person wrongly injured is the vindication by the court of his or her reputation in the community. The greatest prize is to walk away with head high,  
+[2006] JOL 18035 (CC) at 34
+knowing that even the traducer has acknowledged the injustice of the slur.
+
+[110]    There is something conceptually incongruous in attempting to establish a proportionate relationship between vindication of a reputation, on the one hand, and determining a sum of money as compensation, on the other. The damaged reputation is either restored to what it was, or it is not. It cannot be more restored by a higher award, and less restored by a lower one. It is the judicial finding in favour of the integrity of the complainant that vindicates his or her reputation, not the amount of money he or she ends up being able to deposit in the bank.
+
+[111]    The notion that the value of a person's reputation has to be expressed in rands in fact carries the risk of undermining the very thing the law is seeking to vindicate, namely the intangible, socially-constructed and intensely meaningful good name of the injured person. The specific nature of the injury at issue requires a sensitive judicial response that goes beyond the ordinary alertness that courts should be expected to display to encourage settlement between litigants. As the law is currently applied, defamation proceedings tend to unfold in a way that exacerbates the ruptured relationship between the parties, driving them further apart rather than bringing them closer together. For the one to win, the other must lose, the scorecard being measured in a surplus of rands for the victor.
+
+[112]    What is called for is greater scope and encouragement for enabling the reparative value of retraction and apology to be introduced into the proceedings. In jurisprudential terms, this would necessitate reconceiving the available remedies so as to focus more on the human and less on the patrimonial dimensions of the problem. The principal goal should be repair rather than punishment. To achieve this objective requires making greater allowance in defamation proceedings for acknowledging the constitutional values of ubuntu – botho.
+
+[113]    Ubuntu – botho is more than a phrase to be invoked from time to time to add a gracious and affirmative gloss to a legal finding already arrived at. It is intrinsic to and constitutive of our constitutional culture. Historically it was foundational to the spirit of reconciliation and bridge-building that enabled our deeply traumatised society to overcome and transcend the divisions of the past.1 In present day terms it has an enduring and creative character, representing the element of human solidarity that binds together liberty and equality to create an affirmative and mutually supportive triad of central constitutional values. If feeds pervasively into and enriches the fundamental rights enshrined in the Constitution. As this Court said in Port Elizabeth Municipality v Various Occupiers:2
+
+"The spirit of ubuntu, part of the deep cultural heritage of the majority of the population, suffuses the whole constitutional order. It combines individual rights with a communitarian philosophy. It is a unifying motif of the Bill of Rights,  
+[2006] JOL 18035 (CC) at 35
+which is nothing if not a structured, institutionalised and operational declaration in our evolving new society of the need for human interdependence, respect and concern."3
+
+[114]    Ubuntu – botho is highly consonant with rapidly evolving international notions of restorative justice. Deeply rooted in our society, it links up with worldwide striving to develop restorative systems of justice based on reparative rather than purely punitive principles. The key elements of restorative justice have been identified as encounter, reparation, reintegration and participation.4 Encounter (dialogue) enables the victims and offenders to talk about the hurt caused and how the parties are to get on in future. Reparation focuses on repairing the harm that has been done rather than on doling out punishment. Reintegration into the community depends upon the achievement of mutual respect for and mutual commitment to one another. And participation presupposes a less formal encounter between the parties that allows other people close to them to participate. These concepts harmonise well with processes well known to traditional forms of dispute resolution in our country, processes that have long been, and continue to be, underpinned by the philosophy of ubuntu – botho.
+
+[115]    Like the principles of restorative justice, the philosophy of ubuntu – botho has usually been invoked in relation to criminal law, and especially with reference to child justice. Yet there is no reason why it should be restricted to those areas. It has already influenced our jurisprudence in respect of such widely divergent issues as capital punishment5 and the manner in which the courts should deal with persons threatened with eviction from rudimentary shelters on land unlawfully occupied.6 Recently it was applied in creative fashion in the High Court to combine a suspended custodial sentence in a homicide case with an apology from a senior representative of the family of the accused, as requested and acknowledged by the mother of the deceased.7
+
+[116]    I can think of few processes that would be more amenable in appropriate cases to the influence of the affirming values of ubuntu – botho than those concerned with seeking simultaneously to restore a person's public honour while assuaging interpersonal trauma and healing social wounds. In this connection attention should be paid to the traditional Roman-Dutch law concept of the amende honorable referred to in Mokgoro J's judgment.8 Although ubuntu – botho and the amende honorable are expressed in different languages intrinsic to separate legal cultures, they share the same underlying philosophy and goal. Both are directed towards promoting face-to-face encounter between the parties, so as to facilitate resolution in public of their differences and the restoration of harmony in the community. In both legal cultures the centrepiece of the process is to create  
+[2006] JOL 18035 (CC) at 36
+conditions to facilitate the achievement, if at all possible, of an apology honestly offered, and generously accepted.
+
+[117]    Thus, although I believe the actual award made by the High Court in this matter was way over the top, and accordingly associate myself with Mokgoro J's minority finding in this regard, my concern is not restricted to the excessiveness of the amount. It lies primarily with the fact that the law, as presently understood and applied, does far too little to encourage repair and reconciliation between the parties. In this respect the High Court cannot be faulted. The concerns expressed above were not raised in the papers or addressed in argument before it. The court was simply working with a well-tried remedy in the ordinary way. Unfortunately, the hydraulic pressure on all concerned to go with the traditional legal flow inevitably produces a set of rules that are self-referential and self-perpetuating. The whole forensic mindset, as well as the way evidence is led and arguments are presented, is functionally and exclusively geared towards enlarging or restricting the amount of damages to be awarded, rather than towards securing an apology. In my view, this fixed concentration on quantum requires amendment. Greater scope has to be given for reparatory remedies.
+
+[118]    It is noteworthy that in the context of hate speech the Legislature has indicated its support for the new remedy of apology. Thus the Equality Court is empowered to order that an apology be made in addition to or in lieu of other remedies9 I believe that the values embodied in our Constitution encourage something similar being developed in relation to defamation proceedings. In the light of the core constitutional values of ubuntu – botho, trial courts should feel encouraged pro-actively to explore mechanisms for shifting the emphasis from near-exclusive attention to quantum, towards searching for processes which enhance the possibilities of resolving the dispute between the parties, and achieving a measure of dignified reconciliation. The problem is that if the vision of the law remains as tunnelled as it is today, parties will be discouraged from seeking to repair their relationship through direct and honourable engagement with each other. Apology will continue to be seen primarily as a tactical means of reducing damages rather as a principled modality for clearing the air and restoring a measure of mutual respect.
+
+[119]    The present case indicates the traps that preoccupation with money awards lays in front of a defendant. For a defendant to make an apology is to concede the defamation in advance and take the risk of paying heavy damages should the apology not be accepted. Thus if Mr Dikoko had publicly acknowledged that he had wronged Mr Mokhatla, he risked opening himself up to being seriously mulcted. Hence the ambivalence of his evidence. A retraction and apology genuinely offered and generously received, could have sorted the matter out once and for all, and contributed towards improving the way the parties would have  
+[2006] JOL 18035 (CC) at 37
+been able to get on in future in the close working environment of local government. Yet the manner in which the process was structured appears to have produced a hurt and humiliated loser on the one side, and a winner (who might find it difficult not to gloat) on the other. Thus the rupture between the protagonists was not healed, it was entrenched.
+
+[120]    Giving special emphasis to restoring the relationship between the parties does not, of course, imply that awards of damages should completely fall out of the picture, In our society money, like cattle, can have significant symbolic value. The threat of damages will continue to be needed as a deterrent as long as the world we live in remains as money-oriented as it is. Many miscreants would be quite happy to make  
+[2006] JOL 18035 (CC) at 38
+the most fulsome apology (whether sincere or not) on the basis that doing so costs them nothing: "It is just words." Moreover, it is well established that damage to one's reputation may not be fully cured by counter-publication or apology; the harmful statement often lingers on in people's minds. So even if damages do not cure the defamation, they may deter promiscuous slander, and constitute a real solace for irreparable harm done to one's reputation.
+
+[121]    What is needed, then, is more flexibility and innovation concerning the relation between apology and money awards. A good beginning for achieving greater remedial suppleness might well be to seek out the points of overlap between ubuntu – botho and the amende honorable, the first providing a new spirit, the second a time-honoured legal format. Whatever renovatory modalities are employed, and however significant to the outcome the facts will have to be in  
+[2006] JOL 18035 (CC) at 39
+each particular case, the fuller the range of remedial options available the more likely will justice be done between the parties. And the greater the prospect of realising the more humane society envisaged by the Constitution.
+
+SKWEYIYA J:
+
+[122]    I have read the judgments of my colleagues, Mokgoro J, Moseneke DCJ and Sachs J. I agree that the appeal against the decision of the High Court holding Mr Dikoko liable for defamation has no merit and should therefore be dismissed. I, however, disagree with the conclusion reached by Mokgoro J that an award for damages arising out of defamation in the present case is a constitutional matter,1 as well as the conclusion reached by Moseneke DCJ that although this may be a constitutional issue it is not necessary to decide the question in this case.2 I would hold that in the circumstances of this case the debate concerning the quantum of damages awarded by the trial court does not raise a constitutional matter or an issue connected to a constitutional matter.
+
+[123]    The Constitution seeks to draw a distinction between constitutional and other issues.3 "Whether one can speak of a non-constitutional issue in a constitutional democracy where the Constitution is the supreme law and all law and conduct has to conform to the Constitution is not free from doubt."4 However, while it is accepted that all matters have constitutional implications, in order to recognise and preserve this Court's jurisdictional distinction a line must be drawn. It has been recognised in the past that it is difficult to draw that line because as a jurisdictional question, what constitutes a constitutional matter is by no means clearly defined. As previously pointed out by this Court, "the Constitution offers no definition of a constitutional matter, or of an issue connected with a decision on a constitutional matter".5 This is ultimately left for this Court to decide.6 It is, however, clear that the Constitution expressly provides for a divide between issues classed as "constitutional matters" and those which are non-constitutional matters. Therefore, judges who have sworn to uphold the Constitution "must accept that such distinction exists and try to make sense of that distinction".7
+
+[124]    For this Court to have jurisdiction, the applicant must bring his complaint within the Constitution by satisfying two threshold requirements. The first is that the case must present a constitutional issue. The second is that it must be in the interests of justice for this Court to hear the case. These two requirements have  
+[2006] JOL 18035 (CC) at 40
+been confirmed in numerous Constitutional Court cases.8 It is the first of these requirements with which we are presently concerned.
+
+[125]    Despite being given the opportunity to file supplementary heads on the issue of quantum subsequent to the hearing, the applicant still did not make any argument in support of this issue being classified as a constitutional matter. The supplementary submissions on damages focus on the specific factors which it is submitted that the High Court failed to take into account at all or failed to give sufficient weight to. These include the extent of the publication, the subsequent conduct of the applicant, the effect on the respondent's reputation and the setting in which the defamation occurred. The applicant submitted that this Court can, and should, interfere with the trial court's award of damages and even in this latter submission, no mention is made of quantum violating a constitutional right or principle.
+
+[126]    Where a litigant asks this Court to deal with an issue, a strong case needs to be made out by such a litigant as to why that issue should be classified as a constitutional issue. This has not been done with regard to quantum by the applicant in this case which is problematic as the court then has to make the case itself as to why this should be considered a constitutional matter.
+
+[127]    The respondent submitted that the applicant did not contend that the quantum of damages is a constitutional matter and went on to suggest that this Court should entertain the question of damages only if it grants leave to appeal on the issue of privilege, which is a constitutional matter, and should not consider the quantum issue if leave to appeal the rest of the SCA judgment is denied. The respondent stood by his earlier submission that the court should refuse leave to appeal on the privilege issue and hence by implication, also on the issue of quantum.
+
+[128]    The fact that the Constitution necessarily permeates all law and conduct does not mean that every issue which may implicate the Constitution is a constitutional issue. In order to preserve the distinction between constitutional and non-constitutional issues, and thus between the jurisdiction of this Court and the lower courts in this regard, something more must be required in order for something to qualify as a constitutional issue.
+
+[129]    In Van der Walt9 it was said that:
+
+"The starting point must be that in our country the Constitution is the supreme law. '(L)aw or conduct inconsistent with it is invalid, and the obligations imposed by it must be fulfilled.' In terms of s 8(1), the Bill of Rights binds the Judiciary as it binds the Legislature and Executive. Judges, who are the  
+[2006] JOL 18035 (CC) at 41
+vanguard of our constitutional democracy, are required, by the oath they take, to 'uphold and protect the Constitution and the human rights entrenched in it, and . . . [to] administer justice to all persons alike without fear, favour or prejudice, in accordance with the Constitution and the law'. These provisions from the Constitution demonstrate that if the conduct of a court results in a breach of the Constitution this Court not only has the power, but it is obliged, to intervene and to say so"10 (footnotes omitted).
+
+[130]    As noted above, the line between constitutional and non-constitutional issues is difficult to draw. However, what the Constitution does tell us is that matters which are undoubtedly constitutional in character include disputes as to whether any law or conduct is inconsistent with the Constitution,11 issues concerning the status, powers and functions of an organ of State,12 the interpretation, application and upholding of the Constitution13 and the question whether the interpretation of any legislation or the development of the common law promotes the spirit, purport and objects of the Bill of Rights.14
+
+[131]    In S v Boesak15 this Court looked at the issue of an appeal in a criminal matter and sought to clarify how sections 167(3) and 168(3) of the Constitution can be read harmoniously.16 In relation to criminal cases at least, the court identified the following guiding principles:
+
+A challenge to a decision of the SCA on the basis only that it is wrong on the facts is not a constitutional matter
+
+  In the context of s 167(3) of the Constitution, the question whether evidence is sufficient to justify a finding of guilt beyond reasonable doubt cannot in itself be a constitutional matter. Otherwise, all criminal cases would be constitutional matters, and the distinction drawn in the Constitution between the jurisdiction of this Court and that of the SCA would be illusory . . . Unless there is some separate constitutional issue raised, therefore, no constitutional right is engaged when an appellant merely disputes the findings of fact made by the Supreme Court of Appeal.
+
+The development of, or the failure to develop, a common-law rule by the SCA may constitute a constitutional matter
+
+  This may occur if the SCA developed, or failed to develop, the rule under circumstances inconsistent with its obligation under s 39(2) of the Constitution or with some other right or principle of the Constitution.
+
+The application of a legal rule by the SCA may constitute a constitutional matter
+
+  This may occur if the application of a rule is inconsistent with some right or principle of the Constitution"17 (footnotes omitted).
+
+[132]    A similar line of reasoning was followed in Phoebus Apollo18 where the  
+[2006] JOL 18035 (CC) at 42
+court said the following:
+
+"It is not suggested that in determining the question of vicarious liability the SCA applied any principle which is inconsistent with the Constitution. Nor is there any suggestion that any such principle needs to be adapted or evolved to bring it into harmony with the spirit, purport or objects of the Bill of Rights. On the contrary, counsel for the appellant expressly conceded that the common-law test for vicarious liability, as it stands, is consistent with the Constitution. It has long been accepted that the application of this test to the facts of a particular case is not a question of law but one of fact, pure and simple. The thrust of the argument presented on behalf of the appellant was essentially that though the SCA has set the correct test, it had applied that test incorrectly – which is of course not ordinarily a constitutional issue. This Court's jurisdiction is confined to constitutional matters and issues connected with decisions on constitutional matters. It is not for it to agree or disagree with the manner in which the SCA applied a constitutionally acceptable common-law test to the facts of the present case. As was made plain in Boesak's case:
+
+ 'A challenge to a decision of the SCA on the basis only that it is wrong on the facts is not a constitutional matter . . . Unless there is some separate constitutional issue raised . . . no constitutional right is engaged when an appellant merely disputes the findings of fact made by the Supreme Court of Appeal'"19 (footnotes omitted).
+
+[133]    A judge calculating damages in a case where defamation has been proved is given a set of guidelines which he must work with in settling on the amount of damages. These guidelines take the form of a number of factors which may be considered when arriving at the appropriate quantum. There is no rigid test in that none of the factors are mandatory. The manner in which a judge chooses to apply the factors, the factors which he chooses to give weight to and other similar matters are matters left to his discretion.
+
+[134]    Effectively what the applicant is arguing is that the amount of damages which the trial judge chose to award is too high given the facts of the case, and that another court would come to a different, lower amount were it to have regard to the same facts. It is apparent from his submissions that he is not challenging the way in which damages are calculated generally. No grievance is aired with regard to the method of calculation which is applicable to cases in general. The grievance is based squarely on the facts of this case.
+
+[135]    We are therefore clearly dealing with a case which falls into the category mentioned in both Boesak and Phoebus Apollo as not ordinarily being a constitutional issue. That is not to say that such a case will never raise a constitutional issue, but that something more is required than what has been brought in this case. It is possible that in a future case an applicant will be able to show that as a result of the way in which the lower court judge evaluated the factors a constitutional right is violated; or that the judge failed to infuse the values  
+[2006] JOL 18035 (CC) at 43
+of the Constitution into the process whereby he settled on an amount of damages to be awarded. It is possible that in such a case the threshold requirement of "a constitutional issue" will be proved to the satisfaction of the court. This is not such a case.
+
+[136]    The conclusion reached above means that, in my view, the enquiry into the damages aspect of the appeal need go no further.
+
+[137]    However, I wish to add the following additional comments on the "chilling effect" on freedom of expression. Much of the justification for classifying damages in a defamation action as a constitutional matter arises from the oft-quoted "chilling effect" that the award of damages may have on freedom of expression. This was the position taken in Van der Bergh20 and is echoed in the judgments of both Mokgoro J and Moseneke DCJ.
+
+[138]    There is no doubt that freedom of expression lies at the heart of our democracy. Its value was eloquently described in South African National Defence Union21 as follows:
+
+"[Freedom of expression] is valuable for many reasons, including its instrumental function as a guarantor of democracy, its implicit recognition and protection of the moral agency of individuals in our society and its facilitation of the search for truth by individuals and society generally."22
+
+ 
+[2006] JOL 18035 (CC) at 44
+
+The argument goes that if courts award extremely high amounts in damages for defamation, the free expression of the ordinary person will be curbed as they will be hesitant to speak under the risk of having to pay such large awards. It is however important, albeit fairly obvious, to remember that damages are only awarded where defamation has been found to exist. Damages are thus ordered where someone has said something which society believes to be unacceptable; they do not follow from a legitimate exercise of the right of free expression. It is therefore important to keep in mind precisely what kinds of utterances are being curbed; what type of expression is being chilled.
+
+[139]    Not all expression is constitutionally protected. Islamic Unity Convention2 explains how
+
+"[t]he pluralism and broadmindedness that is central to an open and democratic society can . . . be undermined by speech which seriously threatens democratic pluralism itself. Section 1 of the Constitution declares that South Africa is founded on the values of 'human dignity, the achievement of equality and the advancement of human rights and freedoms'. Thus, open and democratic societies permit reasonable proscription of activities and expressions that pose a real and substantial threat to such values and to the constitutional order itself."24
+
+ 
+[2006] JOL 18035 (CC) at 45
+
+In that case, this Court recognised that expression has the potential to impair the exercise and enjoyment of other important rights, such as the right to dignity.25 It went on to say that:
+
+"The right is accordingly not absolute; it is, like other rights, subject to limitation under s 36(1) of the Constitution. Determining its parameters in any given case is therefore important, particularly where its exercise might intersect with other interests."26
+
+[140]    The Constitution itself limits acceptable expression in section 16(2)27 which sets out the types of expression which fall beyond the ambit of the protection afforded to free expression by the Bill of Rights. In Islamic Unity Convention it was said that:
+
+"Implicit in [the provisions of s 16(2)] is an acknowledgment that certain expression does not deserve constitutional protection because, among other things, it has the potential to impinge adversely on the dignity of others and cause harm. Our Constitution is founded on the principles of dignity, equal worth and freedom, and these objectives should be given effect to."28
+
+[141]    The chilling effect on freedom of expression envisaged in defamation cases would play out in the following manner. A person who suspects that they may possibly be about to defame someone else is cognisant of the fact that if they do, there may be legal consequences. As a result, they either refrain from making the utterance or do some background checking first. So the kinds of utterances which are chilled are those which an ordinary person may suspect to be defamatory in nature. The chilling of this kind of expression is by no means an undesirable result and is in line with the framework of intersecting rights outlined above in which freedom of expression may well have to take a back seat to dignity in certain circumstances.
+
+[142]    In Young v Shaikh29 it was said that:
+
+"[f]reedom of expression does not include the right to falsely attack the integrity of a fellow citizen for selfish reasons or for reasons which have nothing to do with 'public benefit'."30
+
+ 
+[2006] JOL 18035 (CC) at 46
+
+The court went on to hold that an award of damages is particularly appropriate where it "will have a 'chilling' effect on possible future and similarly baseless and selfish attacks on the integrity of others".31 Thus rather than being contrary to the constitutional scheme for the protection of expression, "chilling" defamatory statements or those that may be suspected as such, are precisely what the Constitution requires in light of its commitment to dignity as a foundational value.32
+
+[143]    Finally, while we must of course acknowledge that freedom of expression is implicated in defamation cases, the impact on expression, or the "chilling effect", stems largely from the process of determining whether the statement in question was defamatory rather than the assessment of damages appropriate to compensate for it.
+
+[144]    It may well be that it is not so much the eventual outcome of a court case but rather the possibility of being taken to court in the first place which operates as a deterrent. Much research has been conducted into this idea in the context of sentencing, particularly with regards to the efficacy of the death penalty as a deterrent. The research indicates that it is not so much the sentence which deters potential criminal perpetrators but the possibility of getting caught.33 Just as deterrence in the criminal law context stems from the possibility of getting caught, rather than the range of possible sentences which may be imposed, so in the civil context, any "chilling effect" derives most of its potency from the fact that a person who goes beyond the accepted boundaries of expression may be sued for defamation. Hence the significance of the actual award of damages has perhaps been overemphasised. Seen in this light, the argument that damages are a constitutional matter, because if excessive they have the potential to chill freedom of expression, is not persuasive.
+
+[145]    Before I end this judgment, I consider it appropriate that we remind ourselves as South Africans that we live in a constitutional democracy which is founded upon the supremacy of the Constitution and the rule of law. It is worrying that there appears to be an increase in the number of cases which are brought to this Court by legal practitioners on claims of them being constitutional  
+[2006] JOL 18035 (CC) at 47
+matters or issues connected to constitutional matters. Constitutional issues are at times raised by legal practitioners for the first time in argument in court.
+
+[146]    The hallowed status of the Constitution has particular consequences for legal practitioners. They must approach all law with the Constitution foremost in their minds. The values which find expression in the Constitution permeate our entire legal fabric. No area of law is left untouched by their reach. Thus when preparing legal argument and strategies, the Constitution is the starting place. Constitutional arguments are not an alternative strategy should the standard common-law arguments fail. As this Court emphasised in Pharmaceutical Manufacturers Association:34
+
+"There are not two systems of law, each dealing with the same subject-matter, each having similar requirements, each operating in its own field with its own highest Court. There is only one system of law. It is shaped by the Constitution which is the supreme law, and all law, including the common law, derives its force from the Constitution and is subject to constitutional control."35
+
+[147]    It is important that we foster a legal culture in which the provisions of the Constitution play a primary role in the arguments prepared by attorneys and counsel so as to avoid the situation where constitutional arguments are tacked on as a last resort when all else fails. In this vein, the words of Ngcobo J in Prince,36 where he dealt with the constitutionality of a statute, have particular resonance:
+
+"Parties who challenge the constitutionality of a provision in a statute must raise the constitutionality of the provisions sought to be challenged at the time they institute legal proceedings. In addition, a party must place before the Court information relevant to the determination of the constitutionality of the impugned provisions. Similarly, a party seeking to justify a limitation of a constitutional right must place before the Court information relevant to the issue of justification. I would emphasise that all this information must be placed before the Court of first instance. The placing of the relevant information is necessary to warn the other party of the case it will have to meet, so as to allow it the opportunity to present factual material and legal argument to meet that case. It is not sufficient for a party to raise the constitutionality of a statute only in the heads of argument, without laying a proper foundation for such a challenge in the papers or the pleadings. The other party must be left in no doubt as to the nature of the case it has to meet and the relief that is sought. Nor can parties hope to supplement and make their case on appeal"37 (emphasis added).
+
+ 
+[2006] JOL 18035 (CC) at 48
+
+Not only should the Constitution be foremost in the minds of practitioners when preparing their legal arguments, but heed must also be paid to the provisions of the Constitution which establish a jurisdictional framework which governs the manner in which the courts should be approached.
+
+Conclusion
+
+[148]    I conclude that this Court does not have jurisdiction. Accordingly, I would hold that leave to appeal the quantum of damages awarded by the High Court be refused.
+
+
+
+Footnotes
+1	 S 161 provides:
+"Provincial legislation within the framework of national legislation may provide for privileges and immunities of Municipal Councils and their members."
+2	  S 117 provides:
+ "(1) Members of a provincial legislature and the province's permanent delegates to the National Council of Provinces–
+  have freedom of speech in the legislature and in its committees, subject to its rules and orders;
+  and are not liable to civil or criminal proceedings, arrest, imprisonment or damages for–
+ (i) anything that they have said in, produced before or submitted to the legislature or any of its committees; or
+ (ii) anything revealed as a result of anything that they have said in, produced before or submitted to the legislature or any of its committees.
+ (2) Other privileges and immunities of a provincial legislature and its members may be prescribed by national legislation . . ."
+3	  S 28 provides:
+ "(1) Provincial legislation in terms of s 161 of the Constitution must provide at least–
+ (a) that councillors have freedom of speech in a municipal council and in its committees, subject to the relevant council's rules and orders as envisaged in section 160(6) of the Constitution; and
+ (b) that councillors are not liable to civil or criminal proceedings, arrest, imprisonment or damages for–
+ (i) anything that they have said in, produced before or submitted to the Council or any of its committees; or
+ (ii) anything revealed as a result of anything that they have it said in, produced before or submitted to the Council or any of its committees.
+ (2) Until provincial legislation contemplated in subsection (1) has been enacted the privileges referred to in paragraphs (a) and (b) of subsection (1) will apply to all municipal councils in the province concerned."
+4	 4 Act 117 of 1998.
+5	 S 3 provides:
+ "In accordance with the provisions of section 161 of the Constitution of the Republic of South Africa, 1996 (Act No. 108 of 1996), and section 28(1) of the Local Government: Municipal Structures Act, 1998 (Act No. 117 of 1998), a councillor–
+ (a) has, subject to the rules and orders of that council as envisaged in section 160(6) of the Constitution of the Republic of South Africa, 1996, freedom of speech in a municipal council of which he or she is a member and in any committee of such council; and
+ (b) shall not be liable to civil or criminal proceedings, arrest, imprisonment or damages for–
+ (i) anything he or she has said in, produced before or submitted to the Council; or
+ (ii) anything revealed as a result of anything that he or she has said in, produced before or submitted to the council of which he or she is a member or any committee of such council."
+6	Act 3 of 2000.
+7	 S 2 provides:
+ "(1) Subject to the standing orders there shall be freedom of speech and debate in or before the Provincial Legislature and any committee, and such freedom shall not be impeached or questioned in court.
+ (2) Anything said by any member in or before the Provincial Legislature or a committee, whether as a member or as a witness, shall be deemed to be a matter of privilege as contemplated in section 7.
+ (3) The provisions of subsection (1) shall not apply to any person, other than a member, giving evidence before the Provincial Legislature or any committee."
+8	 S 9 provides:
+ "Notwithstanding the provisions of this or any other Act, no member shall be liable to any civil or criminal proceedings, arrest, imprisonment or damages by reason of anything that he or she has said, produced or submitted in or before or to the Provincial Legislature or any committee thereof or by reason of anything that may have been revealed as a result of what he or she has said, or produced, or submitted in or before or to the Provincial Legislature or any committee thereof."
+9	S 10 provides:
+ "No person shall be liable in damages or otherwise for any act done under the authority of the Provincial Legislature or within its legal powers, under any warrant issued by virtue of those powers."
+10	 S 35 provides:
+  "The privileges, immunities and powers of the Provincial Legislature, a member and an officer of the Provincial Legislature respectively, shall be part of the law of the Republic, and it shall not be necessary to plead them, but they shall be judicially noticed in all the courts of the Republic."
+11	 Act 5 of 1994.
+12	 Thupi Zacharia Mokhatla v David Dikoko TPD 31668/2, 24 May 2005, as yet unreported at para [6].
+13	 Id at paras [24]–[26].
+14	 S 168(3) provides:
+ "The Supreme Court of Appeal may decide appeals in any matter. It is the highest court of appeal except in constitutional matters, and may decide only–
+ (a) appeals;
+ (b) issues connected with appeals; and
+ (c) any other matter that may be referred to in circumstances defined by an Act of Parliament."
+15	Phillips & others v National Director of Public Prosecutions 2006 (1) SA 505 (CC), 2006 (2) BCLR 274 (CC) at para [30]; Radio Pretoria v Chairperson of the Independent Communications Authority of South Africa & another 2005 (4) SA 319 (CC), 2005 (3) BCLR 231 (CC) at para [19]. See also s 167(6) of the Constitution and rule 19(6)(a) of the Rules of the Constitutional Court.
+16 of the Structures Act. He further argues that the link b	  Above n 3.
+17	  Or similarly beyond those of the provincial legislature or Parliament.
+18	  2006 (1) SA 203 (CC), 2003 (5) BCLR 502 (CC).
+19	  Id at para [16].
+20	  Id at para [17].
+21	  1992 (1) SA 283 (A).
+22	  Id at 294C–D.
+23	 Id.
+24	  The present case does not decide whether this authority remains good law under the Constitution.
+25	  See Roman Corp Ltd v Hudson's Bay Oil & Gas Co Ltd (1971) 18 DLR (3d) 134 at 141–142, affirmed by the Court of Appeals in (1972) 23 DLR (3d) 292 at 297–298. (The Supreme Court held in (1973) 36 DLR (3d) 413 at 419 that while it did not dissent from the findings of these courts on the question of privilege it preferred to decide the appeal on a different basis); Stopforth v Goyer (1978) 87 DLR (3d) 373 at 381; Re Clark v Attorney General of Canada (1977) 81 DLR (3d) 33 at 55.
+26	 Roman Corp Ltd (1971) above n 25 at 138.
+27	  Above n 25.
+28	 Id at 381.
+29	  Above n 25.
+30	 Id at 58.
+31	 Id at 55.
+32	  Above n 18 at paras [13]–[15].
+33	 Id at para [17].
+34	  Above n 9.
+35	  Above n 10.
+36	  Above n 2.
+37	  Above n 9.
+38	  Kinghorn "Defamation" (2 ed) (2005) 7 Law of South Africa (LAWSA) at para [249].
+39	  See Salzmann v Holmes 1914 Ad 471 at 480; Sandler v Wholesale Coal Supplies Ltd 1941 AD 194 at 200; Sutter v Brown 1926 AD 155 at 171; Black & others v Joseph 1932 AD 132 at 149–150.
+40	  See in this regard Van der Berg v Coopers & Lybrand Trust (Pty) Ltd 2001 (2) SA 242 (SCA) at 260H.
+41	 Id at 259E–F.
+42	  Above n 39 at 200.
+43	 Id at 196.
+44	 Salzmann above n 39 at 480.
+45	 45 Black above n 39 at 145.
+46	 46 Id at 150.
+47	 47 Charles Mogale & others v Ephraim Seima SCA 575/04, 14 November 2005, as yet unreported at para [8].
+48	  2005 (12) BCLR 1192 (CC); See also National Coalition for Gay & Lesbian Equality & others v Minister of Home Affairs & others 2000 (2) SA 1 (CC), 2000 (1) BCLR 39 (CC) at para [11]; Mabaso v Law Society, Northern Provinces & another 2005 (2) SA 117 (CC), 2005 (2) BCLR 129 (CC) at para [20], fn 21.
+49	  See Basson id at para [154]; Mabaso above n 48 at para [20], fn 21; Shepstone & Wylie & others v Geyser NO 1998 (3) SA 1036 (A) at 1045B–D (also reported as [1998] 3 All SA 349 (A)); Knox D'Arcy Ltd & others v Jamieson & others 1996 (4) SA 348 (A) at 361E–F & H–I (also reported as [1996] 3 All SA 669 (A)); Media Workers Association of South Africa & others v Press Corporation of South Africa Ltd 1992 (4) SA 791 (A) at 800C–H.
+50	 Id at para [110] referring to the Supreme Court of Appeal's finding in Media Workers Association of South Africa & others id at 800D–E:
+  "The essence of a discretion in this narrower sense is that if the repository of the power follows any of the available courses, he would be acting within his powers and his exercise of power could not be set aside merely because a Court would have preferred him to have followed a different course among those available to him."
+51	  Id at para [154] referring to Shepstone above n 49 at 1045B–D.
+52	  Id at para [110].
+53	  Id at para [156].
+54	  1924 WLD 157 at 167.
+55	 Khumalo & others v Holomisa 2002 (5) SA 401 (CC), 2002 (8) BCLR 771 (CC) at para [17].
+56	 Hoffa NO v SA Mutual Fire & General Insurance Company Ltd 1965 (2) SA 944 (C) at 950C.
+57	 Matthews & others v Young 1922 AD 492 at 503–504.
+58	  2002 (6) SA 512 (W).
+59	 Id at 522D.
+60	 Id at 525F–H.
+61	 Id at 525D–H.
+62	  2004 (3) SA 46 (C).
+63	  Id at 50I–J.
+64	  Above n 58 at 525E–F.
+65	  Id at 57E.
+66	  Id at 57E–F.
+67	  Id at 57G–H.
+68	  The Promotion of Equality & Prevention of Unfair Discrimination Act 4 of 2000 makes provision in s 21(2)(j) for an equality court to make an order that an unconditional apology be made if it determines under s 21(1) that unfair discrimination, hate speech or harassment has taken place.
+69	 Lynch v Agnew 1929 TPD 974 at 978.
+70	  Skelton "Juvenile Justice Report" Project 106 South African Law Commission (2000) at 96–98.
+71	  Skinner above n 54 at 167.
+72	 Buthelezi v Poorter & others 1975 (4) SA 608 (W) at 613G–H.
+73	  Above n 47 at para [8].
+74	  Above n 12 at para [25].
+75	  Above n 47.
+76	Id at para [8].
+77	 1923 AD 234.
+78	  In Hulley id damages were considered in the context of contributory negligence.
+79	 Id at 245.
+80	  Above n 69.
+81	 Id at 978.
+82	 LAWSA above n 38 at paras [94], [96].
+83	 Charles above n 47 at para [11].
+84	 Skinner above n 54 at 167.
+85	  See above para [79].
+1	  1923 AD 234 at 246.
+2	  See s 167(3)(b) of the Constitution which provides that:
+"The Constitutional Court– . . . 
+ (b) may decide only constitutional matters, and issues connected with decisions on constitutional matters; and . . ."
+3	  See s 168(3) of the Constitution which provides that:
+"The Supreme Court of Appeal may decide appeals in any matter. It is the highest court of appeal except in constitutional matters, and may decide only–
+ (a) appeals;
+ (b) issues connected with appeals; and
+ (c) any other matter that may be referred to it in circumstances defined by an Act of Parliament."
+4	  S 10 of the Constitution provides that:
+"Everyone has inherent dignity and the right to have their dignity respected and protected."
+5	  See Harms JA in Mogale & others v Seima, SCA 575/04, 14 November 2005, as yet unreported at para [9].
+6	  S 16(1) of the Constitution provides that:
+"Everyone has the right to freedom of expression, which includes–
+ (a) freedom of the press and other media;
+ (b) freedom to receive or impart information or ideas;
+ (c) freedom of artistic creativity; and
+ (d) academic freedom and freedom of scientific research."
+7	  S 38 of the Constitution provides that:
+"Anyone listed in this section has the right to approach a competent court, alleging that a right in the Bill of Rights has been infringed or threatened, and the court may grant appropriate relief, including a declaration of rights . . ."
+8	  1997 (3) SA 786 (CC), 1997 (7) BCLR 851 (CC) at para [61].
+9	  Under the Interim Constitution the provision read:
+"When an infringement of or threat to any right entrenched in this Chapter is alleged, any person referred to in paragraph (b) shall be entitled to apply to a competent court of law for appropriate relief, which may include a declaration of rights."
+The equivalent provision in the Constitution is s 38.
+10	 Fose above n 8 at para [60].
+11	  S 39(3) of the Constitution provides that:
+"The Bill of Rights does not deny the existence of any other rights or freedoms that are recognised or conferred by common law, customary law or legislation, to the extent that they are consistent with the Bill."
+12	  2001 (2) SA 242 (SCA) at 260H.
+13	 Neethling v Du Preez & others; Neethling v Weekly Mail & others 1995 (1) SA 292 (A); Botes v Van Deventer 1966 (3) SA 182 (A); Rondalia Assurance Corporation of South Africa Ltd v Britz 1976 (3) SA 243 (T); Buthelezi v Poorter & others 1975 (4) SA 608 (W); Matiwane v Cecil Nathan, Beattie & Co 1972 (1) SA 222 (N).
+14	  See the discussion in S v Basson 2005 (12) BCLR 1192 (CC) at paras [110]–[114] and paras [154]–[155] and cases therein cited.
+15	  Above n 13 at 301H.
+16	 Id at 301C–D.
+17	 Mogale above n 5 at para [8]; Sandler v Wholesale Coal Suppliers Ltd 1941 AD 194 at 196; Black & others v Joseph 1931 AD; Sutter v Brown 1926 AD 155 at 171; Salzmann v Holmes 1914 AD 471 at 480.
+18	 At para [76] of Mokgoro J’s judgment.
+19	 Id at para [77].
+20	  1924 WLD 157 at 167.
+1	  See the Epilogue to the Interim Constitution, extensively discussed in Azanian Peoples Organisation & others v President of the Republic of South Africa & others 1996 (4) SA 671 (CC), 1996 (8) BCLR 1015 (CC) at para [48].
+2	  2005 (1) SA 217 (CC), 2004 (12) BCLR 1268 (CC).
+3	 2005 (1) SA 217 (CC), 2004 (12) BCLR 1268 (CC) at para [37].
+4	  See the discussion by Skelton "The Influence of the Theory and Practice of Restorative Justice in South Africa, with Special Reference to Child Justice" (unpublished doctoral thesis, Pretoria University 2006) at 18–21.
+5	 S v Makwanyane & another 1995 (3) SA 391 (CC), 1995 (6) BCLR 665 (CC). See Langa J at para [227] in which he held that:
+"It was against a background of the loss of respect for human life and the inherent dignity which attaches to every person that a spontaneous call has arisen among sections of the community for a return to ubuntu. A number of references to ubuntu have already been made in various texts, but largely without explanation of the concept. It has however always been mentioned in the context of it being something to be desired, a commendable attribute which the nation should strive for."
+  See Madala J at para [237] in which he held that:
+"The concept of ubuntu appears for the first time in the post-amble, but it is a concept that permeates the Constitution generally, and more particularly chap 3, which embodies the entrenched fundamental human rights. The concept carries in it the ideas of humaneness, social justice and fairness."
+  See Mahomed J at para [263] in which he held that:
+"'The need for ubuntu' expresses the ethos of an instinctive capacity for and enjoyment of love towards our fellow men and women; the joy and the fulfillment involved in recognizing their innate humanity; the reciprocity this generates in interaction within the collective community; the richness of the creative emotions which it engenders and the moral energies which it releases both in the givers and the society which they serve and are served by."
+  See Mokgoro J at para [308] in which she held that:
+"Generally, ubuntu translates as 'humaneness'. In its most fundamental sense it translates as personhood and 'morality'. Metaphorically, it expresses itself in umuntu ngumuntu ngabantu, describing the significance of group solidarity on survival issues so central to the survival of communities. While it envelops the key values of group solidarity, compassion, respect, human dignity, conformity to basic norms and collective unity, in its fundamental sense it denotes humanity and morality. Its spirit emphasises respect for human dignity, marking a shift from confrontation to conciliation. In South Africa ubuntu has become a notion with particular resonance in the building of a democracy. It is part of our rainbow heritage, though it might have operated and still operates differently in diverse community settings. In the Western cultural heritage, respect and the value for life, manifested in the all-embracing concepts of 'humanity' and 'menswaardigheid', are also highly prized. It is values like these that s35 requires to be promoted. They give meaning and texture to the principles of a society based on freedom and equality."
+  And see Sachs J at para [374].
+6	 Port Elizabeth Municipality v Various Occupiers above n 2.
+7	  See S v Joyce Maluleke & others Pretoria High Court 83/04, 13 June 2006, as yet unreported. Stressing the need for circumspection in this area Bertelsmann J in a judgment on sentencing discusses the advantages of drawing upon traditional African legal processes so as to achieve reconciliation and closure, showing how they fit in with developing notions of restorative justice in various international jurisdictions. He cites Bosielo J (Shongwe J concurring) as calling for innovative and pro-active presiding officers to seek alternatives to imprisonment that are based on restorative justice principles (S v Shilubane [2005] JOL 15671 (T)).
+8	  See the view of Willis J quoting Melius de Villiers in Mineworkers Investment Co (Pty) Ltd v Modibane 2002 (6) SA 512 (W) at 523F–G; but see contrasting approach in Young v Shaikh 2004 (3) SA 46 (C) both discussed in Mokgoro J's judgment at paras [63]–[67].
+9	  S 21 of the Promotion of Equality & Prevention of Unfair Discrimination Act 4 of 2000 provides:
+ "(1) The equality court before which proceedings are instituted in terms of or under this Act must hold an inquiry in the prescribed manner and determine whether unfair discrimination, hate speech or harassment, as the case may be, has taken place, as alleged. After holding an inquiry, the court may make an appropriate order in the circumstances, including– . . .
+ (j) an order that an unconditional apology be made."
+1	  See para [54] of Mokgoro J's judgment.
+2	  See paras [90] and [92] of Moseneke DCJ's judgment.
+3	  In terms of s 168(3) and s 167(3)(a) and (b) of the Constitution. See C Lewis "Reaching the Pinnacle: Principles, Policies and People for a Single Apex Court in South Africa" (2005) 21 South African Journal of Human Rights at 512:
+"The most notable defect in the present system arises from the distinction that was sought to be drawn between constitutional and other issues. In the context of a body of law that must necessarily be constitutionally coherent, that distinction is, and always was, an illusion. And because it is an illusory distinction it has not only sown uncertainty as to what is and what is not a 'constitutional issue', with practical consequences for the expeditious treatment of litigation, but it also threatens to impede the coherent development of the law."
+4	 Van der Walt v Metcash Trading Ltd 2002 (4) SA 317 (CC), 2002 (5) BCLR 454 (CC) at para [32].
+5	 S v Boesak 2001 (1) SA 912 (CC), 2001 (1) BCLR 36 (CC) at para [13].
+6	  S 167(3)(c).
+7	 Van der Walt above n 4 at para [32].
+8	  See for example Boesak above n 5 at paras [11]–[12].
+9	  Above n 4.
+10	 Id at para [33].
+11	  See s 172(1)(a) of the Constitution.
+12	  See s 167(4)(a) of the Constitution.
+13	  See s 167(7) of the Constitution.
+14	  See s 39(2) of the Constitution. The categorisation of these issues as constitutional ones is confirmed in Boesak above n 5 at para [14].
+15	  Above n 5.
+16	  These sections deal with the jurisdiction of the Constitutional Court and the Supreme Court of Appeal respectively. S 167(3) establishes the Constitutional Court as the highest court in constitutional matters and s 168(3) constitutes the SCA as the highest court of appeal in all matters save constitutional ones.
+17	 Boesak above n 5 at para [15].
+18	 Phoebus Apollo Aviation CC v Minister of Safety & Security 2003 (2) SA 34 (CC), 2003 (1) BCLR 14 (CC).
+19	 Id at para [9].
+20	 Van der Berg v Coopers & Lybrand Trust (Pty) Ltd & others 2001 (2) SA 242 (SCA).
+21	 South African National Defence Union v Minister of Defence & another 1999 (4) SA 469 (CC), 1999 (6) BCLR 615 (CC).
+22	 Id at para [7].
+2	 Islamic Unity Convention v Independent Broadcasting Authority & others 2002 (4) SA 294 (CC), 2002 (5) BCLR 433 (CC).
+24	 Id at para [29].
+25	 Id at para [30].
+26	 Id.
+27	  S 16(2) provides:
+"The right in subsection (1) does not extend to–
+ (a) propaganda for war;
+ (b) incitement of imminent violence; or
+ (c) advocacy of hatred that is based on race, ethnicity, gender or religion, and that constitutes incitement to cause harm."
+28	  Above n 23 at para [32].
+29	  2004 (3) SA 46 (C).
+30	 Id at 57E.
+31	 Id at 57E–F.
+32	  S 1(a) of the Constitution.
+33	  See for example Skeen "Effective judicial thundering from up on high or a mere brutum fulmen? Deterrent sentences in criminal cases" (1998) 11 South African Journal of Criminal Justice at 247.
+34	 Pharmaceutical Manufacturers Association of SA & another: In re Ex parte President of the Republic of South Africa & others 2000 (2) SA 674 (CC), 2000 (3) BCLR 241 (CC).
+35	 Id at para [44].
+36	 Prince v President, Cape Law Society & others 2001 (2) SA 388 (CC), 2001 (2) BCLR 133 (CC).
+37	 Id at para [22].
+
+Appearance:
+Adv L Wepener SC, TJ Bokaba, Noko Inc (At); Adv Q Pelser SC, Rooth & Wessels Inc (R)
+
+
+End of Document

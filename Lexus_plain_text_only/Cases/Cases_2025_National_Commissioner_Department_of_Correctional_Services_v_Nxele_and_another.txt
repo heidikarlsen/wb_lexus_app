@@ -1,0 +1,186 @@
+
+
+
+
+National Commissioner: Department of Correctional Services v Nxele and another [2025] 5 BLLR 472 (LAC)
+Labour Law Reports
+
+Division: Labour Appeal Court, Durban
+Case No: DA04/2023
+Date: 17/02/2025
+Before: K Savage Acting Deputy Judge President, A Van Niekerk Judge of Appeal and A Govindjee Acting Judge of Appeal
+Keywords
+
+
+Appeal in terms of section 166 of the LRA
+Dispute resolution — Inquiry by arbitrator — Employee cleared of charges relating to whistleblowing by arbitrator and Labour Court and subjected to second inquiry by another arbitrator — Second hearing amounting to occupational detriment because new charges duplicating those in first inquiry and amounting to victimisation.
+Practice and procedure — Appeal — Mootness — Employee suspended for whistleblowing after Labour Court ordered employer to allow him to return to work and employer pursuing appeal long after employee did so — Appeal moot.
+Practice and procedure — Costs — Employer persisting with appeal against order setting aside employee’s suspension long after employee had resumed work without justifying costs of pursuing moot appeal — Employer ordered to pay employee’s costs.
+Protected disclosures — Employee charged with whistleblowing subjected to second disciplinary hearing after court confirmed he had made protected disclosure — Second hearing constituting occupational detriment and halted.
+Suspension — Expiry of — Employee suspended after Labour Court ordered employer to allow him to return to work and employer pursuing appeal against court order declaring suspension unlawful long after employee had resumed work — Appeal moot.
+Section the LRA considered
+Section 188A(11)
+
+Editor’s Summary
+
+
+The respondent, an official of the appellant (“the DCS”) was found in 2019 to have made a protected disclosure against the then national Commissioner, Mr Fraser, and then subjected to an occupational detriment for lodging a complaint with the Public Service Commission. A disciplinary hearing against him was converted into an inquiry under section 188A(11) of the LRA, which resulted in a finding that he was not guilty of most of the charges against him, save one, for which he received a written warning. When the respondent reported for duty, 
+
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 473
+
+the DCS launched an urgent application in the Labour Court for an order interdicting the respondent from returning to work, which was dismissed. However, when the respondent reported for duty again he was told that had been suspended pending finalisation of an investigation into his earlier attempt to report for duty and various complaints he had made to the minister. The respondent approached the Labour Court for orders converting the further hearing against him into a hearing under section 188A(11) and setting aside his suspension. The Labour Court rejected the DCS’s plea of lis alibi pendens, found a direct correlation between the charges the respondent faced in the first and second hearings and that the department’s conduct could be seen as a continuation of the pattern of victimisation against him. The rule was confirmed with costs. The DCS argued in an appeal granted on petition that the Labour Court had erred by regarding the charges in the two hearings as linked and duplicated and that, with regard to his suspension, the judge a quo had confused unlawfulness with unfairness and that the respondent had not made out a case in that regard. The respondent contended inter alia that the matter was moot because he had long since returned to work.
+
+The Court noted that there was no dispute that the respondent had made a protected disclosure in 2018. The appeal turned on whether he had in good faith alleged that he was entitled to have the second hearing converted into a section 188A(11) inquiry. The respondent had averred that he was not seeking to prevent the DCS from holding a disciplinary hearing, but simply wanted an opportunity to respond to the allegations against him before an independent and impartial forum. This request had been preceded by an exchange of correspondence in which the respondent was inter alia told that the hearing was to be held in Pretoria, whereas his workplace was in Pietermaritzburg. The respondent had alleged that this was part of a prolonged campaign to “get rid of him at all costs”. The DCS had deployed members of its national emergency response team to bar him from entering the workplace, without advancing any reason why his presence posed any immediate threat or danger. This heavy-handed response reflected a determination on the part of the DCS to prevent the respondent’s return to work, which he was legally entitled to do. There was clearly a direct correlation between the 2018 disclosure and the 2022 charges. The respondent had thus suffered an occupational detriment “on account, or partly on account, of having made a protected disclosure”. He therefore had a clear right to the relief he had sought in the Labour Court, which had been correctly granted.
+
+Turning to the respondent’s prayer for the setting aside of his suspension, the Court noted that the lawfulness of his suspension was the subject of a pending review brought by the DCS. However, that issue had become moot and academic, given that the respondent had long since resumed work. No interest of justice or public benefit would be served by deciding the merits of the suspension issue.
+
+The Court held further that there was no basis for interfering with the costs order made by the court below. Given the apparent disregard by the DCS of the amount it had spent pursuing the appeal and its disregard of the rules of court, there was no reason to shoulder the respondent with the costs of the appeal as well.
+
+The appeal was dismissed with costs.
+
+____________________________________________________________________________________
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 474
+
+Savage ADJP:
+
+Introduction
+In 2018, the respondent, Mr Mnikwelwa Nxele, an employee of the Department of Correctional Services (“DCS”), made a protected disclosure against the then-National Commissioner of the DCS, Mr Arthur Fraser. Since then, the parties have been engaged in protracted litigation. Before this Court is an appeal, with the leave of the Labour Court, against that Court’s order that the appellant convert a second disciplinary enquiry instituted against Mr Nxele into one under section 188A(11) of the Labour Relations Act1 (“LRA”); and its finding that Mr Nxele’s suspension in February 2022 had lapsed in that the appellant had failed to hold the disciplinary enquiry within 60 days of his suspension, as prescribed in the Senior Management Services (“SMS”) Handbook of DCS.
+At the outset of the hearing, the appellant sought the reinstatement of the appeal and condonation for a one-month delay in filing the notice of appeal and a ten-day in filing the record of appeal. These applications were not opposed and, having regard to the extent of the delay, the prospect of success, the limited prejudice caused and the interests of justice, the applications are granted. 
+
+Background
+The disclosure made by Mr Nxele against Mr Fraser in 2018 was found on 10 October 2019 by the Public Service Commission (“PSC”) to constitute a protected disclosure as defined in the Protected Disclosures Act2 (“PDA”). Mr Nxele was found to have been subjected to an occupational detriment as defined in the PDA following such disclosure given that the appellant admitted that disciplinary charges instituted against Mr Nxele thereafter related to the complaint lodged with the PSC. Consequently, his first disciplinary hearing was converted into an inquiry in terms of section 188A(11).
+The ensuing section 188A(11) inquiry found that Mr Nxele had not committed the misconduct alleged, save for one alternate count in respect of which a written warning was imposed. His suspension was uplifted and Mr Nxele was directed to report for duty on 14 February 2022. In response, the appellant informed Mr Nxele that his suspension would remain in force pending a review of the outcome of the section 188A(11) inquiry and that if he failed or refused to accept as much, the DCS would approach the Labour Court to obtain a restraining order against him. Mr Nxele indicated that he would return to work as per the outcome of the 
+
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 475
+
+  inquiry. On 13 February 2022, the appellant instituted urgent proceedings in the Labour Court to interdict him from returning to work.
+
+The following day, members of the DCS National Emergency Response Team prevented Mr Nxele from entering the DCS premises on his arrival at work. On 23 February 2022, the Labour Court dismissed the appellant’s urgent application. Prior to this, on 22 February 2022, Mr Nxele was notified of the appellant’s intention to place him on precautionary suspension. On 28 February 2022, he was placed on precautionary suspension pending the finalisation of an investigation into his attempt to report for duty on 14 February 2022. On 28 March 2022, Mr Nxele referred an unfair labour practice dispute challenging the fairness of his suspension to the General Public Service Sectoral Bargaining Council (“GPSSBC”).
+On 5 May 2022, he was given notice to attend a disciplinary hearing from 24 to 27 May 2022 in relation to a number of charges, six of which pertained to his attempt to report for duty in February 2022. In addition, Mr Nxele was charged with having addressed a letter to the Minister of Justice and Correctional Services on 11 February 2022 and the Deputy Minister of Correctional Services on other occasions regarding the conduct of the appellant. On 17 May 2022, Mr Nxele approached the Labour Court seeking that it order that the disciplinary hearing scheduled to be held against him be converted into a hearing in terms of section 188A(11) of the LRA, together with an order that his suspension had lapsed since 60 days had elapsed since he had been suspended. 
+
+Judgment of the Labour Court 
+The Labour Court rejected the appellant’s contention that Mr Nxele’s suspension was lis alibi pendens in that the fairness of his suspension remained pending before the GPSSBC and that the application before the Labour Court originated from the same subject matter, concerned the same parties and related to the same cause of action as the suspension issue before the GPSSBC. The Court found that the GPSSBC was tasked with determining the fairness of Mr Nxele’s suspension, while the Labour Court was required to consider its lawfulness. Since the causes of action were not the same, the requirement of a successful plea of lis alibi pendens had not been met. The continued suspension of Mr Nxele was therefore found to be unlawful and was set aside.
+Noting that it was common cause that Mr Nxele had made a protected disclosure against Mr Fraser in 2018, the Labour Court found that the appellant had contravened the PDA in instituting disciplinary proceedings against him in May 2022. This was so in that, from an objective consideration of the facts, a nexus existed between the protected disclosure made and the disciplinary charges instituted. In 2020, the chairperson of the first disciplinary hearing found that Mr Nxele believed in good faith that the charges were in contravention of the PDA; after the outcome of the section 188A(11) inquiry on 7 February 2022, Mr Nxele was advised that his presence at the workplace was unwanted; on 13 February 2022 he was 
+
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 476
+
+  served with an application to review the award and to interdict his return to work; on 14 February 2022, having been reinstated, members of the National Emergency Response Team had been deployed to deny him access to the workplace; and that all charges, but one, in the second disciplinary hearing concerned the events of 14 February 2022.
+
+The Labour Court found there to be a direct correlation between the 2020 charges and the second set of disciplinary charges, with “the [appellant’s] most recent conduct . . . capable of being viewed as no more than the continuation of a pattern of victimisation of [Mr Nxele]”. While it was recognised that the current appellant, appointed in September 2021, had no personal knowledge of the substance of the protected disclosure, it was found not to be objectively unreasonable for Mr Nxele to hold a subjective belief that the appellant’s conduct was in keeping with that of his predecessors. It was therefore ordered that the disciplinary enquiry be converted into a section 189A(11) inquiry by an arbitrator. The rule nisi issued was confirmed with costs and the appellant’s counter-application was dismissed with no order of costs.
+
+On appeal
+The appellant contended on appeal that the Labour Court had erred in that a rational connection and stricter nexus between the 2018 protected disclosure and the 2022 charges was required to justify the order made, with the events of 14 February 2022 unrelated to the 2018 protected disclosure made. Since such nexus did not exist, no occupational detriment had occurred. In relation to Mr Nxele’s suspension, the Court was said to have incorrectly divorced the issues of alleged unlawfulness from unfairness and erred in identifying two distinct causes of action. The appellant therefore sought that the appeal be upheld with costs and the decision of the Labour Court set aside.
+Mr Nxele opposed the appeal on the basis that the objective facts indicated a discernible nexus between the protected disclosure and the disciplinary charges he faced. In relation to the appellant’s claim of lis alibi pendens, the issue was said to be moot in that Mr Nxele had since returned to work and upholding the appeal would be of academic interest only more so since the GPSSBC had determined the suspension issue in his favour.
+
+Evaluation
+Section 188A(1) of the LRA permits an employer, with the consent of an employee, or in accordance with a collective agreement, to request the CCMA or bargaining council to appoint an arbitrator to conduct an inquiry into allegations about the conduct or capacity of that employee. Section 188A(11) provides that:
+
+“Despite subsection (1), if an employee alleges in good faith that the holding of an inquiry contravenes the Protected Disclosures Act, 2000 (Act No. 26 of 2000), that employee or the employer may require that an inquiry be conducted in terms of this section into allegations by the employer into the conduct or capacity of the employee.”
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 477
+There is no dispute that Mr Nxele made a protected disclosure in 2018. The issue on appeal is whether the Labour Court was correct in finding that he had alleged in good faith that the holding of a disciplinary enquiry on the 2022 charges amounted to a contravention of the PDA and whether he was therefore entitled to have the disciplinary proceedings converted into an inquiry by arbitrator under section 188A(11) of the LRA.
+There is no obligation on an employee who seeks to rely on section 188A(11) to prove that the holding of the disciplinary hearing constitutes a contravention of the PDA.3 Rather, what is required is that the employee alleges in good faith that the holding of an inquiry does so. 
+In his founding affidavit, Mr Nxele recorded his belief –
+
+‘ . . . in good faith that the holding of this disciplinary inquiry is a contravention of the [PDA]. At the outset I emphasise that I am not seeking to prevent [the appellant] from subjecting me to a disciplinary enquiry. I am simply seeking that I respond to the misconduct allegations levelled against me in an independent forum contemplated in section 188A of the LRA.’
+
+Mr Nxele continued that when the urgent interdict was served on him on 13 February 2022, the appellant also issued a media statement announcing that he remained on suspension. On 5 May 2022, at the arbitration hearing at which his unfair suspension dispute was considered by the GPSSBC, the appellant served a “proposed” charge sheet dated 22 March 2022 on Mr Nxele, with no date or venue at which the hearing would be convened. In a subsequent email dated 16 May 2022, Mr Nxele received notice that the hearing would be held from 24 May 2022 to 27 May 2022 in Pretoria, although his workplace is in Pietermaritzburg. On 17 May 2022, Mr Nxele sought that the hearing be converted into an inquiry by an arbitrator in terms of section 188A(11) and that his suspension be uplifted given that it had lapsed in terms of the SMS Handbook. 
+In his application to the Labour Court, Mr Nxele stated that:
+
+“. . . since 2016 up to now the national commissioners of the Department have been on a mission to get rid of me. My only sin is that I reported allegations of impropriety and/or irregularities committed by Messrs Modise and Fraser. I have survived three full blown disciplinary proceedings which were initiated by the previous national commissioners with the aim of getting rid of me at all costs . . . All I am asking for is that, like the other two disciplinary inquiries, this one must also be dealt with in terms of section 188A as an inquiry by arbitrator, as I strongly believe that this is a continuation of my persecution that started in 2016.”
+
+He stated that he did not have faith, given his historical experience, in any disciplinary inquiry under the control of the appellant and chaired by a chairperson appointed by or on behalf of the appellant given that:
+
+“It does not require a rocket scientist to realise that it is the desire of the [appellant] that I should be dismissed from work even if I did not commit any 
+
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 478
+
+misconduct, as evident from the latest spurious misconduct allegations contained in the ‘proposed charge sheet’. The [appellant] has already displayed that he is prepared to abuse his power by ordering that the disciplinary enquiry be held in Pretoria whilst I am based in Pietermaritzburg, something unprecedented in the Department.”
+
+In considering whether Mr Nxele had raised the allegation in good faith, the Labour Court relied on the decision of Radebe and another v Premier, Free State Province and others4 (“Radebe”) in which this Court made reference to the United Kingdom Appeal Court (Civil Division) decision of Street v Derbyshire Unemployed Workers’ Centre.5 In that matter, it was stated that:
+
+“Shorn of context, the words ‘in good faith’ have a core meaning of honesty. Introduce context, and it calls for further elaboration. Thus in the context of a claim or representation, the sole issue as to honesty may just turn on its truth. But even where the content of the statement is true or reasonably believed by its maker to be true, an issue of honesty may still creep in according to whether it is made with sincerity of intention for which the Act provides protection or for an ulterior and, say, malicious, purpose. The term is to be found in many statutory and common law contexts, and because they are necessarily conditioned by their context, it is dangerous to apply judicial attempts at definition in one context to that of another.”
+
+The concept of good faith is sensitive to context. The undisputed facts before the Labour Court were that the appellant refused to accept the outcome of the section 188A(11) inquiry. This response caused the appellant on Sunday 13 February 2022 to serve on Mr Nxele an application to review the outcome of the inquiry and an application to interdict his return to work. When Mr Nxele sought to return to work on 14 February 2022, there was no lawful impediment on him from doing so, yet, the appellant nevertheless had deployed members of the National Emergency Response Team to bar Mr Nxele from entering the DCS premises and resuming his duties. Mr Nxele was then suspended from duty and at the ensuing arbitration hearing in May 2022 considering the fairness of his suspension, he was served proposed disciplinary charges, related in the main to his failed attempt to return to work on 14 February 2022. In addition, Mr Nxele was notified that the disciplinary hearing which would consider such charges would be held in Pretoria and not in Pietermaritzburg where he worked. 
+The appellant was aware the first disciplinary hearing instituted against Mr Nxele had been converted into a section 188A(11) inquiry which found that he had raised the allegation in good faith and that the holding of such disciplinary hearing contravened the PDA. Yet, in spite of this, the appellant’s response to the outcome of that inquiry was not only calculated but also unusual in a number of respects. The appellant immediately sought to bar Mr Nxele’s return to work, going as far as to serve 
+
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 479
+
+  review papers and an interdict application on him on a Sunday. Furthermore, he caused members of the National Emergency Response Team to be deployed to bar Mr Nxele from physically entering the DCS premises and resuming his duties. This was not an ordinary response to the outcome of an inquiry with which an employer took issue. It was a heavy-handed and directed response which reflected a particular and unusual degree of antipathy to the outcome of the inquiry and the return of a senior employee to work. There was no indication why such a response was required and no reason advanced why Mr Nxele’s return to work would pose any particular threat or danger given his position in the DCS if this was not related to the protected disclosure he had previously made. 
+
+The appellant’s decision thereafter to institute disciplinary proceedings against Mr Nxele related to his attempt to return to work was a similarly unusual and heavy-handed response to the events which had transpired in circumstances in which Mr Nxele was legally entitled to return to work given the outcome of the inquiry, and his attempt to contact politicians responsible for correctional service could not reasonably justify him being physically barred from reporting for duty in the matter that occurred. His suspension from duty and the decision to serve proposed disciplinary charges on Mr Nxele at the arbitration hearing convened to consider the fairness of his suspension reflected a clear intent on the part of the appellant to take whatever steps necessary to prevent Mr Nxele’s return, with the decision to hold the hearing to consider such charges in Pretoria and not in Pietermaritzburg where he worked being similarly calculated. 
+
+ [23]   Given as much, the Labour Court did not err in finding that on the facts there existed a direct correlation between the protected disclosure of 2018 and the 2022 charges which were directly related to the implementation of the findings of the section 188A(11) inquiry held. The appellant’s deep dissatisfaction with the outcome of the inquiry was evident in the steps taken to physically bar Mr Nxele from attending work and the new disciplinary charges instituted against him. In these circumstances, the Court cannot be faulted in finding that “the  [appellant’s] most recent conduct . . . [was] capable of being viewed as no more than the continuation of a pattern of victimisation of [Mr Nxele]”. This was so given that there existed a clear nexus between the protected disclosure made, the outcome of the section 188A(11) inquiry and the new disciplinary charges instituted in May 2022 against Mr Nxele. Clear support therefore existed that Mr Nxele had alleged in good faith that the appellant had taken disciplinary action against him on account of or partly on account of his having made the protected disclosure that he did. 
+
+The Labour Court did not therefore err in finding that a nexus had been shown to exist and that Mr Nxele had alleged in good faith that the holding of the scheduled disciplinary hearing contravened the PDA, section 3 of which prohibits an employer from subjecting an employee to any occupational detriment “on account, or partly on account, of having made a protected disclosure”, with an occupational detriment defined in section 1 in relation to an employee as including “being subjected to any disciplinary action”. Mr Nxele consequently held a clear right to the relief sought 
+
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 480
+
+  by him in terms of section 188A(11) and the Labour Court cannot be faulted for confirming the rule nisi issued. There is no merit in the appellant’s contention that the Labour Court unduly strained the interpretation of section 188A(11), nor in the contention that a fact-based enquiry was not undertaken by the Court. For the reasons advanced, the facts did not support a conclusion that the disciplinary hearing instituted in 2022 had nothing to do with Mr Nxele’s previous protected disclosure. 
+
+Turning to the Labour Court’s finding that Mr Nxele’s suspension was unlawful, it is a relevant consideration that the GPSSBC found his suspension to be unfair, ordered that it be uplifted and that Mr Nxele returns to work in September 2022. That decision remains the subject of a pending review at the instance of the appellant in the Labour Court. However, since Mr Nxele has returned to work, the appeal against the finding that his suspension was unlawful is moot insofar as it is an issue of purely academic interest and no purpose would be served in determining the merits of the contention that the defence of lis alibi pendens was available to the appellants, given that when the matter was determined by the Labour Court there existed pending litigation between the same parties or their privies, based on the same course of action, in respect to the same subject matter at the GPSSBC. 
+It is so that mootness is not an absolute bar to the justiciability of an issue and that a court enjoys a discretion whether or not to hear a matter. The test is one of the interests of justice, with a relevant consideration being whether the order that the court may make will have any practical effect either on the parties or on others. The Court may decide to resolve an issue that is moot if to do so would be in the public interest in the sense that it will either benefit the larger public or achieve legal certainty.6 In this matter, no interests of justice, nor public interest will be served by deciding the merits of the issue raised. 
+As to costs, it was argued for the appellant that Mr Nxele approached the Labour Court on very short notice and that the costs order made by the Labour Court was not justified. It is trite that in labour matters costs do not simply follow the result, with the general rule, as stated in Union for Police Security and Corrections Organisation v South African Custodial Management (Pty) Ltd and others7 (“Union for Police Security”), being that the losing party should not be mulcted in costs in such matters. The Court is required, in exercising its discretion on costs, to strike a fair balance between not unduly discouraging parties from approaching it to have 
+
+
+
+ 
+[2025] 5 BLLR 472 (LAC) at 481
+
+  their disputes dealt with, while not allowing frivolous cases to be brought to the Court.8
+
+I am unable to find that the Labour Court erred in the exercise of its discretion that the appellant be held liable for Mr Nxele’s costs in his application to that Court. The relevant considerations of law and fairness were considered appropriately and no basis has been advanced to support a finding that the Labour Court erred in the exercise of its discretion in this regard. 
+As to the costs on appeal, having regard to considerations of law and fairness, the costs of the appeal, including those in respect of the reinstatement and condonation applications made, should be borne by the appellant. This is so given the facts of the matter; the conduct of the appellant, including the continued litigation of the matter apparently with limited regard to the consequence of doing so on the public purse; and the limited merit found to exist in the appeal. Given as much, I can find no reason why considerations of law and fairness would require Mr Nxele to be saddled with the costs of opposing this appeal. 
+For all of these reasons, the appeal falls to be dismissed with costs and the following order is therefore made:
+
+Order
+The appeal is reinstated and condonation for the late filing of the record of appeal and notice of appeal is granted.
+The appeal is dismissed with costs, including the costs of the reinstatement and condonation applications. 
+
+(Van Niekerk JA and Govindjee AJA concurred in the judgment of Savage ADJP.)
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  Act 66 of 1995, as amended.
+2	  Act 26 of 2000, as amended.
+3	  S 3 of the PDA prohibits an employer from subjecting an employee to any occupational detriment “on account, or partly on account, of having made a protected disclosure”, with an occupational detriment defined in section 1 in relation to an employee as including “being subjected to any disciplinary action”.
+4	  [2012] ZALAC 15; (2012) 33 ILJ 2353 (LAC) at para [37] [also reported at [2012] 12 BLLR 1246 (LAC) – Ed].
+5	  [2004] EWCA Civ 964; [2004] 4 All ER 839 at para [41].
+6	  Van Wyk v Unitas Hospital and another (Open Democratic Advice Centre as Amicus Curiae) [2007] ZACC 24 (CC); 2008 (2) SA 472 (CC) at para [29] [also reported at 2008 (4) BCLR 442 (CC) – Ed]. See National Union of Metalworkers of South Africa and others v Vulcania Reinforcing Co (Pty) Ltd and another [2022] ZALAC 91 (LAC); (2022) 43 ILJ 1307 (LAC) [also reported at [2022] 10 BLLR 913 (LAC) – Ed]. 
+7	  [2021] ZACC 26 (CC); 2021 (11) BCLR 1249 (CC) at paras [39]–[40].
+8	  Member of the Executive Council for Finance, KwaZulu-Natal and another v Dorkin NO and another [2007] ZALAC 41 (LAC); (2008) 29 ILJ 1707 (LAC) at para [19] [also reported at  [2008] 6 BLLR 540 (LAC) – Ed].
+
+For the appellant:
+
+TP Kruger SC and C D’Alton instructed by the State Attorney
+For the first respondent:
+
+B Mgaga of Garlicke & Bousfield Incorporated
+
+
+End of Document

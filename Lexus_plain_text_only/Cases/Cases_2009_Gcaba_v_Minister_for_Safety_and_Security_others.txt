@@ -1,0 +1,427 @@
+
+
+
+
+Gcaba v Minister for Safety and Security & others [2009] 12 BLLR 1145 (CC)
+Labour Law Reports
+
+Division: Constitutional Court
+Case No: CCT64/08
+Date: 07/10/2009
+Before: DE Moseneke Deputy Chief Justice, E Cameron, Y Mokgoro, SS Ngcobo, BE Nkabinde, CME O’Regan, TL Skweyiya, ZM Yacoob and JV van der Westhuizen Justices
+Keywords
+
+
+Appeal from the High Court
+Administrative law — Administrative action — Employer’s decision not to promote employee not constituting administrative action subject to review.
+Administrative law — Application to labour matters — Administrative law not applying to disputes where cause of action and remedy covered by LRA — Employee’s complaint relating to promotion not constituting administrative action.
+Constitutional Court — Leave to appeal — Matter posing questions relating to interplay between administrative and labour law and involving judgment that gave rise to conflicting judgments of lower courts — Interests of justice requiring Constitutional Court to determine issue.
+High Court — Jurisdiction — Court lacking jurisdiction in matters where cause of action and remedy catered for by LRA, but retaining jurisdiction in matters where cause of action not covered by LRA, even if arising from employment — True cause of action to be determined from pleadings, and court lacking jurisdiction because applicant complaining of alleged unfair failure to promote.
+Labour Court — Jurisdiction — Court having exclusive jurisdiction over matters where cause of action and remedy catered for by LRA — Employee’s complaint relating to unsuccessful application for promotion a “labour matter” falling within court’s exclusive jurisdiction.
+Sections of the LRA considered: 
+Section 157(1)
+Section 157(2)
+
+Editor’s Summary
+
+
+After the applicant had acted as SA Police Service station commissioner, Grahamstown, for more than two years, the post was upgraded. The applicant applied unsuccessfully for the upgraded post. He lodged a grievance, which was not pursued, then referred a dispute to the Safety & Security Sectoral Bargaining Council. The employer failed to attend the pre-arbitration meeting and the applicant filed an application in the High Court for review of the decisions by the National and Provincial Commissioners of the SA Police Service not to appoint him to the post. Following Chirwa v Transnet Ltd & others [2008] 
+[2009] 12 BLLR 1145 (CC) at 1146
+2 BLLR 97 (CC), the High Court held that it lacked jurisdiction to entertain the application because it related to an employment matter. The applicant contended that since his claim was couched largely in administrative law terms, the High Court had jurisdiction to entertain the matter, and that the court a quo had erred by finding that it was bound by Chirwa. The applicant contended that his claim was not an employment matter, but related to the appointment to a post in the public sector, which concerned the public at large and that the employer’s failure to promote him constituted administrative action reviewable by the High Court.
+
+Dealing first with whether the applicant had raised a constitutional matter, the Court noted that the appeal concerned the interplay between administrative and labour law principles, and necessarily involved the interpretation of both the Labour Relations Act 66 of 1995 and the Promotion of Administrative Justice Act 3 of 2000. Although the matter was arguably moot because the applicant and the incumbent had both since accepted new postings, the jurisprudential issues raised dictated that it was in the interests of justice that the matter be heard.
+
+The Court held that two issues were before it: (i) whether the failure to promote the applicant constituted administrative action; (ii) whether the High Court had correctly ruled that it lacked jurisdiction to entertain the matter. The Court noted that, after Chirwa, supra and Fredericks & others v MEC for Education & Training, Eastern Cape & others [2002] 2 BLLR 119 (CC) divergent schools of thought had emerged over the proper interpretation of sections 157(1) and (2) of the LRA. Some courts had endorsed the view that the Labour Court and the High Court have concurrent jurisdiction over labour disputes, while others had concluded that the Labour Court has exclusive jurisdiction over all such matters. 
+
+The Court accepted that the same conduct may threaten or violate different constitutional rights and give rise to different causes of action in law, and also that human rights are interdependent and indivisible. However, the Court noted that the Constitution also recognises the need for specificity and specialisation in a modern society under the rule of law. Different kinds of relationship between the State and citizens and between citizens are dealt with in different provisions, and the Legislature has been mandated to create detailed legislation regulating certain rights. Once a system of rules and structures has been crafted to deal with a particular right, it is preferable that that system be used. Forum-shopping is undesirable, especially once a litigant has chosen a specific cause of action.
+
+The Court noted further that, in view of the perceived tensions between Fredericks and Chirwa, the meaning and purpose of the doctrine of precedent must be kept in mind. Precedent must be accepted to preserve certainty and equality before the law. This was why courts of appeal, and especially the Constitutional Court, should be especially wary of not departing from earlier decisions. However, both the Constitution and legislation flowing from it are young. As jurisprudence develops, understanding may increase and interpretations change. While the Court should not lightly depart from its earlier decisions, this may be justified when an earlier decision has given rise to uncertainty and controversy, leading to conflicting decisions in lower courts.
+
+Turning to whether the decision not to promote the applicant constituted administrative action, the Court held that, generally, employment and labour relationships do not give rise to administrative action as contemplated by the PAJA. Section 23 of the Constitution regulates the relationship between employer and employee, but section 33 does not. A grievance raised by employees relating to the conduct of the State as employer has few if any direct implications or consequences for other citizens. Employment disputes are therefore not to be equated with matters such as tenders. 
+
+The Court held that, just as was found to be the case in Chirwa, the applicant’s complaint was quintessentially a labour matter, in this case based on the applicant’s right to fair labour practices. The Court, accordingly, concluded that, had the High Court  
+[2009] 12 BLLR 1145 (CC) at 1147
+entertained the matter, the application would inevitably have failed because the applicant would not have made out the case with which he had approached that court – namely, that his administrative law rights had been infringed.
+
+As to whether the High Court had jurisdiction, the Court noted that the Labour Court and other LRA structures had been specially created to adjudicate labour disputes such as unfair dismissals, and not, for example, applications for administrative review, which, like alleged violations of constitutional rights, fall within the purview of the High Court. Section 157(1) of the LRA confirms that the Labour Court has exclusive jurisdiction over all matters which the Act prescribes must be determined by that court. Section 157(1) should be given an expansive interpretation, and section 157(2) must not be interpreted to restrict it. The purpose of section 157(2) – which, inter alia, gives the Labour Court “concurrent jurisdiction” with the High Court in matters concerning violations of the fundamental rights – is to extend the jurisdiction of the Labour Court to embrace disputes arising from employment involving violations of fundamental rights. Section 157(2) must not be understood to extend the High Court’s jurisdiction to determine issues expressly reserved for the Labour Court by section 157(1). However, section 157(2) so interpreted must not be taken to mean that the High Court is divested of jurisdiction where a cause of action and remedy lies within its jurisdiction.
+
+The Court held further that a court’s jurisdiction is determined on the basis of the pleadings, not on the substantive merits of a case. If the pleadings, properly interpreted, establish that the applicant is asserting a claim under the LRA, the High Court lacks jurisdiction. Since the applicant was unable to sustain a cause of action cognisable by the High Court, he should have approached the Labour Court. The High Court’s order was accordingly correct.
+
+The Court added that, insofar as its judgment differed from Chirwa, supra or Fredericks, supra, it is the most recent authority.
+
+The application for leave to appeal was granted, but the appeal was dismissed.
+
+____________________________________________________________________________________
+
+Van der Westhuizen J:
+
+Introduction
+One of the purposes of law is to regulate and guide relations in a society. One of the ways it does so is by providing remedies and facilitating access to courts and other fora for the settlement of disputes. As supreme law, the Constitution protects basic rights. These include the rights to fair labour practices and to just administrative action. Legislation based on the Constitution is supposed to concretise and enhance the protection of these rights, amongst others, by providing for the speedy resolution of disputes in the workplace and by regulating administrative conduct to ensure fairness.
+Yet the Legislature, courts, legal representatives and academics often create complexity and confusion rather than clarity and guidance. In the case of fairly new legislation based on a young Constitution this is perhaps understandable. Sometimes a jurisprudence needs to develop along with the insight and wisdom emerging from a debate over some time. The Legislature may also have to intervene in appropriate circumstances, for example, when incremental development results in uncertainty or an otherwise unsatisfactory situation. 
+[2009] 12 BLLR 1145 (CC) at 1148
+The decisions of this Court in Fredericks1 and Chirwa,2 as well as preceding jurisprudence of the Supreme Court of Appeal and other courts,3 have resulted in differences of opinion in subsequent jurisprudence on the proper interpretation and application of overlapping constitutional, administrative and labour law provisions and principles, especially with regard to disputes between public sector employees and their employers.4 This matter gives this Court, as the highest court in all constitutional matters,5 an opportunity to provide some clarity and guidance, based on a proper interpretation of the relevant provisions of  
+[2009] 12 BLLR 1145 (CC) at 1149
+  the Constitution, the Labour Relations Act (“LRA”)6 and the Promotion of Administrative Justice Act (“PAJA”).7
+This is an application for leave to appeal against a judgment of Erasmus J in the Eastern Cape High Court in Grahamstown (High Court). The main question is whether the High Court was correct in holding that it did not have jurisdiction to entertain the application to review and set aside the decision of the South African Police Service (“SAPS”) not to appoint Mr Gcaba, the applicant, as station commissioner in Grahamstown and in consequently dismissing the application.
+The determination of this question will be informed by the answers to questions such as whether the decision not to appoint the applicant was administrative action and, thus, subject to administrative review, whether an applicant whose claim is based on a labour matter may approach a High Court or has to follow the channels provided for by the LRA and whether this Court’s decisions in Fredericks, supra and Chirwa, supra can be reconciled.
+
+Factual background
+During September 2003, the applicant was appointed as station commissioner, Grahamstown. He occupied this position until the end of February 2006. When the position was upgraded, the applicant applied, was shortlisted and went through the interview process. However, he was not appointed. The fourth respondent, Mr Govender, got the position instead.
+The applicant lodged a grievance with the SAPS, but later abandoned the process and elected to refer the dispute to the Safety and Security Sectoral Bargaining Council (“Bargaining Council”). After the failure of the representative of the SAPS to attend the pre-arbitration meeting, the applicant withdrew the dispute from the Bargaining Council and approached the High Court with an application to review the decision of the second and third respondents (the National and Provincial Commissioners of the SAPS respectively) not to appoint him as station commissioner.
+Erasmus J held that the High Court lacked jurisdiction to entertain the application as it related to an employment matter. In the result, he dismissed the application. The High Court considered itself bound by this Court’s decision in Chirwa, supra, as interpreted by the full bench of the Bhisho High Court in Nonzamo Cleaning Services v Appie.8 In Nonzamo, supra the Bhisho High Court held, that to the extent that Chirwa and Fredericks were mutually irreconcilable, Chirwa, supra, should be seen to have overruled Fredericks, supra.
+
+Constitutional and legislative framework
+It is necessary to sketch the legislative framework within which the questions raised in this matter are to be determined. 
+[2009] 12 BLLR 1145 (CC) at 1150
+The right to fair labour practices is enshrined in section 23 of the Constitution.9 The LRA was promulgated pursuant thereto to provide particularity and content to section 23.
+The right to just administrative action is entrenched in section 33 of the Constitution.10 It is specifically required in section 33(3) that national legislation be enacted to give effect to this right. PAJA was enacted to comply with this mandate.
+The LRA created procedures and institutions to deal with labour disputes. The Labour Court is central in this regard. Section 157 of the LRA provides for the jurisdiction of the Labour Court as follows:
+
+ “(1) Subject to the Constitution and section 173, and except where this Act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters that elsewhere in terms of this Act or in terms of any other law are to be determined by the Labour Court.
+
+  (2) The Labour Court has concurrent jurisdiction with the High Court in respect of any alleged or threatened violation of any fundamental right entrenched in Chapter 2 of the Constitution of the Republic of South Africa, 1996, and arising from– 
+
+ (a) employment and from labour relations;
+
+ (b) any dispute over the constitutionality of any executive or administrative act or conduct, or any threatened executive or administrative act or conduct, by the State in its capacity as an employer; and 
+
+ (c) the application of any law for the administration of which the Minister is responsible.”11
+
+As to the Labour Appeal Court, section 173 of the LRA states:
+
+ “(1) Subject to the Constitution and despite any other law, the Labour Appeal Court has exclusive jurisdiction – 
+
+ (a) to hear and determine all appeals against the final judgments and the final orders of the Labour Court; and
+
+ 
+[2009] 12 BLLR 1145 (CC) at 1151
+
+ (b) to decide any questions of law reserved in terms of section 158(4).
+
+ . . .
+
+  (4) A decision to which any two judges of the Labour Appeal Court agree is the decision of the Court.”
+
+Section 191 of the LRA provides for the procedure regarding unfair dismissals and unfair labour practices.12 
+[2009] 12 BLLR 1145 (CC) at 1152
+In relation to the jurisdiction of High Courts, section 169 of the Constitution states:
+
+“A High Court may decide– 
+
+ (a) any constitutional matter except a matter that – 
+
+ (i) only the Constitutional Court may decide; or
+
+ (ii) is assigned by an Act of Parliament to another court of a status similar to a High Court; and 
+
+  (b) any other matter not assigned to another court by an Act of Parliament.”
+
+Issues
+Two preliminary issues have to be determined, namely whether a constitutional issue is raised and whether it is in the interests of justice for this Court to grant leave to appeal.
+This Court may decide only constitutional matters and issues connected with decisions on constitutional matters.13 The interplay between administrative and labour law principles within the context of public sector employment is at the centre of this matter. It necessarily involves the interpretation of the LRA and the PAJA, the origins of which are firmly rooted in the Constitution. Furthermore, this matter revolves around the interpretation of previous decisions of this Court. A constitutional issue is, therefore, raised.
+Is it in the interests of justice to grant leave to appeal, especially in view of the possible mootness of this matter? The position of Grahamstown station commissioner is now held by the fifth respondent, Mr Moyake. The applicant has accepted a posting to a different station; so too has the fourth respondent, Mr Govender. The parties disagree in their understanding of the present factual state of the dispute. However, they agree that the importance of the issues requires a definitive pronouncement by this Court. Although the resolution of the dispute between the applicant and the SAPS may appear to be an academic exercise, the jurisprudential implications of the matter dictate that it is in the interests of justice to hear it. It is not necessary to decide on the different views of the parties as to the exact factual situation at present.
+As to the merits, the crisp issues for consideration by this Court are – 
+whether the failure to promote and appoint the applicant was administrative action subject to review; and
+whether the High Court correctly decided that it had no jurisdiction to hear the matter.
+
+Schools of thought in existing jurisprudence
+This Court’s decisions in Fredericks, supra14 and Chirwa, supra15 which gave rise to different interpretations in subsequent jurisprudence,16  
+[2009] 12 BLLR 1145 (CC) at 1153
+
+  concerned litigation premised on the alleged infringement of the right to just administrative action. At the heart of the disputes were decisions by public sector employers, which negatively affected employees and were therefore labour-related.
+
+Fredericks concerned the refusal by the Eastern Cape Department of Education to approve applications for voluntary retrenchment determined in terms of a collective bargaining agreement.17 Chirwa dealt with the dismissal by the Transnet Pension Fund, a division of Transnet Limited, of an employee.18 In both matters the parties approached the respective High Courts to have the decisions reviewed and set aside. The High Court in Fredericks held that on the proper construction of the LRA it did not have jurisdiction to consider the matter. The High Court in Chirwa assumed that it did have jurisdiction to hear the matter, and on appeal the Supreme Court of Appeal upheld the High Court’s concurrent jurisdiction with the Labour Court to entertain the applicant’s claim.19 The question which arose for consideration by this Court in both matters was thus whether Parliament had conferred the jurisdiction to determine the disputes upon the Labour Court in such a manner that it either expressly or by necessary implication excluded the jurisdiction of the High Court.20
+In Fredericks, the applicants founded their claim upon the alleged infringement of their right to equality and just administrative action, enshrined in sections 9 and 33 of the Constitution respectively.21 The High Court held that the dispute concerned a collective bargaining agreement, a matter governed by section 24 of the LRA and in respect of which the Labour Court had exclusive jurisdiction under section 157(1) of the LRA.22 As a result, the High Court held that it did not enjoy jurisdiction to entertain the matter.23
+On appeal to this Court, the applicants alleged that the State, in its capacity as employer, did not act procedurally fairly in its consideration of their voluntary retrenchment applications.24 The decision turned on the proper interpretation of section 157 of the LRA25 and section 169 of the Constitution.26 O’Regan J, for a unanimous Court, held that the High Court had jurisdiction to entertain the claim, which was founded on a constitutional right.27 The Court held that the claim was based on the applicants’ “constitutional rights to administrative justice and equal treatment” and flowed “from the special duties imposed upon the State by the Constitution.”28 Where a claim is formulated as a violation of a  
+[2009] 12 BLLR 1145 (CC) at 1154
+  constitutional right the jurisdiction of the High Court will not be ousted. By virtue of section 169, the constitutional jurisdiction of the High Court can only be ousted when a matter is assigned by legislation to a court of similar status to the High Court.29 The Commission for Conciliation, Mediation and Arbitration (“CCMA”) is not a court of similar status to the High Court; therefore, the review of a CCMA decision by the Labour Court is not a substitute for considering a matter afresh.30
+The Court held further that there was no general jurisdiction afforded to the Labour Court in employment matters and that the jurisdiction of the High Court was not ousted by section 157(1) of the LRA simply because a dispute is one that falls within the overall sphere of employment relations. The High Court’s jurisdiction would only be ousted in respect of matters that “are to be determined” by the Labour Court in terms of the LRA. A matter to be determined by the Labour Court as contemplated by section 157(1) means a matter that in terms of the LRA is to be decided or settled by the Labour Court.31
+Other than section 157(2), held the Court, there was no express provision conferring exclusive jurisdiction on the Labour Court to determine disputes concerning alleged infringements of constitutional rights by the state acting in its capacity as employer.32 On the contrary, that section affords concurrent jurisdiction to Labour Courts and High Courts in the limited circumstances prescribed therein.33 The conclusion was that the High Court was incorrect in holding that it lacked jurisdiction to entertain the matter.34
+In Chirwa dismissal for poor work performance was central. Ms Chirwa started with the structures provided for in the LRA, and after her attempts had been frustrated, she approached the High Court. She contended that her dismissal as an employee of an organ of State amounted to administrative action because it constituted an exercise of public power, as contemplated in the Constitution and section 1 of PAJA.35 She therefore claimed that she had two causes of action available to her, one under the LRA and the other flowing from the Bill of Rights and PAJA.36 She maintained that the High Court had concurrent jurisdiction with the Labour Court in respect of her claim.37 
+[2009] 12 BLLR 1145 (CC) at 1155
+In a majority judgment Skweyiya J distinguished Fredericks from Chirwa on the basis that the applicants in Fredericks had expressly disavowed any reliance on the right to fair labour practices, entrenched in section 23(1) of the Constitution, or any other provisions of the LRA.38 He stated:
+
+“Fredericks is distinguishable from the present case. Notably, the applicants in Fredericks expressly disavowed any reliance on section 23(1) of the Constitution, which entrenches the right to a fair labour practice. Nor did the claimants in Fredericks rely on the fair labour practice provisions of the LRA or any other provision of the LRA. The court therefore did not consider, but left open, the question whether a dispute arising out of the interpretation or application of a collective agreement can also give rise to a constitutional complaint as envisaged in section 157(2) of the LRA.”39
+
+In Fredericks the claim, therefore, was not based on the employment contract, but on the applicants’ constitutional rights to administrative justice and equality which Skweyiya J found – reiterating the words of O’Regan J – flow from the “special duties imposed upon the State by the Constitution.”40 The applicants disavowed any reliance on their constitutional labour rights and relied instead on their rights to equality and just administrative action. Therefore, Fredericks was never a labour case or a case where direct reliance was placed on the LRA. According to Skweyiya J, the Court in Fredericks did not consider, but left open the question whether a dispute arising out of the interpretation or application of a collective agreement can also give rise to a constitutional complaint as envisaged in section 157(2) of the LRA.41
+Skweyiya J then addressed the question whether public-sector employment contracts are subject to administrative law, on a jurisdictional basis. Labour issues are to be dealt with in the specialised fora and pursued through the purpose-built mechanisms established by the LRA.42 The purpose of the LRA is to create a system under which all labour disputes can be resolved.43 This is also implied by the provisions of section 210 of the LRA,44 as well as in the purposes of the CCMA, and the concomitant specialist labour tribunals.45 To this end, he viewed the purpose of section 157(2) of the LRA as extending the jurisdiction of the Labour Court to employment matters that implicate constitutional rights.46 He stated, furthermore, that the High Court’s jurisdiction will only be ousted when matters are, according to section 157(1), to be determined by the Labour Court.47 This is implied by section 191 of the LRA,48 which confers unfair  
+[2009] 12 BLLR 1145 (CC) at 1156
+  dismissal jurisdiction on the Labour Court, and not the High Court. Thus, if section 157 is interpreted in the light of section 191, the High Court’s jurisdiction is ousted by section 157(1).49
+Therefore, the decision of the applicants in Fredericks not to rely on the provisions of the LRA removed their claim from the purview of labour law and the exclusive jurisdiction of the Labour Court and placed it within the concurrent jurisdiction of the Labour Court and the High Court.
+The same could not be said for Ms Chirwa’s claim. Having characterised the claim as a labour matter, Skweyiya J held that because her claim was framed in terms that sought to impugn a failure to properly apply sections of the LRA, she had to follow the specialised framework provided for in the LRA. Ms Chirwa’s claim of unfair dismissal was one envisaged by section 191 of the LRA,50 which provided a procedure for its resolution and, by necessary implication, fell within the exclusive jurisdiction of the Labour Court. Ms Chirwa, therefore, should first have exhausted all remedies and procedures provided in the LRA.51 The High Court had no concurrent jurisdiction.52
+It was held further that if the courts were to allow complainants more than one cause of action, a dual system of law would develop: one in the civil courts, and one in the fora provided for under the LRA.53 This would run contrary to the proposed aims of the LRA, one of which is to create a coherent system for dispute resolution in respect of labour matters.
+Skweyiya J did, however, state that labour disputes that raise a constitutional issue are justiciable in the High Court:
+
+“Keeping in mind the aim of the LRA to be a one-stop shop dispute resolution structure in the employment sphere, it is not difficult to see that the concurrent jurisdiction provided for in section 157(2) of the LRA is meant to extend the jurisdiction of the Labour Court to employment matters that implicate constitutional rights. However, this cannot be seen as derogating from the jurisdiction of the High Court in constitutional matters, assigned to it by section 169 of the Constitution, unless it can be shown that a particular matter falls into the exclusive jurisdiction of the Labour Court.”54 (Footnote omitted.)
+
+In a separate judgment, also supported by the majority of the Court, Ngcobo J adopted a purposive interpretation of the LRA and arrived at the same conclusion. He emphasised that the manifest object of the LRA is to subject all employees, irrespective of whether the employer is in the public or private sector, to its provisions, except those who are expressly excluded from its ambit.55 Accordingly, when “an employee alleges non-compliance with provisions of the LRA, the employee must seek the  
+[2009] 12 BLLR 1145 (CC) at 1157
+  remedy in the LRA.”56 Ngcobo J held, therefore, that the dispute between Ms Chirwa and Transnet fell within the exclusive jurisdiction of the Labour Court and that the jurisdiction of the High Court in respect of Ms Chirwa’s claim was ousted.57
+He reconciled section 157(1) and (2)58 by having regard to the primary objects of the LRA itself.59 The problem the Legislature sought to address in enacting the LRA was to overcome the perpetual tribulations caused by the multiplicity of laws, as well as overlapping and competing jurisdictions of the different courts.60 This would entail that section 157(1) equips the Labour Court and the Labour Appeal Court to deal exclusively with employment matters.61 The parallel effect of section 157(2) is to vest in the Labour Court a limited constitutional jurisdiction in employment matters that implicate constitutional rights.62
+According to Ngcobo J, the LRA should be a litigant’s first port of call in employment disputes.63 The only way to reconcile the provisions of section 157(2) and harmonise them with those of section 157(1) and the primary objects of the LRA, is to give section 157(2) a narrow meaning. The application of section 157(2) must be confined to those instances, if any, where a party relies directly on the provisions of the Bill of Rights.64
+He referred to the constitutional principle explicitly endorsed in SANDU v Minister of Defence65 where the Court held that where legislation is enacted to give effect to a constitutional right, a litigant may not bypass that legislation and rely directly on the Constitution without challenging that legislation as falling short of the constitutional standard.66
+Ngcobo J concluded that– 
+
+“[t]he employee cannot, as the applicant seeks to do, avoid the dispute resolution mechanisms provided for in the LRA by alleging a violation of a constitutional right in the Bill of Rights. It could not have been the intention of the Legislature to allow an employee to raise what is essentially a labour dispute under the LRA as a constitutional issue under the provisions of section 157(2) . . . What is, in essence, a labour dispute as envisaged in the LRA should not be labelled a violation of a constitutional right in the Bill of Rights simply because the issues raised could also support a conclusion that the conduct of the employer amounts to a violation of a right entrenched in the Constitution.”67
+
+ 
+[2009] 12 BLLR 1145 (CC) at 1158
+In a minority judgment, Langa CJ concurred in the outcome reached by the majority. However, he disagreed with the reasoning and conclusion on the issue of jurisdiction,68 especially the characterisation of Ms Chirwa’s claim as one falling within the exclusive purview of the LRA.69 According to the minority, it is “axiomatic that the substantive merits of a claim cannot determine whether a court has jurisdiction to hear it.”70 Ms Chirwa founded her case on the basis of PAJA, and a court is required to “assess its jurisdiction in the light of the pleadings.”71 To hold otherwise would mean that the correctness of an assertion determines jurisdiction, a proposition that this Court rejected in Fraser v ABSA Bank.72 In concluding that the High Court had jurisdiction to entertain Ms Chirwa’s claim, Langa CJ stated that a claim “must be approached as it is pleaded”73 and an untenable situation would arise where the jurisdiction of a High Court is determined by the answer to a question that the court could only consider if it had jurisdiction.74
+In the wake of Fredericks and Chirwa divergent schools of jurisprudence have developed on the proper interpretation of section 157(1) and (2) of the LRA, within the context of the rest of the LRA and the Constitution. Each decision was predicated upon the specific factual matrix of that case; however, these decisions have led to a jurisprudential divide on the jurisdiction of the High Court to entertain employment-related disputes.
+A number of cases have endorsed the view that the Labour Court and High Court have concurrent jurisdiction to adjudicate upon labour-related disputes.75 An opposite view has been espoused though, namely that the Labour Court has exclusive jurisdiction over employment matters where the LRA provides expressly for this exclusivity, even going so far as to exclude the jurisdiction of the High Court where the dispute may implicate the infringement of constitutional rights.76
+Furthermore, differing opinions have been expressed as to whether Chirwa “overruled” Fredericks.77 In Makambi an attempt was made to formulate the precise circumstances under which each precedent is to be  
+[2009] 12 BLLR 1145 (CC) at 1159
+  followed.78 In Mkumatela, supra the manner in which the complainants’ claim was formulated was regarded as dispositive of the question of jurisdiction.79 In POPCRU a more robust approach was adopted and constitutional rights were reasoned to be mutually reinforcing and thus complementary.80
+
+The applicant’s case
+The applicant submits that the narrow factual basis upon which Skweyiya J distinguished Fredericks from Chirwa is dispositive of the jurisdictional dispute in this matter.
+Therefore, although reference was made to the LRA, the applicant contends that his claim was, from inception, couched largely in administrative law terms. As a result, it was clear that he was relying on the right to just administrative action as envisaged by PAJA, and any reliance on the right to fair labour practices under the LRA constituted a subsidiary argument.
+In bolstering his argument that the right to just administrative action has been infringed, the applicant contends that the impugned decision was procedurally unfair to the extent that he was not given an opportunity to state his case for appointment. He was not furnished with reasons for the adverse decision, and the decision was not rationally connected to the purpose of the empowering provision or to the information before the administrator.
+The applicant argues, furthermore, that the High Court erred in – 
+holding that it was bound by Chirwa, particularly in holding that it did not have jurisdiction to adjudicate on the matter as Chirwa had overruled Fredericks;
+not following Fredericks;
+holding that the application did not contain a separate and self-standing substantive claim based on the applicant’s right to fair administrative action; and
+failing to distinguish his application from Chirwa in that the dispute in this application is not to be regarded in law as an employment matter, but as a dispute about an appointment to a particular post in the public service which necessarily involves the public at large.
+Accordingly, the applicant contends that the decision not to appoint him was subject to administrative review and should be set aside.
+
+The respondents’ case
+The respondents submit that the application for leave to appeal should be dismissed, for a lack of prospects of success. They draw on the following  
+[2009] 12 BLLR 1145 (CC) at 1160
+  similarities between the facts in the present application with those in Chirwa:
+The applicant, after going through the internal SAPS procedures, referred his dispute to the Bargaining Council. Likewise, Ms Chirwa referred her dispute to the CCMA.
+The applicant later elected not to pursue the processes before the Bargaining Council. Similarly, Ms Chirwa abandoned her case before the CCMA.
+The applicant, like Ms Chirwa, then instituted proceedings in the High Court.
+The respondents argue that the applicant’s claim is a labour matter which, by law, must be adjudicated through the finely-tuned mechanisms provided for in the LRA. The applicant’s initial conduct and his founding affidavit in the High Court placed specific reliance on his right to fair labour practices under the LRA. On the basis of the principle confirmed in Chirwa, the respondents reiterated that the applicant was not entitled to pursue additional causes of action or remedies under PAJA.
+Whilst the respondents accept that the power to appoint was one exercised by an organ of State in terms of the enabling provisions of statute and regulations, they contend that such power is private in nature and vests in the employer. The respondents submit that a decision by an employer whether or not to appoint an applicant for a post is no different from a decision to dismiss, or to change shift arrangements.81
+Finally, the respondents contend that, as was held by the majority in Chirwa, it could not have been the intention of the Legislature to allow a litigant to engage in “forum shopping”, particularly in the light of the objects of the LRA, and on a proper reading of section 157(2) of the LRA.
+
+General principles and policy considerations
+In order to evaluate and understand the divergent but arguable approaches to the interpretation of sections 23 and 33 of the Constitution, section 157 of the LRA and the provisions related thereto, it is useful to try to identify a few general principles and policy considerations which informed and have been informed by the interpretations put forward in Fedlife, supra, Fredericks, Chirwa and other cases.82
+First, it is undoubtedly correct that the same conduct may threaten or violate different constitutional rights and give rise to different causes of action in law, often even to be pursued in different courts or fora. It speaks for itself that, for example, aggressive conduct of a sexual nature in the workplace could constitute a criminal offence, violate equality legislation, breach a contract, give rise to the actio iniuriarum in the law of delict and amount to an unfair labour practice. Areas of law are labelled or named for purposes of systematic understanding and not necessarily on the basis of fundamental reasons for a separation. Therefore, rigid compartmentalisation should be avoided.83 
+[2009] 12 BLLR 1145 (CC) at 1161
+It is, furthermore, generally accepted that human rights are intrinsically interdependent, indivisible and inseparable. The constitutional and legal order is one coherent system for the protection of rights and the resolution of disputes.
+A related principle is that legislation must not be interpreted to exclude or unduly limit remedies for the enforcement of constitutional rights.
+However, another principle or policy consideration is that the Constitution recognises the need for specificity and specialisation in a modern and complex society under the rule of law. Therefore, a wide range of rights and the respective areas of law in which they apply are explicitly recognised in the Constitution. Different kinds of relationships between citizens and the State and citizens amongst each other are dealt with in different provisions. The Legislature is sometimes specifically mandated to create detailed legislation for a particular area, like equality,84 just administrative action (PAJA) and labour relations (LRA). Once a set of carefully-crafted rules and structures has been created for the effective and speedy resolution of disputes and protection of rights in a particular area of law, it is preferable to use that particular system. This was emphasised in Chirwa by both Skweyiya J and Ngcobo J.85 If litigants are at liberty to relegate the finely-tuned dispute resolution structures created by the LRA, a dual system of law could fester in cases of dismissal of employees.86
+Following from the previous points, forum shopping by litigants is not desirable.87 Once a litigant has chosen a particular cause of action and system of remedies (for example, the structures provided for by the LRA) she or he should not be allowed to abandon that cause as soon as a negative decision or event is encountered. One may especially not want litigants to “relegate” the LRA dispensation because they do not “trust”  
+[2009] 12 BLLR 1145 (CC) at 1162
+  its structures to do justice as much as the High Court could be trusted. After all, the LRA structures were created for the very purpose of dealing with labour matters, as stated in the relevant parts of the two majority judgments in Chirwa, referred to above.
+Lastly, in view of the perceived tensions between Chirwa and Fredericks, it may be useful to keep the essential meaning of and the reasons behind the doctrine of precedent in mind. Often expressed in the Latin maxim stare decisis et non quieta movere (to stand by decisions and not to disturb settled matters), it means that in the interests of certainty, equality before the law and the satisfaction of legitimate expectations, a court is bound by the previous decisions of a higher court and by its own previous decisions in similar matters.88
+In Robin Consolidated Industries Ltd v Commissioner for Inland Revenue,89 the Supreme Court of Appeal held that– 
+
+“for good reason this Court is reluctant to depart from its own decisions . . . once the meaning of the words of a section in an Act of Parliament have been authoritatively determined by this Court, that meaning must be given to them, even by this Court, unless it is clear to it that it has erred. . . . Particularly is it important to observe stare decisis when a decision has been acted on for a number of years in such a manner that rights have grown up under it.”90
+
+The doctrine of precedent was affirmed by this Court in the Certification of the Amended Text of the Constitution, 199691 where it stated:
+
+“The sound jurisprudential basis for the policy that a court should adhere to its previous decisions unless they are shown to be clearly wrong is no less valid here than is generally the case.”92
+
+In Van der Walt v Metcash93 the merit of legal certainty and the like treatment of similarly situated litigants was also emphasised.94 Furthermore, in Daniels v Campbell,95 Moseneke J, in a minority judgment, reiterating the dicta in Van der Walt, reasoned that the doctrine of precedent, an incident of the rule of law, advances justice by ensuring certainty of law, equality, equal treatment and fairness before the law. He stated further that to that end, the doctrine imposes a general obligation on a court to  
+[2009] 12 BLLR 1145 (CC) at 1163
+  to follow legal rulings in previous decisions.96 Moseneke J acknowledged the recognised exceptions to the stare decisis principle, namely “where the court is satisfied that its previous decision was wrong or where the point was not argued or where the issue is in some legitimate manner distinguishable.”97
+Therefore, precedents must be respected in order to ensure legal certainty and equality before the law. This is essential for the rule of law. Law cannot “rule” unless it is reasonably predictable. A highest court of appeal – and this Court in particular – has to be especially cautious as far as adherence to or deviation from its own previous decisions is concerned. It is the upper guardian of the letter, spirit and values of the Constitution. The Constitution is the supreme law and has had a major impact on the entire South African legal order – as it was intended to do. But it is young; so is the legislation following from it. As a jurisprudence develops, understanding may increase and interpretations may change. At the same time though, a single source of consistent, authoritative and binding decisions is essential for the development of a stable constitutional jurisprudence and for the effective protection of fundamental rights. This Court must not easily and without coherent and compelling reason deviate from its own previous decisions, or be seen to have done so. One exceptional instance where this principle may be invoked is when this Court’s earlier decisions have given rise to controversy or uncertainty, leading to conflicting decisions in the lower courts.
+
+Was the failure to promote and appoint the applicant administrative action subject to review?
+Before addressing the issue of jurisdiction, and in order to do so, the question must be answered whether the conduct complained of by Mr Gcaba was administrative action.
+Generally, employment and labour relationship issues do not amount to administrative action within the meaning of PAJA. This is recognised by the Constitution. Section 23 regulates the employment relationship between employer and employee and guarantees the right to fair labour practices.98 The ordinary thrust of section 33 is to deal with the relationship between the State as bureaucracy and citizens and guarantees the right to lawful, reasonable and procedurally fair administrative action.99 Section 33 does not regulate the relationship between the State as employer and its workers. When a grievance is raised by an employee relating to the conduct of the State as employer and it has few or no direct implications or consequences for other citizens, it does not constitute administrative action. 
+[2009] 12 BLLR 1145 (CC) at 1164
+In this regard the reasoning of Murphy AJ in SAPU100 is persuasive. The distinction drawn in that decision in relation to tender contracting processes and employment seems correct. For purposes of constitutional interpretation, there are material differences between tender processes and employment. One is that the Constitution regulates the employment relationship expressly in section 23, which it does not do for procurement (although section 217(1) of the Constitution101 does provide that procurement must be fair, equitable, transparent, competitive and cost-effective). Another is that the employment relationship is different from the contractual relationships which underpin procurement. The court concluded that the employment decision at issue in SAPU was not administrative action.102 This does not mean that employees have no protection. Employment is not a bargain of equals, but a relationship of demand. Since the 1980s in South Africa, the Legislature has realised that leaving the regulation of employment purely within the realm of contract law could foster injustice; therefore the relationship is regulated carefully through the LRA. Section 23 is an express constitutional recognition of the special status of employment relationships and the need for legal regulation outside of the law of contract.
+In Chirwa Ngcobo J found that the decision to dismiss Ms Chirwa did not amount to administrative action.103 He held that whether an employer is regarded as “public” or “private” cannot determine whether its conduct is administrative action or an unfair labour practice.104 Similarly, the failure to promote and appoint Mr Gcaba appears to be a quintessential labour-related issue, based on the right to fair labour practices, almost as clearly as an unfair dismissal. Its impact is felt mainly by Mr Gcaba and has little or no direct consequence for any other citizens.
+This view is consistent with the judgment of Skweyiya J in Chirwa, who did not decide this issue, but indicated a leaning in this direction.105 It furthermore does not contradict the unanimous judgment of this Court in Fredericks, which left the issue open.106 There was no dispute about whether the decision at the centre of the dispute was administrative action.
+Accordingly, the failure to promote and appoint the applicant was not administrative action.107 If his case proceeded in the High Court, he  
+[2009] 12 BLLR 1145 (CC) at 1165
+  would have been destined to fail for not making out the case with which he approached this Court, namely an application to review what he regarded as administrative action.108
+
+Jurisdiction under section 157(1) and (2)
+The consequence of the finding that the conduct behind employment grievances like those of Ms Chirwa and the applicant is not administrative action, will substantially reduce the problems associated with parallel systems of law, duplicate jurisdiction and forum shopping. As found in Chirwa, supra, the Labour Court and other LRA structures have been created as a special mechanism to adjudicate labour disputes such as alleged unfair dismissals grounded in the LRA and not, for example, applications for administrative review. The High Court adjudicates the alleged violations of constitutional rights, administrative review applications, and of course all other matters. This corresponds with a proper interpretation of section 157(1) and (2).109
+Section 157(1) confirms that the Labour Court has exclusive jurisdiction over any matter that the LRA prescribes should be determined by it. That includes, amongst other things, reviews of the decisions of the CCMA under section 145.110 Section 157(1) should, therefore, be given expansive content to protect the special status of the Labour Court, and section 157(2) should not be read to permit the High Court to have jurisdiction over these matters as well.
+Section 157(2) confirms that the Labour Court has concurrent jurisdiction with the High Court in relation to alleged or threatened violations of fundamental rights entrenched in Chapter 2 of the Constitution and arising from employment and labour relations, any dispute over the  
+[2009] 12 BLLR 1145 (CC) at 1166
+  constitutionality of any executive or administrative act or conduct by the state in its capacity as employer and the application of any law for the administration of which the minister is responsible.111 The purpose of this provision is to extend the jurisdiction of the Labour Court to disputes concerning the alleged violation of any right entrenched in the Bill of Rights which arise from employment and labour relations, rather than to restrict or extend the jurisdiction of the High Court. In doing so, section 157(2) has brought employment and labour relations disputes that arise from the violation of any right in the Bill of Rights within the reach of the Labour Court. This power of the Labour Court is essential to its role as a specialist court that is charged with the responsibility to develop a coherent and evolving employment and labour relations jurisprudence. Section 157(2) enhances the ability of the Labour Court to perform such a role.112
+Therefore, section 157(2) should not be understood to extend the jurisdiction of the High Court to determine issues which (as contemplated by section 157(1)) have been expressly conferred upon the Labour Court by the LRA. Rather, it should be interpreted to mean that the Labour Court will be able to determine constitutional issues which arise before it, in the specific jurisdictional areas which have been created for it by the LRA, and which are covered by section 157(2)(a), (b) and (c).
+Furthermore, the LRA does not intend to destroy causes of action or remedies and section 157 should not be interpreted to do so. Where a remedy lies in the High Court, section 157(2) cannot be read to mean that it no longer lies there and should not be read to mean as much. Where the judgment of Ngcobo J in Chirwa, supra, speaks of a court for labour and employment disputes, it refers to labour and employment-related disputes for which the LRA creates specific remedies. It does not mean that all other remedies which might lie in other courts like the High Court and Equality Court, can no longer be adjudicated by those courts. If only the Labour Court could deal with disputes arising out of all employment relations, remedies would be wiped out, because the Labour Court (being a creature of statute with only selected remedies and powers) does not have the power to deal with the common law or other statutory remedies.
+The specific term “jurisdiction”, which has resulted in some controversy, has been defined as the “power or competence of a Court to hear and determine an issue between parties.”113 This Court regularly has to decide whether it has jurisdiction over a matter, because it may decide only constitutional matters and issues connected with decisions on constitutional matters.114 If a litigant raises a constitutional issue, this Court has jurisdiction, even though the issue may eventually be decided against the litigant.115 
+[2009] 12 BLLR 1145 (CC) at 1167
+Jurisdiction is determined on the basis of the pleadings, as Langa CJ held in Chirwa, supra116 and not the substantive merits of the case. If Mr Gcaba’s case were heard by the High Court, he would have failed for not being able to make out a case for the relief he sought, namely review of an administrative decision. In the event of the court’s jurisdiction being challenged at the outset (in limine), the applicant’s pleadings are the determining factor. They contain the legal basis of the claim under which the applicant has chosen to invoke the court’s competence. While the pleadings – including in motion proceedings, not only the formal terminology of the notice of motion, but also the contents of the supporting affidavits – must be interpreted to establish what the legal basis of the applicant’s claim is, it is not for the court to say that the facts asserted by the applicant would also sustain another claim, cognisable only in another court. If however the pleadings, properly interpreted, establish that the applicant is asserting a claim under the LRA, one that is to be determined exclusively by the Labour Court, the High Court would lack jurisdiction. An applicant like Mr Gcaba, who is unable to plead facts that sustain a cause of administrative action that is cognisable by the High Court, should thus approach the Labour Court.
+
+Conclusion
+In view of the above, the application for leave to appeal must succeed, but the appeal must fail. The order of the High Court was correct. The applicant’s complaint was essentially rooted in the LRA, as it was based on conduct of an employer towards an employee which may have violated the right to fair labour practices. It was not based on administrative action. His complaint should have been adjudicated by the Labour Court.
+As stated earlier, this Court’s decision in Chirwa has been interpreted to have “overruled” its previous decision in Fredericks, supra, but also as not to have done so. This term was not used in Chirwa, supra, however. The distinction between the two cases was pointed out, as indicated earlier. In this judgment the relevant factual and procedural similarities and differences between Fredericks, Chirwa and Gcaba, supra, are highlighted. To the extent that this judgment may be interpreted to differ from Fredericks or Chirwa, it is the most recent authority.
+No costs should be ordered against the unsuccessful applicant, because he approached this Court with a matter of considerable constitutional import in order to vindicate a fundamental right.
+
+Order
+The following is ordered:
+The application for leave to appeal is granted.
+The appeal is dismissed.
+There is no order as to costs in this Court. 
+[2009] 12 BLLR 1145 (CC) at 1168
+
+(Moseneke DCJ, Cameron, Mokgoro, Ngcobo Nkabinde, O’Regan, Skweyiya and Yacoob JJ concurred in the judgment of Van der Westhuizen J.)
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  Fredericks & others v MEC for Education and Training, Eastern Cape & others [2001] ZACC 6; 2002 (2) BCLR 113 (CC); 2002 (2) SA 693 (CC).
+2	 Chirwa v Transnet Limited & others [2007] ZACC 23; 2008 (3) BCLR 251 (CC); 2008 (4) SA 367 (CC).
+3	 Fedlife Assurance Ltd v Wolfaardt 2002 (1) SA 49 (SCA) [also reported at [2001] 12 BLLR 1301 (SCA) – Ed]; Mbayeka & another v MEC for Welfare, Eastern Cape 2001 (4) BCLR 374 (Tk); Mgijima v Eastern Cape Appropriate Technology Unit & another 2000 (2) SA 291 (Tk); and Mcosini v Mancotywa & another (1998) 19 ILJ 1413 (Tk) [also reported at [1998] JOL 2275 (Tk) – Ed].
+4	  See Kriel v Legal Aid Board & others [2009] ZASCA 76, case number 138/08, 1 June 2009, unreported [reported at [2009] 9 BLLR 854 (SCA) – Ed]; Makhanya v University of Zululand [2009] ZASCA 69, case number 218/08, 29 May 2009, unreported [reported at [2009] 8 BLLR 721 (SCA) – Ed]; Makambi v MEC for Education, Eastern Cape 2008 (5) SA 449 (SCA) [also reported at [2008] 8 BLLR 711 (SCA) – Ed]; Old Mutual Life Assurance Co SA Ltd v Gumbi 2007 (5) SA 552 (SCA) [also reported at [2007] 8 BLLR 699 (SCA) – Ed]; Boxer Superstores Mthatha & another v Mbenya 2007 (5) SA 450 (SCA) [also reported at [2007] 8 BLLR 693 (SCA) – Ed]; Transnet Ltd & others v Chirwa 2007 (2) SA 198 (SCA) [also reported at [2007] 1 BLLR 10 (SCA) – Ed]; United National Public Servants Association of SA v Digomo NO & others [2005] 12 BLLR 1169 (SCA); (2005) 26 ILJ 1957 (SCA); Mohlaka v Minister of Finance & others [2009] 4 BLLR 348 (LC); Mogothle v Premier of the North West Province & another [2009] 4 BLLR 331 (LC); Tsika v Buffalo City Municipality [2009] 3 BLLR 272 (E); 2009 (2) SA 628 (E); De Villiers v Minister of Education, Western Cape & another 2009 (2) SA 619 (C) [also reported at [2009] 1 All SA 362 (C) – Ed]; Nonzamo Cleaning Services Cooperative v Appie & others [2008] 9 BLLR 901 (Ck); 2009 (3) SA 276 (Ck); MEC, Department of Education, Eastern Cape Province & another v Bodlani in re Bodlani v MEC, Department of Education, Eastern Cape Province & another (2008) 29 ILJ 2160 (Tk); Mbashe Local Municipality & another v Nyubuse (2008) 29 ILJ 2147 (E); Kotze v National Commissioner, SA Police Service & another (2008) 29 ILJ 1869 (T); Engineering Council of SA & another v City of Tshwane Metropolitan Municipality & another (2008) 29 ILJ 899 (T); Nakin v MEC, Department of Education, Eastern Cape & another 2008 (6) SA 320 (Ck) [also reported at [2008] 2 All SA 559 (Ck) – Ed]; Mortimer v Municipality of Stellenbosch & another [2008] ZAWCHC 306, case number 18243/2003, 26–7 November 2008, unreported; Mkumatela v Nelson Mandela Metropolitan Municipality & another [2008] ZAECHC 4, case number 2314/06, 28 January 2008, unreported; Kiva v Minister of Correctional Services & another [2007] 1 BLLR 86 (E); (2007) 28 ILJ 597 (E); Nxele v Chief Deputy Commissioner, Corporate Services, Department of Correctional Services & others [2006] 10 BLLR 960 (LC); Nell v Minister of Justice and Constitutional Development & another [2006] 7 BLLR 716 (T); Jones & another v Telkom SA Ltd & others [2006] 5 BLLR 513 (T); (2006) 27 ILJ 911 (T); POPCRU & others v Minister of Correctional Services & others [2006] 4 BLLR 385 (E); Hlope & others v Minister of Safety and Security & others [2006] 3 BLLR 297 (LC); (2006) 27 ILJ 1003 (LC); SAPU & another v National Commissioner of the South African Police Service & another [2006] 1 BLLR 42 (LC); (2005) 26 ILJ 2403 (LC); and Public Servants Association on behalf of Haschke v MEC for Agriculture & others (2004) 25 ILJ 1750 (LC) [also reported at [2004] 8 BLLR 822 (LC) – Ed].
+5	  S 167(3)(a) of the Constitution of the Republic of South Africa, 1996.
+6	  66 of 1995.
+7	  3 of 2000.
+8	  Above fn 4.
+9	  S 23(1) states:
+“Everyone has the right to fair labour practices.”
+10	  S 33 states:
+ “(1) Everyone has the right to administrative action that is lawful, reasonable and procedurally fair.
+ (2) Everyone whose rights have been adversely affected by administrative action has the right to be given written reasons.
+ (3) National legislation must be enacted to give effect to these rights . . . ”
+11	  The rest of s 157 states:
+ “(3) Any reference to the court in the Arbitration Act, 1965 (Act 42 of 1965), must be interpreted as referring to the Labour Court when an arbitration is conducted under that Act in respect of any dispute that may be referred to arbitration in terms of this Act.
+ (4) (a) The Labour Court may refuse to determine any dispute, other than an appeal or review before the Court, if the Court is not satisfied that an attempt has been made to resolve the dispute through conciliation.
+ (b) A certificate issued by a commissioner or a council stating that a dispute remains unresolved is sufficient proof that an attempt has been made to resolve that dispute through conciliation.
+ (5) Except as provided in section 158(2), the Labour Court does not have jurisdiction to adjudicate an unresolved dispute if this Act requires the dispute to be resolved through arbitration.”
+12	  The procedures delineated in s 191 may be summarised as follows:
+ 1. Disputes about unfair dismissals and unfair labour practices may be referred by a dismissed employee, in writing, to a relevant council or to the Commission for Conciliation, Mediation and Arbitration (“CCMA”). Such referral must be made within 30 days of the date of dismissal (or within 30 days of the date on which the employer makes a final decision to dismiss). The referral for an alleged unfair labour practice must be made within 90 days of the date of the conduct which allegedly constitutes the unfair labour practice (or within 90 days of the date on which the employee became aware of the act or occurrence). The relevant council or the CCMA may permit an employee, at any time, on good cause shown to refer the dispute after the relevant time period has expired. The employee must satisfy the council or the CCMA that a copy of the referral has been served on the employer. The council or the CCMA must attempt to resolve the dispute through conciliation.
+ 2. If the dispute remains unresolved after 30 days from the date the council or the CCMA received the referral or it is certified that the dispute remains unresolved, the council or the CCMA must arbitrate the dispute at the request of the employee if (i) the reason for the dismissal is related to the employee’s conduct or capacity; (ii) the employer made continued employment intolerable; (iii) the employee was afforded substantially less favourable conditions or circumstances at work after a transfer in terms of s 197 or 197A; (iv) the employee alleges that the contract of employment was terminated for a reason contemplated in s 187; (v) the employee does not know the reason for dismissal; or (vi) the dispute concerns an unfair labour practice.
+ 3. The employee may refer the dispute to the Labour Court for adjudication (within 90 days after the dispute is certified as unresolved) if the employee alleged that the reason for dismissal was (i) automatically unfair; (ii) based on the employer’s operational requirements; (iii) the employee’s participation in a strike that does not comply with the LRA; or (iv) because the employee refused to join, was refused membership of or was expelled from a trade union party to a closed shop agreement.
+ 4. The relevant council or the CCMA must commence the arbitration immediately after the dispute has been certified as unresolved if the dispute concerns the dismissal of an employee for any reason relating to probation or any unfair labour practice relating to probation.
+ 5. The director of the CCMA must refer the dispute to the Labour Court if the director decides, on application by any party to the dispute, that the referral is appropriate, after considering (i) the reason for dismissal; (ii) whether there are questions of law raised by the dispute; (iii) the complexity of the dispute; (iv) whether there are conflicting arbitration awards that need to be resolved; and (v) the public interest. When considering whether the dispute should be referred to the Labour Court, the director must allow the parties and the relevant commissioner an opportunity to make representations. The director must notify the parties of the decision which is final and binding. The director’s decision may only be taken on review after the dispute has been arbitrated or adjudicated in accordance with the decision to refer the matter to the Labour Court.
+ 6. If an employee is dismissed by reason of the employer’s operational requirements following a consultation procedure in terms of s 189 that applied to that employee only, the employee may elect to refer the dispute either to arbitration or to the Labour Court.
+ 7.  An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the dispute involves the alleged contravention by the employer of s 3 of the Protected Disclosures Act 26 of 2000.
+13	  S 167(3)(b) of the Constitution.
+14	  Above fn 1.
+15	  Above fn 2.
+16	  See the cases cited above fn 4.
+17	  Above fn 1 at para 1.
+18	  Above fn 2 at para 2.
+19	   Transnet Ltd & others v Chirwa above fn 4 at paras 6–10.
+20	 Fredericks above n 1 at para 35; Chirwa above fn 2 at para 20.
+21	 Fredericks & others v MEC Responsible for Education and Training in the Eastern Cape Province [2001] 11 BLLR 1269 (Ck) at 1277G–H.
+22	  Id at 1277F and 1281J–1282B.
+23	   Id at 1281J–1282B.
+24	  Above fn 1 at para 32.
+25	  See [12] above.
+26	  See [15] above.
+27	  Above fn 1 at para 44.
+28	  Id at para 32.
+29	  Id at para 37.
+30	  Id at para 31.
+31	  Id at para 40.
+32	  Id at para 41.
+33	  Id.
+34	  Id at para 45.
+35	  S 1 of PAJA [Promotion of Administration of Justice Act 3 of 2000 – Ed] states:
+“‘administrative action’ means any decision taken, or any failure to take a decision, by – 
+ (a) an organ of state, when – 
+ (i) exercising a power in terms of the Constitution or a provincial constitution; or
+ (ii) exercising a public power or performing a public function in terms of any legislation.”
+36	  Above fn 2 at para 19.
+37	  Id.
+38	  Id at para 58.
+39	  Id.
+40	  Id at para 57.
+41	  Id at para 58.
+42	  Id at para 41.
+43	  Id at para 47.
+44	  S 210 states:
+“If any conflict, relating to the matters dealt with in this Act, arises between this Act and the provisions of any other law save the Constitution or any Act expressly amending this Act, the provisions of this Act will prevail.”
+45	  Above fn 2 at paras 50–1.
+46	  Id at para 54.
+47	  Id at para 59.
+48	  See fn 12 above.
+49	  Above fn 2 at para 63.
+50	  See fn 12 above.
+51	  Above fn 2 at paras 67–8.
+52	  Id at para 63.
+53	  Id at para 65.
+54	  Id at para 54.
+55	  Id at para 102.
+56	  Id at para 124.
+57	  Id at para 151.
+58	  Id at para 91.
+59	  Id at para 97.
+60	  Id at paras 99–104.
+61	  Id at para 113.
+62	  Id at para 120.
+63	  Id at paras 101–2.
+64	  Id at para 123.
+65	 SANDU v Minister of Defence & others [2007] ZACC 10; 2007 (8) BCLR 863 (CC); 2007 (5) SA 400 (CC).
+66	  Above fn 2 at para 123.
+67	  Id at para 124.
+68	  Id at para 154.
+69	  Id at paras 159 and 168.
+70	  Id at para 155.
+71	  Id at para 169.
+72	 Fraser v ABSA Bank Ltd [2006] ZACC 24; 2007 (3) BCLR 219 (CC); 2007 (3) SA 484 (CC) at para 40.
+73	  Above fn 2 at para 168.
+74	  Id at para 169. Similar reasoning was followed by Nugent JA in the recent Supreme Court of Appeal decision of Makhanya above fn 4 at paras 34–5, 54, 71 and 75.
+75	  See Fedlife above n 3 at para 17. Also see Kriel above n 4 at paras 2 and 9; Makhanya above fn 4 at para 26; Chirwa (SCA) above fn 4 at paras 58–65; United National Public Servants Association above fn 4 at paras 2–5; Engineering Council of SA above fn 4 at paras 122–31; and Nakin above fn 4 at para 4.
+76	 Kotze above fn 4 at paras 11–2; Hlope above fn 4 at paras 26–31; SAPU above fn 4 at paras 59–68; and Public Servants Association above fn 4 at paras 11–6.
+77	  See the High Court decision in this matter: Police and Prisons Civil Rights Union & another v Minister for Safety and Security & others, case number 2756/2006, 4 July 2008, unreported. Also see Nonzamo above fn 4 at para 39 and Nakin above fn 4 at paras 24 and 28.
+78	 Makambi above fn 4 at para 15.
+79	 Mkumatela above fn 4 at para 9.
+80	 POPCRU above fn 4 at paras 58–61.
+81	  See Chirwa above n 2 at paras 133–4. Also see SAPU above n 4 at para 51.
+82	  Above notes 1, 2, 3 and 4.
+83	  See, for example, Fredericks above n 1 at paras 11 and 32 and the remarks of Cameron JA in the Supreme Court of Appeal judgment in Chirwa above n 4 at paras 60, 62–3 and 65.
+84	  See s 9(4) of the Constitution and the Promotion of Equality and Prevention of Unfair Discrimination Act 4 of 2000.
+85	 Chirwa above fn 2 at para 41 Skweyiya J stated that – 
+“the existence of a purpose-built employment framework in the form of the LRA and associated legislation infers that labour processes and forums should take precedence over non-purpose-built processes and forums in situations involving employment-related matters. At the least, litigation in terms of the LRA should be seen as the more appropriate route to pursue. Where an alternative cause of action can be sustained in matters arising out of an employment relationship, in which the employee alleges unfair dismissal or an unfair labour practice by the employer, it is in the first instance through the mechanisms established by the LRA that the employee should pursue her or his claims.”
+  Also in Chirwa above n 2 at para 124 Ngcobo J stated:
+“Where . . . an employee alleges non-compliance with provisions of the LRA, the employee must seek the remedy in the LRA. The employee cannot . . . avoid the dispute resolution mechanisms provided for in the LRA by alleging a violation of a constitutional right in the Bill of Rights. It could not have been the intention of the Legislature to allow an employee to raise what is essentially a labour dispute under the LRA as a constitutional issue under the provisions of section 157(2). To hold otherwise would frustrate the primary objects of the LRA and permit an astute litigant to bypass the dispute resolution provisions of the LRA.”
+86	  Id at para 65.
+87	  See, for example, Chirwa above fn 2 at paras 66 and 124.
+88	  Hahlo and Kahn The South African Legal System and its Background Juta & Co Ltd, Cape Town 1968 state at 214:
+“In the legal system the calls of justice are paramount. The maintenance of the certainty of the law and of equality before it, the satisfaction of legitimate expectations, entail a general duty of judges to follow the legal rulings in previous judicial decisions. The individual litigant would feel himself unjustly treated if a past ruling applicable to his case were not followed where the material facts were the same. This authority given to past judgments is called the doctrine of precedent.”
+89	  1997 (3) SA 654 (SCA) [also reported at [1997] 2 All SA 195 (SCA) – Ed].
+90	  Id at 666F–G.
+91	 Certification of the Amended Text of the Constitution of the Republic of South Africa 1996 [1996] ZACC 24; 1997 (1) BCLR 1 (CC); 1997 (2) SA 97 (CC).
+92	  Id at para 8.
+93	 Van der Walt v Metcash Trading Limited [2002] ZACC 4; 2002 (5) BCLR 454 (CC); 2002 (4) SA 317 (CC).
+94	  Id at para 39.
+95	 Daniels v Campbell NO & others [2004] ZACC 14; 2004 (7) BCLR 735 (CC); 2004 (5) SA 311 (CC).
+96	  Id at para 94.
+97	  Id at para 95.
+98	  Above fn 9.
+99	  Above fn 10.
+100	  Above fn 4 at paras 52–3.
+101	  S 217(1) states:
+“When an organ of state in the national, provincial or local sphere of government, or any other institution identified in national legislation, contracts for goods or services, it must do so in accordance with a system which is fair, equitable, transparent, competitive and cost-effective.”
+102	 SAPU above n 4 at para 57.
+103	  Above n 2 at paras 142 and 150.
+104	  Id at para 142.
+105	  Id at para 73.
+106	  Above n 1 at para 32.
+107	  The situation might be different where, for example, the appointment or dismissal of the National Commissioner of the SAPS is at stake. This decision is taken by the President as head of the national executive and is of huge public import.
+108	  According to Makhanya above fn 4 at para 94 this was the true ratio of the decision in Chirwa above n 2, not the lack of “jurisdiction.”
+109	  See [12] above for the wording of s 157(1) and (2).
+110	  Section 145 of the LRA, which provides for the review of arbitration awards, states:
+ “(1) Any party to a dispute who alleges a defect in any arbitration proceedings under the auspices of the Commission may apply to the Labour Court for an order setting aside the arbitration award – 
+ (a) within six weeks of the date that the award was served on the applicant, unless the alleged defect involves corruption; or
+ (b) if the alleged defect involves corruption, within six weeks of the date that the applicant discovers the corruption.
+ (1A) The Labour Court may on good cause shown condone the late filing of an application in terms of subsection (1).
+ (2) A defect referred to in subsection (1), means – 
+ (a) that the commissioner – 
+ (i) committed misconduct in relation to the duties of the commissioner as an arbitrator;
+ (ii) committed a gross irregularity in the conduct of the arbitration proceedings; or
+ (iii) exceeded the commissioner’s powers; or
+ (b) that an award has been improperly obtained.
+ (3) The Labour Court may stay the enforcement of the award pending its decision.
+ (4) If the award is set aside, the Labour Court may – 
+ (a) determine the dispute in the manner it considers appropriate; or
+ (b) make any order it considers appropriate about the procedures to be followed to determine the dispute.”
+111	  See [12] above for the wording of s 157(2).
+112	  See Chirwa above fn 2 at para 118.
+113	 Graaff-Reinet Municipality v Van Ryneveld’s Pass Irrigation Board 1950 (2) SA 420 (A) [also reported at [1950] 2 All SA 448 (A) – Ed] at 424.
+114	  Above fn 13.
+115	  See Fraser v ABSA Bank Ltd above n 72 at para 40.
+116	  Above fn 2 at paras 155 and 169, referred to in [39] above; also see Makhanya above fn 4 at paras 34 and 71.
+
+For the applicant:
+
+M Lowe SC and M Osborne instructed by Wheeldon Rushmere & Cole
+For the respondents:
+
+P Kennedy SC and B Makola instructed by Bowman Gilfillan
+
+
+End of Document

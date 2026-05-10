@@ -1,0 +1,380 @@
+
+
+
+
+Competition Commission of South Africa v Pickfords Removals SA (Pty) Limited 2020 (10) BCLR 1204 (CC)
+Constitutional Law Reports
+
+Division: Constitutional Court of South Africa
+Case No: CCT 123/19
+Date: 24/06/2020
+Before: MTR Mogoeng, Chief Justice; CN Jafta, SSV Khampepe. M Madlanga, SA Majiedt, NZ Mhlantla, LV Theron, ZLL Tshiqi, Justices; RS Mathopo and M Victor, Acting Justices
+Keywords
+
+
+Trade and competition — competition — Competition Act 89 of 1998 — enforcement — limitations of bringing action — section 67 of the Competition Act — provision that a complaint in respect of a prohibited practice that ceased more than three years before the complaint was initiated may not be referred to the Competition Tribunal — section 67(1) — proper interpretation of section 67(1) — not imposing an absolute time-bar in the form of a prescription provision — section 67(1) not creating an inflexible substantive time-bar — section 67(1) creating only a procedural time-bar, non-compliance with which may be condoned by the Competition Tribunal under section 58(1)(c)(ii) of the Act.
+Trade and competition — competition — Competition Tribunal — powers of Competition Tribunal — additional powers in respect of orders competent for Tribunal to make in hearings of the Tribunal — section 58 of the Competition Act 89 of 1998 — condonation, on good cause shown, of non-compliance of a time limit imposed by the Act — section 58(1)(c)(ii) — such power includes the power to condone non-compliance with section 67(1) which provides that a complaint in respect of a prohibited practice that ceased more than three years before the initiation of the complaint may not be referred to the Competition Tribunal.
+
+Editor’s Summary
+
+
+Applicant was the Competition Commission (the “Commission”). Respondent was Pickfords Removals SA (Pty) Ltd, a furniture removal firm (“Pickfords”). A referral of complaints by the Commission against various furniture removal firms including Pickfords gave rise to a hearing in the Competition Tribunal. The Commission had initiated two complaints: The first in November 2010 and the second in June 2011. It was alleged that the implicated firms colluded “to fix the price at which they rendered their services, divided markets and/or alternatively engaged in collusive tendering in respect of tenders issued by the State and private enterprises”. The Commission referred a prohibited practice complaint to the Competition Tribunal in 11 September 2015. Pickfords excepted to the complaint referral, contending that several of the counts of alleged collusive conduct against it were time-barred in terms of section 67(1) of the Competition Act 89 of 1998 (the “Act”) and the remaining counts were not sufficiently pleaded. Section 67(1) provides that “a complaint in respect of a prohibited practice that ceased more than three years before the complaint was initiated may not be referred to the Competition Tribunal”. The Competition Tribunal upheld Pickfords’ exception in respect of the time bar. The Tribunal held that it could not condone the late referral as its powers of condonation under section 58(1)(c)(ii) of the Act did not apply to section 67(1). An appeal to the Competition Appeal Court resulted in a finding against the Commission on  
+2020 (10) BCLR 1204 (CC) at 1205
+the time bar aspect. It held that section 67(1) of the Competition Act had as its purpose to bar, in the public interest, investigations into cartel behaviour that had ceased an appreciable time before, and thus no longer endangered the public weal. The language employed in section 67(1), it held, did not lend itself to condonation. The time-bar created in that section was absolute.
+
+The Commission sought leave to appeal to the Constitutional Court against the decision of the Competition Appeal Court.
+
+The Constitutional Court granted leave to appeal and upheld the appeal in a unanimous judgment (per Majiedt J with Mogoeng CJ, Jafta, Khampepe, Madlanga, Mhlantla, Theron, Tshiqi JJ, Mathopo and Victor AJJ concurring). 
+
+The Court identified the crucial issues as whether section 67(1) of the Act is a prescription provision proper, which constitutes an absolute bar, or a procedural time-bar, capable of condonation in the event of non-compliance; and whether the Tribunal could, in terms of section 58(1)(c)(ii) of the Act, condone, on good cause shown, non-compliance with section 67(1).
+
+The Court held that interpreting section 67(1) of the Act so as to impose an absolute time-bar in the form of a prescription provision proper would subvert access to the Tribunal. Absent a knowledge requirement or the possibility of condonation, which would ameliorate the effect of section 67(1), the purpose of the Act would be undermined. It was preferable to interpret section 67(1) as creating a procedural time-bar rather than an inflexible substantive time-bar. That preferred interpretation was not only more constitutionally compliant and purposive, but would also meet the rationality test. 
+
+As to whether the Tribunal had the power, under section 58(1)(c)(ii) to condone non-compliance with section 67(1), the Court held that to exclude the condonation of non-compliance with section 67(1) under section 58’s general condonation powers would encourage secrecy and non-disclosure. Cartel conduct invariably occurred in secret. Its detection was often only possible through whistleblowing and allowing parties to approach the Commission with information about infringements of the Act in exchange for a waiver of prosecution or imposition of negligible fines. A power to condone late referrals was necessary. Even where a prohibited practice had ceased, adverse consequences could continue to ensue more than three years after cessation. Secretive cartel conduct would flourish if the Commission was precluded from accessing the Tribunal in justified cases more than three years after cessation. 
+
+Accordingly, the Court upheld the appeal with costs. It set aside the order of the Competition Appeal Court, and substituted for the order of the Competition Tribunal an order dismissing the exception brought by Pickfords. The matter was remitted to the Competition Tribunal for further hearing.
+
+____________________________________________________________________________________
+
+Majiedt J: 
+
+Introduction
+An accomplished business sage once remarked that “[c]ompetition brings out the best in products and the worst in people”.1 This matter is part of a  
+2020 (10) BCLR 1204 (CC) at 1206
+  case that concerns alleged malfeasance of collusive tendering in the form of cover pricing or cover quoting in the furniture removal industry. We must determine a preliminary question, namely the proper interpretation of a time-bar provision.
+A referral of a complaint by the applicant, the Competition Commission of South Africa (the “Commission”), to the Competition Tribunal (the “Tribunal”) against the respondent, Pickfords Removals SA (Pty) Limited (“Pickfords”), and other furniture removal firms for alleged collusive tendering in the form of cover pricing or cover quoting, gave rise to the present proceedings. At issue is whether section 67(1) of the Competition Act2 constitutes a prescription provision or a procedural time-bar provision, which in the event of non-compliance, can be condoned in terms of section 58(1)(c)(ii) of the Competition Act. This issue arose pursuant to an exception raised by Pickfords in the proceedings before the Tribunal.
+
+The factual matrix
+The Commission alleged in its complaint that Pickfords had been involved in 37 separate instances of collusive tendering in the furniture removal industry. In this complaint, the allegation was that Pickfords had been engaged in “cover quoting” or “cover pricing”, an illegal practice that is often colloquially referred to as “bid rigging”. This practice entails a scenario in which a customer asks firms to submit a quotation to render a service, and one of those firms then solicits from one or more of its competitors a fictitious bid, higher than its own quote, in order to win the contract. Pickfords is alleged to have requested and provided cover quotes in response to various requests for quotations from customers on diverse occasions, going as far back as 2008.
+The Commission alleged that this collusive tendering constituted a breach of section 4(1)(b)(i),(ii) and (iii) of the Competition Act.3 The breach is alleged to have arisen from Pickfords and the other implicated firms colluding “to fix the price at which they rendered their services, divided markets and/or alternatively engaged in collusive tendering in respect of tenders issued by the state and private enterprises”.
+On 3 November 2010, a Competition Commissioner, acting on behalf of the Commission, initiated a complaint in respect of the furniture removal  
+2020 (10) BCLR 1204 (CC) at 1207
+  industry (“2010 initiation”).4 The Commissioner did not specifically cite Pickfords in the 2010 initiation statement. Rather he named several other firms and indicated that this was a non-exhaustive list by stating that “the main companies implicated in the alleged conduct include”.5
+On 1 June 2011, Pickfords and other furniture removal firms were specifically cited in a further complaint initiation statement by the Commissioner concerning the same practices (“2011 initiation”). Pursuant to further investigations, the 2011 initiation statement was amended on 13 June 2013, alleging a total of 37 instances of collusive tendering by Pickfords.
+On 11 September 2015, the Commission, acting in terms of section 50(1) of the Competition Act, referred a prohibited practice complaint as contemplated in section 4(1)(b) of that Act to the Tribunal, against Pickfords in respect of the 37 instances of collusive tendering (the complaint referral).6 The Commission alluded to both the 2010 and 2011 initiation statements in the complaint referral and described the 2011 initiation as an amendment of the 2010 initiation. It averred as follows in the complaint referral:
+
+“On 3 November 2010, the Commission initiated a complaint into the alleged collusive conduct in contravention of section 4(1)(b)(i), (ii) and (iii) of the Act, in the market for the provision of furniture removal services. On 1 June 2011 the Commissioner amended its complaint initiation to include Pickfords under case number 2011Jun0069. The Commission initiated the complaint in terms of section 49B(1) of the Act.”
+
+Pickfords excepted to the complaint referral. It alleged that 20 of the 37 counts of the alleged collusive conduct against it should be dismissed, as 14 of them were time-barred in terms of section 67(1) of the Competition Act and the remaining six were not sufficiently pleaded. The dispute before us concerns the 14 allegedly time-barred counts. In respect of those, Pickfords alleged that it was the 2011 initiation, rather than the 2010 initiation, that was the “trigger event” for the commencement of the running of the three-year period referred to in section 67(1). As stated, the Commission’s case is the converse: it contended that the 2011 initiation was merely an amendment of the 2010 initiation and that the latter was thus the “trigger event”. 
+2020 (10) BCLR 1204 (CC) at 1208
+The Tribunal found that the 2011 initiation was not an amendment of the 2010 initiation, but a self-standing initiation.7 The 2011 initiation was thus the event that triggered the commencement of the running of the three-year period. It also dismissed the argument advanced by the Commission that a “knowledge requirement” similar to that found in section 12(3) of the Prescription Act8 should be read into section 67(1) of the Competition Act.9 The Tribunal further held that it could not invoke its powers of condonation under section 58(1)(c)(ii) of the Competition Act as this power does not apply to section 67(1) of the Competition Act.10 In this regard, it distinguished the Labour Court’s powers of condonation in terms of section 191 of the Labour Relations Act,11 as decided by this Court in Gaoshubelwe,12 from those of the Tribunal to condone non-compliance with section 67(1) of the Competition Act.13
+The Competition Appeal Court overruled the finding of the Tribunal regarding the correct date of the “trigger event”.14 It held that, based on the facts and the language employed in the 2010 and 2011 initiation statements, read with the provisions of the Competition Act, the 2011 initiation was merely an amendment of the 2010 initiation.15 Nonetheless, despite that finding, the Competition Appeal Court held that Pickfords “only became a named party when the second complaint initiation occurred; before that, the alleged prohibited practice did not involve it”.16 It further held that section 67(1) of the Competition Act is a limitation or expiry period and that a knowledge requirement similar to that contained in section 12(3) of the Prescription Act cannot be read into that provision.17 Section 67(1) of the Competition Act, it said, has as its purpose to bar, in the public interest, investigations into cartel behaviour that has ceased an appreciable time ago, and thus no longer endangers the public weal.18 In conclusion, the Competition Appeal Court held that the language employed in section 67(1) of the Competition Act does not lend itself to condonation and that the time-bar in that section is absolute.19 
+2020 (10) BCLR 1204 (CC) at 1209
+
+The issues
+Section 67(1) of the Competition Act bars the Commission from initiating a complaint in respect of a prohibited practice more than three years after the practice has ceased. Section 67(1) as it was then provided:
+
+“A complaint in respect of a prohibited practice may not be initiated more than three years after the practice has ceased.”20
+
+A determination of the correct date of the “trigger event” is thus required, as a number of counts would be timely if 3 November 2010 is the end point, but would be out of time if 1 June 2011 is the end point.
+The first issue is therefore whether section 67(1) of the Competition Act is a prescription provision proper, which constitutes an absolute bar, or a procedural time-bar, capable of condonation in the event of non-compliance. An ancillary question concerns the correct initiation date of the “trigger event”.
+Interlinked with the first issue, the second issue is whether the Tribunal may, in terms of section 58(1)(c)(ii) of the Competition Act, condone, on good cause shown, non-compliance with section 67(1) of the Competition Act. Section 58(1)(c)(ii) reads –
+“(1) In addition to its powers in terms of this Act, the Competition Tribunal may –
+
+. . .
+
+subject to section 13(6) and 14(2), condone, on good cause shown, any non-compliance of –
+the Competition Commission or Competition Tribunal rules; or
+a time limit set out in this Act.”
+
+Jurisdiction and leave to appeal
+As always, the antecedent question whether we should grant leave to appeal must be decided before a consideration of the merits. First, we must determine whether the pleaded case engages this Court’s jurisdiction,21 and second, whether the interests of justice warrant the granting of leave to appeal.22 
+2020 (10) BCLR 1204 (CC) at 1210
+This matter does engage this Court’s jurisdiction, as it entails the interpretation of section 67(1) of the Competition Act. That interpretation will undoubtedly have a material effect on the rights of the Commission and those of the members of the public to access courts, as enshrined in section 34 of the Constitution.23 The Commission raised this issue squarely in its papers asserting its section 34 right of access to courts. A finding that section 67(1) of the Competition Act is a prescription provision proper, will result in an absolute bar on the initiation of a complaint in respect of a prohibited practice when the initiation is made more than three years after that practice has ceased. Accordingly, this matter involves an interpretation of a legislative provision that will limit the right contained in section 34 of the Constitution. It was held in Links, a case concerning prescription, that:
+
+“This Court has jurisdiction because the matter involves an interpretation of legislation that limits the applicant’s right in terms of section 34 of the Constitution.”24
+
+More recently, in Mtokonya, this Court said:
+
+“This Court has jurisdiction in this matter because this matter raises prescription and prescription is a constitutional issue since it implicates the right of access to court entrenched in section 34 of the Constitution”.25
+
+Therefore, this matter raises a constitutional issue. In addition, this matter raises at least two arguable points of law of general public importance, namely: (a) whether section 67(1) of the Competition Act constitutes a prescription provision proper or a procedural time-bar; and (b) whether the Tribunal has the power to condone instances of non-compliance with section 67(1) of the Competition Act by virtue of its powers under section 58(1)(c)(ii) of the Competition Act. The matter raises novel and complex questions that this Court has not as yet pronounced on.26 And, as will be seen later, there are strong prospects of success.27 It is therefore in the interests of justice that leave to appeal be granted. The potential inability of the Commission to investigate and prosecute prohibited practices and cartel behaviour has far-reaching consequences, as it also impacts on the civil and criminal remedies available under the Competition Act.28 
+2020 (10) BCLR 1204 (CC) at 1211
+
+The correct trigger date for purposes of section 67(1)
+The relevance of this date has already been explained above.29 It is convenient to commence with it, before discussing section 67(1) of the Competition Act, and thereafter condonation under section 58(1)(c)(ii) of the Competition Act. A useful point of departure is to consider the complaint initiation procedure outlined in the Competition Act. Section 49B of the Competition Act provides that:
+“(1) The Commissioner may initiate a complaint against an alleged prohibited practice.
+(2) Any person may –
+submit information concerning an alleged prohibited practice to the Competition Commission, in any manner or form; or
+submit a complaint against an alleged prohibited practice to the Competition Commission, in the prescribed form.
+(3) Upon initiating or receiving a complaint in terms of this section, the Commissioner must direct an inspector to investigate the complaint as quickly as practicable.
+(4) At any time during an investigation, the Commissioner may designate one or more persons to assist the inspector.”
+The Competition Act does not define the word “initiate”. We must thus have recourse to its ordinary meaning, which is “causing (a process or action) to begin”.30 The initiation of a complaint sets in motion the investigation of that complaint and the alleged prohibited practice by the Commission’s inspectors. It is required that the Commissioner must, at a minimum, be in possession of some information about an alleged practice “which objectively speaking, could give rise to a reasonable suspicion of the existence of a prohibited practice”.31 The Commissioner is afforded extensive powers in the course of that investigation, including the powers of search and seizure under Chapter 5, Part B, of the Competition Act, as well as the power to summon persons for interrogation and the production of documents in terms of section 49A(1) of the Competition Act.
+The initiation must be “against an alleged prohibited practice”. Chapter 2 of the Competition Act sets out the practices prohibited by the Act. Those practices include restrictive horizontal practices (set out in section 4), restrictive vertical practices (outlined in section 5) and abuses of a dominant position and price discrimination by a dominant firm (in sections 8 and 9). As stated, the conduct in this matter concerns the restrictive horizontal practice of collusive tendering, proscribed in section 4(1)(b)(iii). For present purposes, the proscribed practice is an activity in which a “firm” or “party” is engaged (the section uses these words interchangeably). Thus, when the Commissioner initiates a complaint, he or she must self-evidently have in mind some of the firms or parties potentially involved  
+2020 (10) BCLR 1204 (CC) at 1212
+  in the prohibited practice concerned. But this does not mean that the names of all the firms or parties must be included. The section emphasises “prohibited practices” over firms or parties. There are no formalities required, save for a decision by the Commissioner to cause the commencement of an investigation into the alleged prohibited practice.32 The initial omission of a firm or party at the stage when the complaint is first initiated by the Commission and its subsequent addition to the complaint are not fatal, given the wording of section 49B(1) and the informality of the procedure.33
+In Woodlands Dairy, the Supreme Court of Appeal postulated the possibility of the Commission during the course of its investigations, obtaining information about other firms or parties engaged in the alleged prohibited practice or about other transgressions. In those circumstances, the Supreme Court of Appeal held that the Commission “is fully entitled to use the information so obtained for amending the complaint or the initiation of another complaint and fuller investigation”.34
+On the facts of this case, it seems to me that the Commission expressly left open, in the 2010 initiation, the possible addition of further firms and parties. I have already set out the details of the 2010 initiation. The following appears in that initiation statement:
+
+“The . . . Commission . . . has received information relating to possible collusion in the furniture removal industry. The information submitted suggests that various furniture removal companies have engaged in conduct which may have contravened the Competition Act . . . The main companies implicated in the alleged conduct include.”
+
+  Pickfords was not one of the firms listed in that initiation statement.
+
+In the 2011 initiation, reference is made to the 2010 initiation in the Commissioner’s initiation statement. The Commissioner then states:
+
+“Following the aforesaid initiation, further information has come to light indicating that the following companies have also been involved in price fixing, market allocation and/or collusive tendering”
+
+Pickfords’ name then appears on the list. Towards the end of the statement, the Commissioner concludes:
+
+ “In light of the above and in terms of section 49B(1) of the Act, I initiate a complaint against the abovementioned firms.”
+
+Lastly, in the initiation statement of 13 June 2013, the Commissioner said in paragraph 1.2 that he had “amended” the 2010 complaint on 1 June 2011. He stated that the 2013 initiation statement was a “further amendment” and he included the names of yet more firms. 
+2020 (10) BCLR 1204 (CC) at 1213
+As stated, there is no legal impediment to the Commission amending an initiation complaint.35 But the question is, was the 2011 initiation an amendment of the 2010 initiation? The Tribunal said no, and held that the 2011 initiation was separate and self-standing. The Competition Appeal Court overruled that finding. I agree with the latter decision. The 2011 initiation was merely an amendment; it emanated from information, which came to light pursuant to the Commission’s further investigations into the 2010 initiation. This appears to have been an extensive investigation into many instances of furniture removal transactions involving both the public and private sectors. The 2010 initiation pertinently stated that the collusion was “ongoing”. The reference to “the main companies implicated” foreshadowed the possible addition of further firms at a later stage. The 2011 initiation then made it clear that it was an extension of the 2010 initiation. It alluded to “further information becoming available”. Further, the 2011 initiation retained the names of the eight firms originally implicated in the 2010 initiation. It is to be expected that ongoing investigations will not only reveal more transgressors, but also additional transgressions. All things considered, the Competition Appeal Court’s finding on this aspect cannot be faulted.
+Pickfords contended in this Court that permitting the Commission to “turn back the clock” would defeat the purpose of section 67(1) of the Competition Act and would offend the principle of legality. These contentions are dealt with at length under the next rubric; suffice it to state at this point that they are devoid of merit. Pickfords also contended that the prohibited practices outlined in the Competition Act “cannot exist apart from the conduct of a firm”. The quote comes from Loungefoam.36 There can hardly be any quarrel with this self-evident proposition. However, the context in which Pickfords invokes it is untenable. Simply because a prohibited practice cannot exist without an attached firm does not mean that all firms or parties need be cited in an initiation, especially in the face of ongoing investigations into cartel conduct. Loungefoam did not purport to hold so. That would have flown in the face of the Supreme Court of Appeal’s earlier jurisprudence.37
+Much reliance was placed during Pickfords’ argument in this Court on Woodlands Dairy, in particular the statement that “[a] suspicion against some cannot be used as a springboard to investigate all and sundry”.38 Understood in its proper context, that statement has no bearing on the facts in this case, as Woodlands Dairy is entirely distinguishable on the facts. That case concerned a full investigation into the milk industry. That investigation was undertaken by the Commission in the absence of an initiation of a complaint against an alleged prohibited practice, which would  
+2020 (10) BCLR 1204 (CC) at 1214
+  have resulted in a direction to an inspector to investigate. The investigation into the milk industry followed upon information submitted to the Commission by a dairy farmer, alleging price fixing by three milk distributors. Instead of following the inspectors’ recommendation, pursuant to his/her investigations, that a complaint be initiated against two of the three milk distributors, the Commissioner ordered the investigation into the entire industry. It was in this context that Harms DP, writing for the Supreme Court of Appeal, said that:
+
+“[m]embers of the supposed cartel were in fact mentioned in the initiating statement. It was therefore not a case where no cartel member had been identified. The problem is that there were no facts that could have given rise to any suspicion that others were involved. A suspicion against some cannot be used as a springboard to investigate all and sundry.”39
+
+I do not agree with the Competition Appeal Court that the “trigger event” was the 2011 initiation. In essence, that finding is based on the fact that Pickfords was only named in the second initiation, and that before that date the alleged prohibited practice did not involve it. That approach misconceives the purpose and objects of the Competition Act, particularly the provisions relating to the initiation of a complaint. As stated, the emphasis in those provisions is on the prohibited practice concerned, not the names of firms or parties implicated in it. And the procedure is very informal. As it was put by the Competition Tribunal in Power Construction, a requirement that the Commission must:
+
+“know the identities of all the parties involved in prohibited conduct at the commencement of its investigation . . . would render the investigative powers of the Commission redundant and defeat the objectives of the Act – why should the Legislature require the Commission to embark on an investigation if it is expected to know from the commencement of its investigation the identities of the prospective respondents”.40
+
+Accordingly, the date from which the three-year period for purposes of section 67(1) of the Competition Act must be calculated is the date of the first initiation, namely 3 November 2010.
+
+The proper interpretation of section 67(1)
+As I have said, this aspect is interlinked with the question of condonation, but I find it convenient to discuss these aspects separately. In this Court, the Commission abandoned its argument that the knowledge requirement in section 12(3) of the Prescription Act should be read into section 67(1) of the Competition Act. It argued instead, that the provision merely provides a useful comparison. It further argued that section 67(1) of the Competition Act is open to two possible interpretations:
+first, it is a substantive time-bar, ie a prescription provision proper, which places an absolute prohibition on the initiation of a complaint 
+
+in respect of a prohibited practice more than three years after the cessation of that practice; or
+
+second, it is merely a procedural time-bar, which can be condoned by the Tribunal in terms of its powers in section 58(1)(c)(ii) of the Competition Act, provided that good cause is shown.
+This Court has recently recognised the distinction between these two types of provisions and the importance of the distinction in Gaoshubelwe. It cited the dictum in Society of Lloyd’s, where the Supreme Court of Appeal held:
+
+“A distinction has traditionally been drawn, in both South African and English law, between two kinds of prescription/limitation statutes: those which extinguish a right, on the one hand, and those which merely bar a remedy by imposing a procedural bar on the institution of an action to enforce the right or to take steps in execution pursuant to a judgment, on the other. Statutes of the former kind are regarded as substantive in nature, while statutes of the latter kind are regarded as procedural.”41
+
+A useful starting point is the well-established approach to statutory interpretation. In Cool Ideas, this Court said:
+
+“A fundamental tenet of statutory interpretation is that the words in a statute must be given their ordinary grammatical meaning, unless to do so would result in an absurdity. There are three important interrelated riders to this general principle, namely:
+
+(a) that statutory provisions should always be interpreted purposively;
+(b) the relevant statutory provision must be properly contextualised; and
+(c) all statutes must be construed consistently with the Constitution, that is, where reasonably possible, legislative provisions ought to be interpreted to preserve their constitutional validity. This proviso to the general principle is closely related to the purposive approach referred to in (a).”42
+In Wary Holdings, this Court said the following regarding competing interpretations of a statute:
+
+“This Court has not yet been called upon to deal with the situation where two conflicting interpretations of a statutory provision could both be said to promote the spirit, purport and objects of the Bill of Rights and the decision to be made is whether the one interpretation is to be preferred above the other. It seems to me that it cannot be gainsaid that this Court is required to adopt the interpretation which better promotes the spirit, purport and objects of the Bill of Rights. That would, after all, be a more effective ‘[interpretation] through the prism of the Bill of Rights’.
+
+By the same token, where two conflicting interpretations of a statutory could both be said to be reflective of the relevant structural provisions of the Constitution as a whole, read with other relevant statutory provisions, the interpretation which better reflects those structural provisions should be adopted.”43
+
+ 
+2020 (10) BCLR 1204 (CC) at 1216
+Both interpretations undoubtedly limit the right of access to courts, as enshrined in section 34 of the Constitution. This was common cause between the parties. When interpreting legislation that implicates a fundamental right enshrined in the Bill of Rights, a court must read the particular statute “through the prism of the Constitution”.44 That is a “mandatory constitutional canon of statutory interpretation”.45
+In applying these principles, particularly those expounded in Wary Holdings, one must determine which of the two possible interpretations is the least limiting of the right of access to courts. Put differently, which of these two interpretations better promotes the spirit, purport and objects of the Bill of Rights? To make that determination, it is necessary to consider the purpose of the Competition Act. In its preamble, the Competition Act stridently declares that it seeks to achieve, amongst other objectives, equal opportunity to all citizens to participate fairly in the economy, to establish a more effective and efficient economy in our country and to restrain particular trade practices which undermine a competitive economy. It sets out these broad objectives in greater detail in section 2 of the Competition Act.46
+The Commission plainly plays a central role in attaining the objectives of the Competition Act. Its establishment, powers and functions are set out in Chapter 4.47 It is clear from the manner in which the Commission must operate, as envisaged in Chapter 5, through initiating complaints and referring them to the Tribunal, that access to the Tribunal is a crucial component of the Commission’s work. Interpreting section 67(1) of the Competition Act as imposing an absolute time-bar in the form of a prescription provision proper would clearly subvert access to the Tribunal.
+The Commission’s work as a public body, acting on behalf of the public interest, would be undermined if the section were to be interpreted as imposing an absolute substantive time-bar. Absent a knowledge requirement or the possibility of condonation, which would ameliorate the effect of  
+2020 (10) BCLR 1204 (CC) at 1217
+  section 67(1) of the Competition Act, the purpose of the Competition Act would be undermined. More importantly, a rigid, inflexible section 67(1) interpretation drastically undermines the right of access to courts. A purposive, constitutionally compliant interpretation is thus required.
+There is a further reason why an interpretation of section 67(1) as a procedural time-bar is to be preferred over an inflexible substantive time-bar. A finding by the Tribunal or by the Competition Appeal Court that certain conduct is a prohibited practice provides a gateway to a claimant who has suffered loss or damage as a result of that prohibited practice, to sue for damages.48 The relevant parts of section 65 read:
+“(6) A person who has suffered loss or damage as a result of a prohibited practice –
+may not commence an action in a civil court for the assessment of the amount or awarding of damages if that person has been awarded damages in a consent order conformed in terms of section 49D(1); or
+if entitled to commence an action referred to in paragraph (a), when instituting proceedings, must file with the Registrar or Clerk of the Court a notice from the Chairperson of the Competition Tribunal, or the Judge President of the Competition Appeal Court, in the prescribed form –
+certifying that the conduct constituting that basis for the action has been found to be a prohibited practice in terms of this Act;
+stating the date of the Tribunal or Competition Appeal Court finding; and
+setting out the section of this Act in terms of which the Tribunal or the Competition Appeal Court made its finding.
+
+. . .
+
+(9) A person’s right to bring a claim for damages arising out of a prohibited practice comes into existence –
+on the date that the Competition Tribunal made a determination in respect of a matter that affects that person; or
+in the case of an appeal, on the date that the appeal process in respect of that matter is concluded.”
+The interpretation of section 67(1) of the Competition Act as an absolute time-bar would thus not only limit the Commission’s access to the Tribunal, but also access to a civil court for potential claimants seeking damages arising from a prohibited practice. The far-reaching impact of that interpretation is a further reason for preferring the procedural time-bar interpretation.
+Of further importance is the fact that the Competition Act is the only competition legislation specifically directed at countering anti-competitive conduct. It is the only vehicle through which prohibited practices can be  
+2020 (10) BCLR 1204 (CC) at 1218
+  effectively fought. In terms of section 62(1) of the Competition Act, the Tribunal and the Competition Appeal Court have exclusive jurisdiction to hear competition matters. In this regard, the Commission plays a vital role.49 The Commission is the conduit through which the Competition Act seeks to investigate, control, and evaluate restrictive practices, abuse of market dominance and mergers.50 And, ultimately, it must act as both the watchdog and enforcement vehicle as far as transgressions of the provisions of the Competition Act are concerned. For these reasons, there are compelling grounds to lean in favour of an interpretation that section 67(1) is a procedural time-bar.
+It is helpful to consider the rationale behind prescription provisions. Initially, extinctive prescription, which originates from our common law, was viewed by our courts as having as its main objective the penalisation of a slovenly claimant.51 In recent times, the rationale for such provisions has centred more on advancing certainty in law. In Mdeyide, this Court explained:
+
+“In the interests of societal certainty and the quality of adjudication, it is important though that legal disputes be finalised timeously. The realities of time and human fallibility require that disputes be brought before a court as soon as reasonably possible. Claims thus lapse, or prescribe after a certain period of time. If a claim is not instituted within a fixed time, a litigant may be barred from having a dispute decided by a court. This has been recognised in our legal system – and others – for centuries.”52
+
+And in Brümmer, this Court said that “time-bars limit the right to seek judicial redress” and elucidated further:
+
+“However, they serve an important purpose in that they prevent inordinate delays which may be detrimental to the interests of justice”.53
+
+In order to pass constitutional muster, the degree of limitation must be considered in each case. No fixed rules can be laid down as “the enquiry turns wholly on estimations of degree”.54 Brümmer postulated a knowledge requirement or the existence of a power of condonation saving a prescription provision from unconstitutionality, although “the existence  
+2020 (10) BCLR 1204 (CC) at 1219
+  of the power to condone non-compliance with the time bar is not necessarily decisive”.55 As was explained in Mohlomi:
+
+“What counts . . . is the sufficiency or insufficiency, the adequacy or inadequacy, of the room which the limitation leaves open in the beginning for the exercise of the right. For the consistency of the limitation with the right depends upon the availability of an initial opportunity to exercise the right that amounts, in all the circumstances characterising the class of case in question, to a real and fair one.”56
+
+It bears emphasis that prescription is aimed at penalising negligent inaction, not the inability to act.57 In the case of prohibited practices under section 4(b), it is trite that cartels are, by their very nature, secretive. It would be inequitable to penalise the Commission, which would invariably have no knowledge of, for instance, surreptitious price fixing by cartels, for its failure to act within the three-year period. That would be tantamount to rewarding cartels for their covert unlawful conduct and would not be in the interests of justice.
+In the present instance, we must consider which of these two interpretations would better promote the spirit, purport and objects of the Bill of Rights and constitute a lesser infringement on the right in section 34 of the Constitution. The most compelling conclusion is that section 67(1) is a procedural time-bar. This conclusion strikes a proper balance between, on the one hand, the need for general certainty in commercial affairs and the public’s interest in having the Commission’s vast investigatory resources spent only on combatting recent prohibited practices and, on the other hand, the objective of the Act to deter prohibited practices including, where justified, older practices. This renders the provision more constitutionally compliant and meets the purposes of the Competition Act. An interpretation that section 67(1) of the Competition Act is an absolute substantive time-bar would not only lead to the opposite result, but would also encourage cartel cohorts to remain silent about their prohibited activities for a period of three years from the cessation of those activities, in exchange for absolute immunity for their egregious activities. That would completely defeat the aims of the Act.
+For these reasons, the Competition Appeal Court erred in its finding that section 67(1) of the Competition Act is a limitation or expiry period and thus imposes an absolute substantive time-bar. Thus, the contention by Pickfords that it would offend the principle of legality and defeat the purpose of the Act to permit the Commission “to turn back the clock”, cannot bear scrutiny. Conversely, the preferred interpretation is, as stated, not only more constitutionally compliant and purposive, but also meets the rationality test. There is clearly a rational connection between interpreting the section as a procedural time-bar and its purpose. The next issue that  
+2020 (10) BCLR 1204 (CC) at 1220
+  must be decided is the question of condonation. As stated, it is closely linked to the first issue.
+
+Condonation in terms of section 58(1)(c)(ii)
+Section 58(1)(c) of the Competition Act grants the Tribunal the power to condone, on good cause shown, any non-compliance with the rules of the Commission or the Tribunal and of any time limit set out in the Competition Act.58 The only proviso is that those powers are subject to sections 13(6) and 14(2) of the Act. Section 13 deals with small merger notification and implementation. Section 14 concerns intermediate merger proceedings. Both sections 13(6) and 14(2) make it clear that the Commission’s failure to issue merger approval certificates after the expiry of certain periods, will result in the deemed approval of the small or intermediate merger, as the case may be. There is thus no room for the condonation of the Commission’s failure to issue the certificates. Sections 13(6) and 14(2) clearly do not entail the ambit of the Tribunal’s powers of condonation, but are the exceptions that are excluded from it.
+Save for the exclusions alluded to, section 58(1)(c)(ii) of the Competition Act affords the Tribunal an express, general power to condone non-compliance with time-limits in the Competition Act. The Competition Appeal Court found that there is no express power in the Competition Act for the Tribunal to condone non-compliance. It said that the power must therefore be implied. I disagree. Section 58(1)(c)(ii) of the Competition Act expressly provides a general power of condonation, save for the exclusions mentioned. These specific exclusions must have been deliberate on the part of the Legislature. It brings to bear the maxim inclusio unius est exlusio alterius (the specific inclusion of one implies the exclusion of the other).59 Of course, this maxim is not a rigid rule of statutory construction,60 and it must always be applied with great caution.61 It has been described as a “principle of common sense” rather than a rule of statutory construction.62 But it is certainly a cogent factor in favour of a finding that the power of condonation for non-compliance with section 67(1) is included in section 58(1)(c)(ii).
+Excluding the condonation of non-compliance of section 67(1) under these general condonation powers would, as stated, incentivise secrecy and non-disclosure. It bears repetition that cartel conduct is invariably conducted in secret. Shining a light on these covert activities is often only  
+2020 (10) BCLR 1204 (CC) at 1221
+  possible through whistleblowing and the leniency process,63 as detection in the normal course of events is difficult. Absent an avenue allowing for condonation, the Commission’s path to the Tribunal would be completely blocked.
+It is not necessarily as if, once a prohibited practice has ceased, no adverse consequences ensue, even more than three years after that cessation. Market dominance comes to mind as an adverse consequence which can endure well beyond three years after the cessation of a prohibited practice. If the existence and extent of the practice were to become known more than three years later, all would be lost. Moreover, those harmed by a prohibited practice would be impeded if they could not claim damages for conduct, which had ceased three years prior.
+Deterrence and prevention are part and parcel of the objectives of the Competition Act, as far as transgressions are concerned. The Competition Act does not look only to the past in order to punish, but also seeks to deter future malfeasance. It is for this reason that, in a manner somewhat similar to the treatment of a record of previous convictions in sentencing in a criminal trial, section 59(3)(g) of the Competition Act requires the Tribunal to take into account previous contraventions of the Act when considering an appropriate penalty.64 Secretive cartel conduct will flourish if the Commission is precluded from accessing the Tribunal in justified cases, more than three years after cessation.
+Condonation is not a mere formality – good cause must be shown. The concept of “good cause” is well-known in our law. A large body of jurisprudence has developed in our courts, particularly concerning rescission and condonation applications. The requirements for “good cause” are thus well-established. Courts are afforded a wide discretion in evaluating what constitutes “good cause”, so as to ensure that justice is done.65 Ultimately, the overriding consideration is the interests of justice, which must be considered on the facts of each case. Factors germane to this enquiry may  
+2020 (10) BCLR 1204 (CC) at 1222
+  include: the extent and cause of the delay; the effect of the delay on the administration of justice and other litigants; the reasonableness of the explanation for the delay; the issue(s) to be raised in the matter; and the prospects of success.66 In Ferris, this Court said:
+
+“[L]ateness is not the only consideration in determining whether condonation may be granted . . . the test for condonation is whether it is in the interests of justice to grant it . . . an applicant’s prospects of success and the importance of the issue to be determined are relevant factors.”67
+
+I therefore conclude that the Competition Appeal Court erred in its finding that there is no power in section 58(1)(c)(ii) for the Tribunal to condone non-compliance with section 67(1).
+
+Conclusion
+The correct initiation date in the present matter is 3 November 2010. Section 67(1) of the Competition Act is a procedural time-bar, capable of condonation. Section 58(1)(c)(ii) of the Act includes the power of the Tribunal condoning the non-compliance with section 67(1), on good cause shown. Consequently, the appeal must be upheld.
+
+Costs
+Costs must follow the result. There is no basis to depart from this general principle. This matter concerns the proper interpretation of sections 67(1) and 58(1)(c)(ii) of the Competition Act. Pickfords did not seek to vindicate any constitutional rights and it raised no constitutional issues. The constitutional argument was advanced by the Commission, not by Pickfords. As stated, the Commission sought to vindicate its right of access to court, enshrined in section 34 of the Constitution. It endeavoured to persuade the Tribunal and the Competition Appeal Court to adopt an interpretation of section 67(1) that would be the least limiting of its right of access to court that is that the section is not an absolute time-bar, but a procedural time-bar, capable of condonation. Conversely, Pickfords raised no constitutional issues in its papers, save for an oblique reference to its section 34 right of access to court in a footnote in its written submissions in this Court. As far as Pickfords is concerned, this is a commercial matter and nothing more.68 The well-known principle set out in Biowatch,69 that  
+2020 (10) BCLR 1204 (CC) at 1223
+  costs in constitutional litigation should ordinarily not be awarded against a private person in favour of an Organ of State therefore does not apply here.
+In essence, the Biowatch principle is a general rule to be applied to constitutional litigation involving Organs of State, which is aimed at protecting unsuccessful litigants from paying costs to the State in order “to diminish the chilling effect that adverse costs orders might have on litigants seeking to assert constitutional rights”.70 This Court held in Biowatch that:
+
+“The rationale for this general rule is three-fold. In the first place it diminishes the chilling effect that adverse costs orders would have on parties seeking to assert constitutional rights. Constitutional litigation frequently goes through many courts and the costs involved can be high. Meritorious claims might not be proceeded with because of a fear that failure could lead to financially ruinous consequences. Similarly, people might be deterred from pursuing constitutional claims because of a concern that even if they succeed they will be deprived of their costs because of some inadvertent procedural or technical lapse. Secondly, constitutional litigation, whatever the outcome, might ordinarily bear not only on the interests of the particular litigants involved, but on the rights of all those in similar situations. Indeed, each constitutional case that is heard enriches the general body of constitutional jurisprudence and adds texture to what it means to be living in a constitutional democracy. Thirdly, it is the state that bears primary responsibility for ensuring that both the law and state conduct are consistent with the Constitution. If there should be a genuine, non-frivolous challenge to the constitutionality of a law or of state conduct, it is appropriate that the state should bear the costs if the challenge is good, but if it is not, then the losing non-state litigant should be shielded from the costs consequences of failure. In this way responsibility for ensuring that the law and state conduct is constitutional is placed at the correct door.”71
+
+It further held:
+
+“In essence the dispute turns on whether the governmental agencies have failed adequately to fulfil their constitutional and statutory responsibilities. Essentially, therefore, these matters involve litigation between a private party and the state, with radiating impact on other private parties.”72
+
+This Court then concluded:
+
+“I conclude, then, that the general point of departure in a matter where the state is shown to have failed to fulfil its constitutional and statutory obligations, and where different private parties are affected, should be as follows: the state should bear the costs of litigants who have been successful against it, and ordinarily there should be no costs orders against any private litigants who have become involved. This approach locates the risk for costs at the correct door – at the end of the day, it was the state that had control over its conduct.”73
+
+ 
+2020 (10) BCLR 1204 (CC) at 1224
+Turning to the facts of this matter – Pickfords has not raised arguments that are genuine and substantive and that truly raise constitutional considerations relevant to the adjudication. Furthermore, Pickfords has not alleged that the Commission has failed adequately to fulfil its constitutional or statutory responsibilities, or that it is attempting to vindicate its rights or hold the Commission accountable by forcing it to fulfil its constitutional rights. In fact, if Pickfords’ argument were to be successful, it would have the effect of defeating the purpose of the Competition Act, as I have shown above, and unduly restrict the Commission’s, as well as the public’s access to courts. Pickfords is plainly arguing for its own self-interest. As stated, Pickfords regards this as a commercial matter and nothing more. We should not lose sight of the fact that this matter is an exception raised by Pickfords, which argued that certain instances of the prohibited conduct were prescribed and could not be pursued because, if they were so pursued, Pickfords would be liable for a hefty penalty. There is no genuine public interest or broader constitutional dimension to this litigation on the part of Pickfords.
+It bears emphasis that Biowatch applies where a private party raises a genuine and substantive argument vindicating its constitutional rights, or if the party seeks to hold an Organ of State accountable and to compel that Organ of State to fulfil its constitutional or statutory responsibilities. In this matter, none of these factors exist. Undoubtedly, the remarks of Moseneke DCJ in SCAW are apt in this matter:
+
+“This is an out and out commercial matter. In the final instance, the dispute is about economic competition in the terrain of international trade and commerce. SCAW is anxious to protect its domestic manufacturing outputs at markets. The judicial review initiated by SCAW is driven by a profit motive. On the other hand, Bridon UK too seeks to advance its global market in steel products. It may do so only within the confines international and domestic law. Although ITAC is a State Organ, its specialist role in international trade is no reason for costs not to follow the event. ITAC and Bridon UK have been substantially successful and there is no reason why that favourable outcome should not translate into a cost order in their favour.”74
+
+Like the International Trade Administration Commission (“ITAC”), the Competition Commission, although an Organ of State, fulfils an important specialist role in competition matters. There is consequently no reason why the Commission should not be awarded its costs.
+The following order is made:
+Leave to appeal is granted.
+The appeal is upheld.
+The appeal is upheld. 
+2020 (10) BCLR 1204 (CC) at 1225
+The order of the Competition Tribunal is set aside and substituted with the following:
+
+‘The exception brought by the applicant, Pickfords Removals SA (Pty) Limited, is dismissed.’
+
+The matter is remitted to the Competition Tribunal for further hearing.”
+The respondent, Pickfords Removals SA (Pty) Limited, is ordered to pay the costs of the applicant, the Competition Commission, in this Court, the Competition Appeal Court and the Competition Tribunal, including the costs of two Counsel.
+
+(Mogoeng CJ, Jafta, Khampepe, Madlanga, Mhlantla, Theron, Tshiqi JJ; Victor and Mathopo AJJ concurred in the judgment of Majiedt J.)
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	 David Sarnoff, a renowned Russian-American business personality and the founder of the Radio Corporation of America (“RCA”).
+2	 89 of 1998.
+3	 S 4(1)(b) of the Competition Act provides that:
+ “(1) An agreement between. or concerted practice by, firms or a decision by an association of firms, is prohibited if it is between parties in a horizontal relationship and if –
+ (b) it involves any of the following restrictive horizontal practices:
+ (i) directly or indirectly fixing a purchase or selling price or any other trading condition;
+ (ii) dividing markets by allocating customers, suppliers, territories, or specific types of goods or services; or
+ (iii) collusive tendering.”
+4	 A complaint against a prohibited practice by a firm may be initiated by the Commissioner or may be submitted to the Commission by any person (s 44). An investigation then ensues (s 45), that results in the Commission either referring the matter to the Tribunal, or issuing a notice of non-referral (s 50).
+5	 Emphasis added.
+6	 S 50(1) of the Competition Act provides that:
+“[a]t any time after initiating a complaint, the Competition Commission may refer the complaint to the Competition Tribunal.”
+“Prohibited practice” is defined in s 1 as “a practice prohibited in terms of Ch 2”. Ch 2 lists a number of practices prohibited under the Act, including collusive tendering prohibited under s 4(1)(b)(iii).
+7	Pickfords Removals SA (Pty) Ltd v Competition Commission [2018] 1 CPLR 390 (CT) (tribunal judgment) at para [52].
+8	 68 of 1969. S 12(3) of the Prescription Act reads:
+“A debt shall not be deemed to be due until the creditor has knowledge of the identity of the debtor and of the facts from which the debt arises: Provided that a creditor shall be deemed to have such knowledge if he could have acquired it by exercising reasonable care.”
+9	 Tribunal judgment above fn 7 at paras [93]–[97].
+10	Id at paras [109]–[110].
+11	 66 of 1995.
+12	Food and Allied Workers” Union v Pieman”s Pantry (Pty) Limited [2018] ZACC 7; 2018 JDR 0411 (CC); 2018 (5) BCLR 527 (CC) [also reported at [2018] 6 BLLR 531 (CC) – Ed].
+13	 Tribunal judgment above fn 7 at paras [101]–[104].
+14	Competition Commission of South Africa v Pickfords Removals SA (Pty) Ltd [2019] ZACAC 5 (Competition Appeal Court judgment) at para [29].
+15	Id at paras [30]–[33].
+16	Id at para [33].
+17	Id at para [40].
+18	Id at para [39].
+19	Id at paras [46]–[48].
+20	 S 67(1) of the Competition Act has since been amended by s 37 of the Competition Amendment Act 18 of 2018, but this is not germane to these proceedings as it was promulgated after the matter was heard in the Competition Tribunal and the Competition Appeal Court.
+21	 S 167(3) of the Constitution reads:
+“The Constitutional Court –
+ (a) is the highest court of the Republic; and
+ (b) may decide –
+ (i) constitutional matters; and
+ (ii) any other matter, if the Constitutional Court grants leave to appeal on the grounds that the matter raise an arguable point of law of general public importance which ought to be considered by that Court, and
+ (c) makes the final decision whether a matter is within its jurisdiction.”.
+22	General Council of the Bar of South Africa v Jiba [2019] ZACC 23; 2019 JDR 1194 (CC); 2019 (8) BCLR 919 (CC) at para [35].
+23	 S 34 of the Constitution provides:
+“Everyone has the right to have any dispute that can be resolved by the application of law decided in a fair public hearing before a court or, where appropriate, another independent and impartial tribunal or forum.”
+24	Id. Links v Member of the Executive Council, Department of Health, Northern Cape Province [2016] ZACC 10; 2016 (4) SA 414 (CC); 2016 (5) BCLR 656 (CC) at para [22]. See also Road Accident Fund v Mdeyide [2010] ZACC 18; 2011 (2) SA 26 (CC); 2011 (1) BCLR 1 (CC) at paras [1]–[2].
+25	Id. See also Mtokonya v Minister of Police [2017] ZACC 33; 2018 (5) SA 22 (CC); 2017 (11) BCLR 1443 (CC) at para [9].
+26	Paulsen v Slip Knot Investments 777 (Pty) Ltd [2015] ZACC 5; 2015 (3) SA 479 (CC); 2015 (5) BCLR 509 (CC) at para [23].
+27	S v Boesak [2000] ZACC 25; 2001 (1) SA 912 (CC); 2001 (1) BCLR 36 (CC) at para [12].
+28	 S 65(6), read with s 65(9), and s 73A of the Competition Act, discussed later herein.
+29	 See [12] above.
+30	 See the Concise Oxford Dictionary revised (10ed) and Garner et al (eds), Black’s Law Dictionary (1999).
+31	Woodlands Dairy (Pty) Ltd v Competition Commission [2010] ZASCA 104; 2010 (6) SA 108 (SCA) at para [13] [also reported at [2011] 3 All SA 192 (SCA) – Ed].
+32	Competition Commission v Yara SA (Pty) Ltd [2013] ZASCA 107; 2013 (6) SA 404 (SCA) at para [21] [also reported at [2013] 4 All SA 302 (SCA) – Ed].
+33	Id. Compare Woodlands Dairy above fn 31 with Power Construction (West Cape) (Pty) Ltd v Competition Commission of South Africa [2017] ZACAC 6 (Power Construction CAC) [reported at [2017] 2 CPLR 589 (CAC) – Ed].
+34	Woodlands Dairy above fn 31 at para [36]. See also Loungefoam (Pty) Ltd v Competition Commission [2011] ZACAC 4; [2011] 1 CPLR 19 (CAC) at para [53].
+35	 See [21] above.
+36	Loungefoam above fn 34 at para [41].
+37	Woodlands Dairy above fn 31at para [36], decided before Loungefoam above fn 34.
+38	Id.
+39	Id.
+40	Competition Commission v Power Construction (West Cape) (Pty) Ltd [2016] ZACT 87 at para [39].
+41	Gaoshubelwe above fn 12 at para [184], citing Society of Lloyd”s v Price; Society of Lloyd”s v Lee [2006] ZASCA 88; 2006 (5) SA 393 (SCA) at para [10].
+42	Cool Ideas 1186 CC v Hubbard [2014] ZACC 16; 2014 (4) SA 474 (CC); 2014 (8) BCLR 869 (CC) at para [28].
+43	Wary Holdings (Pty) Ltd v Stalwo (Pty) Ltd [2008] ZACC 12; 2009 (1) SA 337 (CC); 2008 (11) BCLR 1123 (CC) at paras [46]–[47].
+44	Makate v Vodacom (Pty) Ltd [2016] ZACC 13; 2016 (4) SA 121 (CC); 2016 (6) BCLR 709 (CC) at para [87].
+45	Fraser v Absa Bank Limited [2006] ZACC 24; 2007 (3) SA 484 (CC); 2007 (3) BCLR 219 (CC) at para [43].
+46	 S 2 of the Competition Act reads:
+“The purpose of this Act is to promote and maintain competition in the Republic in order –
+ (a) to promote the efficiency, adaptability and development of the economy;
+ (b) to provide consumers with competitive prices and product choices;
+ (c) to promote employment and advance the social and economic welfare of South Africans;
+ (d)  to expand opportunities for South African participation in world markets and recognise the role of foreign competition in the Republic;
+ (e) to ensure that small and medium-sized enterprises have an equitable opportunity to participate in the economy; and
+ (f) to promote a greater spread of ownership, in particular to increase the ownership stakes of historically disadvantaged persons.”
+47	 The Commission has been described as the Legislature’s “plaintiff of first choice”; see Glaxo Wellcome (Pty) Ltd v National Association of Pharmaceutical Wholesalers [2002] ZACAC 3 at para [26].
+48	 S 73A of the Competition Act visits criminal liability on a director of a firm who caused the firm to engage in a prohibited practice or knowingly acquiesced in the firm engaging in a prohibited practice. That section, however, only commenced on 16 May 2016, and is therefore not directly relevant here.
+49	Competition Commission v Hosken Consolidated Investments Limited [2019] ZACC 2; 2019 (3) SA 1 (CC); 2019 (4) BCLR 470 (CC) at para [31].
+50	Id.
+51	 Maasdorp Maasdorp”s Institutes of South African Law (10ed) Juta and Co Ltd, Cape Town 1976 2 at 76 expresses it as “[t]he principle that penalties should be imposed on those who, through their negligence and carelessness about their own affairs and property, do an injury to the state by introducing an uncertainty as to the ownership and an endless multiplicity of lawsuits”.
+52	Mdeyide above fn 24 at para [2].
+53	Brümmer v Minister of Social Development [2009] ZACC 21; 2009 (6) SA 323 (CC); 2009 (11) BCLR 1075 (CC) at para [51]. See also Mohlomi v Minister of Defence [1996] ZACC 20; 1997 (1) SA 124 (CC); 1996 (12) BCLR 1559 (CC) at para [11].
+54	Mohlomi above fn 53 at para [12].
+55	Brümmer above fn 53 at para [50].
+56	Mohlomi above fn 53 at para [12].
+57	Van Zijl v Hoogenhout [2004] ZASCA 84; 2005 (2) SA 93 (SCA) at para [19] [also reported at [2004] 4 All SA 427 (SCA) – Ed] and Macleod v Kweyiya [2013] ZASCA 28; 2013 (6) SA 1 (SCA) at para [13].
+58	 The relevant part of the section appears in [14] of this judgment.
+59	 A useful discussion of the maxim can be found in National Director of Public Prosecutions v Mohamed NO [2003] ZACC 4; 2003 (4) SA 1 (CC); 2003 (5) BCLR 476 (CC) at paras [40]–[41].
+60	Administrator, Transvaal v Zenzile [1990] ZASCA 10; 1991 (1) SA 21 (A) at 37 [also reported at [1991] 1 All SA 240 (A) – Ed] and Chotabhai v Union Government 1911 AD 13 at 28.
+61	South African Estates and Finance Corporation Ltd v Commissioner for Inland Revenue 1927 AD 230 at 236.
+62	Poynton v Cron 1910 AD 205 at 222.
+63	 Leniency entails parties approaching the Commission with information about infringements of the Competition Act in exchange for a waiver of prosecution or negligible fines. See also the “Corporate Leniency Policy Competition Commission of South Africa” http://www.compcom.co.za/wp-content/uploads/2020/03/CLP-public-version-12052008.pdf at fn 65.
+64	 S 59(3) reads:
+“When determining an appropriate penalty, the Competition Tribunal must consider the following factors:
+ (a) the nature, duration, gravity and extent of the contravention;
+ (b) any loss or damage suffered as a result of the contravention;
+ (c) the behaviour of the respondent;
+ (d) the market circumstances in which the contravention took place;
+ (e) the level of profit derived from the contravention;
+ (f) the degree to which the respondent has co-operated with the Competition Commission and the Competition Tribunal; and
+ (g) whether the respondent has previously been found in contravention of this Act.”.
+65	Silber v Ozen Wholesalers (Pty) Ltd 1954 (2) SA 345 (A) at 353A [also reported at [1954] 2 All SA 296 (A) – Ed].
+66	Van Wyk v Unitas Hospital [2007] ZACC 24; 2008 (2) SA 472 (CC); 2008 (4) BCLR 442 (CC) at para [20].
+67	Ferris v Firstrand Bank Limited [2013] ZACC 46; 2014 (3) SA 39 (CC); 2014 (3) BCLR 321 (CC) at para [10], citing Bertie Van Zyl (Pty) Ltd v Minister for Safety and Security [2009] ZACC 11; 2010 (2) SA 181 (CC); 2009 (10) BCLR 978 (CC). See also National Police Service Union v Minister of Safety and Security [2000] ZACC 15; 2000 (4) SA 1110; 2001 (8) BCLR 775 (CC) at para [4].
+68	International Trade Commission v SCAW South Africa (Pty) Ltd [2010] ZACC 6; 2012 (4) SA 618 (CC); 2010 (5) BCLR 457 (CC) at para [113].
+69	Biowatch v Registrar, Genetic Resources [2009] ZACC 14; 2009 (6) SA 232 (CC); 2009 (10) BCLR 1014 (CC).
+70	Id at para [23].
+71	Id.
+72	Id at para [28].
+73	Id at para [56].
+74	SCAW above fn 68 at para [113].
+
+For the applicant:
+
+T Ngcukaitobi, I Kentridge and C Tabata instructed by Ndzabandzaba Attorneys Incorporated
+For the respondent:
+
+M Norton SC, F Pelser and N Mashava instructed by Edward Nathan Sonnenbergs Incorporated
+
+
+End of Document

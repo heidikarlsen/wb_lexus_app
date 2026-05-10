@@ -1,0 +1,140 @@
+
+
+
+
+Feni v Commissioner for Conciliation, Mediation and Arbitration and others [2020] JOL 47916 (LAC)
+Judgments Online
+
+Division: Johannesburg 
+Case No: JA30 / 2019
+Hearing Date(s): 19 / 05 / 2020
+Judgment Date(s): 28 / 05 / 2020
+Bench: Phatshoane ADJP; Davis JA; Murphy AJA
+
+
+Keywords
+
+
+Labour and Employment — Dismissal — Multiple referrals to CCMA — Res judicata
+
+Mini Summary
+
+
+In July 2016, the appellant referred an unfair dismissal dispute to the Commission for Conciliation Mediation and Arbitration (CCMA), alleging that he had been subjected to an automatically unfair dismissal. The dispute was referred to conciliation and a certificate of the outcome was issued stating that the dispute remained unresolved and could be referred to the Labour Court because it involved an alleged automatic unfair dismissal flowing from a protected disclosure. A day later, the appellant completed and served a further referral form referring to the nature of the dispute as “dismissal”. In that referral, the type of dismissal was described as “for unknown reasons”. At conciliation, the third respondent raised a point in limine in which it stated that two unfair dismissal disputes had been referred by the appellant pertaining to the very same dismissal. As the CCMA had already considered the dispute previously and had issued a certificate of outcome certifying that the dispute had remained unresolved and could be referred to the Labour Court, it was contended that the CCMA did not have jurisdiction to hear the matter. The point in limine was upheld by the second respondent.
+
+The appellant approached the Labour Court contending that the CCMA did in fact have jurisdiction to hear the second referral. The court dismissed the application. On appeal, the appellant sought to overturn that finding.
+
+Held that in terms of the doctrine of res judicata, a matter that has already been decided cannot be raised again. However, a decision on jurisdiction does not constitute res judicata. It is not a determination of the legal justification of the core dispute of dismissal between the parties.
+
+In this case, the appellant had referred the very same dismissal to the CCMA in two separate referrals – seeking to challenge the fairness of the same dismissal on different grounds. Setting out the numerous reasons for that course of action being impermissible, the court upheld the point taken by the respondent.
+
+The appeal was dismissed with costs.
+
+ 
+[2020] JOL 47916 (LAC) at 1
+
+
+
+
+DAVIS JA:  
+
+Introduction
+
+ 
+[2020] JOL 47916 (LAC) at 2
+
+[1]    This appeal concerns an important question as to the approach to be adopted in circumstances where an employee lodges two disputes with the Commission for Conciliation Mediation and Arbitration ("CCMA") concerning his or her dismissal; in particular where an employee proceeds to the CCMA on the basis that the dismissal was automatically unfair and subsequent thereto raises a further dispute to the effect that the very same dismissal is unfair for grounds other than those which would fall within the scope of an automatically unfair dismissal.
+
+The factual background
+
+[2]    On 27 June 2016, third respondent issued a notice to the appellant in which it called upon appellant to make representations as to why his services should not be terminated on the grounds of incompatibility. The letter which was signed by Dr Monareng, the Chief Executive Officer (CEO) of third respondent, set out a series of grounds "on which I hold the preliminary view that your services should be terminated on grounds of incompatibility". These included an alleged campaign by the appellant to attack the legitimacy of the appointment of Dr Monareng as CEO of third respondent, attempts by appellant to undermine the authority of the CEO as well as a sustained campaign of litigation against third respondent.
+
+[3]    The appellant did not make any representations following the receipt of this letter. On 29 June 2016, Dr Monareng wrote a further letter to appellant entitled "Notice of Dismissal" in which he noted: "you were invited to make such representations if any by 28 June 2016 we note that you have not provided such representations and had not indicated the intention to do so. Accordingly, you are dismissed with immediate effect on the grounds of incompatibility."
+
+[4]    Following receipt of this letter, the appellant referred an alleged unfair dismissal dispute to the CCMA on 6 July 2016. In terms of the LRA 7.11 referral form, the nature of the dispute was  
+[2020] JOL 47916 (LAC) at 3
+described as "dismissal", the type of dispute was referred to as "automatic unfair dismissal" and the facts of the dispute were summarised as "dismissal for making protected disclosures and for exercising my rights".
+
+[5]    On 25 July 2016, a certificate of the outcome of the dispute which had been referred to conciliation was issued. It certified that, as the dispute had remained unresolved, it could now be referred to the Labour Court because it involved an alleged automatic unfair dismissal flowing from a protected disclosure.
+
+[6]    A day later, on 26 July 2016, the appellant completed and served a further LRA 7.11 referral form referring to the nature of the dispute as "dismissal". In this referral, the type of dismissal was described as "for unknown reasons". The facts of the dispute were summarised as "dismissed when there was no hearing, no charges referred and no fault of my own". It was made clear that the date of the dismissal and thus the date of the dispute was 29 June 2016 which was exactly the same date which had been inserted in the first LRA 7.11 referral form. In short, there was no dispute that one act of dismissal pursuant to the letter of Dr Monareng of 29 June 2019 had prompted the appellant to generate two referrals.
+
+[7]    This second referral, that is on 26 July 2016, was set down for conciliation on 26 August 2016. At these proceedings third respondent raised a point in limine in which it alleged two unfair dismissal disputes had been referred by the appellant pertaining to the very same dismissal. As the CCMA had already considered the dispute previously and had issued a certificate of outcome certifying that the dispute had remained unresolved and could be referred to the Labour Court as it pertained to an alleged automatically unfair dismissal based on an alleged protected disclosures, it was contended that the CCMA did not have jurisdiction to hear the matter.
+
+[8]    The point in limine was upheld by the second respondent on 26 August 2016 in which the following ruling was issued.
+
+ 
+[2020] JOL 47916 (LAC) at 4
+
+"The respondent raised a point in limine stating that the CCMA lacks jurisdiction in this matter as the applicant referred an alleged automatic unfair dismissal dispute under case number GATW8714-16 and another alleged unfair dismissal under this case number. Essentially these two disputes are the same in nature as it relates to the applicant's dismissal. The matter was already referred to the Labour Court for adjudication and therefore the CCMA is functus officio to arbitrate this matter i.e. the CCMA lacks jurisdiction to arbitrate this matter. Case management is directed to close the CCMA case file."
+
+[9]    Following this ruling, the appellant approached the Labour Court contending that the CCMA did indeed have jurisdiction to hear this second referral. In dismissing this application, Rabkin-Naicker J noted that this was not a case where there were two causes of action but rather one where the appellant sought two separate hearings for the same dismissal which, in her view, was impermissible in law. With the leave of this Court, the appellant seeks to have this order overturned.
+
+The appeal
+
+[10]    The crisp questions for determination are whether the CCMA has jurisdiction to conciliate and arbitrate the second dismissal which was lodged on 26 July 2016 and, if it did not, on what basis can it be found that it did not have such jurisdiction. In particular, the question arises as to whether either of the doctrines of res judicata or lis pendens is applicable in this case.
+
+[11]    Counsel for the third respondent contended that the CCMA could not be expected to deal with the same dismissal dispute relating to the same parties under two different themes. Having failed to conciliate the dispute regarding the automatically unfair dismissal, it was contended that the CCMA was functus officio in respect of the second referral. In support thereof it was submitted that the principle of res judicata was applicable in respect of the second referral in that it was one and the same dispute between the parties and that the CCMA had made a decision that the dispute could not be resolved, entitling appellant to  
+[2020] JOL 47916 (LAC) at 5
+approach the Labour Court. Thus the issuance of a certificate of non-resolution was a jurisdictional decision which had been taken in respect of the dispute and could not be retaken.
+
+[12]    The doctrine of res judicata encompasses a matter that has already been decided; that is the same dispute had been finally adjudicated upon in proceedings between the same parties and therefore cannot be raised again. According to Voet 42.1.1 this exceptio was available in the common law, if it was shown that the judgment in the earlier case was given in a dispute between the same parties for the same relief on the same ground or on the same cause. See National Sorghum Breweries Ltd (t/a Vivo African Breweries) v International Liquor Distributors (Pty) Ltd 2001 (2) SA 232 (SCA) at 239 [also reported at [2001] 1 All SA 417 (A); [2001] JOL 7750 (A) – Ed] as well as the cases cited therein.
+
+[13]    The law was further explicated by Scott JA in Smith v Porritt and others 2008 (6) SA 303 SCA at paragraph 10 [also reported at [2007] JOL 19499 (SCA) – Ed] "the ambit of the exceptio rei judicata has over the years been extended by the relaxation in appropriate cases of the common-law requirements that the relief claimed and the cause of action be the same (eadem res and eadem petendi causa) in both the case in question and the earlier judgment. Where the circumstances justify the relaxation of these requirements those that remain are that the parties must be the same (idem actor) and that the same issue (eadem quaestio) must arise. Broadly stated, the latter involves an inquiry whether an issue of fact or law was an essential element of the judgment on which reliance is placed. Where the plea of res judicata is raised in the absence of a commonality of cause of action and relief claimed it has become commonplace to adopt the terminology of English law and to speak of issue estoppel. But, as was stressed by Botha JA in Kommissaris van Binnelandse Inkomste v Absa Bank BPK 1995 (1) SA 653 (A) at 669D, 670J-671B [also reported at [1995] 1 All SA 517 (A) – Ed], this is not to be construed as implying an abandonment of the principles of the common law in favour of those of English law; the defence remains one of res judicata. The recognition of the defence in such cases will however require  
+[2020] JOL 47916 (LAC) at 6
+careful scrutiny. Each case will depend on its own facts and any extension of the defence will be on a case by case basis".
+
+Applying this test to the facts of this dispute, it is difficult to see how a decision on jurisdiction constitutes res judicata. It is not a determination of the legal justification of the core dispute of dismissal between the parties.
+
+[14]    Aligned, however, to the concept of res judicata is that of lis pendens. As Nugent AJA said in Nestlé (South Africa) (Pty) Ltd v Mars Inc 2001 (4) SA 542 (SCA) at paragraph 16 [also reported at [2001] 4 All SA 315 (A); [2001] JOL 8321 (A) – Ed]:
+
+"The defence of lis alibi pendens shares features in common with the defence of res judicata because they have a common underlying principle, which is that there should be finality in litigation. Once a suit has been commenced before a tribunal that is competent to adjudicate upon it, the suit must generally be brought to its conclusion before the tribunal and should not be replicated (lis alibi pendens). By the same token the suit will not be permitted to revive once it has been brought to its proper conclusion (res judicata). The same suit between the same parties, should be brought once and finally."
+
+[15]    Wallis J explicated upon the doctrine in Caesarstone Sdocot-Yam v World of Marble and Granite 2000 CC and others 2013 (6) SA 499 (SCA) at paragraph 2 [also reported at [2013] 4 All SA 509 (SCA); [2013] JOL 30948 (SCA) – Ed] where he said that the policy underlying the doctrine of lis pendens "is that there should be a limit to the extent to which the same issue is ligated between the same parties and that it is desirable that there be finality in litigation. The courts are also concerned to avoid a situation where different courts pronounce on the same issue with the risk they may reach different conclusions".
+
+[16]    Herbstein and Van Winsen The Civil Practice of the High Courts in South Africa (5ed) at 606 note that a plea of lis pendens involves an intervention by the court to stay one or other of the proceedings because it is prima facie vexatious to bring two actions in respect of the same subject matter. The learned authors point out that the court has a discretion in the matter which is sourced in the  
+[2020] JOL 47916 (LAC) at 7
+policy that to allow two separate proceedings to continue in respect of the same dispute may well border on the authorisation of a vexatious practice.
+
+[17]    The question that therefore requires determination, in this case, is whether both the CCMA and the court a quo were confronted with the same dispute; that is a single act of dismissal of the appellant by the third respondent and that the fact that the former had raised two justifications for his argument that the dismissal was unfair did not mean that lis pendens should not be invoked in this case.
+
+[18]    Of relevance to the determination of this question is a recent judgment of the Constitutional Court in Association of Mine Workers and Construction Union and others v Ngululu Bulk Carriers (Pty) Ltd (in liquidation) and others [2020] ZACC 8 [also reported at 2020 (7) BCLR 779 (CC); [2020] JOL 47168 (CC) – Ed]. The facts were as follows: Respondents employees including members of appellant were engaged in an unprotected strike. Respondent dismissed 476 of these workers as a result of their participation in the unprotected strike. An unfair dismissal dispute was immediately referred to the relevant Bargaining Council by appellant. The dispute was conciliated without success and a certificate of non-resolution was issued by the relevant Council. The court referred to this as the first dispute.
+
+[19]    At the same time, respondent reemployed some of the dismissed employees although it did not reemploy a single member of the appellant. The appellant and its members considered that the respondent had embarked upon a process of selected reemployment. Thus there was now a second act of further dismissal to which the members of appellant had been subjected.
+
+[20]    A referral to the same Bargaining Council was made by the appellants for conciliation. It was contended that selective reemployment constituted an unfair dismissal as set out in section 186(1)(d) of the Labour Relations Act 65 of 1995 ("LRA"). The Court referred to this as the second dismissal. The respondent disputed that the Bargaining Council had jurisdiction to conciliate the second dismissal but the Council rejected this objection and conciliation continued. Again a resolution was unsuccessful and a certificate of non-resolution was thus issued.
+
+ 
+[2020] JOL 47916 (LAC) at 8
+
+Aggrieved by this ruling, respondent launched a review application in the Labour Court impugning the ruling on jurisdiction and hence the validity of the certificate of non-resolution. Thereafter the appellant and its members initiated a claim for unfair dismissal in the Labour Court. With regard to the first dismissal, it was contended that members of the appellant had been dismissed for their affiliation to the union and for this reason, in terms of section 187(1)(f) LRA, these dismissals were automatically unfair.
+
+[21]    Respondent defended this action and raised two preliminary points, namely, that, as this dismissal was based on the assertion that it was automatically unfair, the Labour Court lacked jurisdiction in that an automatically unfair dispute had not been referred to conciliation. It also raised the defence of lis pendens contending that the issues raised by the second claim were the subject matter of a review application then pending before the Labour Court. These preliminary objections were upheld by the Labour Court and the matter finally proceeded to the Constitutional Court.
+
+[22]    The Constitutional Court rejected respondent's arguments and overturned the decision of the Labour Court. With regard to the first argument, namely that, as the first dismissal had been reclassified by the appellant as an automatic unfair dismissal, and that claim had to be conciliated before the Labour Court could entertain it, the Constitutional Court took the view that the fact that an unfair dismissal dispute had been referred to conciliation and had been conciliated it appeared to have been ignored by the Labour Court. In short, "the flaw in the Labour Court's reasoning stems from its characterisation of an automatically unfair dismissal as a dispute separate from an unfair dismissal dispute that was referred to conciliation. That court overlooked the fundamental issue which is that what was referred to conciliation was the unfairness of the dismissal regardless of whether the unfairness concern was automatic or otherwise. And that is not reasons for dismissal which must be referred to conciliation but the unfairness of the dismissal". (paragraph 21)
+
+ 
+[2020] JOL 47916 (LAC) at 9
+
+[23]    With regard to the argument based on lis pendens, the Constitutional Court noted that the causes of action in the two proceedings were different as were the subject matters. There were two separate causes of action: One, dealing with dismissal as a result of the unprotected strike and another being the decision regarding a selective reemployment.
+
+[24]    In the present case, as I have emphasised, there was only one dismissal. That dismissal was referred to concilation and then to the Labour Court ". . . As the Constitutional Court said in the AMCU case, it is not reasons for a dismissal which must be referred to conciliation but the unfairness of the dismissal" (paragraph 21), because the Constitutional Court considered that there were two separate dismissals, the approach adopted by the court is distinguishable from the present dispute. Indeed, the emphasis placed by the court on difference between the reasons for the dismissal and the dismissal itself is fatal to the appellant's case in the present dispute.
+
+[25]    Were appellant's argument to succeed, it would create significant obstacles to one of the essential objections of LRA with regard to dismissals, namely their expeditious resolution thereof. A party could, as in this case proceed with a referral of an alleged unfair dismissal dispute to the CCMA, which would fail to resolve it. Because the case was one based on an unfair dismissal where, as in this case, it was alleged that the dismissal was based on an alleged protected disclosure and therefore constituted an automatically unfair dismissal, the matter would proceed to the Labour Court. However, the disgruntled employee could then raise a battery of further reasons for the very same dismissal and, while the first argument was pending resolution before the Labour Court, he could revert to the CCMA on the grounds that he had a series of further reasons as to why he had been dismissed. If that argument succeeded the CCMA would be engaged either with a conciliation process or possibly an arbitration thereafter at the same time as the fairness of the same dismissal was to be heard before the Labour Court or possibly on appeal by the Labour Appeal Court.
+
+ 
+[2020] JOL 47916 (LAC) at 10
+
+[26]    This set of consequences would be entirely incongruent with the policy of the LRA, being expedition of the resolution of a single act of dismissal. This conclusion, namely that the doctrine of lis pendens would be appropriately invoked in such a case, is strengthened by the lack of prejudice to a party in the position of appellant. In terms of section 158(2) of the LRA, if at any stage after a dispute had been referred to the Labour Court, it becomes apparent that the dispute ought to have been referred to arbitration, the court may– (a) stay the proceedings and refer the dispute to arbitration; or (b) with the consent of the parties if it is expedient to do so continue with the proceedings with the court sitting as an arbitrator in which case the court may only make any order that a commissioner or arbitrator would have been entitled to make.'
+
+[27]    This implies that, if a dispute concerning a single act of dismissal of appellant by third respondent was being heard in the Labour Court, it would be possible for the appellant to make an application to amplify his case so as to include as a second ground for his allegation of unfair dismissal the facts that no justifiable reason was proffered by the third respondent, that no hearing had taken place and that therefore there had been significant procedural and substantive irregularities. The Court could then decide to sit as an arbitrator in respect of this component of the case. Not only would such a cause of action be sanctioned by section 158(2) of the LRA but this would be congruent with the fundamental idea set out in the AMCU case, namely that where there is one dispute then there should be one set of proceedings.
+
+[28]    For all of the reasons therefore, as set out, there is no basis by which to disturb the conclusion reached by the court a quo. Accordingly, the appeal is dismissed with costs.
+
+(Phatshoane ADJP and Murphy AJA concurred in the judgment of Davis JA.)
+
+Appearance:
+Makhafola & Verster Incorporated (A); Bowman Gilfillan (3R)
+
+
+End of Document

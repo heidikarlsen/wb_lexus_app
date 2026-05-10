@@ -1,0 +1,286 @@
+Lubbe v CCMA and others [2024] JOL 64752 (LC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN THE LABOUR COURT OF SOUTH AFRICA, JOHANNESBURG
+Not Reportable Case No: JR 2309/21
+In the matter between
+
+GIDEON LUBBE	Applicant
+
+and
+COMMISSION FOR CONCILIATION,
+MEDIATION AND ARBITRATION		First Respondent LUYANDA NKEWNKWE	Second Respondent
+THABA CHUEU MINING (PTY) LTD	Third Respondent Heard: 09 April 2024
+Delivered: 13 May 2024
+
+
+
+JUDGMENT
+
+
+
+HITCHINGS, AJ
+
+Introduction
+
+This is an application by an erstwhile employee to review and set aside an
+
+
+award of the second respondent arbitrator (arbitrator), acting under the auspices of the first respondent (CCMA). The third respondent is the applicant’s erstwhile employer who may, as the context may require, be referred to as either “employer” or “mine”. As is usual in these matters, neither the arbitrator nor the CCMA opposed the relief sought by the applicant.
+Mr M Stephen, an attorney appointed by Attorneys-On-Call (Pty) Ltd appeared for the applicant, whilst Adv M J Van As appeared for the employer. I must at the outset thank both Mr Stephen and Adv Van As for their helpful heads of argument and for their submissions made during our debates at the hearing of this application.
+The employer’s answering affidavit was filed over a year late. Adv Van As, wisely in my view, abandoned the employer’s application for condonation for such late filing, and indicated that he would argue the matter on the applicant’s papers and the record of the proceedings.
+The following background facts are common cause:
+
+The applicant was employed on 1 February 2017 as the employer’s mechanical foreman at its mine some 20 km from Delmas.
+The applicant reported to Mr De Villiers Du Plessis who was the mine’s engineering manager. Mr Du Plessis was referred to in the arbitration proceedings as the applicant’s “manager” or “supervisor”. For the sake of simplicity, I will use the word “manager”.
+Mr Du Plessis in turn reported to the mine’s general manager, Mr Andre Knopjes who was the most senior person at the mine. An organogram reflecting the mine’s organisational structure served as evidence before the arbitrator.
+Following an investigation into a whistle-blower’s allegations of misconduct by certain senior managers at the mine, disciplinary proceedings were instituted against, amongst others, the applicant.
+The “Complaint/Charge” proffered against the applicant at both the
+
+
+disciplinary hearing and the arbitration proceedings read as follows:
+
+Transgression of the Company Code of Ethics in that you:
+
+Transacted with a TCM contractor to provide accommodation to their employees whilst they were performing work for TCM. The contractor paid you for such accommodation which constitutes a conflict of interest.
+Irregularity in the approval of certain invoices related to FDP.
+
+The entity styled “FDP” was a contractor of the mine, and the same contractor referred to in the first charge.
+The internal disciplinary panel, consisting of the mine’s human resources manager, Mr Sinethemba Solani, found that the applicant had transgressed the employer’s “code of ethics” by having rented accommodation to employees of FDP, and having irregularly approved FDP’s invoices. He imposed a sanction of immediate dismissal.
+At an external appeal the chairperson upheld the disciplinary panel’s findings and sanction.
+The applicant’s date of dismissal was 27 November 2020. His monthly remuneration as of that date was R57 846.40.
+The applicant thereafter referred an unfair dismissal dispute to the CCMA.
+After hearing evidence at the subsequent arbitration proceedings which form the subject matter of this application, the arbitrator found that the applicant’s dismissal had been procedurally and substantively fair. He also found that dismissal was an appropriate sanction.
+The applicant then timeously launched and prosecuted this review application. The applicant raised six grounds upon which he contended the award should be reviewed and set aside.
+
+
+The grounds of review
+
+The applicant’s first three grounds of review related to charge 1, whilst his second three grounds related to charge 2. Mr Stevens summarised the six grounds of review in his heads of argument which I now quote.
+The grounds of review in respect of charge 1 were the following:
+
+“Adding of a charge by the Third Respondent”.
+
+“Commissioner wrongly interpreting the reporting and disclosure requirements of the Third Respondent’s Code of Ethics”.
+“Third Respondent’s failure to provide annual training and disclosure forms as required by the Code of Ethics”.
+The grounds in respect of charge 2 were the following:
+
+“Shifting evidentiary onus on Charge 2 to the Applicant”.
+
+“Commissioner misdirected and misconstrued evidence on Charge 2, related to there, only being one invoice (not many), and Applicant not accommodating the person to which the invoice relates”.
+“Commissioner advancing an argument in respect of Charge 2 in his Award, not canvassed by the Third Respondent and which amounts to an unreasonable and unfair splitting of charges by stating that the conflict of interest "ipso facto" in Charge 1, made the invoice "irregular" in Charge 2”.
+Adv Van As, who, as I have said, represented the employer, addressed these grounds in some detail in both his heads of argument and in his argument before me. I will consider his submissions hereunder.
+For purposes of his argument, Adv Van As combined the applicant’s first, second and third grounds of review.
+Essentially, I understood his argument to be that the arbitrator’s finding that the applicant’s letting of accommodation to employees of FDP constituted “a clear
+
+
+and obvious sideline business and hence conflict of interest”. It was therefore “incumbent on the applicant to prove … that he had permission from the third respondent to run such a sideline business”.
+Adv Van As argued that the arbitrator had correctly rejected the evidence of the applicant’s witnesses as having been contradictory, and therefore “… the applicant had not obtained such verbal permission from Mr du Plessis”.
+Adv Van As also argued that the applicant’s reliance on certain clauses in the code of conduct was “overly technical”.
+He summarised his argument in relation to these first three grounds of review with the submission that the arbitrator’s conclusion that the applicant had been aware of his need to disclose the conflict of interest, but had failed to do so, was “a conclusion which a reasonable decision-maker could have reached on the evidence at the arbitration proceedings”.
+Adv Van As addressed the applicant’s fourth ground of review together. He captured the essence of charge 2 as having been that “the applicant secured early payment for FDP to allow FDP to pay for the accommodation” of its employees at the applicant’s premises. Both in his heads of argument and in argument before me, Adv Van As relied on an FTP invoice dated 27 January 2019 to support the arbitrator’s finding that the applicant had been guilty of this charge by securing early payment.
+Adv Van As argued that the applicant’s sixth ground of review – to the effect that there had been an unfair splitting of charges – was without merit since the allegations of misconduct in relation to charge 1 were “separate and distinct” from those alleged in relation to charge 2.
+Discussion of the grounds of review
+
+Because of the view that I take of this matter, it is not necessary to deal with all the grounds of review raised by the applicant.
+I will accept in favour of the employer that the reference to the “Code of Ethics” in the introductory phrase of the charges, the finding of the disciplinary panel
+
+
+and of the arbitrator were intended to be a reference to its “Code of Conduct”. This is the document referred to in both the disciplinary and the arbitration proceedings. It was included at pages 27 to 35 in the bundle of documents which served before the arbitrator (bundle).
+On a literal reading of the first charge, the applicant would be guilty if it were to be proved that he had created a conflict of interest. This interpretation was repeatedly echoed by Mr Masuku who represented the employer in the arbitration proceedings. Thus, by way of example, he put the following proposition to the applicant during cross-examination:
+‘You are not charged with failure to disclose. You are charged with the conflict of interest that you had created.’
+The employer’s attitude in this regard was captured by the arbitrator in the following terms:
+‘35. The Respondent’s representative argued that the Applicant was not charged with a failure to disclose the conflict of interest, but with the mere fact of creating the conflict of interests by transacting with FDP.’
+The upshot of the first charge on the employer’s approach at both the disciplinary and the arbitration proceedings (though not that of Adv Van As before me) was therefore that the mere existence of a conflict of interest would automatically constitute misconduct.
+A plain reading of the code of conduct - the relevant portion whereof is recorded hereunder - shows that this approach is incorrect. As I will explain later in this judgment, the employer’s code of conduct contemplated the reporting of an actual or apparent conflict, followed by a consideration of whether such conflict could be allowed to continue to exist or, whether the effects of thereof could be managed or ameliorated. It is accordingly inarguable that the code did not provide that the mere existence of a conflict of interest constituted misconduct. This leads to the ineluctable conclusion that the conflict of interest charge proffered against the applicant did not disclose any misconduct, and that the applicant ought to have been cleared of that charge at the disciplinary enquiry.
+
+
+Since the employer’s reason for dismissing the applicant had been predicated on the mere existence of a conflict of interest (as opposed to his failure to report such conflict), it seems to me that it was not open to the employer to subsequently rely, as Adv Van As argued, that the actual misconduct committed by applicant had been his failure to report the conflict, and not the existence of the conflict per se.1
+Once it is accepted that the first charge levelled against the applicant had not disclosed misconduct, it is axiomatic that the arbitrator also ought not to have found that the applicant was guilty of such misconduct. This approach is dispositive of the first charge. However, in case I am wrong in my conclusion, I will examine whether the applicant was guilty of having failed to report the existence of such conflict.
+As to the second charge, Mr Masuku confirmed that the employer would rely on only pages 78 to 81 of the bundle. These documents related to one invoice, and one invoice only, namely the one which appeared at page 78 of the bundle. These documents at pages 78 to 81 reflected the process which was followed, starting from the appointment of contractors until payment of their invoices. Mr Masuku accordingly characterised the employer’s case before the arbitrator as follows:
+‘I have selected a few [documents] that I think it demonstrates both charges as clearly as possible … And those are pages 78 to 81. There the crime alleged by the respondent is complete in respect of both charges, one and two and Mr Van Rooyen has testified quite clearly about those. So, I would be happy if Mr Commissioner disregards the others…’ (Own emphasis)
+Therefore, in relation to the second charge, the arbitrator was required, and indeed bound, to consider only the invoice which appeared on page 78. The significance of this fact will become apparent later in this judgment.
+The evidence led at the arbitration hearing
+
+
+
+1 See Palluci Home Depot (Pty) Ltd v Herskowitz & others (2015) 36 ILJ 1511 (LAC); [2015] 5 BLLR 484 (LAC) at para 46, per Kathree-Setiloane AJA: “Accordingly, the commissioner undertook the enquiry in a misconceived manner by determining the fairness of the first respondent's dismissal on the basis of reasons for the dismissal which the appellant did not rely upon at the time of dismissing the first respondent. But for this error, I believe that the commissioner would have arrived at a different result in the award”.
+
+
+The parties correctly agreed that the employer bore the onus to prove the procedural and substantive fairness of the applicant’s dismissal. The employer thus had the duty to begin the leading of evidence.
+Given the fact that the employer’s code of conduct – and the interpretation thereof – formed the foundation of the charges against the applicant, I will set out the relevant portion verbatim. It was common cause between the parties, and I agree with them, that the relevant portion of the code of conduct reads as follows:
+‘Key principles on conflicts of interest
+
+We must avoid conflicts of interests in business dealings and be transparent if we have personal circumstances where a conflict might arise. Where there is a conflict, or a potential for one to arise, it must be managed transparently and effectively.
+Acting in Ferroglobe’s best interests
+
+We must avoid situations where our personal interests may actually or apparently conflict with the interests of the Group or any Group company.
+…
+
+Disclosing conflicts of interest
+
+As soon as an actual or apparent conflict of interest arises, you must inform your supervisor or manager, and seek his or her direction and authorisation. You should remain mindful of your potential conflicts of interest and inform your supervisor or manager immediately should any of them become an actual or apparent conflict of interest.
+Sometimes it will be possible to manage a particular conflict by making changes to your role or responsibilities, or your line of reporting. It is important that you inform your supervisor or manager so that he or she can initiate steps to remove the conflict, mitigate it to an acceptable degree, or ensure a potential conflict does not turn into an actual or apparent one. If a supervisor or manager is unsure whether the situation is acceptable or manageable, he or she should seek advice from his or her manager or the Legal Department.
+
+
+Directors of Group companies must disclose conflicts to, and seek formal approval from, the Chief Legal Officer of Ferroglobe PLC.
+Personnel must disclose (and annually re-disclose) any actual or apparent conflicts of interest they may have in the annual sign-off on this Code. This is an important part of the Group's internal controls.’
+At the hearing before me, the parties agreed that the renting of accommodation to employees of one of the mine’s contractors would constitute either a potential or an actual conflict of interests which would require disclosure in terms of the employer’s code of conduct. I agree with them.
+The employer led the evidence of two of its senior employees. The first witness was Mr William Van Rooyen who described himself as “the corporate manager responsible for human resources and legal” and also as the company secretary of the employer’s holding company. The second witness was Mr Solani who, as already identified above, was the employer’s human resources manager, and the person who had presided over the disciplinary proceedings.
+Neither of these witnesses had personal knowledge of the events and circumstances surrounding either of the charges. They simply gave their opinions in relation to the applicant’s conduct in renting premises to FDP and in relation to normal narrations on invoices submitted by contractors of the mine.
+No basis was laid for the reliability of their evidence in relation to narrations on invoices. Both witnesses were stationed at the holding company’s corporate head office at Witbank whilst the mine was situated in Delmas.
+Given the fact that neither Mr Van Rooyen nor Mr Solani were involved in the day-to-day administration of invoicing at the mine (or at all), one would have expected them to have explained the basis upon which they were qualified to express opinions as to what was ordinarily contained in invoices, and specifically in relation to their assertions that contractors never specified accommodation costs separately. Their evidence was in relation to invoices generally and was based on their own subjective interpretation of the
+
+
+documents presented to them. The probative value of their evidence in this regard must be weighed against the contrary evidence submitted by those witnesses who actually dealt with invoices as part and parcel of their normal duties.
+The applicant himself testified. He also called three further witnesses, namely Mr Willie Gauche (mine’s electrical foreman), Mr Martin Tredoux (an employee of Lubicon Mining, based at the employer’s pit operations), and Mr Gerhard Harmzen, a site manager employed by FDP.
+The applicant testified about a discussion which had taken place between himself and Mr Harmzen who had complained about the quality of the accommodation of FDP employees. Mr du Plessis and Mr Gauche were present during this discussion.
+The applicant responded to Mr Harmzen’s complaint. The applicant testified as follows:
+‘And then I asked Mr Div [Mr du Plessis, the applicant’s manager] is there anything that I have to do because these people are going to stay on my property. Then he said to me no, it is nothing to do with the mine. So he said no, it is not necessary because it has got nothing to do with the mine. It is an outside transaction, it has nothing to do with the mine.’
+
+Mr Gauche, who was present at the discussions relating to the applicant’s proposed rental of his premises to FDP’s employees, testified as follows in regard to Mr du Plessis’s attitude to the proposed rental:
+‘Okay, then Mr du Plessis said he didn’t see any problems with that because it has got nothing to do with the mine.’
+Mr Harmzen, FDP’s site manager, testified that he had indeed discussed the possibility of the applicant renting property to FDP to accommodate its employees. He could not recall whether the applicant had requested guidance from Mr du Plessis in relation to the rental of his property to FDP. He did however confirm that Mr du Plessis was present during the discussions
+
+
+between the applicant and himself and that Mr du Plessis had not raised any objections.
+Mr Tredoux testified that he and Mr du Plessis had some time thereafter visited the applicant’s property which was then being occupied by FDP employees. Mr du Plessis was clearly aware of this fact. Mr du Plessis expressed neither surprise nor objection.
+Mr du Plessis had left the employer’s employ before the disciplinary and arbitration proceedings. At the stage when the arbitration proceedings were conducted, he was employed at Aggeneys in the Northern Cape. Neither party called him as a witness. The applicant introduced an email by Mr du Plessis in which he stated that he could not recall whether the applicant had “made a declaration on the contractors staying with him”. No evidence was led as to Mr du Plessis’ views on whether or not disclosures of conflicts had to be in writing. An interpretation of Mr du Plessis’ statement in his email would accordingly amount to speculation as to whether he had meant that no “declaration” at all had been made to him, or whether he had meant that no “declaration” in writing had been made to him. In any event, it seems to me that the arbitrator correctly did not afford Mr du Plessis’ email much, if any, probative value.
+Without anywhere in his award having referred to the actual terms of the employer’s code of conduct, the arbitrator found that:
+‘82. The Applicant’s employment contract and the Code of Ethics prohibits employees from engaging in activities that could give rise to a conflict of interest.’
+24.  The arbitrator accepted the evidence of the employer’s witnesses and rejected the evidence of the employees as being improbable. His findings were recorded as follows:
+‘83.  The most probable version is that of the Respondent that the Applicant committed misconduct by transacting with FDP whilst they were performing work for the Respondent.
+95.	When an employee is knowingly taking part in conflicting scenarios for
+
+
+personal benefit, it can be a cause for termination of his employment.
+
+100. The Applicant and his witness were not credible and reliable witnesses because their evidence was artificial considering the substantial evidence of the Respondent witnesses who are the custodian of the Respondent's policies. They made assumptions which in consideration of the evidence amounts to no explanation. Their evidence was unrealistic.’
+The arbitrator’s starting point for his consideration of the first charge against the applicant ought to have been the employer’s code of conduct which underpinned that charge.
+It was for the arbitrator, and not the witnesses, to interpret the code2. His failure to refer to, let alone interpret, the relevant portion of the code of conduct (which he incorrectly referred to as the “code of ethics”) leads to the ineluctable conclusion that the arbitrator did not himself interpret the code, but deferred to the opinions of the employer’s witnesses. This led him to make a decision which was contrary to the wording of the code itself which reads:
+‘As soon as an actual or apparent conflict of interest arises, you must inform your supervisor or manager, and seek his or her direction and authorisation.’
+This obligation is clear and simple: it entails no formality and prescribes no procedure. Despite this, Mr Van Rooyen’s evidence in this regard was recorded by the arbitrator as follows:
+‘22. The Applicant was required to disclose any conflict of interest to his manager and the legal department. He was to do this in writing in the Disclosure form for conflict of interest.’ (Own emphasis)
+This evidence led the arbitrator to find:
+
+‘90.  To prevent involvement in any type of ethical conflict, senior employees should inform themselves about the types of conflicts that exist. If they are ever unsure about whether their actions qualify as a conflict, they
+
+
+2 University of Johannesburg v Auckland Park Theological Seminary and Another 2021 (6) SA 1 (CC); 2021 (8) BCLR 807 (CC) at para 68.
+
+
+should ask the relevant department to provide them with an objective opinion. This is true even if the employee has informed his manager verbally or informally.’ (Own emphasis)
+As stated, this interpretation of the code accords with the evidence of Mr Van Rooyen, but not with the wording of the code itself. It is worthwhile repeating the relevant portion of the code:
+‘As soon as an actual or apparent conflict of interest arises, you must inform your supervisor or manager, and seek his or her direction and authorisation ... If a supervisor or manager is unsure whether the situation is acceptable or manageable, he or she should seek advice from his or her manager or the Legal Department.’
+I should preface the following paragraph with the comment that it is difficult to paraphrase the plain language of the relevant portion of the code to make it simpler to understand. I will however attempt to do so.
+The code requires an employee to report and seek guidance from, his or her manager on how to handle an actual or apparent conflict of interest. It was then up to the manager to advise the employee on how to deal with such conflict. If there were to be a manager unsure of how to handle the conflict, it would then be up to such a manager to seek advice from his or her manager or the Legal Department.
+Thus, the obligation to approach the legal department in the event of uncertainty fell on the employee’s manager, and not on the employee himself- or herself. The code did not require the employee to make his or her disclosure and request “direction and authorisation” in writing. It similarly did not require the employee’s manager to seek advice from his or her manager or the legal department in writing.
+Given the plain language of the code of conduct, I do not agree with Adv Van As’ argument that the applicant’s approach to the code of conduct is “overly technical”.
+The arbitrator rejected the evidence of the applicant and his witnesses on a
+
+
+consideration of “the substantial evidence of the Respondent witnesses who are the custodian of the Respondent's policies”. However, as I have already found, the opinions of the employer’s witnesses in regard to what steps an employee who was faced with a real or apparent conflict of interest ought to take were both irrelevant and incorrect. The basis upon which the arbitrator rejected the evidence of the applicant and his witnesses was accordingly flawed.
+As appears from paragraph 96 of his award, the arbitrator preferred the evidence of the employer’s witnesses over that of the applicant and his witnesses on the applicability of the “balance of probabilities” test. It is unclear whether the arbitrator intended to reject the evidence of the applicant and his witnesses in toto, or only firstly, their interpretation of the code, and secondly, whether invoices ever reflected “accommodation” as a separate narration.
+The arbitrator also made no explicit finding in relation to whether he accepted or rejected the applicant’s evidence that he had informed his manager, Mr du Plessis, of the potential conflict of interest. Put differently, the arbitrator expressly rejected the applicant’s evidence that the disclosure was not required to be in writing, but not the applicant’s evidence that he had made an oral disclosure to Mr du Plessis.
+The arbitrator’s rejection in paragraph 91 of his award of the applicant’s contention that he had “complied with the Code of Ethics by “having informed Mr du Plessis” of the conflict “as required by the Code of Ethics” must be read in the context of the balance of paragraph 91 and of the award as a whole. As already set out above, the arbitrator was of the view that in terms of the code of conduct, the disclosure of the conflict had to be in writing. Continuing in paragraph 91 of his award, the arbitrator found that it:
+‘… could not be certainly said that he disclosed the conflict of interest under the Respondent’s policies. The applicant as a Foreman/Supervisor was expected to have been familiar with the policies and procedures of the respondent. The Respondent’s evidence substantially showed that the Applicant had previously complied with the procedure [relating to written annual declarations] and he was required to do so when the situation changed. The
+
+
+Applicant could have contacted the Respondent’s legal department for assistance in understanding the requirements of the Code of conduct.’ (Own emphasis)
+It, therefore, seems to me that, on a proper reading of the arbitrator’s rejection contained in paragraph 91 of his award, read together with the balance of his award, he did not reject the applicant’s evidence that he had orally informed Mr du Plessis of the conflict, but rather that he rejected the applicant’s contention that he had complied with the code of conduct since the code required such a disclosure to be made in writing.
+It is worth noting that the arbitrator did not criticise the demeanour of either the applicant or any of his witnesses.
+As I understood Adv Van As, the thrust of his argument was not so much that the evidence of the applicant and his witnesses stood to be rejected, but was rather more directed at the issue of whether the applicant had disclosed sufficient information to Mr du Plessis to enable him to make an informed decision on how to handle the applicant’s proposed renting of accommodation to employees of FDP.
+I agree with Adv Van As that the sufficiency of the information required to be disclosed in terms of the code of conduct should be adjudged on an objective basis. Such information should include an indication of the amount involved in the conflict situation.
+Mr Harmzen’s testified that during the rental discussion in Mr du Plessis’ presence an amount of “ten thousand” had been mentioned. The inference that Mr du Plessis must have then known what the rental would be is more probable than not.
+It can safely be inferred that Mr du Plessis must have accepted that he had sufficient information to enable him to make an informed decision. His response was unequivocal: “it has got nothing to do with the mine”. If he had required more information, he could have called for it there and then.
+It should be noted that the applicant’s evidence shows he did not enter into the
+
+
+impugned agreement until after he had received Mr du Plessis’ blessing to do so. Therefore, the applicant did not put himself in a conflict situation until he had made disclosure to Mr du Plessis.
+This leads to the obvious conclusion that the applicant complied with his obligation in terms of his employer’s code of conduct to inform his manager of the potential conflict of interest.
+This brings me to the second charge: “Irregularity in the approval of certain invoices related to FDP”.
+The evidence relating to the second charge was, as is set out above, limited to only the invoice which appeared at page 78 of the bundle. It was therefore not open to the employer, as Adv Van As sought to do, to rely on inferences to be drawn from other invoices which had explicitly been excluded from evidence.
+The irregularity which the applicant was accused of related to the “prioritisation” of payment of FDP’s invoices which led to their early payment. As I have already pointed out above, Mr Masuku stated that the employer’s case was restricted to only the invoice which appeared at page 78 of the bundle.
+The arbitrator must have forgotten this aspect, because not only does his award not record this fact, but it consistently refers to “invoices” or to “them” – an obvious referral to more than one invoice. This appears, by way of example, from the arbitrator’s findings in paragraph 4 of his award that the applicant had committed irregularities “in the approval of certain invoices related to FDP” and in paragraph 105 that “From the aforesaid, an ipso facto conclusion can be drawn that the Applicant irregularly approved certain invoices that related to FDP” (Own emphasis)
+The evidence in relation to the documents at pages 78 to 81 demonstrated conclusively that the only role which the applicant had played in the actual payment process of the invoice was him signing it to confirm that the work had been done. His signature was undated. He testified that he would have signed the invoice on the same day or a day so before it was signed by Mr du Plessis. The invoice reflected that Mr du Plessis signed the invoice on 13 May 2020.
+
+
+Payment of this invoice could be made only after it had been finally approved by the general manager, Mr Knopjes. There was no evidence as to when this invoice was finally paid. But one thing was common cause: payment was made after the due date for payment. There could therefore be no talk of the applicant having prioritised payment in order to effect early payment.
+Although much was made of the fact that FDP’s quotation at page 80 of the bundle reflected the narration “Price includes transport and accommodation”, it later transpired that the “accommodation” reflected in the quotation had not been furnished by the applicant. It should therefore have been patently clear to the arbitrator that the applicant did not (indeed, could not) prioritise payment of the invoice in question to facilitate payment of FDP’s rent.
+
+
+The arbitrator’s findings
+
+The arbitrator found that the applicant’s dismissal had been procedurally fair. His finding in this regard is unassailable.
+As regards the charges against the applicant, the arbitrator found that
+
+‘104.	The Applicant’s conduct was a violation of an essential term of his employment relationship which justified his dismissal...’
+For the reasons set out above, the arbitrator’s decision that the applicant was guilty of the charges proffered against him did not fall within the band of decisions that a reasonable arbitrator could have made based on the evidence before him3. The arbitrator’s decisions accordingly fall to be reviewed and set aside.
+Appropriate remedy
+
+Since I have been furnished with all the relevant information relating to this matter, no useful purpose would be served by remitting it for re-hearing before
+
+
+3 Gold Fields Mining South Africa (Pty) Ltd (Kloof Gold Mine) v Commission for Conciliation, Mediation and Arbitration and others [2014] 1 BLLR 20 (LAC); (2014) 35 ILJ 943 (LAC).
+
+
+a different arbitrator.
+
+It is trite that reinstatement is the primary remedy in unfair dismissal cases4.
+
+It will be recalled that Mr Andre Knopjes (sometimes spelt as “Knoppies” in the transcription of the arbitration record) was the mine’s general manager and the most senior person in the mine. The uncontested evidence of the applicant reads as follows:
+‘MARIO STEVENS: Now we are winding down. What was your working relationship with your colleagues?
+GIDEON P. R. LUBBE: It is good. Mr Andre [Knoppies? 2:27:37] also at this stage tried to keep my post open at the mine to get me reinstated. So my working relationship with the people at the mine itself, is very good and very professional.’
+Although Mr Van Rooyen expressed a different view, his view was based on an incorrect interpretation of the code of conduct. I can see no reason why the primary remedy of reinstatement would not be appropriate. As stated by Khampepe J in Booi:
+‘[40] It is accordingly no surprise that the language, context and purpose of section 193(2)(b) dictate that the bar of intolerability is a high one. The term “intolerable” implies a level of unbearability, and must surely require more than the suggestion that the relationship is difficult, fraught or even sour. This high threshold gives effect to the purpose of the reinstatement injunction in section 193(2), which is to protect substantively unfairly dismissed employees by restoring the employment contract and putting them in the position they would have been in but for the unfair dismissal. And, my approach to section 193(2)(b) is fortified by the jurisprudence of the Labour Appeal Court and the Labour Court, both of which have taken the view that the conclusion of intolerability should not easily be reached, and that the employer must provide weighty reasons, accompanied by tangible
+
+
+4 See for example Booi v Amathole District Municipality and others (Booi) 2022 (3) BCLR 265 (CC); (2022) 43 ILJ 91 (CC) at paras 38 to 41.
+
+
+evidence, to show intolerability.’5
+
+I have considered the issue of costs. There is to my mind no reason why I should not apply the usual principle that, particularly where there will be an ongoing employer-employee relationship, there should be no order as to costs.
+I accordingly make the following order: Order
+The award of the arbitrator dated 29 September 2021 in CCMA Case Number MPEM93-21 is reviewed and set aside.
+The arbitrator’s award is replaced with the following: “The applicant’s dismissal was substantively unfair”.
+The respondent is ordered to immediately reinstate the applicant with effect from 28 November 2020 on terms not less favourable than those that applied prior to his dismissal.
+The respondent is ordered to pay the applicant back-pay for his retrospective reinstatement between 28 November 2020 and the date hereof.
+There is no order as to costs.
+
+
+
+
+
+BD Hitchings Acting Judge of the Labour Court
+
+
+
+
+
+
+
+
+
+
+5 Supra, at para 40. Footnotes have been omitted.
+
+
+Appearances:
+
+For the Applicant:	Attorney Mr M Stephens of Attorneys-On-Call (Pty) Ltd
+
+
+
+For the Third Respondent: Adv M J Van As Instructed by:	Cliffe Dekker Hofmeyr Inc

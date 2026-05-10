@@ -1,0 +1,154 @@
+
+
+
+
+Sorrell v Petroplan Sub-Saharan Africa (Pty) Ltd [2024] JOL 67089 (LAC)
+Judgments Online
+
+Division: Cape Town 
+Case No: CA 02 / 2023
+Hearing Date(s): 07 / 05 / 2024
+Judgment Date(s): 04 / 10 / 2024
+Bench: KM Savage ADJP; D Mlambo JA; DM Davis AJA
+
+
+Keywords
+
+
+Labour and Employment — Jurisdiction — Territorial jurisdiction — Location of work
+
+Mini Summary
+
+
+The appellant had acted as Logistics Superintendent at a gas exploration project in Mozambique for a company registered in the United Kingdom (UK). As a result, in January 2021, an independent contractor agreement was concluded in South Africa between the appellant and the respondent, a company incorporated in South Africa. Services by the appellant were to be performed in Mozambique. In June 2021, his services were terminated by the respondent. In his claim against the respondent in the Labour Court (LC), the appellant had sought a declaration that the termination of his services by the respondent constituted a dismissal from his employment which was either automatically unfair on account of having made a protected disclosure in terms of the Protected Disclosures Act 26 of 2000 or, in the alternative, substantively and procedurally unfair.
+
+Opposing the matter, the respondent raised a challenge to the jurisdiction of the LC on the basis that the appellant’s claim did not fall under the territorial jurisdiction of the court. It also disputed that the appellant was an employee in that he had been appointed as an independent contractor. To allow the issue of territorial jurisdiction to be determined, the parties agreed that only for the purposes of the court’s ruling on that issue, it would be assumed that the appellant was employed by the respondent.
+
+The court found, as a question of fact that since Mozambique and not South Africa was the workplace where the appellant was to render his services, the court lacked territorial jurisdiction to entertain the appellant’s claims. The matter was consequently struck off the roll. The appellant appealed, arguing that the undertaking in which he was engaged was not wholly separate from South Africa and his physical workplace was in South Africa. He contended that the location of the undertaking of the client was relevant to the determination of territorial jurisdiction, and since he provided services to entities in the UK, Mozambique and South Africa, the undertakings of the entities in Mozambique were not separate from the undertakings in the United Kingdom and South Africa, with the project planning phase occurring outside of Mozambique.
+
+Held that whether the LC has jurisdiction is a factual issue which is determined with reference to the location of the physical workplace of the employee and not the place where the contract of employment was concluded. Although the respondent’s principal place of business was South Africa, it had recruited the appellant to perform work in the undertaking on location in Mozambique. The Labour Court committed no error or misdirection in striking the matter from the roll, and the appeal was dismissed.
+
+ 
+[2024] JOL 67089 (LAC) at 1
+
+
+
+
+SAVAGE ADJP:
+
+Introduction
+
+[1]    This appeal, with the leave of the Labour Court, is against the judgment and order of the Labour Court (per Lagrange J) which found that the Labour Court lacked territorial jurisdiction to determine the appellant's referral to the Labour Court, with the matter consequently struck from the roll.
+
+ 
+[2024] JOL 67089 (LAC) at 2
+
+[2]    The appellant, Mr Mark Sorrell, instituted a claim against the respondent, Petroplan Sub-Saharan Africa (Pty) Ltd, in which he sought a declaration that the termination of his services by the respondent constituted a dismissal from his employment which was either automatically unfair on account of having made a protected disclosure in terms of the Protected Disclosures Act1 ("the PDA") or, in the alternative, substantively and procedurally unfair. The appellant sought that he be awarded the maximum compensation, together with contractual damages in the form of remuneration due to him for the balance of the fixed-term contract and consequential damages arising from the termination of the contract. In the alternative, and in the event that he was found not to be an employee of the respondent but an independent contractor, the appellant sought to be awarded damages or compensation for suffering an occupational detriment under the PDA.
+
+[3]    In opposing the matter, the respondent raised a challenge to the jurisdiction of the Labour Court on the basis that the appellant's claim did not fall under the territorial jurisdiction of the court. The respondent also disputed that the appellant was an employee in that he had been appointed as an independent contractor. To allow the issue of territorial jurisdiction to be determined, the parties agreed that only for the purposes of the court's ruling on that issue it would be assumed that the appellant was employed by the respondent. Evidence was therefore led only on the court's territorial jurisdiction, an issue on which only the appellant testified.
+
+Factual background
+
+[4]    In December 2020 a consultancy agreement, which was not implemented due to legal compliance obstacles, was concluded between Offshore Project Management & Engineering Ltd ("OFMEL"), a company registered in the British Virgin Islands of which the appellant was the beneficial owner, and Petro Plan Europe Ltd ("PEL"), a company registered in the United Kingdom. In terms of the agreement, OFMEL was to provide the services of a Logistics Superintendent at a gas exploration project in Mozambique to PEL's client,  
+[2024] JOL 67089 (LAC) at 3
+Sasol Petroleum Temane Limitada and Sasol Petroleum Mozambique Limitada, companies registered in Mozambique and the United Kingdom respectively.
+
+[5]    As a result, on 27 January 2021, an Independent Contractor Agreement ("the ICA") was concluded in South Africa between the appellant and the respondent, a company incorporated in South Africa. In terms of the agreement, the appellant was to perform the role of Logistics Superintendent for the respondent's clients, Sasol Petroleum Temane Limitada, Sasol Petroleum Mozambique Limitada and Sasol United Kingdom, at a gas exploration project in Mozambique.
+
+[6]    Clause 1.3 of the ICA recorded that the agreement was:
+
+". . . dependent on the successful application for a Mozambique and/or South Africa visa if applicable and satisfactory medical examination results. If for any reason this application is unsuccessful or the medical examination results are unsatisfactory/unacceptable to the client, this Agreement will be null and void."
+
+[7]    Annexure 1 to the ICA provided that the place where services were to be performed was Mozambique. The role was to be shared on rotational shifts between the appellant and another person on alternating duty cycles on a roster system. Working hours, shift rotations and the project mobilisation date were to be communicated to the appellant by the respondent once received from the client. In order to obtain a visa and permit to work in Mozambique, the appellant entered into an employment contract with Sasol Petroleum Mozambique Limitada.
+
+[8]    In his evidence before the Labour Court, the appellant accepted that the role of Logistics Superintendent was an "in-field" role in Mozambique, on location at the remote gas exploration site, reporting to a field operations manager, with Sasol United Kingdom responsible for directing operations at the site. He accepted that had he been able to attend to work physically, he would have done so on-site in Mozambique but that because of COVID-19 and visa complications, he had to work at home on an alternating duty cycle during  
+[2024] JOL 67089 (LAC) at 4
+the months of January, March, May and part of June 2021. In a letter dated 24 June 2021 issued by the respondent, the appellant's services were terminated. By this time, he had obtained a visa but not a work permit allowing him to work in Mozambique.
+
+Judgment of the Labour Court
+
+[9]    A challenge to the Labour Court's territorial jurisdiction was raised for the first time by the respondent in an application for condonation and was neither dealt with in the pleadings nor the pre-trial minute concluded between the parties. The Labour Court, with reference to Commercial Workers Union of SA v Tao Ying Metal Industries and others,2 dealt with the jurisdictional challenge finding that the principle of legality obligates a court to deal with a point of law, even if the parties were unaware of it, where a failure to do so could lead to a decision based on the incorrect application of the law. That finding is not the subject of appeal.
+
+[10]    With reference to the relevant authorities, the court found, as a question of fact that since Mozambique and not South Africa was the workplace where the appellant was to render his services, the court lacked territorial jurisdiction to entertain the appellant's claims. The matter was consequently struck off the roll. In doing so, the Labour Court distanced itself from the decision in MECS Africa (Pty) Ltd v Commission for Conciliation, Mediation and Arbitration and others3 ("MECS"), finding that it is not the place at which the employer conducts its business which determines the place of employment for purposes of jurisdiction but the location of the actual workplace where the employee renders services.
+
+On appeal
+
+[11]    The appellant contends on appeal that the Labour Court erred in finding that it lacked territorial jurisdiction in relation to his claims under the Labour Relations Act4 ("the LRA"), 
+[2024] JOL 67089 (LAC) at 5
+the Basic Conditions of Employment Act5 ("the BCEA") and the PDA because the undertaking in which the appellant was engaged was not wholly separate and divorced from South Africa and the appellant's physical workplace was in South Africa. It was contended that the location of the undertaking of the client is relevant to the determination of territorial jurisdiction, not the location of the actual workplace. Since the appellant provided services to entities in the United Kingdom, Mozambique and South Africa, the undertakings of the entities in Mozambique were not separate and divorced from the undertakings of Sasol entities in the United Kingdom and South Africa, with the project planning phase taking place outside of Mozambique. It was argued that conflicting judgments exist on the issue of territorial jurisdiction and that the test in Monare v South African Tourism and others6 ("Monare") should have been applied, more so with regard to claims involving a temporary employment services ("the TES") as employer in terms of the LRA, section 77(3) of the BCEA and the PDA. Since the respondent, as the TES, is located in and conducted business in South Africa, it was submitted that the Labour Court erred in finding that it lacked territorial jurisdiction7 when the extra-territorial jurisdiction in respect of a worker as defined in the PDA has not been decided by our courts. The appellant therefore seeks that the appeal be upheld with costs, both on appeal and in the Labour Court given that the jurisdiction challenge was not raised on the pleadings.
+
+[12]    The respondent disputed that competing judgments exist on the issue and contended that the issue has been authoritatively settled by this Court in Chemical and Industrial Workers Union v Sopelog CC ("Sopelog"),8 Monare 
+[2024] JOL 67089 (LAC) at 6
+and Astral Operations Ltd v Parry9 ("Astral"), the principles of which were followed in Robineau v Schenker SA (Pty) Ltd and others10 ("Robineau"), and by the Appellate Division in Genrec Mei (Pty) Ltd v Industrial Council for the Iron, Steel, Engineering, Metallurgical Industry and others11 ("Genrec Mei"). It was stated that the Labour Court was not bound by the decision in MECS but by its own decisions. As a question of fact, the location of the appellant's workplace in terms of the ICA was outside of the territorial jurisdiction of South Africa, with Sasol's operations in Mozambique and the United Kingdom not related to any South African undertaking. The fact that the appellant worked from home in South Africa did not detract from the agreed place where services were to be performed, being Mozambique. The respondent therefore contended that the Labour Court correctly found that it lacked jurisdiction in the matter and that the appeal falls to be dismissed.
+
+Evaluation
+
+[13]    A court must have jurisdiction in the sense of power or competence vested in it to adjudicate, determine and dispose of a matter.12 In terms of section 151(2) of the LRA, the Labour Court has jurisdiction in all the provinces of the Republic. Whether the Labour Court has jurisdiction is a factual issue which is determined with reference to the location of the physical workplace of the employee and not the place where the contract of employment was concluded.
+
+[14]    In Astral,13 this Court followed the decision of Genrec Mei in which, although the employer's principal place of business was in Durban, it recruited the  
+[2024] JOL 67089 (LAC) at 7
+employees in Durban to perform work on an oil rig outside of South African territorial waters. The court found that: 
+
+where an undertaking is carried on at any given time is a question of fact; 
+although Genrec carried on an undertaking in Durban, it was also engaged in another undertaking conducted on the rig; 
+the vast majority of Genrec's employees working on the rig were not part of its regular workforce; 
+the respondent employees were recruited specially for employment to work on the rig; 
+the respondent employees' contracts of employment were of limited duration and were to come to an end on the completion of a particular contract and, thereafter, they would no longer be employees of Genrec. 
+
+The court found that the employees were not employed in Durban and that the 1956 Labour Relations Act did not, prior to its amendment in 1991, apply to the undertaking operated by the employer on the oil rig above the continental shelf outside South African territorial waters.
+
+[15]    In Astral,14 this Court relied on the same criteria to find that while the employer operated a business from South Africa, its subsidiary business in Malawi was an incorporated concern with a separate personality, and that the employee was resident in South Africa but had entered into a contract of employment requiring them to work outside South Africa. The LRA was therefore found not to apply to the appellant's operation in Malawi. In Robineau, this Court followed these decisions and in Antonio v Commission for Conciliation, Mediation and Arbitration and others,15 the Labour Court found that the CCMA lacked jurisdiction in that the employee was employed in Angola for a legal entity separate and divorced from the third respondent and when an express term of the employee's employment contract was that Angolan law would apply.
+
+[16]    In Monare,16 this Court distinguished that matter from Astral and Genrec Mei on the basis that, although the employee was employed in the first respondent's London office, that office was not an undertaking separate and  
+[2024] JOL 67089 (LAC) at 8
+divorced from the respondent's undertaking in South Africa, but inextricably linked to it.17
+
+[17]    In terms of his ICA, the appellant's workplace was Mozambique, outside of the territorial jurisdiction of South Africa. Annexure 1 to the ICA recorded as much, detailing that the place where his services were to be performed was Mozambique to clients Sasol Petroleum Temane Limitada and Sasol Petroleum Mozambique Limitada, both incorporated and resident in Mozambique, and Sasol UK Limited, incorporated and resident in the United Kingdom. It followed that in terms of the ICA, the appellant was to provide services to foreign clients in foreign locations. The appellant confirmed as much in his evidence, accepting that his was an "in-field" role on a rotational shift basis in Mozambique. He accepted that the regulatory regime applicable to health and safety on site was that of Mozambique, coupled with international standards. This was not altered by the fact that, due to delays in the mobilisation of the project and in obtaining his work permit, from January 2021 until the termination of his services in June 2021, the appellant worked from home in South Africa.
+
+[18]    Although the respondent's principal place of business is South Africa, it recruited the appellant to perform work in the undertaking on location in Mozambique. The appellant conceded that the respondent had no direct technical control of Sasol's campaign and that as a TES, it was separate and divorced from the undertaking to which he provided services. In addition, he accepted that the majority of other contracted employees were recruited to work in Mozambique, on limited duration contracts which would terminate on the completion of the project.
+
+[19]    The appellant contended however that the fact that the respondent is a TES distinguished this matter from the line of cases which have preceded it. I am not persuaded that this is so. An employer may conduct more than one undertaking, with the location of an undertaking at any given time, ultimately being a question of fact. While the undertaking of the respondent TES is located in South Africa, this does not alter the fact that, as with other  
+[2024] JOL 67089 (LAC) at 9
+individuals similarly contracted, the clear facts show that the appellant was contracted to work on a limited duration contract in an undertaking in Mozambique which was separate and divorced from the recruitment business of the respondent TES located in South Africa.
+
+[20]    The appellant sought to place reliance on the decision of the Labour Court in MECS, in which the employee was found to have been employed by entities in South Africa and the Democratic Republic of the Congo ("the DRC"), the latter in order to obtain a work permit in the DRC. That matter is neither binding on this Court, nor does it accord with the line of cases before it which have established the principles relevant to the determination of territorial jurisdiction.
+
+[21]    The territorial application of the LRA is to be determined according to the locality of the undertaking for whom the appellant was contracted to provide services, and not the location of the undertaking of the respondent TES. The fact that section 198 of the LRA stipulates that the employee is employed by the TES and not by the client of the TES does not alter this conclusion. This is so in that the undertaking of the TES, involved with the recruitment of personnel for clients, is an undertaking distinct from the rendering of services to clients at particular locations and workplaces. It follows that the jurisdiction of the Labour Court is not to be determined solely on the basis that, in terms of section 188 of the LRA, the appellant is stipulated to be employed by the TES, but with regard to the location of the undertaking to which the appellant was engaged to provide services.
+
+[22]    Since the location of such undertaking was Mozambique, the Labour Court committed no error or misdirection in striking the matter from the roll. No interference with such order is warranted and this appeal therefore falls to be dismissed. There is no reason in law or fairness why an order of costs should be made in this matter.
+
+[23]    In the result, the following order is made: 
+[2024] JOL 67089 (LAC) at 10
+Order
+
+The appeal is dismissed with no order as to costs.
+
+(Mlambo JA and Davis AJA concurred in the judgment of Savage ADJP.)
+
+
+
+Footnotes
+1	  Act 26 of 2000.
+2	  [2008] ZACC 15, 2009 (2) SA 204 (CC) [also reported at [2009] 1 BLLR 1 (CC), 2009 (1) BCLR 1 (CC) – Ed] at para [68].
+3	  [2013] ZALCJHB 195, (2014) 35 ILJ 745 (LC).
+4	  Act 66 of 1995, as amended.
+5	  Act 75 of 1997.
+6	  [2015] ZALAC 47, [2016] 2 BLLR 115 (LAC) [also reported at [2016] JOL 34587 (LAC) – Ed].
+7	  S 198(2) of the LRA provides that: 
+"For the purposes of this Act, a person whose services have been procured for or provided to a client by a temporary employment service is the employee of that temporary employment service, and the temporary employment service is that person's employer."
+8	  (1993) 14 ILJ 144 (LAC).
+9	  Astral Operations Ltd v Parry [2008] ZALAC 29, (2008) 29 ILJ 2668 (LAC) (4 September 2008) at paras [18] and [20].
+10	  Robineau v Schenker SA (Pty) Ltd and others (2020) 41 ILJ 1648 (LAC) [also reported at [2020] JOL 46767 (LAC) – Ed].
+11	  Genrec Mei (Pty) Ltd v Industrial Council for the Iron, Steel, Engineering, Metallurgical Industry and others [1994] ZASCA 143, 1995 (1) SA 563 (AD), [1995] 4 BLLR 1 (AD), [1995] 1 All SA 501 (A).
+12	  See Ewing McDonald & Co Ltd v M&M Products Co 1991 (1) SA 252 (A) at 256G [also reported at [1991] 1 All SA 319 (A) – Ed]; Graaff-Reinet Municipality v Van Ryneveld's Pass Irrigation Board 1950 (2) SA 420 (A) at 424 [also reported at [1950] 2 All SA 448 (A) – Ed] referred to in Gcaba v Minister for Safety and Security and others [2009] ZACC 26, 2010 (1) SA 238 (CC) [also reported at 2010 (1) BCLR 35 (CC), [2009] 12 BLLR 1145 (CC) – Ed].
+13	  Astral, supra, at paras [18] and [20].
+14	  Astral, supra, at paras [49]–[50].
+15	  (JR1110/15) [2018] ZALCJHB 454 (30 October 2018).
+16	  Monare, supra, at para [20].
+17	  Ibid at paras [35]–[6] and [41].
+
+Appearance:
+Mr P Kantor (A); Adv FA Boda SC, Cliffe Dekker Hofmeyr Incorporated (R)
+
+
+End of Document

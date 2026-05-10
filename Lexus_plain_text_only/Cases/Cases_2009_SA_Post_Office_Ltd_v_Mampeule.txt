@@ -1,0 +1,194 @@
+
+
+
+
+SA Post Office Ltd v Mampeule [2009] 8 BLLR 792 (LC)
+Labour Law Reports
+
+Division: Labour Court, Braamfontein
+Case No: JS349/07
+Date: 12/12/2008
+Before: V Ngalwana, Acting Judge
+Keywords
+
+
+Application in terms of section 191(5)(b)(i) of the LRA
+Company law — Expulsion of board member — Lawful expulsion of board member constituting dismissal where employment of member contingent on continuing membership of board.
+Dismissal — Proof of — CEO’s employment terminated in consequence of expulsion from board of directors because employment contingent on continuing membership of board — Termination constituting dismissal because expulsion from board triggered termination of employment contract.
+Section of the LRA considered:
+Section 186(1)(a)
+
+Editor’s Summary
+
+
+When the respondent was appointed the applicant’s chief executive officer he was simultaneously appointed an executive director in terms of the company’s articles of association, which made it an “inherent requirement” that any executive in the applicant’s employment should be a member of the board. The Minister of Communications then suspended the respondent and commissioned a forensic audit into his conduct, claiming that the respondent’s failure to provide the board with “relevant, appropriate and accurate information” had led to a breakdown of trust between himself and the board. The Minister later tabled a resolution that the respondent be removed as director, which was accepted by the board. The respondent claimed in turn that the trigger for the termination of his employment was certain disclosures he had made in good faith to the Minister about procurement irregularities and a “disinformation” campaign waged against him. The respondent instituted action in the Labour Court for breach of contract and an automatically unfair dismissal. In an attempt to curtail the proceedings, the parties agreed that the company should seek a declaratory order on whether the termination of the respondent’s employment constituted a dismissal as contemplated by the definition of that term in the LRA.
+
+The Court began by dismissing the company’s contention that the application should be treated as an exception in the dismissal application. If the matter were to be treated as an exception, the Court would be required to reach a conclusion without testing the premise on which that conclusion was based. The current application was therefore to be treated as the determination of a point of law on certain common cause facts.
+
+As to whether a dismissal had occurred, the Court noted that “dismissal” is defined in the LRA as inter alia the termination of a contract of employment by an employer with  
+[2009] 8 BLLR 792 (LC) at 793
+or without notice. The company contended that it had not terminated the respondent’s contract, but that his contract had rather come to an end as an automatic and simultaneous consequence of his removal from the board. The Court held that this argument was cerebrally attractive, but not persuasive. The various grounds for termination of the CEO’s employment as such were set out in his contract of employment. It was common cause that the contract had not been terminated on any of those grounds. Insofar as the contract stipulated that it was “regulated by” the articles of association, this was nothing but a suspensive condition pending the fulfillment of which no termination of the respondent’s employment could be valid. To the extent that the articles provided that the employment contract would terminate if the respondent was removed from the board, it introduced an additional ground for termination. How a dismissal may be effected on this ground was regulated by the articles of association, as read with the Companies Act 61 of 1973. But when the Minister removed the respondent from the board, the removal triggered the automatic and simultaneous termination of the contract. This effectively constituted a dismissal. By triggering the act which automatically led to the termination of the contract, the Minister had severed the umbilical cord that tied the CEO’s employment to his continuing membership of the board. Had the Minister not moved the resolution, his contract would not have terminated. The Minister’s act was therefore the main cause of the respondent’s dismissal.
+
+The Court held further that the company’s claim that the underlying reason for the termination of the respondent’s employment was the resolution of its board was merely an ingenious attempt to evade the respondent’s claim for damages. That the true cause of the dismissal was a resolution by the board of directors was not the appropriate test for damages for breach of the employment contract.
+
+The Court held further that contractual provisions which render continuing employment contingent on the acts of third parties are impermissible because they conflict with the Code of Good Practice: Dismissal and the constitutional right to fair labour practices. 
+
+The application was dismissed with costs.
+
+____________________________________________________________________________________
+
+
+Ngalwana AJ:
+
+Introduction
+In this application the applicant seeks a declaratory order that the termination of the respondent’s employment, as a direct result of his removal on 21 May 2007 from the applicant’s board of directors, does not constitute dismissal for purposes of section 186(1)(a) of the Labour Relations Act, 66 of 1995 (“the LRA”). 
+This proposition is founded on a term of the respondent’s contract of employment with the applicant, read together with the applicant’s Articles of Association, to the effect that his removal from the applicant’s board gives rise unavoidably to the automatic and simultaneous termination of his employment contract with the applicant. 
+It is in my view an extraordinary proposition but one which requires careful consideration because it has implications far wider than executives employed in state-owned enterprises and organs of state.
+The respondent, unsurprisingly, opposes the application. 
+[2009] 8 BLLR 792 (LC) at 794
+
+The factual background
+The facts giving rise to this application are largely common cause.
+The respondent was appointed as the applicant’s chief executive officer on a five-year fixed-term contract commencing on 20 June 2005. In terms of the contract of employment concluded between the parties on 30 October 2005, the employment relationship could be terminated on any one of four grounds, namely:
+automatically upon expiry of the five-year period reckoned from 20 June 2005;
+incapacity resulting from poor work performance or ill-health;
+misconduct; or
+the applicant’s operational requirements.
+Upon his appointment as the applicant’s chief executive officer the respondent was also consequentially appointed as executive director on the applicant’s board of directors, thus giving effect to article 8.3 of the applicant’s Articles of Association which makes it “an inherent requirement” of an executive’s employment by the applicant that he also holds the office of executive director. 
+On 17 November 2006 the Minister of Communications suspended the respondent as chief executive officer of the applicant and commissioned a forensic audit into his conduct. The trigger for this ministerially induced audit is the subject of dispute in a multi-million Rand claim for alleged breach of contract and unfair dismissal. That dispute is still pending before this Court. The applicant’s version is that the Minister of Communications has “lost confidence” in the respondent and believes that 
+
+“his failure to provide the Post Office Board of Directors with relevant, appropriate and accurate information regarding the work at the Post Office, resulted in a breakdown in trust between him and the Board”. 
+
+The respondent’s version points to an entirely different trigger. He says the trigger was certain protected disclosures, within the meaning of the Protected Disclosures Act 26 of 2000, made by him in good faith to the Minister of Communications (in January and March 2006), the South African Police Service (in February 2006) and the Communications department’s Director-General (in October 2006) about procurement irregularities by the applicant involving former employees of the applicant as well as a disinformation campaign and threats against him. The applicant denies knowledge of any such disclosures and disputes that, if made, they were made in good faith and constituted protected disclosures under the Protected Disclosures Act.
+On 3 May 2007 the respondent, through its acting company secretary, gave a second written notice to the respondent of a meeting to table a resolution to remove him as a director of the respondent. The first, scheduled for 23 April 2007, had been postponed. The notice, given pursuant to section 220 of the Companies Act 61 of 1973 (“the Companies Act”) invited him to attend the meeting and to make written representations. The meeting was scheduled to take place on 21 May 2007. 
+[2009] 8 BLLR 792 (LC) at 795
+The respondent made written representations prior to the meeting and oral representations at the meeting on 21 May 2007.
+At the meeting the Minister of Communications tabled a resolution that the respondent be removed as director and that the chairperson of the applicant’s board be authorised to give effect to the resolution. The Minister, representing the sole shareholder of the applicant (the state), then approved the resolution. On 22 May 2007, the day after the meeting, the chairperson of the applicant’s board formally informed the respondent in writing that following his removal as member of the applicant’s board his employment contract has terminated “automatically and simultaneously with the cessation of [his] office as director”.
+In September 2007 the respondent launched a multi-million Rand claim against the applicant in this Court arising from an alleged breach of employment contract and unfair dismissal. The factual basis for the claim is, in part, that set out in paragraphs [8] to [12] above. The applicant resisted the claim by filing a response in October 2007. In December 2007 and again in March 2008 the parties held a pre-trial meeting and in the end produced a pre-trial minute in which the issues were neatly delineated. 
+The issues in that case are not the subject of this application. But for the sake of completion it is necessary to set out the issues in that main application. They are
+whether the respondent’s contract of employment was terminated by the applicant and, if so, whether or not the termination was lawful;
+if the applicant has terminated the respondent’s employment contract unlawfully, whether he has suffered any damages and what the quantum of those damages are;
+if the respondent has suffered any damages, whether he failed to mitigate any damages he may have suffered;
+whether the applicant dismissed the respondent within the meaning of section 186(1)(a) of the LRA;
+if so, whether such dismissal was automatically unfair or, alternatively, unfair either substantively or procedurally or both;
+what the appropriate measure of compensation is if the respondent was unfairly dismissed by the applicant; and
+whether the respondent is entitled to any other relief he seeks.
+
+The issue
+The parties then agreed that an endeavour be made substantially to curtail the trial in the main action by disposing separately, and by way of an interlocutory application, of a preliminary point of law in terms of Rule 11 of the Rules for the Conduct of Proceedings in this Court. Thus, the issue that requires determination in this application is whether the termination of the respondent’s employment contract in the circumstances set out above constituted a dismissal as contemplated in section 186(1)(a) of the LRA. If it did, then the other issues set out in paragraphs [14.5] and [14.6]  
+[2009] 8 BLLR 792 (LC) at 796
+  above can be determined in the main action in due course. If it did not, then those aspects of the main action that relate to unfair dismissal are at an abrupt end.
+Mr P Pretorius for the respondent, who appeared together with Mr A Myburgh, took the view that the applicant’s approach in this application is in the nature effectively of an exception in the main action. That being so, so the argument goes, the facts as pleaded in the main action as regards dismissal must be accepted by this Court. (In the main action, the respondent asserted that he had been dismissed by the applicant within the meaning of section 186(1)(a) of the LRA, that his dismissal was automatically unfair in terms of section 187(1)(h) of the LRA or, alternatively, unfair in terms of section 188 of the LRA.) 
+Such a proposition as is advanced by counsel for the respondent is in my view untenable as it requires this Court to reach a conclusion (based purely on an agreement between the parties that aspects of the main action be disposed of by way of an approach resembling a stated case) before the premise for such a conclusion has even been properly ascertained. This is no exception. It is an application for the determination of a point of law on essentially common cause facts. Thus, principles that usually apply in an exception can find no application here.
+So then, was the respondent dismissed by the applicant within the meaning of section 186(1)(a) of the LRA?
+
+Was there a dismissal?
+Section 186(1)(a) of the LRA defines “dismissal”, as far as is relevant to the facts of this case, to mean that
+
+ “(a) an employer has terminated a contract of employment with or without notice;
+
+  (b) . . . .” 
+
+Mr Franklin for the applicant, who appeared together with Mr Sisilana, submitted that termination of the respondent’s contract of employment was not occasioned by an act of the employer. In other words, so the argument went, the applicant did not terminate the respondent’s contract of employment. Rather, termination of the respondent’s contract of employment came about as an automatic and simultaneous result of his removal from the applicant’s board of directors pursuant to the terms of the contract of employment. Put simply, the argument as I understand it is this: it was the respondent’s removal from the applicant’s board of directors by operation of a contractual term that brought about the termination of his contract of employment, not a deliberate act of severing the employment relationship on the applicant’s part. Consequently, there has been no “dismissal” of the respondent by the applicant.
+It is, with respect, a cerebrally attractive argument but that is about all that can be said about it. Persuasive it is, I’m afraid, not. 
+The various grounds on which the respondent’s contract of employment can be terminated are dealt with in clause 9 thereof. Clause 9.1 lists the four grounds adumbrated in paragraph [6] above. It is common cause that  
+[2009] 8 BLLR 792 (LC) at 797
+  the respondent’s contract of employment did not terminate on any of those grounds.
+Significantly, the clause says the termination of the respondent’s contract of employment is “regulated by” article 8 of the applicant’s Articles of Association. In other words, the provisions of clause 9 of the contract of employment are subject to article 8 of the applicant’s Articles of Association. It has been held that the “conventional contractual meaning” of that phrase is that of “creating a suspensive condition” (Pangbourne Properties Ltd v Gill and Ramsden (Pty) Ltd 1996 (1) SA 1182 (A) at 1188E–F). The context created by the phrase “regulated by” when used in relation to termination of the respondent’s contract of employment on the one hand, and the provisions of article 8 of the Articles of Association on the other, point ineluctably to that meaning of “subject to”. Thus, it can safely be said, I think, that clause 8 of the applicant’s Articles of Association constitutes a suspensive condition pending the fulfilment of which, to the extent relevant, no termination of the respondent’s contract of employment shall be valid.
+
+  [But this I must emphasise lest I be misunderstood. The invalidity of termination of a contract of employment does not mean the absence of a “dismissal” within the meaning of section 186(1)(a) of the LRA. In other words, that an employee’s contract of employment has been invalidly terminated does not mean the employee has thus not been dismissed. In fact, allegations of invalid terminations of employment contracts are the stuff of which disputes at the CCMA are made.]
+
+Thus understood, sub-articles 8.2 and 8.3, which must be read together, introduce a fifth ground upon which the respondent’s contract of employment may be terminated and that is upon his removal from the board of directors by “the member” (effectively the state as represented by the Minister of Communications) or resignation from the board at the Minister’s request. Now, the detail as regards how this can be effected is provided for in section 220 of the Companies Act which reads:
+
+“220  Removal of directors and procedures in regard thereto
+
+ (1) (a) A company may, notwithstanding anything in its memorandum or articles or in any agreement between it and any director, by resolution remove a director before the expiration of his period of office.
+
+ (b) The provisions of paragraph (a) shall not be construed as authorizing the removal of a director of a private company who was holding office for life on the thirteenth day of June, 1949.
+
+ (2) Special notice shall be lodged with the company of any proposed resolution to remove a director under this section or to appoint any person in the stead of a director so removed at the meeting at which he is removed, and, on receipt of notice of such a proposed resolution, the company shall forthwith deliver a copy thereof to the director concerned who shall, whether or not he is a member of the company, be entitled to be heard on the proposed resolution at the meeting.
+
+ (3) Where notice is given of a proposed resolution to remove a director under this section, and the director concerned makes representations with respect thereto not exceeding a reasonable length in writing to 
+
+ 
+[2009] 8 BLLR 792 (LC) at 798
+
+  the company and requests their notification to members of the company, the company shall, unless the representations are received by it too late for it to do so-
+
+ (a) in any notice of the resolution given to members of the company, state that such representations have been made; and
+
+ (b) send a copy of the representations to every member of the company to whom notice of the meeting is sent, whether such notice is sent before or after receipt of the representations by the company.
+
+ (4) If a copy of such representations is not sent as aforesaid because it was received too late or because of the company’s default, the director concerned may (without prejudice to his right to be heard orally) require that the representations be read at the meeting.
+
+ (5) No copy of such representations shall be sent out and the representations need not be read out at any meeting if, on the application of the company or of any other person who claims to be aggrieved, the Court is satisfied that the rights conferred by this section are being abused to secure needless publicity for defamatory matter.
+
+ (6) The Court may order the company’s or the said other person’s costs on an application under subsection (5) to be paid in whole or in part by the director concerned, notwithstanding that he is not a party to the application.
+
+ (7) Nothing in this section shall be construed as depriving a person removed thereunder of compensation or damages which may be payable to him in respect of the termination of his appointment as director or of any appointment terminating with that of director or as derogating from any power to remove a director which may exist apart from this section.”
+
+The relevant excerpts of articles 8.2 and 8.3 to which clause 9 (relating to the termination of the respondent’s contract of employment) is subject or, by the ipsissima verba of the clause itself, by which the termination of the respondent’s contract of employment is regulated, are these:
+
+ “8.2 . . . . Subject to the provisions of the Statutes, the member may by notice to the company remove any director before the expiration of his period of office or request such person to resign, whereupon the director shall be deemed to have resigned, and appoint another person in his stead. . . .
+
+  8.3 . . . . It is an inherent requirement of an executive director’s employment by the company that he holds the office of an executive director. If an executive director ceases to be a director of the company for any reason whatsoever, including removal or resignation in terms of Article 8.2, his contract of employment shall terminate automatically and simultaneously with the cessation of his office as an executive director of the company.”
+
+One of the statutes to which article 8.2 is subject is, self-evidently, the Companies Act, specifically section 220 thereof, which deals with the procedure for the removal of a company director and which are reproduced at paragraph [24] above. 
+Mr Franklin for the applicant persisted in the argument that the automatic and simultaneous termination of the respondent’s contract of employment  
+[2009] 8 BLLR 792 (LC) at 799
+  as a consequence, founded on the terms of the employment contract, only of the removal of the respondent as director of the applicant by the Minister, qua “the member”, pursuant to article 8.2, does not constitute a dismissal within the meaning of section 186(1)(a) of the LRA. The direct and proximate causes of the termination, so the argument goes, are not so much the termination of the contract of employment by the employer, or even the removal of the employee as director, as the operation of the terms of the employment contract.
+I do not agree. In my view any act by the employer which results, directly or indirectly, in the termination of the employee’s contract of employment constitutes a dismissal within the meaning of section 186(1)(a). That is why the LRA recognises the concept of constructive dismissal (section 186(1)(e) of the LRA). I do not want to be understood as saying what happened here constitutes constructive dismissal. I am not saying that. The point I make is that a dismissal does not come about only when the employer tells the employee “you’re fired”. Thus, when the Minister removed the respondent from the applicant’s board of directors, thereby triggering an automatic and simultaneous termination of his contract of employment with the applicant, she effectively dismissed him. With that there can be no quarrel.
+It seems to me this elaborate and clever argument is advanced, at least in part, to avoid a damages claim by the respondent which, as already indicated, is pending still before this Court. This much is clear from paragraphs 30 and 31 of the applicant’s heads of argument where the following submission is made:
+
+ “30. Another important aspect of section 220 [of the Companies Act] is the right to claim compensation for removal in appropriate circumstances given by section 220(7). Commenting on sub-section (7), Blackman et al [in Commentary on the Companies Act, Vol. 2] concludes that compensation is payable if and only if there is, inter alia, a contract with the director whose breach is the result of the removal. If – as in our submission it is – this is correct, then it means that where, as here, there has been no breach of the employment contract (because it terminated in accordance with its own terms), then no compensation or damages are payable.
+
+ 31. The proposition is therefore that no action lies for compensation under sub-section (7) in the absence of a breach of an agreement with the removed director, as a consequence of such removal. If, by contrast, a director is able to show that his removal led to an unlawful termination of his employment contract, he may be entitled to compensation if he can show his removal as director was the sole cause of the unlawful termination of his employment agreement.”
+
+  (underlining in original text and footnotes omitted)
+
+Well, whether or not there has been a contractual breach is not an issue I need decide here. That is an issue to be determined in due course in the main damages claim. All I need concern myself with is whether or not the respondent has been dismissed by the respondent within the meaning of section 186(1)(a) of the LRA. I believe he has been so dismissed. 
+[2009] 8 BLLR 792 (LC) at 800
+Since the applicant has advanced these submissions as regards the respondent’s entitlement to compensation, I should point out en passant that the applicant’s counsel put the threshold that the respondent must clear in order to earn a right to compensation rather too high. I do not believe that the double threshold of showing not only that the removal as director “led to an unlawful termination of [the] employment contract” but also that “his removal as director was the sole cause of the unlawful termination of his employment agreement” is the appropriate test. It seems to me the respondent should be entitled to compensation by showing merely that he has been unfairly (not even unlawfully) dismissed.
+The primary defence put up on behalf of the respondent by Mr P Pretorius, who appeared together with Mr A Myburgh, is that the contract of employment between the parties does not permit automatic termination. On a plain reading of the contract this proposition is hard to sustain. As pointed out earlier, clause 9 of the contract which deals with the grounds for the termination of the employment relationship is by its ipsissima verba “regulated by” (in the sense of “subject to”) article 8 of the applicant’s Articles of Association. Article 8.3, read together with article 8.2, in turn provides for automatic termination of the employment contract upon removal of the respondent as director. There can be no question that the contract does permit automatic termination as alleged by the applicant. The question is whether that is permissible in law.
+The respondent’s counsel say if it were permissible, then the entire provisions of chapter 8 of the LRA, and the constitutional right to fair labour practices, could be easily circumvented. This could be achieved, so the argument goes, by including a clause in every employee’s contract that his employment will terminate automatically on the occurrence of some or other event, for example, a prescribed act of misconduct or incapacity. There is much to be said for this submission. Such clauses are eminently undesirable in the labour relations context. The progressive disciplinary measures for which schedule 8 to the LRA makes provision would be rendered otiose and the labour relations clock in this country would have been turned back some three decades.
+The issue with which this Court is here confronted arose, substantially, in the English Court of Appeal in Igbo v Johnson Matthey Chemicals Ltd [1986] IRLR 215 (CA). In that case, the employee requested extended holiday leave from the employer. The employer drew up a contract (termed the “contractual letter for the provision of extended holiday absence”) which provided that if the employee failed to return to work on the appointed day then his “contract of employment would automatically terminate on that date”. When the employee had not returned to work on the appointed date, the employer took the view that her employment contract was terminated in terms of the “contractual letter”. She referred an unfair dismissal claim to the Industrial Tribunal which found, following an earlier decision of the Employment Appeal Tribunal (an English equivalent of the Labour Appeal Court) there had been no dismissal since her employment terminated by operation of a consensual contractual term. On appeal the Court of Appeal upheld the employee’s appeal and  
+[2009] 8 BLLR 792 (LC) at 801
+  overturned the earlier decision of the Employment Appeal Tribunal. It held at paragraph 17:
+
+“If the [employer’s] contention [of a contractual automatic termination] is correct, it must follow that the whole object of the [Employment Protection (Consolidation)] Act can be easily defeated by the inclusion of a term in a contract of employment that if the employee is late for work on the first Monday in any month, or indeed on any day, no matter for what reason, the contract shall automatically terminate. Could it be said that such a provision did not limit the operation of ss.54 and 55? In our judgment it could not. Such a provision would vitally limit the operation of s.54(1), for the right not to be unfairly dismissed would become subject to the condition that the employee was on time for work on the first Monday in each month, or every day, as the case might be.”
+
+Section 54(1) of the Employment Protection (Consolidation) Act, 1978 confers on employees the right not to be unfairly dismissed by the employer. Section 55 defines “dismissal” in similar terms as in section 186(1)(a), (b) and (e) of the LRA.
+At paragraph 19 of the judgment the Court of Appeal continued:
+
+“[I]n substance, the effect of the automatic termination provision is the same as if it had said in terms ‘in the event of failure to return to work on 28 September, termination of the employee’s employment on that ground shall not constitute dismissal under s.55’, or ‘shall not give rise to any claim for unfair dismissal’. Any such provision would without doubt have been void as limiting the operation of the sections. We can see no ground for saying that a provision which has the like effect does not limit such operation.”
+
+Clearly this must be correct both in law and in logic. The argument pressed upon me by counsel for the applicant is not materially different (if at all different) from that advanced for the employer in Igbo’s case. I associate myself with the views expressed in that case by the Court of Appeal thereanent.
+Counsel for the applicant sought to distinguish the decision of this Court in PG Group (Pty) Ltd v Mbambo NO & others [2005] 1 BLLR 71 (LC) on the ground that in that case the Court assumed the correctness of the very question it had to decide, namely, whether the employee had been dismissed by the employer within the meaning of section 186(1)(a) of the LRA. The circumstances in which the employee’s contract of employment in that case came to be terminated were similar to those with which we are here concerned. The employee’s employment was terminated following his removal from the board of the employer by the employer’s holding company.
+The Court found that the employee had indeed been dismissed by the employer. But that finding was premised on the question: “Who dismissed the [employee]?” and not “Was the employee dismissed within the meaning of section 186(1)(a)?”. On that ground, Mr Franklin submitted that the question here in issue was not settled in the PG Group case. I agree, with respect, with the reasons advanced by Mr Franklin. Mr Franklin then submitted that I am at large to consider afresh the question of whether the termination of an employee’s contract of employment in the circumstances of this case (as in the PG Group case) constitutes “dismissal” within the meaning of section 186(1)(a) of the LRA. I have. It does. 
+[2009] 8 BLLR 792 (LC) at 802
+Mr Franklin then sought to rely on another decision of this Court in Ouwehand v Hout Bay Fishing Industries (2004) 25 ILJ 731 (LC) [also reported at [2004] 8 BLLR 815 (LC) – Ed], and of the Labour Appeal Court in National Union of Leather Workers v Barnard and Perry NNO [2001] 9 BLLR 1002 (LAC), for the proposition that an employee who alleges “dismissal” within the meaning of section 186(1)(a) of the LRA must show some overt act by the employer that is the “sole or proximate cause” of the termination of employment. He says the sole or proximate cause of the termination of the respondent’s employment in this case were the terms of his employment contract with the applicant (clause 9) and not his removal from the applicant’s board of directors. 
+But, as I have already shown, the terms of the employment contract cannot neatly be construed in isolation from the applicant’s act of removing the respondent from the board. First, the termination of the respondent’s employment is “regulated by” article 8 of the applicant’s Articles of Association (see clause 9.1 of the contract of employment). Second, because membership of the board is “an inherent requirement” of his employment as chief executive officer (article 8.3 of the Articles of Association), the respondent’s membership of the board is inextricably intertwined with his employment. Thus, third, his removal from the board – which is one of the grounds on which the respondent’s employment may be terminated (see clause 9.1 read together with article 8.3 of the applicant’s Articles of Association) – must of necessity mean an end to his employment as chief executive officer. 
+The fact is that the employer (in the form and shape of the Minister of Communications representing the sole shareholder, the state) terminated the respondent’s contract of employment by severing the umbilical cord that ties the respondent’s employment contract to his membership of the applicant’s board of trustees. But for that act of severance, the respondent’s employment would not have terminated because none of the other four grounds have been invoked. Thus, that act of severance of the umbilical cord constitutes dismissal within the meaning of section 186(1)(a) of the LRA.
+The proximate cause test (usually used in insurance cases to determine the actual trigger for a loss in respect of which a claim is submitted) does not assist the applicant in this case. It is sometimes referred to as the effective cause test or the actual cause test. It has been held by the Courts that the cause that is latest in time may not necessarily be the effective cause of the result. Conversely, an act that may on the face of it seem remote to the result may in fact be the effective cause. When a fishing trawler is lost after being arrested when the owners failed to pay the fine to release it, the proximate or effective cause of the loss is not confiscation of the trawler but a failure to pay the fine even though confiscation is nearer in time to the loss than failure to pay a fine (Incorporated General Insurances Ltd v Shooter t/a Shooter’s Fisheries 1987 (1) SA 842 (A) at 862C–863B).
+So, too, in this case the fact that operation of the contractual term may seem closer in time to the termination of the employment contract does not make the term of the employment contract the proximate or effective  
+[2009] 8 BLLR 792 (LC) at 803
+  cause of termination of employment. Effectively, had the Minister not removed the respondent from the board of directors, the respondent’s employment would not have terminated. It is, in my view, the removal of the respondent as a director that triggered, proximately or effectively, the termination of his employment. In Commercial Union Assurance Co of South Africa Ltd v Kwazulu Finance and Investment Corporation & another 1995 (3) SA 751 (A) [also reported at [1995] 2 All SA 628 – Ed] the Court said: 
+
+“The proximate cause is not merely the one which was latest in time, but the one which is proximate in efficiency. . . .” 
+
+The effective cause of termination of the respondent’s contract of employment was clearly the Minister’s removal of him from the applicant’s board of directors. The automatic termination clause is impermissible and cannot rightly be invoked to stave off the clear and unambiguous effect of the Minister’s overt act. 
+In the result, the automatic termination provisions of article 8.3, which regulates the termination of the contract of employment and is thus incorporated by reference therein, are impermissible in their truncation of the provisions of chapter 8 of the LRA and, possibly even, the concomitant constitutional right to fair labour practices (cf Igbo v Johnson Matthey Chemicals Ltd [1986] IRLR 215 (CA)). Provisions of this sort, militating as they do against public policy by which statutory rights conferred on employees are for the benefit of all employees and not just an individual, are incapable of consensual validation between parties to a contract by way of waiver of the rights so conferred. 
+Because I have made a finding in relation to the respondent’s first alternative defence (albeit in a wider form than that advanced by the respondent), it is unnecessary to deal with the other alternative arguments advanced on his behalf.
+
+Relief
+The application in limine is thus dismissed.
+The issue involved warranted, in my view, the employment of two counsel. Thus, the applicant is ordered to pay the respondent’s costs including the costs occasioned by the employment of two counsel.
+
+The following cases were referred to in the above judgment:
+For the applicant:
+Messrs A Franklin SC and L Sisilana instructed by Webber Wentzel Bowens
+For the respondents:
+Messrs P Pretorius and A Myburgh instructed by Perrott Van Niekerk Woodhouse
+
+
+End of Document

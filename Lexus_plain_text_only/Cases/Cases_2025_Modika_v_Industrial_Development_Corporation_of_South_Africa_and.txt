@@ -1,0 +1,528 @@
+
+
+
+
+Modika v Industrial Development Corporation of South Africa and [2025] JOL 69964 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: 2025 – 212698
+Hearing Date(s): 12 / 11 / 2025
+Judgment Date(s): 13 / 11 / 2025
+Bench: Snyman AJ
+
+
+Keywords
+
+
+Labour and Employment — Disciplinary hearing — Interdict — Protected disclosures — Occupational detriment
+
+Mini Summary
+
+
+Material Facts
+
+• The applicant, who was employed by the Industrial Development Corporation (IDC), alleged that he was subjected to harassment, bullying, and victimisation by his line manager (Mdaka), and made a protected disclosure about systemic bullying, harassment, unfair discrimination practices, and workplace intimidation by Mdaka.
+
+• He was placed on precautionary suspension by Mdaka, who claimed she was unaware of the applicant’s complaint at the time.
+
+• The applicant was charged with misconduct, and a disciplinary hearing was scheduled.
+
+• He referred a dispute to the second respondent (CCMA) under section 188A(11) of the Labour Relations Act, alleging that the disciplinary proceedings constituted an occupational detriment due to his protected disclosure.
+
+• The CCMA scheduled an arbitration hearing to determine whether to accept the applicant’s referral under section 188A(11).
+
+• The applicant filed an urgent application with the Labour Court to interdict the IDC from proceeding with the internal disciplinary hearing, pending the CCMA’s decision.
+
+Issues
+
+• Whether the Labour Court had jurisdiction to intervene in incomplete disciplinary proceedings and grant the relief sought by the applicant.
+
+• Whether the application met the requirements for urgency under Rule 38 of the Labour Court Rules.
+
+• Whether the applicant’s disclosure qualified as a protected disclosure under the Protected Disclosures Act (PDA) and whether the disciplinary proceedings constituted an occupational detriment.
+
+• Whether the applicant satisfied the requirements for an interdict, including establishing a clear right, injury or prejudice, and the absence of a satisfactory alternative remedy.
+
+Relevant cases
+
+• Jiba v Minister: Department of Justice and Constitutional Development and Others (2010) 31 ILJ 112 (LC)
+
+• Maqubela v SA Graduates Development Association and Others (2014) 35 ILJ 2479 (LC)
+
+• Tshwaedi v Greater Louis Trichardt Transitional Council [2000] 4 BLLR 469 (LC)
+
+• Association of Mineworkers and Construction Union and Others v Northam Platinum Ltd and Another (2016) 37 ILJ 2840 (LC)
+
+• Fisher v Ngcuka N.O. and Others (2025/189683) [2025] ZALCJHB 514 (28 October 2025)
+
+• SA Transport and Allied Workers Union and Others v MSC Depots (Pty) Ltd and Others (2013) 34 ILJ 706 (LC)
+
+• Matlala v Foskor Proprietary Limited and Others (2025/169524) [2025] ZALCJHB 478 (22 October 2025)
+
+• Gcaba v Minister for Safety and Security and Others (2010) 31 ILJ 296 (CC)
+
+• Booysen v Minister of Safety and Security and Others (2011) 32 ILJ 112 (LAC)
+
+• Member of the Executive Council for Education, North West Provincial Government v Gradwell (2012) 33 ILJ 2033 (LAC)
+
+• Cibane and Another v Premier of Province of Kwazulu-Natal [2025] 10 BLLR 1004 (LAC)
+
+• Steenkamp and Others v Edcon Ltd (National Union of Metalworkers of SA intervening) (2016) 37 ILJ 564 (CC)
+
+• Baxter v Minister of Justice and Correctional Services and Others (2020) 41 ILJ 2553 (LAC)
+
+• Tshabalala v Moqhaka Local Municipality and Another (2025) 46 ILJ 590 (LAC)
+
+• Nxele v National Commissioner: Department of Correctional Services and Others (2018) 39 ILJ 1799 (LC)
+
+• Mamodupi v Property Practitioners Regulatory Authority and Another (J68/23) [2023] ZALCJHB 19 (13 February 2023)
+
+• National Commissioner: Department of Correctional Services v Nxele and Another [2025] 5 BLLR 472 (LAC)
+
+• Independent Municipal and Allied Trade Union and Another v City of Matlosana Local Municipality and Another (2014) 35 ILJ 2459 (LC)
+
+• Kubheka v Member of the Executive Council: Human Settlements (Gauteng Provincial Government) and Another (2021) 42 ILJ 1497 (LC)
+
+• SA Broadcasting Corporation SOC Ltd v Phasha (2021) 42 ILJ 816 (LC)
+
+• Tsibani v Estate Agency Affairs Board and Others [2021] JOL 51625 (LC)
+
+• Gallocher v Social Housing Regulatory Authority and Another (2019) 40 ILJ 2732 (LC)
+
+• Zungu v Premier of the Province of Kwa-Zulu Natal and Others (2018) 39 ILJ 523 (CC)
+
+Application and rationale
+
+The court confirmed its jurisdiction to intervene in incomplete disciplinary proceedings under sections 157 and 158 of the LRA, provided the applicant asserted a right under the LRA and demonstrated exceptional circumstances. The applicant had properly invoked section 188A(11). Exceptional circumstances existed, as failure to intervene would lead to grave injustice and deprive the applicant of the protection afforded by section 188A(11).
+
+Urgent applications are governed by Rule 38 of the Labour Court Rules. The applicant acted promptly after making the protected disclosure and referring the dispute to the CCMA, and urgency was not self-created.
+
+The applicant’s disclosure qualified as a protected disclosure under section 1 of the PDA. The disclosure pre-dated the institution of disciplinary proceedings.
+
+The applicant had established a clear right to the interdictory relief sought, would suffer undue prejudice if the internal disciplinary hearing proceeded, and no satisfactory alternative remedy was available to him.
+
+Conclusion
+
+The application to interdict the internal disciplinary hearing was granted. 
+
+ 
+[2025] JOL 69964 (LC) at 3
+
+SNYMAN AJ:
+
+Introduction
+
+[1]    On 10 November 2025, the applicant brought an urgent application to interdict the first respondent (IDC) from continuing with an internal disciplinary hearing against him, in terms of a finally amended charge sheet issued on 29 September 2025 which contained ten individual charges of misconduct (with sub counts). The applicant has alleged that this disciplinary hearing constitutes an occupational detriment against him, based on a protected disclosure he had made on 29 July 2025. In this context, the applicant has invoked section 188A(11) of the Labour Relations Act (LRA)1 which reads:
+
+'Despite sub-section (1), if an employee alleges in good faith that the holding of an inquiry contravenes the Protected Disclosures Act, 2000 (Act 26 of 2000), that employee or the employer may require that an inquiry be conducted in terms of this section into allegations by the employer into the conduct or capacity of the employee.'
+
+[2]    According to the applicant, the fact that he has referred a dispute to the second respondent, being the Commission for Conciliation, Mediation and Arbitration (CCMA), in terms of section 188A(11), means that the internal  
+[2025] JOL 69964 (LC) at 4
+disciplinary hearing against him in the IDC, which was set to proceed on 11 and 12 November 2025 but ultimately did not continue on those dates, should be interdicted going forward. The IDC has opposed the application on a number of grounds, including challenging urgency.
+
+[3]    As the applicant is seeking final relief, the applicant must satisfy three essential requirements which must all be shown to exist, being: (a) a clear right; (b) an injury actually committed or reasonably apprehended; and (c) the absence of any other satisfactory remedy.2
+
+[4]    In deciding a matter such as this, two questions must be answered at the outset. First, does this Court have the jurisdiction to intervene at this point and grant the applicant the relief he seeks. And second, has the applicant has made out a proper case of compellingly extraordinary circumstances to justify intervention at this stage. And of course, since this was placed in dispute by the IDC, the issue of urgency also needs to be decided.
+
+[5]    The matter was argued before me on 12 November 2025. After considering the submissions by both parties, and in order to enable me to have proper regard to the answering affidavit by the IDC which I only received that morning, I indicated to the parties that I would reserve judgment and hand down judgment on 13 November 2025. I now do so, starting with setting out the background facts.
+
+Background facts
+
+[6]    The background facts in this case are straight forward, and mostly undisputed. Insofar as factual disputes exist, I will determine those on the basis of the principles as articulated in Plascon Evans Paints v Van Riebeeck Paints.3 In short, this means that it is the admitted or undenied facts together with the facts as stated by the IDC that must be utilized in deciding this  
+[2025] JOL 69964 (LC) at 5
+matter. The only exception would be if the IDC simply offers a bald denial, or the facts as stated as stated by it can be considered to be patently false, absurd or fanciful.4
+
+[7]    The applicant is employed by the IDC as a Senior Specialist: Employee Relations and Transformation, in the Talent Management and Organisational Effectiveness (TMOE) section of the IDC. The applicant reports to Lydia Mdaka (Mdaka), the Head: Talent Management and Organisational Effectiveness, as his immediate line manager. The applicant contended that he was subjected to constant harassment, bullying and victimisation by Mdaka. Although Mdaka denies this, what seems to be quite clear from the affidavits filed is that the working relationship between the applicant and Mdaka was strained, to say the least.
+
+[8]    What was undisputed is that the applicant lodged a complaint against Mdaka on 29 July 2025, using the anonymous whistle blowing report line in the IDC for this purpose. In this complaint, the applicant raised concerns about systemic bullying, harassment, unfair discrimination practices, and harassing employees perpetrated by Mdaka. It was contended by the applicant that Mdaka acted contrary to her obligations under the Constitution, the LRA and the Employment Equity Act (EEA)5. The following instances were highlighted in the complaint:
+
+• Multiple informal and formal complaints lodged with the Senior Human Capital Business Partner (HCBP) have not yielded any meaningful resolution.
+
+• Instances of overt harassment, unfair discriminatory practices, and workplace intimidation have gone unaddressed, contributing to growing psychological harm and disengagement.
+
+• Punitive Performance Appraisal and deliberately setting employees up for failure.
+
+ 
+[2025] JOL 69964 (LC) at 6
+
+• Unfounded allegations and ill-treatment during leave, attitude of suspicion even where employees are accessing a benefit. E.g. Engagement with Senior Wellness Specialist during bereavement.
+
+• Refusal to approve a family responsibility leave which could not be taken when the employee's wife had undergone major surgery and lost a 22 weeks pregnancy due to work commitments.
+
+• Efforts by employees to resolve matters constructively—via team discussions, meetings with management, and internal grievance procedures—have been repeatedly dismissed or ignored.
+
+• Threating emails directed at ER Professionals, even when they have engaged their line manager on working arrangements.
+
+• The resignation of former ER Lead, occurred amidst heightened tensions and unresolved concerns, including fears of industrial action allegedly due to similar treatment.
+
+• The ER reporting line remains misaligned with national best practices, despite formal internal submissions and external benchmarks being raised.
+
+• This report brings these longstanding issues into formal view, not to malign individuals, but to compel institutional introspection and intervention in line with the Constitution of South Africa, the Labour Relations Act 66 of 1995, the Employment Equity Act 55 OF 1998, and international labour standards.' (sic)
+
+[9]    It may be added that on 8 September 2025, the applicant received an email from the DE: Human Capital, informing him that a law firm, ENS Africa, had been appointed to investigate his complaint which he lodged on 29 July 2025 against Mdaka.
+
+[10]    The IDC contends that the aforesaid report made by the applicant had nothing to do with the disciplinary action that was ultimately instituted against the applicant. According to Mdaka, she contracted Bankey Sono (Sono) from Werksmans Attorneys on 21 July 2025, to assist her in what she calls a labour  
+[2025] JOL 69964 (LC) at 7
+related matter involving the applicant, which related to ongoing misconduct which commenced approximately a year and a half earlier. Mdaka shared documents with Sono on 24 July 2025. This interaction with Sono resulted in a formal instruction given to Werksmans Attorneys on 31 July 2025, in the following terms: 'You are requested to peruse the information and related documents shred with you on the behaviour of the Senior Employee Relations & Transformation Specialist and advise if the employee has a case to answer or not. Should the above action require IDC to act against the concerned employee, you are requested to advise and assist the IDC with the institution of appropriate action against the employee as below: (a) you are requested to initiate the disciplinary process on behalf of the IDC .  .  .'.
+
+[11]    The applicant was then placed on precautionary suspension by Mdaka on 5 August 2025. Mdaka states that she was no aware of the complaint by the applicant when she suspended him. But Mdaka does concede in the answering affidavit that an 'anonymous complaint' against her about harassment, bullying and victimisation was sent to the Head of Division of the IDC on 6 August 2025 through the IDC's internal whistleblowing platform. Mdaka also concedes that on 22 August 2025 she became of the complaint herself.
+
+[12]    Finally, and on 31 August 2025, Werksmans recommended that the applicant be subjected to a disciplinary hearing, which recommendation was accepted by the IDC. Charges were proffered against the applicant on 5 September 2025 and on 8 September 2025, the applicant was notified that the disciplinary hearing proceedings were scheduled for 16 September 2025 and 1 October 2025.
+
+[13]    The IDC has provided a fairly lengthy exposition of what it contends are 'Stalingrad' tactics on the part of the applicant to delay the disciplinary proceedings. I do not intend to repeat all the detail in this regard. The applicant sought a postponement of the hearing on 16 September 2025 because he was ill, which was granted. The final charge sheet containing a total of 10 charges, together with, was then served on the applicant on 29 September 2025, prior to the next hearing date of 1 October 2025.
+
+ 
+[2025] JOL 69964 (LC) at 8
+
+[14]    The hearing then convened on 1 October 2025, and in this hearing the applicant specifically stated that he was the whistleblower and author of the complaint of 29 July 2025. The applicant contended that the disciplinary hearing against him constituted an occupational detriment as a result of this. The applicant requested a further postponement of the disciplinary hearing, contending that the disciplinary hearing should be held in abeyance until the finalisation of various complaints he had lodged, including a complaint to the Public Protector. The postponement was granted, not on the basis he sought to advance, but instead to allow him an adequate opportunity to prepare for the disciplinary hearing and to gain access to documents he asked for. The hearing was scheduled to proceed on 29 October 2025.
+
+[15]    On 23 October 2025, the applicant requested the IDC, in writing, to suspend the disciplinary hearing pending the finalisation of an investigation by the Public Protector pursuant to a report the applicant had made to it about alleged impropriety at the IDC. The applicant in the alternative proposed that the disciplinary hearing rather be conducted under section 188A of the LRA. However, the IDC was not inclined to accept these proposals. In an answer to the applicant on 27 October 2025, it insisted that the disciplinary hearing proceed on 29 October 2025. On the same day (27 October 2025) the applicant then lodged a referral with the CCMA pertaining to a protected disclosure, in terms of section 188A(11) of the LRA.
+
+[16]    When the disciplinary hearing convened on 29 October 2025, the applicant again asked for a postponement because he was ill, and a final postponement was then granted for the hearing to proceed on 11 and 12 November 2025. The applicant was also informed that the disciplinary hearing would proceed on 11 and 12 November 2025, irrespective of his section 188A(11) referral to the CCMA.
+
+[17]    The CCMA, pursuant to the referral by the applicant, sent a notice of set down to the parties on 2 November 2025, setting the section 188A enquiry down for arbitration on 17 November 2025. As a result, and on 6 November 2025, the applicant sent a letter to the IDC, requesting that the disciplinary proceedings be abandoned as a result of his referral to the CCMA under section 188A(11)  
+[2025] JOL 69964 (LC) at 9
+of the LRA, and the fact that an arbitration hearing in this regard had been scheduled for 17 November 2025. The IDC answered on 7 November 2025, informing the applicant that the disciplinary hearing will proceed on 11 and 12 November 2025, and that the proceedings under section 188A(11) do not interdict the internal disciplinary form proceeding.
+
+[18]    The current application then followed on 10 November 2025.
+
+Urgency
+
+[19]    The IDC has challenged the urgency of this matter, in essence complaining that the applicant's urgency is self-created. The IDC argues that the application should have been brought immediately after 8 September 2025, being the date when the applicant was first informed of the disciplinary hearing which was scheduled to proceed on 16 September 2025 and 1 October 2025. The IDC also relies on what it calls the delaying tactics of the applicant pertaining to the postponement of the scheduled disciplinary hearings, as a basis for its case of self-created urgency on the part of the applicant. And lastly, according to the IDC, the applicant should at worst have brought this application immediately after he was informed at the hearing on 29 October 2025 that the disciplinary hearing would proceed on 11 and 12 November 2025, but the applicant only brought the application on 10 November 2025.
+
+[20]    Urgent applications are governed by Rule 38 of the Labour Court Rules, being the successor to the erstwhile Rule 8. The Court in Jiba v Minister: Department of Justice and Constitutional Development and Others6 applied Rule 8 as follows:
+
+'Rule 8 of the rules of this Court requires a party seeking urgent relief to set out the reasons for urgency, and why urgent relief is necessary. It is trite law that there are degrees of urgency, and the degree to which the ordinarily applicable rules should be relaxed is dependent on the degree of urgency. It is equally trite that an applicant is not entitled to rely on urgency that is self created when seeking a deviation from the rules.' 
+[2025] JOL 69964 (LC) at 10
+These same considerations, in my view, equally apply to Rule 38.
+
+[21]    When considering whether urgency has been established, it must be considered whether an applicant would not be afforded substantial redress in due course, and the applicant must provide proper reasons in support of a case that this would not be possible.7 As succinctly described by the Court in Maqubela v SA Graduates Development Association and Others8:
+
+'Whether a matter is urgent involves two considerations. The first is whether the reasons that make the matter urgent have been set out and secondly whether the applicant seeking relief will not obtain substantial relief at a later stage. In all instances where urgency is alleged, the applicant must satisfy the Court that indeed the application is urgent. Thus, it is required of the applicant adequately to set out in his or her founding affidavit the reasons for urgency, and to give cogent reasons why urgent relief is necessary. .  .  .'
+
+[22]    Where an applicant seeks final relief, the Court must be even more circumspect when deciding whether or not urgency has been established.9 In Tshwaedi v Greater Louis Trichardt Transitional Council10 the Court said:
+
+'.  .  . An applicant who comes to Court on an urgent basis for final relief bears an even greater burden to establish his right to urgent relief than an applicant who comes to Court for interim relief. .  .  ..'
+
+[23]    The Court must also further consider the interests of the respondent party, and in particular, the prejudice the respondent may suffer if the matter is urgently disposed of. In Association of Mineworkers and Construction Union and Others v Northam Platinum Ltd and Another11 the Court held as follows: 
+[2025] JOL 69964 (LC) at 11
+'But it is not just about the applicant. Another consideration is possible prejudice the respondent might suffer as a result of the abridgement of the prescribed time periods and an early hearing.'
+
+[24]    Finally, urgency must not be self-created by an applicant, as a consequence of the applicant having not brought the application at the first available opportunity.12 As the Court said in Northam Platinum supra13:
+
+'.  .  . the more immediate the reaction by the litigant to remedy the situation by way of instituting litigation, the better it is for establishing urgency. But the longer it takes from the date of the event giving rise to the proceedings, the more urgency is diminished. In short, the applicant must come to Court immediately, or risk failing on urgency. .  .  .'
+
+[25]    Considering the substance of the opposition of the IDC where it comes to the issue of urgency, it do not believe it is correct to say that these proceedings should have been brought immediately after 8 September 2025. The fact is that at that point, there were not even final charges proffered against the applicant. The final charge sheet only followed on 29 September 2025, so, realistically, it must be said that it was at that point, coupled with the scheduled hearing date of 1 October 2025, that the applicant can be expected to have brought the application. It was in the hearing on 1 October 2025 that the applicant actually made the submission that the disciplinary hearing against him should not proceed on the basis that he had made a protected disclosure, and that the disciplinary proceedings against him constituted an occupational detriment as a result. It follows, in my view, that it is the period from 1 October 2025 to 10 November 2025 that requires consideration.
+
+[26]    I do accept that it can be said that it would have been preferable for the applicant to have referred the section 188A(11) dispute to the CCMA immediately following the postponement of the disciplinary hearing on 1 October 2025. However, it is not as if the applicant just left matters there. 
+
+ 
+[2025] JOL 69964 (LC) at 12
+
+Knowing the disciplinary hearing was scheduled to proceed on 29 October 2025, the applicant instead first attempted to convince the IDC, on 23 October 2025, that the disciplinary hearing rathe be conducted under section 188A of the LRA, which request was refused by the IDC on 27 October 2025, insisting that that the disciplinary hearing proceed on 29 October 2025. It is at that point that the applicant then lodged the section 188A(11) referral with the CCMA, which makes sense to me, considering the conducting of the matter to that point. It is in fact only when this referral had been made to the CCMA that there would then exist a basis to approach the Court to seek urgent intervention.
+
+[27]    It can be said that the applicant should have brought this application itself sooner and not wait some eight days from being informed on 29 October 2025 that the matter will proceed on 11 and 12 November 2025 despite his CCMA referral. Whilst there may be some substance in the criticism of the IDC for this delay, I do not think this sufficient to non-suit the applicant based on a lack of urgency. It must also be considered in this context that the applicant first sought call upon the IDC on 6 November 2025 to agree to terminate the proceedings, which would avoid litigation in this Court, which is a competent approach.14 The IDC refused to agree on 7 November 2025, and this application followed three days later, which I consider to be prompt action. I am also satisfied that the applicant properly attended to this matter throughout and simply cannot be accused of undue procrastination. I am satisfied that once the referral to the CCMA had been made, the applicant throughout acted with the necessary expedition. Further, I am willing to overlook this delay because, in my view, there will be a failure of justice if I do not, and the applicant in reality has no substantial redress in the ordinary course available to him.
+
+[28]    I believe that a refusal to consider the applicant's application will lead to a grave injustice. It can nothing else but unfair to expect the applicant to  
+[2025] JOL 69964 (LC) at 13
+participate in internal disciplinary proceedings which, if his case is successful, would effectively cause such internal disciplinary proceedings to be null and void. This is even more prejudicial, considering that he CCMA has convened arbitration proceedings for 17 November 2025 to determine whether to accept the referral or not. As held in Fisher v Ngcuka NO and Others15:
+
+'In my view, not to consider the application could cause a grave injustice. I believe it would be patently unfair to expect the applicant to participate in what would clearly be a comprehensive disciplinary hearing, in circumstances where the applicant has alleged an occupational detriment as a result of having made a protected disclosure, which according to her strikes at the very heart of the disciplinary proceedings against her. The issue of the possible occupational detriment following a protected disclosure is in itself an issue that carries with it an inherent quality of urgent intervention, especially where an alternative process to deal with it is available and has been invoked, but despite this, Bidvest Services is pressing on with internal discipline.'
+
+[29]    The Court in SA Transport and Allied Workers Union and Others v MSC Depots (Pty) Ltd and Others16 adopted a similar view, which concerned a case where there was an agreement to pre-dismissal arbitration under section 188A, and the employer proceeded to nonetheless institute internal disciplinary proceedings. In that case, and in a manner quite comparable to the complaints raised by the IDC in casu, it was contended that urgency was self-created, when the employees then brought an application to interdict the disciplinary hearing. This contention was based on, inter alia, the charges being handed to the employees on 31 May 2012, there being no earlier challenge to the disciplinary enquiry, the enquiry being completed on 23 June 2012 when the employees were dismissed, and the application then only being brought on 5 July 2012.17 In this context, the Court held:18
+
+'While the union may be criticized for its failure to respond to the correspondence addressed to it during early June 2012, and in particular, to the clear notice of the first respondent's intention to conduct an internal  
+[2025] JOL 69964 (LC) at 14
+disciplinary hearing, as Advocate Crampton submitted, it is the dismissal of the second and third applicants that triggered the present application since it is the dismissals that are contended to constitute the breach of the agreement concluded in terms of s 188A of the LRA, and the process contemplated by the Court order granted on 22 May 2012. Given that the papers in the present application were filed within ten days or so of receipt of the notice of dismissal, in my view, the applicants acted sufficiently promptly to assert their rights. Further, it seems to me that it is in the interests of all concerned that this matter be resolved without further delay. I am satisfied that the application ought to be dealt with on an urgent basis.'
+
+I believe that similar considerations, and then a similar conclusion, apply in casu. It is in reality the refusal by the IDC to agree to section 188A proceedings under the auspices of the CCMA, once the issue of the protected disclosure was pertinently raised, that served as the catalyst for proceedings to follow. This only occurred, at the earliest, on 27 October 2025.
+
+[30]    The applicant cannot obtain substantive redress in the ordinary course. This is because of the sui generis nature of section 188A proceedings, brought under section 188A(11). As will be discussed below in this judgment, it is intended to act as a complete substitute for internal disciplinary proceedings when allegations of an occupational detriment due to a protected disclosure is at stake. If internal disciplinary proceedings are allowed to proceed, even if a dismissal of course can be later challenged under the LRA, this up front protection, so to speak, will be lost. This equally justifies urgent intervention. As held in Matlala v Foskor Proprietary Limited and Others19:
+
+'Further, there is no equivalent 'alternative' to invoking s 188A(11), which Matlala has a right to exercise. While there is a possibility of the provision being abused to delay or avoid an internal hearing, it must be remembered that procedure initiated by the employer does not disappear if an employee successfully invokes the provision. It simply relocates the subject matter of the internal enquiry to arbitral proceedings .  .  .' 
+[2025] JOL 69964 (LC) at 15
+[31]  I am therefore satisfied that the applicant has made out a proper case for urgency, and therefore I shall proceed to decide this matter as one of urgency under Rule 38.
+
+Jurisdiction
+
+[32]    The Court in Gcaba v Minister for Safety and Security and Others20 said that jurisdiction means: '.  .  . the power or competence of a Court to hear and determine an issue between parties .  .  .'. In the case of applications such as the current application, in which urgent intervention in internal disciplinary proceedings against an employee is sought, the Labour Court must have the jurisdiction in terms of section 15721, and the competence and power in terms of Section 158,22 in order to do this, as will be elaborated on below.
+
+[33]    The Labour Court will only entertain any application brought directly to the Court to interdict incomplete disciplinary proceedings in truly exceptional circumstances, where material irremediable prejudice or injustice is shown to exist. In Booysen v Minister of Safety and Security and Others23, it was held as follows:
+
+'.  .  . the Labour Court has jurisdiction to interdict any unfair conduct including disciplinary action. However such an intervention should be exercised in exceptional cases. It is not appropriate to set out the test. It should be left to the discretion of the Labour Court to exercise such powers having regard to the facts of each case. Among the factors to be considered would in my view be whether failure to intervene would lead to grave injustice or whether justice might be attained by other means. The list is not exhaustive.' 
+[2025] JOL 69964 (LC) at 16
+[34]  Similarly in Member of the Executive Council for Education, North West Provincial Government v Gradwell24 the Court confirmed that these kinds of applications should only be entertained '.  .  . in extraordinary or compellingly urgent circumstances .  .  .'. And in Jiba supra25 the Court held:
+
+'Although the Court has jurisdiction to entertain an application to intervene in uncompleted disciplinary proceedings, it ought not to do so unless the circumstances are truly exceptional. Urgent applications to review and set aside preliminary rulings made during the course of a disciplinary enquiry or to challenge the validity of the institution of the proceedings ought to be discouraged. These are matters best dealt with in arbitration proceedings consequent on any allegation of unfair dismissal, and if necessary, by this Court in review proceedings .  .  .'
+
+[35]    The requirements, for the want of a better description, for urgent intervention in incomplete disciplinary proceedings internally in an employer has in my view been further tightened by the recent judgment of the Labour Appeal Court (LAC) in Cibane and Another v Premier of Province of Kwazulu-Natal26. Relying on how the Constitutional Court dealt with the notion of the Labour Court's jurisdiction to adjudicate and decide unlawful dismissals in Steenkamp and Others v Edcon Ltd (National Union of Metalworkers of SA intervening)27, being a finding that the Labour Court in fact had no jurisdiction to determine the lawfulness of a dismissal, the Court in Cibane decided:28
+
+'It is clear from this passage that outside of the scope of any statutory provision that specifically confers jurisdiction on the Court, the Labour Court has no jurisdiction, in any general sense, to make any determination of the unlawfulness of employer conduct.'
+
+[36]    It must therefore be made clear that an applicant cannot simply rely on a general jurisdiction of this Court to intervene, qualified only by exceptionality. 
+
+ 
+[2025] JOL 69964 (LC) at 17
+
+The applicant must show that the right to intervene arises from a right bestowed on the applicant by the LRA, which is enforceable under the LRA. If that is so, then the Court would have jurisdiction in intervene, on for example an interim basis, pending the enforcement of such right in the normal course. As held in Cibane supra29:
+
+'In the absence of any statutory provision conferring jurisdiction on the Labour Court both in respect of employer conduct alleged to be unlawful and in employment-related matters generally, there can thus be no general rule, as the judgment in Booysen might be construed, to the effect that the Labour Court has jurisdiction to intervene in medias res to restrain any alleged illegalities, irregularities or unfairness in incomplete disciplinary proceedings.
+
+[37]    In casu, the applicant has a right, under section 188A(11) of the LRA, to refer a dispute to the CCMA for determination because he has alleged the disciplinary proceedings against him constitutes an occupational detriment as a result of a protected disclosure he had made. But does this mean that this process should stand in the way of the IDC nonetheless being entitled to continue with the internal disciplinary proceedings, whilst the process invoked by the applicant runs its ordinary course to fruition in the CCMA. This is where the requirement of exceptionality comes into its own. Therefore, I am satisfied that in this case, the applicant seeks to assert a right under the LRA, and this Court therefore has jurisdiction to afford the applicant interdictory relief he seeks, provided he satisfies the essential requirement of truly exceptional circumstances.
+
+[38]    In my view, not to consider the application could cause a grave injustice. I have dealt with this already under the heading of urgency above. I am therefore convinced that the necessary exceptional circumstances exist to justify the intervention of this Court at this juncture. I am therefore willing to entertain the merits of the applicant's application.
+
+Analysis 
+[2025] JOL 69964 (LC) at 18
+[39]  In a nutshell, the case of the applicant is that he has been visited with an occupational detriment, in the form of the disciplinary proceedings instituted against him, brought as a result of a protected disclosure he had made on 29 July 2025. This protected disclosure, in terms of the founding affidavit, pertains to a number of issues, dealt with in more detail below. This is thus a case founded on the Protected Disclosures Act (PDA)30, which provides that 'No employee may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure'.31 An occupational detriment includes, by definition in the PDA, the taking of disciplinary action.
+
+[40]    In casu, it was undisputed that the applicant made a disclosure to the IDC on 29 July 2025. The IDC disputes whether this qualified as a protected disclosure, but did concede in its answering affidavit that this disclosure was received and accepted by the IDC, processed, and then dealt with by a third party law firm. A disclosure made by an employee would qualify as a as a protected disclosure if it resorts under the definition of a 'protected disclosure' under section 1 of the PDA32.That requires proper consideration of what the applicant's disclosure of 29 July 2025 in fact contains. It is a fairly detailed document, but the gist of it can be summarized as follows. The applicant, as member of the employee relations team in the IDC, must serve as a neutral adjudicator in workplace discipline and be a steward of the employer-employee relationships. According to the applicant, these functions flow from the LRA, which requires the employee relations team to be able to function without fear or favour and in line with what is fair labour practices. The applicant raised a specific complaint that these objectives have been severely compromised, in particular by the head of department in the TMOE Unit,  
+[2025] JOL 69964 (LC) at 19
+being Mdaka. The applicant alleges instances of overt harassment, unfair discriminatory practices, threatening behaviour, and workplace intimidation. The applicant claims there are contraventions of the Constitution, the LRA and the EEA. The applicant also alleges a violation of human dignity. The applicant also does not baldly make these allegations, but provides examples of it and motivates it.
+
+[41]    I have little hesitation in concluding that, having proper regard to the contents of the applicant's disclosure, that it would qualify as a protected disclosure under section 1 of the PDA. In particular, there is are allegations that the head of department of the TCOE unit (Mdaka), being the very person that instituted the disciplinary proceedings against the applicant, is failing to comply with the legal obligations on her, the health of individuals is being compromised by her, and that there exists discrimination perpetrated by her, all of which form part of the definition in section 1 of the PDA.33 As pertinently held in Baxter v Minister of Justice and Correctional Services and Others34:
+
+'.  .  . it is important to note that the PDA does not require that the disclosures made are factually correct. The phrase 'tends to show' in s 1 of the PDA intends that it is sufficient if the information in the disclosure is indicative of an impropriety. Likewise, the requirement that the employee merely have a reason to believe that the information points to an irregularity does not require personal knowledge of the information disclosed. That would set too high a standard frustrating the operation of the PDA. Hearsay information, depending on its nature and cogency, may provide a basis for a reasonable belief of possible irregularity. .  .  .'
+
+[42]    The Court in Baxter supra in fact accepted that disclosures concerning employees who served on interview panels having failed to comply with  
+[2025] JOL 69964 (LC) at 20
+various legal obligations to which they were subject, would qualify under section 1 of the PDA. The Court decided:35
+
+'It is clear therefore that the disclosures made by the appellant relating to the irregularities in the various recruitment processes constituted disclosures in terms of the PDA. They disclosed information regarding the conduct of some members of the interview panels and Nxele which the appellant had reason to believe showed or tended to show that the members of the interview panels and/or Nxele had failed to comply with legal obligations to which they were subject in terms of the Public Service Regulations. The Labour Court erred in holding otherwise.'
+
+The applicant, in his disclosure of 29 July 2025, basically says the same kind of thing. No doubt it qualifies, by definition, as a protected disclosure under section 1 of the PDA.
+
+[43]    The IDC further disputed that the disclosure pre-dated the disciplinary proceedings, despite the disclosure being made as far back as 29 July 2025. The reason for IDC's contention in this regard is that before the applicant filed his disclosure, it had been internally discussed and resolved to discipline the applicant. The IDC refers to instructions having been given to its attorneys as far back as 22 July 2025 to advise on the issue of misconduct charges against the applicant, and shared documents with such attorneys on 24 July 2025. However, the attorneys were only formally instructed to advise whether in fact disciplinary proceeding should be instituted against the applicant on 31 July 2025. The recommendation to proceed with disciplinary action only followed on 31 August 2025, with the actual charges first being brought on 5 September 2025. These critical events only occurred after the applicant's disclosure had been made.
+
+[44]    I therefore cannot agree with this view adopted by the IDC. Whatever the IDC may have decided beforehand about possible disciplinary proceedings is of  
+[2025] JOL 69964 (LC) at 21
+no relevance in deciding this question. In fact, if the instruction to IDC's attorneys is considered, it also involved an investigation in order to decide whetehr the applicant in fact had a case to answer and then to arrive at a final charge sheet. It is certainly not beyond the realm of possibility that the decision to discipline made on 31 August 2025 and charges only brought on 5 September 2025 for the first time, could be influenced by the disclosure. In short, and until the charges are actually brought, who knows what they would be and what may motivate them. That is why it is an important consideration that the disclosure must pre-date the actual charges brought, for the simple reason that if the charges already exist and have already been presented to the employee, it can hardly be legitimately said that a disclosure filed after that fact could have motivated the charges. In any event, as a matter of law, disciplinary proceedings are only commenced when a charge sheet, or notice to attend a disciplinary hearing containing the charges, however one may call it, is issued to the employee.
+
+[45]    In Tshabalala v Moqhaka Local Municipality and Another36 the Court dealt with the Local Government: Disciplinary Regulations for Senior Managers, 2010, which contained provisions prescribing when disciplinary proceedings are commenced and when a disciplinary hearing is instituted, and the Court had the following to say:
+
+'What this construction contemplates is a disciplinary process that is commenced by the service of charges on the employee and which culminates in the conclusion of a disciplinary hearing. A disciplinary hearing is an integral part of the disciplinary process or proceedings; it does not constitute the proceedings in themselves.'
+
+[46]    I can see no reason why this same reasoning cannot be applied in casu, and the requirement that the disclosure needing to pre-date the institution of the disciplinary proceedings must mean that the disclosure must made before the charges are actually presented to the employee. What the employer may contemplate before actually charging the employee does not constitute the institution of disciplinary proceedings for the purposes of deciding whether an  
+[2025] JOL 69964 (LC) at 22
+employee qualifies under this jurisdictional requirement. Therefore, I accept that the applicant's disclosure on 29 July 2025 pre-dates the institution of the disciplinary proceedings against him by the IDC.
+
+[47]    One should also consider that on IDC's own version in the answering affidavit, Mdaka was actually aware, prior to the charges being proffered against the applicant for the first time (being on 22 August 2025), that the applicant was the one who raised the complaint against her.
+
+[48]    It is common cause that the applicant referred a dispute under section 188A(11) to the CCMA on 27 October 2025, and, as touched on above, the CCMA has in fact convened arbitration proceedings in order to determine whether or not to accept the referral and then conduct pre-dismissal arbitration under section 188A.
+
+[49]    So where does all the aforesaid leave the internal disciplinary hearing in the IDC? From the outset, it must always be remembered that Section 188A(11) is part and parcel of Section 188A, which envisages pre-dismissal arbitration by the CCMA in the stead of internal disciplinary hearings in the employer itself. Or in other words, it is a substitute for an internal disciplinary hearing.37 In ordinary circumstances, this process requires an agreement between the employer and the employee.38 However, section 188A(11) envisages that section 188A pre-dismissal proceedings may be unliterally invoked by either employer or employee, by way of a mere referral to the CCMA.39
+
+[50]    There is an important reason why this option of unilateral invoking of section 188A was afforded to the parties in the case of an alleged occupational  
+[2025] JOL 69964 (LC) at 23
+detriment as a result of a protected disclosure. This was succinctly described in Nxele v National Commissioner: Department of Correctional Services and Others40 as such:
+
+'Section 188A(11) was introduced into the LRA consequent to the amendments to the LRA that came into effect in 2015. The object of this provision is to avoid disputes where an employee claims that the holding of an enquiry into allegations of misconduct, and suspension pending such an enquiry, breach the provisions of the PDA. The section accordingly permits either party to insist on an enquiry under s 188A with a view to reduce the risk of collateral litigation, including High Court litigation, which had been common in these circumstances.'
+
+[51]    And in Ntombela v Community Scheme Ombud Service (CSOS) and Others41 the Court referred with approval to the following dictum from an unreported judgment in Jacobs and Others v National Commissioner of South African Police Service and Another:42
+
+'Obviously, section 188A(11) is not necessarily a scheme to challenge the alleged occupational detriment in terms of the PDA, per se. However, it is a mechanism aimed at avoiding collateral litigation where an employee claims that, the holding of a disciplinary enquiry into allegations of misconduct or suspension pending such an enquiry, offends the provisions of the PDA. Whilst the PDA protects employees who make a protected disclosure, "section 188A(11) aims to strike a balance between taking no action because the person allegedly guilty of misconduct is a whistle-blower in terms of PDA or allowing a disciplinary process, with the safeguard being that the disciplinary process has to be done in a manner that is entirely independent of the employer.' 
+[2025] JOL 69964 (LC) at 24
+[52]  In the case of section 188A(11), what must be established by the applicant for pre-dismissal arbitration to be accepted is the following, as appositely set out in Mamodupi v Property Practitioners Regulatory Authority and Another:43
+
+'.  .  . The occupational detriment must be retaliatory in form and be connected to the making of the protected disclosure. Accordingly, in my view the provisions of the sub-section are evocable if the following jurisdictional facts are present in the order set out below:
+
+The employee must make a protected disclosure;
+Thereafter, the employer must subject the employee who already made a protected disclosure to an occupational detriment;
+Once so subjected, an employee must allege honestly and sincerely so that a causal connection does exist between his or her protected disclosure and the occupational detriment. Differently put, it is because of having made a protected disclosure that an employer chose to respond by an occupational detriment.'
+
+The Court in Mamodupi supra concluded:44
+
+'In my view if any of the above stated jurisdictional facts is absent, sub-section 188A (11) cannot be invoked. Therefore, to my mind, the council; accredited agency and the commission must refuse to entertain the request that an inquiry be conducted in terms of this sub-section if any of the jurisdictional facts are absent.  .  ..'
+
+[53]    In Foskor supra, even though the Court agreed in general with the jurisdictional requirements as set out in Mamodupi, the Court warned that one should be careful not to set the bar too high where it comes to the requirement of establishing a nexus between the protected disclosure and the conducting of the discipline, where it comes to deciding whether to accept pre-dismissal arbitration under section 188A(11). In other words, The Court in Foskor believed these requirements cannot be said to mean that the applicant party must actually prove that an occupational detriment based on a protected  
+[2025] JOL 69964 (LC) at 25
+disclosure at least prima facie exists. The Court in Foskor appositely held in this respect:45
+
+'In Mamodupi the Court articulated the test for proceeding with the enquiry as being whether the employee has established the prima facie factual existence of a contravention. I agree in general with this formulation, but not if it is interpreted to mean that every element required to establish an unfair labour practice relating to an occupational detriment must be established on a prima facie basis to pass the threshold of s 188A(11). That dispute falls outside the remit of an arbitrator deciding whether to hear the disciplinary or incapacity case. The assessment of the employee's bona fide belief as a precursor to the statutory enquiry also does not require that level of scrutiny, because the issue the arbitrator will decide is not the merits of their occupational detriment claim, but the merits of the employer's case of misconduct or incapacity .  .  .'
+
+[54]    Therefore, it is not necessary for the employee, in this context, to also establish that the disciplinary proceedings against him or her constitutes a contravention of the PDA and that the employee therefore qualifies for protection as a result.46 As held in National Commissioner: Department of Correctional Services v Nxele and Another47:
+
+'There is no dispute that Mr Nxele made a protected disclosure in 2018. The issue on appeal is whether the Labour Court was correct in finding that he had alleged in good faith that the holding of a disciplinary enquiry on the 2022 charges amounted to a contravention of the PDA and whether he was therefore entitled to have the disciplinary proceedings converted into an inquiry by arbitrator under section 188A(11) of the LRA.
+
+[55]    There is no obligation on an employee who seeks to rely on section 188A(11) to prove that the holding of the disciplinary hearing constitutes a contravention of the PDA. Rather, what is required is that the employee alleges in good faith that the holding of an inquiry does so.' 
+[2025] JOL 69964 (LC) at 26
+[56]  The aforesaid means, in my view, that it all practicably unfolds as follows, in the case of this avenue being pursued by the employee. The employee refers a dispute to the CCMA under section 188A(11), alleging that the current disciplinary proceedings, which have not yet commenced but is immanent, constitutes an occupational detriment as a result of a protected disclosure.48 In making this referral, the employee must at the very least seek to establish that the disclosure that has been made to his or her employer, and would qualify as a protected disclosure under section 1 of the PDA. The employee must also establish that the employer received such disclosure or was aware of it. And finally, the employee must establish that he or she has a genuine (bona fide), honest and sincere belief that a causal connection (nexus) exists between his or her protected disclosure and the occupational detriment. The Court in Independent Municipal and Allied Trade Union and Another v City of Matlosana Local Municipality and Another49 had the following to say where it comes to establishing such a nexus:
+
+'.  .  . Thus, what I am required to establish is the 'proximate cause' of the disciplinary enquiry. It is clear that a disciplinary enquiry against an employee need not necessarily be the direct result of a disclosure. I propose that a useful and practical approach is to consider factors such as (i) the timing of the disciplinary enquiry; (ii) the reasons given by the employer for taking the disciplinary steps; (iii) the nature of the disclosure; (iv) and the persons responsible within the employer for taking the decisions to institute charges. .  .  .'
+
+But importantly, in Fisher supra, the Court decided:50
+
+'.  .  . it is up to the appointed arbitrator at the CCMA to first decide whether or not the employee has established these jurisdictional pre-requisites, to engage the jurisdiction of the CCMA under section 188A(11), after considering evidence in this regard presented by the parties. In other words, the mere referral of the section 188A(11) dispute to the CCMA does not mean  
+[2025] JOL 69964 (LC) at 27
+that it automatically substitutes the internal disciplinary proceedings with pre-dismissal arbitration proceedings at the CCMA. It must be up to the arbitrator to decide whether to permit that the proceedings under section 188A be conducted. The important point is that this decision is left up to the arbitrator. It should not be required of the Labour Court to decide this question. .  .  .'
+
+[57]    Therefore, I do not believe it is correct, as Counsel for the IDC argued, that this Court should enquire into the actual existence of a nexus between the protected disclosure and the disciplinary proceedings against the applicant. This Court cannot be the gatekeeper for access to the CCMA under section 188A(11) and effectively decide this issue for it, which is what such an enquiry would actually involve.51
+
+[58]    The further argument of the Counsel for IDC, namely that to set the bar so low would lead to the abuse of section 188A(11) by employees seeking to avoid disciplinary proceedings against them, is also unsustainable, for the simple reason that this is not how section 188A(11) works. I accept that there is an unfortunate penchant by senior employees, especially in the public sector, to seek to interdict disciplinary proceedings pending review challenges in medias res. In such cases, because there is no basis to urgently decide a review application and the conclusion of review applications takes years, the employee in essence avoids being disciplined, and this is to be strongly discouraged. As opposed to this, however, section 188A(11) simply does not cause such an eventuality. What it does, effectively, is to substitute internal disciplinary proceedings with disciplinary proceedings under the auspices of the CCMA. And all this happens quickly. The case in casu is an example in point. The referral by the applicant was made on 27 October 2025, and the first sitting of the CCMA is on 17 November 2025. In these circumstances, it can hardly be said that an employee can abuse section 188A(11) to avoid being disciplined, because all the employee will achieve is to have the charges against him or her independently decided by the CCMA, however the disciplinary proceedings itself nonetheless proceed without undue delay. In short, to try and use section 188A(11) to prevent being disciplined will have no point.
+
+ 
+[2025] JOL 69964 (LC) at 28
+
+[59]    In the end, when the proceedings then come before the arbitrator, and once he or she has considered whether the above jurisdictional requirements have been met, then decides that there does not exist a qualifying protected disclosure linked to an occupational detriment, then the arbitrator will decline to convene actual pre-dismissal arbitration proceedings under section 188A, and the matter will simply revert back to the employer for a continuation of the internal disciplinary hearing.52 However, and if the referral is accepted by the arbitrator, it means that section 188A pre-dismissal arbitration proceedings at the CCMA under section 188A(11) must happen, and this would be conducted under the normal procedure applicable to all disputes dealt with by the CCMA under section 188A. Therefore, in the case of an alleged misconduct dispute, the appointed arbitrator must decide, on a balance of probabilities, whether the employee committed the misconduct with which or she has been charged.53 The employer would obviously have to prove its case in this regard, and present proper evidence to substantiate such a conclusion by the arbitrator. If the arbitrator decides the misconduct is not proven, then that is the end of the matter, the employee is effectively finally acquitted, and no further proceedings follow relating to these misconduct allegations, subject of course to the employer's right of review under section 145(1) of the LRA, as a determination by an arbitrator under section 188A is dealt with in the same manner as an arbitration award by a CCMA arbitrator in any dispute under the LRA.54 If the arbitrator accepts misconduct has been committed, then the arbitrator must decide on an appropriate penalty (sanction) based on the particular facts and considerations of fairness. The arbitrator may impose the  
+[2025] JOL 69964 (LC) at 29
+sanction of dismissal. Where the arbitrator finds that the employee be dismissed, that is equally the end of the matter and the employee's employment is terminated, with no further challenges being permissible, subject also only to the right of the employee to review the determination by way of application to the Labour Court. In Kubheka v Member of the Executive Council: Human Settlements (Gauteng Provincial Government) and Another,55 the Court held as follows:
+
+'The s 188A of the LRA scheme catapults the disciplinary process to statutory arbitration at the instance of the employee's consent to forgo the right to the security and comfort of both processes. Equally, the employer relinquishes its prerogative to enforce the disciplinary measures to the arbitrator. The yield to both parties is the impartial adjudicator, costs saving and expeditious outcome.'56
+
+[60]    What is important to bear in mind is that the arbitrator, when conducting the proceedings under section 188A(11), does not decide whether the disciplinary proceedings against the employee is irregular or unlawful or somehow compromised because of the protected disclose, or whether the employees qualifies for protection under the PDA.57 Simply put, the arbitrator does not decide a protected disclosure case, once the referral is accepted.58 The arbitrator cannot, for example, issue a ruling or determination that any discipline against the employee be terminated because of the protected disclosure, as the arbitrator has no jurisdiction to do so.59 All the arbitrator can do is to conduct what is in essence an independent disciplinary hearing in respect of the misconduct charges against the employee, and decide whether  
+[2025] JOL 69964 (LC) at 30
+these charges have substance and what penalty should be imposed on the employee if the misconduct was found to have been committed. This was made clear in Foskor supra as follows:60
+
+'.  .  . the enquiry conducted by the arbitrator will be concerned only with whether the employer proves the allegations of incapacity or misconduct and any consequences which might flow from that. In the absence of such an arrangement, the arbitrator conducting the misconduct or incapacity inquiry has no authority to determine if the employee has suffered an occupational detriment because they made a protected disclosure. Therefore, the employee cannot use the procedure to vindicate their claim that the disciplinary action of the employer amounts to an occupational detriment under the PDA.'
+
+[61]    An employee believing that he or she is being subjected to an occupational detriment as a result of making a protected disclosure, in the form of being disciplined, should very carefully consider whether they wish to invoke section 188A(11). This is because of section 188A)(12), which reads: 'The holding of an inquiry by a arbitrator in terms of this section and the suspension of an employee on full pay pending the outcome of such an inquiry do not constitute an occupational detriment as contemplated in the Protected Disclosures Act .  .  .'. What this means is that an employee, who may be found by an arbitrator to have committed the misconduct with which he or she has been charged, and then dismissed as a result, cannot pursue the occupational detriment issue any further, as for example an automatic unfair dismissal under section 187(1)(h) of the LRA. Where completely independent and impartial arbitration, conducted by a body specifically designated for such pursue by way of the LRA, determines that an employee be dismissed for proven misconduct, that must finally dispose of any notion that the dismissal is motivated by the employee making a protected disclosure.61
+
+[62]    Therefore, pre-dismissal arbitration under section 188A(11) is a process that completely substitutes the internal disciplinary hearing in all respects. The two  
+[2025] JOL 69964 (LC) at 31
+processes cannot exist side by side. Once the pre-dismissal arbitration proceedings are convened, then internal disciplinary proceedings must terminate. This was made pertinently clear in a number of judgments. First, in Foskor supra it was held:62 '.  .  . If the request for a statutory hearing is successful, it merely means that the internal incapacity or misconduct inquiry is substituted with an arbitration presided over by a completely independent chairperson .  .  .'. Next, and in the Labour Court judgment in Nxele supra, it was stated:63 '.  .  . The internal disciplinary enquiry that would have commenced and is pending must terminate .  .  .'. The same sentiment was in expressed in SA Broadcasting Corporation SOC Ltd v Phasha64 as follows: '.  .  . The essence of s 188A is to provide for a pre-dismissal arbitration which substitutes arbitration before an independent arbitrator for a disciplinary enquiry .  .  .'. As lastly, as succinctly said in Tsibani v Estate Agency Affairs Board and Others:65
+
+'Section 188A(11) does not envisage the holding of two parallel hearings. Section 188A provides for an inquiry into allegations relating to an employee's conduct or capacity and for such an inquiry to be conducted by an arbitrator, in accordance with the provisions of the said section. If the inquiry relates to allegations relating to an employee's conduct, the section 188A inquiry will happen instead of an internal disciplinary hearing.'
+
+[63]    Returning to the case in casu, I am satisfied that the jurisdictional requirements under section 188A(11), as discussed above, have been met. This is because, firstly, the applicant had made a disclosure that qualifies as a protected disclosure to the IDC. Secondly, there can be no denial that the IDC was aware of it. It actually does not matter whether the applicant's immediate superior (Mdaka) was aware of it, but nonetheless, she clearly was aware prior to the actual charges being proffered against the applicant. Thirdly, it is clear that the disclosure pre-dated the institution of the disciplinary proceedings. And finally, there is a referral by the applicant of a dispute as contemplated by section 188A(11) to the CCMA, and this referral has in fact led to a set down date being scheduled at the CCMA for 17 November 2025.
+
+ 
+[2025] JOL 69964 (LC) at 32
+
+[64]    Considering all the aforesaid, the CCMA arbitrator must now be given the opportunity to discharge his or her duties by deciding, following the proceedings on 17 November 2025, whether the referral qualifies for acceptance as being a bona fide allegation of a protected disclosure as contemplated by section 188A(11), for the purposes of further deciding whether or not to convene pre-dismissal arbitration proceedings under section 188A. It is in this context that the CCMA arbitrator is the one that must decide if the nexus between the disciplinary proceedings and the protected disclosure, which was the subject matter of much emphasis by the Counsel for the IDC, exists. This Court should decline to usurp these functions specifically bestowed on the arbitrator, by not becoming involved in this determination. As decided in Foskor supra:66
+
+'The next issue is whether it is appropriate for the Labour Court to determine whether or not the statutory enquiry can proceed? The request is made to the CCMA or relevant Bargaining Council. It is the commissioner or panellist who is called upon to preside in the enquiry and therefore is first seized with the question whether the request has been properly made. As far as possible, this Court should not be usurping that primary role by determining the jurisdictional question in the form of issuing a declarator before the request has even been considered by the arbitral forum. This is exactly what this Court would be doing if it considered whether Matlala is entitled to the primary relief he seeks .  .  .'
+
+[65]    In summary, it is my view that the applicant has properly initiated a process under the LRA which, if accepted by the CCMA, would serve to finally terminate the internal disciplinary proceedings in the IDC, and substitute the same with pre-dismissal arbitration under the auspices of the CCMA. It is also true that the decision in this regard has not yet been made by the allocated CCMA arbitrator. All this being the case, it would be entirely inappropriate and in my view in fact irregular to allow the IDC to proceed with the internal disciplinary hearing, and as such, it must be interdicted. The applicant has  
+[2025] JOL 69964 (LC) at 33
+thus shown a clear right in this respect. As succinctly stated in Tsibani supra:67
+
+'Section 188A(11) entitles an employee, who is about to be subjected to an internal disciplinary process and who alleges in good faith that the intended disciplinary hearing contravenes the PDA, to instead request an inquiry be conducted in terms of section 188A. I see no reason why, if an employer, under circumstances where the employee complies with the requirements of section 188A(11), refuses to have the inquiry into the conduct or capacity of the employee conducted in terms of section 188A, the employee would not be entitled to approach this Court for an order interdicting the impending internal disciplinary hearing and an order directing that the inquiry pertaining to the employee's conduct or capacity be conducted in terms of section 188A of the LRA.'
+
+[66]    If the internal disciplinary proceedings against the applicant in IDC are not interdicted, and allowed to continue, the applicant would face the dubious prospect of having to participate in an internal disciplinary hearing which could have no lawful consequence and could rightly be considered to be terminated. Secondly, this situation may then require and / or lead to all kinds of collateral challenges and litigation to address the issue going forward, which is the very thing that section 188A(11) seeks to avoid. And finally, it would also deprive the applicant of the opportunity to avail himself of the protection of an independent determination of the misconduct charges against him, where internal disciplinary proceedings may be compromised as a result of the protected disclosure he has made.68 I believe the following statement made by the applicant in the founding affidavit to be pertinent:
+
+'As the charged employee, I have absolutely no problems facing a disciplinary hearing to answer the preferred charges, which I have confidence I will be vindicated. I however do not believe that the current arrangement of my  
+[2025] JOL 69964 (LC) at 34
+disciplinary hearing will result in the hearing being conducted fairly in view of protected disclosures I have made against the Respondent and the apparent and enormous influence of Ms Lydia Mdluli in the whole disciplinary case .  .  .'
+
+[67]    As opposed to the aforesaid prejudice faced by the applicant, the IDC will suffer little harm. If the CCMA arbitrator ultimately decides the referral does not qualify, the status quo is automatically restored, and the internal disciplinary proceedings are then simply reinstated / reinstituted. And if the CCMA accepts the referral, the IDC still has the opportunity to prove the misconduct charges against the applicant, and if successful, secure his dismissal. It will also have the added benefit of the nature of the pre-dismissal arbitration proceedings under section 188A, which would finally dispose of the protected disclosure issue as a basis to challenge any dismissal following on such process.
+
+[68]    I must confess that I have difficulty in understanding why the IDC would not be supportive of proceedings under section 188A of the LRA under the auspices of the CCMA, considering what had transpired internally so far, as this process would actually put paid to all the complaints by the IDC of the applicant's delaying / Stalingrad tactics. These proceedings are under the control of the CCMA, which institution is well known for the expeditious resolution of disputes. Considering that the Rules of the CCMA would apply, delaying tactics the applicant may wish to pursue would be a dubious prospect indeed.
+
+[69]    I am therefore satisfied that the applicant has made out a proper case of undue prejudice should the IDC proceed with the internal disciplinary hearing, despite his invoking of section 188A(11) of the LRA. Overall, considerations of prejudice favour the applicant.
+
+[70]    Lastly, and on the issue of the availability of a suitable alternative remedy, this has to a large extent already been dealt with, above. I am satisfied that no suitable alternative remedy exists, as the process under section 188A(11) can in itself be described as he appropriate alternative remedy available for issues  
+[2025] JOL 69964 (LC) at 35
+relating to occupational detriments based on protected disclosures.69 There is really nothing else the applicant can do to assert his rights in this regard. The only other option would be, should he be dismissed, to pursue an automatic unfair dismissal claim, but this is reactive, and cannot serve to achieve the objectives envisaged by section 188A(11).70 I again refer to Foskor supra, where the following sentiments were expressed:71
+
+'.  .  . Matlala has acted with speed in bringing this application, the prejudice to the employer of the delay must be balanced against Matlala's lost opportunity of an inquiry before an arbitrator. Matlala has no other suitable way of effectively preserving his right to have his request considered. Whatever the merits of his request are, that should be determined by the forum considering it and granting interim relief would facilitate that .  .  .'
+
+And in Gallocher v Social Housing Regulatory Authority and Another72 it was held:
+
+'Also, the nature of the effect of occupational detriments on employees is an issue that cries out for urgent intervention by this Court, especially where an employee has not been dismissed. There is provision in the LRA for an automatic unfair dismissal claim where an employee is dismissed due to an occupational detriment, but this would not apply in this case. There is no other remedy available to stop the detriment short of dismissal being visited upon an employee, other than by way of immediate intervention by this Court. Insofar as it can be said that the applicant's pending unfair labour practice dispute referred to the CCMA is an alternative remedy, it can even be said that approaching this Court is not competent without such a referral, making the prior referral necessary for this application.'
+
+Conclusion
+
+[71]    In sum, I am satisfied that the applicant has met the requirements necessary in order for him to obtain the relief he seeks. The applicant has a clear right to the relief he seeks, has no alternative remedy available to him, and  
+[2025] JOL 69964 (LC) at 36
+considerations of prejudice favour him. The applicant's application must thus succeed.
+
+[72]    However, it must be reiterated that as yet, the CCMA had not finally decided whether the applicant's referral under section 188A(11) is to be entertained, as the hearing to decide that is only scheduled for 17 November 2025. Any interdict granted must account for the fact that it must lapse if the CCMA decides not to accept such referral, and this matter then reverts back to an internal disciplinary hearing. The relief afforded must therefore reflect that the internal disciplinary proceedings be interdicted pending the decision of the CCMA. The relief must also cater for the fact that the internal disciplinary proceedings must terminate of the CCMA accepts the referral and convened pre-dismissal arbitration proceedings. The order I grant will reflect this.
+
+Costs
+
+[73]    In terms of section 162(1), I have a wide discretion where it comes to the issue of costs. Even though the applicant was successful, I am not inclined to make any costs award against the IDC, considering that the parties have an ongoing relationship with one another. I also consider that further proceedings between them are a certainty, and in such context it would not be appropriate to mulch either one with a costs order at this stage.73 I am also mindful of the dictum of the Constitutional Court in Zungu v Premier of the Province of Kwa-Zulu Natal and Others74 where it comes to costs awards in employment disputes before this Court, and I do not consider there to be sufficient reason to depart from this. For all these reasons, I exercise the wide discretion I have by making no order as to costs.
+
+[74]    For all the reasons as set out above, I make the following order:
+
+Order
+
+The application is heard as one of urgency in terms of Rule 38. 
+[2025] JOL 69964 (LC) at 37
+The internal disciplinary enquiry at the first respondent into the charges of misconduct against the applicant, is interdicted and suspended pending a decision by the arbitrator appointed by the second respondent whether the disciplinary enquiry should be conducted in accordance with Section 188A(11) of the Labour Relations Act.
+In the event that the arbitrator appointed by the second respondent decides that the disciplinary enquiry shall be conducted in accordance with Section 188A(11) of the Labour Relations Act under the auspices of the second respondent, the internal disciplinary enquiry at the first respondent shall be considered and regarded to be finally terminated.
+In the event that the arbitrator appointed by the second respondent decides that the disciplinary enquiry shall not be conducted in accordance with Section 188A(11) of the Labour Relations Act under the auspices of the second respondent, the internal disciplinary enquiry at the first respondent may recommence forthwith, and the interdict granted in terms of paragraph 2 of this order shall automatically lapse.
+There is no order as to costs.
+
+
+Footnotes
+1	  Act 66 of 1995 (as amended).
+2	  Setlogelo v Setlogelo 1914 AD 221 at 227; Masstores (Pty) Ltd v Pick 'n Pay Retailers (Pty) Ltd 2017 (1) SA 613 (CC) at para [8]; V & A Waterfront Properties (Pty) Ltd and Another v Helicopter and Marine Services (Pty) Ltd and Others 2006 (1) SA 252 (SCA) at para [20]; Mere v Tswaing Local Municipality and Another (2015) 36 ILJ 3094 (LC) at para [4].
+3	  1984 (3) SA 623 (A) at 634E-635C. See also Jooste v Staatspresident en Andere 1988 (4) SA 224 (A) at 259C – 263D; National Director of Public Prosecutions v Zuma 2009 (2) SA 277 (SCA) at paras [26] – [27]; Rail Commuters Action Group and Others v Transnet Ltd t/a Metrorail and Others 2005 (2) SA 359 (CC) at para [53].
+4	  See Minister of Justice and Correctional Services and others v Tshifhango and Another [2019] 7 BLLR 627 (LAC) at para [26]; TIBMS (Pty) Ltd t/a Halo Underground Lighting Systems v Knight and Another (2017) 38 ILJ 2721 (LAC) at para [29]; SA Football Association v Mangope (2013) 34 ILJ 311 (LAC) at para [12].
+5	  Act 55 of 1998 (as amended).
+6	  (2010) 31 ILJ 112 (LC) at para [18].
+7	  Mojaki v Ngaka Modiri Molema District Municipality and Others (2015) 36 ILJ 1331 (LC) at para [17]; East Rock Trading 7 (Pty) Ltd and Another v Eagle Valley Granite (Pty) Ltd and Others [2012] JOL 28244 (GSJ) at para [6].
+8	  (2014) 35 ILJ 2479 (LC) at para [32]. See also Transport and Allied Workers Union of SA v Algoa Bus Co (Pty) Ltd and Others (2015) 36 ILJ 2148 (LC) at para [11].
+9	  [2002] JOL 9452 (LC) at para [8].
+10	  [2000] 4 BLLR 469 (LC) at para [11].
+11	  (2016) 37 ILJ 2840 (LC) at para [26]. See also IL & B Marcow Caterers (Pty) Ltd v Greatermans SA Ltd and Another 1981(4) SA 108 (C) at 113D-114C.
+12	  See Golding v HCI Managerial Services (Pty) Ltd and others [2015] 1 BLLR 91 (LC) at para [24]; National Union of Mineworkers v Lonmin Platinum Comprising Eastern Platinum Ltd and Western Platinum Ltd and Another (2014) 35 ILJ 486 (LC) at para [50].
+13	  Id at para [26]. See also Sihlali and Others v City of Tshwane Metropolitan Municipality and Another (2017) 38 ILJ 1692 (LC) at para [18].
+14	  In Continuous Oxygen Suppliers (Pty) Ltd t/a Vital Aire v Meintjes and Another (2012) 33 ILJ 629 (LC) at para [21] it was said that: '. . . In my view, litigants should be encouraged in any attempt to avoid litigation, rather than rushing to Court as a first option. Litigation is costly and often unnecessary. . . .'. See also A J Charnaud & Co (Pty) Ltd v Van der Merwe and Others (2020) 41 ILJ 1661 (LC) at para [5].
+15	  (2025/189683) [2025] ZALCJHB 514 (28 October 2025) at para [12].
+16	  (2013) 34 ILJ 706 (LC).
+17	  See para [12] of the judgment.
+18	  Id at para [13].
+19	  (2025/169524) [2025] ZALCJHB 478 (22 October 2025) at para [31].
+20	  (2010) 31 ILJ 296 (CC) at para [74].
+21	  Section 157(1) reads: 'Subject to the Constitution and section 173, and except where this Act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters that elsewhere in terms of this Act or in terms of any other law are to be determined by the Labour Court'.
+22	  Section 158(1) reads: '(1) The Labour Court may (a) make any appropriate order, including (i) the grant of urgent interim relief (ii) an interdict; (iii) an order directing the performance of any particular act which order, when implemented, will remedy a wrong and give effect to the primary objects of this Act; (iv) a declaratory order . . ..'
+23	  (2011) 32 ILJ 112 (LAC) at para [54].
+24	  (2012) 33 ILJ 2033 (LAC) at para [46]. See also Uthukela District Municipality (supra) at para [38]; Ngobeni v Passenger Rail Agency of SA Corporate Real Estate Solutions and Others (2016) 37 ILJ 1704 (LC) at para [12]; Food and Allied Workers Union and Others v Premier Foods Ltd t/a Blue Ribbon Salt River (2013) 34 ILJ 1171 (LC) at para [15].
+25	  Id at para [17]
+26	  [2025] 10 BLLR 1004 (LAC).
+27	  (2016) 37 ILJ 564 (CC) at para [106].
+28	  Id at para [24].
+29	  Id at para [27].
+30	  Act 26 of 2000.
+31	  See section 3 of the PDA.
+32	  Section 1(1)(i) of the PDA defines the term 'disclosure' as being any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following: (1) That a criminal offence has been committed, is being committed or is likely to be committed; (2) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject; (3) that a miscarriage of justice has occurred, is occurring or is likely to occur; (4) that the health or safety of an individual has been, is being or is likely to be endangered; (5) that the environment has been, is being or is likely to be damaged; and (6) unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000).
+33	  In Radebe and Another v Marshoff, Premier of the Free State Province and Others (2009) 30 ILJ 1900 (LC) at para [53], it was said: 'For a disclosure to be a disclosure in terms of the Act, it must have all the elements, being the following: (1)disclosure of information; (2)regarding any conduct of an employer or an employee of that employer; (3) made by any employee who has reason to believe; (4) that the information concerned shows or tends to show one or more of the following improprieties listed in paras (a)-(g) . . .'.
+34	  (2020) 41 ILJ 2553 (LAC) at para [67].
+35	  Id at para [74]. See also John v Afrox Oxygen Ltd (2018) 39 ILJ 1278 (LAC) which also dealt with a protected disclosure based on an allegation that regrading of employees' positions was not in compliance with the employer's legal obligation. The Court held at para [39]: '. . . In the light of the above, the appellant reasonably believed that the regrading process was done in a manner that violated the legal obligation to which the respondent was bound and it was reasonable to have made the disclosure . . .'.
+36	  (2025) 46 ILJ 590 (LAC) at para [7].
+37	  In SA Transport and Allied Workers Union and Others v MSC Depots (Pty) Ltd and Others (2013) 34 ILJ 706 (LC) at para [19], the Court said: '. . . Section 188A holds the promise of the expeditious resolution of disputes about employee conduct and the swift imposition of a fair sanction for any proven misconduct . . .'.
+38	  Section 188A(1) refers to consent being given by the employee of such a process, or a collective agreement providing for the same.
+39	  In Nxele v National Commissioner: Department of Correctional Services and Others (2018) 39 ILJ 1799 (LC) at para [30], the Court held: 'The use of the words 'despite subsection (1)' in s 188A(11) clearly shows that the legislature deliberately stripped the employer of its discretion to unilaterally trigger a s 188A hearing, subject to the employee's consent. At the advent of s 188A(11), employees may 'require' or 'insist' that the disciplinary enquiry be conducted in accordance with s 188A, termed 'pre-dismissal arbitration'. The word 'require' in s 188A(11), given its ordinary meaning, means to enjoin, oblige, constrain, command, decree, demand, dictate, direct, etc . . .'.
+40	  (2018) 39 ILJ 1799 (LC) at para [26]. This judgment was upheld by the LAC in National Commissioner: Department of Correctional Services v Nxele and Another [2025] 5 BLLR 472 (LAC). See also Letsoalo and Others v Minister of Police and Others (2016) 37 ILJ 1916 (LC) at para [26].
+41	  [2024] JOL 63608 (LC) at para [13].
+42	  At para [21] of such judgment.
+43	  (J68/23) [2023] ZALCJHB 19 (13 February 2023) at para [45].
+44	  Id at para [47].
+45	  Id at para [49].
+46	  This would entail, as set out in TSB Sugar RSA Ltd (now RCL Food Sugar Ltd) v Dorey (2019) 40 ILJ 1224 (LAC) at para [56]: '. . . first to determine whether the various disclosures of information constitute disclosures as defined in s 1 of the PDA; secondly, to decide if the disclosures are protected disclosures, as contemplated in s 1, read with s 6 of the PDA; and thirdly, whether Dorey was subjected to an occupational detriment (discipline and dismissal) by RCL on account, or partly on account, of having made a protected disclosure . . .'.
+47	  [2025] 5 BLLR 472 (LAC) at paras [13] – [14].
+48	  In Mamodupi (supra) at para [51], the Court said: 'In practical terms, any request in terms of subsection 188A (11) must be accompanied by the proof of the protected disclosure made, which must predate the charge sheet – commencement of a disciplinary action . . .'.
+49	  (2014) 35 ILJ 2459 (LC) at para [77].
+50	  Id at para [35].
+51	  Fisher (supra) at para [35].
+52	  See Mudau v Metal and Engineering Industries Bargaining Council and Others (2013) 34 ILJ 663 (LC) at paras [16] – [17]; Fisher (supra) at para [36].
+53	  In Mudau (supra) at para [19], the Court held: '. . . The task of arbitrators in terms of s 188A is slightly different in that in that regard the task is to determine on a balance of probabilities whether an employee has committed an offence for which he or she has been charged and, if so, whether there is a basis in fairness to terminate the employment relationship between the parties. In other words, the terms of reference for the arbitrator in terms of s 188A are, unless indicated otherwise, limited to determining whether an employee has committed an offence and, if so, whether there exists a basis in fairness to terminate the employment relationship . . .'.
+54	  In Solidarity on Behalf of Kruger v Transnet SOC Ltd t/a Transnet National Ports Authority and Others (2021) 42 ILJ 852 (LAC) at para [18], it was held: 'Arbitration awards issued by an arbitrator in terms of s 188A are final and binding. Such awards may be reviewed by the Labour Court in terms of s 145(1) when issued by an arbitrator acting under the auspices of the CCMA or a bargaining council . . .'. Similarly, in Mudau (supra) at para [20], it was said: 'An arbitration award made in terms of s 188A is reviewable in terms of s 145 of the LRA . . .'. See also Maeta v Bidvest Services (Pty) Ltd and Others (2024) 45 ILJ 2587 (LC) at para [35].
+55	  (2021) 42 ILJ 1497 (LC) at para [26].
+56	  Of course, and in the case of section 188A(11), no consent is required.
+57	  An employee would so qualify on the basis as described in Palace Group Investments (Pty) Ltd and Another v Mackie (2014) 35 ILJ 973 (LAC) at para [15], as follows: '. . . not all disclosures are protected in the sense of protecting the employee making the disclosure from being subjected to an occupational detriment by the employer implicated in the disclosure. A protected disclosure is defined as a disclosure made to the persons/bodies mentioned in ss 5, 6, 7, 8 and 9 and made in accordance with the provisions of each of such sections. In terms of s 6, for a disclosure to fall within the ambit of a protected disclosure it must have been made in good faith. It is clear that before other provisions of the PDA can come into play, the disclosure allegedly made must answer to the definition of that term as set out in the definitions section . . .'.
+58	  Fisher (supra) at para [37].
+59	  See Feni v Pan SA Language Board (2011) 32 ILJ 2136 (LC) at paras [19] – [20]; NEHAWU v Office of the Premier: Limpopo Provincial Government 2022 JDR 1969 (LC) at paras [9] – [10].
+60	  Id at para [45]. See also Tsibani v Estate Agency Affairs Board and Others [2021] JOL 51625 (LC) at para [72]; Fisher (supra) at para [37].
+61	  Tsibani (supra) at para [63]; Fisher.
+62	  Id at para [44].
+63	  Id at para [32]. In Mudau (supra) at para [16], the exact same thing was said.
+64	  (2021) 42 ILJ 816 (LC) at para [24].
+65	  [2021] JOL 51625 (LC) at para [67].
+66	  Id at para [50]. See also Fisher (supra) at para [41].
+67	  Id at para [64].
+68	  As said in Foskor (supra) at para [51]: 'Should the Court then grant interim relief by suspending the internal inquiry pending the decision of the CCMA commissioner whether to proceed with the s 188A(11) enquiry? If the Court does not stay the internal enquiry, Matlala could be denied the opportunity of exercising his right to request the statutory enquiry because, unless the request for the statutory enquiry is accepted, the employer can proceed with the internal one in the meantime . . .'. See also Fisher (supra) at para [43].
+69	  See Letsoalo (supra) at para [27].
+70	  Fisher (supra) at para [47].
+71	  Id at para [52].
+72	  (2019) 40 ILJ 2732 (LC) at para [82].
+73	  See Gallocher (supra) at para [85].
+74	  (2018) 39 ILJ 523 (CC) at para [25].
+
+Appearance:
+Mr K J Selela, K J Selela Attorneys (At); Advocate T Manchu SC, Advocate S Lindazwe, Werksmans Attorneys (1R)
+
+
+End of Document

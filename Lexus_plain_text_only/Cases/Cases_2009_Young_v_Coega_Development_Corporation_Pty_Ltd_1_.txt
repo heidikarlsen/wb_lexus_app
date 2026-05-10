@@ -1,0 +1,194 @@
+
+
+
+
+Young v Coega Development Corporation (Pty) Ltd (1) [2009] 6 BLLR 597 (ECP)
+Labour Law Reports
+
+Division: Eastern Cape High Court, Port Elizabeth
+Case No: 699/2009
+Date: 20/03/2009
+Before: F Kroon, Judge
+Keywords
+
+
+Urgent application
+High Court — Jurisdiction in labour matters — Court having jurisdiction to entertain urgent applications and actions arising from infringements of employee’s rights under Protected Disclosures Act 26 of 2000.
+Protected disclosures — Occupational detriment — What constitutes — Subjecting employee to disciplinary action for making protected disclosure constituting occupational detriment.
+Whistle-blowers — Chief financial officer disclosing allegations of wrongdoing by chief executive officer and subjected to disciplinary action — Employer temporarily restrained from continuing inquiry until conclusion of main action under Protected Disclosures Act 26 of 2000.
+
+Editor’s Summary
+
+
+The applicant, the respondent’s chief financial officer, was summoned before a disciplinary inquiry to answer allegations relating to shortcomings in the performance of his duties. The applicant contended that the disciplinary proceedings constituted an occupational detriment as contemplated by the Protected Disclosures Act 26 of 2000 (“the PDA”) because they were a response to disclosures he had made about the chief executive officer’s conduct. The applicant instituted action under the PDA and requested the presiding officer to postpone the disciplinary inquiry until the action was determined. When the presiding officer refused that request, the applicant launched an urgent application for an order restraining the respondent from proceeding with the inquiry pending determination of the main application. The respondent contended that the High Court lacked jurisdiction to entertain the matter, and that the applicant’s disclosures were not protected.
+
+On the jurisdictional point, the Court held that section 191(13)(a) of the Labour Relations Act 66 of 1995 – which provides for referrals to the Labour Court of disputes concerning alleged occupational detriments – is permissive, and does not oblige a complainant to approach only the Labour Court. Furthermore, the PDA itself refers to “any court having jurisdiction, including the Labour Court”. The High Court also retains jurisdiction in labour disputes involving constitutional issues. The Court noted further that the High Court had already assumed jurisdiction in several cases involving alleged infringements of the PDA.
+
+The Court held further that the CEO’s mere averment that the applicant was seeking to evade answering the charges against him was insufficient to displace the prima facie impression that the applicant had acted in good faith and that he had reason to believe in the truth of his allegations concerning the conduct of the CEO. Nor did the fact that the applicant’s letters might have disclosed information already known to the recipients  
+[2009] 6 BLLR 597 (ECP) at 598
+mean that the disclosures were not protected. The Court held further that the applicant had proved a nexus between the disciplinary action and the disclosures because the respondent had been aware of the facts forming the basis of the charges long before the applicant had made the disclosures. 
+
+The Court accordingly held that the applicant had proved a prima facie right to the relief sought, and found further that the respondent could not found, on disciplinary proceedings that were prima facie unlawful, an argument that the balance of convenience did not favour the applicant.
+
+The respondent was restrained from proceeding with the disciplinary outcome pending determination of the main action under the PDA.
+
+____________________________________________________________________________________
+
+Kroon J:
+
+This application was argued as a matter of urgency yesterday afternoon and last evening. I would have preferred more time to formulate the reasons for the conclusion to which I have come, but as will appear below my ruling is required as a matter of urgency. This judgment accordingly sets out the essence of my reasoning.
+The applicant is an employee of the Coega Development Corporation (Pty) Ltd (“the CDC”), his position being that of chief financial officer (“the CFO”).
+The CDC has instituted a disciplinary hearing against the applicant in which the latter faces a series of charges. The notification of the disciplinary hearing served on the applicant was signed by Mr Silinga, the chief executive officer (“the CEO”) of the CDC, who is referred to later in this judgment. Originally the hearing was set down for 16 March 2009. This occurred despite objection by the applicant through his attorneys who intimated that the applicant would seek relief in terms of section 4(1)(a) of the Protected Disclosures Act 26 of 2000 (“the Act/PDA”) in the form of an order barring the holding of the disciplinary inquiry. In fact, on 10 March 2000, the applicant instituted action in this Court, referred to more fully below, and the summons was served on the CDC.
+At the hearing on 16 March, the applicant sought a postponement of the inquiry pending the determination of the action. That postponement was refused by the chairman of the inquiry. He did, however, postpone the hearing to enable the applicant to launch the present proceedings. The chairman further ruled that the hearing be resumed this morning.
+The applicant seeks an order interdicting the CDC from proceeding with the disciplinary inquiry pending the determination of the action instituted by him, under case number 579/09. The substantive relief sought in the action is a declarator that the charges levelled against him in the notification to attend the disciplinary hearing constitute an occupational detriment as defined in section 1 of the Act. (It may be noted that such declarator would effectively bar the CDC from proceeding with the disciplinary hearing. The relevant provisions of the Act are set out below.)
+The CDC resists the present application. 
+[2009] 6 BLLR 597 (ECP) at 599
+Relevant provisions in the Act are the following:
+
+  Section 1:
+
+“‘disclosure’ means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+
+(a) that a criminal offence has been committed, is being committed or is likely to be committed;
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+
+‘impropriety’ means any conduct which falls within any of the categories referred to in the definition of ‘disclosure’ . . .
+
+‘occupational detriment’, in relation to the working environment of an employee, means–
+
+(a) being subjected to any disciplinary action;
+
+. . .;
+
+‘protected disclosure’ means a disclosure made–
+
+(b) by an employee in accordance with section 6.
+
+. . .”
+
+  Section 2(2):
+
+“This Act applies to any protected disclosure made after the date on which this section comes into operation, irrespective of whether or not the impropriety concerned has occurred before or after the said date.”
+
+
+  Section 3:
+
+“No employee may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure.”
+
+
+  Section 4(1)(a):
+
+“Any employee who has been subjected, is subject or may be subjected, to an occupational detriment in breach of section 3 may–
+
+
+(a) approach any court having jurisdiction, including the Labour Court established by section 151 of the Labour Relations Act (Act 66 of 1995), for appropriate relief.
+
+. . .”
+
+  Section 4(2):
+
+“For the purposes of the Labour Relations Act, 1995, including the consideration of any matter emanating from this Act by the Labour Court–
+
+
+(a) any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal . . .
+(b) any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in Part B of Schedule 7 to that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part . . .”
+
+  Section 6(1):
+
+“Any disclosure made in good faith
+
+. . .
+
+is a protected disclosure.”
+
+
+The first aspect requiring consideration is the submission of Mr Potgieter, who appeared for the CDC, that the High Court has no jurisdiction to issue the declarator sought by the application in the action instituted by  
+[2009] 6 BLLR 597 (ECP) at 600
+  him; that jurisdiction falls within the exclusive province of the Labour Court. Accordingly, the interdict sought could not be granted pending a decision which the High Court has no jurisdiction to make.
+Counsel referred to section 4(2)(b) of the Act, quoted above, and to the following provisions of the Labour Relations Act 66 of 1995 (“the LRA”):
+
+  Section 157(1):
+
+“Subject to the Constitution and section 173, and except where this Act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters that elsewhere in this Act or in terms of any other law are to be determined by the Labour Court.” (My emphasis.)
+
+
+  Section 191(13)(a):
+
+“An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, for having made a protected disclosure defined in that Act.” (My emphasis.)
+
+
+The submission cannot be upheld. First, the provisions of the LRA referred to, read together, entitle the employee to approach the Labour Court for relief against an occupational detriment, but do not oblige the employee to approach only that court. Cf Fredericks & others v MEC for Education & Training, Eastern Cape & others 2002 (2) SA 693 (CC),1 which further held that as constitutional matters were in issue arising out of a labour dispute the High Court had jurisdiction.
+Second, section 4(2) of the Act is in terms applicable “for the purposes of the LRA” ie it is of application where an employee chooses to go the route of approaching the Labour Court.
+Third, the submission loses sight of the words “any court having jurisdiction including the Labour Court” in section 4(1)(a) of the Act. Counsel was unable to offer any effective counter to the interpretation that the words recognised that the Labour Court was not the only forum that could be approached by an employee aggrieved as envisaged in the Act.
+Fourth, the case law does not support the submission. While the Labour Court has been approached for relief in similar matters, so too has the High Court. In Mpho v Sipho NO & others [2006] 4 All SA 468 (W) and in Radebe & another v MEC, Free State Province Department of Education [2007] JOL 19112 (O), the court entertained matters where legal relief, as that in issue in the present matter, was claimed. Mr Potgieter made two submissions. He pointed out that the judgments in these two matters do not reflect that the jurisdiction of the court was raised as an issue and he suggested that all concerned in the proceedings may simply have overlooked the point. Alternatively, it was suggested that because the court in each case reached a conclusion adverse to the applicant, on the merits, the court may well have considered it unnecessary to consider the question of jurisdiction. Suffice it to state that neither of these propositions enjoyed any merit. 
+[2009] 6 BLLR 597 (ECP) at 601
+The question of jurisdiction was pertinently considered in Jordan v MEC for Finance, Eastern Cape & another [2007] JOL 19802 (Ck). In that case, the applicant (invoking the provisions of the Act) sought an order interdicting and restraining the respondents from commencing and proceeding with any disciplinary inquiry against him pending certain events. Paragraphs 12 and 13 of the judgment read as follows:
+“[12] In terms of section 157 of the Labour Relations Act 66 of 1995, the Labour Court has exclusive jurisdiction in respect of all matters that elsewhere in terms of this Act or in terms of any other law are to be determined by the Labour Court.
+[13] As is apparent from section 4 of the Protected Disclosures Act 26 of 2000, a matter pertaining to an occupational detriment or an allegation of occupational detriment is not limited to the exclusive jurisdiction of the Labour Court, and I am accordingly prepared to entertain the application in this Court.”
+A second point in limine taken by Mr Potgieter proceeded as follows. The applicant sought, in the present proceedings, to challenge the ruling of the chairman of the disciplinary inquiry that the applicant was not entitled to a postponement of the inquiry pending the determination of the action instituted by him. Ergo, the applicant was obliged to cite the chairman in the present proceedings. His failure to do so rendered the application fatally defective for non-joinder. Suffice it to say that the submission was devoid of substance. The High Court is not bound by any rulings made by the chairman. Tshishonga v Minister of Justice & Constitutional Development & another [2006] JOL 16856 (LC)2 at paragraphs 7 and 18.
+The requisites for the grant of an interim interdict are well-known:
+A prima facie right even if it is open to some doubt.
+Irreparable harm, or a reasonable apprehension thereof, if the interdict is not granted.
+The absence of an adequate alternative remedy.
+It is common cause, or not in dispute, that the applicant made the disclosures referred to below, relating to what he stamps as impropriety in the affairs of the CDC. In so doing he implicated the CEO.
+The first disclosure related to what the applicant referred to as “unbudgeted expenditure”. On 25 July 2008, the applicant addressed a letter to the chairman of the board of the CDC regarding the proposed funding by the CDC of investors located in the Nelson Mandela Bay Logistics Park (“the NMBLP”). He recorded that he had engaged the CEO on this question and that he had expressed his dissent to the proposed funding as the Department of Trade and Industry had declined to fund the NMBLP expenditure and, secondly, that the amount involved, R150 million, was unbudgeted and required board approval. In his founding affidavit, the applicant states that, in fact, the CEO did thereafter incur liability on behalf of the CDC for the funding despite the fact that same had not been budgeted. In his letter, the applicant recorded that in terms of Treasury  
+[2009] 6 BLLR 597 (ECP) at 602
+  Regulations, he was obliged to make the report. He states in his affidavit that his attorney had advised him that the transaction would contravene the provisions of the Public Finance Management Act 1 of 1999 (“the PFMA”) and, as the CFO, he was obliged to report it. He had favoured the CEO with a copy of the letter he proposed addressing to the chairman and gave him an opportunity to comment thereon. The CEO, however, had not done so. The applicant had also discussed the matter with the chairman of the audit and finance committee (“the AFC”) and he had favoured the latter with a copy of the written disclosure. This was accordingly a further disclosure of the aspect in question.
+The second disclosure related to what may shortly be described as irregularities relating to VAT viz the irregular claim by the CEO’s trust (not registered as a VAT vendor) for VAT on services rendered by the trust to the CDC, which claim was met by the CDC. On 8 October 2008, the applicant addressed a communication to the CEO raising this matter and requesting repayment of the amount involved, R178 627,80. No response was received. The applicant avers that the VAT claim by the trust constituted an offence under the Value-Added Tax Act 89 of 1991 and potentially constituted a fraud on the South African Revenue Services (“SARS”). The amount in question has not yet been repaid by the trust; instead, it was dealt with by the CEO by the passing of a credit note (which has not been implemented). The applicant, therefore, during October 2008, reported the matter per telephone to Mr De Bruyn, the chairman of the CDC’s human resources sub-committee.
+The third disclosure related to the failure of the CEO’s trust to make payment of income tax (PAYE) on the services it rendered to the CDC, in that such PAYE was not deducted from the payments made by the CDC to the trust. The CDC was, accordingly, subsequently required by SARS to pay approximately R1.2 million in respect of the amount that should have been deducted from the payments made to the trust. The CDC claimed payment of the amount from the CEO. The latter had only repaid portion of the amount, despite reminders to him by the applicant, and a balance of over R500 000 remained. On 15 May 2008, the CEO had undertaken to repay his indebtedness in nine equal instalments by way of post-dated cheques. He only provided three such cheques. While the first cheque was met, the second was dishonoured and the CEO gave no authority for the third to be presented. The original indebtedness was not authorised by the board nor was the unilateral imposition by the CEO of terms of repayment. The applicant reported the above to De Bruyn by way of a letter dated 4 December 2008.
+The applicant contends:
+That the disclosures he made were protected disclosures, as envisaged in the Act, made by him in good faith.
+That in terms of the Act, he is entitled to be protected from any reprisals on account of, or partly on account of, the disclosures.
+That the disciplinary steps taken against him, although dressed up as something else, are in fact such reprisals. 
+[2009] 6 BLLR 597 (ECP) at 603
+That the disciplinary steps accordingly constitute an unlawful occupational detriment as envisaged in the Act.
+That he has, at least, a prima facie right that the disciplinary steps should not proceed.
+That he will, or has a reasonable apprehension that he will, suffer irreparable harm if the disciplinary inquiry were to proceed.
+That he has no adequate alternative remedy to protect his rights.
+That the balance of convenience favours the grant of the interim interdict sought.
+In argument, Mr Potgieter conceded only that the disciplinary enquiry would constitute an occupational detriment as defined (a concession that was properly made). He, however, contended, if I understood the argument correctly, that none of the other contentions by the applicant had been established.
+One submission of counsel was that the applicant had not made the disclosures bone fide. He pointed to the fact that charges had been laid against the applicant and the fact that on the evidence, the CEO had raised with the applicant what were alleged to be shortcomings in his discharge of his duties, at a time before the disclosures were made. He submitted that the applicant’s motive in making the disclosures was an attempt to avoid those allegations. However, firstly, the allegations raised by the applicant, which were the subject of his disclosures, are not in dispute and it would appear that counsel was confusing an alleged motive with intention. Secondly, the applicant places the validity of the charges against him in dispute and has made averments in support thereof. On the papers, I cannot decide this dispute in favour of the CDC in the sense that the allegations of the CEO (the deponent to the CDC’s answering affidavit) do not show anything more, if at all, than that some doubt is cast on the applicant’s prima facie right, as invoked by him. The applicant intimates that it was his duty to make the disclosures, and insufficient doubt has been raised as to the validity of that averment. Prima facie the applicant has shown that he acted in good faith.
+Counsel focused his argument on the applicant’s letter to the chairman of the board of the CDC concerning the unbudgeted expenditure. He adverted to the other disclosures in dismissive fashion as, in effect, being makeweights. This approach cannot be endorsed.
+Counsel submitted that the disclosures did not amount to disclosures as envisaged in the Act. He did so on different bases.
+First, with specific reference to the disclosure contained in the applicant’s letter to the chairman concerning the unbudgeted expenditure, he pointed out that, in his affidavit, the applicant placed reliance on the provisions of the PFMA. However, so it was argued, that Act did not apply to the CDC and accordingly the foundation of the applicant’s claim to a protected disclosure was absent. Suffice it to say that the submission that the PFMA had no application cannot be sustained.
+The above objection by the CEO does not address the other disclosures made by the applicant. 
+[2009] 6 BLLR 597 (ECP) at 604
+The next objection relied on by counsel was that the disclosures did not constitute disclosures as defined in the Act, with reference to the provisions of paragraphs (a) and (b) of the definition. However, in the first place, counsel appears to have overlooked the introductory portion of the definition, which refers to the “whistle-blower’s” reason to believe that a certain state of affairs exists. It is implicit in the applicant’s case that he believes that subparagraph (b) applied to the unbudgeted expenditure in question. Prima facie that contention cannot be rejected. As regards the other disclosures, counsel submitted that it was clear that subparagraphs (a) and (b) were not of application. Asked why he made the submission and how he would categorise the CEO’s conduct in respect of the VAT and PAYE issues, and specifically why it would not fall within the ambit of paragraphs (a) and (b) of the definition, counsel was unable to furnish any persuasive answer.
+Counsel invoked the decision in CWU & another v Mobile Telephone Networks (Pty) Ltd [2003] JOL 11147 (LC).3 In paragraph 21 of the judgment, it was stated as follows:
+
+“The definition of disclosure clearly contemplates that it is only the disclosure of information that either discloses or tends to disclose forms of criminal or other misconduct that is a subject of protection under the PDA.” (Counsel’s emphasis.)
+
+Counsel invoked the averment in the CEO’s affidavit that all the role-players were aware of the information that the applicant disclosed, and submitted accordingly that the disclosures were not such as were envisaged by the Act.
+However, as regards the second and third disclosures by the applicant, the CEO merely states his conclusion concerning the knowledge of the role-players. Without elucidation, this conclusion carries little or no weight, specifically in relation to De Bruyn, to whom, the applicant states, the disclosures were also made. The objection can accordingly not be sustained.
+In respect of the first disclosure, the CEO’s affidavit deals specifically only with the position of the chairman of the CDC’s board. In respect of the applicant’s reference to the chairman of the AFC, the remarks in the preceding paragraph are of equal application.
+In respect of the chairman of the CDC’s board, the CEO states that he had ongoing discussions on the issue in question with the chairman. Conspicuous by his absence, however, is the detail of what he discussed with the chairman, specifically whether the issue of the unbudgeted expenditure envisaged was discussed. The CEO’s allegations do not cast cognisable doubt on the applicant’s affidavit insofar as they bear on the question of the applicant’s prima facie right.
+Counsel next submitted that the applicant had lamentably failed to demonstrate any nexus between the disclosures and the decision to institute the disciplinary inquiry against the applicant (to which the CEO was admittedly a party). 
+[2009] 6 BLLR 597 (ECP) at 605
+Mr Beyleveld, for the applicant, pointed to the fact that already at an early stage the CEO was made aware, via the reports of the auditors, of the alleged shortcomings in the applicant’s discharge of his duties, such reports commencing as early as June 2008, yet no action was taken in respect of the disciplinary procedures until March 2009. On the one hand, however, the evidence is that investigations into the relevant issues were continuing (but, it should be noted, despite a full investigation by De Bruyn, no disciplinary action against the applicant was recommended by him). On the other hand, it is relevant to note that on the evidence, at an early stage, alleged material misconduct was identified, yet no disciplinary action was taken until attempts to negotiate the departure of the applicant from the CDC had come to nought (the applicant’s stance, in effect, that an acceptable severance package would facilitate such departure having been rejected) and until, on the evidence, the relationship between the applicant and the CEO had become seriously compromised. Moreover, the latter disclosures invoked by the applicant occurred towards the end of 2008.
+On the evidence, I conclude that prima facie the applicant has established that the institution of the disciplinary enquiry against him (to which the CEO was a party) flowed, at least in part, from the disclosures he had made. It is, therefore, prima facie a reprisal for those disclosures. That reprisal is prohibited by the provisions of the Act. The applicant has, therefore, prima facie established the unlawfulness of the intended disciplinary enquiry.
+Despite the tenor of his heads of argument (to the effect that a disciplinary inquiry, at which the applicant could establish the absence of misconduct on his part, or, should he consider that he was wrongly convicted, same could be undone by an appropriate approach to a court, was an appropriate alternative remedy), Mr Potgieter, in the result, conceded that should it be found that the applicant had established prima facie that the proposed disciplinary inquiry would be unlawful and should not proceed, the applicant would have established the requirements of irreparable harm (the subjection of him to the inquiry) and the absence of an adequate alternative remedy. That concession was properly made.
+It was further argued on behalf of the CDC that the balance of convenience favoured the refusal of the relief sought by the applicant. In this regard, the stance of the CEO was echoed in argument viz that the situation, where the (alleged) incompetence of the applicant would continue to be foisted on the CDC with resultant prejudice to it, would be perpetuated. However, apart from the fact that the alleged incompetence is in dispute on the papers, it can hardly be validly suggested that proceeding with a prima facie unlawful disciplinary inquiry underpins a balance of convenience in favour of the CDC.
+In the result, I conclude that the applicant is entitled to the substantive relief he seeks. Mr Beyleveld properly conceded, however, that it would be proper for the costs of the present proceedings to be reserved for decision of the court trying the action instituted by the applicant.
+The following order will accordingly issue:
+The respondent is interdicted and restrained from proceeding with the disciplinary inquiry instituted against the applicant pending the 
+
+determination of the action instituted by the applicant in this Court under case number 597/09.
+
+The costs of the application will be reserved for decision by the court trying the said action.
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	 Also reported at [2002] 2 BLLR 119 (CC) – Ed.
+2	 Also reported at [2006] 6 BLLR 601 (LC) – Ed.
+3	 Also reported at [2003] 8 BLLR 741 (LC) – Ed.
+
+For the applicant:
+Adv A Beyleveld instructed by Wilson McWilliams Inc, Port Elizabeth
+For the respondent:
+Adv DO Potgieter instructed by Pumezo Bono Attorneys, Port Elizabeth
+
+
+End of Document

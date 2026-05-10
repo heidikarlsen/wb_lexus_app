@@ -1,0 +1,554 @@
+
+
+
+
+Magagane v MTN SA (Pty) Ltd and another [2017] JOL 36884 (LC)
+Judgments Online
+
+Division: Labour Court
+Case No: JS834 / 11
+Hearing Date(s): 04 / 12 / 2012
+Judgment Date(s): 17 / 05 / 2013
+Bench: AT Myburgh AJ
+
+
+Keywords
+
+
+Labour law — Dismissal — Automatically unfair dismissal claim — Protected disclosure — Retrenchment — Fairness
+
+Mini Summary
+
+
+Pursuant to her dismissal by the first respondent (MTN), the applicant instituted action in the present Court, claiming that she was automatically unfairly dismissed on account of having made a protected disclosure, alternatively that her retrenchment was substantively and procedurally unfair. She sought reinstatement, alternatively maximum compensation, and an order that she be allowed to exercise certain share rights.
+
+Held that section 187(1)(h) of the Labour Relations Act 66 of 1995 provides that a dismissal will be automatically unfair if the reason for dismissal is a contravention of the Protected Disclosures Act 26 of 2000 by the employer, on account of an employee having made a protected disclosure defined in that Act. although in terms of section 192 of the Labour Relations Act 66 of 1995, MTN bore the overall onus of proving that the applicant’s dismissal was fair, the applicant was saddled with an evidentiary burden of first bringing herself, at least on a prima facie basis, within the operation of section 187(1)(h) of the Labour Relations Act, whereupon the aforesaid onus would then be triggered.
+
+Based on the evidence, the court concluded that MTN had discharged the onus of proving that the applicant was not dismissed on account of having made a protected disclosure, but instead on account of its operational requirements. Therefore, the applicant’s dismissal was not automatically unfair.
+
+The next question was whether the applicant’s retrenchment was substantively unfair. Her attack on the substantive fairness of her retrenchment was based on the contention that it was a sham and that there was no sound economic rationale therefor. The court found that the retrenchment was based on a genuine economic rationale and was substantively fair. However, the consultation process preceding the retrenchment was fond to have suffered from three serious short comings. That rendered the retrenchment procedurally unfair.
+
+The Court then had a discretion to decide whether or not to award the applicant compensation, and, if so, the discretion to award her up to 12 months’ remuneration as compensation on the basis of what was just and equitable in all the circumstances. It decided that an award of six months’ remuneration as compensation for the applicant’s procedurally unfair retrenchment was just and equitable.
+
+Finally, it was held that the applicant had not made out a case in relation to her share rights claim.
+
+ 
+[2017] JOL 36884 (LC) at 2
+
+
+
+
+Introduction
+
+[1]    The applicant was employed by the first respondent (MTN) as a senior legal advisor (SLA) in its Commercial Legal Department (CLD) until her dismissal on 31 July 2011. In this action, she claims that she was automatically unfairly dismissed on account of having made a protected disclosure, alternatively that her retrenchment was substantively and procedurally unfair. She seeks reinstatement, alternatively maximum compensation, and an order that she be allowed to exercise certain share rights.
+
+[2]    A substantial amount of evidence was led at the trial over seven days. The applicant commenced adducing evidence and then called two witnesses – Lionel van Tonder (a director of PwC1) and Ignatius Sehoole (GE:2 Business Risk Management of the second respondent (MTN Group)) both of whom were subpoenaed to give evidence. Three witnesses then testified on behalf of MTN – Fusi Mokoena (GM:3 CLD), Karin Ramadan (HR4 partner) and Robert Madzonga (CCSO5).
+
+[3]    There are six main issues to be decided: (a) did the applicant make a protected disclosure; (b) if so, was the applicant dismissed on account of having made that disclosure (with the result that her dismissal was automatically unfair) or on account of MTN's operational requirements; (c) if the applicant's dismissal was not automatically unfair, was her retrenchment substantively fair; (d) similarly, if the applicant's dismissal was not automatically unfair, was her retrenchment procedurally fair; (e) in the event of the applicant's dismissal being found unfair on any basis, what is the  
+[2017] JOL 36884 (LC) at 3
+appropriate relief; and (f) is the applicant entitled to an order that she be allowed to exercise certain share rights.
+
+[4]    Before dealing with these issues, it is convenient to set out a broad outline of the evidence in chronological order. This in circumstances where the chronology of events is important for the purposes of the determination of this matter.
+
+Broad outline of the evidence in chronological order
+
+[5]    On 1 February 2009, the applicant commenced employment with MTN as an SLA within the CLD. At the time, Madzonga was the GM of the CLD, and had five SLAs reporting into him, who, in turn, had a number of (junior) legal advisors reporting into them. The five SLA positions were: SLA: CMO6 (Karen Pinheiro); SLA: CCSO (Mpho Malange); SLA: CTI7 / CIO8 (the applicant); SLA: CFO9 and group procurement (Zanele Radebe); and SLA: M&A10 and group shared services.11
+
+[6]    In December 2009 / January 2010, in an attempt at reducing headcount, MTN engaged in a voluntary retrenchment exercise. Amongst those who took up the offer was the SLA: M&A and group shared services. The position was not filled and remained vacant at all material times.
+
+[7]    In March 2010, Madzonga was promoted from GM: CLD to CCSO. He held down both positions pending the new GM: CLD being appointed. As the CCSO, Madzonga was responsible for corporate services, which includes the CLD.
+
+ 
+[2017] JOL 36884 (LC) at 4
+
+[8]    Also in March 2010, the applicant became aware of certain invoices issued by Nozuko Nxusani Attorneys (NNA) to MTN and authorised for payment by Madzonga, which invoices she considered to be irregular. (I return to this in more detail below.)
+
+[9]    In March / April 2010, the applicant, together with other legal advisors within the CLD, held informal discussions with employees within BRM12 about the possibility of making a whistle-blower report using MTN's fraud and ethics hotline (tip-offs anonymous) which is operated independently by Deloitte. According to the applicant, the advice received from the BRM employees was that anonymity could not be guaranteed and that a disclosure would be a ticket out of MTN. It was in these circumstances that the applicant and her colleagues elected not to make use of the hotline. (In evidence, with a view to protecting their identity, the applicant was not prepared to disclose the names of her colleagues or the BRM employees concerned.)
+
+[10]    On 28 June 2010, the applicant was awarded 7 100 share rights in accordance with the provisions of the rules of the MTN Group share rights plan, and upon the terms specified in the letter issued to her.
+
+[11]    In June, July and August 2010, Madzonga appointed the SLAs on a rotational basis to act as the GM: CLD. The applicant acted during the period 21 June–4 July 2010.
+
+[12]    In September 2010, Mokoena was appointed as the new GM: CLD. He reported directly to Madzonga.
+
+[13]    From March 2010 until Mokoena's appointment in September 2010 (as well as in the month of October 2010), Madzonga had continued to authorise for payment invoices received from NNA on a monthly basis.
+
+ 
+[2017] JOL 36884 (LC) at 5
+
+[14]    In November 2010, Sehoole was appointed as the VP:13 SEA14 of the MTN Group.15 This was a very senior position, with the various operating companies within the SEA region reporting into Sehoole, one of which is MTN in South Africa. Sehoole would also appear to have been a member of MTN's board. The applicant and Sehoole were distant relatives through marriage. (The applicant's sister's late husband and Sehoole were cousins.)
+
+[15]    On the second Sunday of November 2010, at the request of the applicant, Sehoole met with the applicant at her home. During the course of their meeting, the applicant handed over to Sehoole a string of invoices from NNA and brought to his attention her concerns about the invoices. The applicant confided in Sehoole because she trusted him. A week later, Sehoole telephoned the applicant and asked her to meet with PwC.
+
+[16]    PwC are MTN's external auditors and Sehoole had worked for them before joining the MTN Group. Upon having received the invoices from the applicant, Sehoole made contact with Johan van Huyssteen (the PwC audit partner responsible for MTN) and asked him to look into the matter. After PwC had advised that the invoices were prima facie irregular, Sehoole met with Sifiso Dabengwa (CEO16 of the MTN Group), who advised him to appoint forensic auditors to investigate the matter. It was in these circumstances that Sehoole appointed PwC to conduct a forensic audit of the invoices. Although Sehoole could not recall whether he had told the CEO at the time of their discussion that he was using PwC, he testified that the CEO came to learn that he had appointed them, and that the CEO did not voice any objection to their appointment. The forensic audit was undertaken by Van Tonder (of PwC), who Sehoole had not met while working at PwC.
+
+[17]    During the course of December 2010, Madzonga received a message from an ex-employee informing him that he was the subject of some or other  
+[2017] JOL 36884 (LC) at 6
+investigation. The details of the investigation were not clear to him and he apparently attached little weight to the tip-off.
+
+[18]    In either early December 2010 (according to the applicant) or late January 2011 (according to MTN), Madzonga called a meeting of the CLD, and thereafter held one-on-one meetings with all members thereof. (Although there is a dispute of fact about what transpired in this regard, it was the applicant's evidence that it appeared to her from her interaction with Madzonga at this point in time that he was aware that she was the whistle-blower. The issue is dealt with further below.)
+
+[19]    On 8 and 9 December 2010, a CLD strategic session was conducted. Mokoena and the applicant were present, with Madzonga also having attended for a short while to report back on the review of MTN's new five-year business plan undertaken by MTN's Exco. (There is a dispute of fact about what transpired.)
+
+[20]    On 21 January 2011, Madzonga sent an email to the CLD. With reference to Exco's review and the economic challenges facing the business, the email records that each department had been tasked with coming up with plans to: reduce costs significantly; remove duplications; remove silos; and improve processes. Madzonga also recorded that he "had discussions with [CLD] last year at their strat session and yesterday at their weekly Dept meeting regarding the above", and that "corporate services costs have skyrocketed in the current financial year and we need to get inputs from everyone on how we can work smarter, efficiently without any duplications".
+
+[21]    On 17 February 2011, another CLD strategic session was conducted under the leadership of Mokoena. Although the applicant did not attend this session, the PowerPoint slides relating thereto record that the focus for 2011 included "improving efficiencies through process review and embedding continuous improvement principles in the way we execute our responsibilities".
+
+ 
+[2017] JOL 36884 (LC) at 7
+
+[22]    Following this strategic session, Mokoena held one-on-one meetings with members of the CLD with a view to exploring the nature and volume of work performed by them and the departmental structure. The notes kept by Mokoena at his meeting with the applicant on 23 February 2011 reflect annotations to the effect that the structure was "not optimal", and that there was a "thin line between IS and procurement".
+
+[23]    Also in February 2011, the applicant met with PwC for the first time.
+
+[24]    At all material times, the CLD held fortnightly meetings. From the meeting held on 17 March 2011 onwards, the agenda for these meetings included these two standing items: "HR issues (need to improve inefficiencies and look at our structure: are we optimally structured)"; and "CLD structure review / changing of mind set / efficiencies". (There is a dispute of fact regarding what was discussed under these agenda items.)
+
+[25]    On 24 March 2011, at their request, the applicant provided PwC with an affidavit setting out her concerns about the NNA invoices, which she had relayed to Sehoole.
+
+[26]    On 20 April 2011, Sehoole signed PwC's engagement letter, in terms of which they were formally engaged to investigate the NNA invoices.
+
+[27]    On 28 April 2011, PwC interviewed Madzonga as part of their investigation. They also at a point in time made a raid on Madzonga's offices and downloaded material from his computer which they considered relevant.
+
+[28]    According to Mokoena, on 2 May 2011, Karel Pienaar (the MD17 of MTN) informed him that Madzonga was being investigated following a complaint having been received about irregular invoices. At this point in time, Mokoena did not know who the informant was and did not have a suspicion on this score.
+
+ 
+[2017] JOL 36884 (LC) at 8
+
+[29]    On 9 May 2011, a meeting of the CLD was called to discuss its restructuring. Madzonga, Mokoena, Ramadan and the applicant were all present. The minutes reflect Madzonga as having stated that: "the CL structure is no longer efficient and needed to be reviewed"; and "there may be a possibility of redundancies in the affected areas". The minutes also reflect Mokoena as having stated that: "he had several meetings with the team and the main concern discussed was that the current structure is not efficient and optimal as it does not allow rotation [of] legal advisors and exposure to work within other business units"; and he had held a meeting with "Prudence Mokone (organisational development) and Karin Ramadan (HR partner) to discuss the concerns discussed with the legal team regarding the current structure". As again reflected in the minutes, the meeting concluded on the basis that "it was agreed that the final structure will be sent to [Madzonga] on Friday, 20 May 2011".
+
+[30]    On 11 May 2011, in circumstances where he had detected anxiety amongst members of the CLD at the meeting on 9 May 2011, Mokoena emailed the entire CLD a series of 12 PowerPoint slides titled "proposed organisational structure – change for commercial legal department" under cover of a note (copying Madzonga, Ramadan and Mokone). Mokoena was himself the author of the slides and had made a presentation thereof to Madzonga, Mokone and Ramadan before the CLD meeting on 9 May 2011 (at which the slides had not been presented). The note from Mokoena accompanying the slides reads:
+
+"Further to our meeting on the re-organisation of our structure [on 9 May 2011] I attach the slides dealing with the re-organisation, the rationale and benefits of such re-organisation. I have had extensive discussions with everybody in the team and with HR. The objective of the re-organisation is to improve efficiencies and service delivery and not about faces behind the positions. As you will see from the structure there will be redundancies and new positions created. People affected will have the opportunity to apply for new positions alongside other members of the team. As discussed in our meeting, kindly think carefully about the proposed structure and provide your input or alternatives by next week Friday as agreed. Please do not lose focus about the objective of this process, which is optimising our structure in order to improve efficiencies and service delivery to our internal clients.
+
+ 
+[2017] JOL 36884 (LC) at 9
+
+After getting your input I will finalise the structure and we will have to move to implementation. You will always be kept abreast of developments."
+
+[31]    The slides addressed five topics: the current structure (organogram); challenges with regard to the current structure; proposed structure (organogram); proposed changes and rationale; and benefits of the new structure.
+
+[32]    The challenges with the current structure of the CLD were described as follows:
+
+"Follows the structure of business units and is not service driven.
+Encourages silo thinking (legal advisors only focus on business units they support and, as a result, do not provide holistic advice that focuses on the bigger MTN business).
+Doesn't support MTN VIVA strategy's integrated approach.
+Promote inefficiencies (legal advisors with capacity don't assist other overloaded legal advisors supporting a different business unit, that is. resources cannot be moved around on the basis of demand).
+Doesn't facilitate multi-skilling and broader competency pool.
+Doesn't create an environment where junior members of the team can learn and grow (e.g. a junior legal advisor supporting a particular business unit doesn't get exposed to other areas of MTN business and different areas of the law and their career growth and competency is constrained).
+Doesn't create an environment for growth and talent retention."
+
+[33]    The proposed new structure differed in the following four main respects from the existing structure.
+
+Firstly, the existing structure had an administrative assistant reporting to Mokoena, whereas it was proposed that the position be upgraded to the position of a legal secretary (which position was marked as vacant on the proposed structure).
+Secondly, the existing structure had five SLAs, whereas it was proposed that there be four SLAs.
+Thirdly, there were three changes in the proposed configuration of SLA positions: the position of SLA:M&A and group shared services (which had been vacant for some time) was done away with; a new position of SLA: 
+[2017] JOL 36884 (LC) at 10
+business channel was created by re-profiling the aforesaid vacant position; and the position of SLA:CTI / CIO occupied by the applicant was done away with.
+Fourthly, whereas the existing structure provided for legal advisors being dedicated to each business unit under an SLA, the proposed structure created a pool of legal advisors not dedicated to any particular business unit and available to be utilised on a needs basis.
+
+[34]    A noteworthy feature of the organogram reflecting the proposed structure is that whereas each of the applicant's three fellow SLAs (Pinheiro, Malange and Radebe) were reflected as having been placed on the new structure (effectively in the positions they were occupying at the time), the applicant's name did not appear on the new structure, with the new position of SLA: Business Channel having been marked "vacant".
+
+[35]    The proposed changes and rationale therefor in relation to the position of SLA: CTI / CIO occupied by the applicant were stated as follows in the slides:
+
+"That the position of [SLA]: CTO18 / CIO be made redundant.
+This position is supposed to support the CTO and CIO.
+However, legal work for both CTO and CIO is of a procurement nature.
+This work involves, inter alia, infrastructure related contracts like network roll out contracts, capacity leasing contracts, site leasing contracts, construction contracts, and IT related contracts like software development contracts, software licensing contracts, hardware supply contracts, support and maintenance contracts.
+The industry best practice is that this work is done by legal advisors supporting procurement.
+Efficiencies will be improved if this work is moved to [SLA]: procurement.
+With procurement work being moved to procurement, the [SLA]: CTO / CIO will only remain with work on carrier services, roaming and data hosting. The volumes of this work do not justify a [SLA] and this work can easily be moved under the [SLA]: procurement.
+The position of [SLA]: CTO / CIO should therefore be made redundant." (Emphasis added.) 
+[2017] JOL 36884 (LC) at 11
+
+[36]    On 12 May 2011, the applicant responded to Mokoena's communication. Amongst the points raised by her were that: while the focus had been on structural inefficiencies, there was no evidence to suggest that an investigation had been done into other inefficiencies (for example, fees spent on external attorneys); she queried the correctness of the proposition that it was "best practice" for the sort of work she was doing to be undertaken by the procurement business unit; she sought clarity on the kind of work that the SLA: CCSO and the SLA: Procurement were doing on a daily basis; she contended that a decision had apparently already been made on the new structure, with due process having been ignored; she disputed the rationale for the restructuring, stating that "I hope and believe that the reason for declaring my position redundant is not motivated by other issues"; and she disputed that proper consultation had been followed.
+
+[37]    Also on 12 May 2011, Mokoena responded to the applicant's email in detail, in the process of which he first dealt with what had transpired during his one-on-one consultation with the applicant, and then addressed each of the issues raised by her in her email. According to Mokoena, a final decision had not been taken on the structure as yet, and he accepted that his slides and email did not constitute (retrenchment) consultation, which he stated would be initiated under the guidance of HR once a final decision had been made on the new structure.
+
+[38]    On 16 May 2011, Madzonga sent an email to members of the CLD reminding them that the deadline for the submission of comments on the new structure was 20 May 2011, and stating that Mokoena's proposed structure was not yet finalised and would only be finalised after receipt of comments.
+
+[39]    On 18 May 2011, Veruscha Maragele (a legal advisor) passed away.
+
+[40]    By 20 May 2011, apart from the applicant's email of 12 May 2011, only limited oral comments on the proposed new structure had been received.
+
+ 
+[2017] JOL 36884 (LC) at 12
+
+[41]    On 23 May 2011, PwC held a second meeting with Madzonga as part of their forensic investigation. According to Madzonga, he enquired from Van Tonder whether the applicant or one or two other persons was the whistle-blower, with Van Tonder (who was obviously not at liberty to disclose such information) having denied this, which denial he accepted as true. In his evidence, Van Tonder confirmed the enquiry made by Madzonga in relation to the applicant and his response thereto. (Apparently, the applicant's email of 12 May 2011 had got Madzonga thinking.)
+
+[42]    On Friday, 27 May 2011, Madzonga circulated within the CLD a revised proposed structure. His covering note records that Mokoena had submitted the proposed structure to him for approval, and that he had made some changes thereto, which he invited staff to comment on by 9am on Monday 30 May 2012. The difference between the structure proposed by Mokoena and that proposed by Madzonga was that there were three (as opposed to four) SLA positions on Madzonga's structure, with the position of SLA: Business Channel having been done away with. Another difference was that there were no names attached to the three SLA positions on Madzonga's structure (referred to as – SLA: CMO; SLA: CCSO; and SLA: CFO, Procurement & CIO / CTO). This was done at the insistence of Madzonga and Ramadan.
+
+[43]    According to the applicant, Madzonga had sought to finalise the structure by 27 May 2011, because PwC was due to submit an interim report on that day.
+
+[44]    Despite Madzonga having given staff until 9am on 30 May 2011 to submit comments on his proposed structure, it was signed off by Themba Nyathi (HR Executive) on 26 May 2011, by Madzonga himself on 27 May 2011, and by Pienaar on a date that is illegible.
+
+[45]    A number of events occurred on 30 May 2011.
+
+Firstly, at 8:06am (that is before the deadline for the submission of comments), the applicant sent an email to Madzonga / Mokoena stating that she could  
+[2017] JOL 36884 (LC) at 13
+not respond to the structure proposed by Madzonga in the absence of having been provided with the information which she had requested from Mokoena.
+Secondly, at 8:41am, Mokoena responded to this email by recording that he had already responded to the applicant's request for information (both in his email of 12 May 2011 and in the CLD meeting on that day) and reiterating that: "organisational restructuring has to do with operational efficiencies"; "the budget is not part of your KPAs and I don't understand how you try to bring it in[to] operational efficiency discussions"; and "with regard to what other SLAs are doing, I have stated that we should deal with issues and not with people". In the result, Mokoena concluded his email by stating that "there is no outstanding information from me to you".
+Thirdly, at 9:27am, the applicant responded to Mokoena's email in the following terms.
+
+"I have requested information about the following, which is still outstanding.
+
+The kind of matters that we are outsourcing to external attorneys. This should include litigation and contracts where attorneys are being requested to draft.
+
+The attorneys that are instructed.
+
+Seeing that you have indicated that we have spent R37 million on legal fees, it will be beneficial for me, in particular to identify the circumstances that we could have spent all this could be (sic) one of the causes of the inefficiencies in the department. This is of great importance to me because I was taken out of the structure citing inefficiencies / duplication as the reason.
+
+My rights are hereby strictly reserved."
+
+Fourthly, the second CLD restructuring meeting took place, with Madzonga, Mokoena and the applicant all being in attendance. The minutes of the meeting record that if anyone had any comments on Madzonga's proposed structure, they should be submitted to him or Mokoena before the close of business that day and that Madzonga "will present the structure to Karel Pienaar and Themba Nyathi on 31 May  
+[2017] JOL 36884 (LC) at 14
+2011". The minutes also reflect some discussion about SLAs applying / being interviewed for the three positions on the new structure.
+Fifthly, at 11:29am, Mokoena responded to the applicant's email sent at 9:27am in the following terms:
+
+"The information that you have requested does not talk to whether the structure proposed by myself and Robert [Madzonga] is optimal or not and the information you requested is, accordingly, irrelevant. I suggest that you take the opportunity to provide your input or suggest alternatives to the proposed structure. With regard to the information you are requesting, I am not intending to belabour this matter and consider it closed from my side."
+
+Sixthly, at 12:06pm, Madzonga responded to the applicant's email sent at 8:06pm. He recorded in part as follows:
+
+"Sorry I did not see your email before our dept meeting this morning hence I did not make any reference to it. I think this is a matter which should be included with other initiatives designed to improve service efficiencies (I refer to them as 'out of box' initiatives) and not structural initiatives. Indeed we may be outsourcing too much hence we need to review both services and structural deficiencies.
+
+I believe this may have been raised already [in] your services improvement initiatives and if not, it should be included so that we should cut down drastically on outsource (sic). Please let me have your input on the structural deficiencies as a matter of extreme urgency as discussed this morning."
+
+[46]    On 31 May 2011, PwC submitted a first draft report, and were subsequently requested to perform additional procedures which they attended to (see further below).
+
+[47]    On 1 June 2011, Madzonga announced to the CLD that his structure had been approved.
+
+[48]    Also on 1 June 2011, the applicant sent Madzonga an email, which elicited this response (in part) by him:
+
+"If my recollection is correct, the information that you requested relates to breakdown of legal fees incurred for the period of Jan 2010 to Dec 2010.
+
+I cannot comment on your view regarding the relevancy of the information requested save to repeat my initial view contained in my email of Monday, 30th May 2010 (sic)."
+
+ 
+[2017] JOL 36884 (LC) at 15
+
+[49]    On 2 June 2011, the applicant (and the other SLAs) received a letter issued in terms of section 189(3) of the LRA19 (dated 1 June 2011). In terms thereof, MTN signalled its intention to engage in what is commonly referred to as a "spill-and-fill" exercise – all of the four SLAs would be afforded the opportunity of applying for the three posts on offer, and the unsuccessful one would face the possibility of retrenchment.
+
+[50]    Also on 2 June 2011, the applicant was provided with the job profiles for the three SLA positions on offer and invited to submit her CV by the close of business on 7 June 2011.
+
+[51]    On 6 June 2011, the applicant sent an email to Clarissa Ross, who was the contact person referred to in the applicant's section 189(3) letter. The email records as follows:
+
+"On the 27th of May 2011, I was requested to make comments by the 30th of May 2011 on a structure which is proposed. I have since been furnished with a copy of the structure which was already approved at the time of the request to give comments. It is clear from the above that the structure was approved before any comments were considered. In a nutshell, the email of the 27th of May 2011 was just a formality.
+
+I was furnished with a letter dated the 1st of June 2011 titled 'restructure and possible termination for operational reasons'. The letter indicates that two employees are going to be affected and in the proposed structure that was given to me of the 11th May 2011, you already knew who the two employees were, that is myself and the legal secretary. The same structure was given to me on the 27th May 2011 except that the names have been removed and the position of SLA business was removed from the structure. In the light of the above, the only conclusion that I can draw is that I am aware of the fact that this proposed restructuring is targeting me. The fact that I was removed from the structure without being consulted and to also comment when the structure was already approved shows that the employer wanted to remove me from the structure without the necessary process being followed and instead to get rid of me because of the disclosure of a possible impropriety within the meaning of [the] Protected Disclosure Act. I also want to put on record that I have been denied information that I have requested in relation to the so-called restructuring and I was denied on the basis that it was not relevant. I still reiterate that the information that is requested in any restructuring process is relevant.
+
+As requested, and without necessarily agreeing with the process, I attach herewith my CV for the position of SLA procurement / CMO-CTO (sic) and SLA CMO even if I  
+[2017] JOL 36884 (LC) at 16
+don't know the criteria that is going to be used for the appointment of the person as this wasn't discussed with me."(Emphasis added.)
+
+[52]    Also on 6 June 2011, Ross responded to the applicant, which was copied to both Madzonga and Mokoena. The thrust of Ross' response is captured in the last two sentences thereof: "Ample time has passed since December and you have been engaged as part of a team and as an individual, regrettably it seems that you have not participated as no structural suggestions were received from your end. The required consultation process has been exhausted". (Remarkably, there was no response at all to the applicant's contention that she was being victimised on account of having made a protected disclosure.)
+
+[53]    Both Madzonga and Mokoena admitted to having received the applicant's email of 6 June 2011 and the response thereto by Ross, but stated that they had not paid attention thereto.
+
+[54]    On 9 June 2011, the interviews for the three SLA positions were conducted by a panel comprising Madzonga, Mokoena and Ramadan. The panel worked off pre-prepared questionnaires for each position and scored applicants on a five-point rating scale on a consensus-basis. When it became apparent during the interviews that the applicant was not at all equipped to perform the position of SLA: CMO, she was allowed to change her application to the position of SLA: CCSO, and she was then interviewed for this position and that of SLA: CFO, Procurement & CIO / CTO. By her own admission, the applicant did not fare well during the interview process, and she accepted that she scored the lowest of the four candidates – although, as she pointed out, this was understandable given that she was competing against experienced SLAs who were, in effect, working in the positions that they applied for.
+
+[55]    On Friday, 10 June 2011, the applicant was given feedback on the interviews at a meeting attended by Madzonga, Mokoena and Ramadan. Having been advised that she had been unsuccessful with her applications, the applicant was handed a letter of retrenchment.
+
+ 
+[2017] JOL 36884 (LC) at 17
+
+[56]    The successful applicants for the three SLA positions were: SLA: CMO (Pinheiro); SLA: CSSO (Malange); and SLA: CFO, Procurement & CIO / CTO (Radebe).
+
+[57]    In terms of the applicant's letter of retrenchment (dated Friday, 10 June 2011), she was advised that it was projected that her retrenchment would take effect on 31 July 2011, and she was invited to consult with MTN in an attempt to reach consensus on the various proposals contained in the letter. To this end, the applicant was required to make representations by no later than Monday, 13 June 2011, which was recorded as being the deadline for the completion of consultations.
+
+[58]    The retrenchment letter also provided as follows under the heading "future re-employment":
+
+"If in the future the situation changes, MTN SA will over a period of 6 months consider re-employment based on a preferential basis to affected employees on the following conditions:
+
+the employee concerned has expressed a wish to be considered for re-employment;
+the employee concerned has not found alternative employment (that is we will give preference to those employees who have not found alternative employment);
+we will notify each employee concerned at whichever address he or she chooses and supplies us in writing from time to time of a vacancy;
+we will remove from the list of former employees those who have found alternative employment as well as those who do not respond to two (2) invitations to apply for vacancies which have arisen; and
+the employees is suitably qualified for the vacant position."
+
+[59]    On 14 June 2011, and without having made any representations by the 13 June 2011 deadline, the applicant referred a dispute to the CCMA20 for conciliation. In her referral, she stated that she considered her retrenchment to be a reprisal for having made a protected disclosure. (Again, MTN did nothing to address the applicant's concern.)
+
+ 
+[2017] JOL 36884 (LC) at 18
+
+[60]    On 21 June 2011, and in circumstances where issues had allegedly arisen regarding her conduct, the applicant was required to leave MTN forthwith, although she was paid up until 31 July 2011. (There is a dispute of fact in this regard.)
+
+[61]    On 22 August 2011, PwC submitted a draft forensic audit report to Shauket Fakie (the GE: Business Risk Management of the MTN Group). The report, which is lengthy, reflects that NNA submitted 78 invoices in the amount of some R12.3 million in respect of legal fees for the drafting and amendment of agreements to MTN between January 2010 and March 2011, and that they were all approved by Madzonga and paid by MTN. In conclusion, the report records that the invoices contained anomalies and appeared irregular in various respects, including that: no record could be found of Madzonga having instructed NNA in writing; NNA was unable to provide details of the time spent in drafting or amending the 18 agreements in question; NNA appeared guilty of overreaching; the invoice dates and dates of approval did not always correspond; NNA's hourly rate was inconsistent; and the dates of work performed recorded in the invoices were inaccurate in certain respects.
+
+[62]    It was common cause at the trial that the PwC report was made conscientiously, with no attempt being made by MTN to dispute its findings. It also stands to be accepted that the report served to establish that the applicant acted bona fide in making her disclosure, and that she had reason to believe that improprieties or irregularities were committed.
+
+[63]    Also in August 2011, Maragele's position (she having died on 18 May 2011) was filled by Bulumko Ntloko, who was an external appointment.
+
+[64]    In October or November 2011, Pinheiro (SLA: CMO) resigned. Her position was filled by Malange (previously the SLA: CCSO) and Malange's position (SLA: CCSO) was filled by Ryan Webb (who was promoted from the ranks of a legal advisor) in December 2011.
+
+ 
+[2017] JOL 36884 (LC) at 19
+
+[65]    According to Mokoena, the applicant was not invited to apply for either vacancy because of the trouble which she had caused that resulted in her being asked to leave MTN early.
+
+[66]    With effect from 1 October 2011 (two months after her dismissal), the applicant commenced alternative employment. Her total package is now R773 000, whereas she earned R831 000 at MTN (and, in addition, received an incentive bonus, free cellphone calls and free share options).
+
+[67]    On 7 October 2011, and following an investigation into the allocation of work to NNA, MTN issued Madzonga with a written warning (which he did not challenge) for the following misconduct:
+
+You were negligent insofar as you failed to comply with necessary and proper governance procedures and practices in instructing the attorneys;
+You were negligent in the maintenance of proper records for all work undertaken by the attorneys;
+You improperly approved payment to the attorneys in circumstances where no adequate supporting documentation was maintained by you."
+
+[68]    In April / May 2012, some 10 months after the applicant's dismissal, a fourth SLA position was added to the CLD structure, being that of SLA: Business Channel. Although the position had the same name as the position that Mokoena had proposed in his structure, but which had been removed by Madzonga in the final structure, the position had its genesis in the formation of a new MTN business unit (the enterprise business unit) around about April / May 2012. The position was filled by Leapia Msibi (who, like Webb, was promoted from the ranks of legal advisor).
+
+[69]    I turn now to consider the main issues for determination as set out above.
+
+The first issue: did the applicant make a protected disclosure?
+
+[70]    Section 3 of the PDA21 provides that no employee may be subjected to any occupational detriment (defined as including dismissal) by his or her employer  
+[2017] JOL 36884 (LC) at 20
+on account of having made a protected disclosure. In order to enjoy protection under section 6 of the PDA, which deals with a protected disclosure to an employer, the disclosure needs to be made in good faith and substantially in accordance with any procedure prescribed, or authorised by the employee's employer for reporting or otherwise remedying the impropriety concerned.
+
+[71]    In their heads of argument, the only basis upon which Mr Brassey SC and Mr Manchu, who appeared for the respondents, contended that the applicant's disclosure was not protected was on account of the fact that the applicant did not make use of MTN's fraud and ethics hotline and instead spoke to Sehoole, who, in turn, himself failed to follow proper procedures (so it was contended). However, in oral argument, Mr Brassey did not persist with this. To my mind, this implied concession was wisely made. Where an employer has a hotline, but an employee decides instead to make a confidential report to a director of her employer, and is then asked to co-operate with the auditors appointed by the employer to investigate the complaint and does so on a confidential basis (this being the procedure authorised by the employer), as occurred herein, it cannot be contended that the disclosure is unprotected for want of compliance with the prescribed / authorised procedure.
+
+[72]    In the circumstances, I find that the applicant made a protected disclosure to Sehoole and / or PwC.
+
+The second issue: was the applicant dismissed on account of having made a protected disclosure?
+
+The operation of section 187(1)(h)
+
+[73]    Section 187(1)(h) of the LRA provides that a dismissal will be automatically unfair if the reason for dismissal is "a contravention of the [PDA], by the employer, on account of an employee having made a protected disclosure defined in that Act".22 This must be read with section 3 of the PDA, which prohibits the dismissal (along with other occupational detriments) of an  
+[2017] JOL 36884 (LC) at 21
+employee on account (or partly on account) of having made a protected disclosure.
+
+[74]    The central question in this case is whether – having made a protected disclosure – the applicant was dismissed on account thereof (such as to render her dismissal automatically unfair) or on account of MTN's operational requirements. In short, the central issue is one of causation. In SA Chemical Workers Union and others v Afrox Ltd (1999) 20 ILJ 1718 (LAC) [also reported at [1999] JOL 5067 (LAC) – Ed],23 the LAC24 held as follows in this regard:
+
+"This issue (the reason for the dismissal) is essentially one of causation and I can see no reason why the usual two-fold approach to causation, applied in other fields of law should not also be utilized here [authorities omitted]. The first step is to determine factual causation: was participation or support, or intended participation or support, of the protected strike a sine qua non (or prerequisite) for the dismissal? Put another way, would the dismissal have occurred if there was no participation or support of the strike? If the answer is yes, then the dismissal was not automatically unfair. If the answer is no, that does not immediately render the dismissal automatically unfair; the next issue is one of legal causation, namely whether such participation or conduct was the 'main' or ''dominant', or ''proximate', or ''most likely' cause of the dismissal. There are no hard and fast rules to determine the question of legal causation [authority omitted]. I would respectfully venture to suggest that the most practical way of approaching the issue would be to determine what the most probable inference is that may be drawn from the established facts as a cause of the dismissal, in much the same way as the most probable or plausible inference is drawn from circumstantial evidence in civil cases. It is important to remember that at this stage the fairness of the dismissal is not yet an issue. . . . Only if this test of legal causation also shows that the most probable cause for the dismissal was only participation or support of the protected strike, can it be said that the dismissal was automatically unfair in terms of s 187(1)(a)."25 (Emphasis added.)
+
+[75]    Regarding the onus of proof, although in terms of section 192 of the LRA, MTN bears the overall onus of proving that the applicant's dismissal was fair, the applicant is saddled with an evidentiary burden of first bringing herself, at least on a prima facie basis, within the operation of section 187(1)(h) of the LRA, whereupon the aforesaid onus is then triggered. This was explained as  
+[2017] JOL 36884 (LC) at 22
+follows by the LAC in State Information Technology Agency (Pty) Ltd v Sekgobela (2012) 33 ILJ 2374 (LAC):26
+
+"In cases where it is alleged that the dismissal is automatically unfair, the situation is not much different save that the 'the evidentiary burden to produce evidence that is sufficient to raise a credible possibility that an automatically unfair dismissal has taken place rests on the applicant [employee]. If the applicant succeeds in discharging his evidentiary burden then the burden to show that the reason for the dismissal did not fall within the circumstances envisaged by s 187(1) of the LRA rests with [employer]'.27 It is evident therefore that a mere allegation that there is a dismissal is not sufficient but the employee must produce evidence that is sufficient to raise a credible possibility that there was an automatically unfair dismissal."28
+
+[76]    With reference to this dictum, Mr Brassey submitted in argument that the evidentiary burden placed on the applicant is akin to the test applicable in the case of absolution from the instance. He went on to accept that the applicant had satisfied the evidentiary burden placed on her, with the result that the onus fell on MTN to show that the reason for the dismissal did not fall within the circumstances envisaged by section 187(1)(h) of the LRA.
+
+MTN's case on causation
+
+[77]    With reference to various concessions made by the applicant under cross-examination, Mr Brassey submitted that in order for it to be determined that the applicant was dismissed on account of having made a protected disclosure it would have to be found that:
+
+Madzonga became aware that the applicant was the informant who implicated him in acts of apparent corruption; and
+Madzonga devised a scheme in which he could secure the applicant's dismissal under the guise of retrenchment, the effect of which was that: (i) the CLD would be restructured to eliminate one of the posts of SLA; (ii) members of the cohort of SLAs would each be interviewed in order to  
+[2017] JOL 36884 (LC) at 23
+determine who would be placed in the remaining positions; (iii) the applicant, as the person with the least experience, would perform worst in the interview since the questions would be devised so as to ensure that, in all probability, she would perform worst; (iv) Madzonga lured the senior members of MTN management (Pienaar and Nyathi) into collusively or unwittingly supporting the plot by signing off on the restructured organogram he had devised and, in the case of Mokoena, framing the questions at the selection interview to stump the applicant; and (v) the entire process was supported over a protracted period by extensive documentary evidence and conduct designed to mislead staff, much of which would be initiated and consummated by Mokoena.
+
+[78]    In relation to the first issue – that is whether there was evidence of knowledge on the part of Madzonga – Mr Brassey's submissions were along these lines.
+
+Madzonga's evidence was this: in the light of the tip-off Madzonga had received from an ex-employee in December 2010, he had every reason to suspect that somebody had informed against him; however, Madzonga denied that, prior to the middle of May 2011, he even suspected that the applicant was the person who informed against him; and the first time that Madzonga actually knew that the applicant was the whistle-blower was when he saw the statement of case she filed with this Court.
+Turning to the applicant's evidence, she was only able to refer to two facts in support of her contention that Madzonga knew that she was the whistle-blower. The first was the December 2010 / January 2011 staff meeting in which Madzonga supposedly referred to Sehoole as knowing so much about the CLD (see further below). But, even supposing that this was said, it showed no more than that Madzonga knew that Sehoole was delving into the CLD's affairs, with there being nothing to link this to the applicant. The second fact was that Madzonga had asked Van Tonder whether the applicant was the whistle-blower. But this exchange takes the matter no further as Madzonga had put forward other names to Van Tonder, and he  
+[2017] JOL 36884 (LC) at 24
+had accepted Van Tonder's denial that the applicant was the whistle-blower as true.
+With reference to various passages in the transcript, the applicant conceded under cross-examination that she had no more than a suspicion that Madzonga had known that she was the whistle-blower.
+In the result, Madzonga's version of a lack of knowledge stood to be accepted.
+
+[79]    Turning to the second issue – which boils down to whether there was evidence of a conspiracy – Mr Brassey's submissions were along these lines.
+
+Although the applicant was emphatic in her suggestion that Madzonga had victimised her on account of her whistle-blowing, she was unable to always maintain this stance. For example, she accepted that correspondence written by Madzonga in the run-up to her dismissal was not obviously mala fide or suggestive of a lack of transparency and the presence of duplicity.
+Madzonga firmly denied that he victimised the applicant, and denied that he conspired with Mokoena to do so. Mokoena and Ramadan themselves denied their part in any conspiracy.
+While Pienaar and Nyathi (other signatories to the final structure) were not called as witnesses, their evidence was unnecessary since the applicant did not implicate them in the plot. The applicant conceded that they had enough knowledge of the CLD to be able to make an independent assessment of the utility of the new structure. If they, having applied their minds to the matter, had come to the conclusion that something was amiss, they would most certainly have dealt with the problem if, as the applicant conceded, they were untainted by any conspiracy. 
+[2017] JOL 36884 (LC) at 25
+The applicant sought to implicate Mokoena and Ramadan by a process of inference from the fact that she, a whistle-blower, was the one who was ultimately dismissed. The fallacy in this is that her selection for dismissal is equally consistent with the fact that she was the person who, by her own account, was the one to be retrenched. (I mention in this regard that the applicant accepted in her evidence that, if the process of restructuring and retrenchment was genuine, then she was the person properly selected for retrenchment.)
+The applicant also sought to make something of the fact that Mokoena omitted her name from the initial organogram, but this evidence counts against her case – manifestly, only a fool would show his hand in this way if he were part of a conspiracy of the sort suggested.
+The applicant conceded that only Madzonga had a motive to conspire against her. Mokoena did not but might, so the applicant suggested, do so if instructed by his superior (Madzonga). Ultimately, however, the applicant conceded that he was not the kind of person who would behave in this way. Though occasionally willing to suggest that Mokoena was a liar, she was generally unable to condemn him as a conspirator. Pertinently asked whether she believed Madzonga had instructed Mokoena to target her, she conceded that "no, that is not my evidence".
+Ramadan was from time to time accused by the applicant of being complicit in the plot, but in vague terms. Ultimately, the applicant conceded that there was nothing to suggest that she was biased against her. Asked if the selection panel was biased against her, the applicant said "I cannot talk for Karen Ramadan. I would not say Karen was biased against me".
+The applicant's conduct was inconsistent with the belief that she was being victimised for whistle-blowing. She did not make a complaint to the HR Department; she did not complain that the organogram had been structured in order to victimise her and more specifically, she did not initiate the grievance procedure for that purpose; she did not take the  
+[2017] JOL 36884 (LC) at 26
+matter up with either Mokoena or Fakie; and she solicited no report back from Sehoole.
+In the result, the evidence did not establish the existence of a conspiracy, which was destructive of the applicant's claim that she had been dismissed on account of having made a protected disclosure.
+
+The applicant's case on causation
+
+[80]    In his heads of argument, Mr Seleka, who appeared for the applicant, sets out a lengthy set of submissions (under the heading "occupational detriment") in support of the contention that the applicant was dismissed on account of having made a protected disclosure, and that her retrenchment was simply a sham and a camouflage rooted in a conspiracy.
+
+[81]    In a well prepared oral argument, with reference to a written note on his argument, Mr Seleka advanced the following list of facts / submissions (which I have summarised) in support of this contention.
+
+Already in December 2010, Madzonga knew about the PwC investigation (having been tipped off by an ex-employee), and knew that the applicant was the whistle-blower (this in the light of the December staff and one-on-one meetings referred to below), with him having gone on to raise the issue with Van Tonder in May 2011.
+At a CLD meeting in December 2010 ("the December meeting"), Madzonga (on the applicant's version) took employees to task about gossiping about him and enquired about how someone so new (presumably a reference to Sehoole) in the MTN Group could know so much about what was going on in MTN South Africa.
+Shortly after the December meeting, Madzonga convened one-on-one meetings with employees. During the course of his meeting with the applicant, the following transpired (on the applicant's version): Madzonga  
+[2017] JOL 36884 (LC) at 27
+asked the applicant whether she had a problem with him; the applicant replied in the negative and, in turn, asked Madzonga whether he had a problem with her; and, in response, Madzonga stated that he did not have a problem with the applicant, provided she was not friends with Dabengwa or anyone within the Group Executive.
+This was then followed (out of the blue) by Madzonga's email of 21 January 2011, where he spoke of the need to "reduce costs significantly" and "remove duplications" – this being the beginning of the plot to get rid of the applicant.
+When the applicant requested a copy of the budget (that is a spreadsheet reflecting all matters outsourced to attorneys, the names of the attorneys and the legal costs incurred), this was refused by Mokoena and Madzonga in their emails of 30 May 2011. This despite Madzonga's concession that the structure determined costs and that the information requested by the applicant related to the structure.
+Already during the one-on-one meeting held between Mokoena and the applicant in February 2011, Mokoena (on his version) spoke of the applicant's redundancy – this in circumstances where, according to Madzonga, retrenchments had not been contemplated at that stage.
+Of the SLAs only the applicant's name was removed from the "finalised" structure (as Mokoena called it on occasion) prepared by Mokoena and released on 11 May 2011. MTN's contention that this was an innocent error is inconsistent with the fact that the structure had been discussed by management before it was released.
+On 12 May 2011, the applicant raised a concern to the effect that "I hope and believe that the reason for declaring my position redundant is not motivated by other issues". In his response on the same day, Mokoena did not deal with this issue. 
+[2017] JOL 36884 (LC) at 28
+The new / final structure circulated by Madzonga on 27 May 2011 was hastily approved in the most secretive and disorderly manner – it having been approved before the deadline set for comments (9am on 30 May 2011).
+In terms of the final structure, only the applicant (as an SLA) was affected, and subsequently received a section 189(3) letter on 2 June 2011.
+On 6 June 2011, the applicant repeated her concern that she was being targeted on account of having made a protected disclosure, recording that MTN was seeking "to get rid of me because of the disclosure of a possible impropriety within the meaning of [the PDA]". Again, the applicant's complaint fell on deaf ears and she was completely ignored.
+After having been identified for retrenchment, no consultation (in terms of MTN's retrenchment policy or section 189 of the LRA) was undertaken together with the applicant. Preceding discussions over the structure did not relate to the applicant's retrenchment – this being borne out by Mokoena's email to the applicant on 12 May 2011, which recorded that there had hitherto been no process of (retrenchment) consultation undertaken.
+Allied to the above, there was no consultation with the applicant over alternatives to her retrenchment (this having been accepted by Mokoena). Alternative positions (so it was contended) were available, namely the position occupied by Maragele (who died during May 2011) and the position occupied by Sandile Mazibuko (who resigned on 9 September 2010).
+The applicant was retrenched on the basis that her position was duplicated, but in circumstances where Madzonga still wanted the CIO / CTO function (it having been absorbed into the position of SLA: CFO and Procurement). 
+[2017] JOL 36884 (LC) at 29
+The proffered reason for retrenching the applicant was (so it was submitted) absolutely nonsensical, when regard is had to the fact that the Procurement Division was said to be understaffed, inexperienced and overworked – this being the very reason why Madzonga outsourced procurement work to NNA. So why (it was asked) should duplication be of any concern?
+While she was dismissed allegedly in order to reduce the staff complement, after the applicant's dismissal, a new person was appointed to Maragele's position (Ntloko in August 2011), and a new position of SLA: Business Channel was created and filled (by Msibi in April / May 2012). In relation to the latter position, it was removed by Madzonga in his final structure, but then brought back after the applicant's dismissal, which served to confirm the plot against her.
+The applicant was the only employee who was dismissed – and her dismissal was brought forward to 21 June 2011 and effected summarily and without due process allegedly on account of her having been disruptive, which she denied.
+Not a single one of the legal advisors (to whom the structural changes related) lost their job. Instead they were either promoted to SLA positions or their positions were made permanent. This, too, cast doubt on what the real reason was for the restructuring.
+Madzonga conceded that he told Mokoena to target only the applicant's position, despite procurement overlapping with other divisions as well. (I point out at this juncture that this does not accord with my reading of the evidence in point.)
+The interview process that the applicant was subjected to was unfair and a sham. The applicant was made to face unfair competition from SLAs who already occupied the positions and had much longer service than she had,  
+[2017] JOL 36884 (LC) at 30
+and Pinheiro was reappointed to the position of SLA: CMO without going through the interview process.
+
+[82]    With reference to the above, Mr Seleka submitted that these factors were more than sufficient to show that the applicant was dismissed on account of having made a protected disclosure.
+
+The credibility of the witnesses
+
+[83]    It is necessary to make some findings about the quality of the witnesses. Mokoena generally impressed me as a witness – he cut an honest figure in the witness box and gave clear and convincing evidence. Although by and large a sound witness, Madzonga's evidence was at times marred by uncertainty and confusion (seemingly as a consequence of not being properly prepared for the trial). Ramadan, was a satisfactory, although sometimes vague witness. Van Tonder and Sehoole (called by the applicant) were uncontroversial witnesses, with most of their evidence being common cause. Turning to the applicant, Mr Brassey submitted that she made a poor witness for various reasons traversed at length in his heads of argument. Although I do not find the applicant to have been a dishonest witness, some of the criticism levelled against her has merit, including the fact that she, on occasion, was determinedly evasive, anticipated the lines of questioning and sought to fashion her responses accordingly, contradicted herself, and gave evidence based on suspicion. This had some bearing on my assessment of the evidence.
+
+Evaluation and findings on causation
+
+[84]    Central to the applicant's case is the contention that Madzonga knew that she was the whistle-blower in December 2010 (before his email of 21 January 2011). She bases this on the events of the CLD meeting and one-on-one meeting which she says occurred in December 2010, but this conflicts with her statement of case, which records that the meetings occurred a day or two prior to her meeting with PwC in February 2011. In his evidence, Madzonga  
+[2017] JOL 36884 (LC) at 31
+recalled a CLD meeting where he had addressed staff regarding gossiping about relationships and bringing what happened on the weekend to work (as opposed to gossiping about him), but was uncertain about the date thereof, and said that he could not recall saying at a meeting what the applicant said he had said. Regarding the one-on-one meeting, Madzonga accepted that it occurred, with it being his version that he had addressed the applicant (along with all other employees in the CLD) about social gossiping. In circumstances where Madzonga's version was not pleaded in response to the applicant's detailed allegations, where it was not put in the same terms to the applicant under cross-examination, and where Madzonga's evidence was vague in significant respects, I am inclined to accept the applicant's version about the CLD and one-on-one meetings.
+
+[85]    However, in my view, it does not follow from this that Madzonga knew, as at December 2010, that the applicant was the whistle-blower – the applicant herself having accepted that she had no more than a suspicion that Madzonga knew. Instead, Madzonga appeared suspicious of all CLD employees. And consistent with this, his uncertainty extended to his meeting with Van Tonder on 23 May 2011 (some five months later), when he put forward the applicant as one of three persons who could have been the whistle-blower.
+
+[86]    Also central to the applicant's case is that Madzonga's email of 21 January 2011 effectively came out of the blue and was the beginning of the plot to get rid of her. The veracity of this contention is tied up with the events of the CLD strategic session held on 8 and 9 December 2010. Mokoena testified that over the two days, he had spoken at length and engaged staff over the need to optimise the structure in the CLD and move away from a silo approach. He also testified that, on the second day, Madzonga attended the session for a short time to report back on an Exco review that he was part of at the time. According to Mokoena, in the context of addressing the fact that MTN was in an economic downturn, Madzonga had informed staff that "[we] need to improve our process . . . [w]e need to ensure that our structures are optimal" – this having been the message carried from Exco. Madzonga corroborated this  
+[2017] JOL 36884 (LC) at 32
+in his evidence, adding that he had said that the CDL needed to be "lean and agile". In her evidence, the applicant disputed MTN's version principally on the basis that it was not taken up in the minutes / action plan flowing from the meeting. Pressed under cross-examination about whether she had an independent recollection of the meeting, the applicant was clearly evasive. There are two recordings that appear to support MTN's version – the first being that Madzonga made reference to the strategic session in question in his email of 21 January 2011 (in the context of recounting the Exco review), and the second being this sentence in the minutes of the CLD meeting of 30 May 2011: "[Madzonga] also mentioned that it was discussed and recorded in the strategy sessions that the [CLD] structure is no longer efficient and not structured properly".
+
+[87]    In these circumstances, and particularly given that Mokoena and Madzonga corroborated one another on this issue, I have little hesitation in finding that the restructuring of the CLD was foreshadowed during the December 2010 strategic session – and that this was an initiative emanating from MTN's Exco. The applicant's contention that Madzonga's email of 21 January 2011 came out of the blue and was indicative of the plot hatched by him to get rid of her thus stands to be rejected.
+
+[88]    The next central pillar of the applicant's case is that, following upon Madzonga's email of 21 January 2011, the entire restructuring and retrenchment process (which culminated in her leaving MTN on 21 June 2011) was a plot – rooted in a conspiracy – to get rid of her on account of her having made a protected disclosure ("the applicant's contention"). To my mind, this is an unsustainable contention for two main reasons.
+
+[89]    Firstly, the plot contended for by the applicant would have required several senior members of MTN management to have entered into a conspiracy together with Madzonga along the lines submitted by Mr Brassey, of which there is no sustainable evidence. I have no reason to disbelieve Mokoena's emphatic rejection of being part of any conspiracy, with this having been corroborated by Madzonga, and it is significant that the applicant herself does  
+[2017] JOL 36884 (LC) at 33
+not consider Mokoena to be a person of a conspiratorial nature. And, of course, without Mokoena being party thereto, there could be no conspiracy. Also significant is the fact that, as submitted by Mr Brassey, the applicant did not contend that Ramadan (at least not consistently) and Pienaar and Nyathi were part of the conspiracy. But, if there had been a conspiracy, they would have had to have been part of it. In this context, the applicant's concession that Pienaar and Nyathi (MD and HR Executive, respectively) were sufficiently steeped in the structure of the CLD to themselves make a judgment call on whether the final structure submitted by Madzonga was in order is, to my mind, significant.
+
+[90]    Secondly, from and overall perspective, the common cause chronology of events during the period 21 January 2011 and 21 June 2011 (five months) and the documentary record relating thereto (see paragraphs 20–60 above) does not bear out the applicant's contention. Instead, it demonstrates that MTN engaged in a series of meetings and interactions over a new structure for the CLD, decided on a new structure, populated it, and ultimately retrenched the employee who was not accommodated (the applicant). Along the way, the applicant (together with her colleagues) was consulted with both individually and as part of the CLD, invitations to make comments were extended to her, and responses given (sometimes in a lot of detail) to her input. This has all the hallmarks of a typical "spill-and-fill" restructuring exercise, as opposed to a disingenuous plot to get rid of the applicant for an ulterior motive. Consistent with this, the applicant herself admitted that the record of correspondence written by Mr Madzonga in the run-up to her dismissal was not obviously mala fide or suggestive of a lack of transparency and the presence of duplicity.
+
+[91]    Turning to another issue, also central to the applicant's case (this being apparent from the points advanced by Mr Seleka in argument) is an inference to the effect that because the applicant was a whistle-blower and retrenched and (allegedly) unfairly so, it follows that she must have been retrenched as a reprisal for having made a protected disclosure. As submitted by Mr Brassey, the fallacy in this is that the applicant's dismissal is equally consistent with the  
+[2017] JOL 36884 (LC) at 34
+fact that she was the person who, by her own account, was the one to be retrenched, if the process of retrenchment and restructuring was genuine. Allied to this, one would obviously have to be very cautious to elevate what may be classified as typical procedural shortcomings in the context of a retrenchment exercise, to evidence of the retrenchment having been for an ulterior motive. I refer here to points (e), (f), (g), (h), (i), (k), (l) and (m) relied on by Mr Seleka in argument. To my mind, on the evidence before me, these points are not indicative of an ulterior motive, as opposed to being shortcomings (or potential shortcomings) in the consultative process per se.
+
+[92]    While many of the points raised by Mr Seleka in argument have been dealt with above, I turn now to address the remaining points raised by him. Regarding the proposed and final structure (see points (g), (i) and (j)), I am inclined to accept that: the removal of the applicant's name from the structure proposed by Mokoena was a bona fide error; while it is so that the final structure circulated by Madzonga was approved before the deadline for comments, the signatories (as Madzonga testified) would have revisited it if comments came to light; and there was nothing sinister in the applicant being the only SLA affected by the final structure.
+
+[93]    Regarding the contention about the absence of consultation over alternative positions and the alleged existence thereof (point (m)), while there may well have been a process failure to consult over alternative positions, it was Mokoena's evidence that the applicant was not interested in a junior position, with the positions previously occupied by Maragele and Mazibuko having been legal advisor positions. It was also Mokoena's evidence that Mazibuko's position had been filled before the applicant's retrenchment.
+
+[94]    Regarding the attack on the rationale for the applicant's retrenchment (points (n) and (o)), the evidence tendered by Mokoena established that much of the work falling within the applicant's portfolio was being done by the procurement function, that there was a considerable duplication in this regard, and that only about 20% of the applicant's work was not of a procurement nature. It was, accordingly, considered more efficient to incorporate the applicant's CIO / CTO  
+[2017] JOL 36884 (LC) at 35
+function (which was always going to be retained) into the portfolio of the SLA: CFO and Procurement. This rationale is captured in the contents of the PowerPoint slide quoted in paragraph 35 above, and was testified about in some detail. As at the time of the trial – in excess of a year after the applicant's dismissal – that position (and portfolio) remained intact.
+
+[95]    Regarding the attack on a position having been filled and another created after the applicant's dismissal (point (p)), the applicant was retrenched because her functions could more efficiently be incorporated into the portfolio of another SLA, which had no bearing on the appointment of Ntloko and Msibi. In my view, Msibi's appointment to the position of SLA: Business Channel 10 months after the applicant's retrenchment is not indicative of a plot against the applicant given the circumstances under which this appointment was made (see paragraph 68 above).
+
+[96]    Regarding the fact that the applicant was the only employee who was retrenched and that her dismissal was brought forward (points (q) and (r)), I do not consider this indicative of the applicant having been retrenched for an ulterior motive. In respect of the latter point, both Madzonga and Mokoena gave evidence about the applicant having been disruptive after having been notified of her retrenchment, with the result that she was asked to leave on 21 June 2011 (without any loss of benefits).
+
+[97]    Regarding point (s), on my reading of the relevant portion of the evidence of Madzonga, he went on to testify that "I never said let us focus on the applicant's position".
+
+[98]    Regarding the attack on the interview process (point (t)), the fact that the applicant faced stiff competition during the interview process is not indicative of a plot. And insofar as Pinheiro did not undergo an interview, this had no bearing on the applicant's retrenchment, as the applicant withdrew her application for the position of SLA: CMO (occupied by Pinheiro) during the interview process.
+
+ 
+[2017] JOL 36884 (LC) at 36
+
+[99]    In all the circumstances, I am of the view that MTN has acquitted itself of the onus of proving that the applicant was not dismissed on account of having made a protected disclosure (but instead on account of its operational requirements). Put differently, on the evidence before me, the applicant's dismissal would, in my view, have occurred if she had not made the protected disclosure. It follows that the applicant's dismissal was not automatically unfair.
+
+The third issue: was the applicant's retrenchment substantively fair?
+
+[100]    In argument before me, Mr Seleka's attack on the substantive fairness of the applicant's retrenchment was based on the contention that it was a sham and that there was no sound economic rationale therefor.29 Whether it was open to the applicant to pursue the latter point in the light of her concession that, if it is found that the retrenchment was genuinely undertaken (that is not a sham), her retrenchment was in order, appears questionable.
+
+[101]    Although the LAC has in the past adopted divergent views regarding the test for the substantive fairness of a retrenchment, in its recent judgment in Super Group Supply Chain Partners v Dlamini and another (2013) 34 ILJ 108 (LAC),30 the full court endorsed the following dictum of the LAC in Kotze v Rebel Discount Liquor Group (Pty) Ltd (2000) 21 ILJ 129 (LAC) [also reported at [1999] JOL 5773 (LAC) – Ed]:31
+
+"The requirement of consultation is essentially a formal or procedural one, but it also has a substantive purpose. That purpose is to ensure that such a decision is properly and genuinely justifiable by the operational requirements or by a commercial or business rationale [authority omitted]. . . . The function of the Court in scrutinizing the consultation process is not to second-guess the commercial or business efficacy of the employer's ultimate decision but to pass judgment on whether such a decision was genuine and not merely a sham. The Court's function is not to decide whether the employer made the best decision under the circumstances, but only whether it was a rational commercial or operational decision, properly taking into account what emerged during the consultation process [authority omitted]."32
+
+ 
+[2017] JOL 36884 (LC) at 37
+
+[102]    With reference hereto, and for the reasons already stated above (see paragraph 94), I am of the view that the applicant's retrenchment was based on a genuine economic rationale and that it was not merely a sham. I accordingly find that the applicant's retrenchment was substantively fair.
+
+The fourth issue: was the applicant's retrenchment procedurally fair?
+
+[103]    In argument, Mr Seleka submitted that, in effect, no process of consultation at all had been followed by MTN, and also made reference to certain of the points set out in paragraph 81 above under this head. Mr Brassey, in turn, submitted that the applicant had stated in evidence that the process of consultation was not followed, but that she was forced to accept that one-on-one consultations were held. He also made reference to the applicant's complaint that she was not given the CLD budget, but submitted that it is plain that this document was irrelevant to the issue of restructuring and was required only to support her disclosure. In the result, he submitted that the applicant's retrenchment was procedurally fair.
+
+[104]    In my view, the consultation process suffered from three serious short comings. Firstly, in terms of section 189 of the LRA, the process of consultation over a retrenchment commences with a section 189(3) notification. The applicant was issued with such a letter on 2 June 2011. But by that time, it was a fait accompli (what with the adoption of the final structure proposed by Madzonga) that the applicant's position was redundant (it having been done away with). That is a decision that ought to have been made further to a process of section 189 consultation – instead, it was the point from which the section 189 process commenced.
+
+[105]    Secondly, the section 189(3) letter issued to the applicant contained an invitation to her to consult with MTN, and prevailed upon her to "please email your questions, suggestions and requests to Clarissa Ross so that we can respond to them". In accordance herewith, on 6 June 2011, the applicant sent an email to Ross in which, as stated above, she pertinently raised the complaint that MTN was getting "rid of me because of the disclosure of a  
+[2017] JOL 36884 (LC) at 38
+possible impropriety within the meaning of [the PDA]". Although she replied to this email (which she copied to Madzonga and Mokoena), Ross did not deal at all with this very serious complaint. According to Madzonga, he would have expected Ross to do so33 and to have brought the complaint pertinently to his attention. To make matters worse, having been sent the applicant's email, neither Madzonga nor Mokoena paid attention to it. In the result, the applicant was made to appear before the interview panel on 9 June 2011 (which effectively constituted part of the consultation process) comprising, inter alia, Madzonga, in circumstances where he accepted that his recusal was appropriate (but was not undertaken because he said he had not read the applicant's email). To my mind, both this and MTN's inexplicable failure to deal with the applicant's complaint raised in the course of the consultation process constitutes a serious deficiency. (It should also be mentioned that MTN did not react to the applicant's email of 12 May 2011 or to her CCMA referral of 14 June 2011.)
+
+[106]    On first principles, where an employee who makes a protected disclosure faces retrenchment and (incorrectly, but perhaps understandably) attributes her selection for retrenchment to having made the protected disclosure, the employer must go out of its way during the consultation process to allay any and all such fears – otherwise the consultation process will be robbed of its legitimacy and the objective of a joint consensus-seeking process wholly undermined. In this case, MTN did nothing of the sort.
+
+[107]    Thirdly, at best for MTN, the entire section 189 consultation process following the issuing of the section 189(3) letter on 2 June 2011 comprised the following: the selection interview on 9 June 2011; the communication of the results on 10 June 2011; and the issuing of notice of retrenchment on the same day. This by no means complied with the "compulsory" procedure set out in MTN's retrenchment policy, which provides for three consultation meetings and a set timetable. To compound matters, the applicant's notice of retrenchment, which was issued on a Friday (10 July 2011), gave the  
+[2017] JOL 36884 (LC) at 39
+applicant until the Monday (13 June 2011) to make representations on the proposal "by when we intend the consultation process to be complete". (In these circumstances, including that the serious complaint raised by her remained unaddressed, it is not surprising that the applicant chose instead to refer a dispute to the CCMA on 14 June 2011).
+
+[108]    In the result, I find that the applicant's retrenchment was procedurally unfair.
+
+The fifth issue: what relief should be afforded to the applicant?
+
+[109]    Having found the applicant's dismissal procedurally unfair, in terms of sections 193 and 194 of the LRA, I have the discretion to decide whether or not to award the applicant compensation, and, if I decide to do so, the discretion to award her up to 12 months' remuneration as compensation on the basis of what is just and equitable in all the circumstances.
+
+[110]    In Johnson & Johnson (Pty) Ltd v Chemical Workers Industrial Union (1999) 20 ILJ 89 (LAC) [also reported at [1998] JOL 3758 (LAC) – Ed],34 the LAC held as follows about the nature of compensation for procedural unfairness:
+
+"The compensation for the wrong in failing to give effect to an employee's right to a fair procedure is not based on patrimonial or actual loss. It is in the nature of a solatium for the loss of the right, and is punitive to the extent that an employer (who breached the right) must pay a fixed penalty for causing that loss. In the normal course a legal wrong done by one person to another deserves some form of redress. The party who committed the wrong is usually not allowed to benefit from external factors which might have ameliorated the wrong in some way or another."35
+
+[111]    In the circumstances of this case, there can be little doubt that an award of compensation is warranted. Regarding the quantum thereof, it seems to me that there are, in the main, two factors to be considered: the degree of MTN's departure from the requirements of a fair procedure; and the applicant's conduct.36 The fact that the applicant did not suffer substantial patrimonial  
+[2017] JOL 36884 (LC) at 40
+loss as a consequence of her retrenchment because she gained alternative employment relatively quickly is not relevant given that compensation for procedural unfairness is a solatium (see Johnson & Johnson (supra)).
+
+[112]    To my mind, the degree of MTN's departure from the requirements of a fair procedure was – in the peculiar circumstances of this case – serious, and the applicant did not conduct herself badly during the consultation process (such as it was) so as to warrant a reduction in compensation.
+
+[113]    In all the circumstances, I am of the view that an award of six months' remuneration as compensation for the applicant's procedurally unfair retrenchment is just and equitable.
+
+The sixth issue: is the applicant entitled to an order that she be allowed to exercise certain share rights?
+
+[114]    In keeping with the fact that little was made of this claim in evidence, Mr Seleka said nothing about it in his heads of argument save for recording the relief sought by the applicant, and did not pursue the issue in oral argument. In the circumstances, I find that the applicant has not made out a case in relation to her share rights' claim.
+
+Order
+
+[115]    In the premises, the following order is made:
+
+the applicant's dismissal by the first respondent was not automatically unfair;
+the applicant's dismissal by the first respondent was substantively fair;
+the applicant's dismissal by the first respondent was procedurally unfair; 
+[2017] JOL 36884 (LC) at 41
+4) the first respondent shall pay the applicant six months' remuneration as compensation for her procedurally unfair dismissal;
+the applicant's claim in relation to her share rights is dismissed;
+the first respondent shall pay half of the costs of the action.
+
+
+Footnotes
+1	 PricewaterhouseCoopers.
+2	 Group Executive.
+3	 General Manager.
+4	 Human Resources.
+5	  Chief Corporate Services Officer.
+6	  Chief Marketing Officer.
+7	  Chief Technical Officer.
+8	  Chief Information Officer.
+9	  Chief Financial Officer.
+10	  Mergers and Acquisitions.
+11	 The incumbent's name did not feature in evidence.
+12	 Business Risk Management.
+13	  South and Eastern Africa.
+14	 Vice President.
+15	 As stated above, he is currently the GE: Business Risk Management of the MTN Group.
+16	 Chief Executive Officer.
+17	 Managing Director.
+18	 The acronyms CTI and CTO are used interchangeably in the documentation / evidence.
+19	 Labour Relations Act 66 of 1995.
+20	 Commission for Conciliation, Mediation and Arbitration.
+21	 Protected Disclosures Act 26 of 2000.
+22	 S 4(2)(a) of the PDA provides likewise.
+23	 Also reported at [1999] 10 BLLR 1005 (LAC) .
+24	 Labour Appeal Court.
+25	 At para [32]. Cited with approval in Kroukam v SA Airlink (Pty) Ltd (2005) 26 ILJ 2153 (LAC); [2005] 12 BLLR 1172 (LAC) at para [26] [also reported at [2006] JOL 15771 (LAC) – Ed].
+26	 Also reported at [2012] 10 BLLR 1001 (LAC).
+27	 Citing Maimela v UNISA (2010) 31 ILJ 121 (LC) at para [32] [also reported at [2009] JOL 23722 (LC) – Ed].
+28	 At para [15].
+29	  These being amongst the points advanced by Mr Seleka in seeking to establish that the applicant's dismissal was automatically unfair.
+30	 Also reported at [2013] 3 BLLR 255 (LAC).
+31	 Also reported at [2000] 2 BLLR 138 (LAC).
+32	 At para [18]. Quoted at para [26] of Kotze (supra).
+33	 She was clearly required to do so in terms of s 189(6)(a) of the LRA.
+34	 Also reported at [1998] 12 BLLR 1209 (LAC).
+35	 At para [41].
+36	 Alpha Plant & Services (Pty) Ltd v Simmonds and others (2001) 22 ILJ 359 (LAC); [2001] 3 BLLR 261 (LAC) [also reported at [2001] JOL 7854 (LAC) – Ed].
+
+Appearance:
+PG Seleka, Eversheds (At); MSM Brassey SC, T Manchu, Mashiane Moodley Monama (1-2R)
+
+
+End of Document

@@ -1,0 +1,258 @@
+
+
+
+
+Fidelity Security Services (Pty) Ltd v Mogale City Local Municipality and others [2017] JOL 37652 (GJ)
+Judgments Online
+
+Division: Gauteng Local Division, Johannesburg
+Case No: 32719 / 15
+Hearing Date(s): 21 / 06 / 2016
+Judgment Date(s): 08 / 07 / 2016
+Bench: F Kathree-Setiloane J
+
+
+Keywords
+
+
+Civil procedure — Court order — Review application — Granting of — Appeal — Interim operation of order — Section 18, Superior Courts Act 10 of 2013
+
+Mini Summary
+
+
+The applicant (Fidelity) sought the review and setting aside the first respondent municipality’s decision to appoint the second respondent (Sidas) to provide security services. The application was based on the municipality’s failure to meet the requirements of the Local Government: Municipal Finance Management Act 56 of 2003, the Regulations promulgated in terms thereof, and its own Supply Chain Management Policy. The review application succeeded.
+
+Fidelity then applied in terms of section 18(1) and 18(3) of the Superior Courts Act 10 of 2013 (the Act) for an order that notwithstanding any application for leave to appeal and/or appeal by the municipality against the order granted in the review application, and pending the outcome of any such appeal, paragraphs 2, 3 and 4 of that order remained in operation and were given effect to. When the present application was filed, the municipality had yet to file a notice of application for leave to appeal, and it only did so the day before the application was argued. Accordingly, a major portion of the argument focussed on the question of whether Fidelity should be non-suited because at the time that it launched this application, the municipality had not yet lodged its application for leave to appeal.
+
+Held that litigants are only required to have a complete cause of action before issuing proceedings in the context of substantive relief. It is not essential to have a complete cause of action before an application for procedural or interlocutory relief may be brought. Fidelity’s application for execution of the order in question was manifestly interlocutory and procedural in nature. It was therefore not essential for Fidelity to have a complete cause of action before launching the application.
+
+Section 18 of the Act deals with the suspension of a decision pending appeal. The municipality contended that on a proper interpretation of section 18, it is not competent for a successful litigant to bring an application to execute an order unless and until the opposing party has filed an application for leave to appeal that order. When interpreting a legislative provision, the starting point must always be the language of the provision, read in context and having regard to its purpose. There appeared to be nothing in the plain language of section 18 of the Act which indicated that an application to execute may only be launched once the application for leave to appeal has been lodged. The court held that on its plain meaning and purposively interpreted, section 18 does not require a notice of application for leave to appeal before an application to execute can be brought, provided the respondent has indicated its intention to do so. An applicant must show that there are exceptional circumstances that it will suffer irreparable harm if it does not obtain the order, and that the respondent will not suffer irreparable harm if it does. In addition the applicant must show urgency.
+
+In casu, a refusal to put into operation the order pending the determination of the application for leave to appeal or the appeal would result  in its evaporation as it would never be brought into effect, and Fidelity would be left with no relief. That constituted exceptional circumstances that warranted putting the order into operation.
+
+ 
+[2017] JOL 37652 (GJ) at 2
+
+
+
+
+[1]    The applicant, Fidelity Security Services (Pty) Ltd (Fidelity) brought an application to review and set aside a decision by the first respondent, Mogale City Local Municipality (the Municipality), to appoint the second respondent, Sidas Security Guards (Pty) Ltd (Sidas), to provide security services. It sought this relief based on the Municipality's failure to meet the requirements of the Local Government: Municipal Finance Management Act 56 of 2003, the regulations promulgated in terms thereof,1 and its own supply chain management policy. On 27 May 2016, Du Toit J made, inter alia, the following orders:
+
+The decision of [the the Municipality] purportedly to participate in the contract concluded between the City of Tshwane and [Sidas] for the provision of security services is reviewed and set aside.
+The contract between the [the Municipality] and [Sidas] for the provision of security services is reviewed and set aside.
+Pending the lawful conclusion of a new contract pursuant to a competitive bidding process, the [the Municipality] is directed to reinstate the previous month-to-month contract with [Fidelity], on the same terms." (the Du Toit order)
+
+Fidelity now makes application in terms of section 18(1) and 18(3) of the Superior Courts Act 10 of 2013 (the Act) for an order that notwithstanding any application for leave to appeal and/or appeal by the Municipality against the Du Toit order and pending the outcome of any such appeal, that paragraphs 2, 3 and 4 of that order remain in operation and are given effect to.
+
+[2]    This application is the latest instalment in litigation between Fidelity and the Municipality dating back to 2012. In order to place it in context, it is necessary to have regard to the litigation that preceded it, the findings made and the Municipality's conduct in relation to those findings. The background to the first application is that on  
+[2017] JOL 37652 (GJ) at 3
+4 July 2011, the Municipality advertised a tender for the provision of security services for a period of three years. Fidelity and Red Ant submitted tenders. The tenders of Red Ant and Fidelity scored highest in the bid evaluation process. However, both of them were disqualified from consideration for different reasons. Fidelity was disqualified because one of its directors had been unlawfully placed on the National Treasury's database of restricted suppliers. The North Gauteng High Court reviewed and set aside that decision on 10 May 2012 and ordered the National Treasury to remove the director's name from the database and later awarded damages to the impugned director. Pursuant to Fidelity's review of the Municipality's decision to disqualify it from the tender process, both this Court and the SCA held that the Municipality's disqualification of Fidelity was unlawful. Red Ant's bid was disqualified because it had attempted to bribe the Municipality's officials. On the Municipality's version, a whistle-blower informed the Municipal Manager that Red Ant had attempted to corrupt its supply chain management policies by providing a party, gifts and donations to the staff from one of its departments.
+
+[3]    Fidelity ultimately succeeded in an application to set aside the award of the tender.2 This Court refused the Municipality's application for leave to appeal on 4 June 2013. The Supreme Court of Appeal (SCA) granted special leave to appeal on 11 September 2013 and heard argument in the matter on 7 November 2014. It handed down judgment on 19 November 2014 (SCA Judgment).3 The SCA stated as follows in relation to the tender process:
+
+"The tender process in this case was so defective and involved so many flaws that it seems extraordinary to think that a public authority could engage in such a farcical endeavour."4
+
+The SCA cautioned the officials involved as follows:
+
+"This litany of errors is such that it is appropriate to remind the Municipality that it runs the risk, if there is a recurrence of such conduct, either at the re-evaluation stage or when dealing with other tenders, that a Court may be minded to take the decision out of its hands  
+[2017] JOL 37652 (GJ) at 4
+and, rather than referring it back, to order that the tender be awarded to the bidder to whom, in the Court's view, it should have been awarded had a proper process been followed."5
+
+[4]    The Municipality did not appeal against the decision of the SCA, yet it contradictorily proceeded to award the tender to Red Ant, despite disqualifying it for attempting to bribe its officials, and despite the finding of the SCA that Red Ant should have been disqualified from the tender process because it had attempted to corrupt the supply chain management policies of the Municipality by providing a party, gifts and donations to the staff from one of its departments.
+
+[5]    On 12 December 2014 Fidelity, once again, approached this Court for urgent relief. In that judgment6 Vermeulen AJ commented on the inappropriate conduct of Mr Mashitisho, the Municipal Manager (and the deponent to the Municipality's affidavits in this application) as follows:
+
+"The conduct of the Municipality's officials in regard to this tender is highly questionable in many respects. The conduct of [Mr Mashitisho], as the Municipality's accounting officer, calls for particular comment. When the affidavit he submitted in the application before Meyer, J. ('the previous affidavit') is compared to the affidavit in the present matter, it is difficult to resist the impression that the two affidavits must in fact have been deposed to by different persons; yet the affidavits deal with roughly the same subject matter. In the previous affidavit, [Mr Mashitisho] was at pains to emphasise the importance of the integrity of the government procurement process and the need to protect this process against the depredations of corruption. He stoutly defended the disqualification of [Red Ant] and was astute to deny that the Municipality had acted improperly or upon false information in its disqualification of [Red Ant]. . .. The position he adopted in the present matter, on the other hand, differs toto caelo from the previous affidavit."7
+
+Vermeulen AJ described the Municipality's award of the contract to Red Ant as "highly irregular administrative conduct". In determining the appropriate remedy, he justified his substitution of the Municipality's decision as follows:
+
+"In truth, nothing can be gained by remitting the matter yet again to the Municipality. It has conclusively shown that its officials cannot be entrusted with the function of  
+[2017] JOL 37652 (GJ) at 5
+dealing with this matter in a proper fashion. In the light of the disqualification of [Red Ant] and [Mafoko], the award of the contract to [Fidelity] is indeed a foregone conclusion. This Court, in so doing, will accordingly not offend against the principle of the separation of powers, or trespass on the domain of a sphere of government where the intricacies of policy would render judicial intervention inappropriate. It is ultimately the Municipality's own obduracy which has rendered direct judicial intervention in its affairs unavoidable." 8
+
+Vermeulen AJ accordingly set aside the Municipality's decision to award the contract to Red Ant, and ordered the Municipality to appoint Fidelity to provide security services.
+
+[6]    Pursuant to the order of Vermeulen AJ, Fidelity began providing security services to the Municipality on 18 December 2014. After 31 March 2015, it provided the services on a month-to-month basis. The Municipality issued a fresh request for proposals for the supply of the services commencing on 1 September 2015. Fidelity submitted a bid but instead of following the competitive tender process to a lawful conclusion, the Municipality allowed the tender to lapse, and entered into an agreement with Sidas to provide the services without following a competitive bidding process. It purported to do so under a "participation agreement" because Sidas had concluded an agreement with the City of Tshwane. Fidelity again approached this Court to challenge the legality of this decision. Du Toit AJ heard the application on 23 May 2016, and handed down the order quoted in paragraph 1 of this judgment on 27 May 2016.
+
+[7]    On 31 May 2016, just four days after the Du Toit AJ order was handed down, the Municipality appointed Sidas again, for a further six-month contract which was to lapse on 31 November 2016 (the second contract). It did so despite the fact that: (a) this was in breach of the Du Toit AJ order; (b) that it remained in force and effect as there was no application for leave to appeal against it; and (c) the Municipality had assured this Court under oath that its contractual relationship with Sidas could not possibly last beyond July 2016. On the same day (31 May 2016) the Municipality's attorneys addressed a letter to Fidelity's attorneys informing them that the  
+[2017] JOL 37652 (GJ) at 6
+Municipality intended to lodge a notice of application for leave to appeal against the whole judgment and order of Du Toit AJ. In Fidelity's reply, it asked whether the Municipality intended to comply with the order pending its application for leave to appeal. On 1 June 2016, the Municipality responded by stating that it did not intend to do so, as it was of the view that the application for leave to appeal would suspend the order of Du Toit AJ. The Municipality's attitude was that it was entitled to disregard the Du Toit AJ order, while at the same time preventing Fidelity from bringing an application to execute it simply by informing Fidelity that it intended, at some point in the future, to bring an application for leave to appeal. Fidelity took the view that it was not permissible for the Municipality to bring its application for leave to appeal at its leisure, while in the interim refusing to comply with the Du Toit AJ order. Fidelity accordingly launched this application in terms of section 18 of the Act on 9 June 2016.
+
+[8]    When this application was instituted on 9 June 2016, the Municipality had yet to file a notice of application for leave to appeal the Du Toit AJ order. It had until 20 June 2016 to do so. On 20 June 2016, the day before the application was argued before me, the Municipality had filed its application for leave to appeal. Accordingly, a major portion of the argument before me focussed on the question of whether Fidelity should be non-suited because at the time that it launched this application, the Municipality had not yet lodged its application for leave to appeal.
+
+The procedural nature of the relief sought
+
+[9]    The Municipality submits that Fidelity's section 18 application was premature because at the time that it was launched, it (the Municipality) had not yet filed a notice of application for leave to appeal. In other words, the contention advanced is that Fidelity was required to have a complete cause of action before issuing this application. Fidelity disagrees, contending that it was not required to have a complete cause of action before launching its application under section 18 of the Act because the relief which it seeks is procedural or interlocutory rather than substantive. I agree.
+
+ 
+[2017] JOL 37652 (GJ) at 7
+
+[10]    Litigants are only required to have a complete cause of action before issuing proceedings in the context of substantive relief.9 It is not essential to have a complete cause of action before an application for procedural or interlocutory relief may be brought. It is commonplace for applications for interlocutory and procedural relief to be launched without a complete cause of action being present at the time of the launch. Such relief is often sought conditionally on the occurrence of an uncertain future event. For example litigants frequently apply for conditional leave to cross-appeal against an order (ie they seek leave to appeal only in the event that the court grants their opponent leave to appeal or upholds their opponent's appeal).10 In such cases, the application for leave to appeal is brought conditionally on the occurrence of some future event, which may or may not occur. Our courts frequently entertain such applications despite the fact that one of the elements of the cause of action does not exist at the time that the application is brought. Similarly, a third party notice in terms of rule 13 of the uniform rules is conditional on a future finding of liability that does not exist at the time of the issuing of the third party notice.11 The same applies to a conditional counter-claim in terms of rule 28(4) of the uniform rules in which the litigant seeks relief only in the event that its opponent has obtained certain other relief.12
+
+[11]    Fidelity's application for execution of the Du Toit AJ order is manifestly interlocutory and procedural in nature. It was therefore not essential for Fidelity to have a complete cause of action before launching the application. Crucially, however, at the time of arguing the application Fidelity had a complete cause of  
+[2017] JOL 37652 (GJ) at 8
+action for the execution of the Du Toit AJ order because, by that stage, the Municipality had filed its notice of application for leave to appeal.
+
+Interpretation of section 18 of the Act
+
+[12]    Section 18 of the Act provides:
+
+Suspension of decision pending appeal.
+Subject to subsections (2) and(3), and unless the Court under exceptional circumstances orders otherwise, the operation and execution of a decision which is the subject of an application for leave to appeal or of an appeal, is suspended pending the decision of the application or appeal.
+Subject to subsection (3), unless the Court under exceptional circumstances orders otherwise, the operation and execution of a decision that is an interlocutory order not having the effect of a final judgment, which is the subject of an application for leave to appeal or of an appeal, is not suspended pending the decision of the application or appeal.
+A Court may only order otherwise as contemplated in subsection (1) or (2), if the party who applied to the Court to order otherwise, in addition proves on a balance of probabilities that he or she will suffer irreparable harm if the Court does not so order and that the other party will not suffer irreparable harm if the Court so orders.
+If a Court orders otherwise, as contemplated in subsection (1)—
+the Court must immediately record its reasons for doing so;
+the aggrieved party has an automatic right of appeal to the next highest Court;
+the Court hearing such an appeal must deal with it as a matter of extreme urgency; and
+such order will be automatically suspended, pending the outcome of such appeal.
+For the purposes of subsections (1) and (2), a decision becomes the subject of an application for leave to appeal or of an appeal, as soon as an application for leave to appeal or a notice of appeal is lodged with the registrar in terms of the rules."
+
+[13]  The Municipality contends that on a proper interpretation of section 18 of the Act, it is not competent for a successful litigant to bring an application to execute an order unless and until the opposing party has filed an application for leave to appeal that order. The contention thus advanced is that the existence of a notice of application for leave to appeal is a necessary condition for the launching of an application to execute an order in terms of section 18 of the Act. Fidelity counters this contention by arguing that both on its plain meaning and purposively interpreted, section 18 does not  
+[2017] JOL 37652 (GJ) at 9
+require a notice of application for leave to appeal before an application to execute can be brought.
+
+[14]  It is well established that when interpreting a legislative provision, the starting point must always be the language of the provision, read in context and having regard to its purpose.13 There seems to be nothing in the plain language of section 18 of the Act which indicates that an application to execute may only be launched once the application for leave to appeal has been lodged. What is clear, however, is that: (a) a decision that is the subject of an application for leave to appeal is suspended pending the application for leave to appeal or the appeal (section 18(1)); (b) A decision becomes a decision within the meaning of section 18(1) (ie it becomes suspended) when the application for leave to appeal is lodged with the Registrar (section 18(1)); and (c) A court has the power, on application by a party, to order that the decision be put into operation, notwithstanding the default position of suspension. There is nothing in section 18 which indicates that this power is contingent on the decision having been suspended by virtue of the lodging of an application for leave to appeal.
+
+[15]  Section 18(5) of the Act only defines the time at which the decision becomes suspended. It says nothing at all about when it is competent to bring an application to execute in terms of sections 18(1) and 18(3). Neither does it say that such an application can only be brought once the decision has become suspended in terms of section 18(5). Nor does it say that such an application can be brought before the notice of application for leave to appeal has been filed. Section 18 is in fact silent on when an application to execute can be brought.
+
+[16]  It appears to me from a reading of section 18 that there are possibly two interpretations in relation to when an application to execute may be brought: the one contended for by Fidelity and the other by the Municipality. Both interpretations, in my view, would be consistent with the language of section 18. On the interpretation contended for by the Municipality, an applicant can never launch an application to execute a court order unless and until the opposing party has filed its notice of application for leave to appeal. Conversely, on Fidelity's interpretation, it is  
+[2017] JOL 37652 (GJ) at 10
+competent to bring an application to execute an order in circumstances in which the respondent has expressed the intention to seek leave to appeal, but has not yet filed its notice of application for leave to appeal. There is nothing in the language of section 18 indicating a preference for either of these interpretations.
+
+[17]  However, the interpretation advanced by the Municipality has the following practical consequences: The losing litigant has the power to frustrate the putting into effect of any order of court for at least 15 court days. This is because such a party has 15 court days within which to bring an application for leave to appeal. The party need only inform its opponent of the intention to appeal, and can then sit back and do nothing for 15 court days. During this time, there is literally nothing that the successful litigant can do to give effect to the court order. She cannot bring an application to execute the court order because no notice of application for leave to appeal has been filed. Neither can she bring a contempt application because the opposing party's refusal to implement the order during the interim period does not amount to contempt where there is a genuine intention to seek leave to appeal. She accordingly has no cause of action based on contempt of court, and no cause of action to enforce the order under section 18 of the Act. As a result, the successful litigant is left entirely without a remedy until such time as the unsuccessful litigant files its application for leave to appeal.
+
+[18]  The courts are, on this interpretation of section 18, helpless to do anything to assist the successful litigant, no matter how urgent or dire the position. There are obvious examples in which this interpretation would produce gross injustice. Consider a child who requires urgent medical treatment by tomorrow or she will die. The hospital unlawfully refuses to provide the medical treatment. The parents bring an urgent application to compel the hospital to provide the treatment. They win an order compelling the hospital to do so. The hospital says that it intends to seek leave to appeal within the 15 court days and then sits back and waits. On the Municipality's interpretation of section 18, there is literally nothing that the courts can do to assist these parents as they do not have a cause of action under section 18 of the Act because the application for leave to appeal has not been lodged. Nor do they have a cause of action arising from contempt of court, because the hospital is not in contempt as it does not intend to disregard the court order; but intends to appeal against it within  
+[2017] JOL 37652 (GJ) at 11
+the time afforded by the uniform rules. The parents have no other cause of action, because they have already brought their urgent application and won an order compelling the hospital to provide the treatment. But the order is worthless in their hands. There is nothing they can do to enforce it until such time as the hospital files its application for leave to appeal.
+
+[19]  This is an outcome that could not have been intended by the Legislature. It is inflexible and formalistic in the extreme. If it were correct, it would mean that the courts are in effect prohibited from taking appropriate measures to ensure that justice is done during the interim period between the grant of an order and the filing of an application for leave to appeal. It would also, as contended for by Fidelity, constitute an unconstitutional limitation of the right of access to court in terms of section 34 of the Constitution. In addition, it is inconsistent with the principle that when interpreting statutes: "[a] sensible meaning is to be preferred to one that leads to insensible or unbusinesslike results or undermines the apparent purpose of the [provision]".14
+
+[20]  By contrast, the practical implications of the interpretation advanced by Fidelity are the following: It is not necessary for a successful litigant to wait for an application for leave to appeal to be filed before bringing an application to execute. The successful litigant can competently seek an execution order even in circumstances where an application for leave to appeal has not yet been lodged but the respondent indicates its intention to do so. This, in my view, will not open the floodgates to section 18 applications, because it imposes other onerous burdens on the applicant: she must show that there are exceptional circumstances; that she will suffer irreparable harm if she does not obtain her order; and that the respondent will not suffer irreparable harm if she does. And of course, she must show urgency. The additional requirement of having to wait until the respondent files its application for leave to appeal is an insignificant additional barrier. On this interpretation, the courts have the power and the flexibility to ensure justice is done in genuinely urgent and appropriate cases, such as that of the child and the hospital and, such as in this case, where the Municipality had advised Fidelity that it intended to bring an  
+[2017] JOL 37652 (GJ) at 12
+application for leave to appeal the order, and four days later acted in contravention thereof in the absence of having sought leave to appeal against it.
+
+[21]  Section 39(2) of the Constitution requires that "When interpreting any legislation, every Court, tribunal or forum must promote the spirit, purport and objects of the Bill of Rights". There are three obligations that emerge from the Constitutional Court's jurisprudence on section 39(2) of the Constitution. The first obligation might conveniently be referred to as the "Hyundai obligation". This is that if a provision is reasonably capable of two interpretations and one interpretation would render it unconstitutional and the other not, the courts are required to adopt the interpretation that would render the provision compatible with the Constitution.15 The second obligation might conveniently be referred to as the "Wary obligation". This is that if a provision is reasonably capable of two interpretations, section 39(2) of the Constitution requires the adoption of the interpretation that "better" promotes the spirit, purport and objects of the Bill of Rights. This is so even if neither interpretation would render the provision unconstitutional.16 Finally, there is the third obligation, which may conveniently be referred to as "the NUMSA obligation". This is that, unless a statute clearly limits constitutional rights, a court should avoid an interpretation that has this effect.17 Each of these obligations is subject to the caveat that the provision must be "reasonably capable" of the interpretation concerned – that is the interpretation must not be "unduly strained".18
+
+[22]  The Municipality's interpretation of section 18 of the Act is that, once a losing litigant has indicated that it seeks leave to appeal but before it has lodged its application for leave to appeal, the winning litigant cannot bring any application in terms of section 18 of the Act to execute the order, since the filing of a notice of application for leave to appeal is a necessary element of a cause of action under section 18. For a period of 15  
+[2017] JOL 37652 (GJ) at 13
+court days, therefore, there is nothing that the successful applicant can do to enforce its order in the interim, and nothing that the courts can do to assist the applicant, no matter how dire the circumstances.
+
+[23]  The Municipality's interpretation, in my view, violates all three of the principles of interpretation set out above. It has the result that the successful litigant cannot approach the court until the period of 15 court days has lapsed, or the unsuccessful litigant has filed an application for leave to appeal. During this interim period, the successful litigant can do nothing but wait, and cannot enforce its order, no matter the facts and circumstances of the case. This is impermissible for the following reasons. First, it is an interpretation that prevents the successful litigant from coming to court to protect its rights (albeit only for the 15 court-day period) regardless of their circumstances. This is inconsistent with section 34 of the Constitution, which provides that:
+
+"Everyone has the right to have any dispute that can be resolved by the application of law decided in a fair and public hearing before a Court or, where appropriate, another independent and impartial tribunal or forum."
+
+The Constitutional Court has held in Chief Lesapo v North West Agricultural Bank and another19 that the right of access to courts is vital. Weighty considerations would be necessary to justify its limitation:
+
+"The right of access to Court is indeed foundational to the stability of an orderly society. It ensures the peaceful, regulated and institutionalised mechanisms to resolve disputes, without resorting to self-help. The right of access to Court is a bulwark against vigilantism, and the chaos and anarchy which it causes. Construed in this context of the rule of law and the principle against self-help in particular, access to Court is indeed of cardinal importance. As a result, very powerful considerations would be required for its limitation to be reasonable and justifiable."
+
+[24]  Second, it is an interpretation that prevents the courts from taking appropriate steps to ensure proper compliance with an order of court (albeit only for the 15 court-day period). The Municipality's interpretation would therefore be inconsistent with section 165(1) of the Constitution which vests the judicial authority of the republic in the courts; section 173 of the Constitution, which gives this Court the inherent power to protect  
+[2017] JOL 37652 (GJ) at 14
+and regulate its own process; and section 1(c) of the Constitution, which states that the supremacy of the Constitution and the rule of law are foundational values of South Africa. It follows from this that the interpretation favoured by the Municipality would render section 18 unconstitutional as it limits the rights contained in section 34 of the Constitution, despite the fact that the section does not do so expressly. It is furthermore not an interpretation that "better" promotes the values of the Bill of Rights, including those contained in section 34 and section 1(c) of the Constitution. The interpretation contended for by the Municipality is, therefore, not a permissible one. It accordingly falls to be rejected.
+
+[25]  The Municipality has, in event, now lodged its application for leave to appeal thus suspending the Du Toit AJ order. It cannot be that this Court is hamstrung and precluded from granting the relief sought simply because, at the time of issue of the application in terms of section 18 of the Act, the Municipality had not yet filed its application for leave to appeal but had nonetheless made it clear that it intended to do so sometime in the near future. It would not be in the interests of justice to simply ignore this fact merely because at the time that the section 18 application was issued, no application for leave to appeal had as yet been lodged.
+
+The requirements of section 18(3) of the Act
+
+[26]    I now turn to consider whether Fidelity has met the requirements in section 18(3) of the Act. In Incubeta Holdings (Pty) Ltd and another v Ellis and another,20 Sutherland J described the test for applications under section 18 as follows:
+
+"It seems to me that there is indeed a new dimension introduced to the test by the provisions of s 18. The test is two-fold. The requirements are:
+
+First, whether or not 'exceptional circumstances' exist; and
+Second, proof on a balance of probabilities by the applicant of –
+the presence of irreparable harm to the applicant/victor, who wants to put into operation and execute the order; and
+
+the absence of irreparable harm to the respondent/loser, who seeks leave to appeal."21
+
+ 
+[2017] JOL 37652 (GJ) at 15
+
+Irreparable harm to Fidelity
+
+[27]    The order of Du Toit AJ applies only until such time as the Municipality concludes a lawful contract in terms of a competitive bidding process. It is therefore inherently time-bound in nature. As is apparent from the Municipality's answering affidavit, it anticipates that the outer limit of the order is the end of November 2016, because it has concluded the second contract with Sidas until that time. Should leave be granted in this matter, it could take anywhere between a year and two years for an appeal of this nature to be concluded. As a result, if the Du Toit AJ order is not put into effect pending the appeal, it will likely never be brought into effect. For every month that passes, therefore, Fidelity suffers irreparable commercial harm by being deprived of the opportunity to provide security services that it is entitled to in terms of the Du Toit AJ order.
+
+[28]    The Municipality's contention that Fidelity will not suffer irreparable harm if the order is not brought into effect pending the appeal is unsustainable. Its case is that if Fidelity succeeds in its appeal, despite the relief having become moot in its hands, it will have a damages claim against the Municipality. This is wrong in law. The Constitutional Court has held that a litigant in Fidelity's position has no damages claim in these circumstances. The Constitutional Court in Steenkamp NO v Provincial Tender Board22 explained as follows:
+
+"Imposing delictual liability on the negligent performance of functions of tender boards would open the prospect of potential claims of tenderers who had won initially. This will be to the detriment of the invaluable public role of tender boards. A potential delictual claim by every successful tenderer whose award is upset by a Court order would cast a long shadow over the decisions of tender boards. Tender boards would have to face review proceedings brought by aggrieved unsuccessful tenderers. And should the tender be set aside it would then have to contend with the prospect of another bout of claims for damages by the initially successful tenderer. In my view this spiral of litigation is likely to delay, if not to weaken, the effectiveness of or grind to a stop the tender process. That would be to the considerable detriment of the public at large. The resources of our State Treasury, seen against the backdrop of vast public needs, are indeed meagre. The fiscus will ill-afford to recompense by way of damages disappointed or initially successful tenderers and still remain with the need to procure the same goods or service."
+
+ 
+[2017] JOL 37652 (GJ) at 16
+
+[29]    The Municipality urges the court not to make the Du Toit AJ order operative on the basis that it will endeavour to speed up the application for leave to appeal, so that it may be finally determined within three months. In my view, there is little or no prospect of any appeal being concluded with such expedition. In fact, as pointed out by Fidelity, the last time the Municipality brought its ill-fated appeal to the SCA, it took over a year for the appeal to conclude, despite its repeated efforts to secure an expedited hearing. This point is aptly illustrated by Sutherland J in Incubeta (albeit with reference to just the application for leave to appeal and not the appeal itself):
+
+"The application for leave to appeal has yet to be set down and will not be ripe before the orally delivered judgment of Foulkes-Jones AJ is transcribed, edited by her, made available to the litigants and a commonly convenient date is arranged. It is incontrovertible that none of these happenings will occur rapidly, an observation painfully obvious to bench and bar alike, in this division."23
+
+No irreparable harm to the Municipality
+
+[30]    It is common cause that pending the determination of the Municipality's application for leave to appeal or the appeal if leave is granted, the Municipality must contract with a service provider for the provision of security services as this is crucial to the preservation of its assets and the safety of its employees. The only question is whether that service provider should be Fidelity as required by the Du Toit AJ order, or Sidas which the Municipality prefers as its service provider. The Municipality contends that it will suffer irreparable harm if the Du Toit AJ order is put into effect pending the application for leave to appeal or the appeal. This contention is absurd as the only lawful contract concluded in recent history by the Municipality for the provision of security services is that with Fidelity. Du Toit AJ found that Fidelity was providing the services at a better price than Sidas. This is also common cause between the parties. Sidas' rates are more expensive for the Municipality's ratepayers than Fidelity's rates. Du Toit AJ held that the transfer of services to Fidelity would be "easy and smooth" since this type of handover has occurred twice before with no difficulty at all. The Municipality itself has also consistently evaluated Fidelity's services as excellent.
+
+ 
+[2017] JOL 37652 (GJ) at 17
+
+[31]    In addition, the Municipality contends that it might be liable to a damages claim if it cancels the contract with Sidas. There is no merit in this contention as the Municipality cannot be held liable for breach of contract by virtue of its compliance with a court order. As already pointed out, a successful tenderer in the position of Sidas has no claim for damages in such circumstances.24 What's more, is that the second contract with Sidas is patently unlawful and unenforceable as it was made in non-compliance with the Du Toit AJ order which was not suspended at the time. The Municipality, furthermore, contends that if it complies with the order of Du Toit AJ on a month-to-month basis this "may exceed the 15% of the original value of the contract", which would breach the Municipal Finance Management Act 56 of 2003, Circular 62 ("the MFMA Circular"). As demonstrated by Fidelity, this contention is without foundation as the Municipality has put up no evidence that the month-to-month appointment will result in expenditure exceeding 15% of the original contract. In any event, this contention is contradicted by the allegation that the Municipality could not continue extending Sidas' contract because of the MFMA Circular, but that the way around that was regulation 36 of its supply chain management policy. If regulation 36 was the lawful means by which the Municipality was able to appoint Sidas, I see no reason why the same course cannot be followed in appointing Fidelity. For these reasons I find that Fidelity has succeeded in demonstrating that the Municipality will not suffer irreparable harm should the Du Toit AJ order be put into operation pending the application for leave to appeal or the appeal.
+
+Exceptional circumstances
+
+[32]    Fidelity contends that unless this Court grants an order in terms of section 18(3) of the Act, the relief which Fidelity obtained from Du Toit AJ will become moot in its hands.25 It was precisely on this basis that Sutherland J found in Incubeta that exceptional circumstances warranting an order in terms of section 18 were present. In that matter, the applicant obtained an interdict restraining the first respondent from breaching his restraint of trade agreement with Incubeta by taking up employment with the second respondent or any other party anywhere in the country. Since the  
+[2017] JOL 37652 (GJ) at 18
+interdict would have only persisted for a period of six months,26 Sutherland J stated that:
+
+"If the order is not put into operation, the relief will, regardless of the outcome of the application for leave to appeal, be forfeited by Incubeta because the short duration of the restraint will expire before exhaustion of the appeal processes."27
+
+[33]    Having found that damages were not an appropriate alternative remedy,28 Sutherland J held that if an applicant in terms of section 18 is left without relief, regardless of the outcome of the appeal, this warranted consideration of an order being put into operation. In this regard he stated as follows:
+
+Do these circumstances give rise to 'exceptionality' as contemplated? In my view the predicament of being left with no relief, regardless of the outcome of an appeal, constitutes exceptional circumstances which warrant a consideration of putting the order into operation. The forfeiture of substantive relief because of procedural delays, even if not protracted in bad faith by a litigant, ought to be sufficient to cross the threshold of 'exceptional circumstances'.
+The plight of the victor alone is probably all that is required to pass muster. Nonetheless, I am not unconscious of the undesirable outcome that relief granted by the Court becomes a vacuous gesture. A Court order ought not to be lightly allowed to evaporate, a fate which, seems to me, would tend to undermine the role of Courts in the ordering of social relations."29
+
+I am of the view that precisely the same situation applies here. A refusal to put into operation the Du Toit AJ order pending the determination of the application for leave to appeal or the appeal will result in its "evaporation" as it will never be brought into effect, and Fidelity will be left with no relief. This, to my mind, constitutes exceptional circumstances that warrant putting the Du Toit AJ order into operation.
+
+Costs
+
+[34]    As indicated, four days after Du Toit AJ handed down his order, the Municipality acted in contravention of that order despite not having lodged an application for leave to appeal against it. Notwithstanding its failure to do so, it acted  
+[2017] JOL 37652 (GJ) at 19
+as though the order was suspended and concluded a contract with Sidas − a measure that was expressly designed to frustrate the order of Du Toit AJ, regardless of the outcome of the application for leave to appeal that it intended to bring sometime in the future. It then sought to escape the consequences of Du Toit AJ's order on the basis that its own contemptuous conduct made it impossible to give effect to Du Toit AJ's order. This conduct in my view constitutes an abuse of the court process and warrants censure by the imposition of a punitive costs order.
+
+[35]    In the result, I make the following order:
+
+Paragraphs 2, 3 and 4 of the order of Du Toit AJ under case number 32719/15 are declared to be effective and enforceable pending the application for leave to appeal and, if leave is granted, the appeal.
+The respondents are ordered to pay costs of the application on the scale as between attorney and client, such costs to be consequent upon the employment of two counsel.
+
+
+Footnotes
+1	 Municipal Supply Chain Management Regulations published under GN 868 in GG 27636, 30 May 2005.
+2	Red Ant (Pty) Ltd v Mogale City Municipality, case number 16813 / 2012, (SGJ), 22 March 2013.
+3	Mogale City Municipality v Fidelity Security Services Pty (Ltd) 2015 (5) SA 590 (SCA) [also reported at [2015] 2 All SA 127 (SCA); [2015] JOL 32549 (SCA) – Ed].
+4	SCA judgment para [21].
+5	 SCA judgment, para [21].
+6	Fidelity Security Services (Pty) Ltd v Mogale City Local Municipality and others case number 14 / 14936, [sic] 17 December 2014 (SGJ).
+7	Vermeulen AJ judgment para [46].
+8	Vermeulen AJ judgment para [81].
+9	Van Deventer v Ivory Sun Trading 77 (Pty) Ltd 2015 (3) SA 532 (SCA) [also reported at [2015] 1 All SA 55 (SCA); [2014] JOL 32482 (SCA) – Ed]; Santam v Ethwar 1999 (2) SA 244 (SCA) at 252I–J [also reported at [1998] JOL 4276 (A); [1999] 1 All SA 252 (A) – Ed].
+10	City of Johannesburg v Blue Moonlight 2012 (2) SA 104 (CC) para [14] [also reported at 2012 (2) BCLR 150 (CC) – Ed]; See also Maccsand (Pty) Ltd v City of Cape Town and others 2012 (4) SA 181 (CC) para [52] [also reported at 2012 (7) BCLR 690 (CC) – Ed] where the Constitutional Court held as follows:
+  "Conditional leave to cross-appeal
+ 52. The conditional cross-appeal, in terms of which the MEC sought to impugn the constitutional validity of the MPRDA, does not arise because the condition on which it was based has not materialised. It depended on a finding that the MPRDA displaced LUPO with regard to land used for mining.".
+11	 A standard third party notice seeks an order that: "In the event of plaintiff's succeeding against defendant, the third party indemnify defendant in such amount as defendant is ordered to pay. . . ." See: Harms Amler's Precedents of Pleading (7ed) at 378.
+12	See, for example, Mabaso v Law Society of the Northern Provinces 2005 (2) SA 117 (CC) para [1] [also reported at 2005 (2) BCLR 129 (CC) – Ed].
+13	Natal Joint Municipal Pension Fund v Endumeni Municipality 2012 (4) SA 593 (SCA) para [18] [also reported at [2012] 2 All SA 262 (SCA); [2012] JOL 28621 (SCA) – Ed].
+14	Natal Joint Municipal Pension Fund, para [18].
+15	Investigating Directorate: Serious Economic Offences v Hyundai Motor Distributors (Pty) Ltd: In re Hyundai Motor Distributors (Pty) Ltd v Smit NO 2001 (1) SA 545 (CC) paras [22]–[23] [also reported at [2000] JOL 7338 (CC); 2000 (10) BCLR 1079 (CC) – Ed].
+16	Wary Holdings (Pty) Ltd v Stalwo (Pty) Ltd and another 2009 (1) SA 337 (CC) paras [46], [84] and [107] [also reported at [2008] JOL 22099 (C); 2008 (11) BCLR 1123 (CC) – Ed]; Fraser v Absa Bank Ltd (NDPP as Amicus Curiae) 2007 (3) SA 484 (CC) para [47] [also reported at 2007 (3) BCLR 219 (CC) – Ed].
+17	National Union of Metalworkers of South Africa and others v Bader Bop (Pty) Ltd and another 2003 (3) SA 513 (CC) para [37] [also reported at 2003 (2) BCLR 182 (CC); [2003] 2 BLLR 103 (CC); [2003] JOL 10475 (CC) – Ed].
+18	 Eg: Hyundai para [24]; Wary paras [59]–[60] and [106]–[108]; NUMSA para [37].
+19	Chief Lesapo v North West Agricultural Bank and another 2000 (1) SA 409 (CC) at para [22] [also reported at [1999] JOL 5760 (CC); 1999 (12) BCLR 1420 (CC) – Ed].
+20	Incubeta Holdings (Pty) Ltd and another v Ellis and another 2014 (3) SA 189 (GLD) para [16].
+21	Incubeta para [16].
+22	Steenkamp NO v Provincial Tender Board, Eastern Cape 2007 (3) SA 121 (CC) para [55] [also reported at 2007 (3) BCLR 300 (CC) – Ed].
+23	Incubeta, para [3].
+24	Steenkamp para [55].
+25	For the same reasons as set out under the heading "Irreparable Harm to Fidelity".
+26	Incubeta, para [2].
+27	Incubeta, para [25].
+28	 [sic]
+29	Incubeta, para [27].
+
+Appearance:
+C Steinberg, N Ferreira, M Musandiwa Blake Bester De Wet & Jordaan (At); MC Erasmus SC, WTB Ridgaard, Makhubela Attorneys (R)
+
+
+End of Document

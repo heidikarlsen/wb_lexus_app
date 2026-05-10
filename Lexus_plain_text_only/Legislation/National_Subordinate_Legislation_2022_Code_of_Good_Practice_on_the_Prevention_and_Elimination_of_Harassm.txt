@@ -1,0 +1,440 @@
+
+
+
+
+(ZA) GNR.1890 of 18 March 2022:  Code of Good Practice on the Prevention and Elimination of Harassment in the Workplace (Government Gazette No. (Government Gazette No. 46056)
+South Africa National Subordinate Legislation
+
+
+National Subordinate Legislation  >  ZA Subordinate Legislation  >  E  >  Employment Equity Act, No. 55 of 1998  >  Rules and Regulations  >  Codes
+
+DEPARTMENT OF EMPLOYMENT AND LABOUR
+
+I Thembelani Waltermade Nxesi, Minister of Employment and Labour, hereby in terms of Section 54 (1) (b) of the Employment Equity Act, 1998 (Act No 55 of 1998), and on the advice of the Commission for Employment Equity (CEE), hereby repeal the Amended Code of Good Practice on the Handling of Sexual Harassment Cases in the Workplace, 2005 published under Government Notice No. 1357 in Government Gazette 27865 of 4 August 2005, and replace it with this Code of Good Practice on the Prevention and Elimination of Harassment in the Workplace. This Code will be effective from the date of the publication of this notice.
+
+(Signed)
+
+MR T W NXESI, MP
+
+MINISTER OF EMPLOYMENT AND LABOUR
+
+DATE: 03/03/2022
+
+CODE OF GOOD PRACTICE ON THE PREVENTION AND
+ELIMINATION OF HARASSMENT IN THE WORKPLACE
+
+TABLE OF CONTENTS
+LIST OF ABBREVIATIONS
+INTRODUCTION
+1. OBJECTIVES OF THE CODE
+2. APPLICATION OF THE CODE
+3. LEGAL FRAMEWORK
+I. SUBSTANTIVE ISSUES
+4. WHAT IS HARASSMENT?
+5. SEXUAL HARASSMENT
+6. RACIAL, ETHNIC OR SOCIAL ORIGIN HARASSMENT
+7. OTHER STATUTES IMPACTING ON HARASSMENT
+II. PROCEDURAL ISSUES
+8. GUIDING PRINCIPLES ON THE PREVENTION, ELIMINATION AND MANAGEMENT OF HARASSMENT
+9. HARASSMENT POLICIES
+10. PROCEDURES
+11. CONFIDENTIALITY
+12. ADDITIONAL SICK LEAVE
+13. INFORMATION AND EDUCATION
+
+____________
+
+LIST OF ABBREVIATIONS
+
+
+____________
+
+INTRODUCTION
+
+The South African Constitution protects the right to dignity, equality, and fair labour practices in terms of the Bill of Rights. South Africa is committed to the elimination, prevention, and management of all forms of harassment, including gender-based harassment in the workplace with the aim to create safe workplaces that are free of harassment.
+
+The Employment Equity Act, 1998 (EEA), regulates equity in the workplace. Section 6 (1) of the EEA prohibits unfair discrimination directly or indirectly, against an employee, in any employment policy or practice, on one or more grounds, including race, gender, sex, pregnancy, marital status, family responsibility, ethnic or social origin, colour, sexual orientation, age, disability, religion, HIV status, conscience, belief, political opinion, culture, language, birth, or on any other arbitrary ground.
+
+Section 6 (3) of the EEA states that harassment of an employee is a form of unfair discrimination and is prohibited on any one, or a combination of grounds of unfair discrimination listed in subsection 6 (1) of the EEA.  
+
+The EEA constitutes one of the key legislative and policy interventions within the ethos of South Africa’s Constitution to achieve equity in the work environment by promoting equal opportunity and fair treatment in employment through the elimination of unfair discriminatory employment policies, procedure and practices, which result in inequalities in the workplace. Section 54 of the EEA empowers the Minister of Employment and Labour to issue Codes of Good practice on the advice of the Commission for Employment Equity (CEE).
+
+This Code of Good Practice is intended to address the prevention, elimination, and management of all forms of harassment that pervade the workplace. It is guided by the ILO Convention 190 and its Recommendation concerning the elimination of Violence and Harassment in the World of Work, 2019; the Discrimination (Employment and Occupation) Convention 111 of 1958 (Convention 111); and the ILO Convention 151 relating to Occupational Health and Safety.
+
+The EEA is one of several Acts that are relevant to the implementation of South Africa’s obligations in terms of Convention 190 to prevent violence and harassment in the world of work.
+
+South Africa regards all forms of harassment as a form of unfair discrimination and constitutes a barrier to equity and equality in the workplace. Therefore, all forms of harassment such as sexual harassment; gender-based violence and harassment; bullying; and racial, ethnic or social origin harassment must be eliminated. It is acknowledged that harassment may include physical abuse, psychological abuse, emotional abuse and sexual abuse.
+
+Harassment also includes the use of physical force or power, threatened or actual, against another person or against a group or community, which either results in, or has a high likelihood of resulting in social injustice, economic harm, injury, death, physical and psychological harm, mal-development, or deprivation.
+
+All forms of harassment against women, men and LGBTQIA+ and vulnerable persons in the workplace is an abuse of power. Harassment particularly affects workers in the most vulnerable work situations, who have poor access to labour rights such as freedom of association, collective bargaining, decent work, non-discriminatory practices and access to justice.
+
+1.     OBJECTIVES OF THE CODE  
+1.1   The objective of this Code is to eliminate all forms of harassment in the workplace and in any activity linked to, or arising out of work.
+1.2   This Code provides guidelines—
+1.2.1   to employers and employees on the prevention and elimination of all forms of harassment as a form of unfair discrimination, in the workplace; and
+1.2.2   on human resources policies, procedures and practices related to harassment and appropriate procedures to deal with harassment and prevent its recurrence.
+1.3   This Code identifies the steps that employers must take to eliminate harassment, including the development and implementation of policies, procedures and practices that will lead to the creation of workplaces that are free of harassment and in which employers and employees respect one another’s integrity, dignity, privacy and their right to equality in the workplace.
+2.     APPLICATION OF THE CODE  
+2.1   This Code applies to all employers and employees, as provided for in the Employment Equity Act, 1998 (EEA). Any reference in this Code to “employees” includes applicants for employment. For determining whether a person is an employee for the purposes of the EEA, the presumption of employment in section 200A of the Labour Relations Act is applicable.1 Volunteers who in any manner assist in the carrying on or conducting the business of an employer fall within the definition of an employee. Any person who employs another person to work for them as an employee in South Africa is an employer, irrespective of whether they operate in the formal or informal sector or whether they are a commercial undertaking or not.
+2.2   Although this Code applies to the working environment as a guide to employers, employees and applicants for employment, the perpetrators and victims of harassment may include, but is not limited to:
+2.2.1   owners;
+2.2.2   employers;
+2.2.3   managers;
+2.2.4   supervisors;
+2.2.5   employees;
+2.2.6   job seekers and job applicants;
+2.2.7   persons in training including interns, apprentices and persons on learnerships;
+2.2.8   volunteers;
+2.2.9   clients and customers;
+2.2.10   suppliers;
+2.2.11   contractors; and
+2.2.12   others having dealings with a business.
+2.3   The protection of employees against harassment applies in any situation in which the employee is working, or which is related to their work. This includes, but is not limited to:
+2.3.1   the workplace which includes both public and private spaces in which people perform their work;
+2.3.2   places where the employee is paid, takes a rest break or a meal, or uses sanitary, washing or changing, breastfeeding and medical facilities;
+2.3.3   work-related trips, travel, training, events, or social activities;
+2.3.4   work-related communications, including those enabled by information and communication technologies and internet based platforms;
+2.3.5   employer-provided accommodation;2 which includes housing;
+2.3.6   when commuting to and from work in transport provided or controlled by the employer;
+2.3.7   in the case of domestic workers and health care workers who are employed in the residence of their employers, or residence of the individual to whom they are providing care, the residence is the workplace; and
+2.3.8   in the case of employees who work virtually from their homes, or any place other than the employer’s premises, the location where they are working constitutes the workplace.
+3.     LEGAL FRAMEWORK  
+3.1   The International Labour Organisation (ILO) adopted a new Convention, 190 concerning the Elimination of Violence and Harassment in the World of Work. The Convention obliges ratifying states to adopt, in accordance with national laws and circumstances, and in consultation with representative employers’ and workers’ organizations, an inclusive, integrated and gender-responsive approach to the prevention and elimination of violence and harassment in the world of work.3
+3.2   The EEA is one of several statutes that address issues dealt with in Convention, 190. The EEA does so by prohibiting the harassment of employees on a ground listed in terms of section 6 (1).
+3.3   The Minister has previously issued the Code of Good Practice on the Handling of Sexual Harassment cases in the Workplace in 2005. This Code replaces the 2005 Code and, in particular, seeks to—
+3.3.1   provide guidance in respect of harassment on any of the prohibited grounds; and
+3.3.2   take into account recent developments in case law, statutes, issues dealt with in ILO Convention, 190 and other ratified Conventions.
+3.4   Section 5 of the EEA requires employers to take steps to promote equal opportunity in the workplace by eliminating unfair discrimination, including harassment in any employment policy or practice. Harassment in the workplace is a form of unfair discrimination, which employers are required to eliminate, and it constitutes a barrier to equity in the workplace.
+3.5   Section 6 (1) of the EEA states that: “no person may unfairly discriminate, directly or indirectly, against an employee, in any employment policy or practice, on one or more grounds, including race, gender, sex, pregnancy, marital status, family responsibility, ethnic or social origin, sexual orientation, age, disability, religion, HIV status, conscience, belief, political opinion, culture, language, birth or on any other arbitrary ground.”
+3.6   Section 6 (3) of the EEA states that, “Harassment of an employee is a form of unfair discrimination and is prohibited on any one, or a combination of grounds in section 6 (1) of the EEA.”
+
+I.   SUBSTANTIVE ISSUES
+
+This section of the Code deals with the definition and different types of harassment, in particular, sexual harassment and racial, ethnic or social origin harassment.
+
+4.     WHAT IS HARASSMENT?  
+4.1   The term “harassment” is not defined in the EEA.4 Harassment is generally understood to be—
+4.1.1   unwanted5 conduct, which impairs dignity;
+4.1.2   which creates a hostile or intimidating work environment for one or more employees or is calculated to, or has the effect of, inducing submission by actual or threatened adverse consequences; and
+4.1.3   is related to one or more grounds in respect of which discrimination is prohibited in terms of section 6 (1) of the EEA.
+4.2   Harassment includes violence, physical abuse, psychological abuse, emotional abuse, sexual abuse, gender-based abuse and racial abuse. It includes the use of physical force or power, whether threatened or actual, against another person or against a group or community.
+4.3   Harassment against all employees in the workplace is an abuse of power. This Code recognises that harassment particularly affects employees in vulnerable employment who, while covered by labour legislation, may have in practice poor access to the exercise of labour rights such as freedom of association, collective bargaining, decent work, protection from discriminatory practices and access to dispute resolution forums.
+
+Moreover, the intersection of factors such as race, religion, gender, or disability increases the risk of harassment.
+
+4.4   Unwanted conduct
+4.4.1   The criterion that harassment involves unwanted conduct distinguishes acts of harassment from acceptable conduct in the workplace. Two primary issues arise in evaluating whether the harasser/perpetrator knew or should have known that the conduct was unwanted.
+4.4.2   Firstly, the issue arises as to whether the complainant6 communicated to the harasser/perpetrator that the conduct was unwelcome. Secondly, this may have occurred verbally or non- verbally and may have been communicated directly or indirectly to the harasser/perpetrator.
+4.4.3   If there is no such communication, it will still be necessary to examine whether the conduct was of such a nature that the harasser/perpetrator knew or should have known that conduct of the type engaged in, is generally considered to be unacceptable.
+4.4.4   While violent conduct may amount to harassment, harassment may occur as a result of non-violent conduct. Accordingly, an act or threat of violence is not an essential element of harassment. Likewise, certain acts of harassment may involve a criminal offence and the employer may be under a duty to report certain acts of harassment to the police.
+4.4.5   Whether or not conduct constitutes harassment, should be assessed on an objective basis from the perspective of the employee who alleges harassment. The primary focus of the inquiry as to whether there has been harassment, is on the impact of the conduct on the employee. However, there may be circumstances in which the perceptions of the person harassed are not consistent with the views of a “reasonable person” in the situation of the complainant. In such circumstances, a person or employer charged with harassment, may seek to establish that the complainant’s perceptions are not consistent with societal values reflective of our constitutional ethos.
+4.5   Repeated or serious conduct
+4.5.1   Harassment may occur as a result of a pattern of persistent conduct or a single instance or event. In the case of a single instance, harassment will be present if the conduct is of a serious nature. Whether a single instance of conduct will be sufficiently serious to constitute harassment must be determined in light of the event that is the subject of the complaint.
+4.5.2   Harassment, in particular bullying, may be an escalating process in the course of employment in which the complainant ends up in an inferior position and becomes the target of systematic negative social acts.
+4.5.3   It is not necessary to establish the intention or state of mind of the harasser/perpetrator in order to prove harassment for the purposes of the EEA. The fact that the conduct was calculated or intended to offend the complainant(s) may be an aggravating factor relevant to determining a remedy for the complainant. The intention of a harasser/perpetrator may also be relevant to disciplinary proceedings.
+4.5.4   The following factors may be relevant to the issue of whether harassment has occurred—
+
+4.5.4.1 the context of the harassment;
+
+4.5.4.2 the circumstances of the complainant and the impact that the conduct has had on an employee; and
+
+4.5.4.3 the respective positions of the harasser/perpetrator and complainant.
+
+4.6   Hostile work environment
+4.6.1   A hostile work environment will be present where conduct related to a prohibited ground impacts on the dignity of one or more employees. This will be present if the conduct has a negative impact on the employee’s ability to work and/ or on their personal well-being. This may be the result of conduct of persons in authority such as managers and supervisors or the conduct of other employees.
+4.6.2   A hostile environment may also be present where an employer should anticipate that employees will be subject to abusive conduct related to a prohibited ground by members of the public, customers or clients and fails to take reasonable steps to protect employees from such conduct.
+4.6.3   In order to establish the existence of a hostile work environment, it is not necessary to show that the complainants have not received a particular benefit.
+4.6.4   Harassment is considered to be direct where it is aimed at the complainant - for example, violent conduct or abusive language which is directed at the complainant. Harassment may occur indirectly where the conduct, even though not directed at the complainant, has the effect of undermining dignity or threatening safety.
+4.7   Types of harassment
+4.7.1   Harassment may be the result of physical, verbal, or psychological conduct.
+4.7.2   Physical harassment includes physical attacks, simulated or threatened violence, or gestures (such as raising a fist as if to strike a person or throwing objects near a person).
+4.7.3   Verbal bullying may include threats, shaming, hostile teasing, insults, constant negative judgment, and criticism, or racist, sexist, or LGBTQIA+ phobic language.
+4.7.4   Psychological harassment in the workplace may be associated with emotional abuse and involves behaviour that has serious negative psychological consequences for the complainant(s) such as is often the case with verbal abuse, bullying and mobbing.
+4.7.5   A wide range of conduct in the workplace may constitute harassment. Examples of harassment include, but are not limited to:
+
+4.7.5.1 slandering or maligning an employee or spreading rumours maliciously;
+
+4.7.5.2 conduct which humiliates, insults or demeans an employee;
+
+4.7.5.3 withholding work-related information or supplying incorrect information;
+
+4.7.5.4 sabotaging or impeding the performance of work;
+
+4.7.5.5 ostracising, boycotting, or excluding the employee from work or work-related activities;
+
+4.7.5.6 persecution such as threats, and the inspiration of fear and degradation;
+
+4.7.5.7 intolerance of psychological, medical, disability or personal circumstances;
+
+4.7.5.8 surveillance of an employee without their knowledge and with harmful intent;
+
+4.7.5.9 use of disciplinary or administrative sanctions without objective cause, explanation, or efforts to problem solving;
+
+4.7.5.10 demotion without justification;
+
+4.7.5.11 abuse, or selective use of, disciplinary proceedings;
+
+4.7.5.12 pressuring an employee to engage in illegal activities or not to exercise legal rights; or
+
+4.7.5.13 pressuring an employee to resign.
+
+4.7.6   In practice, a number of different terms are used to describe conduct in the workplace that amounts to harassment. While these terms are not used in legislation, they provide a useful basis for understanding and preventing harassment in the workplace.
+4.7.7   Bullying - where harassment involves the abuse of coercive power by an individual or group of individuals in the workplace. Intimidation - this is intentional behaviour that would cause a person of ordinary sensibilities to fear injury or harm. Workplace bullying may involve aggressive behaviour in which someone repeatedly causes another person injury or discomfort.
+4.7.8   Harassment may be referred to as being “vertical” or “horizontal”. Vertical harassment (also known as “tangible or material”) involves the use of formal power (i.e. title, position, or supervisory control) or material leverage (i.e. financial, informational, resource or legal) to intimidate, threaten, harass, or harm an employee or to dominate and control the complainant. Vertical harassment refers to harassment between the employer/manager and employee. Horizontal harassment refers to harassment between employees in the same position or on the same level.7
+4.7.9   Passive-aggressive or covert harassment may include negative gossip, negative joking at someone’s expense, sarcasm, condescending eye contact, facial expression, or gestures, mimicking to ridicule, deliberately causing embarrassment and insecurity, invisible treatment, marginalisation, social exclusion, professional isolation, and deliberately sabotaging someone’s dignity, well-being, happiness, success, and career performance.
+4.7.10   Mobbing is a form of harassment by a group of people targeted at one or more individuals.
+4.7.11   Online harassment is harassment which is committed, assisted, or aggravated in part or fully, by the use of information and communications technology such as mobile phones, smart phones, the Internet, social media platforms or email. Bullying when conducted online is referred to as cyber-bullying.
+4.8   Prohibited grounds
+4.8.1   Harassment of an employee is prohibited in terms of section 6 (1) of the EEA, if the harassment is related to one or more prohibited grounds.
+4.8.2   It may also be possible for a person who has been harassed to establish that the conduct was a result of an arbitrary ground, as contemplated by section 6 (1) of the EEA.
+5.     SEXUAL HARASSMENT  
+5.1   Sexual harassment of an employee is a form of unfair discrimination and is prohibited on the grounds of sex, gender, or sexual orientation. Same- sex harassment can amount to discrimination on the basis of sex, gender, sexual orientation and gender-based harassment.
+5.2   Factors to establish sexual harassment
+Unwanted conduct  
+5.2.1   There are different ways in which an employee may indicate that sexual conduct is unwanted, including non-verbal conduct such as walking away or not responding to the perpetrator.
+5.2.2   Previous consensual participation in sexual conduct does not necessarily mean that the conduct continues to be acceptable to the employee.
+5.2.3   Where a complainant has difficulty indicating to the perpetrator that the conduct is unwanted, such complainant may seek the assistance and intervention of another person such as a co- worker, superior, counsellor, human resource official, family member or friend.
+5.2.4   The fact that the complainant does not indicate that the conduct is unwanted does not entail that there has not been sexual harassment, if the conduct is such that the harasser/perpetrator ought to have known it could be regarded as unwanted.
+Nature and extent of the conduct  
+5.2.5   The unwanted conduct must be of a sexual nature and includes physical, verbal, or non-verbal conduct, whether expressed directly or indirectly. Conduct amounting to sexual harassment may include—
+
+5.2.5.1 physical conduct of a sexual nature, ranging from touching, kissing, to sexual assault and rape;
+
+5.2.5.2 strip searching, including by a person of the same sex in the presence of the opposite sex, or with appropriate privacy;
+
+5.2.5.3 following, watching, pursuing or accosting of an employee;
+
+5.2.5.4 sexual attention, advances or proposals; or other behaviour, whether explicit or implicit, including suggestions, messages, advances, attention or proposals of a sexual nature;
+
+5.2.5.5 implied or express threats of reprisal or actual reprisal to comply with sexually oriented requests, advances, attention or proposals;
+
+5.2.5.6 verbal conduct such as innuendos, suggestions, hints, sexual advances, comments with sexual overtones, sex-related jokes or insults, graphic comments about a person’s body, inappropriate enquiries about a person’s sex life, whistling of a sexual nature and the sending by electronic means or otherwise of sexually explicit text; or
+
+5.2.5.7 non-verbal conduct such as unwelcome gestures, indecent exposure and the display or sending by electronic means or otherwise of sexually explicit pictures or objects.
+
+5.2.6   Sexual harassment may include, but is not limited to, victimization, quid pro quo harassment, sexual favouritism and creating or permitting a hostile working environment (i.e. conduct that creates an intimidating, hostile or humiliating working environment for the recipient).
+
+5.2.6.1 Victimization occurs where an employee is victimized or intimidated for failing to submit to sexual advances, attention, or proposals or for complaining about gender-insensitive conduct.
+
+5.2.6.2 Quid pro quo harassment occurs where a person such as an owner, employer, supervisor, member of management or co-employee, influences or attempts to influence an employee’s employment circumstances (for example engagement, promotion, training, discipline, dismissal, salary increments or other benefits) by coercing or attempting to coerce an employee to surrender to sexual advances.
+
+5.2.6.3 Sexual favouritism is a form of quid pro quo harassment, which occurs where a person in authority in the workplace seeks to utilise this power to reward those who respond to his or her sexual advances.
+
+5.2.7   A single incident of unwelcome sexual conduct may constitute sexual harassment.
+Impact of the conduct  
+5.2.8   The conduct should constitute an impairment of the employee’s dignity, taking into account:
+
+5.2.8.1 the circumstances of the employee; and
+
+5.2.8.2 the respective positions of the employee and the perpetrator in the workplace.
+
+5.3   Test for Sexual Harassment
+5.3.1   Sexual harassment is unwelcome conduct of a sexual nature, whether direct or indirect, that the perpetrator knows or ought to know is not welcome. Sexual harassment may be offensive to the complainant, make the complainant feel uncomfortable or cause harm or inspire the reasonable belief that the complainant may be harmed. Sexual harassment may interfere with the work of the complainant although it need not necessarily do so. Sexual harassment violates the rights of an employee and constitutes a barrier to equality in the workplace.
+5.3.2   The test for establishing whether there has been sexual harassment takes into account the following factors:
+
+5.3.2.1 whether the harassment is on the prohibited grounds of sex and/or gender and/or sexual orientation;
+
+5.3.2.2 whether the sexual conduct was unwanted or unacceptable;
+
+5.3.2.3 the nature and extent of the sexual conduct; and
+
+5.3.2.4 the impact of the sexual conduct on the employee.
+
+6.     RACIAL, ETHNIC OR SOCIAL ORIGIN HARASSMENT  
+6.1   Racial harassment is a form of unfair discrimination prohibited by section 6 (1) of the EEA which is related to a person’s membership or presumed membership of a group identified by one or more of the listed prohibited grounds or a characteristic associated with such group. Racist conduct, including derogatory language, is contrary to the founding principles of the Constitution, in particular the values of non-racialism, dignity, and equality.
+6.2   Racial harassment is unwanted conduct which can be persistent or a single incident that is harmful, demeaning, humiliating or creates a hostile or intimidating environment. Conduct that is calculated to induce submission by actual or threatened adverse consequences constitutes harassment although this is not an essential element of its definition.
+6.3   Racial harassment includes direct or indirect behaviour which involve issues such as racist verbal and non-verbal conduct, remarks, abusive language, racist name calling, offensive behaviour gestures and racist cartoons, memes, or innuendos.
+6.4   Racial harassment occurs where a person is subject to physical, verbal, or non-verbal conduct or other conduct based on race which undermines their dignity or which creates an intimidating, hostile or humiliating working environment for the recipient.
+6.5   Conduct, whether verbal or non-verbal, involving racial innuendo stereotyping or other types of racial conduct, is assumed to be offensive and unwanted to any individual who may be exposed to the language or conduct. It should be assumed, consistent with the values of the Constitution that conduct of this type is unwanted and unacceptable and impacts negatively on the dignity of employees. The Constitutional Court has emphasised that when determining whether language or conduct is racial and derogatory, account must be taken of South Africa’s history of institutionalised racial discrimination which legitimised racial prejudice and the impact of the legacy of racial discrimination on the present. The test to be applied in identifying whether language is racist is whether it is reasonably capable of conveying a racist meaning to the reasonable hearer.8
+6.6   The forms of racial harassment may include:
+6.6.1   Abusive language and racist jokes, cartoons, or memes, including communications that amount to hate speech;
+6.6.2   Racially offensive written or visual material, including on-line harassment;
+6.6.3   Racist name calling or negative stereotyping impacting on a person’s dignity;
+6.6.4   Offensive behaviour in the form of open hostility to persons of a specific racial or ethnic group;
+6.6.5   Subtle or blatant exclusion from workplace interaction and activities and other forms of marginalisation; and
+6.6.6   Threatening behaviour, which intimidates a person or creates a hostile work environment.
+6.7   Factors to be considered in Racial Harassment:
+6.7.1   Whether the language or conduct complained of is abusive;
+6.7.2   Whether the language or conduct complained of impairs the dignity of the complainant(s);
+6.7.3   Whether the language or conduct is directed at a particular employee or employees;
+6.7.4   The extent and degree of abuse or impairment to a person’s dignity; and
+6.7.5   The impact of the conduct.
+6.8   The test to be applied for Racial Harassment includes:
+6.8.1   Racial Harassment must be assessed objectively with reference to the reaction of a normal or reasonable person in keeping with the values underlying the constitutional order.
+6.8.2   To establish harassment based on race or ethnic or social origin, it has to be established on a balance of probabilities that the conduct complained of was related to race, ethnic or social origin, or a characteristic associated, or assumed to be associated with such group. An important factor for establishing racial harassment is whether a perpetrator would have spoken the words or behaved in the manner complained of towards the complainant.
+6.8.3   Explicit racial conduct is assumed to be unwanted conduct. A relevant factor would be how the alleged perpetrator treats other persons not of the complainant’s racial group or ethnic or social origin.
+6.8.4   Whether language or conduct amounts to harassment depends on the circumstances of the particular incidence, including—
+
+6.8.4.1 whether the conduct was persistent or harmful,
+
+6.8.4.2 demeaning, impairing dignity, humiliating, or creating a hostile or intimidating environment; or
+
+6.8.4.3 was calculated to induce submission by actual or threatened adverse consequences; and
+
+6.8.4.4 whether the language and conduct is insulting, abusive and/or derogatory.
+
+7.     OTHER STATUTES IMPACTING ON HARASSMENT  
+7.1   The EEA is one of several Acts that are relevant to the implementation of South Africa’s obligations in terms of Convention No. 190 to prevent violence and harassment in the world of work. This section of the Code identifies other laws which place obligations on employers to prevent violence and harassment in the workplace.
+7.2   Constitutional right to fair labour practices
+7.2.1   Section 23 (1) of the Constitution provides that everyone has the right to fair labour practices. This has been interpreted as including the right of employees to be protected from harassment at work by persons who are not co-employees such as independent contractors, customers, or visitors to their employers’ premises.9
+7.3   Promotion of Equality and Prevention of Unfair Discrimination Act, 4 of 2000 (PEPUDA)
+7.3.1   Harassment on prohibited grounds, which does not arise out of an employment policy or practice, is prohibited by the PEPUDA. While the Act regulates harassment and discrimination generally in society, there are circumstances where harassment and discrimination occurring in the workplace, or the world of work will be covered by PEPUDA.10 This will be the case if—
+
+7.3.1.1 the harassment occurs as a result of the conduct of somebody who is not an employer or employee, for example, the harassment of an employee by a client, customer, independent contractor, an employee of a different business or any other member of the public;
+
+7.3.1.2 the harassment occurs within the world of work but outside of the control of employer, for an example while an employee is commuting on public transport;
+
+7.3.1.3 a complaint of harassment is received from a client, customer, or other member of the public that an employee has harassed them; and
+
+7.3.1.4 the victim of the harassment is a worker who falls outside of the definition of an “employee” in the LRA.
+
+7.4   Labour Relations Act, 66 of 1995
+7.4.1   Harassment of employees may also give rise to issues regulated by the Labour Relations Act (“LRA”). In particular, employers are required to ensure that persons who engage in harassment, including violence, are subject to discipline in accordance with the Code of Good Practice: Unfair Dismissal. Where an employee resigns on account of being harassed at work, the nature of the harassment would be relevant if the employee alleges constructive dismissal on the basis that the employer had made continued employment intolerable for the employee.
+7.4.2   Harassment may also constitute an unfair labour practice in terms of section 186 (2) of the LRA, if the unfair conduct relates to promotion, demotion, probation, training or to the provision of benefits. To establish an unfair labour practice, it is not necessary to demonstrate the link to a prohibited ground.
+7.4.3   Harassment may also constitute an automatically unfair dismissal in terms of section 187 (1) (f) of the LRA.
+7.5   Occupational Health and Safety Act, 85 of 1993
+7.5.1   Employers have an obligation under the Occupational Health and Safety Act, 1993 (“OHSA”) to protect employees against any harassment which would endanger the health or safety of an employee. The OHSA, read with its regulations and incorporated standards, requires the employer to provide and maintain as far as is reasonably practicable, a working environment that is safe and without risks to the health and safety of employees and to take such steps as may be reasonably practicable to eliminate or mitigate the hazard or potential hazard. Where the nature of an employee’s duties are of such a nature that they are exposed to a significant risk of violence while at work, the employer must take such steps as may be reasonably practicable to eliminate or mitigate this hazard.
+7.5.2   A wide range of employees work in situations which bring them into contact with clients or the public where there is significant risk of harassment, including violence. In these circumstances, the employer must institute measures consistent with the OHSA to ensure protection for employees against harassment and violence. This would be particularly significant in sectors such as hospitality, security, policing or criminal justice operations, frontline and first responder emergency services, or in situations where money or prescription drugs are handled.
+7.6   Protected Disclosures Act, 26 of 2000
+7.6.1   Acts of harassment against an employee for having made a protected disclosure (whistleblowing) are prohibited. This will occur when an employee is subjected to an occupational detriment in terms of the Protected Disclosures Act, 2000.
+7.7   Protection from Harassment Act, 17 of 2011
+7.7.1   The Protection from Harassment Act, 2011 enables individuals who are subjected to harassment, as defined in that Act, to obtain a protection order, including an interim protection order against the harasser. The Act covers harassment in all spheres of life including the workplace. The definition of harassment is wide and includes physical conduct as well as electronic and other communications which may cause mental, psychological, physical, or economic harm.
+
+II.   PROCEDURAL ISSUES
+
+8.     GUIDING PRINCIPLES ON THE PREVENTION, ELIMINATION AND MANAGEMENT OF HARASSMENT  
+8.1   Employers are under obligation in terms of Section 60 of the EEA to take proactive and remedial steps to prevent all forms of harassment in the workplace. This includes an assessment of the risk of harassment that employees are exposed to while performing their duties as far as is reasonably practicable.
+8.2   Employers should have an attitude of zero-tolerance towards harassment. They should create and maintain a working environment in which the dignity of employees are respected. A climate in the workplace should also be created and maintained in which employees who raise complaints about harassment will not feel that their grievances are ignored or trivialized, or fear reprisals. Implementing the following guidelines can assist in achieving these ends:
+8.2.1   Employers and trade unions/ employees are obligated to refrain from committing harassment.
+8.2.2   All employers and trade unions/ employees have a role to play in contributing towards creating and maintaining a working environment in which harassment is unacceptable. They should ensure that their standards of conduct do not cause offence and they should discourage unacceptable behaviour on the part of others.
+8.2.3   Employers should attempt to ensure that persons such as customers, suppliers, job applicants and others who have dealings with the business are not subjected to harassment by its employees or any person representing the employer.
+8.2.4   Employers should attempt to ensure that employees in their employ are not subjected to harassment by third parties such as clients, customers, suppliers or others who have dealings with the employer.
+8.2.5   Policies and procedures adopted by an employer should provide a clear statement of the employer’s position regarding the prevention, elimination, and management of the various forms of harassment in the workplace.
+8.2.6   Employers, where applicable, jointly with trade unions, must implement awareness training initiatives to educate employees at all levels about harassment to reinforce and maintain compliance through ongoing awareness programmes.
+8.2.7   Employers should take appropriate action in accordance with this Code where instances of harassment occur in the working environment.
+9.     HARASSMENT POLICIES  
+9.1   Employers should, subject to any existing collective agreements and applicable statutory provisions in respect of harassment, adopt a harassment policy, which should take cognisance of and be guided by the provisions of this Code.
+9.2   The contents of harassment policies should be communicated effectively to all employees.
+9.3   The adoption of a harassment policy and the communication of the contents of the policy to employees, should, amongst other factors, be taken into consideration in determining whether the employer has discharged its obligations in accordance with the provisions of section 60 (2) of the EEA.
+9.4   Harassment policies should substantially comply with the provisions of this Code and include at least the following statements:
+9.4.1   Harassment, including acts of violence, will not be tolerated in the workplace;
+9.4.2   Harassment on a prohibited ground is a form of unfair discrimination which infringes the rights of the complainant and constitutes a barrier to equality in the workplace.
+9.4.3   Harassment related to any prohibited ground in the workplace will not be permitted, tolerated, or condoned.
+9.4.4   Grievances about harassment will be investigated and handled in a confidential manner.
+9.4.5   Complainants in harassment matters have the right to follow the procedures in the policy and appropriate action must be taken by the employer.
+9.4.6   It will be a disciplinary offence to victimize or retaliate against an employee who, in good faith, lodges a grievance about harassment, whether in respect of themselves or another employee.
+9.5   The procedures to be followed by a complainant about harassment and by an employer when harassment is alleged, should be outlined in the policy.
+9.6   The availability of counselling, treatment, care and support programs for employees should be outlined in the policy.
+10.     PROCEDURES   Employers should develop clear procedures to deal with harassment in terms of the EEA. These procedures should enable the resolution of problems in a gender- sensitive, confidential, efficient, and effective manner. When an employee has reported an alleged incident of harassment or laid a complaint, the employer is obliged to investigate the allegation of harassment which has been brought to its attention and advise the complainant of the informal or formal procedures available to deal with the harassment.
+10.1   Reporting harassment
+10.1.1   Section 60 (1) of the EEA provides that any allegation of conduct by an employee in contravention of the EEA must immediately be brought to the attention of the employer.
+10.1.2   The Labour Appeal Court has held that the word “immediately” must be interpreted in light of the purpose of the provision, which is to ensure that instances of harassment are investigated in terms of the EEA, and not technically.11 Allegations of harassment which are made within an appropriate time, in the circumstances, must be investigated and appropriate steps must be taken to prevent a re-occurrence. This may include the institution of disciplinary action against alleged perpetrators.
+10.1.3   Employers must take into account that in many cases, particularly with regard to sexual harassment, an employee may not raise a harassment-related grievance immediately because of factors such as a fear of reprisals and the relative positions of the complainant and the alleged perpetrator in the workplace.
+10.1.4   Sexual, or other, harassment may be brought to the attention of the employer by the complainant or any other person aware of the harassment, for example a trade union/ employee representative, friend, colleague, or human resources official acting on the request of the complainant. An employee may only confide in someone else about a sensitive issue of harassment sometime after the event has occurred. However, where the harassment is of a particularly serious nature, the complainant should be encouraged to inform the employer.
+10.2   Obligations of the employer
+
+When an allegation of harassment of an employee has been brought to the attention of the employer, the employer must:
+
+10.2.1   consult all relevant parties;
+10.2.2   take the necessary steps to address the complaint in accordance with this Code and the employer’s policy, where applicable, the collective bargaining agreement; and
+10.2.3   take the necessary steps to eliminate the harassment.
+10.3   Failure to take adequate steps to eliminate harassment once an allegation of harassment by an employee has been submitted within a reasonable time, will render the employer vicariously liable for the conduct of the employee in terms of section 60 of the EEA.12 This is the case even if the harassment consists of a single incident.13
+10.4   The steps to be taken by the employer on receipt of a complaint, should include, but are not limited to, the following:
+10.4.1   advising the complainant of the informal and formal procedures available to deal with harassment, as set out in this Code;
+10.4.2   where reasonably practicable, offering the complainant advice, assistance and counselling as set out in this Code; including during any disciplinary enquiry that may be instituted; and
+10.4.3   following the procedures, as set out in this Code, in a manner that is procedurally and substantively fair.
+10.5   Advice and assistance
+10.5.1   A complainant, in particular in sexual harassment cases, may require advice and assistance, including counselling.
+10.5.2   As far as is practicable, employers should designate a person outside of line management who complainants may approach for confidential advice and/or counselling. Such person:
+
+10.5.2.1 could be a person employed by the employer to perform such a function, a trade union representative, a co-employee or a professional engaged to perform such activity;
+
+10.5.2.2 should have the appropriate skills and experience, including counselling and labour relations skills; and
+
+10.5.2.3 should be properly trained and given adequate resources.
+
+10.6   Advising the complainant of workplace procedures to deal with harassment
+10.6.1   When an incident of harassment is brought to the attention of an employer, the employer should:
+
+10.6.1.1 advise the complainant that there are formal and informal procedures which could be followed to deal with the problem;
+
+10.6.1.2 explain the formal and informal procedures to the complainant;
+
+10.6.1.3 advise the complainant that they may choose which procedure should be followed by the employer, except that in certain limited circumstances, as set out in this Code, the employer may choose to follow a formal procedure even if the complainant does not wish to do so;
+
+10.6.1.4 re-assure the complainant that an employee will not face job loss or any adverse consequences if an employee chooses to follow either the formal or informal procedure;
+
+10.6.1.5 advise the complainant that the matter will be dealt with confidentially; and
+
+10.6.1.6 advise the complainant whether it may be appropriate to lay a criminal charge or to obtain a protection order.
+
+10.7   Informal procedures
+10.7.1   A complainant in a harassment matter may choose to follow either of the following informal procedures:
+
+10.7.1.1 the complainant or another appropriate person explains to the perpetrator that the conduct in question is not welcome, that it is related to a prohibited ground and its impact on the complainant, for example, that it makes the person feel uncomfortable and that it interferes with their work; or
+
+10.7.1.2 an appropriate person approaches the perpetrator, without revealing the identity of the complainant, and explains to the perpetrator that certain forms of conduct constitute harassment on a prohibited ground, are offensive and unwelcome, make employees feel uncomfortable, and interferes with their work.
+
+10.7.2   An employer should consider any further steps, which can be taken to assist in dealing with the complaint.
+10.8   Formal procedure
+10.8.1   A complainant may choose to follow a formal procedure, either with or without first following an informal procedure.
+10.8.2   In the event that a complainant chooses not to follow a formal procedure, the employer should still assess the risk to other persons in the workplace where formal steps have not been taken against the perpetrator. In assessing such risk, the employer must take into account all relevant factors, including the severity of the harassment and whether the perpetrator has a history of harassment. If it appears to the employer after a proper investigation that there is a significant risk of harm to other persons in the workplace, the employer must follow a formal procedure, irrespective of the wishes of the complainant, and advise the complainant and/ or their representative accordingly.
+10.8.3   The employer’s harassment policy and/or collective agreement should outline the following in respect of a formal procedure:
+
+10.8.3.1 with whom a grievance should be lodged;
+
+10.8.3.2 the internal grievance and disciplinary procedures to be followed, including provision for the complainant’s desired outcome of the procedures;
+
+10.8.3.3 time frames which will allow the grievance to be dealt with expeditiously;
+
+10.8.3.4 that should the matter not be satisfactorily resolved by the internal procedures outlined above, a complainant of harassment may refer the dispute to the Commission for Conciliation Mediation and Arbitration (“CCMA”) or Bargaining Council14 with jurisdiction for conciliation, and if not resolved, to the CCMA, Bargaining Council with jurisdiction, or Labour Court for adjudication, as provided for in section 10 of the EEA. Claims of harassment under PEPUDA may be referred to the Equality Court. Similarly, an alleged perpetrator of harassment may refer a dispute arising from disciplinary action taken by the employer to the CCMA or, where appropriate, the Labour Court; and
+
+10.8.3.5 that it will be a disciplinary offence to victimize or retaliate against a complainant who in good faith lodges a grievance of harassment.
+
+10.9   Disciplinary sanctions
+
+The employer’s harassment policy should specify the range of disciplinary sanctions that may be imposed on a perpetrator. The sanctions must be proportionate to the seriousness of the harassment in question, and should provide that:
+
+10.9.1   warnings may be issued for minor instances of harassment. A warning issued to a perpetrator must describe the essence of the discriminatory misconduct;15
+10.9.2   dismissal may ensue for continued minor instances of harassment after warnings, as well as for serious instances of harassment;
+10.9.3   in appropriate circumstances upon being found guilty of harassment, a perpetrator may be transferred within the workplace or to another workplace within the company; and
+10.9.4   a complainant about harassment has the right to lay a criminal charge or institute civil proceedings against the alleged perpetrator.
+11.     CONFIDENTIALITY  
+11.1   Employers and employees must ensure that grievances about harassment are investigated and handled in a manner that ensures that the identities of the persons involved are kept confidential for the purpose of protecting the confidentiality of all parties involved.
+11.2   All internal and external communications related to an incident of harassment should be treated as confidential.
+11.3   Considerations of confidentiality do not preclude an employer from taking appropriate steps to protect the safety or dignity of employees, either during the conduct of the investigation or subsequently.
+11.4   In cases of sexual harassment, management, employees, and the parties concerned must endeavour to ensure confidentiality in the disciplinary inquiry. Only management designated to handling disciplinary cases as well as the aggrieved person, representatives, the alleged perpetrator, witnesses when giving evidence and an interpreter, if required, should be present in the disciplinary inquiry.
+11.5   Employers are required to disclose to the complainant, the perpetrator and/or their representatives, all relevant information as may be reasonably necessary to enable the parties to prepare for any proceedings in terms of this Code.
+12.     ADDITIONAL SICK LEAVE  
+12.1   Where an employee’s existing sick leave entitlement has been exhausted, the employer should give due consideration to the granting of additional paid sick leave in cases of serious harassment, where the employee, on medical advice, requires trauma counselling.
+12.2   If harassment results in an employee being ill for longer than two weeks, the employee may be entitled to claim illness benefits in terms of section 20 of the Unemployment Insurance Act, 2001.
+12.3   In appropriate circumstances, employers may give consideration to assisting with the cost of the medical advice and trauma counselling and care, where such amounts are not covered by any applicable medical aid scheme.
+13.     INFORMATION AND EDUCATION  
+13.1   Employers, and where applicable employer organisations, should include the issue of sexual harassment and other types of harassment in their orientation, education, and training programs in an accessible format.
+13.2   Trade unions should include the issue of sexual harassment and other types of harassment in their education and training programs for shop stewards and employees in an accessible format.
+13.3   CCMA, Bargaining Council Commissioners and Labour Court judges should receive specialized training to deal with harassment cases.
+
+____________
+
+
+
+Footnotes
+1	See further the Code of Good Practice: Who is an Employee? (GenN 1774, GG 29445 of 1 December 2006).
+2	Biggar v City of Johannesburg (2011) 32 ILJ 1665 (LC).
+3	The Violence and Harassment Convention, No. 190 of 2019 can be accessed at https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C190
+4	Definitions of harassment are found in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 and the Protection from Harassment Act, 2011.
+5	Conduct amounting to harassment is often described as being “unwelcome’’; the terms “unwanted” and “unwelcome” are synonymous. In this Code, the term “unwanted” is used as it is consistent with language of PEPUDA.
+6	In McGregor v Public Health and Social Development Sectoral Bargaining Council and Others [2021] ZACC 14, the Constitutional Court, while referring to the “victim”, notes that: “[w]here the word “victim” is used, it is used with acknowledgement, sensitivity and deference to the fact that those who experience sexual harassment or any form of gender-based violence may prefer to identify as a “complainant”, “survivor”, “victim” or “victim survivor”, or may choose not to identify with those, or any, terms.” (Footnote 5 to paragraph 1)
+7	In McGregor v Public Health and Social Development Sectoral Bargaining Council and Others [2021] ZACC14, the Constitutional Court reiterated that the seniority of a perpetrator and a disparity in age between the perpetrator and the complaint are aggravating factors, in instances of sexual harassment. This confirms the approach of the Labour Appeal Court in the Campbell Scientific Africa (Pty) Ltd v Simmers.
+8	Rustenburg Platinum Mine v SAEWA obo Bester and Others [2018] ZACC 13: (2018) 39 ILJ 1503 (CC); 2018 (8) BCLR 951 (CC); [2018] 8 BLLR 735 (CC); 2018 (5) SA 78 (CC) at paras 48 – 53. Other judgments which address the nature of racial discrimination in South Africa are Crown Chickens (Pty) Ltd t/a Rocklands Poultry v Kapp & Others (2002) 23 ILJ 863 (LAC); Duncanmec (Pty) Ltd v Gaylard NO and Others 2018 (6) SA 335 (CC) and South African Revenue Service v Commission for Conciliation, Mediation and Arbitration and Others 2017 (1) SA 549 (CC).
+9	Piliso v Old Mutual Life Assurance Co. (SA) Ltd & Others (2007) 28 ILJ 897 (LC) at para 89.
+10	Samka v Shoprite Checkers (Pty) Ltd & others (2020) 41 ILJ 1945 (LAC).
+11	Liberty Group Ltd v M (2017) 38 ILJ 1318 (LAC) at paras 48-54.
+12	Future of SA Workers Union on behalf of AB & others v Fedics (Pty) Ltd & another (2015) 36 ILJ 1078 (LC).
+13	Moatshe v Legend Golf & Safari Resort Operations (Pty) Ltd (2015) 36 ILJ 1111 (LC) at para 44.
+14	Certain bargaining councils have concluded collective agreements in terms of which disputes between parties under the EEA may be conciliated and arbitrated under the auspices of the bargaining council.
+15	Future of SA Workers Union on behalf of AB & others v Fedics (Pty) Ltd & another (2015) 36 ILJ 1078 (LC) at para 166.
+
+
+End of Document

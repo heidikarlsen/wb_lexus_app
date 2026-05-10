@@ -1,0 +1,132 @@
+
+
+
+
+Mkhize v Mark Antrobus SC (NO) and another [2016] JOL 36686 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JR 1342 / 12
+Hearing Date(s): 12 / 03 / 2013
+Judgment Date(s): 20 / 03 / 2013
+Bench: R Lagrange J
+
+
+Keywords
+
+
+Labour and Employment — Security of costs — Labour Court — Jurisdiction
+
+Mini Summary
+
+
+The Labour court rules do not specifically provide for applications for security for costs. However the rules provides that where the Labour court rules do not provide for a particular situation in proceedings, the court may adopt ‘any procedure deems appropriate in the circumstances’ and the labour court has inherent jurisdiction to deal with the question.
+
+Held (1) Orders for security for costs are not a regular feature of proceedings in the Labour court. It must be recalled that the legislature deliberately adopted principles governing costs awards which are not the same as those which apply in other courts. It might happen that an award of costs is made to a successful party because of other considerations of fairness. Nonetheless, where an unsuccessful party pursued a matter and canvassed significant amounts of irrelevant material or where the matter ought not to be pursued because prospects of success were minimal, the court has been willing to make an order of costs against the party. (2) For the reasons that there are scant prospects of success and that most of the review is based on grounds of appeal there is reason to believe that the applicant is intent on pursuing this review with a reckless disregard for the likely outcome. There is also the question mark whether he has the means to meet an adverse costs order or not. In the circumstances, it is not unfair to require him to provide reasonable security to the respondent so that it will not be out of pocket if it is ultimately shown that the review was without merit.
+
+Application allowed.
+
+ 
+[2016] JOL 36686 (LC) at 2
+
+
+
+
+Introduction
+
+[1]    This is an interlocutory application for security for costs brought by the second respondent in a review application, Bonitas Marketing (Pty) ('Bonitas'). The applicant in the review application is Mr TMR Mkhize ('Mkhize'). He has applied to set aside the award in private arbitration proceedings in which the arbitrator concluded at the end of a lengthy and detailed award that Mkhize's dismissal by Bonitas was procedurally and substantively fair.
+
+Prima facie view of the merits of the review application
+
+[2]    The founding affidavit in the review application is also lengthy and detailed. However, the vast majority of points raised in review are more akin to points that might arise on appeal even though they are identified as reviewable irregularities. To give some examples of the points raised, a few will be mentioned:
+
+Whether the applicant was guilty of gross insubordination, gross negligence and/or incompetence and breach of trust as charged.
+Whether Van Heerden [a member of the respondent's board] was elected as the BMC board chairman as per his evidence or not.
+Whether the applicant committed these alleged offences and whether there was gross negligence on his part as charged.
+
+[3]    The analysis of each of these questions of fact are set out in the founding affidavit and focus on an evaluation of the evidence, the thrust of which is that the arbitrator came to the wrong conclusions on these questions. As mentioned, these issues, which relate to the substantive merits of the charges against Mkhize, are more reminiscent of grounds of appeal than grounds of review.
+
+[4]    On the question of procedural unfairness, Mkhize raised two main grounds of review. Bonitas was prepared to concede that one of these could properly be viewed as a ground of review. That one concerned an allegation of misconduct on the arbitrator's part, alternatively a gross 
+[2016] JOL 36686 (LC) at 3
+irregularity, because he apparently indicated on a number of occasions that the applicant's case had not been put to the respondents' witnesses when they were cross-examined, without bearing in mind that the applicant could not afford legal representation and without bringing the requirement to his attention or that of his representative. In this matter.
+
+[5]    Mkhize also alleged that the arbitrator committed misconduct or alternatively a gross irregularity on whether his original enquiry had been fair because it had not been chaired by a neutral chairperson. The arbitrator recorded that the decision to dismiss Mkhize had been taken by the board of the company on a recommendation from a sub committee to terminate his employment. He noted that the company’s disciplinary code did not require the appointment of an independent chairperson and in the circumstances there was no more senior executive manager who could have conducted the enquiry because Mkhize was the managing director. He held that it was commonplace for disciplinary enquiry is to be conducted in-house and there was nothing inherently unfair or untoward about that fact.
+
+[6]    The respondent argues that the first of these two points is without merit because the record shows that there was considerable discussion about the admission of Mkhize's representative. The arbitrator was not opposed to the parties appointing representatives of their choice, but Mkhize objected to the company been represented by an advocate unless he could be represented by his brother, Mr S Mkhize ('S Mkhize'). Bonitas had objected to this arrangement on the basis that S Mkhize was neither an employee, union representative or legal practitioner. S Mkhize countered that he was a human resources manager currently employed by TransNet. The company then qualified its objection on the following basis:
+
+"If Mr Mkhize and Mr Sipho Mkhize can assure us Bonitas and yourself Mr Arbitrator, that Mr S Mkhize been a human resources manager at TransNet, has the necessary skill and knowledge to assist his brother in his process, that he is au fait with the laws of evidence; that he is au fait with the principles of labour law relating to unfair dismissal coupled with the whole was Whistle blowing 
+[2016] JOL 36686 (LC) at 4
+issue which would emanate from the pleading; that he will be able to assist in this process, then and only then would Bonitas say we will not object to him representing."
+
+(sic)
+
+[7]    The employer's counsel at the arbitration then emphasised that Bonitas did not want a situation to arise where halfway through the dispute the employee would say that his brother could not advise him on an aspect of the law because he was a lay person. After taking offence to counsel's submissions because he believed that they cast aspersions on his abilities, S Mkhize emphatically confirmed that they were ready to begin the case and that he was qualified to represent his brother in the process. Following this undertaking, the company withdrew its objections to S Mkhize representing his brother.
+
+[8]    In the light of this forthright statement of S Mkhize's capabilities in response to the employer's concerns about whether or not issues such as points of evidence might arise that he could not deal with, I do not think the arbitrator can be faulted for not reminding him of his responsibilities in conducting Mkhize's defence. On a prima facie view of the case, this ground of review seems rather weak.
+
+[9]    In relation to the other procedural points raised, the arbitrator clearly considered the limitations the company faced in finding someone to chair the enquiry within the company given Mkhize's seniority the but concluded that there was no obligation on it to appoint an independent outsider to conduct the enquiry. Indeed, I am unaware of any authority that compels an employer to appoint an independent external chairperson in the absence of an agreement or disciplinary code which requires it. The fact that an employer might take such a step to minimise the possibility of anyone with prior knowledge been involved in determining the outcome of the enquiry is commendable, but for the purposes of satisfying the standard of a disciplinary enquiry envisaged by the Labour Relations Act 66 of 1995 ('the LRA')1, a failure to do so in circumstances where there is 
+[2016] JOL 36686 (LC) at 5
+no one more senior in the company to hear the matter does not mean the standard has not been met. Accordingly, this ground of review also does not strike me as one that has much prospects of success.
+
+[10]    In short, the applicant in the main seems to be attempting to pursue an appeal in the guise of a review. Further, the limited procedural challenges which are raised appear to have very limited prospects of success. It must also be stressed that in a review of private arbitrator's award which is not conducted under the auspices of the LRA but in terms of the Arbitration Act 42 of 1965, an award cannot be reviewed on the basis of the principles laid down in Sidumo, but only on the grounds specified in section 33(1) of that Act.2 Like section 145 of the LRA, that section sets out the following grounds of review:
+
+Misconduct by the arbitrator in relation to his duties as arbitrator.
+The commission by the arbitrator of a gross irregularity in the conduct of the arbitration.
+The arbitrator has exceeded his power.
+The award was not properly obtained. "
+
+[11]    Therefore unlike reviews under the LRA, the arbitrator's reasoning is not subject to review with reference to the standard of unreasonableness set out in Sidumo and another v Rustenburg Platinum Mines Ltd and others 
+[2016] JOL 36686 (LC) at 6
+(2007) 28 ILJ 2405 (CC) [also reported at [2008] JOL 20811 (CC) – Ed], namely: "Is the decision reached by the commissioner one that a reasonable decision-maker could not reach?"3 In so far as it is even possible to construe the grounds of review which attack the arbitrator's reasoning as grounds of review rather than grounds of appeal, the applicant cannot rely on the test in Sidumo to augment his grounds of review and those grounds he raises going to the merits of his case do not appear to be ones that can easily be legitimised as genuine grounds of review in terms of one or more of the provisions of section 33(1).
+
+The application for security for costs
+
+[12]   The Labour Court rules do not specifically provide for applications for security for costs. However, rule 11 (3) provides that where the Labour Court rules do not provide for a particular situation in proceedings the court may adopt "any procedure deems appropriate in the circumstances", and the Labour Court has inherent jurisdiction to deal with the question.4
+
+[13]    In this matter the employer is arguing that the review application is vexatious and has requested that this application be heard before it is required to reply to the applicant's founding affidavit. The reason for seeking security for costs is practical: the arbitration took place over some five days and the record including the transcript of the arbitration is 
+[2016] JOL 36686 (LC) at 7
+substantial amounting to at least five lever arch files of documentation. It is reasonable to suppose that significant legal fees will be incurred by the respondent owing to the necessity of its legal representatives perusing the extensive record and preparing a reply to the founding affidavit of nearly 60 pages.
+
+[14]    Orders for security for costs are not a regular feature of proceedings in this Court. It must be remembered that the legislature deliberately adopted principles governing cost awards which are not the same as those which apply in other courts. Subsections 162(1) and (2) of the LRA state:
+
+The Labour Court may make an order for the payment of costs, according to the requirements of the law and fairness.
+When deciding whether or not to order the payment of costs, the Labour Court may take into account—
+whether the matter referred to the court ought to have been referred to arbitration in terms of this Act and, if so, the extra costs incurred in referring the matter to the court; and
+the conduct parties—
+in proceeding with or defending the matter before the court; and
+during the proceedings before the court."
+
+[15]    It might happen that no award of costs is made to a successful party because of other considerations of fairness.5 Nonetheless, where an unsuccessful party pursued a matter and canvassed significant amounts of irrelevant material or where the matter ought not to been pursued 
+[2016] JOL 36686 (LC) at 8
+because prospects of success were minimal, the court has been willing to make an order of costs against that party.6
+
+[16]    On the basis of the scant prospects of success discussed above and the fact that most of the review is based on grounds of appeal there is the reason to believe that the applicant is intent on pursuing this review with a reckless disregard for the likely outcome. There is also a question mark over whether he has the means to meet an adverse cost order or not. In the circumstances, I believe it is not unfair to require him to provide reasonable security to the respondent so that it will not be out of pocket if it is ultimately shown that the review application was without merit.
+
+[17]    There is insufficient material on the costs of the review to determine the appropriate quantum of such security, so this should be decided by the registrar if the parties are unable to agree on it.
+
+Order
+
+[18]    The applicant is ordered to establish security for the third respondent's costs in this matter, in an amount to be determined by agreement between the applicant and the third respondent or, failing such agreement being reached within 15 days of this judgment, the amount must be determined by the Registrant this Court.
+
+[19]    Costs of this application shall be costs in the cause.
+
+
+
+Footnotes
+1	See Avril Elizabeth Home for the Mentally Handicapped v Commission for Conciliation, Mediation & Arbitration and others (2006) 27 ILJ 1644 (LC) [also reported at [2006] JOL 17623 (LC) – Ed] at 1652E–1652F.
+2	See National, Union of Mineworkers on behalf of Employees v Grogan No and another (2010) 31 ILU 1618 (LAC) [also reported at [2010] JOL 25689 (LAC) – Ed] in which the LAC held, at 1639,[32], that:
+  "The grounds of review set out in s145 of the LRA are the same as the grounds of review set in s33 of the Arbitration Act . The only difference is that there are court decisions which have interpreted some of the grounds of review set out in s145 of the LRA to include certain grounds of review taken from the Constitution whereas, as far as I know, there is no decision of any court which has interpreted s33 of the Arbitration Act to include any grounds of review that are not explicitly expressed in s33 of the Arbitration Act. Of course, I am, in this regard, referring to the grounds of review of unjustifiability of CCMA awards articulated by this Court in Carephone (Pty) Ltd v Marcus NO, of the irrationality of CCMA awards as articulated by this Court in Shoprite Checkers (Pty) Ltd v Ramdaw NO and others (2001) 22 ILJ 1603 (LAC) as well as that of the unreasonableness of CCMA awards imputed to s145 of the LRA by the Constitutional Court in Sidumo and another v Rustenburg Platinum Mines Ltd and others. "
+3	At 2439,[110].
+4	See Kastinger v Doornbosch Restaurant CC (1999) 20 ILJ 386 (LC) [also reported at [1998] JOL 3843 (LC) – Ed] at 387, where Landman J
+ "[2] This Court has jurisdiction conferred upon it by s151(2) of the Labour Relations Act 66 of 1995 I understand that in terms of these inherent powers this Court may grant security for costs in such circumstances as are laid down by common law.
+[3]   The rules relating to the provision of security at common law have been conveniently summarized by White J in Vanda v Mbuqe and Mbuqe; Nomoyi v Mbuqe 1993 (4) SA 93 (Tk) at 94E. I quote:
+ ‘1 The general rule is that a plaintiff or applicant who is an incola will not be required to furnish security for costs . . . The purpose of the general rule is that every citizen should have uninhibited access to the courts.. . .
+ 2 There are certain exceptions, arising from both common law and statutory law, to the principle that incolae will not be called upon to furnish security for costs . As the exceptions are limited in number and only refer to a few specific cases, they make virtually no inroads on the general rule. An incola who embarks on reckless or vexatious litigation, or an insolvent who embarks on litigation other than that which he is empowered to embark on by the Insolvency Act 24 of 1936 may be called upon to furnish security – Ecker v Dean 1938 AD 102 at 110. If an incola who is a man of straw litigates in a nominal capacity, or is a front for another, he may be ordered to furnish security – Mears v Brook's Executor & Mears' Trustee 1906 TS 546 at 550."'
+5	Callguard Security Services (Pty) Ltd v Transport & General Workers Union and others (1997) 18 ILJ 380 (LC) at 388E–392B, in which Zondo J, as he then was, held that equal weight should be given to considerations of law and fairness, a dictum which was approved in Xaba v Portnet Ltd [2000] 1 BLLR 55 (LAC)at 68,par 4.10.
+6	Eg see SAMWU v City of Johannesburg (2007) 28 ILJ 2815 (LC) at 2820,[22] [case with no merit withdrawn at last moment] and Botha v Gensec Asset Management (Pty) Ltd [2000] 3 BLLR 260 (LC) [also reported at [1999] JOL 4582 (LC) – Ed] at 270 [costs awarded on a punitive scale on account of being devoid of merit and the inclusion of irrelevant material].
+
+Appearance:
+IM Shongwe, Shongwe Attorneys (At); WP Bekker, Gildenhuys Malatji Inc (R)
+
+
+End of Document

@@ -1,0 +1,598 @@
+
+
+
+
+TSB Sugar RSA Limited (now RCL Food Sugar Ltd) v Dorey [2019] JOL 41072 (LAC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JA 86 / 17
+Hearing Date(s): 13 / 08 / 2018
+Judgment Date(s): 15 / 08 / 2018
+Bench: R Sutherland JA, JR Murphy, F Kathree-Setiloane AJJA
+
+
+Keywords
+
+
+Labour and Employment — Dismissal — Occupational detriment — Protected disclosures
+
+Mini Summary
+
+
+Having been dismissed by the appellant, the respondent challenged her dismissal, alleging that it was a direct result of and causally connected to various protected disclosures which she had made during her tenure as risk control officer for the appellant. She therefore averred that the dismissal was automatically unfair as contemplated in section 187(1)(h) of the Labour Relations Act 66 of 1995. She contended that she was subjected to an occupational detriment in contravention of the latter Act and the Protected Disclosures Act 26 of 2000.
+
+The Labour Court, faced with the respondent’s challenge to her dismissal, found that what the applicant had reported were improprieties on the part of her manager and others, and were therefore protected disclosures. Finding that to be linked to the occupational detriment, the court awarded the respondent 24 months’ remuneration as compensation. That led to the present appeal.
+
+Held that section 3 of the Protected Disclosures Act provides that no employee may be subjected to any occupational detriment by her employer for having made a protected disclosure. An occupational detriment in relation to the working environment includes being subjected to any disciplinary action and dismissal. A protected disclosure includes a disclosure made in good faith and substantially in accordance with any procedure prescribed by the employer for the reporting of any impropriety.
+
+The evidence in this case established that the applicant had made four protected disclosures. The question was whether she had been subjected to an occupational detriment on account of those disclosures. If there is more than one reason for a dismissal, the Protected Disclosures Act will be contravened if any one of the reasons given for the dismissal is the protected disclosure made by the employee. The court was satisfied that the predominant reason for the respondent’s dismissal was the protected disclosures. That rendered the dismissal automatically unfair as found by the Labour Court.
+
+The appeal was dismissed.
+
+ 
+[2019] JOL 41072 (LAC) at 3
+
+
+
+
+[1]    The appellant ("RCL")1 appeals against the judgment of the Labour Court (Moshoana AJ) finding that RCL in dismissing the respondent ("Dorey") had subjected her to an occupational detriment within the meaning of the Protected Disclosures Act2 ("the PDA"), thus resulting in her automatically unfair dismissal, and granting her 24 months' remuneration as compensation. This appeal is with the leave of this Court
+
+The factual background
+
+[2]    Dorey commenced employment with RCL on 1 July 2002 and was dismissed on 22 December 2011 with one month's notice. At the time of her dismissal, Dorey was employed as a risk control officer reporting to Ms Elaine Herbst, RCL's then Manager: Risk Control. Dorey's duties included, inter alia: compiling and managing the "injury on duty statistics"; compiling information and taking part in health and safety audits; liaison between different departments in relation to health and safety issues and incidents; and administering an integrated SHE (safety, health and environment) risk management system.
+
+[3]    Problems arose in the relationship between Dorey and Herbst when, on 12 July 2011, Dorey in error sent an e-mail to Herbst which was meant to be sent to her colleague, Dolly Veldsman. The e-mail made certain critical, albeit relatively innocuous comments about Herbst, to which Herbst took exception. The e-mail appears to have led to a breakdown of trust and co-operation between Herbst and Dorey which is at the heart of what followed.
+
+ 
+[2019] JOL 41072 (LAC) at 4
+
+[4]    An earlier incident also contributed to the tension in the relationship. Dorey was in an intimate relationship with Dr Jan Breytenbach, an occupational medical practitioner who until 2010 provided services to RCL at its mill in Malelane. In early May 2010, Ms Riana Liebenberg, a SHE representative in another department, phoned Dorey and informed her that Wendy Snyman (an occupational health sister) was signing medical fitness certificates ("green cards") on behalf of Dr Breytenbach. Dorey believed that Snyman was not legally permitted to sign the certificates and thereby created a risk for Breytenbach and RCL. Dorey informed Herbst that Snyman was acting illegally.
+
+[5]    The day after Dorey raised this issue, on 6 May 2010, Herbst asked her to sign a staff confidentiality agreement obliging her to respect and maintain the confidentiality of all patient care records "and any other information generated in connection with individual patient care". Clauses 4 of the agreement provided that Dorey was not permitted to disclose any discussion, deliberations, patient care records or other relevant information except to persons authorised to receive it in the conduct of RCL affairs. Clause 6 obliged Dorey not to discuss such information outside the workplace. Dorey testified that she was surprised at being requested to sign the agreement some years after being appointed as a risk control officer and therefore signed it under protest. She surmised that she was compelled to sign the agreement in response to the disclosure. Herbst also told Dorey that she was no longer allowed to communicate with the clinic staff. This too contributed to a deterioration of the relationship. At a later stage, Dorey was excluded from certain meetings.
+
+[6]    On 13 September 2011, Dorey requested a meeting with Jan de Villiers ("De Villiers) (the company secretary of RCL) to discuss "certain irregularities she felt were taking place" in respect of RCL's health and safety obligations. Dorey said that she raised the following concerns:
+
+workplace incidents, accidents and diseases were not being reported and recorded in the prescribed manner and form; 
+RCL was not providing a safe working environment as it was legally obliged to do;
+RCL was deliberately concealing injuries on duty from the external auditors ("NOSA");
+Snyman was illegally signing medical certificates of fitness for construction work on behalf of Dr Breytenbach; and 
+[2019] JOL 41072 (LAC) at 5
+(v) mandatory workplace surveys (regarding noise, lighting, dust, heat etc.) had not been done for the previous two years as a consequence of RCL not being an accredited inspection authority ("AIA").
+
+[7]    Dorey testified that during this meeting, she referred to an incident involving Mr Lubisi, an employee who had been injured on duty. On 22 August 2011 shortly after he commenced employment with RCL, Lubisi sustained a serious injury to his leg and foot when he slipped in to "the reclaim melter". The accident occurred when a loose grating gave way causing him to fall partially into the melter containing molten product. He prevented himself from falling entirely into the tank by grabbing a railing. Had he not done so the accident would have been more serious, and possibly fatal. The boiling liquid scalded his leg removing all the skin up to the knee. He was taken to hospital by ambulance. He was treated and discharged from hospital after a few days on 1 September 2011. The treating doctor, Dr Neil Taverner, issued Lubisi with a medical certificate putting him off work for 19 days from 22 August 2011 to 11 September 2011. Lubisi testified that one of his supervisors visited him at home and instructed him to return to work on 5 September 2011. Despite being unfit for work, he returned to work and was told that he was on light duty. He, however, did not work and sat for about two weeks in an office next to the human resources department where he was given books about the sugar manufacturing process to read.
+
+[8]    In terms of the Occupational Health and Safety Act3 ("the OHSA"), incidents causing injury must be reported and internally investigated. Injuries resulting in an employee not being able to do his normal work for 14 days, or where there is loss of a limb, must be reported to an inspector of the Department of Labour who may investigate the matter.4 Dorey alleged that the accident involving Lubisi was dealt with in a way intended to avoid the legal obligation to report it to the Department of Labour.
+
+[9]    The day after the meeting between Dorey and De Villiers, 14 September 2011, Dorey and Herbst had an argument about Dorey's role and her wish to attend  
+[2019] JOL 41072 (LAC) at 6
+a training event. Dorey wanted to discuss her functions and responsibilities in light of the fact that Elodie Veldsman, who worked for Herbst's husband in the transport department, was to be appointed as a risk control administrator to take over some of her functions. Dorey believed her duties and training opportunities were being taken away following her disclosure of information about the green cards and because Breytenbach had terminated his arrangement with RCL for what he considered to be unethical conduct on the part of RCL.
+
+[10]    Dorey requested a further meeting with De Villiers which took place on 15 September 2011. She testified that during this meeting she again raised the Lubisi matter. Danie Olwage, a senior mechanical engineer employed by RCL, also attended this meeting. He had been tasked to conduct an incident investigation regarding the accident and according to Dorey was concerned about compliance issues. Olwage did not testify. However, in an e-mail dated 20 September 2011, and forming part of the discovered documentation regarding the investigation of the incident, he stated that the incident was indeed a reportable accident in terms of section 24 of OHSA. On 27 September 2011, Dorey and De Villiers met again and further discussed the issues and problems in the relationship.
+
+[11]    RCL denies that Dorey made the alleged disclosure concerning Lubisi at the meetings of 13 and 15 September 2011. De Villiers's recollection of these meetings is that they did not discuss specific incidents but focused rather on solutions to deal with the conflict between Dorey and Herbst. The Lubisi matter, he testified, was taken up with him for the first time later in October 2011. In the final analysis, not much turns on this discrepancy.
+
+[12]    The Lubisi matter was discussed at the external audit conducted by NOSA on 27 October 2011. According to Dorey, Herbst informed the auditors that the matter did not need to be reported to the Department of Labour. Dorey disagreed and while the audit was underway took Lubisi's file from the risk control department to De Villiers and asked him to look into the matter. The following day, 28 October 2011, Dorey wrote the following e-mail to De Villiers: 
+[2019] JOL 41072 (LAC) at 7
+"Our previous discussions refer.
+
+I have serious concern that certain Injury on Duty cases are managed unethically.
+
+In the past it has been difficult for me to prove as I only have limited access to relevant documentation and am not allowed to communicate with the Clinic on instruction from Ms. Elaine Herbst.
+
+I have now obtained written proof in the form of the IOD file of Mr XD Lubisi – Malelane Mill (DOI 22.08.201) [sic] which I handed over to you on 27 October 2011.
+
+Other concerns are as follows:
+
+The Company is at risk of being prosecuted by the Department of Labour if Injuries on Duty are not managed and reported according to the COID Act.
+Workers are at risk of not receiving optimal medical treatment and are not allowed sufficient 'Injury on Duty' leave as prescribed by treating doctors to recuperate fully.
+The statistics surrounding to the IODs are inaccurate and reflect a false DIFR as light duty cases are not included in the numbers. This gives the Company a false sense of security regarding our safety track record.
+The COIDA requires that all injuries out of and in the course of employment must be reported to the Commissioner. Clause 39(7). This is not done consistently. Failure to do so is considered an offence under the Act.
+
+The Risk Control Department is supposed to be the custodian of Health and Safety in the Company and it is my view that this is not the case at present.
+
+Incidents and statistics are being manipulated to improve the Department's image at the cost of Workers' safety.
+
+I hereby request that the matter be referred to the Fraud & Criminality Committee for a thorough investigation or in-depth audit by an Occupational Health/Medical Practitioner.
+
+ 
+[2019] JOL 41072 (LAC) at 8
+
+I look forward to your urgent response in this matter."
+
+[13]    On the same day, De Villiers responded by e-mail confirming that he had received the Lubisi file and had discussed it with Herbst and the NOSA auditors to check his understanding of the facts. He noted the other issues raised and reassured her that her concerns were understood. He asked her to provide him with further information and told her that he would prefer to discuss the matter further before escalating it to RCL's fraud and criminality committee.
+
+[14]    On 4 November 2011, De Villiers met with Dorey to give her feedback about Lubisi. He explained that Herbst and the auditors were of the view that the matter had been handled correctly, there being no obligation to report the incident because Lubisi had been absent for less than 14 days. At this meeting, Dorey also raised the accuracy and correctness of the SHE statistics and Herbst's intention to limit her functions. De Villiers suggested that Dorey meet with Herbst to discuss her issues and that he would talk to Herbst about Dorey's duties.
+
+[15]    Dorey and Herbst met on 7 November 2011 about Dorey's key performance areas. Herbst wanted to change Dorey's role, to which Dorey objected. Dorey raised other matters with which she had ethical problems.
+
+[16]    On 11 November 2011, Dorey addressed the following e-mail to De Villiers:
+
+"Our previous discussions refer:
+
+During my tenure at the Risk Control Department I noticed certain discrepancies that aroused my concern with regard to the management of the following:
+
+Injury on Duty cases;
+SHE Statistics;
+Internal SHE audits;
+External SHE audits (NOSA);
+Clinic registers; 
+[2019] JOL 41072 (LAC) at 9
+Medical fitness certificates;
+Conflict of interest
+
+I have obtained proof on some of the concerning issues and am willing to reveal the information to an independent party, i.e. investigator.
+
+There are some instances where I have grounds for concern but cannot verify or dispel my concerns due to the fact that I don't have access to the relevant information.
+
+I am reluctant to reveal a list with the specific details to any person who is implied, for fear of tampering with evidence.
+
+I undertake to give my full co-operation to any formal investigation."
+
+[17]    De Villiers replied to the e-mail as follows:
+
+"The broad framework below does not assist as it does not indicate what tests must be undertaken to verify the integrity (or not) of the system. We have moved beyond discussing concerns and must now investigate complaints but I will not sanction a discussion/investigation if the definition I require can't be provided. I have indicated to you that I want to resolve this matter urgently and the delay that is now being experienced is putting me under unnecessary pressure. I need, a list of complaints, in sufficient detail (if you don't want to provide the proof the info must at least state who, what where and when) to develop a scope, by Monday 12h00."
+
+[18]    Dorey on 13 November 2011 forwarded information to De Villiers in five batches. She referred to several cases and complained variously that some of the incidents were not reflected in the statistics; injured persons unable to continue with their tasks were sent back to work; leave was manipulated; cases were not reported to the Department of Labour; and statutory documentation was not completed. Theses inaccuracies influenced the disabling injury frequency rate ("DIFR"). In her testimony before the Labour Court, Dorey explained that a low DIFR a key performance indicator of divisional heads, relevant to decisions to pay performance bonuses and good for RCL's  
+[2019] JOL 41072 (LAC) at 10
+marketing purposes. De Villiers read the documents Dorey sent him and concluded it needed further consideration.
+
+[19]    During November 2011, Flora Shabangu, a healthcare worker, pricked herself whilst drawing blood. Dorey believed that Shabangu lacked the proper qualifications and training to draw blood. Dorey reported this incident to De Villiers in an e-mail dated 22 November 2011, the relevant parts of which read:
+
+"The injured is appointed as a Clinic Assistant at Tsb and never had formal training to perform phlebotomies (draw blood from a patient) at an accredited institution. As phlebotomy is an invasive procedure unqualified personnel are NOT ALLOWED to perform such a procedure . . .
+
+Florah Shabangu was trained, assessed and moderated by Wendy Snyman and Phillip Goosen and declared competent to perform Phlebotomies.
+
+According to SAQA (SOUTH AFRICAN QUALIFICATIONS AUTHORITY) Phlebotomists must be trained by an accredited institution and registered with the appropriate medical authority.
+
+On Tuesday 15 November 2011 she conducted a 'viral load test' on a patent [sic] where after she pricked herself whilst discarding the used needle. Refer to injury on duty form (pink form) attached.
+The incident was reported, blood was taken to confirm HIV negative status and she started taking ARV medication.
+She was emotionally extremely distressed and was referred to a clinical psychologist. Sr Snyman stated that Tsb would pay for only one session with the psychologist. Thereafter Mrs Shabangu would be liable for further sessions. According to the OHSACT victims of a needle stick injury must be referred for extensive counselling and psychological treatment. It is probably more appropriate that the treating therapist decides how many sessions are adequate.
+Furthermore, if an employee can show that he/she was infected due to negligence (carelessness) of the employer who did not provide a fully safe workplace (inadequate training in this case according to SAQA), he/she can demand more compensation. 
+[2019] JOL 41072 (LAC) at 11
+Florah Shabangu was granted 7 days' unpaid leave instead of IOD leave. Leave form attached. I am not sure if you were aware of the circumstances surrounding the unpaid leave when you signed the leave form. You as the 16(2) appointed person under the OHS ACT for the Risk Control Department may be held liable should this matter come to the attention of the Department of Labour . . .
+
+The Compensation for Occupational Injuries and Diseases Act (COIDA) gives every employee the right to compensation for accidents and illness that they get while working. If you get infected with HIV because of a workplace accident, you can claim for compensation . . .
+
+The working environment should be safe and healthy in order to prevent transmission of HIV in the workplace.
+
+Health and safety measures to prevent workers' exposure to HIV at work should include universal precautions, accident and hazard prevention strategies, work practice control, personal protective equipment, environmental control measures, Post Exposure Prophylaxis (PEP) to minimize the risk of contracting HIV and TB . . .
+
+I feel obliged to inform you of the potential liability that you face."
+
+[20]    De Villiers replied to this e-mail on 6 December 2011 stating that he was satisfied that Shabangu was qualified to perform the procedure and that the incident had been managed with due care in accordance with protocol. However, subsequent to receiving additional advice, RCL decided not to permit Shabangu to draw blood from patients.
+
+[21]    On 21 November 2011, Herbst e-mailed Dorey again informing her of her intention to review Dorey's key performance areas. Dorey responded on 22 November 2011 objecting and expressing concern that she was deliberately being prevented from doing her work, which she regarded as an unfair labour practice.
+
+[22]    De Villiers investigated all the allegations made by Dorey and concluded that they lacked substance and were possibly motivated by the personality conflict  
+[2019] JOL 41072 (LAC) at 12
+that had arisen. On 24 November 2011, De Villiers wrote Dorey a letter regarding the Lubisi incident which read:
+
+"RE DISABLING INJURY TO X LUBISI ON OR ABOUT 22 AUGUST 2011
+
+I have investigated the allegations relating to the disabling injury of Mr Lubisi which you have discussed with me on 27 October 2011. This matter was also considered during the recent NOSA audit which is commissioned with the purpose of obtaining external assurance on the integrity of the SHE system. It transpired that the incident did not have to be reported to the Department of Labour in terms of the relevant legislation. No further action was necessary.
+Tsb Sugar is committed to doing business ethically and complying with legislative requirements. Where concerns about the integrity of our systems are raised, it is my duty to investigate such concerns without fear or favour. It is also acknowledged that any unjustified complaints hold the potential for prejudice and that it is accordingly necessary to take a responsible approach.
+In this case questions have been raised in respect of the manner in which this 'complaint' was handled given the removal of a confidential file from the central filing system without prior consultation with a responsible official, the serious nature of allegations of improper conduct by Elaine Herbst which proved to be inaccurate and eventual confirmation by the external auditors that the incident was administered in terms of the relevant provisions of the OHS Act, 1993.
+I wish to draw the following to your attention:
+Where practical, it is your duty to discuss work related concerns with your Line Manager in the first instance and such discussions should be held in good faith (not confrontational) in a constructive manner aimed at ensuring alignment and cohesion.
+You are responsible to maintain a sound relationship with your Line Manager and formal procedures have been established to address grievances. 
+[2019] JOL 41072 (LAC) at 13
+
+It is now necessary to acknowledge the damage that has unnecessarily been inflicted as a result of this investigation and to focus on the restoration of relationships. I trust that I can rely on your cooperation to implement corrective action."
+
+[23]    De Villiers wrote Dorey another letter on 5 December 2011 regarding the other issues she had raised. This letter reads:
+
+"RE: VARIOUS COMPLAINTS
+
+I refer to your emails dated 13 November 2011. The various complaints contained therein have been investigated in full and the results have been discussed with Senior Management.
+The Company is aware that there may be a friction between the interests of productivity and wellness of employees which requires deliberate management. Compliance with legislative and regulatory requirements is not negotiable. These considerations motivate the utilisation of experts and professional staff members who have to apply skill, care and judgement to manage and control the situation.
+In the interest of ensuring the integrity of the system, it was necessary to undertake a detail (sic) investigation into the complaints that you have raised. As could be expected, this investigation had a major disruptive effect especially as it questioned the integrity and conduct of professional staff members with impeccable track records and who had served the Company well over many years.
+After due consideration of all the facts and the evidence presented, it was concluded that the facts do not support any finding of impropriety, dishonesty or any other critical failure of the system.
+With the investigation now concluded, I hereby request that you refrain from any conduct that may further hamper the trust relationships between colleagues and staff morale unnecessarily. In this regard, it is with regret that I have to inform you of an anonymous complaint that I have received stating that you are involved in 'gossip' and unauthorised disclosure of confidential information. While I have not been presented with any substantiation for these allegations, I would remind you that such behaviour would undermine the  
+[2019] JOL 41072 (LAC) at 14
+credibility of our Department and our ability to render a professional service. Please make an extra effort to ensure that your conduct is always professional and beyond reproach.
+I trust that we will all be able to put these matters behind us and contribute constructively to the performance of our team. Your commitment and dedication is appreciated."
+
+[24]    Dorey maintains that she was never part of any investigation of her complaints. She was not given an opportunity to present her concerns to an independent investigator despite her stated willingness to make herself available to be questioned on the various cases to which she had drawn attention.
+
+[25]    On 9 December 2011, another dispute arose between Herbst and Dorey regarding access to Dorey's office and control over certain files. In an e-mail to Dorey dated 9 December 2011, Herbst referred to a cupboard that some months previously had been placed in front of a door between their offices and suggested that the need to access relevant files required that the files be kept elsewhere. Dorey experienced the suggestion as an attempt to sideline her and to undermine her position. She pointed out that it was possible to access her office through another door and that Herbst in the past had unilaterally removed files and other equipment from her office. She again complained of unfairness and threatened to refer the matter to the Department of Labour and the CCMA. Dorey left work early that day without informing Herbst. On 12 December 2011, Herbst wrote to Dorey defending her position on the question of access to the office and file and suggested that there was something untoward in putting the cupboard in front of the door. Herbst informed Dorey that disciplinary steps would be taken against her.
+
+The disciplinary proceedings
+
+[26]    On 19 December 2011, Dorey was charged with various disciplinary offences and instructed to attend a disciplinary enquiry on 21 December 2011. The charges were:
+
+Absence without permission and/or abscondment on 9 December 2011 without prior arrangement and permission from management. 
+[2019] JOL 41072 (LAC) at 15
+Failure to use the approved internal procedures to resolve a grievance with her superior.
+Gross insubordination relating to the rearranging of furniture without prior consultation with management with the intent to frustrate and undermine management; the illegal and unlawful removal of a file containing confidential information from a secure place without permission from her superior and ordinarily communicating with management in a tone that displays impudence and cheekiness.
+Inaccurate and false communication and/or publication and/or distribution of confidential information with the intention to undermine the reputation, credibility and good standing of the Risk Control Department and senior officials.
+
+[27]    The disciplinary hearing was chaired by Mr C Vermeulen ("Vermeulen"), who was not called to testify before the Labour Court. The pre-trial minute records the disciplinary hearing report (and presumably its content) as being common cause.
+
+[28]    The first charge related to Dorey's leaving work early on 9 December 2011. It was not disputed that Dorey had filed a leave application before she left work but had not informed Herbst of her intention to leave. She was found not guilty of this charge on the ground that she had followed past practice. She was found not guilty on the second charge because she had legitimately escalated her grievance about her line manager to the next line of command.
+
+[29]    The third charge had three components:
+
+re-arranging the furniture without prior consultation with the intent to frustrate and undermine the authority of management; 
+illegally removing the Lubisi file containing confidential information from a secure place without permission and without following the correct procedure; and 
+communicating with a superior (Herbst) in an impudent or cheeky tone.
+
+[30]    The report of the disciplinary hearing ("the report") reflects that in July 2011, Herbst locked the inter-leading door between her office and Dorey's office.
+
+ 
+[2019] JOL 41072 (LAC) at 16
+
+Dorey assumed Herbst did this to limit her access to the records in Herbst's office. Dorey later moved the cupboard in front of the locked door. Access to her office was possible through its main door and she saw no problem in placing the cupboard in front of the door, as Herbst did not complain about it. She stated that she was willing to move the cupboard back to its original position. The report records that Vermeulen accepted that there was no company rule disallowing staff from re-arranging furniture.
+
+[31]    As for the removal of the Lubisi file and handing it to De Villiers on 27 October 2011, it was alleged that Dorey had done so without discussing it with Herbst and had done so with the intention of putting Herbst in a bad light. The report notes that the key issue under this charge was "the intention of the removal of the file". Dorey maintained that working with the files fell within her job description and that she was entitled to bring it to the attention of De Villiers. As for the charge of impudence, the report indicates that Herbst and Dorey made mutual recriminations about each other's responsibility for the breakdown in the working relationship.
+
+[32]    The report does not identify whether the re-arranging of the furniture or the removal of the Lubisi file amounted to disciplinary infractions in contravention of any specific workplace rules. The ultimate finding on the third charge was recorded as follows:
+
+"Finding – complaint 3.
+
+Guilty – Enough evidence was put on the table to confirm that you tried your level best to make life as difficult as possible for your direct line manager. The absolute destroyed trust relationship between you and your line manager was confirmed even by yourself."
+
+[33]    The precise nature of the allegations comprising the fourth charge of "inaccurate and false communication, publication and distribution of confidential information with the intention to undermine the reputation, credibility and good standing" of others are difficult to discern. The report intimates that the information in question consisted in part of the various batches sent by Dorey to De Villiers on 13 November 2011. Dorey stated at the hearing that the  
+[2019] JOL 41072 (LAC) at 17
+information was available online and could be ascertained without going into the files. Vermeulen referred to De Villiers's letter of 5 December 2011 stating that the issues had been investigated and that the matter was closed. Dorey informed the hearing that she was not happy with the manner in which the investigation had been carried out. Vermeulen's finding on this charge reads:
+
+"Finding – complaint 4.
+
+Guilty – Jan de Villiers gave feedback after the investigation into the allegations. NOSA was contacted in order to clear some of the allegations and this put Tsb in a very bad light. You made it clear that you do not trust the Tsb systems and procedures any longer – systems and procedures within the Risk Control Department Jan de Villiers, as Departmental Head, gave you individual feedback but you were not satisfied."
+
+[34]    The finding does not identify in what respects any of the information distributed or disclosed by Dorey was confidential, inaccurate or false, nor does it indicate how such undermined the reputation, credibility and good standing of RCL, Herbst or De Villiers. The decision appears to be that Dorey misconducted herself by putting RGL in a bad light with the auditors, NOSA, and in not accepting the feedback she received on the issues she had raised. The report makes no specific pronouncement on how Dorey breached confidentiality or disseminated inaccurate or false information.
+
+[35]    Vermeulen handed down the sanction on 22 December 2011. The report sets out his reasoning as follows:
+
+"The Chairman welcomed all present. He said that he carefully considered all the evidence presented during the case. He summarized the proceedings of 21 December 2011. The Chairman highlighted the following main considerations:
+
+We are not living in a perfect world although we all want to make it a perfect world. In a perfect world we would have 100% for all audits. No company in the world achieves this. 
+[2019] JOL 41072 (LAC) at 18
+Our intent should always be to improve all the time. That is why we use internal and external audits like NOSA.
+The Accused and the Complainant was more than just colleagues (sic) – you were house friends.
+This relationship was destroyed over time to the point where it is now so bad that you cannot refer to a relationship any longer.
+There should have been an intervention from line management – a while back already. The allowance of a relationship like this one for months reflects badly on line management
+The Accused used anything to discredit the system and the Department. This was done with no intent to help or improve Tsb or its systems.
+Your intent of why and how you went about – totally unacceptable.
+You confirmed on numerous occasions during the proceedings that you do not trust your line manager or your Departmental head any longer. If you showed interest to work with the company to improve problem areas it would be a totally different case.
+You confirmed that you do not trust the outcome of the investigation – the outcome of which was tested and discussed with the members of the Fraud and Criminality Committee before feedback was given to you. With you not trusting the feedback, you are saying that you do not trust the Tsb systems, procedures and the Executive Committee any longer.
+Your line manager confirmed yesterday that she cannot work with you any longer and that the trust relationship was broken.
+You said yesterday that you cannot be part of this team any longer.
+
+The Chairman stated to have reached the following decision:
+
+That the conduct of Ms. M Dorey did destroy all reasonable hope of the restoration of a sound employment relationship. 
+[2019] JOL 41072 (LAC) at 19
+That the relationship of trust between the employer and the employee has been permanently damaged.
+
+Based on the proceedings and all evidence put before me, I do not have any other alternative than to terminate your employment relationship with the Company with immediate effect. Although your service will be terminated today, the Company will pay out a month's notice."
+
+[36]    Dorey appealed against her dismissal and led new evidence at the appeal. The appeal chairperson, Mr E Terblanche ("Terblanche"), dismissed the appeal and concluded that Dorey's allegations against Herbst and De Villiers were unfounded and that she had acted with intent to discredit them and her department. He also found that dismissal was the appropriate sanction, in particular, because Dorey refused to work with Herbst and had come to distrust De Villiers. The essence of Terblanche's finding on the substantive issues reads as follows:
+
+"The fact that Ms Dorey has been charged with a wide range of alleged offences, clearly indicates that all is not well and is a concern in itself. The Complainant (Herbst) indicated a wide range of incidents of unacceptable behaviour over a period of time – some are not significant as such, but it is clear that the Complainant intended to demonstrate a build-up of incidents – unacceptable and highly destructive in terms of questioning all decisions etc. and undermining authority.
+
+In considering a sanction, the Chairman of the disciplinary hearing made it clear that Ms Dorey, by own admission, described the level of trust as being so bad that she cannot be part of the team any longer. The Complainant also stated this by saying that she cannot work with you any longer and that the trust relationship was broken. The finding was also based on the fact that the conduct and information indicated an intent which was concluded to be unacceptable, was aimed at discrediting the Department and was never intended to help or improve Tsb or its systems.
+
+There were also instances of insubordination and numerous conflict situations described as part of the hearing – this clearly reflects an element of intent. What was she trying to achieve – discredit? vindictive? – surely the incessant  
+[2019] JOL 41072 (LAC) at 20
+seeking of, in your mind, wrongful acts and omissions on the part of your superior does not reflect you trying to solve any perceived or real issues.
+
+This irreparably damaged relationship (sic), the malicious intent as well as instances of insubordination served as the basis for the decision by the Chairman of the disciplinary hearing.
+
+These issues were explored during the appeal and what unfolded was that Ms Dorey actually stated her intent more aggressively than before. Some statements she made were:
+
+Ms Herbst was a liar, manipulated information to benefit someone else / some Departments.
+Mr de Villiers was deliberately covering for somebody else and not telling the truth.
+The Chairman of the disciplinary hearing was putting words in her mouth.
+She had a long list of ethical issues raised over a period of time – all relating to the ethical behaviour of Ms Herbst.
+Tsb cheated on leave issues in the Lubisi case, and she (Ms Herbst) lied to the Auditors.
+Attempts to discuss with Ms Herbst lead to arguments.
+Double standards – eg access through SAP passwords, and inconsistency.
+Ms Herbst changed figures when it mattered and then later changed them back again – historically.
+Ms Dorey again referred to the relationship as having deteriorated to a level of no hope of restoration.
+EH is a fraudster and a liar – how can you report to her in such circumstances. 
+[2019] JOL 41072 (LAC) at 21
+It seems like a lot of people are doing things contrary to her beliefs and values, and Ms Dorey appears to be the only one who is right.
+
+I cannot look at these statements in isolation – collectively it reflects an alarming trend and the fact that an inordinate amount of time and effort was put in to try and justify these allegations (even as far back as 2007) indicates an attempt to discredit Ms Herbst, her immediate line manager. Although all instances were not investigated in absolute detail, they were investigated by Mr De Villiers in response to Ms Dorey's information provided to him. Feedback was given, but not accepted by Ms Dorey. She maintains that Mr de Villiers covering for Ms Herbst and she continues to provide information which cannot be substantiated."
+
+[37]    The reports of both hearings do not include any specific findings regarding the improprieties alleged by Dorey. Although the issues appear to have been canvassed to some extent at the appeal hearing, the reports do not provide a full examination of, or any clear pronouncement upon, the correctness or accuracy of Dorey's allegations that RCL acted in contravention of the applicable legislation in relation to the Lubisi, Shabangu and Snyman incidents. Terblanche, without making his own independent determination of the legal and factual issues, seemed to accept the view of De Villiers that there were no irregularities. The tenor of the findings in both reports is that the disclosures were made with intent to discredit RCL, Herbst and De Villiers and were pursued unreasonably and aggressively. Neither Terblanche nor Vermeulen testified in the Labour Court proceedings in elaboration of their findings.
+
+The Labour Court proceedings
+
+[38]    Dorey submits that her dismissal was a direct result of and causally connected to the protected disclosures made to De Villiers. But for the disclosures, she maintains, she would not have been dismissed, and thus her dismissal was automatically unfair in terms of section 187(1)(h) of the Labour Relations Act5 ("the LRA") in that she was subjected to an occupational detriment in contravention of the provisions of the PDA and the LRA as a result of having made the disclosures. She accordingly referred a dispute alleging an automatically unfair  
+[2019] JOL 41072 (LAC) at 22
+dismissal to the CCMA. After attempted conciliation on 16 January 2012, the dispute remained unresolved and a certificate of outcome was issued on that date. The matter was then referred to the Labour Court in terms of section 191(5)(b) of the LRA.6
+
+[39]    In her statement of claim, Dorey submitted that the disclosures she allegedly made during the meeting with De Villiers on 13 September 2011 were protected disclosures as defined in the PDA. These included the allegation that RCL was not properly reporting reportable workplace incidents in terms of section 24 of the OHSA or workplace accidents as required by section 39(1) and/or (5) and section 68 of the Compensation for Occupational Injuries and Diseases Act7 ("COIDA"); was not providing a safe working environment to its employees as required in terms of section 8 of the OHSA; was not conducting internal SHE audits consistently; and had deliberately concealed injuries on duty, time records etc. from the external auditors, NOSA. She referred also to the signature of medical certificates of fitness by Snyman, the Lubisi incident, and the failure to perform mandatory workplace surveys in respect of noise, lighting, dust, heat etc. in contravention of the OHSA.
+
+[40]    Dorey alleged further that her e-mail of 28 October 2011 included protected disclosures that:
+
+injuries on duty were not being managed and reported correctly or at all in terms of relevant legislation;
+employees who suffered injuries on duty were as a result not receiving the optimal medical treatment to which they are entitled and were not being granted sufficient "injury on duty" leave to recuperate fully; and
+the injury on duty statistics of RCL, provided to the Department of Labour, Compensation Commissioner and external auditors, were thus inaccurate as incidents were excluded from these records.
+
+Moreover, she maintained that the manner in which the employer dealt with the incident she reported regarding the drawing of blood by Shabangu and her needle prick injury were violations of section 8 of the OHSA (which requires an employer to ensure a safe working environment) and section 24(1)(b) of OHSA  
+[2019] JOL 41072 (LAC) at 23
+(obliging the employer to report a "major incident" to an inspector of the Department of Labour).
+
+[41]    The disclosures, Dorey contended, were thus disclosures of information regarding conduct of RCL or its employees which she had reason to believe indicated that RCL had:
+
+committed criminal offences in terms of the OHSA and the COIDA;
+failed to comply with its legal obligations in terms of OHSA and COIDA; and
+endangered the health or safety of its employees.
+
+The disclosures were made to RCL in terms of section 6 of the PDA. She contended further that the disciplinary action against her and her dismissal constituted occupational detriments as contemplated in the PDA and in contravention of section 3 of the PDA in that she was subjected to such occupational detriment on account or partly on account of having made protected disclosures in good faith to an authorised representative of the employer. On this basis, she alleged that her dismissal was automatically unfair in terms of section 187(1)(h) of the LRA and sought maximum compensation in terms of the LRA.
+
+[42]    RCL contended in its response that Dorey was motivated to lay complaints against Herbst in order to induce it to take disciplinary action against her or to undermine her integrity on account of the relationship between them deteriorating to the point where they were no longer able to work with each other. In the process, she became insubordinate and started making serious but false allegations against Herbst. Dorey, it said, was not dismissed as a result of her making any legitimate complaints but for insubordination, disrespect and disregard for Herbst and for making false and malicious, unsubstantiated allegations.
+
+[43]    The trial commenced in June 2016 but was only concluded in March 2017. The Labour Court handed down its judgment on 3 May 2017. Dorey testified on her own behalf and called three other witnesses. De Villiers, Herbst and two other witnesses testified on behalf of RCL.
+
+[44]    The primary question for determination by the Labour Court was whether the reason for Dorey's dismissal was a contravention of the PDA by RCL on account of or partly on account of her having made a protected disclosure as  
+[2019] JOL 41072 (LAC) at 24
+defined in the PDA, and thus amounted to an automatically unfair dismissal as contemplated in section 187(1)(h) of the LRA.
+
+[45]    Section 3 of the PDA provides:
+
+"No employee may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure."
+
+[46]    An "occupational detriment" in relation to the working environment of an employee is defined in section 1 of the PDA to include, inter alia, being subjected to any disciplinary action, being dismissed or being otherwise adversely affected in respect of his or her employment including employment opportunities and work security.
+
+[47]    Section 1 defines a "disclosure" to mean:
+
+"any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+that a criminal offence has been committed, is being committed or is likely to be committed;
+that the person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+that a miscarriage of justice has occurred, is occurring or is likely to occur;
+that the health or safety of an individual has been, is being or is likely to be endangered;
+that the environment has been, is being or is likely to be damaged;
+unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act No. 4 of 2000); or 
+[2019] JOL 41072 (LAC) at 25
+has been, is being or is likely to be deliberately concealed."
+
+[48]    A "protected disclosure" is defined by section 1 of the PDA to include a disclosure made to an employer in accordance with section 6 of the PDA. Section 6(1) reads:
+
+"Any disclosure made in good faith–
+
+and substantially in accordance with any procedure prescribed, or authorised by the employee's employer for reporting or otherwise remedying the impropriety concerned; or
+to the employer of the employee where there is no procedure as contemplated in paragraph (a), is a protected disclosure."
+
+[49]    "Impropriety" is in turn defined to mean any conduct which falls within any of the categories referred to in paragraphs (a)–(g) of the definition of "disclosure".
+
+[50]    Section 4 of the PDA enacts remedies for employees subjected to occupational detriments for making protected disclosures. It provides that any employee who has been subjected, is subject or may be subjected to an occupational detriment in breach of section 3 of the PDA may approach the Labour Court for appropriate relief. It further aligns the remedies with those available under the LRA by providing that for the purposes of the LRA, including the consideration of any matter emanating from the PDA by the Labour Court, any dismissal in breach of section 3 of the PDA is deemed to be an automatically unfair dismissal as contemplated in section 187 of the LRA and any other occupational detriment in breach of section 3 of the PDA is deemed to be an unfair labour practice.8
+
+[51]    Referring to the definition of "disclosure" in the PDA, the Labour Court held that what Dorey brought to the attention of De Villiers, particularly in relation to the Lubisi accident and the SHE statistics, was information alleging impropriety on the part of Herbst and others. It concluded that on the objective facts Dorey had  
+[2019] JOL 41072 (LAC) at 26
+reason to believe that the information showed or tended to show failures to comply with legal obligations.9 Dorey was raising issues of non-compliance and thus the disclosure of information to De Villiers amounted to a disclosure within the contemplation of the PDA. Relying on the decision in Radebe and another v Premier, Free State Province and others,10 it held that the phrase "tends to show" in the definition of "disclosure" cannot be equated to "show" and thus there is no requirement that the disclosed information conveyed to the employer must be factually accurate or true.11 If the employee reasonably believes the information is true, one may infer bona fides from the reasonableness of that belief. The Labour Court held that Dorey after analysing the records in relation to Lubisi reasonably believed that RCL was acting improperly and was thus bona fide in her disclosure. It, however, made no explicit findings regarding the disclosures concerning Shabangu, the dust and noise surveys, the medical certificates of fitness etc.
+
+[52]    On the critical question of the link between the protected disclosure and the occupational detriment, the Labour Court opined as follows:
+
+"For an employee to succeed, an employee must establish a causal link between his or her dismissal and the protected disclosure. Put it differently, an employee must produce evidence sufficient to raise the contravention of the PDA. Once that is done, the respondent bore the onus to prove that the applicant was dismissed for a fair reason.
+
+The respondent alleged in its statement of defence that the applicant was dismissed for misconduct. She was guilty as charged in other words. The evidence of Herbst and De Villiers suggests that the applicant could not have faced disciplinary steps, which led to her dismissal. That being the case, the probabilities are that the dismissal was on account of having made the disclosure.
+
+ 
+[2019] JOL 41072 (LAC) at 27
+
+Closer scrutiny of the charges creates a connection between the disclosure and the charges. As an example, the applicant was charged with having illegally removed a file containing confidential information from a place without permission and following due process. It turned out in evidence that the file in question is that of Lubisi. The applicant's case was that Lubisi was importable. Clearly she removed that file in order to disclose non-compliance to De Villiers.
+
+Her providing the file to De Villiers was a disclosure, which is protected as she was intending to show the non-compliance. Another charge related to her publication of inaccurate information with an intention to damage the reputation of the Risk Control Department. It turned out in evidence that the said information related to clinical records or files. According to the applicant certain injuries on duty were not recorded properly in order to avoid reporting and also to obtain good NOSA audit ratings. The said information was provided to De Villiers in order to show the alleged manipulation. When she did so she was making a protected disclosure. Dismissing her on account of these two incidents amounts to an automatically unfair dismissal.
+
+I therefore come to the conclusion that the applicant was dismissed for an impermissible reason. Her dismissal is automatically unfair . . ."
+
+[53]    The Labour Court had regard to the objects of the PDA to advance good, effective, accountable and transparent corporate governance in the interests of economic stability and social good, took account of Dorey's humiliation while trying to serve the interests of RCL, and concluded that it was just and equitable to award the maximum amount of compensation equivalent to 24 months' remuneration in the amount of R552 000.
+
+The appeal
+
+[54]    RCL's notice of appeal lists numerous grounds of appeal, many of which are repetitive and in some instances irrelevant or inconsequential. RCL essentially contends that the Labour Court erred in:
+
+finding that the disclosures made by Dorey to De Villiers were disclosures made in good faith and thus protected;
+finding that Dorey had reason to believe that the disclosed information showed or tended to show an impropriety;
+not indicating which of the improprieties in paragraphs (a)–(g) of the definition of "disclosure" constituted the basis of the  
+[2019] JOL 41072 (LAC) at 28
+finding that Dorey made protected disclosures;
+not finding that Dorey had acted recklessly and sought unreasonably to disparage RCL; 
+finding that Dorey established a causal connection between making a disclosure and her dismissal; 
+holding that the dismissal was automatically unfair in terms of section 187(1)(h) of the LRA; and 
+awarding the maximum amount as just and equitable compensation.
+
+[55]    Dorey's disclosures consist of information regarding seven instances of conduct by RCL or its employees which she contends showed or tended to show one or more of the improprieties referred to in paragraphs (a)–(g) of the definition of "disclosure" in section 1 of the PDA. They relate to: 
+
+the Lubisi accident; 
+the medical certificates of fitness issued by Snyman; 
+the SHE statistics; 
+the manipulation of the information in clinic registers; 
+the failure to conduct lawful noise and dust surveys; 
+the Shabangu incident; and 
+the manipulation of leave due to sick or injured employees.
+
+[56]    The proper approach to the primary question in this appeal is: first, to determine whether the various disclosures of information constitute disclosures as defined in section 1 of the PDA; secondly, to decide if the disclosures are protected disclosures, as contemplated in section 1, read with section 6 of the PDA; and thirdly, whether Dorey was subjected to an occupational detriment (discipline and dismissal) by RCL on account, or partly on account, of having made a protected disclosure. The last enquiry requires careful consideration of the evidence regarding the reason for the dismissal to establish if the disclosure causally accounted or partly accounted for the dismissal.
+
+The Lubisi disclosure
+
+[57]    The disclosure of information regarding Lubisi was to the effect that RCL failed to report the accident to the Department of Labour when it had an obligation to do so in terms of section 24(1)(a) of OHSA. The relevant part of the provision reads:
+
+"Each incident occurring at work or arising out of or in connection with the activities of persons at work, or in connection with the use of plant and machinery, in which, or in consequence of which . . . any person . . . is otherwise  
+[2019] JOL 41072 (LAC) at 29
+injured . . . to such a degree that he is . . . likely to be unable for a period of at least 14 days either to work or to continue with the activity for which he was employed or is usually employed."
+
+[58]    The medical certificate of Dr Taverner, Lubisi's treating surgeon, is clear on the face of it that Lubisi was unable to continue with his ordinary employment for 19 days. However, in medical reports completed later by Dr Taverner and Dr Goosen (neither of whom testified), and put to Lubisi in cross-examination, it is recorded that Lubisi was certified to resume light duty on 1 September 2011. In addition to his medical certificate declaring Lubisi unfit for normal work until 12 September 2011, Dr Taverner, on 22 August 2011, completed a "First Medical Report of an Accident" in terms of COIDA, stating that Lubisi was unfit for work, though fit for light duty from 1 September 2011, but fit for normal duty only from 12 September 2011. Dr Goosen completed a COIDA form on 16 September 2011. This report noted that there was a "good prognosis and no further treatment" and recorded that Lubisi had been on light duty from 1 September 2011 and was fit for normal work 12 September 2011.
+
+[59]    If one relies solely on Dr Taverner's medical certificate under his letterhead then the accident was reportable. The COIDA forms are perhaps ambiguous, though both record that Lubisi would be fit for normal duties only on 12 September 2011, after more than 14 days. In the absence of any testimony from Dr Taverner and Dr Goosen, it is not possible to make a conclusive finding about whether Lubisi was in fact disabled from performing his usual tasks for more than 14 days. However, despite the superficial contradictions in the documentary evidence, it cannot be gainsaid that both Dr Taverner's medical certificate and the COIDA forms provide a reasonable basis to believe that the accident was indeed reportable.
+
+[60]    Dorey thus on objective grounds had reason to believe that the information concerning Lubisi tended to show that RCL failed to comply with its obligation under section 24(1)(a) of OHSA. She testified that she was fortified in her view by the fact that Olwage regarded the accident as a reportable incident and had refused to complete the investigation, as well as by her belief (based on an overheard conversation between Herbst and Vermeulen) that RCL did not  
+[2019] JOL 41072 (LAC) at 30
+report the incident because it did not want the Department of Labour to inspect the factory. The disclosure of information to De Villiers regarding this matter was accordingly a disclosure as defined in section 1 of the PDA. This is so notwithstanding the fact that NOSA told De Villiers (after the disclosure had been made by Dorey) that in their opinion there was no need to report the matter. De Villiers in his investigation would have done better to have asked Dr Taverner whether Lubisi was disabled for more than 14 days. He appears not to have done that.
+
+[61]    Mr Mooki, on behalf of RCL, argued strongly that even were we to hold that the disclosure of information regarding Lubisi constituted a disclosure it was not a protected disclosure because it was not made in good faith as required by section 6 of the PDA.
+
+[62]    He submitted firstly that Dorey's evidence contradicted her pleaded case in relation to Lubisi in that she pleaded that Herbst had said the incident was reported to the Department of Labour, when it in fact was not. Her evidence, on the other hand, was that Herbst said Lubisi was not reported to the Department of Labour. Dorey also gave conflicting evidence on why she took Lubisi's file to De Villiers. She said she uplifted the file because Herbst misled the auditors by telling them that the incident was reported to the Department of Labour but also said that she did so because RCL did not inform the auditors that Lubisi was on light duty.
+
+[63]    These contradictions, if such, relate to explanations proffered long after the initial disclosure. The bona fides of the disclosure must be assessed at the time it was made. The evidence is clear that Dorey, like Olwage and others, in light, inter alia, of Dr Taverner's medical certificate, reasonably believed at the time of disclosing the matter to De Villiers that the accident was reportable. Subsequent contradictions in her explanations as to why she took the file to De Villiers or in the niceties of her account of Herbst's explanations do not detract from the bona fides of the initial disclosure.12
+
+ 
+[2019] JOL 41072 (LAC) at 31
+
+[64]    Likewise, the opinion of the auditors that the incident was not reportable does not bear upon the reasonableness of Dorey's belief about the duration of Lubisi's disablement. The auditors lack the requisite medical expertise on whether the injury disabled Lubisi for more than 14 days. They relied chiefly on Dr Goosen's COIDA report completed after Lubisi had returned to work. Dorey's opinion was legitimately and reasonably based on the contemporaneous medical certificate and the opinion of the RCL employee tasked with determining that question (Olwage), who declined to complete the investigation on account of his view not being heeded.
+
+[65]    Moreover, it is common cause that Lubisi did not resume his usual duties within 14 days of the accident. He may have been placed on "light duty", but that did not excuse RCL from reporting the accident. Section 24 of the OHSA requires an incident to be reported if the employee is unable for a period of at least 14 days to continue with the activity for which he is usually employed. The COIDA form completed by Dr Goosen and dated 16 September 2011 confirmed that Lubisi was fit for his normal work only on 12 September 2011, as Dr Taverner had originally stated. After his return to work on 5 September 2011, Lubisi sat in an office in the human resources department reading books about sugar production. It was hence reasonable for Dorey to assume that Lubisi was in fact incapacitated to perform his usual duties for more than 14 days. The submission that Dorey did not act in good faith by not considering Dr Goosen's medical reports before she made the allegations of non-compliance is accordingly not sustainable.
+
+[66]    Mr Mooki also contended that Dorey's views on how RCL dealt with the Lubisi incident were coloured by her conflict with Herbst. The Lubisi incident occurred on 22 August 2011 not long after Dorey sent the 12 July 2011 e-mail that led to increased tension in her relationship with Herbst. The difficulty in the relationship between Dorey and Herbst probably had various causes, including differences of opinion about RCL's alleged non-compliance with its statutory obligations towards its employees. The tension in the relationship is insufficient  
+[2019] JOL 41072 (LAC) at 32
+to conclude that Dorey was motivated by malice or bad faith in disclosing information about the Lubisi incident.
+
+[67]    In the premises, there is no basis for holding that the disclosure of the information about not reporting Lubisi's accident was not made in good faith. Consequently, the disclosure is a protected disclosure in terms of section 6 of the PDA.
+
+The medical certificates of fitness
+
+[68]    In paragraph 14.7 of her statement of claim, Dorey pleaded that one of the protected disclosures she made was to inform Herbst in May 2010 that it was irregular to allow Snyman to sign medical certificates of fitness for construction work on behalf of Dr Breytenbach. Dorey raised the issue in general terms with De Villiers for the first time 18 months later in her e-mail of 11 November 2011.
+
+[69]    The relevant medical certificate of fitness is required in terms of the OHSA regulations to confirm that an employee is fit to perform the tasks of construction work, such as working at elevated positions or on suspended platforms and operating construction vehicles and mobile plant. Several "certificates of fitness" were handed in as evidence. The documents were referred to in evidence as "green cards". They all contain a declaration by Dr Breytenbach declaring that he had examined the employee named in the certificate according to the prescribed protocol and certifying him as psychologically and physically fit. However, the certificates are all signed by Snyman.
+
+[70]    Dorey's e-mail to De Villiers of 13 November 2011 attached numerous documents including a position paper of the South African Society of Occupational Health Nursing Practitioners ("SASOHN"), dated August 2009, dealing with the issuing of medical certificates of fitness and advising that it had sought a legal opinion on the topic for the benefit of its members. The position paper specifically addresses the issue of "whether or not a certificate of fitness may be signed by a Registered Nurse in circumstances where the legislation requires the signature of such a certificate by a Medical Practitioner". The paper concludes that "in circumstances where the law states that a certificate of fitness must be signed by an OMP (occupational medical practitioner), then an  
+[2019] JOL 41072 (LAC) at 33
+OMP must sign the certificate and no one else." Annexed to the paper is a table referring to the functions assigned under the OHSA regulations from which it is clear that medical certificates of fitness for construction work must be signed by an occupational medical practitioner. Hence, Snyman's signing of the certificates in lieu of Dr Breytenbach appears, at least prima facie, to be in contravention of the OHSA regulations.
+
+[71]    It will be recalled that Dorey disclosed this irregularity to Herbst after she received a call in that regard from Liebenberg, the SHE administrator in the civil department. She was concerned about the possibility of liability arising in the event of an irregularly certified employee being injured. Herbst responded the next day by asking Dorey to sign the confidentiality agreement.
+
+[72]    On the basis of her conversation with Liebenberg and the wording of the certification on the documents in question, Dorey had reason to believe that the information at her disposal tended to show that Snyman, Breytenbach and RCL were failing to comply with their legal obligations under the OHSA regulations. Her understanding of the legal position is confirmed by the SASOHN position paper. There was some debate during evidence and in argument about whether the documents signed by Snyman were in fact medical certificates of fitness or merely "green cards" issued to employees after certification by Dr Breytenbach. There is no denying that each "green card" admitted into evidence contains a certification in the name of Dr Breytenbach signed by Snyman. On that evidence, it was not unreasonable for Dorey to hold the belief that the information tended to show possible non-compliance. Her disclosures of the information to Herbst in May 2010 and again to De Villiers in November 2011 were thus disclosures as contemplated in section 1 of the PDA.
+
+[73]    RCL again submitted that Dorey was not bona fide in making this disclosure. The only basis advanced for that proposition is that Dorey was somehow remiss in suggesting that Herbst had committed an impropriety by instructing her to sign a confidentiality agreement. Herbst's response to receiving the information bears no relevance to Dorey's good faith in making the disclosure. Dorey responded appropriately to the information she had received from Liebenberg. The fact that she raised the matter again with De Villiers 18 months later, in the  
+[2019] JOL 41072 (LAC) at 34
+context of drawing attention to a range of irregular practices, is of itself not indicative of bad faith. It is reasonable to surmise that the incident came back to mind, or she was perhaps more motivated to pursue it, when matters came to a head after July 2011. Dorey was probably merely bolstering her complaint about ongoing wrongdoing in the department by adding historical instances to it.
+
+[74]    In the premises, the disclosures of information about the signing of the medical certificates of fitness to Herbst and De Villiers were protected disclosures in terms of section 6 of the PDA.
+
+The SHE statistics
+
+[75]    The allegations under this head relate to the SHE statistics or information on workplace incidents used to calculate the DIFR of divisions being audited. A low DIFR means that there are fewer incidents and is a good reflection on RCL. The risk control department keeps a record of SHE statistics using information received from RCL's clinics. The information is presented in the form of monthly injuries on duty statistics.
+
+[76]    In her e-mail to De Villiers of 11 November 2011, Dorey mentioned discrepancies in the SHE statistics. During her evidence, she said there was an inconsistency in the approach to auditing the statistics in different departments and alleged that Herbst favoured the transport division (where her husband worked) and looked "the other way" during the auditing of that department, compared with the auditing of other divisions. She alleged that there were discrepancies between the injury-on-duty statistics at the risk control department (received from the clinics) and the statistics reflected on RCL's Intra-web page "Sharepoint" administered by Herbst, which gave a false indication about the transport department.
+
+[77]    Much of the record of evidence regarding the SHE statistics is incoherent and near incomprehensible, mainly because it was so badly led. Perhaps for that reason, Mr Van der Westhuizen did not press this issue. His heads of argument make no submissions on the topic. We are therefore compelled to conclude  
+[2019] JOL 41072 (LAC) at 35
+that Dorey did not establish on the probabilities that the disclosures of information in this regard were protected disclosures.
+
+[78]    The batch of documents Dorey sent De Villiers on 13 November 2011 included a table setting out details of 81 instances of "injury on duty" in the period 2007–2011 on which she hoped to rely to show manipulation. She did not give evidence on all the incidents recorded in the table but only in relation to 14. Her testimony in relation to them was incoherent and her assertions of non-compliance somewhat vague and tentative. Mr Mooki submitted that her focus on employees in the transport department, where Herbst's husband was the manager, signified her aim to discredit Herbst and her lack of good faith. De Villiers's testimony established that each of the 14 incidents was dealt with properly and that Dorey in certain instances had misstated and misunderstood information. The credibility and reliability of his evidence was not meaningfully challenged or damaged in cross-examination.
+
+[79]    Mr Mooki in his heads of argument analysed each of the 14 cases, demonstrating that the cases had indeed been properly dealt with and alleging that Dorey's disclosures were made recklessly and in bad faith. Mr Van der Westhuizen in his heads of argument once again did not deal with or counter the analysis put forward or the submissions made by Mr Mooki. In the circumstances, it is not possible to conclude on the probabilities that this information shows or tends to show any impropriety as contemplated in the definition of "disclosure" in section 1 of PDA. In the premises, Dorey has not proven that these disclosures were protected disclosures.
+
+The clinic registers
+
+[80]    Dorey alleged that Herbst and Snyman manipulated clinic registers for the purposes of the NOSA audit. The clinic registers are kept at the clinic, where Snyman is the manager. The clinic register has columns for recording relevant information including, inter alia: the particulars of the injured person; the date, time and description of the incident; the nature of the injury; and the details of the treatment. The last three columns are headed "Date off", "Date resume", "Days absent".
+
+ 
+[2019] JOL 41072 (LAC) at 36
+
+[81]    Snyman testified that it was her practice to instruct the clinic staff to keep the last three columns of the register blank or to fill in the information by pencil because the entries in those columns change over time as a result of variances in the medical reports as treatment progressed. For example, the initial medical report would record a resumption work commencement date that might be extended or brought forward depending on the patient's recovery. The clinic staff would then scratch out the first recorded information and substitute it with the up-to-date information. These alterations resulted in the last three columns becoming messy. Herbst testified that the auditors had complained about information being scratched out and altered. Snyman, therefore, gave the instruction that the last three columns either be left blank or be written in pencil so that it could be altered when the final information became available. The final content for the last three columns was usually inserted just prior to the arrival of the NOSA auditors. Both Snyman and Herbst testified that this approach has been followed since 2009 and that Dorey was aware of it.
+
+[82]    The evidence of Herbst and Snyman about this practice was not undermined in cross-examination. It was also not put to either of them that they had acted fraudulently in falsifying the content of the registers. Nor was evidence presented in relation to any particular entry in the registers establishing that it was false or fraudulent. The explanation of Herbst and Snyman about this practice must, therefore, be accepted. The disclosed information did not show or tend to show any impropriety and thus this disclosure was neither a disclosure nor a protected disclosure.
+
+The health surveys and RCL's position as an accredited inspection authority
+
+[83]    Dorey maintains that she told De Villiers in the meeting of 13 September 2011 that mandatory workplace surveys required in terms of OHSA (regarding noise, lighting, dust, heat etc.) had not been done for the previous two years as a consequence of RCL not being an accredited inspection authority ("AIA") and that this too was a protected disclosure.
+
+[84]    De Villiers testified that he knew that Herbst and Daan Erasmus, a fellow employee, were responsible for noise and dust surveys at the workplace but  
+[2019] JOL 41072 (LAC) at 37
+that the accreditation had lapsed and they were no longer able legally to conduct the surveys.
+
+[85]    At the time Dorey made the disclosure to De Villiers, both he and Herbst were well aware of the fact that RCL's accreditation had lapsed. That much is confirmed by De Villiers's testimony and a letter written by Herbst to the Chief Inspector Occupational Health and Hygiene on 4 March 2011 in which she confirmed that she had learnt for the first time on 26 January 2011 that the accreditation had lapsed on 1 September 2010. It follows that the disclosure by Dorey to De Villiers that RCL was not complying with its legal obligations under OHSA is self-evidently a disclosure under section 1 of the PDA. The fact that she did not raise it with De Villiers when she became aware of the fact in March 2011 is not an indication of bad faith. Again, she informed De Villiers of the problem in the context of drawing his attention to ongoing irregularities. This disclosure is accordingly a protected disclosure.
+
+Shabangu's authority to draw blood
+
+[86]    In her e-mail of 22 November 2011 to De Villiers disclosing information about Shabangu drawing blood, Dorey raised three issues. First, Shabangu was a clinic assistant not trained to do the work of a phlebotomist drawing blood for a viral load test. Second, Shabangu sustained a needle injury exposing her to the risk of infection. Third, Shabangu was placed on unpaid leave instead of injury leave.
+
+[87]    Two points about Shabangu's drawing of blood are most pertinent. First, in terms of regulation 401 of the Regulations made under the National Health Act13 ("the NHA"), only health providers trained at a health establishment specifically designated for drawing blood may draw blood intravenously. RCL's clinic was not a designated health establishment. Second, De Villiers conceded under cross-examination that his first conclusion about this matter, communicated to Dorey on 6 December 2011, namely, that there was nothing wrong with Shabangu drawing blood, was incorrect. He accepted, on information he received at a later stage, that Shabangu was not a health care  
+[2019] JOL 41072 (LAC) at 38
+provider and thus was not permitted to draw blood intravenously for that reason also.
+
+[88]    De Villiers instructed Megan Windvogel, an occupational medical practitioner at RCL, to investigate the matter. In an e-mail dated 25 January 2012 (after Dorey had been dismissed), Windvogel informed De Villiers that Shabangu was a clinical assistant and thus a "heath worker". She was not a health care provider (medical doctor, nurse or pharmacist). Windvogel advised De Villiers that according to the applicable legislation the only persons permitted draw blood intravenously were qualified medical and nursing practitioners. Shabangu who was employed as a clinic assistant, therefore, was not allowed in terms of the Regulations under the NHA to draw blood from any individual.
+
+[89]    That being the case, Dorey again had reason to believe that the information she disclosed about Shabangu showed or tended to show that RCL was not complying with its obligations under the NHA. Her e-mail to De Villiers of 22 November 2011 was accordingly a disclosure; as was her disclosure that Shabangu had sustained a potentially serious injury while engaged in that illegal conduct.
+
+[90]    The submission that Dorey made these disclosures in bad faith as part of her sustained crusade against Herbst and Snyman is without foundation. Dorey would have been remiss had the information come to her attention and she failed to disclose it. That the disclosure exposed other RCL employees in a bad light may be true, but that alone self-evidently cannot be sufficient to deny the disclosure protection under the PDA. The way in which RCL dealt with this matter reveals that it took unnecessary umbrage at serious irregularities being brought to light. There is no doubt that this disclosure is a protected disclosure.
+
+Injury on duty leave
+
+[91]    In her e-mail of 22 November 2011, Dorey told De Villiers that Shabangu was given seven days' unpaid leave instead of injury-on-duty leave. In her testimony, she expressed the view that Shabangu was entitled to such leave under COIDA because she was injured at work. Snyman explained that Shabangu had requested unpaid leave prior to the needle prick because she  
+[2019] JOL 41072 (LAC) at 39
+was experiencing family problems. Snyman had no authority to give injury-on-duty leave. Only the treating doctor had such authority and had not put her on sick leave. There is insufficient evidence to conclude that Shabangu's statutory or contractual rights were violated in any way. Shabangu may possibly have been entitled to paid leave in terms of her contract or under the Basic Conditions of Employment Act14 but there is insufficient evidence showing that she was illegally denied it. The disclosure of the information to De Villiers about this is accordingly not a protected disclosure.
+
+[92]    Likewise, the evidence regarding the dispute about whether Francine Mare, an employee who was granted sick leave rather than injury-on-duty leave after falling out of her wheelchair, is insufficient to conclude that RCL had failed to comply with its legal obligations and thus the disclosure of that information is not a protected disclosure.
+
+The causal link between the protected disclosures and the occupational detriment
+
+[93]    Dorey, therefore, made four protected disclosures, namely, those in relation to the Lubisi accident, the signing of the certificates of fitness, the noise and dust surveys and the unlawful drawing of blood by Shabangu. The crucial question is whether she was subjected to an occupational detriment (discipline and dismissal) on account, or partly on account, of having made any one of those four protected disclosures. The Labour Court held that she had been subjected to an occupational detriment partly on account of having made the disclosure about Lubisi.15
+
+[94]    In terms of section 3 of the PDA, an employee may not be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure. The phrase "on account of" means "owing to", "by reason of" or "because of the fact that". The phrase is used to introduce the reason or explanation for something – for the purposes of the present discussion, the reason or explanation for the occupational detriment.
+
+ 
+[2019] JOL 41072 (LAC) at 40
+
+The word "partly" means "not completely", "not solely", "not entirely" or "not fully". A finding that an employee was subjected to an occupational detriment on account of having made a protected disclosure will be based on a conclusion that the sole or predominant reason or explanation for the occupational detriment was the protected disclosure; whereas a finding that an employee was subjected to an occupational detriment partly on account of having made a protected disclosure will be to the effect that the protected disclosure was one of more than one reason for the occupational detriment.
+
+[95]    Section 3 of the PDA thus casts the net wide. If there is more than one reason for a dismissal, the PDA will be contravened if any one of the reasons for the dismissal is the employee having made a protected disclosure. The wide scope of protection is consistent with the purposes of the PDA which addresses important constitutional values and injunctions regarding clean government and effective public service delivery. In City of Tshwane Metropolitan Municipality v Engineering Council of SA and another,16 the Supreme Court of Appeal favoured an extensive approach to interpreting the provisions of the PDA to give proper effect to its broad purposes, namely, the encouragement of whistle-blowers in the interests of accountable and transparent governance. It stated:
+
+"A further difficulty with this approach to the nature of information under the PDA is that its narrow and parsimonious construction of the word is inconsistent with the broad purposes of the Act, which seeks to encourage whistleblowers in the interests of accountable and transparent governance in both the public and the private sector. That engages an important constitutional value and it is by now well-established in our jurisprudence that such values must be given full weight in interpreting legislation. A narrow construction is inconsistent with that approach. On the construction contended for by Mr Pauw the threat of disciplinary action can be held as a sword of Damocles over the heads of employees to prevent them from expressing honestly held opinions to those entitled to know of those opinions. A culture of silence rather than one of openness would prevail. The purpose of the PDA is precisely the opposite."
+
+ 
+[2019] JOL 41072 (LAC) at 41
+
+[96]    The decision to dismiss Dorey was taken in the first instance by Vermeulen and confirmed on appeal by Terblanche. As mentioned earlier, they were not called to testify before the Labour Court. The evidence regarding the reasons and explanations for the dismissal of Dorey are contained in the reports of the disciplinary hearings, accepted in the pre-trial minute to be undisputed. De Villiers and Herbst during their testimony made some passing reference to the reports, but did not testify cogently about the actual reasons for dismissal.
+
+[97]    The reports reflect that Dorey was found guilty and dismissed for:
+
+re-arranging the furniture without prior consultation with the intent to frustrate and undermine the authority of management;
+illegally removing the Lubisi file from a secure place without permission and without following the correct procedure;
+communicating with Herbst in an impudent or cheeky tone; and
+disclosing inaccurate and false confidential information with the intention to undermine the reputation, credibility and good standing of the Risk Control Department and senior officials.
+
+[98]    Dorey's handling of the Lubisi matter and her taking of the file from the board room (where the NOSA audit was being conducted) to De Villiers figured as a key reason for her dismissal; as did her alleged disclosing of information with the "intention to undermine the reputation, credibility and good standing" of RCL. The essence of this reason for dismissal is captured in Vermeulen's finding on the fourth charge when he stated:
+
+"Jan de Villiers gave feedback after the investigation into the allegations. NOSA was contacted in order to clear some of the allegations and this put Tsb in a very bad light." 
+
+For the reasons discussed earlier, Dorey quite rightly did not accept NOSA's conclusion about whether the Lubisi incident was reportable.
+
+[99]    Clearly Dorey's stance rankled with RCL. This is further evident in the findings of Terblanche, the chairperson of the appeal hearing. He was of the view that Dorey had no cause or justification to disclose her trepidations about irregularity. As far as he was concerned, she merely offered "a build-up of incidents – unacceptable and highly destructive in terms of questioning all decisions etc. and undermining authority" amounting to insubordination reflecting "an element of intent". He asked rhetorically: 
+[2019] JOL 41072 (LAC) at 42
+"What was she trying to achieve – discredit? vindictive? – surely the incessant seeking of, in your mind, wrongful acts and omissions on the part of your superior does not reflect you trying to solve any perceived or real issues."
+
+[100]    However, Terblanche did not offer any analysis of whether the disclosures made by Dorey regarding Lubisi, Shabangu, the AIA accreditation and the certificates of fitness were accurate and true. He did not distinguish between the various disclosures. Instead, he made a blanket finding that because some of the disclosures were not substantiated Dorey had acted vindictively to discredit RCL. But for the disclosures, it is unlikely that Dorey would have been dismissed. Put differently, the disclosures materially contributed to her dismissal and were adequately connected to it.
+
+[101]    While Dorey undoubtedly is open to criticism for the way she may have gone about things, the fact remains that she was a risk control officer and had in the course of carrying out her duties discovered significant irregularities posing risks to RCL and its employees. Her relationship with Herbst was obviously a problem, but sight must not be lost of the fact that Herbst was equally open to criticism. The evidence supports the contention that Herbst was affronted by Dorey's bringing the "green cards" issue to light and probably sought unjustifiably to constrain her, leading to antagonism.
+
+[102]    The fact that Dorey may have been over-zealous in her disclosures about the SHE statistics and the clinic registers, and was not able to sufficiently substantiate her concerns in that regard, does not detract from the legitimacy of the course she pursued with regard especially to the Lubisi and Shabangu incidents. These disclosures were not inaccurate or false; they were correct. Yet the reports reveal that in all probability Dorey was disciplined and dismissed partly on account of having made these disclosures. In the result, her dismissal was in contravention of the PDA and hence automatically unfair in terms of section 187(1)(h) of the LRA. The Labour Court thus did not err in its conclusion.
+
+[103]    There is no basis for interfering with the Labour Court's award of compensation. It had regard to all relevant considerations and exercised its discretion properly. There is also no reason why the costs of this appeal should not follow the result.
+
+ 
+[2019] JOL 41072 (LAC) at 43
+
+[104]    In the premises, the appeal is dismissed with costs.
+
+
+
+Footnotes
+1	 RCL was previously known as TSB Sugar RSA Ltd. During the trial it underwent a name change to RCL Food Sugar and Milling (Pty) Ltd. The company was referred to in evidence as "TSB".
+2	 Act 26 of 2000
+3	 Act 85 of 1993.
+4	 See s 24(1)(a) of the OHSA.
+5	 Act 66 of 1995.
+6	 S 191(5)(b) of the LRA provides for the referral to the Labour Court of disputes alleging that the reason for dismissal is automatically unfair. S 187(1)(h) of the LRA provides that a dismissal is automatically unfair if the reason for the dismissal is a contravention of the PDA, by the employer, on account of the employee having made a protected disclosure defined in the PDA.
+7	 Act 130 of 1993.
+8	 S 4(2) of the PDA.
+9	 The expression "has reason to believe" requires that there be objective grounds or facts forming the basis of the belief (Minister of Law and order and others v Hurley and another 1986 (3) SA 568 (A) at 578–9 [also reported at [1986] 2 All SA 428 (A) – Ed]).
+10	(2012) 33 ILJ 2353 (LAC) [also reported at [2012] JOL 29409 (LAC), [2012] 12 BLLR 1246 (LAC) – Ed].
+11	 If an employee makes a disclosure in good faith to his employer he is protected from dismissal and detrimental action short of dismissal. The information may in fact be inaccurate or wrong and that does not remove the protection, provided the employee has a reasonable belief that the information tends to show an impropriety (see Babula v Waltham Forest College [2007] ICR 1026 cited with approval in Radebe and another v Premier, Free State Province and others (2012) 33 ILJ 2353 (LAC) [also reported at [2012] JOL 29409 (LAC), [2012] 12 BLLR 1246 (LAC) – Ed] at para [31]).
+12	 In Radebe and another v Premier, Free State Province and others (2012) 33 ILJ 2353 (LAC) [also reported at [2012] JOL 29409 (LAC), [2012] 12 BLLR 1246 (LAC) – Ed] this Court held that factors such as reckless abandon, malice, the presence of an ulterior motive or reliance on fabricated information or information known by the employee to be false may well lead to a conclusion of lack of good faith. The absence of these elements on the other hand is a strong indicator that the employee honestly made the disclosure wishing for action to be taken to investigate it.
+13	 Act 61 of 2003 and reg 401 GG 33188 of 14 May 2010.
+14	 Act 75 of 1997.
+15	 The Labour Court also somewhat obliquely held that she was subjected to an occupational detriment partly on account of having made the disclosure about the SHE statistics, which we have concluded was not protected. It made no explicit finding regarding the other protected disclosures.
+16	 (2010) 31 ILJ 322 (SCA) [also reported at [2009] JOL 24640 (SCA), [2010] 3 BLLR 229 (SCA) – Ed] at para [42].
+
+Appearance:
+Adv O Mooki, Norton Rose Fulbright (At); Adv GL van der Westhuizen, Lancaster Kungoane (R)
+
+
+End of Document

@@ -1,0 +1,381 @@
+
+
+
+
+Trustees for the time being of the Biowatch Trust v Registrar, Genetic Resources & others [2009] JOL 23693 (CC)
+Judgments Online
+
+Division: Constitutional Court
+Case No: CCT 80 / 08
+Hearing Date(s): 17 / 02 / 2009
+Judgment Date(s): 03 / 06 / 2009
+Bench: Langa CJ; Moseneke DCJ; E Cameron, Mokgoro, S Ngcobo, B Nkabinde, O'Regan, T Skweyiya, J van der Westhuizen, Z Jacoob and Sachs JJ 
+
+
+Keywords
+
+
+Constitutional law — Access to information — Costs order — Application for leave to appeal
+
+Mini Summary
+
+
+Repeated requests had been made by the applicant, for information from governmental authorities responsible for monitoring the development of genetically modified organisms. When the requests were not conceded to, the applicant approached the courts. The high court held that the non-disclosure constituted an infringement of applicant’s constitutionally-protected right of access to information. However, because of the sweeping nature of the requests made, the court held that the governmental authorities should not be ordered to pay applicant’s costs.
+
+The applicant sought leave to appeal against the costs order.
+
+Held that the determination of the issue required the court to consider two related questions, namely, did the application raise a constitutional issue, and whether it was in the interests of justice for the matter to be heard. Both questions were answered in the affirmative.
+
+The court then held that a court of first instance has a discretion to determine the costs order to be awarded in the light of the particular circumstances of the case, and that a court of appeal will require good reason to interfere with the exercise of this discretion. However, the high court had misdirected itself in not giving appropriate attention to the fact that this was a constitutional matter in which the applicant was seeking to vindicate constitutional rights. The general rule in constitutional litigation is that an unsuccessful litigant in proceedings against the state ought not to be ordered to pay costs, unless the application is frivolous or vexatious or in any other way manifestly inappropriate. The respondents should have been ordered to pay the applicant’s costs.
+
+In a related order, the lower court had ordered the applicant to pay the costs of an intervening party. That award was set aside.
+
+ 
+[2009] JOL 23693 (CC) at 2
+
+
+
+
+Introduction
+
+[1]    This case is all about costs' awards, and only about costs' awards. These awards ordinarily come at the tail end of judgments as appendages to decisions on the merits. In this matter, however, they occupy centre stage, indeed, the whole stage. The sole issue revolves around the proper judicial approach to determining costs' awards in constitutional litigation.
+
+[2]    The application for leave to appeal was prompted by two unfavourable decisions on costs made in respect of The Biowatch Trust (Biowatch), an environmental watchdog that sought information from governmental bodies1 with statutory responsibilities for overseeing genetic modification of organic material.2 The first decision related to a dispute between Biowatch and the governmental bodies. The high court held that the registrar for genetic resources (the registrar) had been in default of his responsibilities in a number of respects, and made several orders in Biowatch's favour.3 But, to mark its displeasure at what it regarded as inept requests  
+[2009] JOL 23693 (CC) at 3
+for information, first by letter and then in the notice of motion, the high court decided to make no costs' order against the governmental bodies in Biowatch's favour.
+
+[3]    The second costs' decision concerned Monsanto SA (Pty) Ltd (Monsanto), the South African component of a multinational diversified biotechnology company involved in the research, development and sale of genetically modified organisms (GMOs) in South Africa. Monsanto, together with two other producers of GMOs,4 was permitted to intervene in the litigation. The high court held that Monsanto had been compelled by Biowatch's conduct to intervene in the litigation, more particularly to prevent Biowatch from having access to confidential information which Monsanto had supplied to the registrar. Because of its displeasure at the lack of precision as to the information sought by Biowatch, the court ordered Biowatch to pay Monsanto's costs.
+
+[4]    The net result was that, although Biowatch had been largely successful in its claim against the government agencies, and even though it obtained information, whose release Monsanto had strongly opposed, it found itself in the position of having to foot the bill for all its own costs, and in addition, to pay the costs incurred by Monsanto. Biowatch appealed to the Transvaal Provincial Division (full court)5 on the question of the costs decisions only, but the full court, by a two to one majority, ruled against it. It then applied for leave to appeal directly to this Court against the  
+[2009] JOL 23693 (CC) at 4
+full court's judgment but that application was refused on the basis that it was not appropriate to bypass the Supreme Court of Appeal. The Supreme Court of Appeal was then approached to grant special leave to appeal, but that application was refused without reasons being given. Biowatch then applied to this Court once again for leave to appeal. We are now called upon to decide whether leave to appeal should be granted, and if so, whether the appeal should be upheld.
+
+[5]    A shockwave appears to have swept through the public interest law community. When Biowatch's application for leave to appeal was set down for hearing in this Court, three public interest non-governmental organisations (NGOs) applied for and were granted the status of amici to assist the court. The Centre for Child Law and Lawyers for Human Rights presented joint argument dealing with the deleterious effect that negative costs orders would have on the capacity of public interest law bodies to initiate litigation in defence of constitutional rights. They contended that the effect would be particularly severe on bodies that were dependent on support from international donors. Aligning itself with these submissions, the Centre for Applied Legal Studies went on to emphasise the particular importance of facilitating public interest litigation to protect environmental rights.
+
+Should leave to appeal be granted?
+
+[6]    The determination of this issue requires us to consider two related questions, namely, does it raise a constitutional issue, and whether it is in the interests of justice for the matter to be heard.
+
+ 
+[2009] JOL 23693 (CC) at 5
+
+Does the case raise a constitutional issue?
+
+[7]    This judgment does not deal with costs' orders in general, but only with the proper approach to costs' awards in constitutional litigation. The cases cited at the hearing showed that although when dealing with costs this Court has frequently referred to the need to take account of the constitutional dimension of a case, it has tended to do so on a rather ad hoc, case-by-case manner. The need for flexibility and a careful case-by-case approach was in fact emphasised in one of the first cases heard by this Court, Ferreira v Levin.6 In a judgment on costs given separately from the judgment on the merits, Ackermann J pointed out that the Courts have over the years, developed a flexible approach to costs which proceeds from two basic principles, the first being that the award of costs, unless otherwise enacted, is in the discretion of the presiding judicial officer, and the second that the successful party should, as a general principle, have his or her costs.
+
+[8]    He went on to explain that—
+
+"without attempting either comprehensiveness or complete analytical accuracy, depriving successful parties of their costs can depend on circumstances such as, for example, the conduct of the parties, the conduct of their legal representatives, whether a party achieves technical success only, the nature of the litigants and the nature of the proceedings. I mention these examples to indicate that the principles which have been developed in relation to the award of costs are by their nature sufficiently flexible and adaptable to meet new needs which may arise in regard to constitutional litigation. They offer a useful point of departure. If the need arises the rules may have to be substantially adapted; this should however be done on a case by case basis. It is unnecessary, if not impossible, at this stage to attempt to formulate  
+[2009] JOL 23693 (CC) at 6
+comprehensive rules regarding costs in constitutional litigation."7 (Footnotes omitted.)
+
+[9]    During the thirteen years that have passed since Ferreira v Levin was decided we have indeed gained considerable experience of costs' awards made on a case-by-case basis. A number of signposts have emerged. Without departing from the general principle that a court's discretion should not be straitjacketed by inflexible rules, it is now both possible and desirable, at least, to develop some general points of departure with regard to costs in constitutional litigation. More specifically, it is necessary to attempt to delineate the proper starting point for deciding costs in a case involving constitutionally protected rights to information8 and environmental justice.9
+
+ 
+[2009] JOL 23693 (CC) at 7
+
+[10]    The award of costs in a constitutional matter itself raises a constitutional issue and therefore this Court has jurisdiction to hear it.
+
+Is it in the interests of justice for the matter to be heard?
+
+[11]    Section 21A of the Supreme Court Act10 provides that appeals solely on costs should only be entertained in exceptional circumstances. Counsel for Monsanto contended that since no exceptional circumstances existed in the present matter, this Court should not entertain the application for leave to appeal. Counsel for Biowatch responded that section 21A of the Supreme Court Act was not binding on this Court. This response is correct. Nevertheless, the principle underlying the section is manifestly meritorious. Appeals on this limited, subsidiary issue pile costs upon costs, favouring litigants with deep pockets. They may usurp valuable appellate court time on ancillary questions that have no importance for the general public, and be of interest only to the litigants. In short, they are a sideshow to the real issues that should occupy the court's time (although as the facts of this case indicate, they can be an important sideshow). Thus, although an appeal to this Court on a costs award only may be competent even if no exceptional circumstances exist, it will not normally be in the interests of justice for leave to appeal to be granted.
+
+[12]    In my view, the present case raises matters of special constitutional concern. The amici contend forcefully that if the approach suggested by the high court is allowed to stand, public interest litigation could be jeopardised by the severe financial  
+[2009] JOL 23693 (CC) at 8
+penalty that costs orders would impose on the organisations bringing these suits. Many civil society groups seeking constitutional justice are heavily dependent on funds from donors. The amici submitted that donors would be reluctant to provide financial support for litigation if they feared that the money would be swallowed up in satisfying adverse costs orders. Whether or not this argument is legitimate, the practical implications of the high court decisions on costs in this case are undoubtedly wide ranging. A question of general importance arises, namely whether the general principles developed by the courts with regard to costs' awards need to be modified to meet the exigencies of constitutional litigation. The answer to this question has a direct bearing on the correct approach to the issues at the heart of this matter.
+
+[13]    I accordingly conclude that it is in the interests of justice for leave to appeal to be granted.
+
+The issues
+
+[14]    This case raises four issues concerning costs' awards in constitutional litigation. They are:
+
+whether costs' awards in constitutional litigation should be determined by the status of the parties or by the issue ;
+what the general approach should be in relation to suits between private parties and the state;
+what the general approach should be in constitutional litigation where the state is sued for a failure to fulfil its constitutional and statutory  
+[2009] JOL 23693 (CC) at 9
+responsibilities for regulating competing claims between private parties; and
+the role of appellate courts in appeals against costs' awards.
+
+Whether costs' awards in constitutional litigation should be determined by status or by issue
+
+[15]    The applicant's argument to some extent, and the submissions of the amici heavily, emphasised the role of public interest advocacy groups in promoting constitutional litigation. The arguments underlined the ruinous effects that adverse costs' orders could have on the capacity of these bodies to exist and do their work. The contention was that the high court misdirected itself in not giving any, or sufficient, regard to the fact that Biowatch was a public interest NGO litigating not on its own behalf, but in the public interest. Monsanto's response was precisely the converse, namely, that Biowatch had inserted itself into a matter in which it had no direct interest of its own, and accordingly had to bear the consequences of its inappropriate involvement.
+
+[16]    In my view, it is not correct to begin the enquiry by a characterisation of the parties. Rather, the starting point should be the nature of the issues. Equal protection under the law requires that costs' awards not be dependent on whether the parties are acting in their own interests or in the public interest. Nor should they be determined by whether the parties are financially well endowed or indigent or, as in the case of many NGOs, reliant on external funding. The primary consideration in constitutional  
+[2009] JOL 23693 (CC) at 10
+litigation must be the way in which a costs' order would hinder or promote the advancement of constitutional justice.
+
+[17]    Section 9(1) of the Constitution provides that everyone is equal before the law and has the right to equal protection and benefit of the law. No party to court proceedings should be endowed with either an enhanced or a diminished status compared to any other. It is true that our Constitution is a transformative one based on the understanding that there is a great deal of systemic unfairness in our society. This could be an important, even decisive factor to be taken into account in determining the actual substantive merits of the litigation. It has no bearing, however, on the entitlement of all litigants to be accorded equal status when asserting their rights in a court of law. Courts are obligated to be impartial with regard to litigants who appear before them. Thus, litigants should not be treated disadvantageously in making costs' and related awards simply because they are pursuing commercial interests and have deep pockets. Nor should they be looked upon with favour because they are fighting for the poor and lack funds themselves. What matters is whether rich or poor, advantaged or disadvantaged, they are asserting rights protected by the Constitution.
+
+[18]    Thus in Affordable Medicines11 this Court stated that the ability to finance the litigation was not a relevant consideration in making a costs' order. It held that the general rule in constitutional litigation that an unsuccessful litigant ought not to be  
+[2009] JOL 23693 (CC) at 11
+ordered to pay costs to the state, should not be departed from simply because of a perceived ability of the unsuccessful litigant to pay. It accordingly overturned the high court's order of costs against a relatively well off medical practitioners' trust that had launched unsuccessful proceedings. Conversely, a party should not get a privileged status simply because it is acting in the public interest or happens to be indigent. It should be held to the same standards of conduct as any other party, particularly if it has had legal representation. This means it should not be immunised from appropriate sanctions if its conduct has been vexatious, frivolous, professionally unbecoming or in any other similar way abusive of the processes of the court.
+
+[19]    This is not to deny that vulnerable sectors of society are particularly dependent on the support they can get from public interest groups. A perusal of the law reports shows how vital the participation of public interest groups has been to the development of this Court's jurisprudence. Interventions by public interests groups have led to important decisions concerning the rights of the homeless,12 refugees,13 prisoners on death row,14 prisoners generally,15 prisoners imprisoned for civil debt16 
+
+ 
+[2009] JOL 23693 (CC) at 12
+
+and the landless.17 There has also been pioneering litigation brought by groups concerned with gender equality,18 the rights of the child,19 cases concerned with upholding the constitutional rights of gay men and lesbian women,20 and in relation to freedom of expression.21 Similarly, the protection of environmental rights will not only depend on the diligence of public officials, but on the existence of a lively civil society willing to litigate in the public interest. This is expressly adverted to by the National Environmental Management (NEMA)22 which provides that a court may  
+[2009] JOL 23693 (CC) at 13
+decide not to award costs against unsuccessful litigants who are acting in the public interest or to protect the environment and who had made due efforts to use other means for obtaining the relief sought.
+
+[20]    Nevertheless, even allowing for the invaluable role played by public interest groups in our constitutional democracy, courts should not use costs' awards to indicate their approval or disapproval of the specific work done by or on behalf of particular parties claiming their constitutional rights. It bears repeating that what matters is not the nature of the parties or the causes they advance but the character of the litigation and their conduct in pursuit of it. This means paying due regard to whether it has been undertaken to assert constitutional rights and whether there has been impropriety in the manner in which the litigation has been undertaken. Thus, a party seeking to protect its rights should not be treated unfavourably as a litigant simply because it is armed with a large litigation war chest, or asserting commercial, property or privacy rights against poor people or the state. At the same time, public interest groups should not be tempted to lower their ethical or professional standards in pursuit of a cause. As the judicial oath of office affirms, judges must administer justice to all alike, without fear, favour or prejudice.23
+
+ 
+[2009] JOL 23693 (CC) at 14
+
+What the general approach should be in relation to suits between private parties and the state
+
+[21]    In Affordable Medicines24 this Court held that as a general rule in constitutional litigation, an unsuccessful litigant in proceedings against the state ought not to be ordered to pay costs. In that matter a body representing medical practitioners challenged certain aspects of a licensing scheme introduced by the government to control the dispensing of medicines. Ngcobo J said the following:
+
+"The award of costs is a matter which is within the discretion of the Court considering the issue of costs. It is a discretion that must be exercised judicially having regard to all the relevant considerations. One such consideration is the general rule in constitutional litigation that an unsuccessful litigant ought not to be ordered to pay costs. The rationale for this rule is that an award of costs might have a chilling effect on the litigants who might wish to vindicate their constitutional rights. But this is not an inflexible rule. There may be circumstances that justify departure from this rule such as where the litigation is frivolous or vexatious. There may be conduct on the part of the litigant that deserves censure by the Court which may influence the Court to order an unsuccessful litigant to pay costs. The ultimate goal is to do that which is just having regard to the facts and the circumstances of the case. In Motsepe v Commissioner for Inland Revenue this Court articulated the rule as follows:
+
+' [O]ne should be cautious in awarding costs against litigants who seek to enforce their constitutional right against the State, particularly, where the constitutionality of the statutory provision is attacked, lest such orders have an unduly inhibiting or "chilling" effect on other potential litigants in this category. This cautious approach cannot, however, be allowed to develop into an inflexible rule so that litigants are induced into believing that they are free to challenge the constitutionality of statutory provisions in this Court, no matter how spurious the grounds for doing so may be or how  
+[2009] JOL 23693 (CC) at 15
+remote the possibility that this Court will grant them access. This can neither be in the interest of the administration of justice nor fair to those who are forced to oppose such attacks.'"25 (Footnotes omitted.)
+
+[22]    In Affordable Medicines the general rule was applied so as to overturn a costs' award that had been given in the high court against the applicants, the high court having reasoned in part that the applicants had been largely unsuccessful and that they had appeared to be in a position to pay. Although Ngcobo J in substance rejected the appeal by the medical practitioners on the merits, he overturned the order on costs made by the high court against them, and held that both in the high court and in this Court each party should bear its own costs. In litigation between the government and a private party seeking to assert a constitutional right, Affordable Medicines established the principle that ordinarily, if the government loses, it should pay the costs of the other side, and if the government wins, each party should bear its own costs.26
+
+[23]    The rationale for this general rule is threefold. In the first place it diminishes the chilling effect that adverse costs orders would have on parties seeking to assert constitutional rights. Constitutional litigation frequently goes through many courts  
+[2009] JOL 23693 (CC) at 16
+and the costs involved can be high. Meritorious claims might not be proceeded with because of a fear that failure could lead to financially ruinous consequences. Similarly, people might be deterred from pursuing constitutional claims because of a concern that even if they succeed they will be deprived of their costs because of some inadvertent procedural or technical lapse. Secondly, constitutional litigation, whatever the outcome, might ordinarily bear not only on the interests of the particular litigants involved, but on the rights of all those in similar situations. Indeed, each constitutional case that is heard enriches the general body of constitutional jurisprudence and adds texture to what it means to be living in a constitutional democracy. Thirdly, it is the state that bears primary responsibility for ensuring that both the law and state conduct are consistent with the Constitution.27 If there should be a genuine, non frivolous challenge to the constitutionality of a law or of state conduct, it is appropriate that the state should bear the costs if the challenge is good, but if it is not, then the losing non-state litigant should be shielded from the costs consequences of failure. In this way responsibility for ensuring that the law and state conduct is constitutional is placed at the correct door.
+
+[24]    At the same time, however, the general approach of this Court to costs in litigation between private parties and the state, is not unqualified. If an application is frivolous or vexatious, or in any other way manifestly inappropriate, the applicant should not expect that the worthiness of its cause will immunise it against an adverse  
+[2009] JOL 23693 (CC) at 17
+costs award.28 Nevertheless, for the reasons given above, courts should not lightly turn their backs on the general approach of not awarding costs against an unsuccessful litigant in proceedings against the state, where matters of genuine constitutional import arise. Similarly, particularly powerful reasons must exist for a court not to award costs against the state in favour of a private litigant who achieves substantial success in proceedings brought against it.
+
+[25]    Merely labelling the litigation as constitutional and dragging in specious references to sections of the Constitution would, of course, not be enough in itself to invoke the general rule as referred to in Affordable Medicines. The issues must be genuine and substantive, and truly raise constitutional considerations relevant to the adjudication. The converse is also true, namely, that when departing from the general rule a court should set out reasons that are carefully articulated and convincing. This would not only be of assistance to an appellate court, but would also enable the party concerned and other potential litigants to know exactly what had been done wrongly, and what should be avoided in the future.
+
+ 
+[2009] JOL 23693 (CC) at 18
+
+What the general approach should be in constitutional litigation where the state is sued for a failure to fulfil its responsibilities for regulating competing claims between private parties
+
+[26]    Affordable Medicines does not extend the general rule stated above to constitutional litigation between private parties. In Barkhuizen,29 a motorist pursuing a claim against a private insurance company sought to overturn decisions given against him in the high court and the Supreme Court of Appeal, respectively. The issue was the enforceability of a provision in a standard-form contract that limited the period in which a claimant could institute proceedings against insurers who had repudiated liability. The majority of the court held that the appeal should be dismissed. On the question of costs, the majority judgment by Ngcobo J stated:
+
+"This is not a case where an order for costs should be made. The applicant has raised important constitutional issues relating to the proper approach to constitutional challenges to contractual terms. The determination of these issues is beneficial not only to the parties in this case but to all those who are involved in contractual relationships. In these circumstances justice and fairness require that the applicant should not be burdened with an order of costs. To order costs in the circumstances of this case may have a chilling effect on litigants who might wish to raise constitutional issues. I consider therefore that the parties should bear their own costs, both in this Court and the Courts below."30
+
+[27]    It should be mentioned that Barkhuizen is a relatively pure case of private parties being involved in constitutional litigation. Indeed, the voluntariness of the relationship between the parties was central to the dispute. By the nature of their  
+[2009] JOL 23693 (CC) at 19
+subject matter, constitutional issues cannot be expected to arise frequently in cases where the state is not a party. But from time to time they will come to the fore. Thus in Campus Law Clinic, where a public interest NGO sought unsuccessfully to intervene in a dispute between a bank and a mortgagor, the court did not award costs as asked for by the bank, because the Campus Law Clinic sought to raise important constitutional issues, albeit unsuccessfully.31
+
+[28]    Constitutional issues are far more likely to arise in suits where the state is required to perform a regulating role, in the public interest, between competing private parties. One thinks of licences, tender awards, and a whole range of issues where government has to balance different claims made by members of the public.32 Usually, there will be statutes or regulations which delineate the manner in which the governmental agencies involved must fulfil their responsibilities. In matters such as these a number of private parties might have opposite interests in the outcome of a dispute where a private party challenges the constitutionality of government action. The fact that more than one private party is involved in the proceedings does not  
+[2009] JOL 23693 (CC) at 20
+mean, however, that the litigation should be characterised as being between the private parties. In essence the dispute turns on whether the governmental agencies have failed adequately to fulfil their constitutional and statutory responsibilities. Essentially, therefore, these matters involve litigation between a private party and the state, with radiating impact on other private parties. In general terms costs' awards in these matters should be governed by the overarching principle of not discouraging the pursuit of constitutional claims, irrespective of the number of private parties seeking to support or oppose the state's posture in the litigation. As will be seen, this approach has significant implications for the disputed costs award between Monsanto and the applicant.
+
+The role of appellate courts in appeals against costs' awards.
+
+[29]    It is clear that a court of first instance has a discretion to determine the costs' order to be awarded in the light of the particular circumstances of the case, and that a court of appeal will require good reason to interfere with the exercise of this discretion. In dealing with an appeal against an award of security for costs under the Companies Act33 this Court in Giddey34 reaffirmed the ordinary rule that the approach of an appellate court to an appeal against the exercise of discretion by another court will depend upon the nature of the discretion concerned. Thus, where the discretion contemplates that the court may choose from a range of options, the discretion would be discretion in the strict sense, and would not readily be departed from on appeal. O'Regan J explained that– 
+[2009] JOL 23693 (CC) at 21
+"the ordinary approach on appeal to the exercise of the discretion in the strict sense is that the appellate Court will not consider whether the decision reached by the Court at first instance was correct, but will only interfere in limited circumstances; for example, if it is shown that the discretion has not been exercised judicially or has been exercised based on a wrong appreciation of the facts or wrong principles of law. Even where the discretion is not a discretion in the strict sense, there may still be considerations which would result in an appellate Court only interfering in the exercise of such a discretion in the limited circumstances mentioned above."35
+
+[30]    Her judgment went on to hold that the court at first instance must consider all the relevant facts placed before it and then perform the required balancing exercise. It is best placed to make an assessment of the relevant facts and correct legal principles, and–
+
+"it would not be appropriate for an appellate Court to interfere with that decision as long it is it is judicially made, on the basis of the correct facts and legal principles. If the Court takes into account irrelevant considerations or bases the exercise of its discretion on wrong legal principles, its judgment may be overturned on appeal. Beyond that, however, the decision of the Court of first instance will be unassailable".36
+
+[31]    In South African Broadcasting Corporation 37 the issue was whether this Court should uphold an appeal against a discretion exercised by the Supreme Court of Appeal not to allow cameras in court in a matter in which there was high public interest. In refusing to interfere with this discretion the majority judgment emphasised that the question was not whether this Court would have permitted radio and TV  
+[2009] JOL 23693 (CC) at 22
+broadcasting of the appeal in the circumstances of the case. Rather it was whether the Supreme Court of Appeal did not act judicially in exercising its discretion, or based the exercise of that discretion on wrong principles of law, or misdirection on the material facts. The majority judgment went on to state with apparent approval that Cloete J had formulated the test more crisply in Bookworks,38 the question being whether the court exercising the discretion had committed some "demonstrable blunder" or reached an "unjustifiable conclusion".39
+
+Applying these above considerations to this case
+
+[32]    The question in this matter is whether, given the reasons advanced by the high court for the decisions on costs, and in the light of all the considerations referred to above, the applicant has met the strict criteria required for appellate interference with the discretion exercised by the high court.
+
+[33]    The high court judgment on the merits has been carefully reasoned. The bulk of the judgment relates not to the merits but to defensive points advanced in limine in an attempt by the registrar, supported by Monsanto, to block the application from being dealt with at all. The high court found in favour of the applicant in respect of all these points. One of the defensive arguments raised by the state and Monsanto was that the catch-all requests of Biowatch to the registrar, and the notice of motion based on these requests, were clearly vexatious and oppressive. The Court stated40 that there  
+[2009] JOL 23693 (CC) at 23
+was substance in the submission and that Biowatch's approach seems to have been to expect the respondents and the court to read through all the correspondence and define precisely the information requested and still outstanding.
+
+[34]    The court later stated, however:
+
+"Requests for access to information under section 32 of the Constitution should obviously not be formulated in too general a manner. But requesters for information under section 32 of the Constitution – or for that matter under Promotion of Access to Information Act (PAIA)41 – would not always have knowledge of the precise description of the record in which the information sought, is contained. In the present case the Registrar − notwithstanding Mr. Rip's submission to the contrary – never stated in his answering affidavit that he had any difficulty in ascertaining precisely what information Biowatch was looking for from time to time. The Registrar's subjective opinion about Biowatch's request for information cannot convert an oppressive request into an unoppressive one or vice versa. The request still needs to be considered objectively. But what is important about the Registrar's viewpoint is this, namely, that if he had any doubt about the nature and or validity of Biowatch's requests he was, in my view, enjoined to establish precisely what it was seeking and to assist it in its endeavors to achieve that. The Registrar was not entitled to adopt a passive role in the regard. If, after having engaged Biowatch, he had any doubt about the bona fides of its requests and that he genuinely opined that it was vexatious and oppressive or unintelligible he could and should have refused it on that ground. The fact that he did not do so is rather significant."42
+
+[35]    It concluded that
+
+"Despite the obvious merit in some of the submissions made on behalf of all the respondents in connection with the overbreath of Biowatch's requests for  
+[2009] JOL 23693 (CC) at 24
+information, I do not believe that the interests of justice will be served if Biowatch were to be non-suited on that ground alone."43
+
+[36]    The high court then went on to deal with the merits, and summarised its findings as follows:
+
+"To summarise then: Biowatch has, in my view, established that it has a clear right to some of the information to which access was and is now requested; that the registrar's failure to grant it access to such information as it was legally entitled to, constituted a continued infringement of Biowatch's rights under section 32(1)(a) of the Constitution;44 that Biowatch had no alternative remedy to enforce its rights; that Biowatch should not be non-suited for the inept manner in which the information sought in its fourth request, as well as in its notice of motion, is formulated; and that the registrar would be entitled to refuse access to certain records, or parts thereof, in terms of the grounds for refusal contained in Chapter 4 of Part 2 of PAIA."45 (Footnotes added and omitted.)
+
+[37]    A fair reading of the judgment leaves one with no doubt that on both procedural and substantive issues the applicant achieved substantial success against the governmental agencies. Not only did the appropriate officials fail to fulfil their constitutional and statutory duties in providing information, thus compelling Biowatch to litigate, the governmental agencies compounded this by obdurately raising a series of unsustainable technical and procedural objections to Biowatch's suit. Similarly, although Monsanto succeeded in its principal objective, which was to prevent disclosure to Biowatch of information of a confidential character, it not only  
+[2009] JOL 23693 (CC) at 25
+prolonged the litigation unnecessarily with its strongly pursued and futile attempts to keep Biowatch out of court altogether on procedural grounds, but failed to stop Biowatch acquiring crucial information sought.
+
+[38]    Against the background of the extensively and carefully reasoned judgment, the high court's reasons for refusing to award costs against the state and in favour of Biowatch, and for requiring Biowatch to pay Monsanto's costs, it comes as a surprise to see that the two adverse costs decisions are dealt with in the following laconic paragraph:
+
+"As far as costs are concerned, the general rule in litigation is that the costs should follow the result. However, although Biowatch has been partially successful in obtaining some of the relief sought, the manner in which some of its requests for information were formulated, as well as the manner in which the relief claimed in the notice of motion was formulated, has convinced me that it should not be granted a costs order in its favour in these circumstances. Furthermore, the approach adopted by it compelled Monsanto, Stoneville and D & PL SA to come to Court to protect their interests. The issues were complex and the arguments presented by them were of great assistance. Stoneville and D & PL SA did not seek any costs order against the applicant. On behalf of Monsanto its counsel sought an order for costs against the applicant. In my view the applicant should be ordered to pay Monsanto's costs. No other order as to costs is warranted in the circumstances of this case."46
+
+[39]    Both costs' decisions have been challenged.
+
+Decision by the high court that the state should not bear the costs incurred by Biowatch in that court
+
+ 
+[2009] JOL 23693 (CC) at 26
+
+[40]    I deal first with the refusal of the high court to order the state to pay Biowatch's costs. The high court accepted that ordinarily the applicant as the successful party should receive its costs against the state. In depriving Biowatch of its costs against the state, it gave no indication that it had properly measured the extent of Biowatch's victory in successfully launching a meritorious application to secure its rights to information in relation to constitutionally protected environmental interests, or paid heed to the constitutional character of the litigation and the chilling effect of depriving Biowatch of its costs.
+
+[41]    It should be noted that before granting leave to appeal, the high court judge observed that he had not in his judgment referred to the constitutional dimension of the matter. In the written judgment in which he granted leave to appeal to the full court, he stated however, that the constitutional dimension had been at the back of his mind. Even so, his failure to expressly locate the costs' awards in a constitutional setting must raise serious doubts as to the weight, if any, given to the constitutional context.
+
+[42]    The majority of the full court, in dismissing the appeal against the high court's orders, similarly disregarded these essential features.47 The omission of the constitutional dimension constitutes a serious misdirection. In these circumstances this Court is at large to reconsider the decision of the high court not to award costs against the state in favour of Biowatch.
+
+ 
+[2009] JOL 23693 (CC) at 27
+
+[43]    As stated above48 the general rule for an award of costs in constitutional litigation between a private party and the state is that if the private party is successful, it should have its costs paid by the state, and if unsuccessful, each party should pay its own costs. In the present matter, Biowatch achieved substantial success. Not only did it manage to rebut a number of preliminary objections aimed at keeping the case out of court altogether, it also succeeded in getting a favourable response from the court to eight of the 11 categories of information it sought. In these circumstances the "misconduct" of Biowatch would need to have been of a compelling order indeed to justify a failure to award costs against the state. The reasons advanced by the high court for making no award of costs do not, however, persuade.
+
+[44]    The lack of precision and the sweeping character of the requests for information as well as of the claims made in the notice of motion, had not prevented the high court from being able to give a thorough and well substantiated judgment on the merits. Far from being frivolous or vexatious, the application raised important constitutional issues and achieved considerable success. Biowatch had been compelled to go to court. The root cause of the dispute had been the persistent failure of the governmental authorities to provide legitimately sought information. They were obliged to pass on information in their possession, save only for material which could reasonably be withheld in order to protect certain prescribed interests. As the high court ultimately found, the bulk of the requests referred to information that had  
+[2009] JOL 23693 (CC) at 28
+indeed to be disclosed. Only after four requests had been made to different state officials, without success, was litigation embarked upon.49
+
+[45]    Constitutional issues were implicated in two ways. The applicant was pursuing information in terms of a right conferred by section 32 of the Constitution, and the information sought concerned environmental rights protected by section 24 of the Constitution. The government's duty was to act as impartial steward, and not to align itself either with those who had furnished the information or with parties seeking access to it. It was important that the objectivity not only be present, but be seen to be present in circumstances where the information related to questions of general public interest and controversy, and there was no lawful ground to withhold it. This required objectivity and distance in respect of any competing private interests that might be involved. The greater the public controversy, the more the need for transparency and for manifest fidelity to the principles of the Constitution, as ultimately given effect to by PAIA. The papers indicated that in other countries there had been direct physical intervention to prevent the production of GMOs and that considerable tension existed in this country between supporters and opponents of genetic modification of foodstuffs. In these circumstances rule of law considerations would require the government to be astute to act in a way which would encourage parties who have strong and diametrically opposed opinions to submit themselves to the regulated and rational balancing of interests provided for by the Constitution and PAIA.
+
+ 
+[2009] JOL 23693 (CC) at 29
+
+[46]    The lack of precision in the pre-litigation requests for information could well have called for comment from the high court. But in reality it appears to have had relatively little significance for the manner in which the case was ultimately determined. Biowatch achieved a substantial degree of success. The high court itself did the balancing of interests which the governmental authorities should have undertaken in the first place. Whatever ineptitude there might have been in the manner in which the requests were framed fell far short of the kind of misconduct that would have justified the court in refusing to follow the general rule, namely that, where an applicant succeeds substantially in a constitutional suit against the government, the government should pay the applicant's costs.
+
+[47]    To my mind, the refusal of the high court to order the government to pay the costs of the applicant was out of sync with its judgment on the merits. The application was largely successful. The government had obstinately refused to provide information which, it subsequently became clear, it was duty bound to supply. Then, instead of welcoming a judicial decision on questions of considerable public importance, the governmental bodies sought to frustrate the proceedings on purely technical grounds. In these circumstances the high court erred in allowing lapses by Biowatch to negate the general rule that the government pay Biowatch's costs. And the majority in the full court erred in failing to uphold Biowatch's appeal against this refusal. The result is that the appeal to this Court must succeed, and the state must be ordered to pay Biowatch's costs in the high court.
+
+ 
+[2009] JOL 23693 (CC) at 30
+
+[48]    The next question is whether the state should be ordered to pay the costs incurred by Biowatch in the appeals heard in the full court and in this Court, and in the application for leave to appeal to the Supreme Court of Appeal.
+
+[49]    The state did not contest either of these appeals or take any steps relative to the application to the Supreme Court of Appeal. In my view, the state must bear the consequences of the approach it took. The root cause of the dispute was the obduracy of the state officials' refusal to supply information they were duty-bound to give. The same tenacious resistance was manifested in the high court. The failure of the high court to order the state to pay Biowatch's costs was manifestly wrong. Yet at no stage after the high court decision was made did the state acknowledge that it should have been ordered to pay the costs. An acknowledgment of this kind would have ended the litigation as far as the state was concerned.
+
+[50]    Biowatch has, however, not pursued a costs' order against the state in relation to its unsuccessful appeal to the full court. This is because it was represented by in-house counsel of the Legal Resources Centre in that appeal.
+
+[51]    In their written argument and at the hearing of the matter, Biowatch contended that it was entitled to a reversal also of the costs' order made against it in its unsuccessful application for leave to appeal to the Supreme Court of Appeal. However, in applying for leave to appeal to this Court, Biowatch took issue only with  
+[2009] JOL 23693 (CC) at 31
+the costs' order in the high court, and with the judgment of the full court. It lodged no appeal in this Court against the costs order granted by the Supreme Court of Appeal. Nor did it seek leave during the hearing to amend its application to encompass that order. In these circumstances it would not be appropriate to consider intervening in the costs order granted by the Supreme Court of Appeal.
+
+[52]    I turn now to the costs incurred by Biowatch in this Court. The state has not opposed Biowatch's application for leave to appeal to this Court. At the same time, it has failed to abandon the costs order made by the high court in its favour. This compelled Biowatch to come to this Court for relief. Biowatch has been successful and should receive the costs incurred in the process. The result is that the state must pay Biowatch's costs in the high court and in this Court.
+
+Costs in favour of Monsanto
+
+[53]    The evidence indicates that Biowatch and Monsanto have been at conflict over these issues for a number of years. This undoubtedly entered into the manner in which the case was litigated. Yet the dispute before the high court was not one between Biowatch and Monsanto. The case was between Biowatch and the state. It turned on the responsibilities of the state to make information given to it by Monsanto and other parties available to Biowatch. Thus, as far as this particular matter is concerned, the litigation was not about a dispute between Biowatch and Monsanto. The extra-curial battles between Biowatch and Monsanto crystallised in this case in the context of the state's responsibilities to provide information about GMO  
+[2009] JOL 23693 (CC) at 32
+experimentation. It was the state's duty to grasp the nettle and draw an appropriate line between information to be disclosed and information to be withheld. Its failure to make any initial determination provoked the litigation. Then once the litigation commenced, Monsanto was fully entitled to join the proceedings in order to protect information furnished by it that fell within the appropriate categories of confidentiality. Thus, Monsanto joined the matter not because of any mischievous, frivolous, or constitutionally inappropriate conduct on the part of the applicant – the fact that it was vexed by Biowatch's application did not mean that the application was vexatious – it entered the forensic fray because the governmental authorities had failed to exercise their constitutional and statutory obligations to separate the confidential wheat from the non-confidential chaff.
+
+[54]    It might well be that given the regulatory role of the government bodies and their failure to deal from the outset with the question of confidentiality, a costs' award requiring the state to bear the costs of both Biowatch and Monsanto might have been justified. This issue was not raised by Monsanto, however, and need not be pursued. For present purposes what matters is that this case did not truly involve litigation between private parties. It was litigation in which private parties with competing interests were involved, not to settle a legal dispute between themselves, but in relation to determining whether the state had appropriately shouldered its constitutional and statutory responsibilities.
+
+ 
+[2009] JOL 23693 (CC) at 33
+
+[55]    In this respect the case resembled Walele,50 where the applicant sought to review a decision of a municipality to approve building plans. The effect of Mr Walele's successful review was that the decision was set aside and referred back, which affected the rights of the citizens that sought the approval of the building plans. The controversy in that case had started with a dispute between private parties. Yet as the body responsible for dealing with the proposed plans and the objections made to them, it was the City Council that was made to pay the costs.
+
+[56]    I conclude, then, that the general point of departure in a matter where the state is shown to have failed to fulfil its constitutional and statutory obligations, and where different private parties are affected, should be as follows: the state should bear the costs of litigants who have been successful against it, and ordinarily there should be no costs orders against any private litigants who have become involved. This approach locates the risk for costs at the correct door – at the end of the day, it was the state that had control over its conduct.
+
+[57]    In the present case the high court misdirected itself in respect of the factors it was obliged to consider when it held that the applicants should pay costs in favour of Monsanto. In its curt appraisal of costs, the high court did not take appropriate account of the fact that the litigation was essentially constitutional in nature. Nor did it deal adequately with the fact that it was the state's conduct that had provoked the  
+[2009] JOL 23693 (CC) at 34
+litigation in the first place. Nor did it take account of the fact that its order afforded Biowatch crucial information whose release Monsanto had resolutely opposed.
+
+[58]    This Court is accordingly at large to review the costs award in favour of Monsanto and come to its own conclusion. In doing so I will give due acknowledgement to the fact that the high court was extremely troubled by the lack of precision in the claims made by Biowatch. At the same time, it is necessary to bear in mind that this was fresh constitutional terrain for all. The litigation commenced before the PAIA came into force, and all the parties had to feel their way. In addition, all the factors which have already been referred to in the discussion on the failure of the high court to order the state to pay Biowatch's costs, are relevant to the appraisal of the correctness of the order that Biowatch pay Monsanto's costs. Taking all these considerations into account, the costs award in favour of Monsanto is unsustainable. No order at all should have been made between the two private parties involved in the matter.
+
+[59]    By the same token, even though it wrongly sought costs against Biowatch in the high court, and then tenaciously defended the costs award made in its favour in the full court and in this Court, Monsanto should not be ordered to pay Biowatch's costs in any of the courts. The key factor once again is that it was the failure of the state functionaries to fulfil their constitutional and statutory responsibilities that spawned the litigation and obliged both parties to come to court.
+
+ 
+[2009] JOL 23693 (CC) at 35
+
+Conclusion
+
+[60]    The form of Biowatch's request for information did not justify the two decisions on costs made by the high court. The high court could have shown its disapproval in less drastic ways. The manner it chose was demonstrably inappropriate on the facts, and unduly chilling to constitutional litigation in its consequences. The appeal must be upheld and the governmental authorities must be ordered to pay the costs incurred by Biowatch in the high court and in this Court. Furthermore, the order of the high court requiring the applicant to pay Monsanto's costs must be set aside. There should be no costs order made in respect of the participation by Monsanto.
+
+Order
+
+[61]    I therefore make the following order:
+
+Leave to appeal is granted.
+The appeal against the order made by the full court of the North Gauteng High Court dated 6 November 2007 succeeds and paragraphs 2 and 3 of that order are set aside.
+In the place of those portions of the order granted by the full court there is substituted–
+The appeal against paragraph (d) of the order of the North Gauteng high court dated 23 February 2005 succeeds
+Paragraph (d) of that order is set aside and replaced with the following order: 
+[2009] JOL 23693 (CC) at 36
+'First, second and third respondents are ordered to pay applicant's costs.'"
+First, second and third respondents are ordered to pay the costs occasioned by the application for leave to appeal to this Court, such costs to include the costs of two counsel.
+
+(Langa CJ; Moseneke DCJ; Cameron, Mokgoro, Ngcobo, Nkabinde, O'Regan, Skweyiya, Van der Westhuizen and Jacoob JJ concurred in the judgment of Sachs J.)
+
+
+
+Footnotes
+1	 The ministry of agriculture, and, more particularly, the directorate, genetic resources.
+2	  In terms of the Genetically Modified Organisms Act 15 of 1997.
+3	 Trustees, Biowatch Trust v Registrar: Genetic Resources, & others 2005 (4) SA 111 (T) [also reported at [2006] JOL 17396 (T) – Ed].
+4	  Stoneville Pedigreed Seed Company and D & PL SA South Africa Inc.
+5	 Trustees, Biowatch Trust v Registrar: Genetic Resources, & others, case number A831/2005, North Gauteng High Court, Pretoria, 6 November 2007, unreported.
+6	 Ferreira v Levin NO & others; Vryenhoek & others v Powell NO & others [1995] ZACC 2; 1996 (4) BCLR 441 (CC); 1996 (2) SA 621 (CC).
+7	  Id at para 3.
+8	  S32 of the Constitution provides that:
+
+"(1) Everyone has the right of access to—
+ (a) any information held by the state; and
+ (b) any information that is held by another person and is required for the exercise or protection of any rights.
+(2) National legislation must be enacted to give effect to this right, and may provide for reasonable measures to alleviate the administrative and financial burden on the state."
+The Promotion of Access to Information Act 2 of 2000 was enacted to give effect to this right. It came into effect after proceedings in this matter had commenced.
+
+9	  S24 of the Constitution provides that:
+
+"Everyone has the right—
+(a) to an environment that is not harmful to their health or well-being; and 
+(b) to have the environment protected, for the benefit of present and future generations, through reasonable legislative and other measures that—
+ (i) prevent pollution and ecological degradation;
+ (ii) promote conservation; and 
+ (iii) secure ecologically sustainable development and use of natural resources while promoting economic and social development.".
+
+10	  59 of 1959.
+11	  See Affordable Medicines Trust & others v Minister of Health & another [2005] ZACC 3; 2005 (6) BCLR 529 (CC); 2006 (3) SA 247 (CC) at para 139 [also reported at [2005] JOL 13932 (CC) – Ed].
+12	  See for example Occupiers of 51 Olivia Road, Berea Township and 197 Mainstreet Johannesburg v City of Johannesburg & others [2008] ZACC 1; 2008 (5) BCLR 475 (CC); 2008 (3) SA 208 (CC) [also reported at [2008] JOL 21386 (CC) – Ed]; Jaftha v Schoeman & others; Van Rooyen v Stoltz & others [2004] ZACC 25; 2005 (1) BCLR 78 (CC); 2005 (2) SA 140 (CC); Port Elizabeth Municipality v Various Occupiers [2004] ZACC 7; 2004 (12) BCLR 1268 (CC); 2005 (1) SA 217 (CC) [also reported at [2004] JOL 13007 (CC) – Ed]; and Government of the Republic of South Africa & others v Grootboom & others [2000] ZACC 14; 2000 (11) BCLR 1169 (CC); 2001 (1) SA 46 (CC) [also reported at [2000] JOL 7524 (CC) – Ed].
+13	  See Union of Refugee Women & others v Director: Private Security Industry Regulatory Authority & others [2006] ZACC 23; 2007 (4) BCLR 339 (CC); 2007 (4) SA 395 (CC); and Lawyers for Human Rights & another v Minister of Home Affairs & another [2004] ZACC 12; 2004 (7) BCLR 775 (CC); 2004 (4) SA 125 (CC) [also reported at [2004] JOL 12542 (CC) – Ed].
+14	  See S v Makwanyane & another [1995] ZACC 3; 1995 (6) BCLR 665 (CC); 1995 (3) SA 391 (CC) [also reported at 1995 (2) SACR 1 (CC) – Ed].
+15	  See August & another v Electoral Commission & others [1999] ZACC 3; 1999 (4) BCLR 363 (CC); 1999 (3) SA 1 (CC) [also reported at [1999] JOL 4701 (CC) – Ed].
+16	 Coetzee v Government of the Republic of South Africa; Matiso & others v Commanding Officer Port Elizabeth Prison & others [1995] ZACC 7; 1995 (10) BCLR 1382 (CC); 1995 (4) SA 631 (CC).
+17	  See for example President of the Republic of South Africa & another v Modderklip Boerdery (Pty) Ltd & others [2005] ZACC 5; 2005 (8) BCLR 786 (CC); 2005 (5) SA 3 (CC); and Alexkor Ltd & another v Richtersveld Community & others [2003] ZACC 18; 2003 (12) BCLR 1301 (CC); 2004 (5) SA 460 (CC) [also reported at [2003] JOL 11905 (CC) – Ed].
+18	  See for example Van der Merwe v Road Accident Fund & others [2006] ZACC 4; 2006 (6) BCLR 682 (CC); 2006 (4) SA 230 (CC); K v Minister of Safety and Security [2005] ZACC 8; 2005 (9) BCLR 835 (CC); 2005 (6) SA 419 (CC) [also reported at [2005] 8 BLLR 749 (CC) – Ed]; and Carmichele v Minister of Safety and Security & another [2001] ZACC 22; 2001 (10) BCLR 995 (CC); 2001 (4) SA 938 (CC) [also reported at [2001] JOL 8613 (CC) – Ed].
+19	  See for example Director of Public Prosecutions, Transvaal v Minister for Justice and Constitutional Development & others [2009] ZACC 8; Gumede (born Shange) v President of the Republic of South Africa & others [2008] ZACC 23; 2009 (3) BCLR 243 (CC) [also reported at [2008] JOL 22879 (CC) – Ed]; AD & another v DW & others [2007] ZACC 27; 2008 (4) BCLR 359 (CC);2008 (3) SA 183 (CC); S v M (Centre for Child Law as Amicus Curiae) [2007] ZACC 18; 2007 (12) BCLR 1312 (CC); 2008 (3) SA 232 (CC) and Bhe & others v Magistrate, Khayelitsha, & others (Commission for Gender Equality as Amicus Curiae); Shibi v Sithole & others; South African Human Rights Commission & another v President of the Republic of South Africa & another [2004] ZACC 17; 2005 (1) BCLR 1 (CC); 2005 (1) SA 580 (CC).
+20	  See for example Fourie & another v Minister of Home Affairs & another [2003] ZACC 11; 2003 (10) BCLR 1092 (CC); 2003 (5) SA 301 (CC); and National Coalition for Gay and Lesbian Equality & another v Minister of Justice & others [1998] ZACC 15; 1998 (12) BCLR 1517 (CC); 1999 (1) SA 6 (CC) [also reported at [1998] JOL 3801 (CC) – Ed].
+21	  See for example South African Defence Union v Minister of Defence & others [2007] ZACC 10; 2007 (8) BCLR 863 (CC); 2007 (5) SA 400 (CC) [also reported at [2007] JOL 19879 (CC) – Ed].
+22	  See s31 of National Environmental Management Act 107 of 1998 which deals with access to information and protection of whistle-blowers. Also see s32 – which provides for wide standing to enforce environmental laws. Subs(2) and (3) in particular, address the issue of costs' awards within the context of environmental litigation and state that:
+
+"(2) A Court may decide not to award costs against a person, or group of persons which fails to secure the relief in respect of any breach or threatened breach of any provision including a principle of this Act or any other statutory provision concerned with the protection of the environment or the use of natural resources if the Court is of the opinion that the person or group of persons acted reasonably out of a concern for the public interest or in the interest of protecting the environment and had made due efforts to use other means reasonably available for obtaining the relief sought.
+(3) Where a person or group of persons secures the relief sought in respect of any breach or threatened breach of any provision of this Act or any other statutory provision concerned with the protection of the environment, a Court may on application—
+ (a) award costs on an appropriate scale to any person or persons entitled to practise as advocate or attorney in the Republic who provided free legal assistance or representation to such person or group in the preparation for or conduct of the proceedings; and
+ (b) order that the party against whom the relief is granted pay to the person or group concerned any reasonable costs incurred by such person or group in the investigation of the matter and its preparation for the proceedings.".
+
+23	  Schedule 2, s6 of the Constitution.
+24	  Above fn 10.
+25	  Id at para 138.
+26	  See for example Du Toit v Minister of Transport [2005] ZACC 9; 2005 (11) BCLR 1053 (CC); 2006 (1) SA 297 (CC) at para 55, in which the majority in this Court held "although the respondent had asked for a costs order, the applicant has brought an important issue to this Court regarding the application and interpretation of the relevant provisions of the Act. I therefore make no order as to costs."; Volks NO v Robinson & others [2005] ZACC 2; 2005 (5) BCLR 446 (CC); 2004 (6) SA 288 (CC) [also reported at [2005] JOL 13723 (CC) – Ed]; and Jooste v Score Supermarket Trading (Pty) Ltd (Minister of Labour intervening) [1998] ZACC 18; 1999 (2) BCLR 139 (CC); 1999 (2) SA 1 (CC) [also reported at [1998] JOL 4158 (CC) – Ed]. Also see Steenkamp NO v The Provincial Tender Board of the Eastern Cape [2006] ZACC 16; 2007 (3) BCLR 300 (CC); 2007 (3) SA 121 (CC).
+27	 We do not need to deal here with the legislation enacted prior to 1994.
+28	 See Wildlife and Environmental Society of South Africa v MEC for Economic Affairs, Environment and Tourism, Eastern Cape, & others 2005 (6) SA 123 (ECD) at 144B – C, where Pickering J held that he was regrettably obliged to order an environmental NGO to pay costs in relation to an application that was unnecessary and unreasonable because its very real concerns had already been met, and the application was doomed to failure from its inception. See also Silvermine Valley Coalition v Sybrand van der Spuy Boerderye & others 2002 (1) SA 478 (CPD) at 493C – E [also reported at [2001] JOL 8575 (C) – Ed], where, after stating that NGOs should not have unnecessary obstacles placed in their way when they act in a manner designed to hold the state, and, indeed, the private community, accountable to the constitutional commitments of our new society, including the protection of the environment, Davis J refused to make an order of costs against the unsuccessful environmental applicant, but nevertheless ordered the applicant to pay the wasted costs occasioned by the matter having been brought without justification on an urgent basis.
+29	 Barkhuizen v Napier [2007] ZACC 5; 2007 (7) BCLR 691 (CC); 2007 (5) SA 323 (CC).
+30	  Id at para 90.
+31	 Campus Law Clinic v Standard Bank of South Africa and the Minister for Justice and Constitutional Development [2006] ZACC 5; 2006 (6) BCLR 669 (CC); 2006 (6) SA 103 (CC) at para 28. At the same time it should be noted that despite the generality of the principle relating to costs adverted to in Barkhuizen (above fn 29), there have been a number of cases involving litigation between private parties on constitutional matters where this Court has ordered that costs should follow the result. Usually these matters have turned on the relationship between competing constitutional principles. The classic example is that of defamation where the plaintiff will generally raise dignity/privacy interests and the defendant will rely on free speech. There have in fact been a number of cases in this Court where costs followed the result see Khumalo & others v Holomisa [2002] ZACC 12; 2002 (8) BCLR 771 (CC); 2002 (5) SA 401 (CC) (defamation); Laugh It Off Promotions CC v South African Breweries International (Finance) BV t/a Sabmark International & another [2005] ZACC 7; 2005 (8) BCLR 743 (CC); 2006 (1) SA 144 (CC) (trademark property protection versus freedom of speech); and NM v Smith [2007] ZACC 6; 2007 (7) BCLR 751 (CC); 2007 (5) SA 250 (CC) (privacy versus freedom of speech – costs allowed subject to tender made in high court). The present matter does not, however, require us to consider whether the award of costs in those matters is consistent with the decision in Barkhuizen or with the general principles outlined in this judgment.
+32	  See for example Fuel Retailers Association of South Africa (Pty) Ltd v Director General, Environmental Management, Department of Agriculture, Conservation and Environment, Mpumalanga Province & others [2007] ZACC 13; 2007 (10) BCLR 1059 (CC); 2007 (6) SA 4 (CC).
+33	 61 of 1973.
+34	 Giddey NO v JC Barnard and Partners [2006] ZACC 13; 2007 (2) BCLR 125 (CC); 2007 (5) SA 525 (CC) [also reported at [2006] JOL 18229 (CC) – Ed].
+35	  Id at para 19.
+36	  Id at para 22.
+37	 South African Broadcasting Corporation Ltd v National Director of Public Prosecutions & others [2006] ZACC 15; 2007 (2) BCLR 167 (CC); 2007 (1) SA 523 (CC).
+38	 Bookworks (Pty) Ltd v Greater Johannesburg Transitional Metropolitan Council & another 1999 (4) SA 799 (T) [also reported at [1999] JOL 5381 (W) – Ed].
+39	  Id at 807G – J and 808A – B. See also National Coalition above fn 20.
+40	 Above fn 3 at para 42.
+41	  The high court was referring to the Promotion of Access to Information Act 2 of 2000.
+42	 Above fn 3 at para 43.
+43	  Id at para 44.
+44	  See above fn 7.
+45	  Above fn 3 at para 66. Ch 4 of part 2 of PAIA provides that information may be refused in certain circumstance involving privacy, commercial information, confidential information, protection of safety of individuals and of property and protection of privileged records, and protection of research information. 
+46	  Id at para 68.
+47	 In his lengthy minority judgment, however, Poswa J, correctly highlighted the significance of the constitutional context in which the costs issues had to be determined.
+48	  Above at [21].
+49	  Two to an official in the directorate, genetic resources, one to an official within the ministry of agriculture and the fourth to the Registrar, Directorate Genetic Resources, the first respondent in this matter. 
+50	 Walele v City of Cape Town & others [2008] ZACC 11; 2008 (11) BCLR 1067 (CC); 2008 (6) SA 129 (CC).
+
+Appearance:
+Adv G Marcus SC, Adv R Moultrie, Legal Resources Centre (A); Adv F Snyckers, Bowman Gilfillan Inc (4R); Adv S Budlender, Centre for Child Law and Lawyers for Human Righst (1, 2 Amicus Curiae), Adv R Keightley, Adv C Cooper, Centre for Applied Legal Studies (3 Amicus Curiae)
+
+
+End of Document

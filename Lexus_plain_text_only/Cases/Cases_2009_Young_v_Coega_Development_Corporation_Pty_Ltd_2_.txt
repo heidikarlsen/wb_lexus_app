@@ -1,0 +1,282 @@
+
+
+
+
+Young v Coega Development Corporation (Pty) Ltd (2) [2009] 6 BLLR 607 (ECP)
+Labour Law Reports
+
+Division: Eastern Cape High Court, Port Elizabeth
+Case No: 833/2009
+Date: 07/04/2009
+Before: JD Pickering, Judge
+Keywords
+
+
+Urgent application
+Disciplinary procedure — Managerial employees — Chief financial manager dismissed after meeting to which he had been called to “discuss” problems with company finances — While “committee” type disciplinary proceedings may be appropriate for senior employees, such proceedings must still comply with basic requirements of fairness and employee’s contractual rights — Committee’s decision to summarily dismiss CFO set aside.
+Dismissal — Relief — Reinstatement — Chief financial officer summarily and unlawfully dismissed for making disclosures that were prima facie protected — Reinstatement pendite lite appropriate in light of objectives of Protected Disclosures Act 26 of 2000.
+High Court — Jurisdiction in labour matters — Court having jurisdiction to entertain both urgent applications and actions arising from infringements of employee’s rights under Protected Disclosures Act 26 of 2000 and of contractual right to fair pre-dismissal procedure.
+Practice and procedure — Urgent application — Urgency — Employee dismissed for making protected disclosures days after obtaining order restraining employer from taking disciplinary action against him — Circumstances in themselves rendering matter urgent.
+Protected Disclosures Act 26 of 2000 — Objectives — Objectives of Act could be frustrated if employee unlawfully dismissed for making protected disclosures not reinstated pendite lite.
+Whistle-blowers — Chief financial officer who disclosed allegations of wrongdoing by chief executive officer summarily dismissed after obtaining urgent order interdicting disciplinary proceedings against him — Employee reinstated and employee prohibited from subjecting chief financial officer to further “occupational detriment” until conclusion of main action under Protected Disclosures Act 26 of 2000.
+
+Editor’s Summary
+
+
+The respondent dismissed the applicant, its chief financial officer, three days after he obtained an order pendite lite prohibiting the respondent from proceeding with disciplinary action against him for what he alleged were protected disclosures (see Young v Coega Development Corporation (Pty) Ltd (1) [2009] 6 BLLR 597 (ECP)). The applicant then launched a further application for orders declaring the dismissal unlawful, directing the respondent to reinstate him, and prohibiting the respondent from subjecting him to any further “occupational detriment”. On the next working day after the order was issued, the respondent convened a meeting of its executive management committee, at which the  
+[2009] 6 BLLR 607 (ECP) at 608
+applicant was required to “discuss” a list of the CEO’s complaints concerning management of the respondent’s finances. After the meeting, the applicant was informed that the committee had found his explanations “unsatisfactory” and that his services had been terminated with immediate effect. The applicant claimed that the respondent had breached his right under the Protected Disclosures Act 26 of 2000 (“the PDA”) not to be subjected to an “occupational detriment”, that the respondent was attempting to circumvent the Court’s earlier order, and that his contractual right to a fair hearing had been infringed. The respondent claimed that the Court lacked jurisdiction to entertain the claim, that the matter was not urgent, and that the applicant had been dismissed, not for making allegations of misconduct by the CEO, but for “well known” problems with the respondent’s finances.
+
+The Court held that the earlier judgment, supra, in which the Court had found that it had jurisdiction, was clearly correct. The PDA provided that those subjected to “occupational detriments” could approach “any court having jurisdiction, including the Labour Court”. The applicant also relied on a breach of his contractual right to a fair hearing, over which the Court also had jurisdiction.
+
+The Court held further that the very nature of the applicant’s allegations rendered the matter urgent.
+
+The Court noted that the subject matter of the complaints for which the applicant had been dismissed differed from those which he had been confronted in the proceedings that gave rise to the earlier urgent proceedings. While it was not for the Court to determine the merits of those complaints, their nature did not justify summary dismissal without compliance with the respondent’s disciplinary code. Even accepting in the respondent’s favour that the applicant’s senior position allowed for a different procedure from that which applied to ordinary employees, the “committee” type inquiry to which the applicant was subjected still had to comply with the basic standards of fairness. The applicant had been given no notice of the action against him, which was in essence disciplinary in nature, and he could not be blamed for declining to participate in the proceedings when he became aware of their true nature. The Court held that the only plausible inferences to be drawn from the haste with which the respondent had commenced and finalised proceedings against the applicant was that it still intended disciplining him for his earlier disclosures, and that the respondent hoped he would not have time to approach the Court again. This constituted blatant interference with the applicant’s rights.
+
+The Court held further that there was no merit to the respondent’s argument that it would be untenable to compel the respondent to continue an employment relationship in circumstances where all trust had been destroyed. On the contrary, the objects of the PDA – one of which was to encourage employees to disclose criminal and irregular conduct in the workplace – could well be frustrated if the applicant were not reinstated. Since the applicant had proved a prima facie right to the relief sought, he had no adequate alternative remedy and the balance of convenience favoured him, the applicant was entitled to the relief sought.
+
+The applicant’s dismissal was declared unlawful, and the respondent was ordered to reinstate him and prohibited from subjecting him to any further occupational detriments.
+
+____________________________________________________________________________________
+
+Pickering J:
+
+The applicant has applied as a matter of urgency for an order, inter alia, in the following terms:
+
+“Pending the determination of an action the applicant has instituted against the respondent under case number 597/09 an order:
+
+
+2.1 Declaring the applicant’s dismissal by the respondent on Monday, 23 March 2009, to be invalid and of no force and effect; and
+2.2 That the applicant be immediately reinstated with retrospective effect upon the same terms and conditions as to salary and other benefits as pertained prior to his dismissal; and 
+2.3 That the respondent be interdicted and restrained from subjecting the applicant to any further occupational detriment as defined in the Protected Disclosures Act No. (sic)
+3. That the costs of this application be paid by the respondent on the scale as between attorney and own client.”
+
+The present application was preceded by an application also brought by the applicant against the respondent in case number 699/2009 on 19 March 2009.1 In that matter, the applicant sought and was, on Friday, 20 March 2009, granted an interdict by this Court, per Kroon J, interdicting and restraining the respondent from proceeding with the disciplinary inquiry, which it had instituted against the applicant, pending the determination of the aforesaid action under case number 597/09.
+
+The facts relevant to that application appear from the judgment of Kroon J and I do not intend to traverse them in any great detail in the present judgment. Suffice to say that my judgment should be read together with that of Kroon J. 
+
+The substantive relief sought by the applicant in the action under case number 597/09 is a declarator that the charges levelled against him in the notification to attend a disciplinary hearing constitute an occupational detriment as defined in section 1 of the Protected Disclosures Act 26 of 2000 (“the Act/PDA”). 
+
+Section 1 of the Act reads, inter alia, as follows:
+
+“‘Disclosure’ means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+
+(a) that a criminal offence has been committed, is being committed or is likely to be committed; 
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject; 
+
+‘Impropriety’ means any conduct which falls within any of the categories referred to in . . . the definition of ‘disclosure’ . . .
+
+‘Occupational detriment’, in relation to the working environment of an employee, means–
+
+(a) being subjected to any disciplinary action;
+
+. . .
+
+‘Protected disclosure’ means a disclosure made– 
+
+. . .
+
+(b) by an employee in accordance with section 6
+
+. . .”
+
+It is common cause that the applicant made certain disclosures relating to an alleged impropriety in the affairs of the respondent and that in so doing, he implicated the chief executive officer of the respondent, Mr Silinga. The nature of these disclosures appears at paragraphs 18, 19 and 20 of the judgment of Kroon J.
+
+ 
+[2009] 6 BLLR 607 (ECP) at 610
+
+Kroon J found that the applicant had prima facie established that the institution of the disciplinary inquiry against him flowed, at least in part, from the disclosures he had made, and that the inquiry was, therefore, prima facie a reprisal for those disclosures. Such a reprisal is prohibited by the provisions of the Act and the intended inquiry was, therefore, prima facie unlawful.
+
+Thereafter, on Monday, 23 March 2009, the respondent took a decision to terminate the applicant’s services with immediate effect. In launching the present application, the applicant submits that the termination of his services was not only unlawful but mala fide and an attempt by the respondent to circumvent the interim order granted in his favour under case number 699/09, supra. He contends that the purported termination was in itself a direct result of his disclosures referred to above. He submits further, in the alternative, that the dismissal amounted to a breach of his contractual right to a fair hearing. It is common cause in this regard that the respondent’s disciplinary code is incorporated into the applicant’s contract of employment. In terms of this disciplinary code, he was entitled to procedural fairness in relation to any disciplinary steps taken against him. 
+
+It is necessary briefly to set out the train of events following upon the order granted by Kroon J on Friday, 20 March 2009. It is common cause that during the lunch hour of that day, a meeting of all staff was held and that Mr Silinga addressed the meeting. In this regard, certain hearsay allegations were made by the applicant in his founding affidavit concerning the events at that meeting. The respondent indicated its intention to apply for those paragraphs to be struck out as constituting inadmissible hearsay evidence. The respondent did, however, itself deal with the events at the meeting and, at the hearing of this matter, it became common cause that the court should have regard only to the respondent’s version of what had there transpired. 
+
+The respondent avers that the purpose of the address by Mr Silinga was to reassure staff that, notwithstanding the judgment of Kroon J, it was neither the practice nor the policy of the respondent to act against any staff member who made a protected disclosure. Mr Silinga also denied any allegations of fraud made against him and explained that the applicant’s suspicions as to the motivation behind his disciplinary action were unwarranted, unfounded and false. He stated that disciplinary action had been taken against the applicant because of what he called “well known” problems within the finance department headed by the applicant.
+
+On the following working day, Monday, 23 March 2009, the applicant received at 9:30am a memorandum (Annexure “MM4” of the respondent’s papers) circulated by Mr Silinga to all members of the executive management committee (“EXMA”) of the respondent. EXMA consists of all six executive managers of the respondent as well as the applicant. 
+
+In the memorandum, Mr Silinga states that there were outstanding matters with which he had been dealing regarding the “discharging of the financial management” of the respondent. He set out his particular concerns. He stated that because of the accusations of misconduct made against him by the applicant, he wished to recuse himself from the issues relating to the applicant’s performance and that he was accordingly delegating the responsibility for the  
+[2009] 6 BLLR 607 (ECP) at 611
+handling of such matters to EXMA. This memo was followed by a certificate of delegation (“AGY4”) addressed to EXMA. It reads, inter alia, as follows:
+
+“I, the undersigned Mninawe (Pepi) Silinga, . . . hereby delegate and authorise EXMA in their official capacity as executive managers to handle all matters relating to the chief financial officer (‘CFO’) with regard to the following issues:
+
+
+1. Non-compliance with the DTI requirements with regard to the 2009/10 business plan;
+2. Cash flow and cash balances 2009/10;
+3. Reconciliation of accounts on the chart of accounts . . .”
+
+Thereafter, at 10am, the applicant was called to an EXMA meeting. The applicant avers that he was not advised of the purpose of the meeting prior to his arrival. He states that an agenda was handed out relating to the issues raised in the certificate of delegation. It would appear that the agenda referred to by him is the document referred to as Annexure “MM3” in the respondent’s answering papers. This document refers to the EXMA meeting and bears the heading “Special EXMA: Matters relating to performance of CFO”. It reads, inter alia, as follows:
+
+“The meeting is meant to discuss the following issues:
+
+
+1. The weekly written formal reports that I had requested CFO to provide to me, a request which has not met a favourable response from him, to enable management of risks arising thereof and allow corrective action on my part as well as anticipation of difficulties, for proactive attenuation of such risks as I may have perceived from time to time;
+2. DEDEA transfer agreement that is meant to enable transfer of funds virtually on 1 April 2009 in order to deal with the Supplier Park cash requirements. I am not aware of any progress in this regard, a matter of concern to me given the seriousness of the matter; 
+3. Consolidated cash flows that the CFO would have produced, that has not been submitted to me as requested, so as to be submitted to the dti, a matter that is a cause for concern given our previous experience of 2008;
+4. The letter of complaint from the dti regarding the business plan 2009/10. In this regard, I had request that the CFO to furnish me with some responses as contained in the email to him, to which I did not receive a response, save to being copied in the email to Anna.” (sic)
+
+The applicant states that at the meeting, he went through the issues raised and updated EXMA as to where matters stood. He states that he had no inkling at that stage that he was in fact being subjected to a disciplinary inquiry which could result in his dismissal. 
+
+In this regard, the respondent’s executive manager, CDC Services, Mr Mabula, who attested to the respondent’s answering affidavit, stated that the applicant could have been in no doubt as to “both the seriousness of the situation that required to be addressed as well as his responsibility for its creation and rectification” and that he was being called upon to do more than merely update EXMA on the issues. According to Mr Mabula, the members of EXMA were, without exception, dissatisfied with the applicant’s explanations concerning Mr Silinga’s complaints and concerns inasmuch as the applicant had yet again failed to produce the required reports on budgetary matters on time.
+
+Thereafter, according to Mr Mabula, the applicant was given a further opportunity “to suggest the way forward”. He, however, became offensive and refused to  
+[2009] 6 BLLR 607 (ECP) at 612
+acknowledge the seriousness of the situation or his responsibility therefor. The applicant was eventually invited by Mr Mabula to address EXMA members on why his services should be retained. According to Mr Mabula, the applicant then became “confrontational” and told EXMA that it was powerless to take any disciplinary action against him in the light of the judgment of Kroon J. 
+
+In reply hereto the applicant concedes that he may have said things which were not well thought through but states that this was because he was in a state of shock at the turn of events and was absolutely astounded as he was not even aware during the meeting that a disciplinary process was under way. He states that Mr Tiya, a member of EXMA, then proposed to the meeting that the applicant’s services be terminated. An adjournment followed whereafter the meeting reconvened and the applicant was advised that his services were terminated with immediate effect.
+
+On 24 March 2009, the applicant received a letter (“AGY5”) confirming his dismissal. The letter reads, inter alia, as follows:
+
+“Having considered your representations to the executive management (‘EXMA’) of the Coega Development Corporation (‘CDC’) relating to allegations of your poor work performance as the chief financial officer, of which consequences were elaborated to you, in respect of the following:
+
+
+(a) Failure to act expeditiously and to respond to the specific requirements of the DTI with regard to the 2009/10 CDC’s business plan to enable transfer of funds in early April 2009 in order to deal with CDC’s funding requirements; 
+(b) Failure to act expeditiously towards ensuring that the DEDEA transfer agreement is in place to enable transfer of funds by the Eastern Cape Provincial Government in early April 2009 in order to deal with the Supplier Park funding requirements; and 
+(c) Failure to provide weekly written formal reports addressing specific issues that were communicated to you in writing as they were intended to enable effective management of the identified risk areas and to enable proactive attenuation of such risks; 
+
+The CDC has found your explanations unsatisfactory. Your failure to perform to the required standard of these key performance areas is considered very serious, and has put the CDEC business in jeopardy.
+
+In the circumstances, the CDC has decided to terminate your services with immediate effect.”
+
+Mr Potgieter, who, with Mr Euijen, appeared for the respondent, submitted firstly that this Court had no jurisdiction to grant the relief sought and that the Labour Court had exclusive jurisdiction. In his judgment, however, Kroon J dealt extensively with a similar argument and held, with reference in particular to section 4 of the PDA, that this Court had the requisite jurisdiction. Counsel pointed out that in his judgment, Kroon J had made no reference to the matter of Chirwa v Transnet Ltd & others 2008 (4) SA 367 (CC)2 and submitted that the Chirwa case was decisive of the issue before the court.
+
+In my view, this contention cannot be upheld. The particular legislation with which the Constitutional Court was dealing in the Chirwa case differs materially from the relevant provisions of the PDA. In particular, as was emphasised by  
+[2009] 6 BLLR 607 (ECP) at 613
+Kroon J, section 4(1)(a) of the PDA provides that any employee who has been subjected to an occupational detriment in breach of section 3 may “approach any Court having jurisdiction, including the Labour Court”. (My emphasis.)
+
+Nothing that Mr Potgieter has urged upon me has persuaded me that Kroon J erred in his approach to the matter or that his conclusion as to the effect of section 4 of the PDA was wrong. On the contrary, I am of the respectful view that the learned Judge was clearly correct in coming to the conclusion he did.
+
+Furthermore, the applicant relies also upon an alleged breach of his contractual entitlement to a fair hearing in terms of the respondent’s disciplinary code which, it is common cause, forms part of the applicant’s contract of employment.
+
+In Transman (Pty) Ltd v Graham Dick & another (unreported SCA case number 147/08, delivered on 31 March 2009),3 Jafta JA stated as follows at paragraph 18:
+
+“It is important to note that in Chirwa, the Constitutional Court deprecated the proposition that civil servants have two causes of action, but only in so far as the second cause of action is based on section 33 of the Constitution of the Promotion of Administrative Justice Act 3 of 2000 (‘PAJA’). The decision in Chirwa prohibits the use of review process in challenging the validity of a dismissal from employment. What this means is that a cause of action based on a contractual breach is still permissible.”
+
+
+At paragraph 24, the learned Judge stated as follows:
+
+“Since the decision in Chirwa public servants can no longer invoke administrative review to challenge the validity of dismissals. However this does not mean that parties cannot incorporate administrative law requirements into their employment agreements. In that event the failure to comply with such requirements would, however, be a breach of contract and ordinary contractual claims would be available to the aggrieved party.”
+
+
+See, also, Nakin v MEC, Department of Education, Eastern Cape Province & another 2008 (6) SA 320 (Ck).4
+
+Having regard to the principles set out above, I am satisfied that this Court has the requisite jurisdiction to hear the application.
+
+Mr Potgieter then submitted that the application fell to be dismissed due to lack of urgency. There is no merit in this submission. The applicant alleges that his dismissal constitutes an occupational detriment as defined in the Act in that it flows from the disclosures made by him and that the action taken against him was an attempt to circumvent the interdict granted by Kroon J. The very nature of these allegations renders the matter one of urgency.
+
+As appears from the notice of motion, the applicant seeks certain interim relief pending the final determination of the action which he has instituted against the respondent. The requirements for the grant of an interim interdict are, as set out by Kroon J, the following:
+
+“(a) A prima facie right even if it is open to some doubt.
+Irreparable harm, or a reasonable apprehension thereof, if the interdict is not granted.
+The absence of an adequate alternative remedy.” 
+[2009] 6 BLLR 607 (ECP) at 614
+
+I should mention that it was not in issue in these proceedings that, as was found by Kroon J, the disclosures made by the applicant were protected disclosures as envisaged in the Act. It is clear that they were such disclosures.
+
+It is common cause that the subject matter of the complaints lodged against the applicant, as formulated in the so-called agenda with which the applicant was confronted on 23 March, differs from the subject matter of those with which he was previously charged and in respect of which the interdict was issued. 
+
+The applicant submits, however, that the action taken against him is nothing else but a continuation of the previous unlawful action against him. He submits that such action was in fact also a reprisal on account of the disclosures made by him and that the respondent, having been thwarted in its attempts to take disciplinary action against him, resorted to acting as it did in order to circumvent the existing interdict. 
+
+In my view, there is considerable merit in these submissions. Whatever the merits of the complaints raised against the applicant’s performance may be, a matter which is it not necessary for me to determine, it cannot, in my view, seriously be contended that the applicant’s alleged misconduct was of such a nature as to warrant summary dismissal without compliance with the respondent’s disciplinary procedures, if in fact such a summary dismissal could ever be justified. The applicant was entitled, in terms of his contract of employment, to a fair disciplinary hearing with all the procedural safeguards therein contained. Included in these is the requirement that he be issued with a formal written notification outlining the allegations of misconduct against him “at least forty-eight hours prior to the date and time fixed for the disciplinary hearing” (clause 6.3.2). This was ignored. So too were the requirements in clause 6.3.3 as to the persons who were required (my emphasis) to attend a disciplinary hearing as well as the applicant’s right to be represented at the hearing (clause 6.3.5).
+
+In this regard, Mr Potgieter submitted that in the case of a senior official such as the applicant, the form of the process adopted was not determinative of the matter. He submitted that the only requirement was that the official be afforded an opportunity to respond to the allegations against him. With reference to JDG Trading (Pty) Ltd t/a Price ’n Pride v Brunsdon (2000) 21 ILJ 591 (LAC)5 and H Brereton v Bateman Industrial Corporation Ltd & others (unreported LAC case number JA80/99), he submitted that what he termed the “committee type inquiry” adopted by the respondent was fully compliant with the essential requirements of natural justice and the respondent’s disciplinary code. He submitted further that the applicant, by evincing the attitude that he was immune from any disciplinary action because of the interdict, had made it all but impossible for the respondent to comply with the terms of the disciplinary code. 
+
+I cannot uphold these contentions. Even assuming in favour of the respondent that because of the applicant’s senior position there was a difference in the form which a hearing in his case could take, as opposed to the type of enquiry which would be held in respect of an allegation of misconduct on the part of an ordinary employee, the fact remains that even the committee type enquiry must  
+[2009] 6 BLLR 607 (ECP) at 615
+comply with certain basic objective standards of fairness. As was stated by Vivier JA in Unilong Freight Distributors (Pty) Ltd v Muller (1998) 19 ILJ 229 (SCA)6 at 238A–B:
+
+“The opportunity which is given to a senior employee must still meet at least two basic requirements of the audi alteram partem rule, namely he must be given notice of the contemplated action and a proper opportunity to be heard.”
+
+
+In the JDG Trading case, supra, Zondo AJP stated as follows at paragraph 61:
+
+“That an employee is a senior manager does not, in my view, give the employer the licence to dispense with the observance of the audi alteram partem rule. Such an employee is also entitled to the observance of the audi alteram partem rule. What may be relaxed in the case of a senior manager may be the form which the observance of the rule may take (see what Vivier JA said in Unilong Freight Distributors (Pty) Ltd v Muller (1998) 19 ILJ 229 (SCA)³ at 238A–B).”
+
+
+In the present matter the respondent gave the applicant no notice whatsoever of the contemplated action against him. Its conduct in undertaking what was in essence a disciplinary hearing under the guise of being an EXMA meeting was manifestly unfair and prejudicial to the applicant and was in flagrant breach of the applicant’s contractual rights. The so-called agenda (MM3) gave no indication whatsoever that the meeting was to be anything more than a discussion of the applicant’s performance. Indeed, it states in specific terms that the meeting “is meant to discuss” those issues. In these circumstances, the applicant’s astonishment at the turn of events is fully understandable. As submitted by Mr Beyleveld, who appeared for the applicant, the meeting amounted to nothing less than an ambush of the applicant. 
+
+The submission that the applicant had made it all but impossible for the respondent to comply with the terms of the disciplinary code is devoid of substance. If the applicant refused to comply with properly constituted and lawful disciplinary proceedings brought against him, in circumstances where the PDA did not apply, then he would do so at his own peril. In this regard, Mr Mabula stated that:
+
+“It does not lie in the mouth of the applicant to complain that the respondent has not followed its disciplinary code to the letter. It is the applicant who chose to delay his earlier disciplinary hearing and obtain an interdict from this Court preventing such procedure from continuing. Moreover, the applicant has clearly and unequivocally expressed his refusal to participate in any such disciplinary proceedings to enquire into his performance while this interdict is in force.”
+
+
+In the circumstances of this case, where Mr Mabula is well aware of the finding by Kroon J that the intended disciplinary inquiry was “prima facie in reprisal for the applicant’s disclosures” and that it was therefore prima facie unlawful, the aforesaid comments by Mr Mabula are disingenuous and cynical in the extreme. 
+
+There is equally, in my view, no merit in Mr Potgieter’s submission that the applicant in effect only has himself to blame for not complaining or requesting a postponement once he was asked whether he had any reason to advance why his employment should not be terminated. To use the respondent’s own terminology, it hardly lies in its mouth once it has subjected the applicant to a patently unfair disciplinary procedure to then criticise his failure to request a postponement and to label his reliance upon the respondent’s conduct as being opportunistic.
+
+ 
+[2009] 6 BLLR 607 (ECP) at 616
+
+In my view, the only plausible inference to be drawn from the unseemly haste with which the respondent proceeded against the applicant in the manner in which it did, following upon the granting of the interdict, is that it wished to obviate the possibility of the applicant again successfully applying for an interdict. Its infringement of the applicant’s rights on the first working day after that interdict had been granted was so blatant that the inference is, in my view, inescapable that it was determined, come what may, to terminate his services in such a manner as would not afford the applicant the opportunity of obtaining prior legal redress. Its irrational conduct in acting in the manner in which it did would, in the normal course of events, be inexplicable. Viewed in the context of what had preceded such conduct, however, it becomes clear, in my view, that it acted as it did in reprisal for the disclosures made by the applicant. 
+
+On all the evidence therefore I am satisfied that prima facie the applicant has established that the action taken against him was indeed a continuation of the previous unlawful action in reprisal for his disclosures. The termination of his employment was therefore prima facie unlawful.
+
+As appears from what I have said above, such termination also constituted a breach of the applicant’s contractual entitlement to a fair hearing in accordance with the respondent’s disciplinary code. 
+
+During the course of the hearing, Mr Beyleveld indicated that it was the applicant’s intention to amend his particulars of claim so as to include an alternative claim for relief based on the aforesaid contractual breach. He submitted that it would accordingly be appropriate to make provision in the order to be granted for a further amendment of the particulars of claim. 
+
+Mr Potgieter strenuously resisted the application for the reinstatement of the applicant in the event that it should be held that the applicant had been unlawfully dismissed. He submitted that it would be untenable to compel the respondent to continue with an employment relationship with the applicant in circumstances where the relationship of trust had ceased. It is alleged that the respondent will shortly be instituting action against the applicant for recovery of the loss of approximately R7 million resulting from the applicant’s alleged misconduct and that certain allegations of fraud allegedly made by the applicant against Mr Silinga are likely to give rise to further legal action for defamation against the applicant. The applicant could not therefore continue in such an important fiduciary position. For his part, the applicant has denied all allegations of financial misconduct and denies in any event that there is any basis for any legal action to be taken against him. He contends that if the relationship of trust has broken down between the applicant and the respondent, then it is the respondent, by its own actions, which has brought about such breakdown.
+
+The case of National Union of Textile Workers & others v Stag Packings (Pty) Ltd & another 1982 (4) SA 151 (T)7 is of relevance in this regard. In that matter, the appellants had been dismissed from the respondent’s employ. It was held at 158G that if the appellants’ allegations that they had been dismissed solely by reason of their trade union membership were to be established, the respondents could then be proved to have acted illegally in contravention of  
+[2009] 6 BLLR 607 (ECP) at 617
+certain statutory provisions which contained provisions to prevent victimisation of employees merely because of their trade union membership. The court stated that it may well be that these objects would be frustrated if a remedy of reinstatement was not granted. 
+
+In my view, the objects of the PDA will similarly be frustrated if the applicant is not reinstated. Section 3 of the Act specifically provides that no employee may be subjected to any occupational detriment by his or her employer on account of having made a prohibited disclosure. In my view, once an employee has established prima facie that he or she has been so subjected to an occupational detriment in contravention of the Act, then he or she must be entitled to full protection by the court, including reinstatement. 
+
+In this regard, the Preamble to the Act is of relevance. It is therein stated, inter alia, that:
+
+“Criminal and other irregular conduct in organs of State and private bodies are detrimental to good, effective, accountable and transparent governance in organs of State and open and good corporate governance in private bodies and can endanger the economic stability of the Republic and have the potential to cause social damage.”
+
+
+And, further, that:
+
+“Every employer and employee has a responsibility to disclose criminal and other irregular conduct in the workplace; 
+
+Every employer has a responsibility to take all necessary steps to ensure that employees who disclose such information are protected from any reprisals as a result of such disclosures.”
+
+
+In the case of Tshishonga v Minister of Justice & Constitutional Development & another [2007] 4 BLLR 327 (LC), Pillay J stated as follows at paragraph 106:
+
+“The PDA takes its cue from the Constitution of the Republic of South Africa, 1996. It affirms the ‘democratic values of human dignity, equality and freedom’. In this respect, its constitutional underpinning is not confined to particular sections of the Constitution such as free speech or rights to personal security, privacy and property. Although each of these rights can be invoked by whistle-blowers, the analysis in this case is from the perspective of the overarching objective of affirming values of democracy, of which the particular rights form a part. Democracy embraces accountability as one of its core values. Accountability, dignity and equality are the main themes flowing through the analysis that follows.” 
+
+
+In paragraphs 166–177, the learned Judge sets out with respect, clearly and succinctly, the philosophy and purpose of the Act. I respectfully agree with her analysis.
+
+Employers should know that they cannot treat so-called “whistle-blowers” with impunity and employees should know that in the event of reprisals being unlawfully visited upon them, they will enjoy the full protection of the court.
+
+I am satisfied in all the circumstances, not only that the applicant will suffer irreparable harm if the interdict is not granted and he is left to attempt to obtain redress in due course, but also that the balance of convenience clearly favours the applicant. To paraphrase the words of Kroon J, it can hardly be validly suggested that the balance of convenience favours the respondent in circumstances where it has prima facie unlawfully dismissed the applicant.
+
+ 
+[2009] 6 BLLR 607 (ECP) at 618
+
+Mr Beyleveld did not persist in seeking the costs order prayed for in paragraph 3 of the notice of motion, but submitted that an order in the same terms as that granted by Kroon J would be appropriate.
+
+In the circumstances, the following order is made:
+
+Pending the determination of the action which the applicant has instituted against the respondent under case number 597/09, and in respect of which the applicant is afforded 7 days from the granting of this order to amend his particulars of claim, it is ordered:
+That the applicant’s dismissal by the respondent on Monday, 23 March 2009, is declared to be invalid and of no force and effect. 
+That the applicant be immediately reinstated with retrospective effect upon the same terms and conditions as to salary and other benefits as pertained prior to his dismissal.
+That the respondent be interdicted and restrained from subjecting the applicant to any further occupational detriment as defined in the Protected Disclosures Act 26 of 2000.
+The costs of this application will be reserved for decision by the court trying the said action.
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	 Reported as Young v Coega Development Corporation (Pty) Ltd (1) at [2009] 6 BLLR 597 (ECP) – Ed.
+2	 Also reported at [2008] 2 BLLR 97 (CC) – Ed.
+3	 Reported as Transman (Pty) Ltd v Dick & another at [2009] 3 All SA 183 (SCA) [to be reported in the forthcoming 2009 July edition of BLLR] – Ed.
+4	 Also reported at [2008] 5 BLLR 489 (Ck) – Ed.
+5	 Also reported at [2000] 1 BLLR 1 (LAC) – Ed.
+6	 Also reported at [1997] 11 BLLR 1497 (A) 
+7	 Also reported at [1982] 4 All SA 566 (T) – Ed.
+
+For the applicant:
+Adv A Beyleveld instructed by Wilson McWilliams Inc, Port Elizabeth
+For the respondent:
+Adv DO Potgieter with Adv M Euijen instructed by Pumezo Bono Attorneys, Port Elizabeth
+
+
+End of Document

@@ -1,0 +1,106 @@
+
+
+
+
+The ghost workers behind the AI revolution
+IR - News Watch
+
+                                                      The ghost workers behind the AI revolution                            
+
+                                R                                eported                                 on:                                 10                                                                 November                                 20                                2                                5                  
+
+                                            By                                             Rennie Naidoo, Professor in Information Sys                                            tems and Research Director at                                             Wits School of Bu                                            siness Sciences                  
+
+                                                      W                                            e often speak about the                                             artificial intelligence                                                                                         (AI) revolution in abstract terms – as progress, disruption, or innovation. Silicon Valley calls it the next great leap. In Washington, Brussels and Beijing, it’s an arms race. And in boardrooms from Johannesburg to Lagos, executives are betting on algorithms to unlock new growth.                  
+
+                                            But here’s what’s rarely said out loud: Africa is not just participating in the                                             AI                                             revolution. It’s powering it, not with venture capital or patents, but with something far more indispensable: human labour                                                      .                  
+
+                                            As AI systems grow smarter, the humans behind them remain invisible, underpaid and unprotected, drawn into this work by economic precarity despite its exploitative conditions.                   
+
+                                            In Kenya, thousands of young people log on each morning to microtasking platforms. Their job? Labelling images, categorising objects, filtering toxic content and annotating                                             medical                                             scans they have no formal training to interpret.                  
+
+                                            In Uganda, Nigeria, Ghana, and increasingly in South Africa, this digital piecework economy is taking root. The platforms are global: Appen, Sama, Remotasks, Scale AI. But the labour is local, outsourced and invisible.                  
+
+                                            Africa must stop being the silent backbone of AI and start demanding its seat at the table, not only as a builder, but as a standard-setter.                  
+
+                                            This is not the glamorous frontier of AI engineering. It is the raw, repetitive and often traumatic labour that enables AI to ‘see’, ‘understand’ and ‘respond’. It is the difference between an algorithm that recognises a rhinoceros and one that confuses it with a rock.                  
+
+                                            It is African intelligence. And yet, it is treated as disposable.                  
+
+                                            When progress feels like exploitation                  
+
+                                            The data doesn’t lie. Many African annotators earn less than $2 an hour. Some annotators are paid on a per-task basis, while others are hired on short-term, monthly or even weekly contracts.                  
+
+                                            They can be shown violent or sexually explicit content with no warning or support. Some data workers describe labelling child abuse content for Western companies. Some are asked to provide images of their own children to train facial recognition models, often without clear consent or adequate compensation.                  
+
+                                            Others speak of hundreds of family images uploaded and used, yet never paid for. This is not some dystopian anecdote. It is the present-day business model of the global AI supply chain. And the logic behind it is being stated out loud.                  
+
+                                            Some tech leaders have openly acknowledged that their digital platforms now enable a level of hyper-flexibility previously unimaginable, allowing companies to find a worker anywhere in the world, assign them a task lasting just minutes, pay them a small fee, and end the engagement immediately. This is not flexible work. It is designed disposability.                  
+
+                                            It reflects a worldview where workers are not contributors to innovation, but temporary tools to be switched on and off at will. The platforms deny wrongdoing. They point to their codes of conduct and ethical sourcing policies.                  
+
+                                            But a growing number of African workers and investigators are telling a different story: one of exploitation disguised as opportunity.                  
+
+                                            Gig economy is global, but not equal                  
+
+                                            What makes this especially stark is the wage disparity. The same task that pays $50 an hour in the United States can pay a few dollars in Nairobi. The same model that uses crowdwork to annotate cancer scans in Cape Town fails to provide workers with any healthcare support or recognition. This is not a market inefficiency. It’s a deliberate architecture of asymmetry.                  
+
+                                            African workers are essential to building the data pipelines of AI, yet remain the least seen, least paid and least protected. And yes, South Africa is implicated. Local companies building AI models are increasingly contracting overseas platforms that rely on this labour. including start-ups in fintech, edtech and mobility sectors, some of which are backed by major South African venture funds.                  
+
+                                            Government is investing in an AI strategy, but so far says little about ethical labour sourcing. Our universities train machine learning engineers but rarely teach them about the people behind the datasets.                  
+
+                                            We are plugged into the machine, and the machine is fed by the work of those who are too often erased.                  
+
+                                            Research from Oxford University’s Fairwork project echoes these concerns. AI microtasking platform companies have consistently scored poorly on basic labour standards, such as fair pay, working conditions and transparency, with some earning just three out of 10 in independent ratings.                  
+
+                                            Monash University, alongside the Australian Human Rights Institute, has gone further, warning that these platforms may be perpetuating a new form of digital-age exploitation, one that meets the legal and ethical definitions of modern slavery.                  
+
+                                            These findings make clear that the issues raised by African workers are not isolated or exaggerated. They are part of a global pattern − one built on the systemic unde                                            rvaluing of invisible labour from the global South.                  
+
+                                            The International Labour Organisation                                            ’s Decent Work Agenda and the                                                             United Nations Guiding Principles on Business and Human Rights                                                          offer a framework for benchmarking AI labour practices. Still, African governments have yet to adopt or enforce them effectively in the AI context.                  
+
+                                            Time for African leadership on AI ethics                  
+
+                                            Africa must stop being the silent backbone of AI and start demanding its seat at the table, not only as a builder, but as a standard-setter.                  
+
+                                            We need a Pan-African ethical framework for AI labour. One that ensures fair compensation, psychological support, transparency in data use, and enforceable accountability for global tech platforms operating across the continent.                  
+
+                                            South Africa often champions ethical leadership through frameworks like the King IV Code of Corporate Governance, which emphasises transparency, accountability and stakeholder inclusivity.                  
+
+                                            Yet the King IV principles − from stakeholder inclusivity                                             to responsible corporate citizenship − are rarely applied to the invisible labour that sustains AI development. If we can establish fair-trade principles for wine and gold, why not for data?                  
+
+                                            Let the                                             African Union, SADC and national ICT departments treat this as a digital human rights issue, not just a market phenomenon.                  
+
+                                            Let’s call on AI companies to publish wage parity statistics, content moderation protections and transparency regarding worker opt-in. And let’s not wait for foreign whistleblowers to expose what we already know.                  
+
+                                            Because the future is built here                  
+
+                                            The irony is hard to ignore. The same continent that has long been sidelined in the digital age is now indispensable to AI’s development. However, it is once again being asked to sacrifice its well-being for the sake of global gain.                  
+
+                                            Data labelled in Nairobi powers cancer diagnostics in Boston, while flagged content from Lagos shapes safety filters in San Francisco. The images collected in Johannesburg are used to train self-driving cars in Munich.                  
+
+                                            If Africa is building the future, then it deserves to define its ethics. And here is the most hopeful truth of all: African workers are no longer silent. In Kenya, data annotators have formed the                                                             Data Labellers Association                                                          to demand fair pay and recognition. Across the continent, voices are rising. Engineers, journalists, activists and workers are all asking the same question: Who is AI really for?                  
+
+                                            If we listen and if we act, this could be the beginning of a better future. One where AI is no longer built on silence and inequality but on dignity, transparency and justice.                  
+
+                                            AI revolution must be a human one                  
+
+                                            Africa has always had intelligence. What we’ve lacked is recognition. But the tide is turning. African workers, researchers and technologists are not only ready to build the future but also to shape its foundations.                  
+
+                                            So, let’s not settle for being the silent foundation of someone else’s prosperity. Let’s be the conscience of a global industry that risks losing its humanity. Let’s take inspiration from the Data Labellers Association in Kenya, from grassroots calls for recognition, and from the growing awareness among Africa’s tech community that dignity should not be the price of digital progress.                  
+
+                                            The future of AI is being labelled, classified and curated right here in Nairobi, in Accra, in Johannesburg. Because while AI innovations may run on data, justice runs on fairness. And that begins… yes…with fair pay.                  
+
+                                            But it is also about building a more humane and equitable AI economy. To those leading the AI age, let us ensure the intelligence we teach our machines never eclipses the compassion that makes us human. One that doesn’t treat African labour as cheap input but as a core pillar of global AI innovation.                  
+
+                                            The struggle for dignity did not end with freedom from political chains. It continues in the invisible spaces of digital labour. Africa cannot afford to be the world’s digital sweatshop while others write the rules.                  
+
+                                            Our future will not be secured by those who sell their labour cheaply, but by those who organise their power wisely. The data of our people, the labour of our youth, these are new forms of wealth.                  
+
+                                            United, we can set the standards of a just digital age. Divided, we will remain its raw material.                  
+
+                                            i                                            TWeb                  
+
+
+
+End of Document

@@ -1,0 +1,409 @@
+
+
+
+
+Lowies v University of Johannesburg [2014] JOL 32066 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JS 1062 / 2009
+Hearing Date(s): 15–18 / 04 / 2013
+Judgment Date(s): 30 / 04 / 2013
+Bench: Prinsloo AJ
+
+
+Keywords
+
+
+Labour law — Dismissal — Misconduct — Allegation of automatically unfair dismissal — Protected disclosure
+
+Mini Summary
+
+
+The applicant, an educational psychologist, had been employed by the respondent. Towards the end of 2008, he indicated that he would be interested in being appointed as a supervisor to an intern for the year 2009. He was subsequently allocated to a counselling intern psychologist as a supervisor. He was, however, not registered as a counselling psychologist with the Health Professions Council of South Africa and could not act as a supervisor for such an intern. When the irregularity was discovered, the applicant was charged with misconduct. He was found guilty of misrepresentation and gross dishonesty and he was dismissed.
+
+In the present application, the applicant alleged that he had been subjected to an occupational detriment after he made a protected disclosure in terms of the Protected Disclosures Act 26 of 2000 (“the Act”), and that his dismissal was automatically unfair. He alleged that he had disclosed information related to private Saturday work performed on the premises of the respondent by other psychologists in the employ of the respondent.
+
+Held that the Court was not convinced that the applicant had made a disclosure of information regarding conduct as contemplated in section 1(i)(a) of the Act. Even if what he referred to was a disclosure, there was no nexus between that and the applicant’s dismissal for an unrelated matter.
+
+Finding the dismissal to have been justified and an appropriate sanction for the serious offence of which the applicant was found guilty, the Court dismissed the matter.
+
+ 
+[2014] JOL 32066 (LC) at 1
+
+PRINSLOO AJ:
+
+Introduction
+
+[1]    The applicant, Dr Adolf Lowies, approached this Court for relief on the basis that he was subjected to an occupational detriment after he made a protected disclosure in terms of the Protected Disclosures Act1 ("the PDA"). He claims that his dismissal was automatically unfair.
+
+ 
+[2014] JOL 32066 (LC) at 2
+
+[2]    The applicant disclosed information related to private Saturday work performed on the premises of the respondent by other psychologists in the employ of the respondent.
+
+[3]    The respondent disputed that any disclosure was made and denied that the applicant was dismissed for reasons related to the alleged disclosure. The respondent's representative, Mr Lennox, even submitted that the applicant's case is motivated by money.
+
+[4]    Before turning to the merits of the case, it is necessary to give a brief overview of the applicant's employment, the framework within which the respondent operates and the disciplinary action taken against the applicant.
+
+Background
+
+[5]    The applicant, Dr Adolf Lowies, is an educational psychologist and was employed as a student counsellor in July 2004 by the Technikon Witwatersrand ("TWR"). This employment followed after he applied for an advertised position. The requirements of the position of student counsellor were set out in the advertisement and full registration as an educational psychologist with the Health Professions Council of South Africa ("HPCSA") for at least three years was required. The duties attached to the position included counselling to students.
+
+[6]    The applicant submitted his curriculum vitae wherein he indicated his qualifications, professional memberships and work experience. As part of his professional memberships Dr Lowies indicated "psychologist: registration number PS0048135 Health Professions Council of South Africa (HPCSA)". This created the impression that he was indeed registered with the HPCSA at the time when he submitted the application and under cross-examination he conceded that no other impression could have been created.
+
+[7]    On 1 January 2005 the TWR and the Randse Afrikaanse Universiteit ("RAU") formally merged to become the University of Johannesburg ("UJ"), the respondent in this matter.
+
+[8]    A number of committees were formed to ensure a smooth transition and to facilitate the merger. The applicant served on a number of these committees  
+[2014] JOL 32066 (LC) at 3
+and he was the vice chairperson of the financial committee. He wrote letters on behalf of at least three other employees asking questions and making enquiries about certain issues which could have had a financial implication and of which they were unaware. The applicant and the other employees called for transparency and the sharing of information. In a letter dated 22 July 2008 the applicant (and others on whose behalf he wrote the letter) requested that certain projects be shared so that it could be better understood and to allow for comment and future participation in the opportunities. The projects so referred to included the Saturday assessment of students and the questions, inter alia, were directed to the fact that ex-TWR employees were not invited to participate in the projects and were thus not earning additional income.
+
+[9]    On 9 September 2008 the applicant wrote a letter to Professor Morgan, raising a formal complaint. This letter, according to the applicant's statement of case, constituted the disclosure wherein he disclosed corrupt and fraudulent activities at the UJ. The corrupt and fraudulent activities included colleagues doing private consultation work in their professional capacities on Saturdays, for which they were remunerated, whilst purporting to be doing the work in their official capacities for the UJ. The colleagues were abusing the facilities and support staff of the UJ and there was a mismanagement of funds and misuse of property. The applicant stated that the disclosure was made to Professor Morgan as the Executive Director of Human Resources and he was the appropriate person in accordance with the respondent's whistle blower policy to whom such disclosure was to be made.
+
+[10]    During November 2008 the applicant had a discussion with the respondent's Ms Trudie le Roux, regarding the appointment of supervisors to intern psychologists and the applicant indicated that he would be interested in being appointed as a supervisor to an intern for the year 2009. The supervision of a psychologist intern is voluntary and in order to process and finalise the appointment of supervisors for the psychologist interns, Ms Le Roux required the registration numbers of the volunteering psychologist with the HPCSA. On 26 November 2008 the applicant sent an electronic mail to Ms Le Roux indicating his registration numbers with the HPCSA as educational psychologist and as counselling psychologist.
+
+ 
+[2014] JOL 32066 (LC) at 4
+
+[11]    The applicant was subsequently allocated to a counselling intern psychologist as a supervisor. The applicant was however not registered as a counselling psychologist with the HPCSA and he could not act as a supervisor for such an intern. Professor Pretorius became aware of the fact that the applicant was appointed as a supervisor to a counselling psychologist intern when she was to sign the letters to the interns. Professor Pretorius contacted the applicant and confronted him with the fact that he was not registered as a counselling psychologist and could not act as a supervisor in that category.
+
+[12]    Professor Pretorius explained that in order to act as a supervisor to an intern, the psychologist has to be registered in the same category as the intern, in other words only a registered counselling psychologist could act as a supervisor to a counselling intern psychologist. If that is not the case, it could have severe consequences for the UJ and for the intern.
+
+[13]    Subsequently and on 28 November 2008 the applicant tendered an explanation and an apology to Professor Pretorius and Ms Le Roux for the electronic mail he has sent indicating that he was registered as a counselling psychologist. He submitted that he was in fact only registered as an intern counselling psychologist and he explained that he sent both registration numbers to Ms Le Roux because he: 
+
+". . . wrongfully thought that the themes would only be discussed with the educational interns and included the registration number of the counselling because I thought that both groups would have benefited from this and the fact that I completed the theory on counselling it would have enabled me to discuss the themes with both groups and that I am adequate to present same to both groups . . ."
+
+[14]    The apology and explanation so tendered on 28 November 2008 had not been accepted by Professor Pretorius and Ms Le Roux and the respondent initiated an investigation into the registration of the applicant with the HPCSA.
+
+[15]    Shortly thereafter the UJ closed for December as it was the end of the academic year and in January 2009 the HPCSA informed Professor Pretorius that the applicant was registered as an educational psychologist on 10 February 1995, that he was not registered as a counselling psychologist and that his name was removed from the register of psychologists on 3 September 2002 for failure to pay annual fees and was restored on 15 April 2005.
+
+ 
+[2014] JOL 32066 (LC) at 5
+
+[16]    Subsequently and on 19 January 2009 the applicant was charged with misconduct and four charges of misconduct were levelled against him. The hearing was set down for 3 February 2009, but the applicant requested a postponement in order to consult his lawyer and the hearing was postponed for two weeks. The charges will be dealt with in full detail.
+
+[17]    The applicant was found guilty of misrepresentation and gross dishonesty as per charge 1 and he was also found guilty of charges 2 and 3. Dismissal was recommended as an appropriate sanction.
+
+[18]    The applicant has not during his disciplinary enquiry raised the fact that he made a disclosure, which he believed to be protected and the reason for him being subjected to a disciplinary enquiry. On 14 April 2009 the applicant's attorney submitted a leave to appeal against the findings of guilty and the sanction of dismissal. Once again, no mention was made of the protected disclosure and the occupational detriment.
+
+[19]    The leave to appeal was refused and on 12 May 2009 the applicant's attorney filed a petition to the Vice Chancellor in terms of the provisions of the respondent's disciplinary code and procedure. In the conclusion of the petition it was submitted that the applicant was charged with misconduct after he questioned certain practices regarding private work being done by professionals during official working hours, misuse of property, fraudulent actions and mismanagement of funds and that he was in fact a whistleblower and the disciplinary action constituted an occupational detriment in terms of the PDA.
+
+[20]    The petition was refused and the applicant was finally dismissed with effect from 8 June 2009.
+
+[21]    The applicant referred a dispute to the Commission for Conciliation, Mediation and Arbitration in June 2009 and subsequently filed a statement of case with this Court.
+
+Chronology of events and the disputed disclosure of 4 November 2008
+
+[22]    The applicant included in his bundle of documents a "Formal report on fraud, conflict of interest, corruption, misuse of University funds, gross dishonesty,  
+[2014] JOL 32066 (LC) at 6
+misuse of university facilities" dated 4 November 2008. This report is addressed to Mr Lungu, the respondent's Director: Employee Relations. The respondent objected to this document and argued in closing that the report is nothing but a fabrication that was manufactured afterwards to assist the applicant in his case.
+
+[23]    In my view, it is prudent to consider the chronology of events specifically with reference to the report dated 4 November 2008.
+
+[24]    In the initial schedule of documents attached to the applicant's statement of case no mention was made of the letter or report to Mr Lungu, dated 4 November 2008. It was included for the first time in the schedule of documents attached to the amended statement of case dated 20 September 2011.
+
+[25]    No mention of the letter dated 4 November 2008 was made during the disciplinary enquiry, the leave to appeal and the subsequent petition.
+
+[26]    The applicant testified that he left the letter at the secretary to Mr Lungu and he made no follow up after he left the letter with her on 4 November 2008, he also did not receive any feedback or response from Mr Lungu. The applicant could not provide the name of the secretary with whom he left the letter. The respondent's case is that Mr Lungu did not have a secretary, the letter dated 4 November 2008 was never received by the respondent and it was seen for the first time when the applicant's bundle was made available, shortly before commencement of this trial.
+
+[27]    In the applicant's statement of case, which he had the opportunity to amend in September 2011, it is stated that the disclosure was made on 9 September 2008 in a letter to Professor Morgan. The applicant further specified the legal issues to be decided by this Court are whether the disclosure made on 9 September 2008 was the dominant cause of the applicant's dismissal and whether that disclosure was made in compliance with the respondent's "Whistleblower Policy". No mention is made of the disclosure made on 4 November 2008 and no reliance is placed on the report submitted to Mr Lungu.
+
+ 
+[2014] JOL 32066 (LC) at 7
+
+[28]    There is no explanation tendered by the applicant on why the letter was not included in his initial schedule of documents or why it is not mentioned at all in his statement of case, despite the fact that the applicant was aware from the onset that the respondent was disputing the letter of 4 November 2008 and regarded it as a fabrication that was manufactured afterwards to assist the applicant.
+
+[29]    Whether the letter was indeed fabricated or not, is neither here nor there as the letter dated 4 November 2008 cannot be considered as part of the disclosure the applicant made – simply because the applicant is bound by his case as set out in the statement of case wherein he made no mention of any disclosure he made on 4 November 2008. He only referred to the disclosure he made on 9 September 2009.
+
+The disclosure made by the applicant
+
+[30]    The disclosure made on 9 September 2008 needs some detailed consideration. It is evident from the applicant's statement of case that the disclosure he made is contained in the letter to Professor Morgan dated 9 September 2008 and he confirmed in court that the disclosure related only to the performing of Saturday work. The consideration of the disclosure made by the applicant should be limited to these two aspects.
+
+[31]    The letter dated 9 September 2008 addressed to Professor Morgan bears the following heading: "Formal complaint on the psycad merger process and outcomes." In the introduction the applicant stated that he lodged the complaint as a concerned and loyal member of staff who has run out of options and he felt a deep sense of resentment and anger and therefore his complaint would probably be biased.
+
+[32]    The disclosure in respect of private Saturday work is contained in paragraph 4 of the letter. The applicant stated that some employees had a roaring Saturday private practice assessing UJ students at UJ facilities that generated a huge income for them and they used UJ staff to do the work. No financial report was ever done on the income so generated and no disclosure was made to the financial committee on which the applicant served as a member. The applicant then stated that "Fortunately our new director put a stop to this."
+
+[33]    On the applicant's own version the Saturday work practice had been stopped by 9 September 2008, when he lodged the complaint.
+
+ 
+[2014] JOL 32066 (LC) at 8
+
+[34]    The respondent provides psychological services (which could include trauma or other counselling, career advice etc) to its registered students and the services so rendered are rendered by the psychologists employed by the UJ and are free of charge. It is common cause that the psychologists who rendered the services to the students, had to be registered with the HPCSA.
+
+[35]    The applicant testified that he heard rumours that some psychologists employed by the respondent did assessments at the UJ premises on Saturdays. He testified that he was told that the UJ students were advised or persuaded to be assessed on a Saturday, when a fee was payable, rather than on a week day when the service was free of charge. He further testified that he was told that students were informed that the Saturday assessments were compulsory. The applicant conceded that he had no idea what happened to the money generated by the psychologists who assessed clients on a Saturday at the UJ premises.
+
+[36]    The applicant relied on rumours and what others told him. He did not call any witness to corroborate the version of events he testified others told him. He conceded under cross-examination that he had no proof of who were actually assessed on Saturdays and he had no proof that any UJ student ever paid for the services rendered on a Saturday. The applicant conceded that prospective students might be required to pay for the assessments.
+
+[37]    Ms Le Roux, who testified for the respondent, stated that she was part of the group of psychologists who assessed and consulted clients on a Saturday at the UJ premises. She testified that they had permission from the relevant director and the UJ management was fully aware of the fact that they did assessments on the UJ premises on a Saturday, they paid 10% of the income generated to the UJ for the use of the facilities and she specifically stated that no UJ students were consulted on a Saturday or were ever requested to pay for assessments or consultations. She explained that the assessments on Saturdays were done for persons out of town who wanted an assessment and the results thereof on the same day or it was assessments of prospective students, not yet registered with the UJ.
+
+[38]    The applicant conceded that psychologists employed by the UJ could obtain permission to conduct private practice work and there was nothing untoward in  
+[2014] JOL 32066 (LC) at 9
+doing that. He testified that he was unaware that the psychologists who performed assessments on Saturdays had in fact obtained permission from the head of the department. He only acted on rumours he heard.
+
+Analysis of the disclosure made by the applicant
+
+[39]    In Tshishonga v Minister of Justice and Constitutional Development and another2 it was held:
+
+"The PDA is conceived as a four-staged process that begins with an analysis of the information to determine whether it is a disclosure. If it is, the next question is whether it is protected. The third stage is to determine whether the employee was subjected to any occupational detriment and lastly, what the remedy should be for such treatment. It is not an enquiry into wrongdoing but about whether the employee deserves protection. Structured in this way the inclination to shift the emphasis from the conduct and credibility of the wrongdoer to that of the whistleblower is real."
+
+Is the information disclosed by the applicant a "disclosure" as defined in the PDA?
+
+Section 1 of the PDA defines a disclosure as follows:
+
+'disclosure' means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+that a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+that a miscarriage of justice has occurred, is occurring or is likely to occur;
+that the health or safety of an individual has been, is being or is likely to be endangered;
+that the environment has been, is being or is likely to be damaged; 
+[2014] JOL 32066 (LC) at 10
+ (f) unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act No. 4 of 2000); or
+that any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed."
+
+[40]    The applicant in his statement of case, claims that he disclosed corrupt and fraudulent activities at the UJ and that the disclosure pertained to misuse of UJ property and mismanagement of funds. This would fall within the ambit of section 1(i)(a) of the PDA. The applicant did not adduce any evidence showing corrupt and fraudulent activities or the misuse of property or mismanagement of funds relating to the Saturday work. In fact, he conceded that he had no idea what happened to the money generated by the Saturday work – this does not support his allegation that there was a mismanagement of funds, corruption or fraudulent activities.
+
+[41]    The complaint he raised in respect of private Saturday work was motivated by his own unhappiness with the fact that he did not share in the opportunity to earn additional income. The document submitted to Professor Morgan contained a list of complaints the applicant wanted to raise as a result of the Psycad merger and it also set out principles the applicant was not prepared to negotiate on. The complaint he raised regarding Saturday work in paragraph 4 of the letter, and which on his own version, is the disclosure, had been stopped at the time he submitted the letter.
+
+[42]    The evidence adduced by the respondent showed that the UJ was fully aware of the work the psychologists were performing on Saturdays and that they had permission to do so and a percentage of the income generated was paid to UJ for the use of the facilities.
+
+[43]    I am not convinced that the applicant made a disclosure of information regarding conduct as contemplated in section 1(i)(a) of the PDA.
+
+[44]    In argument Ms Anderson, appearing for the applicant, submitted that the disclosure was made in terms of section 1(i)(b) of the PDA and she submitted that every employee has a legal obligation not to compete with his or her employer, not to act contrary to the interests of the employer and not to earn additional income without permission. The evidence before me does not  
+[2014] JOL 32066 (LC) at 11
+support this argument and I am not convinced that the applicant made a disclosure of information regarding conduct as contemplated in section 1(i)(b) of the PDA.
+
+[45]    I have considered whether the letter dated 9 September 2008 amounts to a disclosure and whether the applicant successfully crossed the first hurdle to show that he indeed made a disclosure. I came to the conclusion that the disclosure made by the applicant is not a disclosure as defined in section 1 of the PDA. In my view, this should be the end of the enquiry and whether the disclosure was protected or not, becomes an irrelevant question.
+
+[46]    For the sake of completeness and if I am wrong that this should be the end of the enquiry, the remainder of the four-staged process will be considered.
+
+Is the disclosure protected?
+
+Section 1(ix) of the PDA defines a protected disclosure as a disclosure made to:
+
+a legal adviser in accordance with section 5;
+an employer in accordance with section 6;
+a member of Cabinet or of the Executive Council of a province in accordance with section 7;
+a person or body in accordance with section 8; or
+any other person or body in accordance with section 9,
+
+but does not include a disclosure–
+
+in respect of which the employee concerned commits an offence by making that disclosure; or
+made by a legal adviser to whom the information concerned was disclosed in the course of obtaining legal advice in accordance with section 5; . . ."
+
+[47]    In his statement of case the applicant stated that he disclosed "corrupt and fraudulent activities" at the UJ and that the disclosure pertained to misuse of UJ property and mismanagement of funds and the disclosure was made to Professor Morgan as the Executive Director of Human Resources and the  
+[2014] JOL 32066 (LC) at 12
+appropriate person in accordance with the respondent's whistle blower policy to whom such disclosure was to be made.
+
+[48]    Section 6 of the PDA protects employees who make protected disclosures to their employers and relevant to the applicant's case is subsection (1) that reads as follows:
+
+"Any disclosure made in good faith–
+
+and substantially in accordance with any procedure prescribed, or authorised by the employee's employer for reporting or otherwise remedying the impropriety concerned; or
+to the employer of the employee, where there is no procedure as contemplated in paragraph (a).
+
+is a protected disclosure."
+
+[49]    If a disclosure is made to an employer in terms of section 6 of the PDA, a number of conditions must be satisfied before that disclosure can be protected. The person claiming the protection must be an employee. The employee must have reason to believe that information in his or her possession shows, or tends to show, the range of conduct that forms the basis of the definition of "disclosure". The employee must make the disclosure in good faith. If there is a prescribed procedure or a procedure authorised by the employer for reporting or remedying any impropriety, then there must be substantial compliance with that procedure. If there is no procedure that is either prescribed or authorised, then the disclosure must be made to the employer. Finally, there ought to be some nexus between the disclosure and the detriment.
+
+[50]    The respondent indeed has a whistleblower policy in place and it is the applicant's case that he reported the corrupt and fraudulent activities to Professor Morgan in terms of the provisions of the policy. The respondent did not seriously dispute this, although it was denied that any disclosure was made at all. I accept that there was substantial compliance with the respondent's prescribed procedure.
+
+[51]    The disclosure has to be made in good faith too. In Tshishonga v Minister of Justice and Constitutional Development and another good faith was considered and it was held that: 
+[2014] JOL 32066 (LC) at 13
+"An employee may reasonably believe in the truth of the disclosures and may gain nothing from making them, but his good faith or motive would be questionable if the information does not disclose an impropriety or if the disclosure is not aimed at remedying a wrong . . .
+
+Good faith is a finding of fact. The court has to consider all the evidence cumulatively to decide whether there is good faith or an ulterior motive, or, if there are mixed motives, what the dominant motive is.
+
+A whistleblower is unlikely to have 'warm feelings' about the wrongdoing or person against whom disclosure is made. At the other extreme a whistleblower who is overwhelmed by an ulterior motive, that is, a motive other than to prevent or stop wrongdoing, may not claim the protection under the PDA. The requirement of good faith therefore invokes a proportionality test to determine the dominant motive."
+
+[52]    It was also held that: 
+
+"There should be reasonable steps to investigate the matter. The employer should be given a chance to explain or correct the situation. The motivation for this approach is not to cover up wrongdoing but because the internal remedy may be the most effective. Genuine engagement on the issues minimizes the risks for both parties."
+
+[53]    In Communication Workers Union v Mobile Telephone Networks (Pty) Ltd3 it was held:
+
+"However, as I have noted, the protection extended to employees by the PDA is not unconditional. The PDA sets the parameters of what constitutes a protected disclosure, as well as the manner of permissible disclosure by workers. The definition of 'disclosure' clearly contemplates that it is only the disclosure of information that either discloses or tends to disclose forms of criminal or other misconduct that is the subject of protection under the PDA. The disclosure must also be made in good faith. An employee who deliberately sets out to embarrass or harass an employer is not likely to satisfy the requirement of good faith.
+
+. . . However more extensive the rights established by the PDA might be in the employment context, I do not consider that it was intended to protect what amounts to mere rumours or conjecture."
+
+ 
+[2014] JOL 32066 (LC) at 14
+
+[54]    When the applicant was asked during trial what he expected from the respondent when he made the disclosure, he responded that he expected that someone would pay attention to the claims he made and to be taken seriously. The applicant conceded that the Saturday work issue was well known and other employees were also not happy with the arrangement and that Professor Pretorius put a stop to it as soon as she took over the Psycad. He agreed that there is nothing more Professor Pretorius could have done, apart from shutting down the Saturday work and that she did early in September 2008.
+
+[55]    The respondent's position is that the Saturday work was stopped, even before the applicant made the disclosure and he disclosed a well-known fact after the practice he disclosed had been put to a stop. The letter he wrote on 9 September 2008 to Professor Morgan was not a disclosure but was listing his complaints and at the heart of the applicant's complaint is the fact that he did not receive the same financial benefits as the psychologists who performed Saturday work and he could not take part in the opportunity to earn additional income. He was dissatisfied and disgruntled.
+
+[56]    In considering whether the applicant made the disclosure regarding Saturday work in good faith, I have to consider whether the information disclosed an impropriety and if the disclosure was aimed at remedying a wrong. I already found that the information the applicant disclosed, did not disclose corrupt or fraudulent activities or misuse of property or mismanagement of funds. Was the disclosure aimed at remedying a wrong? The evidence is that the "wrong", being the private Saturday work, was stopped even before the applicant made the disclosure on 9 September 2008. The respondent had to be granted an opportunity to correct the situation and the respondent did that.
+
+[57]    The applicant's motive was not to remedy a wrong. He conceded that the Saturday work practice was stopped before his letter of 9 September 2008 and he expected nothing more from Professor Pretorius, but to stop the practice.
+
+[58]    I am not convinced that the disclosure was made in good faith. The applicant had an ulterior motive in making the disclosure and he was motivated by his own unhappiness regarding the fact that others earned an additional income  
+[2014] JOL 32066 (LC) at 15
+on Saturdays at the UJ premises and he was not part of that as he called it: "roaring Saturday private practice . . . that generated huge income for them . . ."
+
+[59]    The purpose of the disclosure was neither to bring the Saturday work to the respondent's attention nor to put a stop to it, as the evidence was that the Saturday work was a well-known fact, the psychologists involved in it had the UJ's permission, many employees complained about it and it was stopped by Professor Pretorius early in September 2008.
+
+Was the applicant subjected to any occupational detriment?
+
+[60]    The applicant's case is that a disciplinary process was initiated and charges of misconduct were levelled against him after he made the disclosure. He was found guilty and dismissed and this is the occupational detriment he was subjected to.
+
+[61]    The question is whether there exists any nexus between the disclosure made on 9 September 2008 and the disciplinary action instituted in January 2009.
+
+[62]    In Sekgobela v State Information Technology Agency (Pty) Ltd4 the Court considered the question whether the disclosure made by the applicant was the reason for his dismissal and held that:
+
+"As already pointed out, a dismissal will only be automatically unfair if the reason is one of those listed in s 187(1)(a)–(h) of the Labour Relations Act.5 (LRA) Where an employee thus alleges that his dismissal is automatically unfair, the sole enquiry would be to establish the true reason for the dismissal and once that has been established whether or not the reason is one of those identified in s 187(1)(a)–(h) of the LRA. See in general Janda v First National Bank.6
+
+In the present matter the applicant testified that his dismissal for misconduct was not the true reason for his dismissal, but that it was only a pretext for his dismissal and that the real or true reason for his dismissal was the fact that he had made a protected disclosure. The employer in this case alleged (although no evidence was led to  
+[2014] JOL 32066 (LC) at 16
+substantiate this allegation) that the applicant was dismissed for misconduct. Who must establish the reason for the dismissal? Is there an 'onus' on the employee to establish the reason for his dismissal? This question was pertinently dealt with in Janda's case mentioned above. In terms of s 192(1) and (2) of the LRA the onus to prove the existence of a dismissal rests on the employee. Once the employee has discharged this onus, the employer bears the onus to prove that the dismissal was fair (and in this context for a permissible reason). This means that it is for the employer to prove that the employee was dismissed for a permissible reason and that the dismissal was effected in accordance with a fair procedure. Because this is an onus placed on the employer by the Act it is an onus in the true sense and will remain on the employer throughout the course of the trial (see Janda at para 13). The mere fact that an employee alleges that he or she was dismissed for an impermissible reason does not detract from the fact that the onus to prove the fairness of the dismissal remains on the employer. It is, however, not sufficient for the employee simply to allege that he or she was dismissed for an impermissible reason and therefore entitled to the consequences of a finding of automatically unfair dismissal. In other words, the mere allegation of automatically unfair dismissal (in the sense that the dismissal was for an unfair reason) is not sufficient to allow this Court to come to the conclusion that the dismissal falls squarely within the confines of s 187(1) of the LRA.
+
+In Kroukam v SA Airlink (Pty) Ltd,7 the Labour Appeal Court confirmed that s 187 places an 'evidentiary burden upon the employee to produce evidence which is sufficient to raise a credible possibility that an automatically unfair dismissal has taken place. It then behoves the employer to prove to the contrary, that is to produce evidence to show that the reason for the dismissal did not fall within the circumstance envisaged in s 187 for constituting an automatically unfair dismissal'.
+
+In Janda8 above, the court explained that: 
+[2014] JOL 32066 (LC) at 17
+'As stated earlier, there is a single issue with the burden on the employer. This essential point is obscured if one speaks of ''the employer must prove" or a ''shifting" of the onus or a duty ''to establish a prima facie case that the reason for dismissal was an automatically unfair one" . . . The evidentiary burden placed upon an employee creates the need for there to be sufficient evidence to cast doubt on the reason for the dismissal put forward by the employer, or to put it differently, to show that there is a more likely reason than that of the employer. A failure to present such evidence creates the risk of the employee losing his or her case. The essential question however remains, after the court has heard all the evidence, whether the employee upon whom the onus rests of proving the issue, has discharged it.'"
+
+[63]    Did the applicant in this matter present sufficient evidence to this Court to cast doubt on the reason for the dismissal put forward by the employer? And, was the disclosure made by the applicant the principal or dominant reason for the disciplinary action, which resulted in the applicant's dismissal? These are pertinent questions.
+
+[64]    I will now briefly turn to the evidence that was placed before the Court in respect of the reason why the applicant was dismissed. At the outset it should be pointed out that the applicant conceded that his dismissal was procedurally fair.
+
+[65]    There were four charges of misconduct levelled against the applicant. Charge 1 related to fraud and misrepresentation and/or gross dishonesty in that the applicant misrepresented to the TWR that he was duly registered with the HPCSA as a psychologist when he was not so registered. As a result of the misrepresentation he was appointed by the TWR on 1 July 2004 and by the UJ on 1 January 2005 and he performed work as a health professional unlawfully and in contravention of the Health Professions Act 56 of 1974. Rendering a professional health service during the period 1 July 2004 and 15 April 2005 constituted a criminal offence and exposed the respondent.
+
+[66]    Further the applicant was charged for misrepresenting to Ms Le Roux, verbally on 24 November 2008 and in writing on 26 November 2008, that he was registered with the HPCSA as a counselling psychologist under registration number PS00531981, whereas he was not so registered.
+
+ 
+[2014] JOL 32066 (LC) at 18
+
+[67]    The applicant conceded that he misrepresented that he was registered with the HPCSA when he was not so registered. This is very serious as it constituted a contravention of the Health Professions Act to practice as a psychologist without being registered.
+
+[68]    In argument Ms Anderson submitted that the applicant was not notified that his name was removed from the register and therefore the removal of his name was unlawful and void. For these reasons the respondent could not have instituted disciplinary action related to the misrepresentation he made when he was appointed. She further submitted that the concession that the applicant made during cross-examination that he was not registered, was a concession to a proposition that is not legally sustainable and is of no consequence. His concession cannot change the fact that his removal from the register was not lawful.
+
+[69]    This argument cannot be sustained. The applicant testified in his evidence-in-chief that his professional registration with the HPCSA lapsed at the time when he applied for the position at the respondent in 2004 and he testified that he acted as an unregistered psychologist. These were not concessions he only made in cross-examination, but were his statements when he presented his own case. He confirmed the position in cross-examination when he conceded that he provided psychological services without being registered and that he was committing a criminal offence in doing so. The applicant never disputed the lawfulness of the removal of his name from the HPCSA register and it was certainly not his case that it was void and that he could not have been charged accordingly. The submissions made by Ms Anderson are simply not supported by the applicant's evidence or the case as it was presented in court.
+
+[70]    In respect of the misrepresentation made to Ms Le Roux on 24 November 2008, he tendered a written apology wherein he explained that he has a hearing impairment and did not hear Ms Le Roux properly when she posed the question to him regarding the categories he was registered as a psychologist. This explanation has been rejected by Ms Le Roux who testified that they were in a small office, the applicant heard her very well and she never posed a question to him but the applicant tendered the information regarding the categories he was registered with the HPCSA. Ms Le Roux explained that part of her responsibility is to do individual career development  
+[2014] JOL 32066 (LC) at 19
+for the employees in Psycad and in that capacity she had an interview with the applicant around 24 November 2008. He was dissatisfied with the fact that promotion opportunities were limited and she suggested that he became a supervisor to intern psychologists. Her testimony was that the applicant was interested and volunteered the information that he was indeed registered in two categories.
+
+[71]    Ms Le Roux subsequently sent an electronic mail to all the psychologists who were interested to become supervisors to provide her with their professional registration numbers with the HPCSA in order for her to finalise the process and letters to the prospective interns. On 26 November 2008 the applicant responded to Ms Le Roux's request and he sent her an electronic mail indicating that he was registered as an educational and counselling psychologist with the HPCSA and he provided his registration numbers. Ms Le Roux testified that this electronic mail with the two categories and registration numbers was a confirmation of what the applicant told her verbally on 24 November 2008.
+
+[72]    The applicant thereafter tendered an explanation on 28 November 2008 and he explained the reason why he provided two registration numbers to Ms Le Roux as follows: he, 
+
+". .  wrongfully thought that the themes would only be discussed with the educational interns and included the registration number of the counselling because I thought that both groups would have benefited from this and the fact that I completed the theory on counselling it would have enabled me to discuss the themes with both groups and that I am adequate to present same to both groups . . ."
+
+[73]    Before this Court the applicant presented another explanation. He testified that he was busy with a client when he heard the sound indicating that he received an electronic mail. Whilst consulting with the client, he turned to his computer, opened the electronic mail from Ms Le Roux and within four minutes after he received it, he responded to Ms Le Roux and provided her with the two registration numbers. It was a mistake and he should have indicated that he was only registered as an intern counselling psychologist. Professor Pretorius testified that it would be the most unethical and unprofessional conduct if a psychologist would, during a session with a client, interrupt the session to attend to an electronic mail. Professor Pretorius was of  
+[2014] JOL 32066 (LC) at 20
+the view that this never happened the way the applicant explained and it was put to him that the explanation is highly improbable.
+
+[74]    There are two explanations tendered by the applicant for why he included two registration numbers in two categories in his response to Ms Le Roux. The first explanation is tendered two days after he provided Ms Le Roux with the numbers and he explained that he included the number of the counselling as he thought the themes he submitted could have been presented to both groups of interns. The second explanation he tendered in court and that was that he was busy with a client and quickly responded to Ms Le Roux's request and that he made a mistake.
+
+[75]    Ms Le Roux explained that the written submission of the registration numbers on 26 November 2008 was a confirmation of what the applicant told her on 24 November 2008.
+
+[76]    On 28 November 2008 the applicant tendered an explanation on why he included both numbers and made no mention of the client he was seeing and the fact that he responded in four minutes. He tried to explain the reason why he included two registration numbers yet in court he presented a different version and wanted to convince the Court that he was in a hurry and merely made a mistake. I cannot accept the applicant's explanation as tendered during trial.
+
+[77]    Charge 2 was the wilful refusal to comply with and/or open defiance of the University systems pertaining to electronic diary management and/or the applicant's failure to devote his full time and attention to the duties and responsibilities in that he made frivolous entries into his electronic diary, which is publically shared. The entries referred to "30 minute loo breaks" twice a day, meetings with "snow white, the seven dwarfs, super women and the tooth fairy". The conduct was regarded as inappropriate, unbecoming of a professional in the applicant's position and made a mockery of the professional integrity of the respondent.
+
+[78]    Dr Mkhatshwa and Professor Pretorius testified in respect of the entries made in the electronic diary. It was the respondent's evidence that there has been a history and background to diary management and entries as some employees  
+[2014] JOL 32066 (LC) at 21
+made fake entries into their diaries to ensure that their workload was kept to the minimum. This was a general complaint and even the applicant complained about it. An electronic diary management system was introduced and it was accessible internally to ensure that work was equally distributed amongst the available psychologists and that consultations could be scheduled on any of the campuses. The applicant made fictitious entries into his diary and he defiantly challenged the diary management system. Professor Pretorius testified that if a senior person such as the applicant made frivolous and fictitious entries in the diary as he did, it made a mockery of the system and of how psychologists should be available to render services.
+
+[79]    The applicant testified that he intended the diary entries to be humoristic and it was no reflection of the work he was doing. Under cross-examination he conceded that the entries were not acceptable, but maintained that it was not necessary to take disciplinary action against him for that.
+
+[80]    Charge 3 was gross insolence and/or disrespect for seniors in that the applicant addressed an electronic mail, copied to other professional staff, to Dr Thomas Mkhatshwa in which he stated that there was no senior professional person with management and executive skills on campus. This electronic mail undermined Dr Mkhatshwa's authority and improperly interfered with his management responsibilities and duties.
+
+[81]    The applicant testified that the electronic mail did not refer to Dr Mkhatshwa specifically and that Dr Mkhatshwa was too sensitive in taking the contents of the electronic mail so personally. He testified that he was referring to the campus where he was based and he meant that it would have been ideal if there could have been a full-time senior manager based on that campus. The applicant denied that he criticised Dr Mkhatshwa and stated that it was written with the best intentions.
+
+[82]    Professor Pretorius testified that the electronic mail was an insult addressed at all senior managers, it was a challenge to management, it undermined authority and created disharmony. She further testified that the applicant was disgruntled and according to him everybody was incompetent, the tone of his communication was never accommodating, his relationships with others were strained and he battled to adapt to the changes associated with the merger. 
+
+ 
+[2014] JOL 32066 (LC) at 22
+
+Dr Mkhatshwa testified that the electronic mail from the applicant offended, undermined and insulted him. The applicant insinuated that there were no senior people with management skills, whilst he was the senior manager, and he was spreading disharmony and disunity.
+
+[83]    Charge 4 was withdrawn and is thus not relevant.
+
+[84]    The applicant was found guilty of misrepresentation and gross dishonesty as per charge 1 and guilty on charges 2 and 3. Dismissal was recommended as an appropriate sanction.
+
+[85]    The applicant's case is that the respondent wanted to get rid of him after he made the disclosure. Ms Anderson argued that the applicant was not liked, he caused disharmony, Ms Le Roux was unhappy about losing her Saturday work and the respondent wanted him to leave and was happy to find something to charge him with. The respondent wanted to dismiss the applicant at all costs because of the disharmony he caused.
+
+[86]    These allegations were denied by Professor Pretorius and Ms Le Roux. The testimony was that the respondent intended to appoint the applicant as a supervisor to an intern for a period of 12 months, commencing in 2009, the UJ wanted to involve the applicant in additional training and he was part of the future planning of the Psycad unit. Mr Lennox submitted that the applicant, alleging that everyone was out to get him and to dismiss him, was unable to name one person who was so out to get him. He argued that there was no connection between the charges of misconduct and the disclosure the applicant made.
+
+[87]    All three the respondent's witnesses denied any link between the disclosure the applicant made and the disciplinary action taken.
+
+[88]    In cross-examination the applicant conceded that he has not adduced any evidence to link his disciplinary charges to the disclosure he made.
+
+[89]    Did the applicant in this matter present sufficient evidence to this Court to cast doubt on the reason for the dismissal put forward by the employer? In my view, the applicant failed in that respect and he has not discharged the evidentiary burden to show that the reason for his dismissal as put forward by  
+[2014] JOL 32066 (LC) at 23
+the respondent is in fact not the real reason. His version that the respondent wanted to get rid of him and badly so, is not supported by the evidence. I am not convinced that the respondent dismissed the applicant for any other reason than the charges of misconduct he was found guilty of.
+
+[90]    Was the disclosure made by the applicant the principal or dominant reason for the disciplinary action, which resulted in the applicant's dismissal? In my view, the applicant failed to show any nexus between the disclosure he made regarding Saturday work and the disciplinary action taken against him.
+
+[91]    Accordingly I find that the dismissal of the applicant was not automatically unfair as contemplated in section 187(1)(h) of the LRA.
+
+[92]    In the alternative it is the applicant's case that he was substantively unfairly dismissed as contemplated by section 188(1)(a) of the LRA and the parties agreed that in the event the applicant failed to show that his dismissal was automatically unfair, the Court would adjudicate the alternative claim in terms of section 158(2).
+
+[93]    The respondent showed that the misconduct the applicant was found guilty of was of a very serious nature, it impacted on the trust relationship so negatively that a continued employment relationship was not possible. The applicant conceded that he made a misrepresentation to the respondent when he was not registered with the HPCSA. This is very serious and the implications of this conduct are severe.
+
+[94]    I am of the view that in light of the evidence adduced by the parties and the concessions made by the applicant, the dismissal was justified and an appropriate sanction.
+
+[95]    I therefore find that the applicant's dismissal was fair.
+
+Costs
+
+[96]    Ms Anderson argued that costs should be considered against the provisions of section 162 of the LRA and according to the requirements of the law and fairness. She submitted that the respondent had a drive to get rid of the applicant, had an ulterior motive and that influenced the objectivity of the disciplinary proceedings. The applicant had all reason to feel unfairly treated  
+[2014] JOL 32066 (LC) at 24
+and to refer a dispute as he did. At the time the applicant referred his dispute, he was unaware of the facts as they were testified during the trial. The applicant had to have access to justice and he should not be penalised with a costs order. She submitted that each party should be ordered to pay its own costs, as this is a case where fairness dictates that no costs order should be made against the losing party.
+
+[97]    Mr Lennox, for the respondent, argued that the applicant's case is without any merit, it is frivolous, vexatious and he has not approached this Court in good faith. The applicant conceded that he was guilty of misrepresentation and he conceded to committing a criminal act and exposing the respondent and its clients. The Court's doors should be closed to litigants who approach the Court without merits. The applicant was a contradicting witness who blamed everyone else for his own conduct and referring this matter to Court is a gross abuse of process. It would be just and equitable if the applicant is to be ordered to pay the costs.
+
+[98]    Ms Anderson referred to a number of well-known authorities on costs. The general accepted purpose of awarding costs is to indemnify the successful litigant for the expense he or she has been put through by having been unjustly compelled to initiate or defend litigation. In considering whether costs should be awarded, the requirements of law and fairness become applicable.
+
+[99]    The requirement of law has been interpreted to mean that the costs would follow the result.
+
+[100]    In considering fairness, the Court has held that the conduct of the parties should be taken into account and that mala fides, unreasonableness and frivolousness are factors justifying the imposition of a costs order. Another factor to be considered is whether there is an ongoing relationship that would survive after the dispute had been resolved by the Court. If so, a costs order may damage the ongoing relationship. In my view, fairness would include fairness to both parties.
+
+[101]    In Wanless v Fidelity (Pty) Ltd9 the employee also referred an automatically unfair dismissal dispute and the Court, in considering whether to impose a  
+[2014] JOL 32066 (LC) at 25
+costs order on the applicant, noted that it had to discourage ill-conceived litigation, especially where the applicant had failed to establish even a factual basis for her claim.
+
+[102]    In Wallis v Thorpe and another10 the Court held:
+
+"In relation to costs, this court has a discretion in terms of s 162 to make an order for costs according to the requirements of the law and fairness. The ordinary rule, ie that costs follow the result, is a factor to be taken into account, but it is not a determinative factor. Mr. Rossouw submitted that costs should be awarded on a punitive scale, since the litigation initiated by the applicant was nothing less than frivolous. While there is some merit to Mr Rossouw's submission having regard particularly to the casual and careless attitude with which the applicant has conducted these proceedings since their inception, I intend to make an order for costs only on the ordinary scale. This litigation was ill-considered from the start . . .
+
+. . . Ultimately, the applicant is the author of his own misfortune. This court encounters many indigent and illiterate litigants who seek to enforce what they perceive to be their rights. The court is often wary of the effect of a costs order on persons such as these, who more often than not sincerely but misguidedly institute ill-conceived proceedings. The applicant in these proceedings is neither indigent, nor is he illiterate. On the contrary, he is an articulate, experienced business person, who was quite capable of considering the consequences of his decision . . ."
+
+[103]    The applicant instituted proceedings against the respondent because he made a protected disclosure and was dismissed as a result of the disclosure he so made. This was the case the respondent had to answer. Yet in Court the applicant conceded a serious charge of misconduct he was found guilty of and dismissed for, he conceded a criminal act, he led no evidence to substantiate his allegation that he disclosed fraudulent and corrupt activities and his testimony did not indicate any nexus between the disclosure and the disciplinary action. He did not establish any factual basis for his claim for automatic unfair dismissal and he did not even cross the very first hurdle to show that the information he disclosed could be regarded as a disclosure for purposes of the PDA.
+
+ 
+[2014] JOL 32066 (LC) at 26
+
+[104]    The applicant is a very well-educated individual who holds a number of tertiary degrees and who has wide experience. He is more than capable to consider and understand the consequences of instituting litigation in a court of law and the risk of losing and paying costs.
+
+[105]    The respondent had to defend a case of which the merits were doubtful from the onset and fairness dictates that the respondent cannot be expected to endure enormous costs defending litigation that ought not to have been brought in the first place.
+
+[106]    I further consider the fact that there is no ongoing relationship between the parties.
+
+[107]    In the premises I make the following order:
+
+Order
+
+The applicant's case is dismissed with costs.
+Cost to be paid on a party and party scale.
+
+
+Footnotes
+1	 Act 26 of 2000.
+2	 2007 (4) SA 135 (LC), (2007) 28 ILJ 195 (LC) [also reported at [2006] JOL 16856 (LC) – Ed] at para [176].
+3	 (2003) 24 ILJ 1670 (LC) [also reported at [2003] JOL 11147 (LC) – Ed] at para [21].
+4	 (2008) 29 ILJ 1995 (LC) [also reported at [2009] JOL 23676 (LC) – Ed].
+5	 Act 66 of 1995.
+6	 (2006) 27 ILJ 2627 (LC) [also reported at [2006] 12 BLLR 1156 (LC) – Ed] at para [10].
+7	 (2005) 26 ILJ 2153 (LAC) [also reported at [2006] JOL 15771 (LAC) – Ed] at para [28].
+8	Id at para [18].
+9	 (2008) 29 ILJ 2030 (LC) [also reported at [2008] JOL 21522 (LC) – Ed].
+10	 (2010) 31 ILJ 1254 (LC).
+
+Appearance:
+Ms R Anderson, Riki Anderson Attorneys (At); Adv Lennox, Mahons Attorneys (R)
+
+
+End of Document

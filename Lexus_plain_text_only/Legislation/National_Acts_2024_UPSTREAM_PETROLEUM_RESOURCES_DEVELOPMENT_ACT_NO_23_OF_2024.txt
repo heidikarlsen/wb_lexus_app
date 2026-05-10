@@ -1,0 +1,1784 @@
+
+
+
+
+(ZA) UPSTREAM PETROLEUM RESOURCES DEVELOPMENT ACT, NO. 23 OF 2024
+South Africa National Acts
+[ASSENTED TO 25 OCTOBER, 2024]
+[DATE OF COMMENCEMENT: TO BE PROCLAIMED]
+This Act was published in Government Gazette 51463 dated 29 October, 2024.
+
+
+National Acts  >  ZA Principal Acts  >  U  >  Upstream Petroleum Resources Development Act, No. 23 of 2024
+
+(English text signed by the President)
+
+This Act was published in Government Gazette 51463 dated 29 October, 2024.ACT
+
+To provide for orderly development of petroleum resources; to provide for equitable access to, and sustainable development of, the nation’s petroleum resources; to provide for active State and black persons’ participation in the development of the nation’s petroleum resources; to provide for a petroleum right that integrates the right to explore and to produce; to provide for the facilitation of acquisition of petroleum geo-technical data; to provide for a controlled application system through licensing rounds; to create an enabling environment for the acceleration of exploration and production of the nation’s petroleum resources; to provide for third party access to upstream petroleum infrastructure; to provide for a petroleum right holder to sell a percentage of petroleum to the State for strategic stock requirements; to designate a state-owned company as an entity responsible for managing the State’s carried interest in petroleum rights; to provide for the advancement of national developmental imperatives by the state-owned company through the development of petroleum resources; to provide for the holder of a petroleum right to retain its empowerment status after the exit of black persons under circumscribed circumstances; to provide for local content as a development strategy to enable skills development, local recruitment and national participation through supply of goods and services; to designate the Petroleum Agency of South Africa as the regulatory authority for the upstream petroleum sector; and to provide for matters connected therewith.
+PREAMBLE
+
+ACKNOWLEDGING that South Africa’s petroleum resources belong to the nation and that the State is the custodian thereof;
+
+RECOGNISING that petroleum resources are non-renewable natural resources and must contribute to South Africa’s social and economic development;
+
+FURTHER RECOGNISING the need to accelerate petroleum exploration and production; and
+
+REAFFIRMING the State’s commitment to regulatory certainty and guaranteeing security of tenure in respect of petroleum rights,
+BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows—
+ARRANGEMENT OF SECTIONS
+CHAPTER 1 DEFINITIONS
+1. Definitions
+CHAPTER 2 FUNDAMENTAL PRINCIPLES
+2. Objects of Act
+3. Custodianship of nation’s petroleum resources
+4. Interpretation of Act
+5. Legal nature of petroleum right, and rights of holders thereof
+6. Prohibition relating to illegal acts
+7. Principles of administrative justice
+CHAPTER 3 ADMINISTRATION OF ACT
+8. Administration of acreage
+9. Designation of Petroleum Agency
+10. Functions of Petroleum Agency
+11. Funding of Petroleum Agency
+12. Accounting by Petroleum Agency
+CHAPTER 4 PETROLEUM REGULATION OF ACT
+13. Licensing rounds
+14. Duration of reconnaissance permit and petroleum right
+15. Competitive administrative licensing round for petroleum right
+16. Competitive administrative licensing round for reconnaissance permit
+17. Acceptance of applications
+18. Rejection of applications
+19. Consultation with interested and affected parties by Petroleum Agency
+20. Consultation with affected parties by applicant
+21. Establishment of Petroleum Development and Environmental Committee
+22. Functions of Committee
+23. Composition of Committee
+24. Disqualification from membership
+25. Vacation of office
+26. Term of office and filling of vacancies
+27. Report of Committee
+28. Transferability and encumbrance of petroleum right
+29. Granting of transfer or encumbrance of petroleum right
+30. Partitioning of petroleum right
+31. Participation of black persons in petroleum rights
+32. Reservation of block or blocks for black persons
+33. Exit of black persons from petroleum right
+34. State participation in petroleum right
+35. Development of petroleum resources to advance national developmental imperatives
+36. Strategic stock obligations
+37. Open licensing round
+38. Application for reconnaissance permit
+39. Granting and duration of reconnaissance permit
+40. Rights of reconnaissance permit holder
+41. Obligations of reconnaissance permit holder
+42. Notarial execution of permit, right or deed of amendment
+43. Application for petroleum right
+44. Granting and duration of petroleum right
+45. Minimum work commitment and annual plans
+46. Application for approval to progress to next term (exploration phase)
+47. Approval of application to progress to next term
+48. Refusal of application to progress to next term
+49. Rights of petroleum right holder
+50. Obligations of petroleum right holder
+51. Manner of conducting exploration operations
+52. Application for drilling permit
+53. Permission to produce petroleum and conduct tests during exploration
+54. Discovery of petroleum and appraisal
+55. Discovery not worthy of appraisal
+56. Extension of exploration phase period
+57. Declaration of commercial discovery
+58. Application for approval to progress to production phase
+59. Approval of application to progress to production phase
+60. Refusal of application to progress to production phase
+61. Postponement of development
+62. Application for approval to progress to next term (production phase)
+63. Approval of application to progress to next term (production phase)
+64. Review of petroleum right
+65. Manner of conducting production operations
+66. Measurement of petroleum
+67. Ascertainment of petroleum produced
+68. Third party access to upstream petroleum infrastructure
+69. Application for retention permit
+70. Granting and duration of retention permit
+71. Refusal of application for retention permit
+72. Application for renewal of retention permit
+73. Granting of renewal of retention permit
+74. Refusal of application for renewal of retention permit
+75. Rights and obligations of retention permit holder
+76.  Vis major
+77. Unitisation
+78. Cross-border cooperation and unitisation
+79. Information and data
+80. Disclosure of information and data
+81. Samples
+82. Minister’s power to direct submission of specified information or data
+83. Environmental authorisations
+84. Issuing of closure certificate
+85. Removal of buildings, structures and other objects
+86. Approval of joint operating agreements
+87. Financial guarantee for petroleum operations
+88. Minister’s power to suspend or cancel permit or right
+89. Restriction or prohibition of exploration and production on certain land or block
+90. Optimal production of petroleum resources
+91. Compensation payable under certain circumstances
+92. Minister’s power to expropriate property for purpose of exploration or production
+93. Lapsing of right, permit or permission
+CHAPTER 5 GENERAL AND MISCELLANEOUS PROVISIONS
+94. Power to enter petroleum right area
+95. Routine inspections
+96. Orders, suspensions and instructions
+97. Prohibition of obstruction, hindering or opposing of authorised person
+98. Prohibition of occupational detriment against employee
+99. Internal appeal process and access to courts
+100. Serving of documents
+101. Offences
+102. Penalties
+103. Administrative penalty
+104. Appointment of operator
+105. Amendment of rights, permits, work commitments, programmes and plans
+106. Delegation and assignment
+107. Regulations
+108. Proof of facts
+109. Act binds State
+110. Transitional arrangements and amendment of laws
+111. Short title and commencement
+SCHEDULES
+Schedule 1 Transitional Arrangements
+1. Definitions
+2. Objects of Schedule
+3. Pending applications
+4. Continuation of permission to remove and dispose
+5. Continuation of social and labour plan
+6. Continuation of reconnaissance permit.—
+7. Transition of technical cooperation permit to petroleum right
+8. Conversion of exploration right to petroleum right (exploration phase)
+9. Conversion of exploration right to petroleum right (production phase)
+10. Conversion of production right to petroleum right
+11. Application of National Environmental Management Act to petroleum right
+Schedule 2 Amendment of Laws
+
+CHAPTER 1   DEFINITIONS  
+1.     Definitions.  
+
+In this Act, unless the context indicates otherwise—
+“acreage”    means any area of land or sea, including the sea bed, identified as a block by co-ordinates on a map prepared by the Petroleum Agency and situated wholly or partly in the Republic or its exclusive economic zone, and includes any part of such block;
+“administrative action   ” means administrative action as defined in section 1 of the Promotion of Administrative Justice Act, 2000 (Act No. 3 of 2000);
+“appraisal operations   ” means any operation, study, activity to appraise and evaluate the extent and volume of petroleum within a discovery made by the holder in the petroleum area for purposes of determining whether the discovery is in such quantities as will permit the economic development thereof on its own or in combination with other existing discoveries as part of a unitised development;
+“appraisal work programme   ” means the approved appraisal work programme indicating the operations to be conducted in the appraisal area during the validity of the petroleum right, including—
+(a)   the details regarding the appraisal activities, phases and equipment to be used; and
+(b)   estimated expenditures for the different appraisal activities and phases;
+“black person”    is—
+(a)   for purposes of section 31—
+(i)   a generic term which means Africans, Coloureds and Indians—
+(aa)   who are citizens of the Republic by birth or descent; or
+(bb)   who became citizens of the Republic by naturalisation—
+
+(aaa) before 27 April 1994; or
+
+(bbb) on or after 27 April 1994 and who would have been entitled to acquire citizenship by naturalisation prior to that date; or
+(ii)   a juristic person which is managed and controlled by persons contemplated in subparagraph (i) (aa) or (bb), and the persons collectively or as a group own and control 50 plus one per cent of the issued share capital or members’ interest, and are able to control the majority of the members’ vote; and
+(b)   for purposes of section 32—
+(i)   a generic term which means Africans, Coloureds and Indians—
+(aa)   who are citizens of the Republic by birth or descent; or
+(bb)   who became citizens of the Republic by naturalisation—
+
+(aaa) before 27 April 1994; or
+
+(bbb) on or after 27 April 1994 and who would have been entitled to acquire citizenship by naturalisation prior to that date; or
+(ii)   a juristic person which is managed and controlled by persons contemplated in subparagraph (i) (aa) or (bb), and the persons collectively or as a group own and control all issued share capital or members’ interest, and are able to control the majority of the members’ vote;
+“carried interest”    means State participation through an interest in a petroleum right as contemplated in section 34, which interest vests exclusively for the benefit of the State and the costs of which are borne by the carrying holder of a petroleum right;
+“carrying holder”    means any other holder of an undivided participation interest in a petroleum right, except black persons as defined in this Act;
+“Chief Inspector”    means the Chief Inspector of petroleum operations appointed in terms of applicable legislation regulating upstream petroleum health and safety;
+“commercial discovery”    means the discovery of petroleum within the petroleum right area in such quantities as will permit the economic development thereof, on its own or in combination with other existing discoveries or as part of a unitised development;
+“Committee”    means the Petroleum Development and Environmental Committee established in terms of section 21;
+“Constitution”    means the Constitution of the Republic of South Africa, 1996;
+“controlling interest”   , in relation to—
+(a)   a company, means the majority of the voting rights attaching to all classes of shares in the company;
+(b)   any other business, other than a company referred to in paragraph (a) or a petroleum right, means any interest which enables the holder thereof to exercise directly or indirectly any control whatsoever over the activities or assets of the business or a petroleum right;
+“day”    means a calendar day, excluding a Saturday, Sunday or public holiday, and when any particular number of days are prescribed for the performance of any act, those days must be reckoned by excluding the first and including the last day;
+“deep water”    means water depths above 301 meters;
+“Department”    means the Department of Mineral Resources and Energy;
+“development”    means the installation of facilities for production, drilling of development wells, construction and installation of equipment, pipelines, facilities, plants and systems which are required for production, treatment, transportation, storage and lifting of petroleum, including the construction and installation of approved secondary and tertiary recovery systems carried out in connection with development;
+“development programme”    means the development programme referred to in section 59;
+“Director-General”    means the Director-General of the Department;
+“discovery”    means the discovery by the holder of a petroleum right of petroleum within the petroleum right area;
+“employee”    means any person who works for the holder and who is entitled to receive any remuneration, and includes any person working for an independent contractor;
+“environment”    means the environment as defined in section 1 of the National Environmental Management Act;
+“environmental authorisation”    has the meaning assigned to it in section 1 of the National Environmental Management Act;
+“exploration operation”    means any operation carried out for, or in connection with, the exploration of petroleum, and includes the reprocessing of existing seismic data, acquisition and processing of new seismic data or any other related activity to define a trap to be tested by drilling, logging and testing, including extended well testing with the intention of locating a discovery, and appraisal operations;
+“exploration right”    means an exploration right granted in terms of section 80 of the Mineral and Petroleum Resources Development Act;
+“gas”    means any hydrocarbon which at a temperature of 21 degrees Celsius and a pressure of one atmosphere, is in a gaseous phase existing in a natural condition in the earth’s crust, regardless of the nature of the host rock, and includes condensate of such gas, but does not include hydrocarbon gas obtained by destructive distillation or gas arising from a marsh or other surface deposit;
+“holder”   , in relation to a retention permit, exploration right, production or petroleum right, reconnaissance permit or technical co-operation permit, means the person to whom such right or permit has been granted or such person’s successor in title;
+“land”    includes the surface of the land and the sea, where appropriate;
+“listed company”    means a ‘listed company’ as defined by the Income Tax Act, 1962 (Act No. 58 of 1962);
+“Mineral and Petroleum Resources Development Act”    means the Mineral and Petroleum Resources Development Act, 2002 (Act No. 28 of 2002);
+“Mineral and Petroleum Titles Registration Office”    means the Mineral and Petroleum Titles Registration Office contemplated in section 2 of the Mining Titles Registration Act, 1967 (Act No. 16 of 1967);
+“minimum work commitment”    means the approved minimum exploration work programme indicating the petroleum exploration operations to be conducted on the petroleum right area during the validity of the petroleum right, including the details regarding the exploration activities, phases, equipment to be used and estimated expenditures for the different exploration activities and phases;
+“Minister”    means the Minister responsible for mineral resources and energy;
+“National Environmental Management Act”    means the National Environmental Management Act, 1998 (Act No. 107 of 1998);
+“National Water Act”    means the National Water Act, 1998 (Act No. 36 of 1998);
+“officer”    means any employee of Petroleum Agency;
+“owner”   , in relation to land—
+(a)   means a person in whose name the land is registered; or
+(b)   if it is land owned by the State, means the State together with any occupant thereof;
+“petroleum”    means any liquid, solid hydrocarbon or combustible gas existing in a natural condition in the earth’s crust, and includes associated liquid or gas, any liquid or solid hydrocarbon or combustible gas, but does not include coal, bituminous shale or other stratified deposits from which oil can be obtained by destructive distillation or gas arising from a marsh or other surface deposit;
+“Petroleum Agency”    refers to the South African Agency for Promotion of Petroleum Exploration and Exploitation (SOC) Ltd, Registration No. 1999/015715/30 as designated in terms of section 9;
+“petroleum reservoir”    means a geological formation containing petroleum;
+“petroleum right”    means a right granted in terms of section 44 to explore for and produce petroleum;
+“petroleum right area”    means the area covered by the petroleum right in which the holder is authorised to explore for, develop and produce petroleum, but excludes areas relinquished in accordance with the provisions of this Act;
+“Public Finance Management Act”    means the Public Finance Management Act, 1999 (Act No. 1 of 1999);
+“prescribed”    means prescribed by regulation;
+“production operation”    means any operation carried out in connection with the extraction of petroleum, and includes any activity or matter that relates to the exploration, appraisal, development and extraction of petroleum;
+“production right”    means a production right granted in terms of section 70 of the Mineral and Petroleum Resources Development Act;
+“Promotion of Access to Information Act”    means the Promotion of Access to Information Act, 2000 (Act No. 2 of 2000);
+“reconnaissance operation”    means any operation carried out for or in connection with the search for petroleum by geological, geophysical and photo geological surveys and includes any remote sensing techniques but does not include any exploration operation other than acquisition and processing of new seismic data;
+“reconnaissance permit”    means a permit granted in terms of section 39;
+“record”    means recorded information regardless of form or medium;
+“regional manager”    has the meaning assigned to it in terms of the Mineral and Petroleum Resources Development Act;
+“regulation”    means any regulation made under section 107;
+“retention permit”    means a permit granted in terms of section 70;
+“shallow water”    means water depths equal to or less than 300 meters;
+“State”    means the Republic of South Africa;
+“strategic stock”    means petroleum that must be held by the State to cater for severe fuel supply disruptions in South Africa;
+“royalties”    means any royalties payable to the State in terms of an Act of Parliament;
+“sustainable development”    has the meaning assigned to it in section 1 of the National Environmental Management Act;
+“technical co-operation permit”    means a technical co-operation permit issued in terms of section 77 of the Mineral and Petroleum Resources Development Act;
+“the sea”    has the meaning assigned to it by the National Environmental Management: Integrated Coastal Management Act, 2008 (Act No. 24 of 2008), and includes the territorial waters, the exclusive economic zone and the continental shelf as contemplated in the Maritime Zones Act, 1994 (Act No. 15 of 1994);
+“third party”    means any person or entity other than a partner or an affiliate of a holder of a permit or right granted in terms of this Act;
+“this Act”    includes the regulations;
+“upstream petroleum infrastructure”    means upstream petroleum pipeline, relevant oil processing facility and relevant gas processing facility including equipment used in the production, extraction, recovery, lifting or stabilisation of petroleum;
+“upstream petroleum operations”    means the exploration and production of oil and gas, which includes conducting geological and geophysical surveys and development activities such as the drilling of onshore and offshore wells;
+“well”    means a borehole made by drilling or for purposes of exploration or production operations; and
+“wellhead”    means equipment used in drilling, completing or operating the wells.
+CHAPTER 2   FUNDAMENTAL PRINCIPLES  
+2.     Objects of Act.  
+
+The objects of this Act are to—
+(a)   recognise the internationally accepted right of the State to exercise sovereignty over all the petroleum resources within the Republic;
+(b)   give effect to the principle of the State’s custodianship of the nation’s petroleum resources;
+(c)   promote equitable access to the nation’s petroleum resources to all the people of South Africa;
+(d)   substantially and meaningfully expand opportunities for black persons, to enter into and actively participate in the upstream petroleum sector and to benefit from the exploitation of the nation’s petroleum resources;
+(e)   promote local employment, skills development, technology transfer and national industry participation through supply of goods and services;
+(f)   promote economic growth and petroleum resources development in the Republic;
+(g)   advance the social and economic welfare of all South Africans;
+(h)   provide for security of tenure in respect of exploration and production operations;
+(i)   give effect to section 24 of the Constitution by ensuring that the nation’s petroleum resources are developed in an orderly and ecologically sustainable manner while promoting justifiable social and economic development;
+(j)   accelerate exploration and production, and maximise the economic recovery of petroleum for the benefit of the people of South Africa;
+(k)   provide the framework for developing third party access arrangements to upstream petroleum infrastructure; and
+(l)   promote and facilitate acquisition of petroleum geo-technical data.
+3.     Custodianship of nation’s petroleum resources.  
+(1)    Petroleum resources are the common heritage of all the people of South Africa and the State is the custodian thereof for the benefit of all South Africans.
+(2)    As the custodian of the nation’s petroleum resources, the State, acting through the Minister, may—
+(a)   grant, issue, refuse, control, administer and manage any reconnaissance permit, permission to remove, retention permit and petroleum right; and
+(b)   prescribe administrative fees and any other fees payable in terms of this Act.
+(3)    The Minister must ensure the sustainable development of South Africa’s petroleum resources within a framework of national environmental policy while promoting economic and social development.
+4.     Interpretation of Act.  
+(1)    When interpreting a provision of this Act, any reasonable interpretation which is consistent with the objects of this Act must be preferred over any other interpretation which is inconsistent with such objects.
+(2)    In so far as the common law is inconsistent with this Act, this Act prevails.
+5.     Legal nature of petroleum right, and rights of holders thereof.  
+(1)    A petroleum right granted in terms of this Act and registered in terms of the Mining Titles Registration Act, 1967 (Act No. 16 of 1967), is a limited real right in respect of the petroleum and the block or blocks to which such a right relates.
+(2)    The holder of a petroleum right is entitled to the rights referred to in this section and such other rights as may be granted to, acquired by or conferred upon such holder under this Act or any other law.
+(3)    Subject to this Act, any holder of a petroleum right may—
+(a)   enter the land, block or blocks to which such right relates together with his or her employees, and bring onto that block or blocks any plant, machinery or equipment and build, construct or lay down any surface, underground or undersea infrastructure which may be required for the purpose of exploration or production, as the case may be;
+(b)   explore for or produce petroleum, as the case may be, for his or her own account on or under such land, block or blocks;
+(c)   remove and dispose of any petroleum that is produced;
+(d)   subject to the National Water Act, use water from any natural spring, lake, river or stream, situated on, or flowing through, such land, block or blocks or from any excavation previously made and used for exploration or production purposes, or sink a well or borehole required for use relating to exploration or production on such land, block or blocks; and
+(e)   carry out any other activity incidental to exploration or production operations, which activity does not contravene the provisions of this Act.
+6.     Prohibition relating to illegal acts.  
+
+No person may conduct reconnaissance operations, explore for and produce any petroleum or commence with any work incidental thereto on any block or blocks without—
+(a)   a reconnaissance permit, permission to remove, exploration right, production right or petroleum right, as the case may be; and
+(b)   giving the Petroleum Agency, owner or lawful occupier of the land in question at least 21 days’ written notice prior to commencement.
+7.     Principles of administrative justice.  
+(1)    Subject to the Promotion of Administrative Justice Act, 2000 (Act No. 3 of 2000), any administrative action in terms of this Act must be taken within a reasonable time and in accordance with the principles of lawfulness, reasonableness and procedural fairness.
+(2)    Any administrative action contemplated in subsection (1) must be in writing and accompanied by written reasons.
+(3)    The Petroleum Agency must, within 30 days from the date of granting of an application lodged in terms of section 15, 16 or 38 make known, in the prescribed manner, that an application for a reconnaissance permit or petroleum right has been granted in respect of the land, block or blocks in question.
+CHAPTER 3   ADMINISTRATION OF ACT  
+8.     Administration of acreage.  
+(1)    All acreage for exploration, development and production of petroleum in South Africa must be administered by the Petroleum Agency in accordance with this Act and any other relevant law.
+(2)    The Petroleum Agency must, by notice in the Gazette, designate any area, block or blocks, including shale gas acreage, over which there is no or limited knowledge of the geology as frontier.
+(3)    The Petroleum Agency must adopt a national grid system for petroleum acreage management, which must include, but is not limited to, the following—
+(a)   A coordinate system;
+(b)   a numbering system;
+(c)   subdivisions and aggregation of blocks within the grid system;
+(d)   the delineation of licence areas; and
+(e)   such other regulatory and acreage management procedures as may be applicable.
+(4)    The size of the block or blocks in respect of existing permits or rights granted before the coming into effect of this Act may not be reduced as a result of subsection (3) (c).
+9.     Designation of Petroleum Agency.  
+
+The Petroleum Agency is designated to perform functions referred to in section 10.
+10.     Functions of Petroleum Agency.  
+
+The Petroleum Agency must—
+(a)   provide technical support to the Minister for the promotion of onshore and offshore exploration and production of petroleum;
+(b)   formulate exploration strategy that includes acquisition of seismic data through non-exclusive multi-client speculative surveys in frontier or under explored areas ahead of licensing rounds;
+(c)   formulate licence allocation strategy that includes delineation of blocks to be licensed, licensing guidelines for each invitation, and licensing terms and conditions that reflect the risk profile of the specific areas;
+(d)   ensure optimal levels of recovery of petroleum resources;
+(e)   verify the measurements of petroleum production to allow for assessment of royalties and revenue due to the State;
+(f)   receive and evaluate applications for reconnaissance permits, petroleum rights and retention permits in terms of this Act and make recommendations to the Minister;
+(g)   monitor, enforce compliance and report regularly to the Minister in respect of compliance with such permits or rights;
+(h)   receive, maintain, store, interpret, evaluate, add value to, disseminate or deal in, all geo-technical data relating to petroleum submitted in terms of section 79;
+(i)   enforce health, safety and quality standards in accordance with the applicable legislation regulating upstream petroleum health and safety;
+(j)   bring to the notice of the Minister any information in relation to the exploration and production of petroleum which is likely to benefit the State;
+(k)   collect the prescribed fees in respect of reconnaissance permits, retention permits and petroleum rights;
+(l)   set, review and approve tariffs and charges for third party access to upstream petroleum infrastructure in consultation with the National Energy Regulator of South Africa;
+(m)   receive and review applications for environmental authorisations in terms of the National Environmental Management Act, and make recommendations to the Minister; and
+(n)   perform any other function in respect of petroleum resources which the Minister may determine from time to time.
+11.     Funding of Petroleum Agency.  
+(1)    Funds of the Petroleum Agency consist of—
+(a)   moneys appropriated by Parliament;
+(b)   moneys received by way of a State grant, contribution or investment;
+(c)   fees payable in terms of this Act; and
+(d)   revenue received from the sale of petroleum geo-technical data.
+(2)    The Petroleum Agency must utilise its funds to defray the expenses incurred in the performance of its functions under this Act.
+(3)    Moneys received by way of any State grant or contribution in accordance with subsection (1) (b) must be utilised in accordance with any conditions so imposed by the grantor or contributor.
+(4)    The Petroleum Agency may, with the approval of the Minister, provide technical and consulting services and assistance to equivalent agencies of other countries.
+12.     Accounting by Petroleum Agency.  
+(1)    The Petroleum Agency must perform its functions and report in accordance with the Public Finance Management Act and any other Act of Parliament.
+(2)    The Petroleum Agency must open one or more accounts in its name with one or more financial institutions registered as a bank in terms of the Banks Act, 1990 (Act No. 94 of 1990), and deposit therein all moneys received from the sources contemplated in section 11.
+(3)    The financial records of the Petroleum Agency must be audited in accordance with the Public Audit Act, 2004 (Act No. 25 of 2004).
+(4)    The financial year of the Petroleum Agency starts on 1 April of each year and ends on 31 March of the following year.
+CHAPTER 4   PETROLEUM REGULATION  
+13.     Licensing rounds.  
+(1)    No person, except as provided for in this Act, may conduct activities relating to exploration for, or production of, petroleum activities without a permit or a right granted in terms of this Act.
+(2)    The Minister may, periodically, on recommendation by the Petroleum Agency, initiate competitive administrative or open licensing rounds by publishing an invitation notice in the Gazette.
+(3)    A petroleum right may be granted only to a company incorporated in South Africa under the Companies Act, 2008 (Act No. 71 of 2008).
+(4)    Where a petroleum right is to be held through an unincorporated joint venture, all companies that are parties to the joint venture must be incorporated in South Africa as contemplated in subsection (3).
+(5)    A holder of a petroleum right must maintain an office in South Africa from which the petroleum activities will be managed.
+14.     Duration of reconnaissance permit and petroleum right.  
+(1)    A reconnaissance permit is valid for a period not exceeding two years.
+(2)    A petroleum right granted in relation to onshore and offshore acreage in shallow waters is valid—
+(a)   in respect of the exploration phase, for a total period of nine years, made up of—
+(i)   an initial term of three years; and
+(ii)   a second, third and fourth term of two years each; and
+(b)   in respect of the production phase, for an unlimited period, made up of—
+(i)   an initial term of 30 years; and
+(ii)   further terms of 10 years each.
+(3)    A petroleum right granted in relation to acreage designated as frontier, as contemplated in section 8 (2), and offshore acreage in deep waters is valid—
+(a)   in respect of the exploration phase, for a total period of 14 years, made up of—
+(i)   an initial term of five years; and
+(ii)   a second, third and fourth term of three years each; and
+(b)   in respect of the production phase, for an unlimited period, made up of—
+(i)   an initial term of 30 years; and
+(ii)   further terms of 10 years each.
+(4)    The holder may, from the second term, structure the period for each term according to the nature and dynamics of the project, subject to—
+(a)   approval by the Petroleum Agency; and
+(b)   such structuring not delaying exploration or defeating the object referred to in section 2 (k).
+(5)    The period of validity—
+(a)   of a permit or a right granted in terms of this Act must be reckoned from the date on which the relevant permit or right is notarially executed as contemplated in section 42; and
+(b)   of terms within the exploration and production phases must be reckoned from the date on which the deed of amendment of the right to record the new term is notarially executed.
+(6)    Where any court proceedings, affecting reconnaissance, exploration or petroleum operations, are instituted immediately before or during the period of validity of a reconnaissance permit or petroleum right, the running of the period of validity shall be suspended until the finalisation of those court proceedings.
+15.     Competitive administrative licensing round for petroleum right.  
+(1)    The Minister may, by notice in the Gazette, invite applications for a petroleum right in respect of block or blocks as specified in the notice, and may prescribe in such notice the period within which such applications may be lodged with the Petroleum Agency.
+(2)    The notice contemplated in subsection (1) must be accompanied by the licensing round guidelines setting out, amongst others, the following—
+(a)   Processes, rules, standards and evaluation parameters;
+(b)   minimum work commitment for the initial term of the exploration phase;
+(c)   a projected long-term exploration work programme;
+(d)   a list of documents required for the evaluation of technical and financial competence;
+(e)   the details and cost of available data packages;
+(f)   any documentation required to indicate the ownership structure of the applicant;
+(g)   the prescribed non-refundable application fee;
+(h)   the terms and conditions subject to which applications received may be accepted, rejected, granted or refused; and
+(i)   any other information considered relevant by the Minister.
+(3)    The terms and conditions referred to in subsection (2) (h) must be necessary for the achievement of the objects referred to in section 2.
+(4)    Applications received pursuant to a notice contemplated in subsection (1) and section 16 (1) must be processed in accordance with the relevant provisions of this Act, the licensing round guidelines, including the terms and conditions that will accompany the notice contemplated in subsection (1).
+(5)    Notwithstanding the publication of a notice contemplated in subsection (1) and section 16 (1), the Minister is not obliged to grant any permit or petroleum right pursuant to an application so received.
+16.     Competitive administrative licensing round for reconnaissance permit.  
+(1)    The Minister may, by notice in the Gazette, invite applications for a reconnaissance permit from seismic companies to acquire seismic data on a non-exclusive multi-client speculative business model in respect of a block or blocks, or in respect of a wide regional area comprising multiple blocks or areas as specified in the notice.
+(2)    A notice contemplated in subsection (1) may be in relation to multiple blocks or areas which are encumbered by exploration, production or petroleum rights for purposes of enabling the State to assess the geological potential and establish prospectivity of a wider regional area.
+(3)    A notice contemplated in subsection (1) must prescribe the period within which such applications may be lodged with the Petroleum Agency.
+(4)    The Minister may grant a reconnaissance permit over an area encumbered by exploration, production and petroleum rights—
+(a)   after consultation with the holders of the rights in question;
+(b)   on condition that the reconnaissance activities will not unreasonably interfere with the activities of the holder of rights;
+(c)   subject to terms and conditions to be agreed upon between the Petroleum Agency and the successful seismic company; and
+(d)   if the granting will promote and facilitate the acquisition of petroleum geo-technical data as contemplated in section 2 (l).
+(5)    Notwithstanding the provisions of subsection (1), applications for reconnaissance permits may be lodged in terms of section 34 in the prescribed manner with the Petroleum Agency at any time.
+17.     Acceptance of applications.  
+(1)    The Petroleum Agency must, within 14 days, acknowledge receipt of an application lodged in terms of section 15 or 16 in writing.
+(2)    The Petroleum Agency must, within 90 days from the last day of the period within which applications may be lodged, as contemplated in section 15 (1) or 16 (3), as the case may be, accept only one successful application that will proceed to environmental authorisation application and consultation processes if the following requirements are satisfied—
+(a)   The proposed—
+(i)   minimum work commitment, associated time lines and projected long-term exploration programme are the most competitive and will enable the acceleration of exploration and production of petroleum resources as envisaged in section 2 (j); or
+(ii)   seismic survey and processing of data acquired will deploy advanced technologies, offering the State an opportunity to get high quality seismic data;
+(b)   the applicant has proven adequate financial resources and the technical ability to conduct the proposed reconnaissance, exploration or production operations, optimally, in accordance with the reconnaissance programme or the minimum work commitment, as the case may be;
+(c)   the application complies with the terms and conditions stipulated in the invitation notice; and
+(d)   the applicant has the ability to comply with relevant prescribed provisions relating to upstream petroleum health and safety.
+18.     Rejection of applications.  
+(1)    If the Petroleum Agency rejects an application lodged in terms of section 15 or 16, the Petroleum Agency must, within 30 days of the decision, notify the applicant in writing of the decision and the reasons therefor.
+(2)    A person aggrieved by a decision of the Petroleum Agency contemplated in subsection (1) may appeal in accordance with section 99.
+19.     Consultation with interested and affected parties by Petroleum Agency.  
+(1)    The Petroleum Agency must, within 14 days from the date of acceptance of an application lodged in terms of section 15, 16, or 38—
+(a)   make known, in the prescribed manner, that an application for a reconnaissance permit or petroleum right has been accepted in respect of the block or blocks in question;
+(b)   call upon interested and affected persons to submit their comments and objections regarding the application, within 30 days from the date of the notice, to the Petroleum Agency.
+(2)    The Petroleum Agency, having regard to the consultation report in respect of the consultation process undertaken by the applicant, may conduct public hearings on the application that has been accepted as contemplated in sections 17, 38 (2) and 43 (2) within the prescribed period after receiving a consultation report from the applicant.
+(3)    If a person objects to an application for a reconnaissance permit or petroleum right, the Petroleum Agency—
+(a)   must refer the objection to the Petroleum Development and Environmental Committee to consider the objections and to advise the Minister thereon; and
+(b)   may refer the objection and comments to the applicant to consult with the person objecting and submit the results of the consultation to the Petroleum Agency within 60 days.
+(4)    Should the consultation contemplated in subsection (3) (b) result in an agreement, such agreement must be reduced to writing and forwarded to the Petroleum Agency for noting and onward transmission to the Petroleum Development and Environmental Committee.
+(5)    If the applicant and the objecting person fail to reach an agreement, the objection must be referred to the Petroleum Development and Environmental Committee.
+20.     Consultation with affected parties by applicant.  
+(1)    The Petroleum Agency must, within 14 days from the date of acceptance of an application lodged in terms of section 15, 16 or 38, notify the applicant in writing to—
+(a)   consult in the prescribed manner with the owner, lawful occupier and any affected party;
+(b)   submit the consultation report to the Petroleum Agency, within 60 days from the date of acceptance of the application; and
+(c)   where applicable, apply for an environmental authorisation in terms of the National Environmental Management Act.
+(2)    The Petroleum Agency must attend consultation processes undertaken by the applicant as contemplated in subsection (1) (a) to ensure that the process is transparent, fair and meaningful.
+(3)    The applicant must notify the Petroleum Agency, and provide the Petroleum Agency proof in the prescribed manner of steps taken to trace the owner, lawful occupier or successor in title, if the owner or lawful occupier of the land concerned—
+(a)   cannot be readily traced; or
+(b)   is deceased and no successor in title can be readily traced.
+(4)    The applicant must also publish a notice in a local and national newspaper to trace the owner, lawful occupier or a successor in title.
+(5)    The notice referred to in subsection (4) must be published for a period of not less than 30 days.
+(6)    Notwithstanding any other law, the Petroleum Agency may, on application in writing from the applicant and on payment of the prescribed application fee, if at the lapsing period contemplated in subsection (5) the owner, lawful occupier or successor in title still cannot be traced—
+(a)   grant consent to the applicant to install a notice on a visible place on the land and enter the land to which the application relates; and
+(b)   subject the applicant to such other terms and conditions as the Petroleum Agency may determine.
+21.     Establishment of Petroleum Development and Environmental Committee.  
+
+The Petroleum Development and Environmental Committee is hereby established.
+22.     Functions of Committee.  
+
+The Committee must—
+(a)   advise the Minister on any objections received pursuant to consultation in terms of sections 19 (1) (b) and 20; and
+(b)   make recommendations to the Minister in terms of section 91 (5).
+23.     Composition of Committee.  
+(1)    The members appointed to the Committee must have expertise in petroleum environmental management, petroleum resource exploration and production.
+(2)    The Committee must consist of not more than 14 members appointed by the Minister and must include—
+(a)   the Chief Executive Officer of the Petroleum Agency, as chairperson;
+(b)   the relevant Regional Manager;
+(c)   the Principal Inspector responsible for upstream petroleum operations; and
+(d)   one representative from each of the departments of Environmental Affairs, Forestry and Fisheries, Human Settlements, Water and Sanitation, Cooperative Governance and Traditional Affairs, Agriculture, Rural Development and Land Affairs and Transport, in the province to which the application relates.
+(3)    The Minister may appoint a representative from any relevant public entity when necessary.
+24.     Disqualification from membership.  
+
+A person may not be appointed as a member of the Committee—
+(a)   unless he or she is a South African citizen who resides in the Republic permanently; or
+(b)   if he or she—
+(i)   is an unrehabilitated insolvent or has been declared to be of unsound mind by a court of the Republic; or
+(ii)   has been convicted of an offence committed after the date of commencement of the Constitution, and sentenced to imprisonment without the option of a fine, unless the person has received a grant of amnesty or a free pardon before the date of his or her appointment.
+25.     Vacation of office.  
+(1)    A member of the Committee must vacate his or her office if he or she—
+(a)   becomes subject to any disqualification contemplated in section 24 or, in the case of an official in the service of the State, ceases to be such an official;
+(b)   has been absent for more than two consecutive meetings of the Committee without leave of the Committee;
+(c)   tenders his or her resignation in writing to the Minister and the Minister accepts the resignation; or
+(d)   is removed from office by the Minister under subsection (2).
+(2)    The Minister may remove any member of the Committee from office—
+(a)   on account of misconduct or inability to perform the functions of his or her office properly; or
+(b)   if the member has engaged in any activity that may undermine the integrity of the Committee, which activities may include—
+(i)   participation in an investigation, hearing or decision concerning a matter in respect of which that person has a financial or personal interest;
+(ii)   making private use of, or profiting from, any confidential information obtained as a result of performing his or her functions as a member of the committee; or
+(iii)   divulging any information referred to in subparagraph (ii) to any third party, except as required by or under this Act or the Promotion of Access to Information Act.
+26.     Term of office and filling of vacancies.  
+(1)    A member of the Committee holds office for a period not exceeding three years.
+(2)    The Minister may reappoint any member of the Committee at the expiry of his or her term for another period not exceeding three years.
+(3)    If a member of the Committee vacates the office or dies, the Minister must fill the vacancy by appointing a person in accordance with section 23 for the remainder of the term of office of his or her predecessor.
+27.     Report of Committee.  
+
+In addition to any specific report which the Minister may request from the Committee, the Committee must, before 31 March of each year, submit a report to the Minister setting out the activities of the Committee during the year preceding that date and must include a business plan for the ensuing year.
+28.     Transferability and encumbrance of petroleum right.  
+(1)    A petroleum right or an interest in any such right, or a controlling interest in a company or close corporation, may not be ceded, transferred, let, sublet, assigned, alienated or otherwise disposed of without the written consent of the Minister, except in the case of change of interest in a listed company.
+(2)    Any person who wishes to apply for the Minister’s consent contemplated in subsection (1) must lodge the application—
+(a)   in the prescribed manner; and
+(b)   together with the prescribed non-refundable application fee.
+29.     Granting of transfer or encumbrance of petroleum right.  
+(1)    The Minister must grant the consent referred to in section 28 (1) if the cessionary, transferee, lessee, sub-lessee, assignee or person to whom the petroleum right will be alienated or disposed—
+(a)   is capable of carrying out and complying with the obligations and the terms and conditions of the petroleum right in question; and
+(b)   satisfies the requirements contemplated in section 44, as the case may be.
+(2)    The consent contemplated in section 28 (1) is not required in respect of the encumbrance by mortgage of a right or interest as security to obtain a loan or guarantee for the purpose of funding or financing an exploration or production project by—
+(a)   any bank, as defined in the Banks Act, 1990 (Act No. 94 of 1990); or
+(b)   any other financial institution approved for that purpose by the Registrar of Banks referred to in the Banks Act, 1990 (Act No. 94 of 1990), on request by the Minister; or
+(c)   any other institution as requested by the petroleum right holder and approved by the Minister, if the bank, financial institution or any other institution in question undertakes in writing that any sale in execution or any other disposal pursuant to the foreclosure of the mortgage will be subject to the consent in terms of subsection (1).
+(3)    An application for a written consent of the Minister as contemplated in subsection (1) must be finalised within 90 days from the date of receipt.
+(4)    Any transfer, cession, letting, subletting, alienation, encumbrance by mortgage or variation of a petroleum right, as the case may be, contemplated in this section must be lodged for registration at the Mineral and Petroleum Titles Registration Office within 60 days of notarial execution of the relevant deed.
+30.     Partitioning of petroleum right.  
+(1)    A petroleum right may not be partitioned without prior written consent of the Minister.
+(2)    Any person who wishes to apply for the Minister’s consent as contemplated in subsection (1) must lodge the application—
+(a)   in the prescribed manner;
+(b)   accompanied by an application contemplated in section 105 to vary the right and an application for a petroleum right in respect of the area or block that is being partitioned from the existing petroleum right in terms of section 43; and
+(c)   together with the prescribed non-refundable application fee.
+(3)    The Minister’s consent contemplated in subsection (1) must be granted if the applicant has been granted a petroleum right in respect of the area or block that is being partitioned from the existing petroleum right.
+31.     Participation of black persons in petroleum rights.  
+(1)    Every petroleum right must have a minimum of 10 per cent undivided participating interest by black persons.
+(2)    The black persons’ undivided participation interest in a petroleum right contemplated in subsection (1) may be diluted to no less than five per cent, subject to a right of first refusal by the State on terms agreed to with the relevant black person, to any funder or company, regardless of the ownership structure of such a funder or company, for purposes of raising capital subject to section 29.
+(3)    The dilution of black persons’ participation contemplated in subsection (2) will not trigger a requirement for the holder of the petroleum right to augment black persons’ participation interest to 10 per cent.
+(4)    The holder or an applicant for a petroleum right who is not able to comply with the required black persons’ participation interest requirement contemplated in subsection (1) must lodge a request for extension to comply within a period to be determined by the Petroleum Agency.
+(5)    An application for extension contemplated in subsection (4) must be accompanied by—
+(a)   detailed information and proof of inability to secure the required percentage of black participation in the petroleum right;
+(b)   full details of potential black persons that were engaged; and
+(c)   any other information as may be determined by the Petroleum Agency for purposes of assessing the application.
+(6)    The Petroleum Agency may grant extension contemplated in subsection (4) for a period not exceeding two years, subject to terms and conditions that must be recorded in the petroleum right.
+(7)    An application for a petroleum right may be granted subject to the provisions of subsections (3), (4) and (5).
+32.     Reservation of block or blocks for black persons.  
+(1)    In order to give effect to the objects referred to in section 2 (c) and (d), the Minister may, by notice in the Gazette—
+(a)   reserve a block or blocks for black persons; and
+(b)   invite applications for petroleum rights from black persons as contemplated in section 15.
+(2)    The Minister must grant petroleum rights to black persons subject to compliance with sections 43, 44 and 45 and all other relevant provisions of this Act, including the terms and conditions listed in the notice of invitation for applications published in the Gazette.
+(3)    The black persons’ participation interest in a petroleum right granted to black persons in respect of a block or blocks contemplated in subsection (1) may be diluted to no less than 30 per cent to any funder or company, regardless of the ownership structure of such funder or company, for purposes of raising capital, subject to section 29.
+(4)    The Minister may, after having invited applications for petroleum rights as contemplated in subsection (1) (b), request any relevant organ of state to assist potential applicants concerned with the application for petroleum rights process, including an application for environmental authorisation, formulation of work commitment for exploration and production phases and any other assistance as may be determined by the relevant organ of state.
+33.     Exit of black persons from petroleum right.  
+
+Where black persons exit from a specific petroleum right, the empowerment credentials of that specific petroleum right must be recognised for the duration of the petroleum right: Provided that—
+(a)   black persons have held undivided participating interest for a minimum period equivalent to a third of the duration of the initial term of the production phase of a petroleum right, or a lesser period if paragraph (b) is complied with before the minimum period in this paragraph;
+(b)   at least 50 per cent net value has vested in black persons;
+(c)   an agreement detailing exit mechanisms and black persons’ financial obligations is submitted to the Petroleum Agency; and
+(d)   the recognition of empowerment credentials may not be claimed or recognised for other petroleum rights or future petroleum right applications.
+34.     State participation in petroleum rights.  
+(1)    The State Petroleum Company is designated as a state-owned entity responsible for managing State participation in exploration and production activities through a carried interest in petroleum rights as contemplated in subsections (2) and (3).
+(2)    The State has a right to a 20 per cent carried interest in petroleum rights, including in both the exploration and production phase.
+(3)    The carrying holder or holders are entitled to recover 50 and 100 per cent of the State’s proportionate share of exploration and production costs, respectively.
+(4)    The State’s proportionate share of exploration and production costs must, subject to subsection (3), be recoverable from its proportionate share of production or revenue.
+(5)    The State may elect to take its proportionate share of petroleum production in kind or in cash.
+(6)    A percentage of the State’s annual share of production or revenue, as the case may be, for repayment of its proportionate share of exploration and production development and production costs is as prescribed.
+(7)    Cost recovery rules that govern the recovery of exploration and production costs as contemplated in subsection (3) are as prescribed, and to the extent necessary, further amplified in the terms and conditions of the petroleum right.
+(8)    The State Petroleum Company must enter into a joint operating agreement with the holder or become a party to an existing joint operating agreement and appoint a minimum of two or more representatives to the joint operating committee of the exploration or production operation to represent the State.
+(9)    The State Petroleum Company is entitled to full participation, including corresponding percentage of voting rights as determined in the joint operating agreement.
+35.     Development of petroleum resources to advance national developmental imperatives.  
+(1)    In order to give effect to the objects referred to in section 2, the Minister may, by notice in the Gazette, reserve a block, part of a block or blocks in an open area for purposes of advancing national developmental imperatives.
+(2)    In order to advance national developmental imperatives, the Minister may, in respect of a reserved block, part of a block or blocks as contemplated in subsection (1) issue a directive to the State Petroleum Company to—
+(a)   carry out, on behalf of the State, any reconnaissance operations, exploration or production operations on its own or with any other person; or
+(b)   obtain the services of an exploration and production company or service company on a risk service model to undertake operations in the reserved block or blocks as contemplated in paragraph (a), subject to terms and conditions to be approved by the Petroleum Agency.
+(3)    The State Petroleum Company may, for purposes of undertaking operations in a reserved block or blocks with any other person as contemplated in subsection (2) (a), dilute its participation interest to no less than 40 per cent, provided that it will still remain the majority holder, subject to section 29.
+(4)    The State Petroleum Company must, for purposes of subsection (2), be deemed to be a holder of a petroleum right.
+(5)    Notwithstanding the provisions of subsection (4), and unless indicated otherwise in this Act, the State Petroleum Company is subject to all other provisions of this Act and must—
+(a)   apply for an environmental authorisation in terms of the National Environmental Management Act;
+(b)   where applicable, apply for a water use licence in terms of the National Water Act;
+(c)   consult with interested and affected parties as contemplated in section 19; and
+(d)   submit minimum exploration and production work commitment and annual work commitment for approval by the Petroleum Agency.
+(6)    The State Petroleum Company is exempt from a black persons’ participation requirement as contemplated in section 31.
+36.     Strategic stock obligations.  
+(1)    A petroleum right holder must sell a percentage of petroleum at the prevailing market price to the State Petroleum Company or any other state-owned entity designated by the Minister to meet the State’s strategic stock requirements, subject to terms and conditions to be agreed upon.
+(2)    The percentage of petroleum that must be sold by the holder to meet the State’s strategic stock requirements as contemplated in subsection (1) will be determined by the State Petroleum Company or any other state-owned entity designated by the Minister.
+(3)    The terms and conditions for the sale of petroleum as contemplated in subsection (1), including the determination of the prevailing market price, must be agreed upon between the holder and the State Petroleum Company or any other state-owned entity designated by the Minister.
+(4)    If the parties are unable to reach an agreement as contemplated in subsection (3), the dispute must be referred to arbitration as provided for in the petroleum right.
+(5)    If the parties are able to reach an agreement as contemplated in subsection (3), such an agreement must be annexed to the petroleum right.
+(6)    Failure by the holder of a petroleum right to adhere to the agreement annexed to the petroleum right as contemplated in subsection (5) constitutes a breach of the terms and conditions of the petroleum right.
+37.     Open licensing round.  
+(1)    Notwithstanding the provisions of section 15 the Minister may, by notice in the Gazette, invite open applications for petroleum rights in respect of a block or blocks indicated in such a notice.
+(2)    The notice of invitation contemplated in subsection (1) must indicate the time frames within which applications must be lodged.
+(3)    An application received in terms of subsection (1) must be processed in terms of sections 38 and 43.
+(4)    If the Petroleum Agency receives more than one application for a petroleum right in respect of the same block or blocks, applications received on—
+(a)   the same day must be regarded as having been received at the same time and must be dealt with in accordance with subsection (5); or
+(b)   different days must be dealt with in order of receipt.
+(5)    When the Minister considers applications received on the same day, he or she must give preference to applications from black persons.
+(6)    The block or blocks in respect of technical co-operation permits or exploration rights granted prior to the commencement of this Act will not be subject to the publication of a notice of invitation by the Minister as contemplated in subsection (1) and section 15.
+38.     Application for reconnaissance permit.  
+(1)    Notwithstanding the provisions of sections 15 and 37, any person may, at any given time, lodge an application for a reconnaissance permit to acquire seismic data—
+(a)   in the prescribed manner; and
+(b)   together with the prescribed non-refundable application fee.
+(2)    The Petroleum Agency must, within 14 days of receipt of the application, accept an application for a reconnaissance permit if—
+(a)   the requirements contemplated in subsection (1) are met;
+(b)   no other person holds a technical co-operation permit, exploration, production or petroleum right over the same block or blocks.
+(3)    The Petroleum Agency may accept an application for a reconnaissance permit over any part of an area subject to a technical co-operation permit, exploration, production or petroleum right, subject to the applicant furnishing written consent from the holder of a technical co-operation permit, exploration, production or petroleum right, as the case may be, giving the Petroleum Agency consent to accept and process the application.
+(4)    Notwithstanding the provisions of subsections (2) (b) and (3), the Petroleum Agency may accept and process an application for a reconnaissance permit over an area encumbered by a permit or a right if the proposed seismic data acquisition will promote and facilitate the acquisition of petroleum geo-technical data as contemplated in section 2 (l).
+(5)    If the application does not comply with the requirements of this section, the Petroleum Agency must notify the applicant in writing within 14 days of receipt of the application and provide reasons.
+(6)    If the Petroleum Agency accepts the application, it must, within 14 days of receipt of the application, only if the proposed reconnaissance operations do not involve space-borne or air-borne instruments operating at altitudes greater than 100 metres, notify the applicant in writing to—
+(a)   consult in the prescribed manner with the owner, lawful occupier and any affected party;
+(b)   submit the consultation report to the Petroleum Agency, within 60 days from the date of acceptance; and
+(c)   where applicable, apply for an environmental authorisation in terms of the National Environmental Management Act.
+(7)    The Petroleum Agency must attend the consultation process contemplated in subsection (6) (a) to ensure that the consultation process is undertaken in a transparent, fair and meaningful manner.
+39.     Granting and duration of reconnaissance permit.  
+(1)    Subject to subsection (4), the Minister must grant a reconnaissance permit if—
+(a)   the applicant has access to financial resources and has the technical ability to conduct the proposed reconnaissance operation;
+(b)   the estimated expenditure is compatible with the intended reconnaissance operation and duration of the reconnaissance programme;
+(c)   the environmental authorisation, where necessary, has been granted;
+(d)   the applicant has the ability to comply with the relevant provisions of the applicable legislation regulating upstream petroleum health and safety; and
+(e)   the applicant is not in contravention of any relevant provision of this Act.
+(2)    The Minister must refuse to grant a reconnaissance permit if the application does not meet all the requirements contemplated in subsection (1).
+(3)    If the Minister refuses to grant a reconnaissance permit, the Minister must, within 30 days of the decision, in writing notify the applicant of the decision and the reasons therefor.
+(4)    A reconnaissance permit granted in terms of subsection (1) is—
+(a)   subject to the prescribed terms and conditions;
+(b)   valid for a period indicated in section 14;
+(c)   not transferable; and
+(d)   not renewable.
+(5)    Notwithstanding the provisions of section 38 (3), the Minister may grant a reconnaissance permit over an area subject to existing technical co-operation permit, exploration, production or petroleum right—
+(a)   after consultation with the holder of the permit or right in question;
+(b)   on condition that the reconnaissance activities do not unreasonably interfere with the activities of the holder;
+(c)   subject to terms and conditions to be agreed upon between the Petroleum Agency and the applicant; and
+(d)   if the granting will promote and facilitate the acquisition of petroleum geo-technical data as contemplated in section 2 (l).
+40.     Rights of reconnaissance permit holder.  
+(1)    The holder of a reconnaissance permit has—
+(a)   the right to conduct reconnaissance operations in the reconnaissance area; and
+(b)   an exclusive right to market any data acquired under the reconnaissance permit for a maximum period of 10 years, which period must be reckoned from the date of lapsing of the permit.
+(2)    The exclusive right to market data as contemplated in subsection (1) is subject to the terms and conditions of the exclusive agreement to be agreed upon between the Petroleum Agency and the holder.
+41.     Obligations of reconnaissance permit holder.  
+
+The holder of a reconnaissance permit must—
+(a)   actively conduct reconnaissance operations in respect of petroleum on the reconnaissance area in accordance with the reconnaissance programme;
+(b)   comply with the terms and conditions of the reconnaissance permit, relevant provisions of this Act, and any other applicable law;
+(c)   comply with the approved environmental authorisation;
+(d)   pay the prescribed reconnaissance fees to the Petroleum Agency;
+(e)   submit a reconnaissance permit for recording at the Mineral and Petroleum Titles Registration Office;
+(f)   commence with reconnaissance activities within 90 days from the date of notarial execution of the reconnaissance permit or such extended period as the Petroleum Agency may authorise; and
+(g)   submit such information, data, reports and interpretations to the Petroleum Agency as may be prescribed.
+42.     Notarial execution of permit, right or deed of amendment.  
+(1)    A holder of a permit or a right granted in terms of this Act must notarially execute—
+(a)   a permit, right or deed of renewal of a retention permit within 30 days from the date of notification of the outcome of the application by the Petroleum Agency; and
+(b)   a deed of amendment of the right after obtaining permission from the Petroleum Agency to move to the next term or phase under the petroleum right within 30 days from the date of notification by the Petroleum Agency.
+(2)    A holder of a permit or a right may apply in the prescribed manner to the Petroleum Agency for an extension of a further 30 days for the notarial execution of a permit, right or deed of amendment, as the case may be, if there are circumstances that make it impossible for the permit or right to be notarially executed within the 30 days contemplated in subsection (1).
+(3)    A permit or a right, including a right in respect of a deed of amendment not notarially executed within the time-frames provided for in subsections (1) and (2), lapses and the block or blocks in question revert to the State.
+(4)    A deed of renewal of a retention permit that has not been notarially executed as provided for in subsections (1) and (2) lapses and the holder of a petroleum right that relates to the lapsed retention permit must, within 60 days from the notification by the Petroleum Agency, apply for approval to progress to the production phase as contemplated in section 58 (1), failing which the petroleum right also lapses.
+(5)    The Petroleum Agency must notify the holder of a permit or a right that has lapsed as contemplated in subsections (3) and (4).
+(6)    Where an appeal against the granting of the petroleum right or the approval of the environmental authorisation has been lodged within the prescribed period, the notarial deed of granting may not be notarially executed until such appeal has been finalised.
+43.     Application for petroleum right.  
+(1)    Any person who applies for a petroleum right must, subject to sections 15 and 37, lodge the application—
+(a)   in the prescribed manner; and
+(b)   together with the prescribed non-refundable application fee.
+(2)    The Petroleum Agency must, within 14 days of receipt of the application, accept an application for a petroleum right if—
+(a)   no other person holds a technical co-operation permit, exploration, production or petroleum right for petroleum over the same block or blocks applied for;
+(b)   the requirements contemplated in subsection (1) are met; and
+(c)   no prior application for a technical co-operation permit, exploration, production or petroleum right over the same block or blocks applied for, has been accepted.
+(3)    If the application does not comply with the requirements of this section, the Petroleum Agency must notify the applicant in writing within 14 days of receipt of the application and provide reasons therefor.
+(4)    If the Petroleum Agency accepts the application, the Petroleum Agency must, within 14 days of receipt of the application, notify the applicant in writing to—
+(a)   consult in the prescribed manner with the owner, lawful occupier and any affected party;
+(b)   submit the consultation report to the Petroleum Agency, within 60 days from the date of acceptance;
+(c)   apply for an environmental authorisation in terms of the National Environmental Management Act; and
+(d)   where applicable, apply for a water use licence in terms of the National Water Act.
+(5)    The Petroleum Agency must attend the consultation process as contemplated in subsection (4) (a) to ensure that the consultation process is undertaken in a transparent, fair and meaningful manner.
+44.     Granting and duration of petroleum right.  
+(1)    The Minister must grant a petroleum right if—
+(a)   the applicant has proven access to financial resources and has the technical ability to conduct the proposed exploration operation optimally in accordance with the exploration work commitment for the initial term;
+(b)   the estimated expenditure is compatible with the intended minimum exploration commitment for the initial term;
+(c)   the application and associated proposed terms and conditions will result in the achievement of the objects referred to in section 2;
+(d)   an environmental authorisation has been granted;
+(e)   the applicant is not in contravention of any relevant provision of this Act;
+(f)   the applicant has complied with the terms and conditions of the technical co-operation permit, if applicable;
+(g)   the applicant has, where applicable, provided proof of application for a water use licence in terms of the National Water Act; and
+(h)   the applicant has the ability to comply with relevant prescribed provisions relating to upstream petroleum health and safety.
+(2)    The Minister must, within 60 days of receipt of the application from the Petroleum Agency, refuse a petroleum right if the application does not meet all the requirements referred to in subsection (1).
+(3)    If the Minister refuses a petroleum right, he or she must, within 30 days of the decision, in writing notify the applicant of the decision and the reasons therefor.
+(4)    A petroleum right is—
+(a)   subject to prescribed terms and conditions to be agreed upon by the holder and the Petroleum Agency, and approved by the Minister, covering both exploration and production phases; and
+(b)   valid for a period determined in accordance with section 14.
+45.     Minimum work commitment and annual plans.  
+(1)    A petroleum right must include a clause on—
+(a)   the minimum work commitment with a corresponding minimum expenditure amount to be fulfilled by a holder during the applicable term of the exploration or production phase; and
+(b)   the annual work plan and the corresponding budget.
+(2)    Failure to fulfil the minimum work commitment constitutes a breach of the terms and conditions of a petroleum right as contemplated in section 88 (1) (c).
+46.     Application for approval to progress to next term (exploration phase).  
+(1)    A holder of a petroleum right may not progress to the second, third or fourth term of the exploration phase, as the case may be, without the approval of the Petroleum Agency.
+(2)    A holder of a petroleum right who applies to the Petroleum Agency for approval to progress to the second, third or fourth term of the exploration phase, as the case may be, must lodge the application—
+(a)   before the expiry date of the current term;
+(b)   in the prescribed manner; and
+(c)   together with the prescribed non-refundable application fee.
+(3)    An application for approval to progress to the next term must—
+(a)   state the reasons and period for which the next term is required;
+(b)   be accompanied by—
+(i)   a detailed report reflecting the exploration results, the interpretation thereof and the exploration expenditure incurred;
+(ii)   a report reflecting the extent of compliance with the conditions of the environmental authorisation; and
+(iii)   a detailed report on compliance with black persons empowerment and State participation; and
+(c)   include a detailed minimum work commitment and expenditure for the next term.
+(4)    The holder of a petroleum right must, when applying for approval to progress to the next term, relinquish—
+(a)   20 per cent of the total extent of the petroleum right area at the end of the initial term of the exploration phase; and
+(b)   15 per cent of the total extent of the original petroleum right area at the end of each subsequent term.
+(5)    The area relinquished as contemplated in subsection (4) (a) and (b) must, unless otherwise determined by the Petroleum Agency, be contiguous, compact and of a size and shape that will enable petroleum activities to be conducted in such relinquished area.
+(6)    The area to be retained at the end of the exploration phase must, to the extent permissible in terms of this Act and possible—
+(a)   include geological structures containing discoveries in the petroleum right area; and
+(b)   be of the size and shape approved by the Petroleum Agency.
+(7)    A term that has expired remains in force notwithstanding its expiry: Provided that an application to progress to the next term was lodged before expiry of the preceding term.
+(8)    A term that has expired will remain in force as contemplated in subsection (7)—
+(a)   until an application to progress to the next term is approved or refused by the Petroleum Agency; and
+(b)   a notarial deed of amendment has been executed.
+(9)    A holder is entitled to continue with exploration operations in accordance with the approved minimum or optional work commitment until an application to progress to the next term has been finalised in accordance with subsection (8) (a) and (b).
+47.     Approval of application to progress to next term.  
+(1)    The Petroleum Agency must grant the approval for the holder of a petroleum right to progress to another term if the holder—
+(a)   has complied with the terms and conditions of the petroleum right and is not in contravention of any provision of this Act;
+(b)   has completed the approved initial, second or third term work commitment, as the case may be;
+(c)   has relinquished the petroleum right area in accordance with the provisions of section 46 (4) and (5);
+(d)   has access to financial resources and has the technical ability to conduct the proposed exploration operation optimally in accordance with the exploration minimum work commitment for the next term;
+(e)   has complied with the conditions of the environmental authorisation;
+(f)   has, where applicable, been granted an amended or a new environmental authorisation in terms of the National Environmental Management Act; and
+(g)   has complied with the requirements of State participation and empowerment of black persons.
+(2)    The period of validity for the subsequent term or phase must, after a holder is granted approval to progress to the subsequent term or phase, as the case may be, be recorded in the petroleum right.
+48.     Refusal of application to progress to next term.  
+(1)    The Petroleum Agency may refuse an application for approval to progress to the next term if the petroleum right holder fails to meet the requirements contemplated in section 47 (1).
+(2)    The decision by the Petroleum Agency to refuse an application by the holder to progress to another term as contemplated in subsection (1) must be confirmed or set aside by the Minister.
+(3)    If the Minister sets aside the Petroleum Agency’s decision to refuse an application by the holder to progress to the next term, he or she must refer the matter back to the Petroleum Agency for the holder to implement the directives issued by the Minister.
+(4)    If the Minister confirms the Petroleum Agency’s decision to refuse an application by the holder to progress to the next term, he or she must cancel the petroleum right in terms of section 88.
+49.     Rights of petroleum right holder.  
+
+The holder of a petroleum right has the right—
+(a)   to apply to the Petroleum Agency for approval to progress to the second, third or fourth term of the exploration phase as the case may be, subject to section 46;
+(b)   to apply to the Petroleum Agency for approval to progress to the production phase and further terms, subject to section 58;
+(c)   to produce or conduct drill stem tests, subject to section 52;
+(d)   exclusively to remove and dispose of any petroleum found during the course of production operations; and
+(e)   to transfer and encumber the petroleum right, subject to section 29.
+50.     Obligations of petroleum right holder.  
+
+The holder of a petroleum right must—
+(a)   lodge such a right and any amendments thereto within 60 days from the date of notification by the Petroleum Agency for registration or endorsement at the Mineral and Petroleum Titles Registration Office;
+(b)   continuously and actively conduct exploration operations in accordance with the provisions of section 51 and the approved exploration work commitment;
+(c)   comply with the terms and conditions of the petroleum right, the relevant provisions of this Act and any other applicable law;
+(d)   comply with the requirements of the approved environmental authorisation;
+(e)   comply with the requirements for State participation and empowerment of black persons;
+(f)   pay the prescribed fees to the Petroleum Agency;
+(g)   carry out development activities in accordance with the approved development programme;
+(h)   continuously and actively conduct optimal and efficient production operations in accordance with the approved production work programme;
+(i)   provide the Petroleum Agency with proof of adequate insurance to address the risks related to development and production operations;
+(j)   relinquish the percentage of the total extent of the original petroleum right area in accordance with section 46 (4);
+(k)   conduct exploration and production operations in accordance with health and safety provisions; and
+(l)   pay all revenue due to the State in terms of the applicable legislation.
+51.     Manner of conducting exploration operations.  
+(1)    The petroleum right must include terms and conditions prescribing how exploration operations should be conducted, and the obligation to—
+(a)   carry out exploration operations in accordance with Good International Petroleum Industry Practices;
+(b)   take all reasonable steps necessary to secure the safety and health of persons employed for purposes of exploration operations;
+(c)   maintain in good condition and repair all structures, equipment and other goods in the petroleum area used in connection with exploration operations;
+(d)   remove from such petroleum area, or otherwise deal with as directed by the Petroleum Agency, all installations, equipment, pipelines and other facilities, whether onshore or offshore, not used or intended to be used in connection with such exploration operations; and
+(e)   take reasonable steps to warn persons who may, from time to time, be in the vicinity of any such structures, equipment or other goods of the possible hazards resulting therefrom.
+(2)    Without derogating from the generality of subsection (1), the holder must—
+(a)   control the flow and prevent the waste, escape or spilling of petroleum in the petroleum area;
+(b)   prevent damage to petroleum-bearing strata in any area outside the petroleum area;
+(c)   prevent water or any other substance entering any petroleum reservoir through the wells in the petroleum area, except if required by and in accordance with Good International Petroleum Industry Practices;
+(d)   not flare any combustible gas, except for safety purposes;
+(e)   not abandon, close or plug a well without the Petroleum Agency’s written approval; and
+(f)   promptly inform the Petroleum Agency and any relevant Government department of the occurrence of any event described in paragraphs (a) to (e).
+52.     Application for drilling permit.  
+(1)    A petroleum right holder may not undertake drilling without a drilling permit.
+(2)    A holder intending to undertake drilling as contemplated in subsection (1) must apply to the Petroleum Agency for a drilling permit as prescribed.
+(3)    The Petroleum Agency must approve the application for a drilling permit within 60 days from the date of lodgment of the application, subject to such terms and conditions as it may determine.
+(4)    Any well drilled or petroleum field must be identified by a unique designation assigned by the Petroleum Agency.
+(5)    The designation of a well or field may not be changed by the holder without the written approval of the Petroleum Agency.
+53.     Permission to produce petroleum and conduct tests during exploration.  
+(1)    The holder of a petroleum right that is in the exploration phase may not produce petroleum, conduct drill stem tests, extended well tests or any other similar tests without prior written permission of the Petroleum Agency.
+(2)    A holder who wishes to apply for a permit to produce or conduct tests as contemplated in subsection (1) must lodge the application in the prescribed manner and submit the following—
+(a)   Proof of payment of the prescribed non-refundable application fee;
+(b)   an application for an amendment of the authorisation or a new application for environmental authorisation in terms of the National Environmental Management Act, where applicable;
+(c)   full details regarding—
+(i)   the testing programme and the type of equipment to be used;
+(ii)   the type of data that will be acquired;
+(iii)   the duration of the envisaged tests and production of petroleum;
+(iv)   the quantity of petroleum to be produced;
+(v)   the full details of how the produced petroleum will be utilised; and
+(vi)   any other information as may be required by the Minister.
+(3)    The Petroleum Agency must grant a permit to produce or conduct tests within 60 days from the date of receipt of the application, subject to such terms and conditions as determined by the Petroleum Agency.
+(4)    A permit to produce or conduct drill stem tests is valid for a period of up to two years and is non-renewable.
+54.     Discovery of petroleum and appraisal.  
+(1)    When a discovery is made, the holder must—
+(a)   notify the Petroleum Agency within five days of such a discovery;
+(b)   provide the full particulars of the discovery in writing within 100 days after the notification of the discovery;
+(c)   provide any other information as may be required by the Petroleum Agency; and
+(d)   conduct tests within the prescribed period in accordance with Good International Petroleum Industry Practice on such discovery to determine whether such discovery is worthy of appraisal and submit the results of such tests to the Petroleum Agency.
+(2)    If the results contemplated in subsection (1) (d) indicate that a discovery is worthy of appraisal, the holder must—
+(a)   submit an appraisal work programme in the format and within the timeframe prescribed; and
+(b)   where applicable, apply for a new environmental authorisation or amendment of the approved environmental authorisation in terms of the National Environmental Management Act.
+(3)    The Petroleum Agency must, within 60 days from receipt of the proposed appraisal work programme—
+(a)   notify the holder in writing of its approval; and
+(b)   indicate the time-frame within which the holder must commence with appraisal operations; or
+(c)   refer the proposed appraisal work programme to the holder with proposed amendments and provide reasons therefor.
+(4)    If the holder elects not to conduct tests referred to in subsection (1) (d), the holder must, with effect from the date of the notification contemplated in subsection (3), subject to the provisions of subsection (7), relinquish the area encompassing the geological structure in which the discovery is located.
+(5)    The delineation of the area to be relinquished as contemplated in subsection (4) is subject to the approval of the Petroleum Agency.
+(6)    The area encompassing the geological structure in which the discovery is located must be regarded to be relinquished if the holder—
+(a)   elects not to conduct tests referred to in subsection (1) (d);
+(b)   does not relinquish the area encompassing the geological structure in which the discovery is located as contemplated in subsection (4);
+(c)   does not lodge an application for exemption as contemplated in subsection (7) or such an application is refused; and
+(d)   does not notify the Petroleum Agency whether it elects to conduct the tests referred to in subsection (1) (d).
+(7)    The holder may lodge an application to be exempted from the provisions of subsection (4) with the Petroleum Agency as prescribed.
+(8)    An application for exemption in terms of subsection (7) must be approved if—
+(a)   the holder intends to drill other prospects in the area;
+(b)   there are other valid technical reasons that justify the deferment of tests contemplated in subsection (1) (d); and
+(c)   the deferment of tests will not defeat the object referred to in section 2 (j).
+(9)    An approval of an application for exemption in terms of subsection (8) may be subject to terms and conditions as determined by the Petroleum Agency.
+(10)    The Petroleum Agency must finalise an application for exemption as contemplated in subsection (7) within a period of 30 days and in the case of refusal provide reasons.
+(11)    The holder must, within 10 days from the date of notification of refusal of an application for exemption, notify the Petroleum Agency whether it elects to conduct the tests contemplated in subsection (1) (d).
+(12)    If the holder fails to indicate its election as referred to in subsection (11), the area encompassing the geological structure in which the discovery is located must be regarded to be relinquished as contemplated in subsection (6) (c).
+55.     Discovery not worthy of appraisal.  
+(1)    If the results referred to in section 54 (1) (d) conclude that a discovery is not worthy of appraisal, the Petroleum Agency may direct that an area encompassing the geological structure of the discovery that is not of commercial interest be relinquished, subject to the provisions of subsection (2).
+(2)    The Petroleum Agency must, before requesting the holder to relinquish an area encompassing the geological structure of the discovery that is not of commercial interest as contemplated in subsection (1)—
+(a)   notify the holder of its intention to exercise its powers as contemplated in subsection (1); and
+(b)   request the holder to make representations to the Petroleum Agency on or before a date specified in such notice.
+(3)    The Petroleum Agency may, having regard to representations made by the holder, request the holder to relinquish an area encompassing the geological structure of the discovery that is not of commercial interest as contemplated in subsection (1) if it is satisfied that the discovery may be of potential commercial interest to a third party.
+56.     Extension of exploration phase period.  
+(1)    The Petroleum Agency may, upon application by the holder of a petroleum right, extend the exploration phase period where—
+(a)   a discovery of petroleum is made in the last year of the fourth term of the exploration phase and an extension is necessary to enable a determination of whether the discovery is worthy of being appraised; or
+(b)   the fourth term of the exploration phase period lapsed during the drilling of a well and an extension is necessary to enable the holder to—
+(i)   complete such drilling; and
+(ii)   determine whether there is a discovery worthy of being appraised.
+(2)    An extension contemplated in subsection (1) must—
+(a)   be in respect of an area encompassing the geological structure in which the discovery is located;
+(b)   be limited to the time period necessary for the completion of the drilling operations and determination of whether any discovery is worthy of being appraised; and
+(c)   not exceed two years.
+(3)    An application for extension of the exploration phase period as contemplated in subsection (1) may be granted if the holder—
+(a)   has carried out the minimum work commitment for all the exploration phases to the satisfaction of the Petroleum Agency; and
+(b)   is not in breach of the provisions of this Act, and the terms and conditions of the petroleum right.
+57.     Declaration of commercial discovery.  
+(1)    A petroleum right holder must, within 180 days after undertaking appraisal operations, or such further period as agreed to by Petroleum Agency, submit the following to the Petroleum Agency—
+(a)   A declaration as to whether the discovery is commercial;
+(b)   a full report of the appraisal operations results, including—
+(i)   particulars and preliminary estimates relating to the location and depth of petroleum-bearing structures;
+(ii)   the composition of petroleum and the estimated recoverable reserves of petroleum; and
+(iii)   the estimated daily production potential of petroleum; and
+(c)   an indication of whether the holder will proceed to develop the discovery.
+(2)    If the holder elects not to proceed to develop the discovery, the holder must relinquish the entire area encompassing the geological structure in which the discovery is located.
+(3)    The holder must, within 180 days after electing to develop the discovery as contemplated in subsection (1) (c), apply for—
+(a)   approval to progress to the production phase in accordance with section 59; or
+(b)   apply for a retention permit in accordance with section 69.
+58.     Application for approval to progress to production phase.  
+(1)    A petroleum right holder may not progress to the production phase without the approval of the Petroleum Agency.
+(2)    A holder of a petroleum right who applies to the Petroleum Agency for approval to progress to the production phase must—
+(a)   lodge the application within 180 days after electing to develop the discovery as contemplated in section 54 (1) (d), in the prescribed manner;
+(b)   pay the prescribed non-refundable application fee;
+(c)   where applicable, apply for a new environmental authorisation or an amendment in terms of the National Environmental Management Act;
+(d)   where applicable, apply for a water use licence in terms of the National Water Act;
+(e)   relinquish a percentage of the total extent of the original petroleum right area in accordance with the provisions of section 46 (4) and (5).
+(3)    An application for approval to progress to the production phase in terms of subsection (2) (a) must be accompanied by—
+(a)   the prescribed development and production programme in respect of a petroleum field to be developed;
+(b)   a report reflecting the extent of compliance with the conditions of the environmental authorisation during the last term of the exploration phase;
+(c)   a report on compliance with black persons’ and State participation requirements as contemplated in sections 31 and 34, respectively;
+(d)   a prescribed local content plan, which includes—
+(i)   the procurement progression plan for fulfilling the requirements with respect to the provision of goods and services by black persons;
+(ii)   the payment of upstream training trust fees; and
+(iii)   a recruitment and training programme for South Africans, that includes on-the-job training and coaching.
+59.     Approval of application to progress to production phase.  
+(1)    The Petroleum Agency must approve an application to progress to the production phase contemplated in section 58 within 120 days from the date of receipt of the application if—
+(a)   the petroleum right holder has demonstrated that the development and production programme will ensure efficient, optimal and timely production of the petroleum resources;
+(b)   the development and production programme is consistent with Good International Petroleum Industry Practice;
+(c)   the holder has demonstrated access to adequate financial and technical resources and competence to undertake efficient, optimal and timely development and production operations;
+(d)   the environmental authorisation or amendment in terms of the National Environmental Management Act, where applicable, has been granted;
+(e)   the local content plan is approved; and
+(f)   the holder is not in breach of the provisions of this Act or the terms and conditions of the petroleum right.
+(2)    The Petroleum Agency may refer the development and production programme to the holder with proposed amendments and specify reasons for such amendments, which may include the need to address national developmental imperatives.
+(3)    The Petroleum Agency may require the holder to ensure that a marginal field delineated before and after approval of the development and production programme is optimally developed and produced.
+60.     Refusal of application to progress to production phase.  
+(1)    The Petroleum Agency may refuse an application for approval to progress to the production phase if the petroleum right holder fails to meet the requirements contemplated in section 59 (1).
+(2)    The decision by the Petroleum Agency to refuse an application by the holder to progress to the production phase as contemplated in subsection (1) must be confirmed or set aside by the Minister.
+(3)    If the Minister sets aside the Petroleum Agency’s decision to refuse an application by the holder to progress to the production phase, he or she must refer the matter back to the Petroleum Agency.
+(4)    If the Minister confirms the Petroleum Agency’s decision to refuse an application by the holder to progress to the production phase, he or she must cancel the petroleum right in terms of section 88.
+61.     Postponement of development.  
+(1)    The Petroleum Agency may, having regard to national interests, after consultation with the Minister and the holder, postpone the development of a petroleum field.
+(2)    In the event the development of a field is postponed as contemplated in subsection (1), the duration of the applicable term for the production phase of the petroleum right must be extended for the period of postponement and the new period must be recorded in the petroleum right.
+(3)    The holder must notarially execute the deed of amendment of the petroleum right, recording the new extended period and submit it to the Mineral and Petroleum Titles Registration Office in accordance with section 50 (1) (a).
+62.     Application for approval to progress to next term (production phase).  
+(1)    A holder of a petroleum right may not progress to the second or further terms of the production phase without the approval of the Petroleum Agency.
+(2)    A holder who applies to the Petroleum Agency to progress to the second or further term must lodge the application—
+(a)   in the prescribed manner;
+(b)   together with the prescribed non-refundable application fee; and
+(c)   before the expiry of the current term.
+(3)    An application to progress to the second or further term of the production phase must—
+(a)   state the reasons for which the next term is required;
+(b)   be accompanied by—
+(i)   a detailed report reflecting the production results, the interpretation thereof and the production expenditure incurred;
+(ii)   a report reflecting the right holder’s compliance with the requirements of the approved environmental authorisation, the rehabilitation to be completed and the estimated cost thereof;
+(iii)   details of the production operations carried out, including the total amount of petroleum recovered and the amounts expended and received;
+(iv)   a detailed report on compliance with the requirements of State participation and black persons’ empowerment;
+(v)   a detailed report on compliance with the approved local content plan;
+(vi)   a detailed production work programme for the next term and expenditure proposed for operations to be carried out.
+(4)    A term that has expired remains in force notwithstanding its expiry, provided an application to progress to the next term was lodged before expiry of the preceding term.
+(5)    A term that has expired will remain in force as contemplated in subsection (4)—
+(a)   until an application to progress to the next term is approved or refused by the Petroleum Agency; and
+(b)   a notarial deed of amendment has been executed.
+(6)    A holder is entitled to continue with exploration operations in accordance with the approved production work programme until an application to progress to the next term has been finalised in accordance with subsection (5).
+63.     Approval of application to progress to next term (production phase).  
+(1)    The Petroleum Agency must grant approval for the holder of a petroleum right to progress to the next term if—
+(a)   the application has met the requirements of section 2;
+(b)   the applicant is not in contravention of any relevant provisions of this Act;
+(c)   the holder has complied with—
+(i)   the terms and conditions of the petroleum right;
+(ii)   the development and production work programme;
+(iii)   the requirements of the prescribed local content plan;
+(iv)   the requirements of State participation and black persons’ empowerment; and
+(v)   the requirements of the approved environmental authorisation.
+(2)    The period of validity for the subsequent term must, after a holder is granted approval to progress to the subsequent term, be recorded in the petroleum right.
+64.     Review of petroleum right.  
+(1)    The Minister may, after the expiry of the initial term of the production phase, having regard to the need for the State to derive a fair share of benefits from the production of its petroleum resources—
+(a)   amend an existing term and condition of a petroleum right; or
+(b)   insert a new term or condition in the petroleum right.
+(2)    The Minister must, before amending the agreed terms and conditions of the petroleum right as contemplated in subsection (1) (a), consult with the petroleum right holder in good faith to agree on an equitable arrangement that takes into account the impact of the proposed amendments or insertions contemplated in subsection (1) on the holder.
+(3)    If the Minister and the holder are unable to reach an agreement on an equitable arrangement as contemplated in subsection (2), either party is entitled to refer the matter to arbitration as provided for in the terms and conditions of the petroleum right.
+(4)    The arbitral tribunal contemplated in subsection (3) must have its seat in South Africa and be conducted in accordance with South African laws.
+65.     Manner of conducting production operations.  
+(1)    A petroleum holder must—
+(a)   develop and produce petroleum in a manner that will ensure maximum long-term recovery of the petroleum;
+(b)   take appropriate steps to increase or reduce the rate of petroleum production to a rate that will enhance optimum recovery of petroleum;
+(c)   ensure that the development and production of petroleum is conducted in accordance with Good International Petroleum Industry Practice and sound economic principles, and in a manner that will ensure that waste of petroleum or loss of reservoir energy is avoided;
+(d)   conduct continuous evaluation of the depletion strategy and technical solutions to problems arising from the production and take the necessary measures to optimise petroleum resources; and
+(e)   submit a report on petroleum field related matters, including alternative schemes for production and, where applicable, the injection and the total recovery factor for the various schemes.
+(2)    The Petroleum Agency may direct a holder to take appropriate steps to increase or decrease the rate of petroleum production to a rate that will enhance the optimum recovery of petroleum, provided the capacity of existing production facilities will not be exceeded.
+66.     Measurement of petroleum.  
+(1)    A petroleum right holder must measure petroleum produced, transported and sold from a petroleum field by a measuring device customarily used in Good International Petroleum Industry Practice and approved by the Petroleum Agency.
+(2)    The Petroleum Agency must, after consultation with relevant state-owned entities or government departments, approve a measuring device which the holder must use for measuring petroleum as contemplated in subsection (1).
+(3)    An approved measuring device must be installed at the wellhead, or any other place approved by the Petroleum Agency.
+(4)    A holder may not alter an approved measuring device without the written approval of the Petroleum Agency.
+(5)    The Petroleum Agency may direct that an approved measuring device be tested or examined at regular intervals and may install facilities to monitor production.
+(6)    A holder who does not install a measuring device or knowingly uses a defective measuring device commits an offence.
+67.     Ascertainment of petroleum produced.  
+(1)    The quantity of petroleum produced by a petroleum right holder from a well during a period is taken to be the quantity measured by a measuring device approved by the Petroleum Agency as contemplated in section 66 (2).
+(2)    If the Petroleum Agency is not satisfied that the quantity of petroleum measured by an approved measuring device has been accurately measured, the quantity of petroleum produced by the holder will be taken to be the quantity determined by the Petroleum Agency or an independent third party appointed by the Petroleum Agency.
+(3)    Where a measuring device is found to be defective—
+(a)   the defect is considered to have existed for a period that is represented by half of the period from the last occasion when the measuring device was tested or examined to the date when the measuring device was found to be defective; and
+(b)   royalty and any other payments due to the State for that period must be adjusted accordingly.
+68.     Third party access to upstream petroleum infrastructure.  
+(1)    The Petroleum Agency may direct that upstream petroleum facilities which are owned by a petroleum holder be used by third parties if warranted by considerations of efficient operation and resource management: Provided that—
+(a)   the use would not unreasonably interfere with the usage requirements of the holder or of any person who has already been granted the right of use; and
+(b)   it will not result in the reduction of production levels or disruption of the satisfactory progress of petroleum operations by the holder.
+(2)    The Petroleum Agency may only take a decision to direct that upstream petroleum facilities be used by third parties as contemplated in subsection (1) after consulting the affected petroleum right holder.
+(3)    The holder and a third party must, within a time period to be determined by the Petroleum Agency—
+(a)   conclude an agreement on the use of upstream petroleum facilities, including the amount to be paid; and
+(b)   submit the agreement to the Petroleum Agency for approval.
+(4)    The Petroleum Agency may, where an agreement for use is not reached or where the Petroleum Agency has not approved the agreement as contemplated in subsection (3) (b), determine the tariffs and other conditions for use in consultation with the National Energy Regulator of South Africa or any other state-owned entity.
+(5)    The Petroleum Agency must, when determining the tariffs and other conditions for use as contemplated in subsection (4), have regard to—
+(a)   resource management considerations;
+(b)   a reasonable return on investment for the holder; and
+(c)   the provisions of subsection (1).
+(6)    The Petroleum Agency may alter the conditions of a previously approved agreement for third party use, having due regard to the provisions of subsection (5).
+69.     Application for retention permit.  
+(1)    A holder of a petroleum right may, within 180 days after electing to develop the discovery as contemplated in section 54 (1) (d), or anytime during the production phase of the petroleum right, apply for a retention permit if—
+(a)   the economic development of gas can only be accomplished if gas produced as the primary or secondary product is sold commercially; or
+(b)   the development and production of petroleum would be uneconomical because of unfavourable prevailing market or economic conditions.
+(2)    A holder who applies for a retention permit must—
+(a)   lodge the application in the prescribed manner;
+(b)   lodge the application together with the prescribed non-refundable application fee; and
+(c)   state the reasons and period for which the retention permit is requested.
+(3)    The Petroleum Agency must accept an application for a retention permit, if the requirements contemplated in subsection (2) are met.
+70.     Granting and duration of retention permit.  
+(1)    The Petroleum Agency may grant a retention permit if the holder has—
+(a)   elected to develop the discovery as contemplated in section 69 (1) or is already in the production phase of the petroleum right;
+(b)   where applicable, proved that the economic development of gas can only be accomplished if gas produced as the primary or secondary product is sold commercially;
+(c)   proved the need to undertake gas market development studies;
+(d)   proved that the development and production of petroleum would be uneconomical because of unfavourable prevailing market or economic conditions.
+(2)    A retention permit issued under subsection (1) suspends the terms and conditions of the petroleum right to which the retention permit relates.
+(3)    Despite subsection (2), the conditions of the environmental authorisation issued in respect of the petroleum right remain in force.
+(4)    A retention permit is valid for the period specified in the permit, which period may not exceed three years and is renewable for a single further term of three years.
+(5)    Notwithstanding the provisions of subsection (4), the Petroleum Agency may renew a retention permit in respect of gas market development studies for further periods to be determined by the Petroleum Agency, having regard to the challenges of monetising gas projects.
+71.     Refusal of application for retention permit.  
+(1)    The Petroleum Agency may refuse to grant a retention permit if—
+(a)   the requirements of section 70 (1) have not been satisfied; and
+(b)   the holder of a petroleum right to which the application for a retention permit relates is in contravention of the terms and conditions of the petroleum right, any other provision of this Act or any other law.
+(2)    The holder of a petroleum right must, within 60 days of being notified of refusal of an application for a retention permit or renewal thereof, apply for approval to progress to the production phase as contemplated in section 59 (1), failing which the petroleum right will lapse.
+72.     Application for renewal of retention permit.  
+
+An application for the renewal of a retention permit must be lodged in the same manner as an application for a retention permit contemplated in section 69 (1) and must include—
+(a)   a comprehensive report on the gas market development studies undertaken;
+(b)   an updated report of the market or economic conditions; and
+(c)   the period and reasons for the renewal.
+73.     Granting of renewal of retention permit.  
+(1)    A retention permit may only be renewed if—
+(a)   the holder has complied with the relevant provisions of this Act, any other relevant law and the terms and conditions of the retention permit;
+(b)   the gas market development studies undertaken have not yielded the required results that will enable the development of gas commercially; and
+(c)   the market or economic conditions contemplated in section 70 (1) (d) still prevail.
+(2)    A retention permit may be renewed once for a period not exceeding three years.
+74.     Refusal of application for renewal of retention permit.  
+
+The Petroleum Agency may refuse to grant a renewal of a retention permit if—
+(a)   the holder of a permit has failed or did not undertake gas market development studies to the satisfaction of the Petroleum Agency;
+(b)   the Petroleum Agency is of the view that the market or economic conditions contemplated in section 70 (1) (d) have improved significantly or no longer exist; or
+(c)   granting of a renewal will defeat the object referred to in section 2 (i).
+75.     Rights and obligations of retention permit holder.  
+
+The holder of a retention permit must—
+(a)   give effect to the conditions of the environmental authorisation;
+(b)   pay the prescribed retention fees;
+(c)   submit an annual progress report to the Petroleum Agency indicating—
+(i)   the progress on gas market development studies undertaken; and
+(ii)   the status of market or economic conditions and an analysis of whether the development and production of petroleum would still be uneconomical; and
+(d)   submit the retention permit for recording and endorsement against the relevant petroleum right at the Mineral and Petroleum Titles Registration Office within 60 days after the permit has been issued.
+76.     Vis major.—  
+(1)    Any failure by the holder of a permit or right granted in terms of this Act to comply with any term or condition of a permit or right or any provision of this Act due to an act of war, hostility, insurrection or an act of nature, may not be regarded as failure to comply with such a term or condition of a permit or right or provision of this Act, as the case may be.
+(2)    The holder who is prevented from complying with a term or condition of a permit or a right or a provision of this Act as provided for in subsection (1) must notify the Petroleum Agency by notice in writing—
+(a)   as soon as possible, setting out particulars of the nature, extent and causes of their failure to comply with any term or condition of a permit or right, or any provision of this Act;
+(b)   as soon as the vis major event ends and request the Minister to extend the duration of the reconnaissance permit or the exploration or production phase of the petroleum right, as the case may be.
+(3)    The Minister may, upon request in terms of subsection (2) (b), extend, by notice in writing, the duration of the permit or the exploration or production phase of the petroleum right, as the case may be, on such conditions as may be determined by the Minister.
+(4)    The Minister may refuse a request for extension referred to in subsection (2) (b) if the holder of a permit or right concerned could have complied with the terms and conditions of a permit or petroleum right by taking reasonable steps which were available to such holder.
+(5)    The provisions of this section may not be construed as absolving any holder from complying with any obligation under this Act or any other Act to pay any royalties, annual charges, rent or fees.
+77.     Unitisation.  
+(1)    A holder of a petroleum right must notify the Petroleum Agency of any petroleum accumulation which extends beyond the boundaries of its area.
+(2)    The Petroleum Agency may, for the purpose of ensuring optimum recovery of petroleum, require that petroleum operations be carried out on the basis of a unitised development where—
+(a)   petroleum accumulation extends beyond the boundaries of the petroleum right area; and
+(b)   at least one holder has made a declaration of a commercial discovery.
+(3)    The process, terms and conditions for petroleum operations to be carried out on the basis of a unitised development, which are fair and equitable to the holders, must be fully set out in the petroleum right.
+(4)    The Minister may, after a due process to be determined in the terms and conditions of the petroleum right has been exhausted—
+(a)   impose a unitised development arrangement which is fair and equitable to the affected holders and will ensure optimum recovery of petroleum as envisaged in section 2 (j); or
+(b)   cancel the petroleum right of a holder or holders who unreasonably failed to carry out any provision of the unitisation proposal.
+78.     Cross-border co-operation and unitisation.  
+
+The State may, where an accumulation of petroleum extends onto the land or the continental shelf of another country, seek to reach an agreement with that other country on the most efficient co-ordination of petroleum activities in connection with accumulation of petroleum as well as the apportionment of the accumulation of petroleum.
+79.     Information and data.  
+(1)    The holder of a reconnaissance permit, exploration right or petroleum right who conducts reconnaissance, exploration or production operations must submit such information, data, including geological, geophysical, technical, financial and economic reports, studies, analysis, progress reports and interpretations to the Petroleum Agency as may be prescribed.
+(2)    The data and information submitted in terms of subsection (1) become the sole property of the State.
+(3)    Notwithstanding the provisions of subsection (2)—
+(a)   a holder of a petroleum right who acquired the data and information contemplated in subsection (1) may use it for the duration of such a right; and
+(b)   a holder of a reconnaissance permit who acquired the data and information contemplated in subsection (1) may use it for a period determined in section 40.
+80.     Disclosure of information and data.  
+(1)    Data and information contemplated in section 79 (3) must be kept confidential by the Petroleum Agency for a period contemplated in that section.
+(2)    Notwithstanding the provisions of subsection (1), the Petroleum Agency may disclose information and data contemplated in section 79 (1)—
+(a)   if it is in the interest of advancing the objects referred to in section 2;
+(b)   after a period of 10 years has lapsed, which period must be reckoned from the date of notarial execution of a permit or a right in terms of which such data was acquired; or
+(c)   from the date on which a permit or right in terms of which such data and information was acquired has lapsed, is cancelled, abandoned or relinquished; and
+(d)   if disclosure is permitted in terms of the Promotion of Access to Information Act.
+(3)    Neither the State, the Petroleum Agency, nor any of its employees—
+(a)   is liable for the bona fide or inadvertent release of information or data submitted in terms of this Act; and
+(b)   guarantee the accuracy or completeness of any such information or data or interpretation thereof.
+81.     Samples.  
+(1)    A holder of a reconnaissance permit or petroleum right may not export data and samples, including geological and reservoir samples, cuttings, cores, liquid and gas samples without the written approval of the Petroleum Agency.
+(2)    The Petroleum Agency may approve the exportation of data and samples provided—
+(a)   that representative samples and copies of the data have first been delivered to the Petroleum Agency;
+(b)   the holder returns the data or samples to the Petroleum Agency within 30 days after the interpretation or analysis or when directed to do so by the Petroleum Agency; and
+(c)   copies of the interpretation or analysis reports are submitted to the Petroleum Agency within 30 days after the completion of the interpretation or analysis.
+82.     Minister’s power to direct submission of specified information or data.  
+
+The Minister may, in order to achieve the objects of this Act and to fulfil any of the functions in terms of this Act, direct in writing that specified information or data be submitted by—
+(a)   an applicant for a reconnaissance permit, petroleum right or retention permit, as the case may be;
+(b)   any holder of a reconnaissance permit, petroleum right or retention permit; or
+(c)   any owner or lawful occupier of land which is the subject of a reconnaissance permit, petroleum right or retention permit or an application for such a right or permit.
+83.     Environmental authorisations.  
+(1)    The Minister is the responsible authority for administering the National Environmental Management Act as it relates to reconnaissance exploration or production activities.
+(2)    The National Environmental Management Act determines whether an environmental authorisation is required for reconnaissance, exploration and production activities.
+(3)    Where an environmental authorisation is required in terms of the National Environmental Management Act for an application for a reconnaissance permit or petroleum right such environmental authorisation is a condition prior to the issuing of such reconnaissance permit or the granting of such petroleum right in terms of this Act.
+84.     Issuing of closure certificate.  
+(1)    The holder of an exploration, production or petroleum right remains responsible for any environmental liability, pollution, ecological degradation, the pumping and treatment of extraneous water, compliance with the conditions of the environmental authorisation and the management and sustainable closure thereof, until the Minister has issued a closure certificate to the holder in terms of this Act.
+(2)    On the written application in the prescribed manner by the holder of an exploration, production or petroleum right, the Minister may transfer such environmental liabilities and responsibilities as may be identified in the environmental management report and any prescribed closure plan to a person with such qualifications as may be prescribed.
+(3)    The holder of an exploration, production or petroleum right, or the person contemplated in subsection (2), as the case may be, must apply for a closure certificate upon—
+(a)   the lapsing, abandonment or cancellation of the right in question;
+(b)   cessation of the exploration or production operation; or
+(c)   the relinquishment of a portion of a block to which an exploration, production or petroleum right relates.
+(4)    An application for a closure certificate must be made to the Petroleum Agency within 30 days of lapsing, abandonment, cancellation, cessation or relinquishment contemplated in subsection (3) and must be accompanied by the required information, programmes, plans and reports as prescribed.
+(5)    No closure certificate may be issued unless the Chief Inspector and other government department responsible for the administration of any law which relates to a matter affecting the environment have confirmed in writing that the provisions pertaining to health and safety and management of pollution to water resources, the pumping and treatment of extraneous water and compliance to the conditions of the environmental authorisation have been addressed.
+(6)    Notwithstanding the provisions of subsection (5), a closure certificate may be issued without the confirmation of the Chief Inspector and other government department responsible for the administration of law which relates to a matter affecting the environment if the holder did not undertake invasive exploration operations.
+(7)    Confirmation from the Chief Inspector and other government department contemplated in subsection (5) must be received within 60 days from the date on which the Petroleum Agency informs such Chief Inspector or government department to do so in writing, failing which the Petroleum Agency must process and finalise the application for a closure certificate.
+(8)    When the Minister issues a certificate, he or she may return the financial provision contemplated in section 45 of the National Environmental Management Act, as the Minister may deem appropriate, to the holder of an exploration, production or petroleum right, or the person contemplated in subsection (2), but may retain any portion of such financial provision for latent and residual safety, health or environmental impact which may become known in the future.
+(9)    A portion which may be retained as contemplated in subsection (8) and the period for which it may be retained, must be determined in the prescribed manner.
+(10)    The holder of an exploration, production or petroleum right, or the person contemplated in subsection (2), as the case may be, must plan for, manage and implement such procedures and such requirements on petroleum operations closure, as may be prescribed.
+(11)    The Minister may, in consultation with the Minister responsible for environmental affairs, identify areas where petroleum operations are interconnected or their safety, health, social or environmental impacts are integrated, which results in a cumulative impact and publish such areas in the Gazette.
+(12)    The Minister may, in consultation with the Minister responsible for environmental affairs, publish by notice in the Gazette strategies to facilitate the closure of operations where petroleum operations are interconnected, have an integrated impact or pose a cumulative impact.
+(13)    The holder of an exploration, production or petroleum right, or the person contemplated in subsection (2), as the case may be, operating or who has operated within an area identified in subsection (11), must submit a closure plan which is aligned with the closure strategies contemplated in subsection (12).
+(14)    The Minister may, in consultation with the Minister responsible for environmental affairs, prescribe the methodology for the apportionment of liability in respect of petroleum operations that are interconnected or have an integrated health, safety, social or environmental impact.
+(15)    No closure certificate may be issued unless complete and correct—
+(a)   exploration reports in terms of sections 50 and 79 have been submitted to the Petroleum Agency;
+(b)   data contemplated in section 79 has been submitted to the Petroleum Agency; or
+(c)   surface and the relevant underground geological plans have been submitted to the Petroleum Agency.
+85.     Removal of buildings, structures and other objects.  
+(1)    When an exploration, production or petroleum right lapses, is cancelled or abandoned, or when any exploration or production operation ceases, the holder of any such right may not demolish or remove any building structure or object—
+(a)   which may not be demolished or removed in terms of any other law; or
+(b)   which is to be retained in terms of an agreement between the holder and the owner or lawful occupier of the land, which agreement has been approved by the Minister in writing.
+(2)    The provisions of subsection (1) do not apply to production or exploration equipment which may be removed lawfully.
+86.     Approval of joint operating agreements.  
+(1)    Joint operating agreements and any amendments thereto must, after signature by all parties, be submitted to the Petroleum Agency for approval.
+(2)    The Petroleum Agency may refuse to approve a joint operating agreement as contemplated in subsection (1) only if the provisions of the agreement are inconsistent with this Act.
+87.     Financial guarantee for petroleum operations.  
+(1)    A holder of a right granted in terms of this Act must, before notarial execution of the right, provide a financial guarantee in a format to be determined by the Petroleum Agency within 60 days from the date of request, guaranteeing the availability of sufficient funds for the due fulfilment of exploration or production activities in respect of the applicable term.
+(2)    The Minister may, on request by the Petroleum Agency, cancel the petroleum right if the holder fails to provide the financial guarantee contemplated in subsection (1) notwithstanding a reasonable opportunity afforded to the holder by the Petroleum Agency to provide the guarantee.
+(3)    The Petroleum Agency must request the holder to make written representations regarding its intention to invoke the provisions of subsection (2) within 30 days from the date of request before proceeding to make a written request to the Minister to cancel the right.
+88.     Minister’s power to suspend or cancel permit or right.  
+(1)    The Minister may, subject to subsections (2), (3) and (4), cancel or suspend any reconnaissance permit, retention permit, technical co-operation permit or an exploration, production or petroleum right if the holder thereof—
+(a)   is conducting any reconnaissance, exploration or production operation in contravention of this Act;
+(b)   fails to provide a financial guarantee as contemplated in section 87;
+(c)   breaches any material term or condition of such right or permit;
+(d)   is contravening any condition of an environmental authorisation;
+(e)   has submitted inaccurate, false, fraudulent, incorrect or misleading information for the purposes of an application or in connection with any matter required to be submitted under this Act;
+(f)   fails to meet the requirements to progress to another term as contemplated in section 63; and
+(g)   fails to meet the requirement to progress to production phase as contemplated in section 59.
+(2)    Before acting under subsection (1), the Minister must—
+(a)   give written notice to the holder indicating the intention to suspend or cancel the right or permit;
+(b)   set out the reasons why he or she is considering suspending or cancelling the right or permit;
+(c)   afford the holder a reasonable opportunity to show why the right, permit or permission should not be suspended or cancelled; and
+(d)   notify the mortgagee, if any, of the exploration, production or petroleum right concerned of his or her intention to suspend or cancel the right.
+(3)    The Minister may, before suspending or cancelling the permit or right, direct the holder to take specified measures to remedy any contravention, breach or failure.
+(4)    If the holder does not comply with the directive given under subsection (3), the Minister may act under subsection (1) against the holder after having—
+(a)   given the holder a reasonable opportunity to make representations; and
+(b)   considered any such representations.
+(5)    The Minister may, by written notice to the holder lift a suspension if the holder—
+(a)   complies with a directive contemplated in subsection (3); or
+(b)   furnishes compelling reasons for the lifting of the suspension.
+89.     Restriction or prohibition of exploration and production on certain land or block.  
+(1)    Subject to subsection (2) and section 48 of the National Environmental Management: Protected Areas Act, 2003 (Act No. 57 of 2003), no reconnaissance permit or petroleum right may be granted in respect of—
+(a)   land comprising a residential area;
+(b)   any public road, railway or cemetery; or
+(c)   any land being used for public or government purposes or reserved in terms of any other law.
+(2)    A reconnaissance permit or petroleum right may be granted in respect of the land contemplated in subsection (1) if the Minister is satisfied that—
+(a)   it is in the national interest; and
+(b)   the granting of such right or permit will not detrimentally affect the interests of members of the public who will be directly affected.
+(3)    Where an application or authorisation is required in terms of any other legislation for related land or block use, such application must also be made, or such authorisation must also be requested in terms of that legislation.
+90.     Optimal production of petroleum resources.  
+(1)    The Petroleum Agency may, subject to subsection (2), direct the holder of a petroleum right to take corrective measures if the Petroleum Agency establishes that the petroleum is not being produced optimally in accordance with the production work programme and a continuation of such practice will detrimentally affect the attainment of the objects referred to in section 2.
+(2)    The Petroleum Agency must, before issuing the directive contemplated in subsection (1) afford the holder an opportunity to make representations within 30 days from the date of the notice.
+(3)    The Petroleum Agency may, after having considered the holder’s representations as contemplated in subsection (2)—
+(a)   notify the holder that it agrees with the content of the said representations; or
+(b)   direct the holder in writing to take the necessary corrective measures to ensure that petroleum is produced optimally within a reasonable time-frame to be indicated in the notice; and
+(c)   indicate that non-compliance with the directive may result in the suspension or cancellation of the petroleum right.
+91.     Compensation payable under certain circumstances.  
+(1)    The holder of a reconnaissance permit, exploration, production or petroleum right must notify the Petroleum Agency if that holder is prevented from commencing or conducting any reconnaissance, exploration or production operations because the owner or the lawful occupier of the land in question—
+(a)   refuses to allow such holder to enter the land;
+(b)   places unreasonable demands in return for access to the land; or
+(c)   cannot be found in order to apply for access.
+(2)    The Petroleum Agency must, within 14 days from the date of the notice referred to in subsection (1)—
+(a)   call upon the owner or lawful occupier of the land to make representations regarding the issues raised by the holder of a reconnaissance permit, exploration, production or petroleum right;
+(b)   inform that owner or occupier of the rights of the holder of a right or permit in terms of this Act;
+(c)   set out the provisions of this Act which such owner or occupier is contravening; and
+(d)   inform that owner or occupier of the steps which may be taken, should he or she persist in contravening the provisions.
+(3)    If the Petroleum Agency, after having considered the issues raised by the holder under subsection (1) and any written representations by the owner or the lawful occupier of the land, concludes that the owner or occupier has suffered or is likely to suffer loss or damage as a result of the reconnaissance, exploration or production operations, the Petroleum Agency must request the parties concerned to endeavour to reach an agreement for the payment of compensation for such loss or damage.
+(4)    If the parties fail to reach an agreement, compensation must be determined by arbitration as provided for in the terms and conditions of the right or by a competent court.
+(5)    If the Petroleum Agency, having considered the issues raised by the holder under subsection (1), any representations by the owner or occupier of land and any written recommendation by the Petroleum Development and Environmental Committee, concludes that any further negotiation may detrimentally affect the objects of this Act referred to in section 2, the Petroleum Agency may recommend to the Minister that such land be expropriated in terms of section 92.
+(6)    If the Petroleum Agency determines that the failure of the parties to reach an agreement or to resolve the dispute is due to the fault of the holder of the reconnaissance permit, exploration right, production or petroleum right, the Petroleum Agency may in writing prohibit such holder from commencing or continuing with reconnaissance, exploration or production operations on the land or block in question until such time as the dispute has been resolved through arbitration or by a competent court.
+(7)    The owner or lawful occupier of land on which reconnaissance, exploration or production operations will be conducted, must notify the Petroleum Agency if that owner or occupier has suffered or is likely to suffer any loss or damage as a result of the exploration or production operation, in which case this section applies with the changes required by the context.
+(8)    Where the owner or lawful occupier of land referred to in subsection (7) has suffered or is likely to suffer any loss or damage and such loss or damage may result in the relocation or resettlement of the owner or lawful occupier of land, such relocation or resettlement must be carried out in the prescribed manner.
+92.     Minister’s power to expropriate property for purpose of exploration or production.  
+(1)    If it is necessary for the achievement of the objects referred to in section 2, the Minister may, in accordance with section 25 (2) and (3) of the Constitution, expropriate any land or any right therein and pay compensation in respect thereof.
+(2)    
+(a)    Sections 6, 7 and 9 (1) of the Expropriation Act, 1975 (Act No. 63 of 1975), apply to any expropriation in terms of this Act.
+(b)    Any reference in the sections referred to in paragraph (a) to “the Minister” must be construed as being a reference to the Minister defined in this Act.
+93.     Lapsing of right, permit or permission.  
+(1)    Any right, permit or permission granted or issued in terms of this Act lapses, whenever—
+(a)   the holder is finally deregistered in terms of the Companies Act, 2008 (Act No. 71 of 2008), and no application has been made or was made to the Minister for the consent in terms of section 29, or such permission has been refused;
+(b)   it is cancelled in terms of section 88;
+(c)   it is abandoned; or
+(d)   the holder has failed to execute the permit, right or deed of amendment notarially as contemplated in section 42.
+(2)    In the event that the holder is liquidated or sequestrated, the right, permit or licence must be sold and such sale is subject to the provisions of section 29.
+CHAPTER 5   GENERAL AND MISCELLANEOUS PROVISIONS  
+94.     Power to enter petroleum right area.  
+(1)    The Minister may designate any employee of the Petroleum Agency as an authorised person who can carry out the functions contemplated in subsection (4) and in section 95.
+(2)    An authorised person must be furnished with a certificate signed by the Minister stating that he or she has been authorised under subsection (1).
+(3)    An authorised person must, at the request of any person, exhibit the certificate referred to in subsection (2) to such a person.
+(4)    An authorised person may, on the authority of a warrant issued by a magistrate—
+(a)   enter any area where exploration or production operations are being conducted in order to obtain evidence if he or she has reason to believe that any provision of this Act has been or is being contravened;
+(b)   direct the person in control of the exploration or production operations or any person employed by the holder—
+(i)   to deliver or furnish any information, including books, records or other documents, in the possession or under the control of that person that pertains to the investigation; and
+(ii)   to render such assistance as the authorised person requires in order to enable him or her to perform his or her functions under this Act;
+(c)   inspect any book, record, statement or other document including electronic records, documents or data and make copies thereof or extracts therefrom;
+(d)   examine any appliance or other material or substance found in such area;
+(e)   take samples of any material or substance and test, examine, analyse and classify such samples; and
+(f)   seize any material, substance, book, record, statement or other document including electronic records, documents or data which might be relevant to a prosecution under this Act and keep it in his or her custody.
+(5)    The person from whom the control of any book, record or document including electronic records or data has been taken, may, at his or her own expense and under the supervision of the authorised person, make copies thereof or extracts therefrom.
+95.     Routine inspections.  
+
+Any authorised person may, without a warrant—
+(a)   enter any place where exploration or production operations are being conducted in order to inspect any activity, process or operation carried out in or upon the area or place in question; and
+(b)   require the holder of the right, permit or permission in question or the person in charge of such area or place or any person carrying out or in charge of the carrying out of such activities, process or operations to produce any book, record, statement or other document including electronic documents, information or data relating to matters dealt with in this Act, for inspection or for the purpose of obtaining copies thereof or extracts therefrom.
+96.     Orders, suspensions and instructions.  
+(1)    If an authorised person finds that a contravention or suspected contravention of, or failure to comply with any provision of this Act or any other law governing the permitted activity or any term or condition of any right, permit or permission granted or issued or an environmental authorisation issued, has occurred or is occurring on the petroleum right area or place where exploration or production operations or processing operations are being conducted, the authorised person may—
+(a)   order the holder of the relevant right, permit or permission, or the person in charge of such area, any person carrying out or in charge of the carrying out of such activities or operations or the manager, official, employee or agent of such holder or person, to take immediate rectifying steps; or
+(b)   order that the reconnaissance, exploration, production or processing operations or part thereof be suspended or terminated, and give such other instructions in connection therewith as may be necessary.
+(2)    The Director-General must confirm or set aside any order contemplated in subsection (1).
+(3)    The Director-General must notify the relevant holder or other person contemplated in subsection (1) in writing within 60 days after the order referred to in subsection (1) has been confirmed or set aside, failing which such order lapses.
+97.     Prohibition of obstruction, hindering or opposing of authorised person.  
+
+No person may obstruct, hinder or oppose any authorised person or any other person in the performance of his or her duties or the exercise of his or her powers and functions in terms of this Act.
+98.     Prohibition of occupational detriment against employee.  
+(1)    The holder of a right, permit or permission may not subject any of his or her employees to any occupational detriment on account, or partly on account, of any such employee disclosing information to the Minister, the Director-General or any authorised person—
+(a)   regarding the failure by such holder to comply with any provision of this Act;
+(b)   to the effect that such holder is conducting exploration or production operations, as the case may be, in a manner which is contrary to the objects contemplated in section 2 and contrary to the local content plan; or
+(c)   that any activity or operation which is being conducted by such holder does not comply with any provision of this Act, any other law or any term or condition of such right, permit or permission.
+(2)    For the purposes of this section, occupational detriment means “occupational detriment” as defined in section 1 of the Protected Disclosures Act, 2000 (Act No. 26 of 2000).
+99.     Internal appeal process and access to courts.  
+(1)    Any person whose rights or legitimate expectations have been materially and adversely affected or who is aggrieved by any administrative decision in terms of this Act, may appeal within 30 days of becoming aware of such administrative decision in the prescribed manner to—
+(a)   the Director-General, if it is an administrative decision by the Petroleum Agency or any officer to whom the power has been delegated or a duty has been assigned by or under this Act; or
+(b)   the Minister, if it is an administrative decision that was taken by the Director-General.
+(2)    
+(a)    An appeal in terms of subsection (1) suspends the administrative decision.
+(b)    Any subsequent application in terms of this Act must be suspended pending the finalisation of the appeal referred to in paragraph (a).
+(3)    No person may apply to a court for the review of an administrative decision contemplated in subsection (1) until that person has exhausted his or her remedies in terms of this section.
+(4)    Sections 6, 7 (1) and 8 of the Promotion of Administrative Justice Act, 2000 (Act No. 3 of 2000), apply to any court proceedings contemplated in this section.
+100.     Serving of documents.  
+(1)    Any notice, order, directive or other document which is required in terms of this Act to be served on or given to any person, must be regarded as having been duly served or given if it is—
+(a)   delivered by hand to that person; or
+(b)   sent by registered mail to that person’s last known business, postal or residential address.
+(2)    Any notice, order, directive or any other document issued in terms of this Act is valid according to the terms thereof, despite any want of form or lack of power on the part of any officer who issues or authenticates it as long as such power is subsequently validly conferred upon the officer.
+101.     Offences.  
+
+Any person is guilty of an offence if he or she—
+(a)   contravenes or fails to comply with—
+(i)   section 6, 45, 48, 52 or 53;
+(ii)   section 95, 97 or 98;
+(iii)   section 85;
+(iv)   section 36;
+(v)   any directive, notice, suspension, order, instruction or condition issued, given or determined in terms of this Act;
+(vi)   any direction contemplated in section 96; or
+(vii)   any other provision of this Act;
+(b)   submits inaccurate, incorrect or misleading information in connection with any matter required to be submitted under this Act.
+102.     Penalties.  
+
+Any person convicted of an offence in terms of this Act is liable—
+(a)   in the case of an offence referred to in section 101 (a) (i), to a fine not exceeding 10 per cent of the person’s or right holder’s annual turnover in the Republic and its exports from the Republic during the person’s or right holder’s preceding financial year or to imprisonment for a period not exceeding four years, or to both a fine and such imprisonment;
+(b)   in the case of an offence referred to in section 101 (a) (ii), to a fine not exceeding 10 per cent of the person’s or right holder’s annual turnover in the Republic or its exports from the Republic during the person’s or right holder’s preceding financial year or to imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment;
+(c)   in the case of an offence referred to in section 101 (a) (iii), to a fine not exceeding five per cent of the person’s or right holder’s annual turnover in the Republic and its exports from the Republic during the person’s or right holder’s preceding financial year or to imprisonment for a period not exceeding 10 years, or to both such fine and such imprisonment;
+(d)   in the case of an offence referred to in section 101 (a) (v), to the penalty that may be imposed in a magistrate’s court for a similar offence;
+(e)   in the case of an offence referred to in section 101 (a) (vi) or (vii), to a fine not exceeding five per cent of the person’s or right holder’s annual turnover in the Republic and its exports from the Republic during the person’s or right holder’s preceding financial year;
+(f)   in the case of an offence referred to in section 101 (b), to a fine not exceeding 10 per cent of the person’s or right holder’s annual turnover in the Republic or its exports from the Republic during the person’s or right holder’s preceding financial year for each day that such person persists in contravention of the said provision; and
+(g)   in the case of any conviction of an offence in terms of this Act for which no penalty is expressly determined, to a fine or to imprisonment for a period not exceeding six months or to both a fine and such imprisonment.
+103.     Administrative penalty.  
+(1)    
+(a)    An authorised person referred to section 109 may make a recommendation in writing to the Director-General that an administrative fine be imposed on the holder who has failed to comply with any order contemplated in section 96.
+(b)    The authorised person must serve a copy of the recommendation on the holder concerned.
+(c)    The holder may make written representations to the Director-General within 30 days of receipt of a copy of the recommendation.
+(d)    A representation made in terms of paragraph (c) may not be used against the holder in any criminal or civil proceedings in respect of the same set of facts.
+(2)    
+(a)    The Director-General, after considering the recommendation and any representation made in terms of subsection (1) (c), must within the prescribed period from the date of receipt of the holder’s representations or after expiry of the 30-day period referred to in that subsection without such representations having been made, whichever is the earlier—
+(i)   disregard the recommendation;
+(ii)   impose a fine not exceeding R800 000; or
+(iii)   refer the matter to the National Prosecuting Authority for a decision as to whether the holder should be charged with an offence.
+(b)    The Director-General must in writing notify the holder of his or her decision made in terms of paragraph (a) within the prescribed period.
+(c)    The holder may appeal the decision of the Director-General to the Minister in terms of section 99.
+(d)    Save if the holder has lodged an appeal in terms of paragraph (c), the holder must pay any fine imposed in terms of paragraph (a) (ii) within 30 days of receipt of the Director-General’s notification thereof in terms of paragraph (b).
+(e)    If the right holder fails to pay the fine within the period referred to in paragraph (d) and an appeal has not been lodged within the required period, the Director-General may forthwith file with the clerk or registrar of a competent court a certified copy of the notice contemplated in paragraph (b), and the notice thereupon has the effect of a civil judgment lawfully given in that court in favour of the Department.
+(3)    Money received by the Department in payment of administrative fines imposed in terms of subsection (1) must be paid to a fund established and controlled by the Petroleum Agency in terms of this Act.
+(4)    The Petroleum Agency must, in consultation with the Minister, use the money in the fund for the promotion of exploration activities in the petroleum industry and matters incidental thereto.
+104.     Appointment of operator.  
+(1)    If the holder of a right, permit or permission appoints any person or employs an operator to perform any work within the boundaries of the reconnaissance or petroleum right area, as the case may be, such holder remains responsible for compliance with this Act.
+(2)    A copy of the contract appointing the operator must be submitted to the Petroleum Agency within 14 days from the date of signing for noting.
+105.     Amendment of rights, permits, work commitments, programmes and plans.  
+
+A retention permit, reconnaissance permit, petroleum right, exploration work commitment, development and production work programme, or an environmental authorisation issued in terms of the National Environmental Management Act, may not be amended or varied without the written consent of the Minister.
+106.     Delegation and assignment.  
+(1)    The Minister may, subject to such conditions as he or she may impose, in writing delegate any power conferred on him or her by or under this Act, except a power to make regulations or deal with any appeal in terms of section 99, and may assign any duty so imposed upon him or her to the Director-General, the Chief Executive Officer or any officer.
+(2)    The Minister may, in delegating any power or assigning any duty under subsection (1), authorise the further delegation of such power and the further assignment of such duty by a delegatee or assignee.
+(3)    The Director-General, the Chief Executive Officer or any other officer to whom a power has been delegated or to whom a duty has been assigned by or under this Act, may in writing delegate any such power or assign any such duty to any other officer.
+(4)    The Minister, Director-General, Chief Executive Officer or officer may at any time—
+(a)   withdraw a delegation or assignment made in terms of subsection (1), (2) or (3); and
+(b)   withdraw or amend any decision made by a person exercising a power or performing a duty delegated or assigned in terms of subsection (1), (2) or (3), as the case may be: Provided that no existing rights of any person are affected by such withdrawal and amending of a decision.
+(5)    The Minister, Director-General, Chief Executive Officer or officer is not divested of any power or exempted from any duty delegated or assigned by him or her.
+107.     Regulations.  
+(1)    The Minister may, by notice in the Gazette, make regulations regarding—
+(a)   the local content plan which must address skills development, prioritisation of recruitment of local persons and national participation through procurement of goods and services by black persons;
+(b)   the exploitation, processing, utilisation or use of or the disposal of any petroleum;
+(c)   procedures in respect of appeals lodged under this Act;
+(d)   fees payable in relation to any right or permit issued or granted in terms of this Act;
+(e)   fees payable in relation to any appeal contemplated in this Act;
+(f)   the form of any application in terms of this Act and of any consent or document required to be submitted with such application, and the information or details which must accompany any such application;
+(g)   the form, conditions, issuing, renewal, abandonment, suspension or cancellation of any environmental authorisation, permit, licence, certificate, permission, receipt or other document which may or has to be issued, granted, approved, required or renewed in terms of this Act;
+(h)   the form of any register, record, notice, sketch plan or information which may or must be kept, given, published or submitted in terms of, or for the purposes of, this Act;
+(i)   the prohibition on the disposal of any petroleum or the use thereof for any specified purpose or in any specified manner or for any other purpose or in any other manner than a specified purpose or manner;
+(j)   the restriction of, or regulating the disposal or use of, any petroleum in general;
+(k)   the consultation with owners or lawful occupiers of land and other interested and affected parties;
+(l)   matters relating to upstream petroleum health and safety;
+(m)   the manner in which relocation or resettlement of the owner or lawful occupier as contemplated in section 91 must be carried out;
+(n)   any matter which may or must be prescribed for in terms of this Act; and
+(o)   any other matter, the regulation of which may be necessary or expedient in order to achieve the objects of this Act.
+(2)    No regulation relating to State revenue or expenditure may be made by the Minister except with the concurrence of the Minister of Finance.
+(3)    Any regulation made under this section may provide that any person contravening such regulation or failing to comply therewith, is guilty of an offence and liable on conviction to a fine or to imprisonment for a period not exceeding six months.
+108.     Proof of facts.  
+
+In any legal proceedings in terms of this Act, any statement, entry or information in or on any book, plan, record or other document is admissible as prima facie evidence of the facts in or on it by the person who made, entered, recorded or stored it.
+109.     Act binds State.  
+
+This Act binds the State, save in so far as criminal liability is concerned.
+110.     Transitional arrangements and amendment of laws.  
+(1)    The amendment of the law mentioned in Schedule 2 does not affect the transitional arrangements, which are set out in Schedule 1.
+(2)    The law mentioned in Schedule 2 is hereby amended to the extent indicated in the third column of that Schedule.
+111.     Short title and commencement.  
+(1)    This Act is called the Upstream Petroleum Resources Development Act, 2024, and comes into operation on a date fixed by the President by proclamation in the Gazette.
+(2)    Different dates may be so fixed in respect of different provisions of this Act.
+SCHEDULE 1   TRANSITIONAL ARRANGEMENTS  
+1.     Definitions.  
+
+In this Schedule, unless the context indicates otherwise—
+“day”    means a calendar day, excluding a Saturday, Sunday or public holiday, and when any particular number of days are prescribed for the performance of any act, those days must be reckoned by excluding the first and including the last day;
+“exploration right”    means an exploration right granted in terms of section 80 of the Mineral and Petroleum Resources Development Act;
+“Mineral and Petroleum Resources Development Act”    means the Mineral and Petroleum Resources Development Act, 2002 (Act No. 28 of 2002);
+“MPRD Regulations”    means the Mineral and Petroleum Resources Development Regulations, 2004;
+“pending application”    means an application that was lodged in terms of the Mineral and Petroleum Resources Development Act, but was not finalised before the commencement of this Act;
+“prescribed”    means prescribed by regulation;
+“production right”    means a production right granted in terms of section 84 of the Mineral and Petroleum Resources Development Act;
+“reconnaissance permit”    means a reconnaissance permit issued in terms of section 75 of the Mineral and Petroleum Resources Development Act; and
+“technical cooperation permit”    means a technical cooperation permit issued in terms of section 77 of the Mineral and Petroleum Resources Development Act.
+2.     Objects of Schedule.  
+
+The objects of this Schedule are, in addition to the objects contemplated in section 2 of this Act, to—
+(a)   ensure that security of tenure is protected in respect of reconnaissance and technical co-operation permits, exploration rights and production rights; and
+(b)   give the holder of a technical cooperation permit, exploration right and production right an opportunity to transition to this Act.
+3.     Pending applications.  
+(1)    Any pending application for a technical cooperation permit, exploration, production right or renewal for an exploration right or production right, permission to remove and dispose of any petroleum, Ministerial consent to transfer or encumber an exploration right or production right, Ministerial consent to amend a permit or right, lodged in terms of the Mineral and Petroleum Resources Development Act but not finalised immediately before this Act took effect, must be finalised in terms of the Mineral and Petroleum Resources Development Act.
+(2)    A technical cooperation permit in respect of which an application for an exploration right has been lodged, or an exploration right in respect of which a production right has been lodged in terms of the Mineral and Petroleum Resources Development Act when this Act takes effect, remains in force until such a right has been granted or refused, notwithstanding its expiry date.
+4.     Continuation of permission to remove and dispose.  
+
+A permission to remove and dispose in terms of section 20 of the Mineral and Petroleum Resources Development Act in force immediately before this Act took effect, continues to be in force subject to the terms and conditions under which it was granted until it is terminated or expires.
+5.     Continuation of social and labour plan.  
+(1)    A social and labour plan in force immediately before this Act takes effect remains in force until it expires and all the local economic development projects have been completed, after which a petroleum holder must submit a local content plan for approval, as prescribed, within 120 days from the date of expiry of the social and labour plan.
+(2)    Notwithstanding the expiry of a social and labour plan, local economic development projects that are not finalised at the expiry of the social and labour plan must be finalised within a period to be determined by the Petroleum Agency.
+6.     Continuation of reconnaissance permit.  
+
+A reconnaissance permit in force immediately before this Act took effect, continues to be in force until it expires, subject to the terms and conditions under which it was granted.
+7.     Transition of technical cooperation permit to petroleum right.  
+(1)    A technical cooperation permit in force immediately before this Act takes effect, or after this Act takes effect, continues to be in force until it expires, subject to the terms and conditions under which it was issued.
+(2)    A holder of a technical cooperation permit contemplated in subitem (1)—
+(a)   has the exclusive right to apply for a petroleum right in respect of the area to which the permit relates; and
+(b)   must apply for a petroleum right in terms of section 43 of this Act before the expiry of the technical cooperation permit.
+(3)    A technical cooperation permit in respect of which an application for a petroleum right has been lodged as contemplated in subitem (2) (b), remains valid until such time as the application for a petroleum right is granted or refused in terms of this Act.
+8.     Conversion of exploration right to petroleum right (exploration phase).  
+(1)    An exploration right in force immediately before this Act takes effect, or after this Act takes effect, continues to be in force until the expiry of the term (initial, first, second or third renewal term) that was in force when this Act came into effect, subject to the terms and conditions under which it was granted.
+(2)    A holder of an exploration right referred to in subitem (1)—
+(a)   has the exclusive right to convert such exploration right in respect of the area to which it relates to a petroleum right for exploration phase or production phase; and
+(b)   must apply for conversion to a petroleum right before the expiry of the term referred to in subitem (1), failing which the exploration right in question will cease to exist.
+(3)    An exploration right in respect of which an application for conversion to a petroleum right has been lodged remains valid until such time as the application for conversion is granted or refused.
+(4)    An application for conversion to a petroleum right must—
+(a)   be lodged in a prescribed manner;
+(b)   state the reasons and period for which the next term is required;
+(c)   be accompanied by—
+(i)   the prescribed non-refundable application fee;
+(ii)   a detailed report reflecting the exploration results, the interpretation thereof and the exploration expenditure incurred;
+(iii)   a report reflecting the extent of compliance with the conditions of the environmental authorisation; and
+(iv)   a detailed exploration work commitment and exploration expenditure for the next term.
+(5)    The Minister must grant a conversion of an exploration right to a petroleum right if the holder—
+(a)   has complied with the terms and conditions of the exploration right;
+(b)   is not in contravention of any provision of the Mineral and Petroleum Resources Development Act;
+(c)   has relinquished a petroleum right area in accordance with the terms and conditions of the exploration right;
+(d)   has access to financial resources and has the technical ability to conduct the proposed exploration operation optimally in accordance with the exploration minimum work commitment for the next term;
+(e)   has complied with the conditions of the environmental authorisation;
+(f)   has, where applicable, been granted an amended or a new environmental authorisation in terms of the National Environmental Management Act.
+(6)    The holder of a petroleum right and the Petroleum Agency must agree on the terms and conditions for the petroleum right, subject to the retention of terms and conditions under which the exploration right was granted.
+(7)    If State participation is not provided for in the terms and conditions of an exploration right, then the provisions of section 34 of this Act will apply when the petroleum right holder applies for approval to progress to the production phase in terms of section 58 of this Act.
+(8)    If the terms and conditions for a production right were not agreed upon and annexed to the exploration right, then such terms and conditions must be—
+(a)   determined in terms of the provisions of this Act;
+(b)   agreed upon between the holder and the Petroleum Agency; and
+(c)   approved by the Minister.
+(9)    If the terms and conditions for a production right were annexed to an exploration right, then such terms and conditions will constitute terms and conditions for a petroleum right.
+(10)    A petroleum right is valid for the equivalent remaining period of the converted exploration right, subject to application for approval to progress to the next term or phase as contemplated in section 46 of this Act.
+(11)    The Minister must refuse to grant a conversion of the exploration right to a petroleum right if the requirements contemplated in subitems (4) and (5) have not been satisfied.
+(12)    If the Minister refuses to grant a conversion as contemplated in subitem (10), the exploration right will automatically cease to exist.
+(13)    The holder must lodge the petroleum right within 90 days from the date of notification of conversion at the Mineral and Petroleum Titles Registration Office for registration.
+9.     Conversion of exploration right to petroleum right (production phase).  
+(1)    A holder of an exploration right that is in the third renewal period after this Act takes effect, must apply for conversion to a petroleum right for the production phase before the expiry of the third renewal period, failing which the exploration right in question will cease to exist.
+(2)    An application for conversion to a petroleum right as contemplated in subitem (1) must be lodged in a prescribed manner if the holder has—
+(a)   declared a commercial discovery;
+(b)   elected to develop the commercial discovery;
+(c)   paid the prescribed non-refundable application fee;
+(d)   relinquished a percentage of the exploration right area in accordance with the terms and conditions of the exploration right; and
+(e)   access to financial resources and has the technical ability to conduct development and production operations optimally in accordance with the development and production programme.
+(3)    An application for conversion to a petroleum right contemplated in subitem (1) must be accompanied by—
+(a)   the prescribed development and production programme in respect of a petroleum field to be developed;
+(b)   a report reflecting the extent of compliance with the conditions of the environmental authorisation during the last renewal period of the exploration right;
+(c)   a detailed report reflecting the exploration results, the interpretation thereof and the exploration expenditure incurred;
+(d)   where applicable, an application for a new environmental authorisation or amendment in terms of the National Environmental Management Act;
+(e)   a prescribed local content plan.
+(4)    The Minister must grant a conversion of an exploration right to a petroleum right if the holder has—
+(a)   demonstrated access to adequate financial and technical resources and competence to undertake efficient, optimal and timely development and production operations;
+(b)   demonstrated that the development and production programme will ensure efficient, optimal and timely production of the petroleum resources;
+(c)   the proposed development and production programme is consistent with Good International Petroleum Industry Practice;
+(d)   complied with the requirements referred to in subitems (1), (2) and (3);
+(e)   complied with the conditions of the environmental authorisation;
+(f)   where applicable, been granted an amended or a new environmental authorisation in terms of the National Environmental Management Act; and
+(g)   complied with the terms and conditions of the exploration right and is not in breach of any provisions of the Mineral and Petroleum Resources Development Act.
+(5)    The Minister must refuse to grant a conversion of the exploration right to a petroleum right if the requirements contemplated in subitems (3) and (4) have not been satisfied.
+(6)    A petroleum right is valid for the period stipulated in section 14 of this Act subject to application for approval to progress to the next term as contemplated in section 58 of this Act.
+(7)    The determination of terms and conditions for the petroleum right must be done in accordance with the provisions of item 8 (6).
+10.     Conversion of production right to petroleum right.  
+(1)    A production right in force immediately before this Act takes effect, or after this Act takes effect, continues in force for a period not exceeding five years, or until the date of its expiry if such expiry comes before the five years, subject to the terms and conditions under which it was granted.
+(2)    A holder of a production right must lodge the right for conversion before the expiry period referred to in subitem (1), in the prescribed manner.
+(3)    The Minister must grant a conversion of a production right to a petroleum right if the holder—
+(a)   has complied with the terms and conditions of the production right; and
+(b)   is not in contravention of any provision of the Mineral and Petroleum Resources Development Act.
+(4)    The terms and conditions of a production right will constitute the terms and conditions of a petroleum right, subject to the necessary changes.
+(5)    A petroleum right is valid for the equivalent remaining period of the converted production right, subject to application for approval to progress to the next term as contemplated in section 58 of this Act.
+(6)    The holder must lodge the petroleum right within 90 days from the date of notification of conversion at the Mineral and Petroleum Titles Registration Office for registration, and simultaneously lodge the production right for deregistration.
+11.     Application of National Environmental Management Act to petroleum right.  
+(1)    Until such time that amendments are effected to the National Environmental Management Act, a specific environmental management Act, or the regulations issued under any such Act, to be in line with the provisions of this Act, the provisions of this item shall apply.
+(2)    For purposes of the application of the National Environmental Management Act, any specific environmental management Act or the regulations issued under any such Act, to a petroleum right as envisaged in this Act—
+(a)   any reference in this Act to the exploration phase of the petroleum right must be construed as a reference to the exploration right, inclusive of all renewals thereof, as provided for in terms of the Mineral and Petroleum Resources Development Act, 2002, and inclusive of all terms of such exploration phase; and
+(b)   any reference in this Act to the production phase of the petroleum right must be construed as a reference to the production right, and inclusive of all renewals thereof, as provided for in terms of the Mineral and Petroleum Resources Development Act, 2002, and inclusive of all terms of such production phase.
+(3)    For purposes of application of the National Environmental Management Act, any specific environmental management Act or the regulations issued under any such Act, applicable to a reconnaissance permit, exploration right or, production right or petroleum right granted in terms of the Mineral and Petroleum Resources Development Act, 2002, any reference to the Mineral and Petroleum Resources Development Act, 2002, in relation to a reconnaissance permit, exploration right, or production right or petroleum right must be construed as a reference to a reconnaissance permit or relevant phases of the petroleum right, as the case may be, in terms of this Act.
+SCHEDULE 2   AMENDMENT OF LAWS  
+
+No. and Year
+Short Title
+Extent of amendment or repeal
+Act No. 28 of 2002
+Mineral and Petroleum Resources Development Act, 2002
+Amendment of section 1
+
+
+1.   Section 1 of the Mineral and Petroleum Resources Development Act, 2002 (hereinafter referred to as “the principal Act”), is hereby amended—
+
+
+(a) by the deletion of the definition of “block”;
+
+
+(b) by the substitution in the definition of “broad based economic empowerment” for paragraph (a) of the following paragraph—
+
+
+“(a) redressing the result of past or present discrimination based on race, gender or other disability of historically disadvantaged persons in the minerals industry, related industries and in the value chain of such industries; and”;
+
+
+(c) by the substitution in paragraph (b) of the definition of “broad based economic empowerment” for subparagraph (i) of the following subparagraph—
+
+
+“(i) the ownership, participation in or the benefiting from existing or future mining, prospecting operations;”;
+
+
+(d) by the substitution for the definition of “contractual royalties” of the following definition—
+
+
+“ ‘contractual royalties’ means any royalties or payment agreed to between parties in a mining operation;”;
+
+
+(e) by the deletion of the definition of “designated agency”;
+
+
+(f) by the deletion of the definition of “development programme”;
+
+
+(g) by the substitution for the definition of “employee” of the following definition—
+
+
+“ ‘employee’ means any person who works for the holder of a reconnaissance permission, prospecting right, mining right, mining permit or retention permit, and who is entitled to receive any remuneration, and includes any employee working at or in a mine, including any person working for an independent contractor;”;
+
+
+(h) by the substitution for the definition of “exclusionary act” of the following definition—
+
+
+“ ‘exclusionary act’ means any act or practice which impedes or prevents any person from entering into or actively participating in the mineral industry, or entering into or actively participating in any market connected with the mineral industry;”;
+
+
+(i) by the deletion of the definition of “exploration area”;
+
+
+(j) by the deletion of the definition of “exploration operation”;
+
+
+(k) by the deletion of the definition of “exploration right”;
+
+
+(l) by the deletion of the definition of “exploration work programme”;
+
+
+(m) by the substitution for the definition of “holder” of the following definition:
+
+
+“ ‘holder’ in relation to a prospecting right, mining right, mining permit or retention permit, means the person to whom such right or permit has been granted or such person’s successor in title;”;
+
+
+(n) by the deletion in the definition of “mineral” of paragraphs (b) and (c);
+
+
+(o) by the deletion of the definition of “petroleum”;
+
+
+(p) by the deletion of the definition of “petroleum reservoir”;
+
+
+(q) by the deletion of the definition of “production area”;
+
+
+(r) by the deletion of the definition of “production right”;
+
+
+(s) by the deletion of the definition of “reconnaissance operation”;
+
+
+(t) by the deletion of the definition of “reconnaissance permit”;
+
+
+(u) by the substitution for the definition of “residue deposit” of the following definition—
+
+
+“ ‘residue deposit’ means any residue stockpile remaining at the termination, cancellation or expiry of a prospecting right, mining right, mining permit or an old order right;”;
+
+
+(v) by the substitution for the definition of “residue stockpile” of the following definition:
+
+
+“ ‘residue stockpile’ means any debris, discard, tailings, slimes, screening, slurry, waste rock, foundry sand, beneficiation plant waste, ash or any other product derived from or incidental to a mining operation and which is stockpiled, stored or accumulated for potential re-use, or which is disposed of, by the holder of a mining right, mining permit or an old order right;”;
+
+
+(w) by the substitution for the definition of “sustainable development” of the following definition:
+
+
+“ ‘sustainable development’ means the integration of social, economic and environmental factors into planning, implementation and decision making so as to ensure that mineral resources development serves present and future generations;”;
+
+
+(x) by the deletion of the definition of “technical cooperation permit”; and
+
+
+(y) by the substitution in the definition of “topsoil” for paragraph (d) of the following paragraph—
+
+
+“(d) is not of a depth of more than 0,5 metres or such other depth as the Minister may prescribe for a specific prospecting or a mining area;”.
+
+
+Amendment of section 2
+
+
+2.   Section 2 of the principal Act is hereby amended by the substitution for paragraphs (a), (b), (c), (d), (e), (g), (h) and (i) of the following paragraphs, respectively—
+
+
+“(a) recognise the internationally accepted right of the State to exercise sovernity over all the mineral resources within the Republic;
+
+
+(b) give effect to the principle of the State’s custodianship of the nation’s mineral resources;
+
+
+(c) promote equitable access to the nation’s mineral resources to all the people of South Africa;
+
+
+(d) substantially and meaningfully expand opportunities for historically disadvantaged persons, including women and communities, to enter into and actively participate in the mineral, industries and to benefit from the exploitation of the nation’s mineral resources;
+
+
+(e) promote economic growth and mineral resources development in the Republic, particularly development of downstream industries through provision of feedstock, and development of mining inputs industries;
+
+
+(g) provide for security of tenure in respect of prospecting, exploration, mining operations;
+
+
+(h) give effect to section 24 of the Constitution by ensuring that the nation’s mineral resources are developed in an orderly and ecologically sustainable manner while promoting justifiable social and economic development; and
+
+
+(i) ensure that holders of mining rights contribute towards the socio-economic development of the areas in which they are operating.”.
+
+
+Amendment of section 3
+
+
+3.   The following section is hereby substituted for section 3 of the principal Act—
+
+
+“Custodianship of nation’s mineral resources
+
+
+3.   (1)  Mineral resources are the common heritage of all the people of South Africa and the State is the custodian thereof for the benefit of all South Africans.
+
+
+(2)  As the custodian of the nation’s mineral resources, the State, acting through the Minister, may—
+
+
+(a) grant, issue, refuse, control, administer and manage any reconnaissance permission, prospecting right, permission to remove, mining right, mining permit, retention permit and reconnaissance permit; and
+
+
+(b) in consultation with the Minister of Finance, prescribe and levy, any fee payable in terms of this Act.
+
+
+(3)  The Minister must ensure the sustainable development of South Africa’s mineral resources within a framework of national environmental policy, norms and standards while promoting economic and social development.”.
+
+
+Amendment of section 5
+
+
+4.   The following section is hereby substituted for section 5 of the principal Act—
+
+
+“Legal nature of prospecting right or mining right, and rights of holders thereof
+
+
+5.   (1)  A prospecting right or mining right granted in terms of this Act and registered in terms of the Mining Titles Registration Act, 1967, (Act No. 16 of 1967), is a limited real right in respect of the mineral and the land to which such right relates.
+
+
+(2)  The holder of a prospecting right or mining right is entitled to the rights referred to in this section and such other rights as may be granted to, acquired by or conferred upon such holder under this Act or any other law.
+
+
+(3)  Subject to this Act, any holder of a prospecting right or mining right may—
+
+
+(a) enter the land to which such right relates together with his or her employees, and bring onto that land any plant, machinery or equipment and build, construct or lay down any surface, underground or under sea infrastructure which may be required for the purpose of prospecting or mining, as the case may be;
+
+
+(b) prospect or mine, as the case may be, for his or her own account on or under that land for the mineral for which such right has been granted;
+
+
+(c) remove and dispose of any mineral found during the course of prospecting or mining, as the case may be;
+
+
+(d) subject to the National Water Act, 1998 (Act No. 36 of 1998), use water from any natural spring, lake, river or stream, situated on, or flowing through, such land or from any excavation previously made and used for prospecting or mining purposes, or sink a well or borehole required for use relating to prospecting, mining on such land; and
+
+
+(e) carry out any other activity incidental to prospecting or mining operations, which activity does not contravene the provisions of this Act.”.
+
+
+Amendment of section 5A
+
+
+5.   Section 5A of the principal Act is hereby amended—
+
+
+(a) by the substitution for the words preceding paragraph (a) of the following words:
+
+
+“No person may prospect for or remove, mine, conduct reconnaissance operations for any mineral or commence with any work incidental thereto on any area without—”; and
+
+
+(b) by the substitution for paragraph (b) of the following paragraph—
+
+
+“(b) a reconnaissance permission, prospecting right, permission to remove, mining right, mining permit, retention permit, reconnaissance permit, as the case may be; and”.
+
+
+Amendment of section 38A
+
+
+6.   Section 38A of the principal Act is hereby amended by the substitution for subsection (1) of the following subsection—
+
+
+“(1)  The Minister is the responsible authority for implementing environmental provisions in terms of the National Environmental Management Act, 1998 (Act No. 107 of 1998), as it relates to prospecting or mining activities incidental thereto on a prospecting or mining area.”.
+
+
+Amendment of section 38B
+
+
+7.   Section 38B of the principal Act is hereby amended by the substitution for subsection (2) of the following subsection—
+
+
+“(2)  Notwithstanding subsection (1), the Minister may direct the holder of a right, permit or any old order right, if he or she is of the opinion that the prospecting and mining operations is likely to result in unacceptable pollution, ecological degradation or damage to the environment, to take any action to upgrade the environmental management plan or environmental management programme to address the deficiencies in the plan or programme.”.
+
+
+Amendment of section 45
+
+
+8.   Section 45 of the principal Act is hereby amended by the substitution in subsection (1) for the words preceding paragraph (a) of the following words—
+
+
+“If any prospecting, mining or reconnaissance operations or activities incidental thereto cause or result in ecological degradation, pollution or environmental damage, or is in contravention of the conditions of the environmental authorisation, or which may be harmful to health, safety or well-being of anyone and requires urgent remedial measures, the Minister, in consultation with the Minister of Environmental Affairs and Tourism, may direct the holder of the relevant right or permit in terms of this Act or the holder of an environmental authorisation in terms of National Environmental Management Act, 1998, to—”.
+
+
+Substitution of heading of Chapter 5
+
+
+9.   The following heading is hereby substituted for the heading to Chapter 5 of the principal Act—
+
+
+“MINERALS AND MINING DEVELOPMENT BOARD”
+
+
+Substitution of section 57
+
+
+10.   The following section is hereby substituted for section 57 of the principal Act—
+
+
+“Minerals and Mining Development Board
+
+
+57.   The Minerals and Petroleum Board established in terms of this Act continues to exist under the name of the Minerals and Mining Development Board.
+
+
+Amendment of section 58
+
+
+11.   Section 58 of the principal Act is hereby amended by the substitution in subsection (1) (a) for subparagraphs (ii) and (iii) of the following subparagraphs, respectively—
+
+
+“(ii) the sustainable development of the nation’s mineral resources;
+
+
+(iii) the transformation and downscaling of the minerals and mining industry;”.
+
+
+Repeal of sections 69 to 90
+
+
+12.   Sections 69 to 90 of the principal Act are hereby repealed.
+
+
+Amendment of section 91
+
+
+13.   Section 91 of the principal Act is hereby amended by the substitution in subsection (4) for paragraph (a) of the following paragraph—
+
+
+“(a) in order to obtain evidence, enter any reconnaissance, prospecting, mining or retention area or any place where prospecting operations or mining operations are being conducted where he or she has reason to believe that any provision of this Act has been, is being or will be contravened;”.
+
+
+Amendment of section 92
+
+
+14.   Section 92 of the principal Act is hereby amended by the substitution for paragraph (a) of the following paragraph—
+
+
+“(a) enter any reconnaissance, prospecting, mining or retention area or any place where prospecting or mining are being conducted in order to inspect any activity, process or operation carried out in or upon the area or place in question.”.
+
+
+Amendment of section 93
+
+
+15.   Section 93 of the principal Act is hereby amended—
+
+
+(a) by the substitution in subsection (1) for paragraph (b) of the following paragraph—
+
+
+“(b) any term or condition of any right, permit or permission or any other law granted or issued or an environmental authorisation issued, has occurred or is occurring on the relevant reconnaissance, prospecting, mining or retention area or place where prospecting operations or mining operations or processing operations are being conducted, such a person may—”; and
+
+
+(b) by the substitution in subsection (1) (b) for subparagraph (ii) of the following subparagraph—
+
+
+“(ii) order that the reconnaissance, prospecting, mining or processing operations or part thereof be suspended or terminated, and give such other instructions in connection therewith as may be necessary.”.
+
+
+Substitution of section 101
+
+
+16.   The following section is hereby substituted for section 101 of the principal Act—
+
+
+“Appointment of contractor
+
+
+101.   If the holder of a right, permit or permission appoints any person or employs a contractor to perform any work within the boundaries of the reconnaissance, mining, prospecting or retention area, as the case may be, such holder remains responsible for compliance with this Act.”.
+
+
+Amendment of section 102
+
+
+17.   Section 102 of the principal Act is hereby amended by the substitution for subsection (1) of the following subsection—
+
+
+“(1)  A reconnaissance permission, prospecting right, mining right, mining permit, retention permit, reconnaissance permit, production right, prospecting work programme, mining work programme, environmental management programme or an environmental authorisation issued in terms of the National Environmental Management Act, 1998, as the case may be, may not be amended or varied (including by extension of the area covered by it or by the additional of minerals or a shares or seams, mineralised bodies or strata, which are not at the time the subject thereof) without the written consent of the Minister.”.
+
+
+Amendment of section 104
+
+
+18.   Section 104 of the principal Act is hereby amended by the substitution for subsection (4) of the following subsection—
+
+
+“(4)  The preferent right referred to in subsection (1), shall not be granted in respect of areas, where a prospecting right, mining right, mining permit, retention permit or reconnaissance permit has already been granted.”.
+
+
+Substitution of long title
+
+
+19.   The following long title is hereby substituted for the long title of the principal Act—
+
+
+“To make provision for equitable access to and sustainable development of the nation’s mineral; and to provide for matters connected therewith.”.
+
+
+Substitution of Preamble
+
+
+20.   The following Preamble is hereby substituted for the Preamble of the principal Act—
+
+
+“PREAMBLE
+
+
+RECOGNISING that minerals are non-renewable natural resources;
+
+
+ACKNOWLEDGING that South Africa’s mineral resources belong to the nation and that the State is the custodian thereof;
+
+
+AFFIRMING the State’s obligation to protect the environment for the benefit of present and future generations, to ensure ecologically sustainable development of mineral resources and to promote economic and social development;
+
+
+RECOGNISING the need to promote local and rural development and the social upliftment of communities affected by mining;
+
+
+REAFFIRMING the State’s commitment to reform to bring about equitable access to South Africa’s mineral resources;
+
+
+BEING COMMITTED to eradicating all forms of discriminatory practices in the mineral industries;
+
+
+CONSIDERING the State’s obligation under the Constitution to take legislative and other measures to redress the results of past racial discrimination;
+
+
+REAFFIRMING the State’s commitment to guaranteeing security of tenure in respect of prospecting and mining operations; and
+
+
+EMPHASISING the need to create an internationally competitive and efficient administrative and regulatory regime,”.
+
+
+Amendment of section 111
+
+
+21.   Section 111 of the principal Act is hereby amended by the substitution for subsection (1) of the following subsection—
+
+
+“(1)  This Act is called the Mineral Resources Development Act, 2002, and comes into operation on a date fixed by the President by proclamation in the Gazette.”.
+
+
+Amendment of citation of laws referring to Act 28 of 2002
+
+
+22.   Any reference to the Mineral and Petroleum Resources Development Act, 2002 (Act No. 28 of 2002), contained in any law in force immediately prior to the commencement of the Upstream Petroleum Resources Development Act, 2024, must be construed as a reference to the Mineral Resources Development Act, 2002 (Act No. 28 of 2002).
+
+[EDITORIAL NOTE: The Upstream Petroleum Resources Development Act was erroneously referred to as “2021” in the original Government Gazette.]
+____________
+
+
+End of Document
+(ZA) UPSTREAM PETROLEUM RESOURCES DEVELOPMENT ACT, NO. 23 OF 2024
+Page 72 of 72
+
+

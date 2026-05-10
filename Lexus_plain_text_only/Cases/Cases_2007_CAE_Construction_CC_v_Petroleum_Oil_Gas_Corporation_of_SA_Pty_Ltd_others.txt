@@ -1,0 +1,396 @@
+
+
+
+
+CAE Construction CC v Petroleum Oil & Gas Corporation of SA (Pty) Ltd & others [2007] JOL 18912 (C)
+Judgments Online
+
+Division: Cape of Good Hope 
+Case No: 3667 / 06 
+Hearing Date(s): 31 / 07 / 2006 
+Judgment Date(s): 08 / 12 / 2006 
+Bench: Traverso DJP, Dlodlo J 
+
+
+Keywords
+
+
+Administrative law — Tender process — Cancellation of tender — Review 
+
+Mini Summary
+
+
+The applicant sought an order declaring the first respondent’s cancellation of a tender to be unconstitutional, unlawful and invalid. An order was also sought that the tender be awarded to the applicant. 
+
+Held that a court cannot interfere with a decision where the purpose of the exercise of public power falls within the authority of the functionary, and where the decision, viewed objectively, is rational. Thus, a court cannot interfere with a decision, simply because it disagrees with it. The court’s task is merely to determine whether the decision made is one which achieves a reasonable equilibrium in the circumstances.
+
+The court accepted that the first respondent had good reason for deciding to cancel the tender, and refused to interfere with that decision. The application was dismissed.
+
+ 
+[2007] JOL 18912 (C) at 1
+
+
+
+
+Introduction
+
+[1]    In this application CAE Construction seeks, inter alia, a declaration order that Petro SA's decision taken on 19 January 2006 to  
+[2007] JOL 18912 (C) at 2
+cancel tender E1496 ("the tender") to be inconsistent with the Constitution of the Republic of South Africa, 1996, unlawful and invalid. CAE Construction further seeks the reviewing and setting aside of Petro SA's decision taken on 19 January 2006 to cancel the tender. An order compelling Petro SA to award the tender to CAE Construction is also sought. Mr Katz, assisted by Mr Borgström, appeared for CAE Construction whilst Mr Rosenberg SC, assisted by Ms Pillay, appeared for Petro SA. In this judgment the following Acts have been referred to extensively, namely:
+
+Constitution of the Republic of South Africa Act 108 of 1996 ("the Constitution");
+Promotion of Administrative Justice Act 3 of 2000 ("PAJA"); 
+Preferential Procurement Policy Framework Act 5 of 2000 ("Preferential Procurement Act");
+GN R725 in Government Gazette 22549 of 10 August 2001 Regulations promulgated in terms of Preferential Procurement Policy Framework Act; and
+Public Finance Management Act 1 of 1999 ("PFMA").
+
+Factual background
+
+[2]    The applicant, CAE Construction CC ("CAE Construction") is a close corporation registered in terms of the Close Corporations Act 69 of 1984 and carrying on business at 53 Ysterhoutsingel, Heiderand, Mossel Bay. CAE Construction is a Black Economic Empowerment ("BEE") entity as all of its members are black. It is conducting the business of installing and maintaining electrical and air conditioning services. The first respondent, Petroleum Oil & Gas Corporation  
+[2007] JOL 18912 (C) at 3
+of SA (Pty) Ltd trading as Petro SA ("Petro SA"), is the national oil company of the government of the Republic of South Africa and it owns, operates and manages the government's commercial assets in the petroleum industry. Petro SA's core business includes the exploration and production of oil and natural gas, the marketing and trading of oil and petroleum chemicals and the storage of crude oil on behalf of the Strategic Fuel Fund. Its principal place of business is at 151 Frans Conradie Drive, Parow, Cape Town. The second respondent has its principal place of business at 102 Montague Street, Mossel Bay. The third respondent has its principal place of business at 15 Meul Street, George Industria, George. The first and second respondents have been cited merely because they may have an interest in the relief sought in this application.
+
+[3]    In December 2002, CAE Construction was awarded a contract to supply Petro SA with electrical maintenance services for a period of three years (that is until November 2005). During this period, CAE Construction was granted further contracts by Petro SA for a range of services. CAE Construction grew from a small business with six employees, to one with 18 full-time and up to 50 part-time employees. In June 2005, Petro SA duly called for tenders for these services. The contract period advertised in the tender was 36 months. The estimated tender value was R12 million and the contract value was R10 203 35400. In its "Instructions to Tenderers",  
+[2007] JOL 18912 (C) at 4
+Petro SA indicated that the tender proposals would be scored in accordance with the Procurement Act. On 13 September 2005, CAE Construction submitted a tender proposal to Petro SA. The tender closed later that same day. Five other tenders were also received.
+
+[4]    The tenders were received by an Evaluation Committee which assessed whether the tender proposals met all the formal and "baseline" requirements. Three tenders were eliminated in this process. The three remaining tender proposals – which included that of CAE Construction – were placed on a short list. The recommendations of the Evaluation Team were considered by a Procurement Committee. At this stage the other two tenderers were both eliminated for conflicts of interest, leaving only CAE Construction. At a meeting on 10 November 2005, the Evaluation Committee requested that CAE Construction's existing contract be extended in order for it to properly adjudicate the new tender process. The contract was duly extended until 28 February 2006. On 2 February 2006, CAE Construction was advised that its proposal had been unsuccessful, and that its existing contracts would terminate on 28 February 2006. CAE Construction was aggrieved and raised several concerns with Petro SA. In a letter of 8 February 2006, Petro SA responded as follows:
+
+"We wish to assure you of our continued commitment to transformation, and in particular the development of small black suppliers. Please note, however, that Petro SA is currently in the process of re-evaluating its electrical maintenance  
+[2007] JOL 18912 (C) at 5
+requirements with regard to outsourcing in general. Consequently, in order to make an informed decision, it is necessary for us to re-evaluate the need for services tendered for. On 19 January 2006, the Procurement Committee reviewed all the tenders that were submitted and resolved to cancel the tender. The electrical maintenance services will henceforth be provided and managed by the electrical department, utilizing labour from approved labour suppliers, until the evaluation has been completed." 
+
+CAE Construction contended that the reason for Petro SA's action in rejecting its tender was thus based on its decision to "re-evaluate" its need for an external service provider. This is, however, disputed by Petro SA. On 10 February 2006, CAE Construction noted its dissatisfaction and called for a meeting. A meeting was held on 15 February 2006.
+
+[5]    CAE Construction thereafter approached its attorneys, who in a letter of 24 February 2006 gave notice of this application, and requested that the existing contracts be extended until Petro SA had finalised its "re-evaluation" of the services. In a letter of 27 February 2006, Petro SA refused CAE Construction's request for an extension. In this same letter, it was suggested that Petro SA was not obliged to accept any tender; that PAJA did not apply; and that it bore no duty to supply any unsuccessful tenderer with reasons. Petro SA has subsequently appointed the second and third respondents to supply suitable staff on an ad hoc basis to carry out functions, which is believed to include  
+[2007] JOL 18912 (C) at 6
+the services previously supplied by CAE Construction. They thus appear to be the "labour suppliers" referred to in the letter of 8 February 2006. In its answering papers in this application, Petro SA suggests that the sole reason it did not award the tender to any party was because no acceptable tender was received. The allegation that CAE Construction's tender was unacceptable is justified by a plethora of allegations regarding CAE Construction's ability and its internal state. No reliance is placed on "re-evaluation" process referred to in the letter of 8 February 2006. I deem it necessary for purposes of this judgment to set out infra in summary form the evidence contained in the papers. 
+
+The founding affidavit
+
+[6]    This was deposed to by one Christopher Johannes Fredericks, a member of CAE Construction, the applicant in the matter. After fully defining the parties and stating the nature of the proceedings he proceeded to address the question of urgency. In the latter regard Mr Fredericks averred that the CAE Construction's commercial interests, inter alia, are threatened and violated by Petro SA's current utilisation of the second and third respondents' services without having followed the proper tender procedure. He further stated that the second and third respondents have been effectively awarded the tender without the proper tender process being followed. In Mr Fredericks's view the mere fact that unlawful conduct is being perpetrated on an  
+[2007] JOL 18912 (C) at 7
+ongoing basis merits this application being heard on an urgent basis.
+
+[7]    Dealing with grounds for review Mr Fredericks opined that section 217 of the Constitution providing, inter alia, that contracts for goods or services by organs of State must be done in accordance with a system which is "fair, equitable, transparent, competitive and cost-effective", also provides for the section of categories of preference in the allocation of contracts and the protection or advancement of persons, or categories of persons, disadvantaged by unfair discrimination. In Mr Fredericks's view, Petro SA is an organ of State as defined in section 239 of the Constitution and is accordingly bound in terms of section 217 of the Constitution to contract for goods or services in accordance with the system described in that section. In Mr Fredericks's view the tender was subject to both the Constitution and to the provisions of the Preferential Procurement Policy Framework Act and the regulations made thereunder. Therefore, according to Mr Fredericks, Petro SA only had the right to cancel the award of the tender if one of the three circumstances set out in regulation 10(4) was present. He enumerated the three circumstances and concluded that none of them existed on 19 January 2006 and that therefore in Mr Fredericks's averment cancellation of the tender by Petro SA was invalid, unlawful and unconstitutional and thus falls to be set aside on this ground alone. Mr Fredericks averred that Petro SA cannot rely on regulations 10(4)(a) and 10(4)(b)  
+[2007] JOL 18912 (C) at 8
+because there is still a need for the services as evidenced by the fact that the services are rendered by the Second and the Third Respondents utilizing CAE Construction's former employees. In Mr Fredericks' averment CAE Construction's tender met all the requirements set out by Petro SA as evidenced by the latter's facsimile informing the latter that it was one of the short-listed tenderers.
+
+[8]    Mr Fredericks was critical of Petro SA's letter to the effect that the latter was conducting an evaluation of the needs for an electrical maintenance services contract and accused Petro SA of failure to comply with Regulation 10(4). Mr Fredericks further stated that Petro SA being an organ of State whose actions in considering and accepting tenders constitute "administrative action" in terms of section 33 of the Constitution and PAJA, is also a public enterprise in terms of section 195(2)(c) of the Constitution. In his view, the conduct impugned in this application did not satisfy Petro SA's constitutional obligations. According to Mr Fredericks the decision by Petro SA not to award the tender but rather to cancel same is not only in contravention of the Constitution, the Procurement Act and the Regulations enacted thereunder, but is also in violation of section 6(2) of PAJA in that:
+
+Petro SA was not authorised to cancel the tender by the relevant empowering provision; 
+[2007] JOL 18912 (C) at 9
+(ii) a mandatory and material procedure and condition prescribed by regulation 10(4) was not complied with as the tender was cancelled in violation of section 6(2)(b) of PAJA;
+the decision to cancel the tender falls to be set aside also in terms of section 6(2)(c) of PAJA because the action was procedurally unfair inasmuch as procedural fairness required that CAE Construction be accorded an opportunity to make representations, at least in writing, on any factor that might have led Petro SA not to award the tender at all prior to cancelling the tender;
+the decision falls to be set aside and reviewed in terms of section 6(2)(d) of PAJA as the action was materially influenced by an error of law inasmuch as the Procurement Committee believed that they were entitled to cancel the tender on a mistaken understanding of the law;
+irrelevant considerations were taken into account and relevant considerations ignored; and
+the exercise of the power of the Procurement Committee of Petro SA to cancel is so unreasonable that no reasonable person could have so exercised the power or performed the function and consequently the action should be set aside (section 6(2)(h) of PAJA). 
+[2007] JOL 18912 (C) at 10
+
+[9]    Mr Fredericks contended that apart from the illegality he had already described, the purported cancellation of the award was unlawful for another reason. This reason, according to Mr Fredericks, is that Petro SA effectively entered into a contract with the second and third respondents in terms of which the respondents are currently performing the services that would otherwise have been rendered by CAE Construction or the other short-listed tenderers. In his view, this constitutes an unlawful circumvention of the required tender procedures. This, according to Mr Fredericks, is yet another reason why CAE Construction becomes entitled to the relief sought set out in the notice of motion. 
+
+Answering affidavit
+
+[10]    This affidavit was deposed to by Mr Owen Cedric Tobias, legal counsel of Petro SA having been duly authorised to do so. Mr Tobias first set out what he regarded as CAE Construction's challenge on the decision by Petro SA on 19 January 2006 and then dealt with section 217 of the Constitution and the Preferential Procurement Act. Mr Tobias emphasised that there are one or two requirements that must be met for section 217(1) of the Constitution to apply, namely:
+
+the entity must be an organ of State in the national, provincial or local sphere of government; or
+the entity must be any other institution identified in national legislation. 
+[2007] JOL 18912 (C) at 11
+
+In Mr Tobias's view, Petro SA is not an organ of State "in the national, provincial or local sphere of government". Petro SA was formed from the merger of three previous entities, Mossgas (Pty) Ltd, Soekor E&P (Pty) Ltd and parts of the Strategic Fuel Fund Association and it operates as a commercial non-listed entity under South African law. According to Mr Tobias, seeing that the operations and functions of Petro SA are entirely analogous to those of other private multi-national petrochemical companies, it is therefore also on that basis, not an organ of State in the national, provincial or local government. In his view therefore, Petro SA does not fall within the purview of section 217(1) of the Constitution. Mr Tobias, however, introduced a rider in that he also stated that in the event that the court finds that Petro SA is bound by section 217(1) then in that event his submission would be that Petro SA's actions have been entirely consistent with its obligations under the section. He denied that the Preferential Procurement Act applied to Petro SA. Mr Tobias put emphasis on the fact that the Regulations under the Preferential Procurement Act on which CAE Construction places extensive reliance expressly state in regulation 2(1) that despite anything to the contrary contained in any law, these Regulations apply to organs of State contemplated in section 1(iii) of the Preferential Procurement Act. Mr Tobias stated Petro SA's legal representatives diligently searched but could not locate a Government Gazette in which Petro SA has been listed as an institution to which the Preferential Procurement Act  
+[2007] JOL 18912 (C) at 12
+applies. Accordingly, Mr Tobias holds a belief that Petro SA has not been "recognized by the Minister by notice in the Government Gazette as an institution or category of institutions to which this Act applies". He contended that Petro SA does not constitute an organ of State for the purposes of the Preferential Procurement Act and is not bound by either the Act or the Regulations promulgated thereunder.
+
+[11]    Similarly on this contention Mr Tobias added a rider, namely that in the alternative and in the event that the court does find that the Preferential Procurement Act applies to Petro SA then his submission will be that Petro SA duly complied with the provisions thereof. Mr Tobias referred to regulation 10(4) of the Preferential Procurement Act which provides as follows:
+
+"An organ of state may, prior to the award of a tender, cancel a tender if–
+
+due to changed circumstances, there is no longer need for the goods or services tendered for; or
+funds are no longer available to cover the total envisaged expenditure; or
+no acceptable tenders are received."
+
+On the basis of the above Mr Tobias contended that Petro SA decided to cancel the tender on the basis of regulation 10(4)(c) and he proceeded to set out, inter alia, the following which he termed background to the cancellation of the tender and stated it bears relevance: 
+[2007] JOL 18912 (C) at 13
+"Tenders received were assessed by the Evaluation Committee so as to ensure that the prerequisites for the grant of the tender had been met and secondly, that they were technically acceptable. It should be noted in this regard that the role of the Evaluation Committee is limited to ensuring that a tenderer complies with the baseline requirements of the Evaluation Criteria/technical questionnaire (i.e. the document that forms part of EN2 to the founding papers);
+
+The Evaluation Committee found three tenderers to be acceptable with regard to scope of work requirements and complied with all obligatory statutes and standards;
+
+The submission noted that Petro SA had received complaints from current and ex-employees of CAE on numerous occasions and their legal department also had to intervene in the past."
+
+[12]    According to Mr Tobias the meeting held on 15 February 2006 between CAE Construction management and Petro SA, afforded CAE Construction an opportunity to discuss their concerns in respect of Petro SA's decision to cancel the tender. It was in this meeting that CAE Construction management advanced reasons in support of the fact that Petro SA should not cancel the tender and should in fact award it to CAE Construction because:
+
+CAE Construction had incurred debt to the value of R600 000;
+CAE Construction's vehicles were not paid in full;
+CAE Construction was facing liquidation;
+fraudulent tender processes; 
+[2007] JOL 18912 (C) at 14
+(v) expectations that in respect of the award of the tender; and
+job losses on the part of CAE workers.
+
+The meeting of 15 January 2006, according to Mr Tobias, confirmed to Petro SA that CAE Construction's financial situation was dire and that it lacked financial ability/creditworthiness. In Mr Tobias's averment, financial/creditworthiness are fundamental prerequisites for the award of a tender.
+
+[13]    Mr Tobias enumerated the factors that, in his view, underpinned CAE Construction having been found to be unacceptable, namely:
+
+breach of contract in respect of previous contraventions of labour legislation, failure to provide the necessary tools and equipment, failure to establish on site suitable offices and failure to employ personnel with suitable qualifications and experience; 
+extremely tenuous relations with its employees that threatened CAE Construction's ability to deliver on the tender that forms the subject-matter of this application;
+CAE Construction was factually insolvent and awarding it the tender would pose grave and serious risks for Petro SA. Its financial situation also did not accord with the prerequisites for a successful tender; and
+a high level of monitoring, support assistance and intervention would be required by Petro SA in respect of CAE Construction in order to ensure that the latter was capable of complying  
+[2007] JOL 18912 (C) at 15
+with its contractual and technical standard and relevant legislation – this would pose an unduly onerous and even unmanageable burden on Petro SA. Mr Tobias extensively dealt with each of the above.
+
+[14]    Mr Tobias contended that Petro SA's decision to cancel the tender does not constitute administrative action for purposes of PAJA. In the alternative and in the event of a finding that it constituted administrative action, Mr Tobias averred that such decision was lawful, reasonable and procedurally fair. Mr Tobias stated that Petro SA cancelled the tender because no acceptable tenders were received. In addition he referred to the terms and conditions of the tender and mentioned that in terms thereof, Petro SA reserved the right to reject "any or all Tenders for any reason whatsoever and is under no obligation to accept the lowest or any other Tender". Furthermore, "Petro SA does not bind itself to accept the lowest or part of or all of any Tender submitted".
+
+[15]    Responding to the averment by CAE Construction that the second and the third respondents entered into agreements with Petro SA after each of them had been successfully awarded Tender 1472, Mr Tobias explained that this was a separate and distinct tender from that which forms the subject-matter of the present application. According to Mr Tobias these two respondents were awarded tender to provide, on an ad hoc basis and as and when required by Petro SA, suitably trained, qualified and  
+[2007] JOL 18912 (C) at 16
+experienced staff in its employ in certain job categories to provide certain assignment to Petro SA's Operations Division. He emphatically denied that Petro SA is presently utilising the services of the second and third respondents without having followed the proper tender procedure. Another aspect Mr Tobias explained was that the services of former employees of CAE Construction which are being utilised by the second and third respondents are those who were contract workers and whose contracts terminated on termination of the contract between CAE Construction and Petro SA on 28 February 2006. He accordingly denied that Petro SA's conduct in that regard is causing damage to CAE Construction's ability to sustain its business and its existence. He did concede that in its "Instruction to Tenderers", Petro SA indicated that the Preferential Procurement Policy Framework Act would determine scores, but emphasised that this does not make the Preferential Procurement Act applicable per se.
+
+[16]    Mr Tobias placed emphasis on the point he made, namely that being short-listed does not necessarily demonstrate that the entity is "acceptable". He also similarly emphasised that compliance with the technical requirements for the award of a tender does not conclusively determine overall acceptability for the award of such tender – in any event the Procurement Committee determined that CAE Construction was not acceptable. He denied that Petro SA acted in contravention of the Constitution, the Preferential  
+[2007] JOL 18912 (C) at 17
+Procurement Act and the Regulations thereunder or section 6(2) of PAJA. 
+
+The replying affidavit
+
+[17]    Mr Fredericks prefixed his reply to Petro SA's answering affidavit by stating that this affidavit and the annexures thereto do not sustain a defence to CAE Construction's application. In his view, the contents of the answering affidavit and the documentation annexed thereto make it even clearer that the application should succeed, including the prayer for a substitution of the impugned decision. Mr Fredericks saluted the fact that the answering affidavit has annexure "OCT5", being the copy of the procurement policy, paragraph 7 of which stating that goods and services are to be evaluated in a manner that shall comply with the Procurement Act and its Regulations. Mr Fredericks also pinpointed paragraph 7.2 of the procurement policy which also provides that the top three scoring suppliers will be considered and Petro SA may negotiate and appoint any or all of them. Mr Fredericks hastened to add that paragraph 7.2, supra, does not make provision for the withdrawal of the tender or "non-appointment" of any of the tenderers.
+
+[18]    According to Mr Fredericks the opposition to the present application by Petro SA on the basis of the reasons advanced for the withdrawal of the tender is inconsistent with the written reasons given by Petro SA for the withdrawal of the tender contained in its letter of 8 February 2006. In his view, the ex  
+[2007] JOL 18912 (C) at 18
+post facto reasons provided for the cancellation of the tender fall to be rejected on the sole ground that it was not the reason Petro SA provided to CAE Construction on 8 February 2006. Mr Fredericks labelled the conduct of Petro SA in this regard as unacceptable and that it falls foul of its duties set out in the Constitution, particularly section 195 thereof. He is quite concerned that CAE Construction was not awarded the tender contrary to the findings of the Executive Procurement Committee which stated in paragraph 6 of its memorandum, that the tender of CAE Construction was "found to be acceptable with regard to the scope of work requirements and complied with all obligatory statutes and standards" and (in paragraph 10 on due diligence exercise) that "in exercising sound financial management we are of the opinion that CAE would be able to meet its proposed undertakings to Petro SA". Mr Fredericks also referred to the technical report by Petro SA of 6 January 2006 which praised the working of CAE Construction in providing adequate electrical services in a 2002 contract. He concluded on this aspect by asserting that the evaluation process as a whole did not find that the tender by CAE Construction was unacceptable.
+
+[19]    Mr Fredericks actually repeated the assertion he made in the founding affidavit that CAE Construction, in his view, had a right or at the very least a legitimate expectation, that before Petro SA would withdraw the tender on the basis it did, it would give those tenderers who were short-listed a  
+[2007] JOL 18912 (C) at 19
+hearing on that issue. He responded on the denial that Petro SA is not a State organ by dealing rather extensively with the status of Petro SA. 
+
+[20]    It is not necessary to repeat his elaborate discussion in this regard. Importantly, Mr Fredericks concluded on this aspect by stating that the decision of Petro SA to withdraw or cancel the tender was certainly an exercise of public power and was required to be rational and not arbitrary at a minimum. He accused Mr Tobias of mala fides on the ex post facto reasoning provided in the latter's answering affidavit. Mr Fredericks conceded that it may well be so that the Preferential Procurement Act and the Regulations thereunder promulgated, do not apply to Petro SA but contended that Petro SA has, and applies, as a procurement policy the provisions of the Preferential Procurement Act and the Regulations thereto. Accordingly, concluded Mr Fredericks, in terms of Petro SA's own procurement policy it may only withdraw a tender properly issued by it if one of the jurisdictional facts set out in regulation 10(4) is present. In Mr Fredericks's view, the decision to cancel was arbitrary and irrational because the documentation revealed that the tender by CAE Construction was acceptable. Accordingly, Petro SA's decision to withdraw the tender was, in Mr Fredericks's view, fatally flawed and falls to be reviewed and set aside for this reason alone.
+
+ 
+[2007] JOL 18912 (C) at 20
+
+[21]    Responding to paragraph 19 of the answering affidavit, Mr Fredericks merely stated that whether or not Petro SA is bound by the Procurement Act and the Regulations thereunder is not decisive of this application. Mr Tobias gave an explanation about complaints Petro SA received from current and ex-employees of CAE Construction. Dealing with the meeting of 10 November 2005, Mr Fredericks averred that the issue of the award of the tender was wrongly deferred. He drew the court's attention to annexures "OCT1" and "OCT3" respectively being the evaluation submission and the technical report particularly the following content: 
+
+"According to the reports and letter examined there is no reason that CAE should not be considered for the allocation of electrical services contracts", 
+
+and: 
+
+"That CAE can be awarded electrical services contract in the event of being the successful vendor or according to the approved tender process."
+
+Mr Fredericks placed heavy reliance not only on the above but also on the conclusion and recommendation of the internal memorandum to the Procurement Committee which concluded thus:
+
+"Petro SA's perception is that the CAE workforce still appears to be demotivated. In spite of this, CAE Construction has been able to maintain an acceptable level of service at most times since the intervention and we find them as an acceptable service provider in terms of the requirements of the electrical service contract. This is obviously subject to their successful evaluation in accordance with Petro SA's  
+[2007] JOL 18912 (C) at 21
+procurement process including a positive due diligence report."
+
+[22]    Mr Fredericks denied that the meeting between Petro SA's management confirmed that CAE Construction's financial situation was dire. What it in fact confirmed, according to him, was that CAE Construction with appropriate financial planning could satisfy the tender and that one of the reasons that it has incurred the debt referred to, was that it had expected (legitimately) to be awarded the tender as a result of past conduct by Petro SA. According to Mr Fredericks being short-listed in the manner in which CAE Construction was, does demonstrate that it was acceptable for purposes of regulation 10(4)(c) and that therefore the Procurement Committee did not decide on a rational basis that the tender by CAE Construction was not acceptable. Mr Fredericks denied the averments in the answering affidavit and tendered explanation on each paragraph. It is not necessary to repeat the explanation he had with regard to each paragraph. 
+
+The issues and submissions
+
+[23]    As a starting point Mr Katz exhaustively dealt with the status of Petro SA. He, inter alia, correctly contended that Petro SA is a wholly owned subsidiary of the Central Energy Fund (Pty) Ltd ("CEF (Pty) Ltd") which is established under the Central Energy Fund Act 38 of 1977 to control and operate the State's Central Energy ("CEF") and Strategic Fuel Fund  
+[2007] JOL 18912 (C) at 22
+("SFF") whilst CEF Ltd is wholly owned by the State and its shares are controlled by the Minister of Mineral & Energy. Mr Katz's further submission (with which I also agree) is that the statutory responsibilities of CEF (Pty) Ltd include the "acquisition, generation, manufacture, marketing and distribution" of any form of energy and the production of artificial fuels. Accordingly, in Mr Katz's correct submission in this regard, Petro SA was thus clearly created as a subsidiary company to perform some of the statutory responsibilities of the CEF. It is common cause that Petro SA is further subject to political oversight from the Minister, who has the power under section 1E(6) of the CEF Act to call for information regarding the business of the CEF and SFF. Thus in Mr Katz's submission Petro SA is bound by Chapter 6 of the PFMA, including the requirement in section 51(1)(a)(iii) that its "accounting officer" must ensure that it has and maintains "an appropriate procurement and provisioning system which is fair, equitable, transparent, competitive and cost-effective". Although in the opposing papers Petro SA contended differently, it would be fair to say that it does not seriously dispute that it is a "public enterprise" in terms of section 195(2)(c) of the Constitution and accordingly bound by the basic values governing public administration in section 195(1) of the Constitution. These would most certainly include a high standard of professional ethics; the efficient, economic and effective use of resources; accountability, transparency in dealing with the public; representivity in its ranks; and redressing "the imbalances of the past to achieve broad representation". 
+
+ 
+[2007] JOL 18912 (C) at 23
+
+[24]    In Institute for Democracy in South Africa & others v African National Congress & others 2005 (5) SA 39 (C) at 55–56, it was suggested that section 195 of the Constitution does not create any enforceable rights. This was followed in the unreported judgment of Motata J in Sebenza Forwarding & Shipping Consultancy v Petro SA & another (case 5601/05, 24 January 2006) at paragraph [16]. This opposite conclusion was however found in Johannesburg Municipal Pension Fund & another v City of Johannesburg & others 2005 (6) SA 273 (W). Reliance has also been placed on section 195 by several courts (President of the RSA v SARFU & others 2000 (1) SA 1 (CC) at paragraphs [133]–[134]; Reuters Group PLC v Viljoen 2001 (12) BCLR 1265 (C) at paragraphs [2]–[4] and [33]–[35]; York Timbers Ltd v Minister of Water Affairs & Forestry & another 2003 (4) SA 477 (T) at 506B; and Rail Commuters Action Group & others v Transnet Ltd t/a Metrorail & others 2005 (2) SA 359 (CC) at paragraph [174]).
+
+[25]    Importantly, Petro SA, however, disputes that it is bound by the provisions of the principles of administrative justice contained in section 33 of the Constitution and PAJA; section 217 of the Constitution relating to procurement policies; and the Procurement Act and its Regulations. These deserve to be dealt with briefly. In terms of section 1 of PAJA, "administrative action" (which is subject to review) includes:
+
+". . . any decision taken by . . . an organ of state when . . . exercising a public power of performing a public function in terms of any  
+[2007] JOL 18912 (C) at 24
+legislation . . . which adversely affects the rights of any person and which has direct, external, legal effect."
+
+[26]    An "organ of state" is in turn defined with reference to section 239 of the Constitution. Mr Katz's submission is that Petro SA is an organ of State in that it is an institution which exercises a public power under the CEF Act. In Mr Katz's submission the fact that Petro SA is a registered company does not change this fact. Even under "narrow" test (see De Ville Judicial Review of Administrative Justice in South Africa (2003) at 41–44 refers to two applicable tests – a "narrow" control test; and a "wider" government entity test, entities such as Telkom (see Directory Advertising Cost Cutters v Minister for Posts, Telecommunications & Broadcasting & others 1996 (3) SA 800 (T) at 811A–B), Transnet (see Transnet Limited v Goodman Brothers (Pty) Ltd 2001 (1) SA 853 (SCA); ABBM Printing & Publishing (Pty) Ltd v Transnet Bpk en 'n ander 1999 (3) SA 1012 (T) at 1019H–I (sic)), and South African Airways (as a subsidiary of Transnet) (see Hoffmann v South African Airways 2001 (1) SA 1 (CC) at paragraph [23]) have been held to be organs of State. Petro SA is no different in principle from these bodies. Mr Katz contended that even if Petro SA is not an organ of State, "administrative action" further includes decisions made by:
+
+". . . a natural or juristic person, other than an organ of state, when exercising a public power or performing a public function in terms of an empowering provision . . ." 
+
+The "empowering provision" can include "a law . . . or an agreement, instrument or other document in terms of which the administrative action was  
+[2007] JOL 18912 (C) at 25
+purportedly taken". In the case of Petro SA's consideration of tenders, such provisions are found in section 217 of the Constitution; the PFMA; and in the rules of the tender process itself. However, Mr Katz almost conceded that not every decision made by bodies exercising a public power will necessarily be susceptible to review as administrative action – especially those commercial and contractual decisions made in relation to substantial entities which enjoy a position of negotiating strength (see Cape Metropolitan Council v Metro Inspection Services (Western Cape) CC 2001 (3) SA 1013 (SCA), in which the court held that the cancellation of a contract did not amount to administrative action. In Logbro Properties CC v Bedderson NO 2003 (2) SA 460 (SCA), the court qualified this proposition to say that the CMC case did not lay down a general proposition. In particular, in CMC the contract was "concluded on equal terms with a major commercial undertaking, without any element of superiority or authority deriving from [the CMC's] public position." It would, however, be different when the public functionary "dictated the conditions".)
+
+Relying on Goodman, supra, the further cases cited in Logbro, paragraph [5] footnote 3 and Minister of Health & another v New Clicks SA (Pty) Ltd & others 2006 (1) BCLR 1 (CC) at paragraph [95], Mr Katz submitted that it is well established that the consideration of tenders constitutes administrative action and that therefore, in his view, the consideration of tenders by Petro SA is subject to judicial scrutiny based on the requirements of lawfulness, procedural fairness and reasonableness as  
+[2007] JOL 18912 (C) at 26
+"codified" in section 6(2) of PAJA. Concluding on this aspect it was Mr Katz's submission that even if the consideration of this tender under discussion in this judgment does not fall into the definitional ambit of administrative action for the purposes of PAJA, it is nevertheless an exercise of public power which is subject to the requirements of rationality and could not be arbitrary (see Pharmaceutical Manufacturers Association of SA: In re Ex parte President of the RSA & others 2000 (2) SA 674 (CC) and importantly, the unreported decision of the Constitutional Court, case CCT 71/05, of 28 September 2006, in Steenkamp NO v The Provincial Tender Board of the Eastern Cape at paragraphs [20]–[22] and [29]–[35].)
+
+[27]    The most important requirement in section 217 of the Constitution is that such bodies must contract for goods and services in terms of a system which is "fair, equitable, transparent, competitive and cost efficient". Sections 217(2) and (3) continue to permit "categories of preference" and the advancement of previously disadvantaged persons – and require a framework for such policies in national legislation. Section 217 only applies to "organs of state in the national, provincial or local sphere of government" and "other institution[s] identified in national legislation". Petro SA is clearly an "organ of state" even though it is not in the national, provincial or local spheres of government. The question, however, remains whether it falls into the category of "any other institution identified in national legislation"? 
+
+ 
+[2007] JOL 18912 (C) at 27
+
+The national legislation identifying "other institutions" subject to section 217 is clearly the PFMA. As seen above, this Act identifies Petro SA as a "major public entity" and section 51(1)(a)(iii) repeats the requirement in section 217 that it must have a procurement system which is "fair, equitable, transparent, competitive and cost efficient". In my view, there can be no doubt that Petro SA is at least bound by the requirements of section 217(1) of the Constitution. It is also not prevented from creating affirmative measures in terms of section 217(2) of the Constitution. In this regard I fully agree with Mr Katz. The question for determination is rather whether Petro SA does have a procurement system to which it is subject. The long title of the Procurement Act states that it was created to give effect to section 217(3) of the Constitution. However, the requirements in section 2 of the Procurement Act do not apply to all bodies referred to in section 217(1) of the Constitution. Rather, it only applies to "organs of state" as defined in the Procurement Act itself. That definition differs from the definition of "organ of state" in section 239 of the Constitution.
+
+[28]    Petro SA has exercised this power. Significantly, Petro SA's procurement policy explicitly states that: 
+
+". . . the evaluation of . . . tenders shall comply with the Procurement Act together with Regulations under the Act." 
+
+This is also reflected in the "Instructions to Tender", which states that the scoring system from the Procurement Act is applicable to this tender. This scoring system is detailed in Part 2 of the  
+[2007] JOL 18912 (C) at 28
+Regulations under the Procurement Act (see GN R725 in Government Gazette 22549 of 10 August 2001. Section 5 of the Procurement Act permitted the Minister of Finance to make regulations regarding any matter that may be necessary or expedient to achieve the aims of the Act). In Mr Katz's submission this includes regulation 10(4), which provides that tenders may only be cancelled prior to their award in three narrow categories – namely, if:
+
+due to changed circumstances there is no longer need for the goods or services tendered for; or
+funds are no longer available to cover the total envisaged expenditure; or 
+no acceptable tenders are received."
+
+Petro SA's procurement policy also provides only for the consideration and award of tenders. Significantly it contains no provision dealing with the withdrawal of tenders. According to Mr Katz Petro SA is bound to follow regulation 10(4), as Petro SA is compelled to follow its own procedures.
+
+[29]    It is important to note that in terms of PAJA, administrative action must not only be based on reasons, but it must also be reasonable and rational when measured against those reasons. According to Chaskalson CJ in the New Clicks case, supra, the requirement for reasonableness is a "variable but higher standard, which in many cases will call for a more intensive scrutiny of administrative decisions than would have been competent under the interim Constitution". In the instant matter papers show that Petro  
+[2007] JOL 18912 (C) at 29
+SA did not believe at all that it was duty bound to supply reasons for its decision. Mr Katz maintained that this stance on the part of Petro SA is totally incorrect. It is common cause that on 8 February 2006 Petro SA wrote a letter to the applicant the gist of which is quoted supra. 
+
+[30]    Importantly Petro SA in its answering affidavit provided a host of reasons. I will in due cause deal with these reasons contained in the answering affidavit. The reasons contained in the answering affidavit are brushed aside in Mr Katz's argument. Mr Katz goes so far as to submit that Petro SA has "flip-flopped" between reasons which, in his submission, clearly indicate that it in fact acted without any good reasons. In Mr Katz's submissions, Petro SA must be held to be bound by the reasons contained in its letter dated 8 February 2006 the contents of which have been partially quoted supra. Mr Katz relied for this contention on the judgment of this Court in Jicama 17 (Pty) Ltd v West Coast District Municipality 2006 (1) SA 116 (C) at paragraphs [11]–[12] (at 121E–122D), where this Court (per Cleaver J) stated the following:
+
+I agree with counsel for the applicant that, having found that a binding agreement had come into effect between the parties, it is not open to the first respondent to raise the other defences raised for the first time in its answering papers. The applicant has come to court in order to deal with the reason which was conveyed to it as being the basis on which the decision to cancel the tender had been made. The reason why the first respondent should not  
+[2007] JOL 18912 (C) at 30
+  now be allowed to supplement the basis on which its previous decision was taken is eloquently set out in a judgment of the Court of Appeal in R v Westminister City Council, Ex parte Ermakov, [1996] 2 All ER 302 (CA) at 315h–316d, viz:
+the court can and, in appropriate cases, should admit evidence to elucidate or, exceptionally, correct or add to the reasons; but should, consistently with Steyn LJ's observations in Ex p Graham, be very cautious about doing so. I have in mind cases where, for example, an error has been made in transcription or expression, or a word or words inadvertently omitted, or where the language used may be in some way lacking in clarity. These examples are not intended to be exhaustive, but rather to reflect my view that the function of such evidence should generally be elucidation not fundamental alteration, confirmation not contradiction. Certainly there seems to me to be no warrant for receiving and relying on as validating the decision evidence – as in this case – which indicates that the real reasons were wholly different from the stated reasons. It is not in my view permissible to say, merely because the applicant does not feel able to challenge the bona fides of the decision-maker's explanation as to the real reasons, that the applicant is therefore not prejudiced and the evidence as to the real reasons be relied upon. This is because, first, I do not accept that it is necessarily the case that in that situation he is not prejudiced; and, secondly, because, in this class of case, I do not consider that it is necessary for the applicant to show prejudice before he can obtain  
+[2007] JOL 18912 (C) at 31
+  relief. Section 64 requires a decision and at the same time reasons; and if no reasons (which is the reality of a case such as the present) or wholly deficient reasons are given, he is prima facie entitled to have the decision squashed as unlawful.
+There are, I consider, good policy reasons why this should be so. The cases emphasise that the purpose of reasons is to inform the parties why they have won or lost and enable them to assess whether they have any ground for challenging an adverse decision. To permit wholesale amendment or reversal of the stated reasons is inimical to this purpose. Moreover, not only does it encourage a sloppy approach by the decision-maker, but it gives rise to potential practical difficulties. In the present case it was not, but in many cases it might be, suggested that the alleged true reasons were in fact second thoughts designed to remedy an otherwise fatal error exposed by the judicial review proceedings. That would lead to application to cross-examine and possibly for further discovery, both of which are, while permissible in judicial review proceedings, generally regarded as inappropriate. Hearings would be made longer and more expensive.'
+Another reason the first respondent should not be allowed to supplement the reasons for its decision by reasons which were clearly taken ex post facto is that if it was allowed to do so, it would in effect be converting the applicant's application for review, which is being brought on narrow grounds, into a full-scale review of its own decision. This  
+[2007] JOL 18912 (C) at 32
+  would be palpably unfair and in any event would be defective for the tender documents of the other tenderers are not before the Court." 
+
+[31]    Truly in Rustenburg Platinum Mines Ltd v CCMA (2006) 115 (SCA) (not as yet reported) the Supreme Court of Appeal highlighted that "the question on review is not whether the record reveals relevant considerations that are capable of justifying the outcome". I hasten to mention though that the point dealt with in the Rustenburg Platinum Mines case, supra, differs significantly to what we are faced with in this matter. Mr Katz submitted that the reasons given in the letter of 8 February 2006 cannot stand for four reasons, namely:
+
+Petro SA's own evidence indicates that they were not the real reasons underlying the Procurement Committee's decision or at the very least not full reason;
+the reason is not rationally connected to any of the information before the Procurement Committee;
+no opportunity was given to the applicant before the tender was withdrawn to deal with any adverse information justifying the decision to withdraw the tender and refer the services to "in-house" personnel; and
+the withdrawal of the tender was unlawful, in that it did not comply with the requirements of Regulations under the Procurement Act.  
+[2007] JOL 18912 (C) at 33
+
+In his submission the decision under review was not:
+
+authorised by empowering provision ie section 6(2)(a)(i) of PAJA;
+mandatory procedures were not followed (section 6(2)(b) of PAJA);
+it was materially influenced by an error of law (section 6(2)(d) of PAJA);
+it was taken for a reason not authorised by, or rationally connected to a purpose in the empowering provision (sections 6(2)(e)(i) and 6(2)(f) of PAJA); and
+irrelevant considerations were taken into account (section 6(2)(e)(iii) of PAJA, lastly, according to Mr Katz if PAJA is found not to apply, it was unconstitutional exercise of public power in that it was ultra vires.
+
+[32]    In Mr Rosenberg's submission a central question for determination in the instant matter, is whether the Preferential Procurement Act applies to Petro SA. He prefixed his submissions on this aspect by maintaining that the Preferential Procurement Act does not apply to Petro SA given the case sought to be made out in the founding papers. In his submission the Preferential Procurement Act is limited in its application ie limited to "organs of state" (section 2 of the Preferential Procurement Act). In Mr Rosenberg's submissions, the Regulations under the Preferential Procurement Act on which CAE Construction based its case provided in regulation 2(1) that despite  
+[2007] JOL 18912 (C) at 34
+anything to the contrary contained in any law that the Regulations apply to organs of State as contemplated in section 1(iii) of the Preferential Procurement Act. I had grave difficulty in following this line of reasoning particularly because my view as already demonstrated earlier on in this judgment is that Petro SA is in fact an organ of State despite the fact that it does not appear to fall within the purview of section 1(a)–(e) of the Preferential Procurement Act (definition of "organ of state") and further despite the fact that it (Petro SA) does not appear to have been recognised by the Ministry by Notice in the Government Gazette as an institution or category of institutions to which the Preferential Procurement Act applies. A question I put to Mr Rosenberg as to how affected his submissions would be should the court come to a finding that Petro SA is in fact an organ of State, evoked an answer that his submissions would not at all be affected by that finding. It seems that Mr Rosenberg conceded that Petro SA may be an organ of State but he persisted that, that alone, would not mean that the Preferential Procurement Act and Regulations thereunder made, apply to Petro SA and that therefore on this point alone, in his view, the applicant cannot succeed on the basis of non-compliance with regulation 10(4). This contention is strengthened by Mr Katz's own submission in his heads of argument where on this aspect he concluded thus: 
+[2007] JOL 18912 (C) at 35
+"It may well be that the Procurement Act does not in its own terms apply to this tender. Similarly, the Regulations under the Procurement Act may also not directly apply to Petro SA."
+
+The possible non-applicability of the Procurement Act and the Regulations thereunder promulgated clearly does not render Petro SA an entity other than an organ of State.
+
+[33]    In the replying affidavit CAE Contruction averred the following:
+
+"Whilst it may be so, and it is not accepted, that Petro SA is not bound by the Preferential Procurement Act and its Regulations, and particularly Regulation 10(4), what is clear is that Petro SA has, and applies, as a procurement policy the provisions of the Preferential Procurement Act and the Regulations thereto."
+
+This averment does not appear in the founding affidavit. The content of paragraph 21 of the founding affidavit merely stated:
+
+"Petro SA clearly indicated in its 'Instruction to Tenderers' for the Tender that the Preferential Procurement Policy Framework Act ('the Procurement Act') will determine the scores."
+
+It cannot be doubted, nor was it so submitted, that the above-quoted contentions contained in the founding affidavit and the replying affidavit are similar. It therefore means that new averment was made by CAE Construction in reply. It is a trite principle of the law of civil procedure that all essential averments must appear in the founding affidavits for the courts will not allow an applicant to make or supplement his case in his replying affidavits and will order any matter appearing therein which should have been in the founding  
+[2007] JOL 18912 (C) at 36
+affidavit to be struck out (see Herbstein and Van Winsen page 75).
+
+[34]    The difficulty with regard to the evaluation of tenders complying with the Procurement Act and the Regulations as reflected in the "Instructions to Tender" stating that the scoring system is to apply becomes further compounded when one considers the following:
+
+As the title of Part 2 of the Regulations suggests, this part covers a wide range of issues, viz, a preference points system, evaluation of tenders, awarding of tenders not scoring highest points, cancellation and re-invitation of tenders. The cancellation of tenders is entirely unrelated to the evaluation and scoring of tenders and as such is dealt with in a separate section of the Regulations that is distinct from the point scoring system and the evaluation.
+The applicant places reliance on clause 7 of Petro SA's procurement policy entitled "Evaluation of Quotations/Tenders". The content of the said clause clearly states that the Preferential Procurement Act as well as the Regulations apply to the "evaluation" of quotations/tenders and specifically that the 80/20 or 90/10 preference point scoring system shall be applicable. I hold a view that this qualified application of the Preferential Procurement Act cannot on the wording of the policy be read to suggest the wholesale application of the Preferential Procurement Act to Petro SA. 
+[2007] JOL 18912 (C) at 37
+
+[35]    It would appear that CAE Construction's interpretation of clause 7 of the procurement policy is irreconcilable with Petro SA's Invitation to Tender in terms whereof "Petro SA does not bind itself to accept the lowest or part or all of any tender submitted."
+
+In addition, the "Standard Terms and Conditions of Tendering" (which also forms an integral part of the invitation to tender) provides: 
+
+"Petro SA reserves the right to reject any or all Tenders for any reasons whatsoever and is under no obligation to accept the lowest or any other tender."
+
+[36]    From the above it is clear that Petro SA is not subject to the relevant statutory provisions relied upon by CAE Construction, nor did Petro SA subject itself to the regulation 10(4) regime. The terms of its procurement policy do not in any way support any such construction but on the contrary, they point otherwise. A finding that Petro SA is not subject to the Preferential Procurement Act makes it difficult to comprehend the legal basis on which CAE Construction places reliance for alleged non-compliance with regulation 10(4). Neither can it be contended, apparently, that there would have been any agreement between the parties to the effect that regulation 10(4) would apply. The terms and conditions of tendering are clearly against the possibility of any such contention in this matter.
+
+[37]    In Mr Rosenberg's submission there is no merit to any challenge under PAJA in that CAE Construction's reliance on PAJA is predicated on the application of the Preferential  
+[2007] JOL 18912 (C) at 38
+Procurement Act (save for the issue of the hearing). The submission by CAE Construction that the decision not to award the tender but rather to cancel it is in violation of section 6(2) for the reasons CAE Construction set out, is strenuously opposed on behalf of Petro SA. In this regard Mr Rosenberg submitted that all reasons canvassed on behalf of CAE Construction are expressly founded on the Preferential Procurement Act. I have been referred for guidance to Bato Star Fishing (Pty) Ltd v Minister of Environmental Affairs & others 2004 (4) SA 490 (CC) where the Constitutional Court observed as follows:
+
+The Minister and the Chief Director argue that the applicant did not disclose its causes of action sufficiently clearly or precisely for the respondents to be able to respond to them. Where a litigant relies upon a statutory provision, it is not necessary to specify it, but it must be clear from the facts alleged by the litigant that the section is relevant and operative. I am prepared to assume, in favour of the applicant, for the purposes of this case, that its failure to identify with any precision the provisions of PAJA upon which it relied is not fatal to its cause of action. However, it must be emphasized that it is desirable for litigants who seek to review administrative action to identify clearly both the facts upon which they base their cause of action, and the legal basis of their cause of action" (see paragraph [27] of judgment and the cases cited therein).
+
+Accordingly, even if PAJA does apply to the cancellation of a tender the facts averred in the founding affidavit must be such that  
+[2007] JOL 18912 (C) at 39
+the basis for the review and setting aside of the decision under PAJA is justified. 
+
+Reasons for the cancellation of the tender
+
+[38]    The letter of 8 February 2006 quoted earlier on in this judgment purported to give reasons why the tender was cancelled (according to CAE Construction). CAE Construction relied heavily on "re-evaluate its need for an external service provider" as having been the reason advanced by Petro SA. Importantly, however, I have not been able to find a correspondence dated prior to the institution of these proceedings wherein CAE Construction sought to request reasons for the cancellation of tender. The letter of 8 February 2006 from Petro SA to CAE Construction was clearly in response to an e-mail from the latter dated 27 January 2006. Of cardinal importance in the letter of 8 February 2006 is the following portion thereof:
+
+". . . On 19 January 2006, Procurement Committee reviewed all the tenders that were submitted and resolved to cancel the tender."
+
+I agree with Mr Rosenberg that the letter of 8 February 2006 can in no way be construed as the furnishing by Petro SA of its full reasons for the decision taken on 19 January 2006. The letter came about in response to a request for an extension of the contract, and not in response to a request for reasons. The letter was a response to an e-mail from CAE Construction in which the latter had itself acknowledged that Petro SA had already advised it that the contract would go out on re-tender as none of the finalists were acceptable. CAE Construction itself acknowledged that  
+[2007] JOL 18912 (C) at 40
+the letter of 8 February 2006 fell short of what can be construed as full reasons. The terms of the letter from CAE Construction were:
+
+"On 8 February 2006 Petro SA alleged that the reason for our client being unsuccessful was due to the fact that Petro SA Procurement Committee resolved to cancel the tender and advised that the service would be rendered by the electrical department using 'approved tender suppliers'. . . . Our client therefore intends, upon receipt of all necessary documents and the full reasons for the decision made, to launch an application in the Cape High Court for reviewing and setting aside the decision" (underlining added).
+
+[39]    It is easy to gather from the above-quoted letter that the decision to cancel was based on reasons which had at that stage not been made available to CAE Construction. CAE Construction's own letter supports the contention that "full reasons" were lacking and still had to be supplied. It is apposite to pay attention to King William's Town Transitional Local Council v Border Alliance Taxi Association (BATA) 2002 (4) SA 152 (E) where the court observed as follows:
+
+"The right to written reasons for administrative action which affects a person's rights is specifically entrenched by s 33(2) read with ss (c) and (d) of S.23(2)(b) of Schedule 6. Reasons are required to enable the person concerned to consider whether an administrative act or decision is justifiable in relation to the reasons for it where his rights are affected or  
+[2007] JOL 18912 (C) at 41
+threatened by it. I have no doubt that the respondent was entitled to written reasons and that these should have been furnished if requested."
+
+In my view, it would not only be unfair and unjustified to confine Petro SA to the letter of 8 February 2006 when considering the reasons for the decision, but it would also be wrong. There is no way and certainly no justifiable basis that this Court should "turn a blind eye" to the reasons set out by Petro SA in its answering affidavit. This case is clearly distinguishable from what obtained in Jicama 17 (Pty) Ltd v West Coast District Municipality, supra. Unlike in the instant matter, the reason on basis of which the tender was cancelled had been furnished and conveyed in the Jicama case. The reasons set out fully in the answering affidavit are by no means reasons which were taken ex post facto.
+
+[40]    The Constitutional Court has on several occasions confirmed that a court cannot interfere with a decision where the purpose of the exercise of public power falls within the authority of the functionary, and where the decision, viewed objectively, is rational. In other words, a court cannot interfere with a decision, simply because it disagrees with it. The court's task is merely to determine whether the decision made is one which achieves a reasonable equilibrium in the circumstances (see Minister of Environmental Affairs & others v Bato Star Fishing (Pty) Ltd, paragraph [49]). 
+
+ 
+[2007] JOL 18912 (C) at 42
+
+[41]    Aforementioned approach must apply to the consideration of the decision dealt with in this matter. In Pharmaceutical Manufacturers Association of South Africa: In re Ex parte Application of President of the RSA 2000 (2) SA 674 (CC) the Constitutional Court observed:
+
+Rationality in this sense is a minimum threshold requirement applicable to the exercise of all public power by members of the Executive and other functionaries. Action that fails to pass this threshold is inconsistent with the requirements of our Constitution and therefore unlawful. The setting of this standard does not mean that the Courts can or should substitute their opinions as to what is appropriate for the opinions of those in whom the power has been vested. As long as the purpose sought to be achieved by the exercise of public power is within the authority of the functionary, and as long as the functionary's decision, viewed objectively, is rational, a Court cannot interfere with the decision simply because it disagrees with it or considers that the power was exercised inappropriately. A decision that is objectively irrational is likely to be made only rarely but, if this does occur, a Court has the power to intervene and set aside the irrational decision." 
+
+In Bel Porto School Governing Body & others v Premier, Western Cape & another 2002 (3) SA 265 (CC) the Constitutional Court further observed:
+
+. . . The fact that there may be more than one rational way of dealing with a particular problem does not make the choice of one rather than the others an irrational decision. The making of such choices is within the domain of the  
+[2007] JOL 18912 (C) at 43
+  Executive. Courts cannot interfere with rational decisions of the Executive that have been made lawfully, on the grounds that they consider that a different decision would have been preferable."
+
+[42]    In Trinity Broadcasting (Ciskei) v Independent Communications Authority of South Africa 2004 (3) SA 346 (SCA) the Supreme Court of Appeal observed the following:
+
+In requiring reasonable administrative action, the Constitution does not, in my view, intend that such action must, in review proceedings, be tested against the reasonableness of the merits of the action in the same way as in an appeal. In other words, it is not required that the action must be substantively reasonable, in that sense, in order to withstand review. Apart from that being too high a threshold, it would mean that all administrative action would be liable to correction on review if objectively assessed as substantively unreasonable: cf Bel Porto School Governing Body and Others v Premier, Western Cape and Another."
+
+[43]    I fully associate myself with the above sentiments. The factors that underpinned CAE Construction having been found to be unacceptable are set out at length in the answering affidavit. In a summarised form they are, inter alia:
+
+breach of contract in respect of previous contraventions of labour legislation, failure to provide the necessary tools and equipment, failure to establish on site suitable offices and  
+[2007] JOL 18912 (C) at 44
+ failure to employ personnel with suitable qualifications and experience;
+extremely tenuous relations with its employees (applicant's) which threatened its ability to deliver on the tender forming the subject-matter of this application;
+unfair dismissal of whistle blowing employees.
+CAE Construction was factually insolvent and awarding it the tender would pose a grave and serious risk to Petro SA. CAE Construction's financial situation did not accord with the prerequisites for a successful tender; and
+a high level of monitoring, support assistance and intervention would be required from Petro SA in respect of CAE Construction in order to ensure that the latter was capable of complying with its contractual and technical standards as well as relevant legislation. This involvement and intervention would pose an unduly onerous and even unmanageable burden on Petro SA.
+
+[44]    CAE Construction attempted to address some of the above in its replying affidavit. For reasons best known to itself, CAE Construction, however, omitted to provide in reply any information in respect of its present financial status. In other words, the averment that CAE Construction is factually insolvent was not negatived. It is noteworthy that of all reasons set out fully in the answering affidavit the alleged insolvency of CAE Construction is of paramount  
+[2007] JOL 18912 (C) at 45
+importance. CAE Construction's creditworthiness seems central to a decision to award it a tender. This is borne out by clause 75 of the Procurement document to which Petro SA is bound, as well as clause 1.11 of annexure EN2 to the founding papers. The latter poses the following significant question:
+
+"Is your company financially sound and/or do you have access to sufficient bridging finance?"
+
+It is important to note that additional information such as a bank statement, latest audited financial statements and a letter of good standing from a bank or financial institution, needs also to be supplied. I have alluded above to the fact that other issues were indeed dealt with in the replying affidavit. It is important to mention though that they were not denied. Certain explanations were made. In my view, it would be totally out of the ordinary and therefore unacceptable that this Court would oblige Petro SA to lie in bed with CAE Construction, an entity that may well be factually insolvent. That would militate against the prerequisites of the tender system and would render Petro SA unable to fulfil its obligations to South Africa. In any event to force Petro SA to take on CAE Construction, would, in the circumstances, be contrary to the expectations of the South African public. The financial status of CAE Construction is certainly a central focus in an endeavour to answer the question whether or not its tender should have been preferred. 
+
+ 
+[2007] JOL 18912 (C) at 46
+
+[45]    I accept that the Procurement Committee arrived at a conclusion favourable to CAE Construction. It, however, remains strange that its conclusion (Procurement Committee) is not supported by the reports submitted to it. I agree with Mr Rosenberg that the fact that the Procurement Committee differed from the recommendations made by the Evaluation Committee does not render the decision challengeable. I have been referred to Cash Paymaster Services (Pty) Ltd v Eastern Cape Province & others 1999 (1) SA 324 (CkH) at 352C–H where the court held as follows:
+
+"Accordingly, it is obvious that they are entitled to have recourse to technical advice relating to the particular task at hand. It is for this reason that it is not uncommon for a tender board to refer matters to technical committees for reports. Having received a report from a technical committee is obviously also not imperative for them to follow the advice of the technical committee. They are at liberty to make their own decision after having assessed the report of such technical committee. With this I have no fault to find. However, if the tender board should refer any particular issue or issues to a technical committee they are in duty bound to consider that report fully in all its aspects and to give due weight to it. If they wish to differ from it, they may do so. It is, however, to be remembered that the technical committee arrives at its findings on that which is contained in the tender documents."
+
+ 
+[2007] JOL 18912 (C) at 47
+
+[46]    Finally an issue raised in the founding papers is that Petro SA's decision to cancel the tender was procedurally unfair in that Petro SA should have afforded CAE Construction an opportunity to make representations (at least in writing) on any fact that might have led it not to award the tender at all prior to cancelling the tender. This necessitates a determination of the question whether or not CAE Construction did in fact have an entitlement to the right to be heard. It is common cause that the parties (Petro SA and CAE Construction) met on 15 February 2006. CAE Construction made an application for the award of a tender. In considering the application Petro SA's Procurement Committee came to the conclusion that it was not an acceptable tender and the application was rejected. It is common cause that there were no other acceptable tenderers. Therefore Petro SA bore no obligation to afford a hearing to CAE Construction. There is no entity which was successful. 
+
+[47]    Notably it was through application for the award of tender that CAE Construction was afforded an opportunity to make out its case for the award of the tender. CAE Construction in fact did this. Mr Katz in his oral submissions did not persist that an order for substitution must be made. It is not necessary to address that issue in this judgment. It suffices to mention in passing that given the technical nature of the tender in question this Court is not institutionally equipped to make such an extraordinary decision to substitute. Accordingly, in  
+[2007] JOL 18912 (C) at 48
+my view for reasons canvassed above, this application cannot succeed.
+
+Order
+
+[48]    I make the following order:
+
+The application is hereby dismissed with costs including costs occasioned by the employment of two counsel.
+
+(Traverso DJP concurred in the judgment of Dlodlo J.)
+
+Appearance:
+Adv A Katz, Adv Borgström (At); Adv SP Rosenberg SC, Adv R Pillay, Qunta Inc (D) 
+
+
+End of Document

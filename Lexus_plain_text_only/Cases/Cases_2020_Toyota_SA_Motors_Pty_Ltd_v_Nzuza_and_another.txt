@@ -1,0 +1,72 @@
+
+
+
+
+Toyota SA Motors (Pty) Ltd v Nzuza and another [2020] 3 BLLR 273 (LAC)
+Labour Law Reports
+
+Division: Labour Appeal Court, Durban
+Case No: DA10/2017
+Date: 20/11/2018
+Before: B Waglay Judge President, Phatshoane Acting Deputy Judge President and F Kathree-Setiloane Acting Judge of Appeal
+Keywords
+
+
+Application in terms of section of the LRA
+Labour Court — Jurisdiction — Court having jurisdiction to entertain claim under BCEA if employees contend that dismissal was unlawful, even though they could also pursue unfair dismissal claim under LRA.
+Practice and procedure — Exception — Dismissed employees pursuing breach of contract claim failing to indicate how employer had allegedly breached contracts — Employees granted leave to amend statement of claim.
+
+Editor’s Summary
+
+
+The two respondent employees approached the Labour Court under section 77 of the Basic Conditions of Employment Act 75 of 1997, claiming that they had been dismissed because they had raised concerns about unlawful conduct by the appellant and that their dismissal constituted a breach of their contracts, which provided that their employment would not be terminated without “just or legal reason”. They sought damages. The Labour Court dismissed the appellant’s in limine points that their statement of claim disclosed no cause of action and that the court lacked jurisdiction. The appellant appealed against both rulings.
+
+The Court held that there was no basis for the contention that the Labour Court lacked jurisdiction. The employees had contended that their contracts were unlawfully terminated because they had made protected disclosures. They had not alleged that their dismissals were automatically unfair. The appellant’s claim that the employees were trying to pursue an automatically unfair dismissal claim via the back door was not only misconceived but also deplorable, and the appellant should have known better than to raise it.
+
+With regard to the exception, the Court held that the employees had seemingly attempted to convey that since the appellant had relied on misconduct as a ground for terminating their contracts, they had to prove that the appellant had breached the contracts, failing which the termination would be unlawful. If that is what the employees intended to say, they were required to do so in clear terms. Unless they amended their claim to state clearly which terms of the contract had been breached, the exception had to be upheld.
+
+The Court added that it appears to have become fashionable for dismissed employees to approach the Labour Court under the BCEA rather than the LRA. It may be permissible to do so, but risks arise: firstly, reinstatement does not follow automatically in a successful breach of contract claim; secondly, to succeed in a claim for compensation the employee must prove actual loss.
+
+The appeal was partially upheld and the employees were given 15 days to amend their statement of claim to remove the cause of complaint, failing which the appellant was granted leave to approach the Labour Court to have the claim dismissed.
+
+ 
+[2020] 3 BLLR 273 (LAC) at 274
+
+____________________________________________________________________________________
+
+Waglay JP:
+
+This is an appeal against the order of the Labour Court (Cele J) dismissing the appellant’s points in limine.
+The respondents, erstwhile employees of the appellant, instituted action proceedings against the appellant in terms of section 77 of the Basic Conditions of Employment Act (“BCEA”). The employees allege albeit not very eloquently, but in term clearly understood to mean that they were employed by the appellant in terms of a written contract on an indefinite basis and that it was a term of the contract that their employment could not be terminated without a “just and legal reason”. The appellant, they say, terminated their employment because they raised concerns about the unlawful practices being committed by the appellant and communicated these concerns outside the workplace. The respondents allege that they were summarily dismissed.
+The appellant, they allege had no reason to terminate their employment and as such, it was “unlawful and constituted a material breach of their contract of employment.”
+The respondents seek damages consequent upon the unlawful termination of their employment contract.
+The appellant raised what it called two points in limine against the respondents’ claim: (i) that the statement of claim did not disclose a cause of action; and (ii) that the Labour Court had no jurisdiction to entertain the claim.
+Dealing firstly with the second point in limine, there is simply no basis for this objection. The allegation by the respondents is that their contract of employment was unlawfully terminated because they made a disclosure which was protected in law. They do not allege that the termination of their employment amounts to an automatically unfair dismissal as provided for in the Labour Relations Act 66 of 1995 (“LRA”) nor are they seeking for a determination of an automatic unfair dismissal based on the averment that they made a protected disclosure. For the appellant to argue that the respondents seek via a so called the back door to make a claim for an automatically unfair dismissal is not only misconceived but is deplorable. The appellant should know better particularly when regard is had to the fact that what the respondents seek as relief, is damages and not compensation as provided for in the LRA.
+With regards to the first point in limine, it is correct that the respondents appear to hang their claim on the appellant’s failure to justify (just and legal reason) the termination of their contract of employment, however there is no averment that the contract of employment requires that the appellant provides a just and legal reason for its termination. Reading the statement of claim, one can conclude that what the respondents seek to convey is that the appellant does not rely, in dismissing them, the ground which allow the cancellation of the contract on notice but relies on the respondents having committed a misconduct. That being so respondents  
+[2020] 3 BLLR 273 (LAC) at 275
+  allege that in so far as appellant seeks to terminate their contract because they committed a breach (misconduct) and not simply for no reason as they were entitled to do on notice, the appellant must prove their breach failing which the termination of the contract is unlawful, to this they add that they did not commit any misconduct and as such the termination of their contract is unlawful. Consequent on the unlawful termination they seek contractual damages and not reinstatement or compensation as provided for in the LRA.
+The above is how the statement of claim may be seen and if that is what is intended the respondents must say so in clear and unambiguous terms. As the statement of claim stands the interpretation that the appellant seeks to give to it is not unreasonable.
+In the result, I am of the view that unless the respondents seek to amend their claim and make averment in clear terms setting out what the terms of the contract were and which of the terms were breached which gave rise to the claim, the appellant’s point in limine must be upheld.
+Finally I need to add that it appears to have become fashionable for dismissed employees to come to the Labour Court in terms of the BCEA and claim breach of contract seeking either specific performance or damages. I do not know the reason that has given rise to this, but the risk associated with claims made in terms of the BCEA, as in this matter before this Court, is enormous. Firstly, unlike in the LRA the claimant must prove an unlawful breach and not unfairness for the termination of the employment; next in terms of the LRA reinstatement is generally compulsory where a dismissal is found to be substantively unfair, specific performance consequent upon a breach is not, and generally it is a discretionary relief. Furthermore, in terms of the LRA an employee whose dismissal is found to be unfair will receive compensation. In an action in terms of section 77 if the employee is able to prove a breach by the employer the only amount s/he will receive is the loss s/he has proved to have suffered as damages. Here s/he must also show that they have tried to mitigate the damages, etc There is no way s/he can receive damages equal to the amount they would have earned from the date of the breach to the date that they would eventually have retired! This absurd prayer which is so regular seems to take leave of the basic rule that one is awarded damages that are proved not what you would have been paid had you remained in your employ till retirement.
+In any event, for reasons already stated, I make the following order:
+The appeal is partially upheld.
+The appellant’s point in limine regarding the absence of a cause of action in respondents’ statement of case is upheld and respondent has 15 days to amend its statement of case to address the complaint, failing which the appellant may approach the Labour Court on the same papers to have respondents’ claim dismissed.
+The second point in limine is dismissed.
+There is no order as to costs. 
+
+(Phatshoane ADJP and Kathree-Setiloane concurred in the judgment of Waglay JP.)
+
+ 
+[2020] 3 BLLR 273 (LAC) at 276
+
+No cases were referred to in the above judgment.
+
+For the appellant:
+
+Ms CA Nel of Macgregor Erasmus Attorneys
+For the respondents:
+
+Adv NSV Mfeka instructed by MJ Mjoli & Associates
+
+
+End of Document

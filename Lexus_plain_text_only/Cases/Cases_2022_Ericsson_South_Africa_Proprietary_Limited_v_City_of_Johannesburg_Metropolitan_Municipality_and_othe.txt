@@ -1,0 +1,561 @@
+
+
+
+
+Ericsson South Africa Proprietary Limited v City of Johannesburg Metropolitan Municipality and others [2022] JOL 57675 (GJ)
+Judgments Online
+
+Division: Gauteng, Johannesburg
+Case No: A5048 / 2021
+Hearing Date(s): 27 / 07 / 2022
+Judgment Date(s): 27 / 10 / 2022
+Bench: KE Matojane, RM Keightley JJ; S van Aswegen AJ
+
+
+Keywords
+
+
+Constitutional and Administrative Law — Access to information — Refusal of access to forensic report — Rights of requester
+
+Mini Summary
+
+
+The appellant (“Ericsson”) sought an order compelling the respondents to provide copies of a draft and final forensic report on the City of Johannesburg’s Broadband Network Project. Ericsson had filed a request for the relevant information with the City under the Promotion of Access to Information Act 2 of 2000, but the request was refused.
+
+By the time the present application was brought, the City had provided four different grounds for its refusal to provide Ericsson with a copy of the report and related information. Then, in its answering affidavit the City eschewed any reliance on its previous grounds for refusal. Instead, it opposed the application on the basis that it was exempt from providing Ericsson with the requested information under sections 37, 39, 40, 44 and 46 of the Act. Ericsson took issue with the respondents’ reliance on new grounds of refusal in its answering affidavit. It submitted that it was not open to them to do so and that they should be bound by the grounds advanced in response to the request and internal appeal.
+
+The application was dismissed on the basis of non-joinder of the entity (“Nexus”) which compiled the forensic report.
+
+Held that section 82 of the Act deals with the court’s powers when dealing with an application under section 78.
+
+The Act gives content and effect to the constitutional right of access to information contained in s 32 of the Constitution. Section 11(1) of the Act provides that a requester must be given access to a record of a public body if he complies with all the procedural requirements in the Act relating to a request for access to that record; and access to that record is not refused in terms of any ground for refusal contemplated in the relevant provisions. When access is sought to information in the possession of the state it must be readily availed. Refusal constitutes a limitation of the right of access to information. As such, a case must be made out that the refusal of access to the requested records is justified. Chapter 4 sets out a range of exemptions. Section 81 of the Act expressly places the burden on the State to prove that a refusal of a request for information was justified. The evidentiary burden must be discharged on a balance of probabilities. The State is required to put forward sufficient evidence for a court to conclude that, on the probabilities, the information withheld falls within the exemption claimed.
+
+The court a quo erred in holding that Nexus had a direct and substantial interest in the application. No relief, direct or indirect was sought against it. The court below thus erred in upholding the non-joinder point. The court also erred in ruling that the respondents were not permitted to advance new grounds in their answering affidavit. The Constitutional Court had already decided the contrary in another matter.
+
+The respondents failed to justify their refusal of Ericsson’s request. The court directed that the request be complied with, subject to measures being taken to protect third parties involved.
+
+ 
+[2022] JOL 57675 (GJ) at 3
+
+
+
+
+KEIGHTLEY J:  
+
+Introduction
+
+[1]    This is an appeal against an order and judgment by the learned Ms Acting Justice Mogale in which she upheld a point in limine raised by the respondents based on a contended non-joinder of a third party to the proceedings. The appellant, who was the applicant before Mogale AJ, is Ericsson South Africa (Pty) Ltd (Ericsson, or the appellant). The respondent was, and remains in this appeal, the City of Johannesburg Metropolitan Municipality (the City). The second respondent is the Deputy Information Officer of the City, and the third respondent is the City Manager. They are cited in their official capacities and no relief is sought against them directly. 
+
+[2]    In its application Ericsson sought an order compelling the respondents to:
+
+"(P)rovide copies of the draft Report and the final Report prepared by Nexus Forensic Services, in respect of the First Respondent's Broadband Network Project, together with copies of all the exhibits, annexures, schedules and supporting documents utilised by Nexus Forensic Services for the investigation into the Broadband Network Project, and the compilation of the draft and final reports ('the Record') to the Applicant."
+
+[3]    As a precursor to the application, Ericsson had filed a request for the relevant information with the City under the Promotion of Access to Information Act1 (PAIA). The request was refused in circumstances I will outline shortly. Ericsson lodged  
+[2022] JOL 57675 (GJ) at 4
+an internal appeal against the decision to refuse access to the requested information under section 74 of PAIA, but this was dismissed. Consequently, Ericsson filed its application in accordance with section 78 of the Act. This section permits a requester for information who has exhausted the internal appeal procedure to apply to court for "appropriate relief" under section 82 of PAIA. The latter section deals with the court's powers when dealing with an application under section 78:
+
+"The court hearing an application may grant any order that is just and equitable, including orders–
+
+confirming, amending or setting aside the decision which is the subject of the application concerned;
+requiring from the information officer or relevant authority of a public body or the head of a private body to take such action or to refrain from taking such action as the court considers necessary within a period mentioned in the order;
+granting an interdict, interdict or specific relief, a declaratory order or compensation;
+as to costs; or
+condoning non-compliance with the 180-day period within which to bring an application, where the interests of justice so require."
+
+[4]    The respondents opposed the application citing specific grounds of refusal. In its answering affidavit the City did not raise its non-joinder point in limine. This was only done in the heads of argument that were filed before the hearing. Persuaded by the submissions made by counsel for the City in the heads of argument and from the bar, the learned Acting Judge upheld the point in limine. Having done so, she dismissed the application.
+
+[5]    Before turning to the question of whether Mogale AJ acted correctly in doing so, it is necessary to traverse the relevant background facts, as well as events that occurred shortly before the appeal was heard.
+
+Background
+
+[6]    By and large, the relevant background facts are common cause. Following a tender process Ericsson and the City concluded a build, operate and transfer  
+[2022] JOL 57675 (GJ) at 5
+agreement ("BOT") in terms of which Ericsson would build a municipal broadband network to supply broadband network services to the City. This was known as the roadwork network project (BNP). The tender was first awarded to Ericsson in 2008 and, after further tender proceedings, it was re-awarded in 2010 under an extended scope. The BOT required Ericsson to build the network over a three-year period, operate it for 11 years and then to transfer the asset to the City. Ericsson subsequently ceded the agreement to an entity called CitiConnect Communications (Pty) Ltd (CCC). The finer details of the context in which the cession occurred are dispute, but the cession is common cause.
+
+[7]    The City and CCC had a falling out over the BOT in about 2012. Ultimately, Ericsson was reappointed to the BNP at an additional further cost of some R45 million.
+
+[8]    The City says that suspicions were raised that this series of transactions may have been tainted by fraud or other irregularities. It wanted to pursue the possibility of legal proceedings, including a review and setting aside of the decisions to appoint and reappoint Ericsson, disciplinary proceedings against certain City employees and, if necessary, filing criminal complaints with the South African Police Service. Ericsson denies any alleged taint. It is not for this Court to make a determination on the issue. The relevant point is that it was in this context that the City appointed Nexus Forensic Services (Nexus) to investigate the BOT agreement and subsequent developments. The appointment appears to have been effected in 2017.
+
+[9]    In its answering affidavit the City outlined the scope of Nexus' investigation as being to:
+
+determine the circumstances and reasons which led to the City deciding to enter into the BOT with ESA;
+review the entire procurement process;
+review variations in scope and determine if these were lawfully done;
+determine if the deliverables set out in the RFP, BOT agreement and any variations were delivered to the City and if the City received value for money; 
+[2022] JOL 57675 (GJ) at 6
+9.5. determine the circumstances and lawfulness of ESA's cession of the BOT agreement to GCC;
+determine the circumstances and lawfulness of ESA's use of partners and subcontractors;
+
+9.7. investigate the reasons for, and the lawfulness of, the termination of the BOT agreement;
+
+review the settlement agreement between the City and ESA and determine if this was procedurally competent, duly authorised and lawful;
+review the terms of appointment and performance of transaction advisors;
+conduct a due diligence and verify the existence of all assets the City ought to have received following its reacquisition of the asset from ESA;
+review claims and litigation against the City in relation to the BOT agreement;
+conduct lifestyle audits of officials of the City suspected to be involved in any irregularities;
+provide recommendations to the City.
+
+[10]    The City says that a substantial part of the investigation centred on Ericsson. There were meetings and other communications between Nexus and Ericsson during the course of the investigation. Ericsson says that it co-operated fully with Nexus. Although the City disagrees with this, where the truth lies is not material to the present appeal.
+
+[11]    On 12 November 2018, Ms Ramogale, an officer from the City, telephonically advised Ericsson's attorney that Nexus' investigation report was not yet complete, but that it contained adverse findings against Ericsson. Ms Ramogale did not wish to divulge any further details of these findings. Nor was Ericsson provided with a draft or final copy of the report or given an opportunity to respond to any adverse findings.
+
+ 
+[2022] JOL 57675 (GJ) at 7
+
+[12]    The City does not dispute that Nexus provided it with a draft report and a final report. It is not possible from the papers to determine the dates of these reports. What is clear is that despite being a central feature of the investigation, Ericsson has never been provided with a copy of either document. Further, the report was not tendered to the court, even on limited access grounds. Consequently, save for the City, no other role players in the dispute, including the court, has any real idea of what is contained in it. The court must rely on what the City says is in the report. This is an issue to which I will return later.
+
+[13]    On 20 January 2019, an online newspaper publication, TimesLIVE, published an article on its website on the BNP. The article appeared to be based on a report produced by Nexus. It recorded that the report contained adverse findings against Ericsson, its parent company and CCC. The article went further to say that there was a "reasonable suspicion" that Ericsson had committed fraud.
+
+[14]    Thereafter, all attempts by Ericsson's attorneys to obtain information from the City or a copy of the report met with no success. Ericsson submitted its PAIA request on 12 February 2019. Its attorneys received a letter in response to the request dated 5 March 2019 from the second respondent. The letter stated that the request for information was refused on the basis that "a criminal case has been lodged . . . on the issue". The second respondent purported to place reliance on section 7 of PAIA in support of the decision to refuse access.
+
+[15]    Somewhat surprisingly, on 18 March 2019 Ericsson's attorneys received a further email from the second respondent with an attached letter. This letter suggested that the 5 March letter was being withdrawn and replaced by the new one. In the 18 March replacement letter, Ericsson was advised that the PAIA request was denied on the basis that a criminal case had been lodged against Ericsson with the SAPS in Hillbrow under case number 41/02/2019. The requested documents were said to be "part of the criminal proceedings" and reference was made again to section 7 of PAIA as the basis for the refusal to accede to the PAIA request.
+
+[16]    Ericsson's attorneys filed an internal appeal against the decision based on, among other things, its contention that the respondents' reliance on section 7 as a ground for the refusal was incompetent. The internal appeal was dismissed with the following explanation provided in a letter dated 1 July 2019: 
+[2022] JOL 57675 (GJ) at 8
+"The initial refusal in terms of section 7(l) of the Promotion of Access to Information Act 2 of 2000 is upheld. Please be advised that civil proceedings in respect of the above matter are currently ongoing. Attorneys Mothle Jooma Sabdia Inc are the City's attorneys of the said proceedings." (Emphasis added)
+
+[17]    The letter did not provide any information about the parties to, or cause of action of, the alleged civil proceedings. Ericsson's attorneys continued to follow up with the attorneys identified in the letter to ascertain what the details were of the alleged civil proceedings. There was much to-ing and fro-ing between the two sets of attorneys over the following weeks, with Ericsson not being favoured with much clarity in the responses to its inquiries. Initially, Mr Mothle of Mothle Jooma Sabdia Incorporated, advised Ericsson's attorneys that he had been instructed to launch an application on behalf of the City. This was at the end of July 2019. However, on 9 September 2019, Mr Mothle wrote to Ericsson's attorneys advising that he had previously erroneously informed them that the Nexus report was the subject matter of the pending civil application, and that the Nexus report was not related to any pending litigation. However, Mr Mothle nonetheless advised that the City continued to refuse access to the report on the basis that it was "still privileged as there are still further applications and investigations being undertaken . . .".
+
+[18]    All in all, the City had to that point provided four different grounds for its refusal to provide Ericsson with a copy of the report and related information. After Mr Mothle's letter of 9 September 2019, Ericsson launched the application that served before Mogale AJ. In yet another twist to the saga of refusal, in its answering affidavit the City eschewed any reliance on its previous grounds for refusal. Instead, it opposed the application on the basis that it was exempt from providing Ericsson with the requested information under section 37; section 39; section 40; section 44 and section 46 of PAIA.
+
+[19]    Ericsson takes issue with the respondents' reliance on new grounds of refusal in its answering affidavit. It submits that it is not open to them to do so and that they should be bound by the grounds advanced in response to the request and internal appeal.
+
+Legal framework 
+[2022] JOL 57675 (GJ) at 9
+[20]  PAIA gives content and effect to the constitutional right of access to information contained in section 32 of the Constitution. Section 11(1) of PAIA provides that:
+
+"A requester must be given access to a record of a public body if–
+
+that requester complies with all the procedural requirements in this Act relating to a request for access to that record; and
+access to that record is not refused in terms of any ground for refusal contemplated in Chapter 4 of this Part."
+
+[21]    The Constitutional Court in President of the Republic of South Africa and others v M & G Media Ltd2 explains that:
+
+". . . the formulation of s 11 casts the exercise of the right (or access to information) in peremptory terms – the requester 'must' be given access . . .. Under our law, therefore, the disclosure of information is the rule and exemption from disclosure is the exception."
+
+[22]    The court has also noted that the importance of the right of access to information held by the State is founded on the values of accountability, responsiveness and openness, and to foster transparency, which is one of the basic principles governing public administration.3 It has stressed that it is impossible to hold accountable a government that operates in secrecy.4 When access is sought to information in the possession of the State it must be readily availed. Refusal constitutes a limitation of the right of access to information. As such, a case must be made out that the refusal of access to the requested records is justified.5
+
+[23]    PAIA recognises that there are justifiable limitations on the right of access to information held by the State. Chapter 4 sets out a range of exemptions. For purposes of the present appeal, the relevant exemption provisions are set out below.
+
+ 
+[2022] JOL 57675 (GJ) at 10
+
+[24]    Section 37 deals with the "Mandatory protection of certain confidential information, and protection of certain other confidential information, of third part(ies)". It provides that:
+
+Subject of subsection (2), the information officer of a public body–
+must refuse a request for access to a record of the body if the disclosure of the record would constitute an action for breach of. Duty of confidence owed to a third party in terms of an agreement; or
+may refuse a request for access to a record of the body if the record consists of information that was supplied in confidence by a third party–
+the disclosure of which could reasonably be expected to prejudice the future supply of similar information, or information from the samesource; and
+if it is in the public interest that similar information, or information from the same source, should continue to be supplied.
+A record may not be refused in terms of subsection (1) insofar as it consists of information–
+already publicly available; or
+about the third party concerned that has consented in terms of section 48 or otherwise in writing to its disclosure to the requester concerned."
+
+[25]    As appears from later parts of this judgment, section 37 is of particular importance for purposes of the appeal, and I will deal with it in more detail there.
+
+[26]    The respondents also rely on the exemption described in section 39, which deals with the "Mandatory protection of police dockets in bail proceedings, and protection of law enforcement and legal proceedings". More specifically, it provides in relevant part:
+
+The information officer of a public body–
+must refuse a request for access to a record of the body if access to that record is prohibited in terms of section 60(14) of the Criminal Procedure Act 1977(Act 51 of 1977); or
+may refuse a request for access to a record of the body if– 
+[2022] JOL 57675 (GJ) at 11
+ (i) the record contains methods, techniques, procedures or guidelines for–
+the prevention, detection, curtailment or investigation of a contravention or possible contravention of the law; or
+the prosecution of alleged offenders and the disclosure of those methods, techniques, procedures or guidelines could reasonably be expected to prejudice the effectiveness of those methods, techniques, procedures or guidelines or lead to the circumvention of the law or facilitate the commission of an offence; . . .."
+
+[27]    Section 40 is also relevant. It is headed: "Mandatory protection of records privileged from production in legal proceedings" and provides:
+
+"The information officer of a public body must refuse a request for access to a record of the body if the record is privileged from production in legal proceedings unless the person entitled to the privilege has waived the privilege."
+
+[28]    In addition, the respondents call in aid section 44, which is headed: "Operations of public bodies." It says, in relevant part:
+
+Subject to subsections (3) and (4), the information officer of a public body may refuse a request for access to a record of the body–
+if the record contains–
+an opinion, advice, report or recommendation obtained or prepared; or
+an account of a consultation, discussion or deliberation that has occurred, including, but not limited to, minutes of a meeting, for the purpose of assisting to formulate a policy or take a decision in the exercise of a power or performance of a duty conferred or imposed by law; or
+if–
+the disclosure of the record could reasonably be expected to frustrate the deliberative process in a public body or between public bodies by inhibiting the candid–(aa) communication of an opinion, advice, report or recommendation; or (bb) conduct of a consultation, discussion or deliberation; or
+the disclosure of the record could, by premature disclosure of a policy or contemplated policy, reasonably be expected to frustrate the success of that policy."
+
+[29]    Finally, they rely on section 46, which provides:
+
+"Mandatory disclosure in public interest 
+[2022] JOL 57675 (GJ) at 12
+ 46. Despite any other provision of this Chapter, the information officer of a public body must grant a request for access to a record of the body contemplated in section 34(1), 36(1), 37(1)(a) or (b), 38(a) or (b), 39(1)(a) or (b), 40, 41(1)(a) or (b), 42(1) or (3), 43(1) or (2), 44(1) or (2) or 45, if–
+
+the disclosure of the record would reveal evidence of–
+a substantial contravention of, or failure to comply with, the law; or
+an imminent and serious public safety or environmental risk: and
+the public interest in the disclosure of the record clearly outweighs the harm contemplated in the provision in question."
+
+[30]    PAIA expressly places the burden on the State to prove that a refusal of a request for information was justified. This is found in section 81, which reads:
+
+For the purposes of this Chapter proceedings on application in terms of section 78 are civil proceedings.
+The rules of evidence applicable in civil proceedings apply to proceedings, on application in terms of section 78.
+The burden of establishing that–
+the refusal of a request for access; or
+any decision taken in terms of section 22, 26(1), 29(3), 54, 57(1) or 60, complies with the provisions of this Act rests on the party claiming that it so complies."
+
+[31]    The evidentiary burden must be discharged on a balance of probabilities.6 The imposition of this burden on the holder of the information is understandable as it would be manifestly unfair and contrary to the spirit of PAIA to place the burden of showing that the record is not exempt on the requester, who has no access to its contents.7 The State is required to put forward "sufficient evidence for a court to conclude that, on the probabilities, the information withheld falls within the exemption claimed".8 The recitation of the statutory language is insufficient to  
+[2022] JOL 57675 (GJ) at 13
+discharge the burden, as are mere ipse dixit affidavits by the State.9 As the Constitutional Court explains:
+
+"Ultimately, the question whether the information put forward is sufficient for the State to show that the record in question falls within the exemptions claimed will be determined b the nature of the exemption. The question is not whether the best evidence to justify refusal has been provided, but whether the information provided is sufficient for a court to conclude, on the probabilities, that the record falls within the exemption claimed. It does, then the State has discharged its burdens under s 81(3). If it does not, and the State has not given any indication that it is unable to discharge its burden because to do so would require it to reveal the very information for which protection from disclosure is sought, then the State has only itself to blame."10
+
+Court a quo
+
+[32]    As indicated earlier, when it heard Ericsson's application, the court a quo did not get beyond the point in limine raised by the respondents, namely that the application was fatally defective because Nexus, the compiler of the report requested, was not a party to the proceedings. Their point in limine was based on the argument that the request for information was overly broad, and that if the request was intended to cover more than what was attached to the report by Nexus, the latter would have to be joined in the application.
+
+[33]    In upholding the point in limine the court a quo reasoned that:
+
+The request also indicates that the copies of all the exhibits, annexures, schedules, compilation of the draft, and the final reports (the record) utilized by Nexus Forensic Services for the Investigation into Broadband Network Projects should also be provided to the applicant. The respondent argued that it cannot produce documents utilized by Nexus for its investigations and this part of the request implicating Nexus should be directed to Nexus.
+The applicant on the other side argued that the respondent appointed Nexus Forensic Services to conduct the investigation and as a result, they ought to have all the information requested. 
+[2022] JOL 57675 (GJ) at 14
+The applicant seeks relief from both the respondents and Nexus. In the circumstances, I find that Nexus has a direct and substantial interest in this matter and failure to join them is fatal to the applicant's case."
+
+[34]    Mogale AJ did not expressly consider whether the non-joinder could be cured by an appropriate order short of dismissal of the application. Instead, the court appears to have assumed that it was fatal to the case. Consequently, Ericsson was not given an opportunity to seek to join Nexus and was precluded from having the merits of its application under section 78 considered. This means that if I find that the court a quo erred in upholding the point in limine, it will fall to this Court to deal with them.
+
+Grounds of appeal
+
+[35]    The core grounds of appeal are the following:
+
+The court a quo erred in finding that the respondents are unable to produce all the documents in question. No such allegation was made in the respondents' answering affidavit.
+The court a quo erred in finding that Ericsson sought relief both the respondents and Nexus. No relief was sought against the latter.
+The court a quo erred in finding that Nexus has a direct and substantial interest in the application. This finding was based on the incorrect finding that Ericsson sought relief against Nexus.
+The court erred in entertaining the in limine point as it was not raised in the answering affidavit but was advanced from the bar with no application for condonation.
+
+[36]    Two other grounds were identified in the notice of appeal. Both were directed at non-material aspects of the judgment of the court a quo. It is not necessary to deal with them.11
+
+ 
+[2022] JOL 57675 (GJ) at 15
+
+Draft order proposed by respondents
+
+[37]    The respondents initially opposed the appeal contending that Mogale AJ was "entirely correct" in upholding the point in limine and dismissing the application on that basis. What is more, said the respondents, the learned Acting Judge could have dismissed the application on any of the other substantive grounds of opposition raised in the answering affidavit. The respondents sought to have the appeal dismissed with costs.
+
+[38]    Events took a different turn the day before the scheduled date for the hearing of the appeal. Having been alerted by Ericsson to its intended reliance on the judgment of the Supreme Court of Appeal in The South African History Archive Trust v The South African Reserve Bank and others12 (SAHAT), the respondents uploaded a draft order for consideration by the appeal court. The order is in the following terms:
+
+The appeal is upheld.
+The order of the court of first instance is set aside and the following order is substituted:
+The respondents are directed to notify Nexus Forensic Services (Pty) Ltd of the request concerning records relating to them in accordance with s 47 of the Promotion of Access to Information Act 2 of 2000 ('PAIA') within 10 calendar days after service of this order on them, and thereafter to comply with the time periods and provisions in Chapter 5 of PAIA.
+Each party is to bear their own costs both in respect of the reserved costs in the Court a quo and the costs on appeal."
+
+[39]    The respondents explain that their proposed draft order is based on the SAHAT judgment, which is binding on this Court. The respondents say that this Court is bound to make an order requiring the respondents to notify Nexus of the request  
+[2022] JOL 57675 (GJ) at 16
+for information in accordance with section 47(1) of PAIA. Until such time that this is done, an information officer cannot make a decision under section 49(1). For this reason, the respondents say that it would be proper to uphold the appeal, and to order the respondents to carry out their obligation under section 47(1). Only then, so the argument goes, can a lawful decision be made whether to provide the information requested.
+
+[40]    Section 47(1) of PAIA provides that:
+
+"The information officer of a public body considering a request for access to a record that might be a record contemplated in section 34(1), 35(1), 36 1), 37(1) or 43(1) must take all reasonable steps to inform a third party to whom or which the record relates of the request."
+
+[41]    Under section 49(1):
+
+"The information officer of a public body must, as soon as reasonably possible, but in any event within 30 days after every third party is informed as required by section 47–
+
+decide, after giving due regard to any representations made by a third party in terms of section 48, whether to grant the request for access; and
+notify the third party so informed and a third party not informed in terms of section 47( 1), but that made representations in terms of section 48 or is located before the decision is taken, of the decision."
+
+[42]    Ericsson disputes that the respondents' reliance on SAHAT as a basis for the proposed order is correct. It contends that we should uphold the appeal and order the respondents to provide the record requested.
+
+Issues for determination
+
+[43]    I do not understand the respondents' proposed draft order to amount to an unequivocal concession that the court a quo erred in upholding the point in limine. Indeed, when it became apparent that Ericsson was not in agreement with the proposed order, the parties accepted that the appeal would proceed on the original grounds and that, in addition, the court would consider the respective submissions of the parties on the proposed draft order.
+
+ 
+[2022] JOL 57675 (GJ) at 17
+
+[44]    With this in mind, the issues for determination in the appeal are as follows:
+
+Did the court a quo err in upholding the point in limine and dismissing the application on this basis?
+If so, the ultimate question is whether Ericsson is entitled to an order on the merits of the application that served before the court a quo. Several issues arise for consideration in this regard:
+Were the respondents entitled to rely in their answering affidavit on new grounds of refusal, or are they bound by the grounds identified in their decisions to refuse the request for information and to reject the internal appeal?
+If so, each of the grounds in the answering affidavit justifying the refusal to provide the requested record must be considered.
+Insofar as the respondents' reliance on sections 39, 40, 44 and 46 are concerned, the question is whether, on a balance of probabilities, their decision to refuse access is justified on any of these grounds.
+Insofar as the respondents' reliance on section 37 is concerned, the issues are more complicated. This is because this section is a trigger for the application of the notice to third parties provision encapsulated in section 47 of PAIA. Consequently, the submissions made by the parties in respect of the respondents' proposed draft order fall for consideration.
+Should the appeal succeed on the merits? If the respondents are able to show, on a balance of probabilities, that its blanket refusal to provide the record is justified on any of the grounds relied upon by them are justified, the appeal must be dismissed. If the blanket refusal is not justified, the appeal should succeed. However, it should be borne in mind that in that event, it will still fall to this Court to consider in this case what "appropriate relief" would be "just and equitable" under section 72 read with section 82 of PAIA. 
+[2022] JOL 57675 (GJ) at 18
+Costs.
+
+Did the court a quo err in upholding the point in limine?
+
+[45]    The legal basis for the court a quo's decision to dismiss the application because of a fatal non-joinder was that Nexus had a direct and substantial interest in the application. Without establishing that it had such an interest, the respondents could not have succeeded with their point in limine. The underlying question is what was the basis for the court making this finding? As noted in the earlier extract from the judgment, there were two bases, namely, (1) the respondents could not produce documents used by Nexus; and (2) Ericsson sought relief from both the respondents and Nexus.
+
+[46]    Neither a legal nor factual premise for the first of these bases was established by the respondents.
+
+[47]    Section 1 of PAIA defines "record" as meaning "any required information . . . in the possession or under the control of the public body, whether or not it was created by that public body". Section 4 provides further that:
+
+"For the purposes of this Act, but subject to section 12, a record in the possession or under the control of–
+
+an official of a public body . . . in his or her capacity as such; or
+an independent contractor engaged by a public body . . . in the capacity as such contractor,
+
+ is regarded as being a record of that public body or private body, respectively." (Emphasis added)
+
+[48]    Thus, as a matter of law, the Nexus reports and other documents used by Nexus to generate its reports are deemed to be in the possession of under the control of the respondents. The court a quo was not permitted to treat Nexus as the possessor or controller of the record, and hence as a necessary legal party to the proceedings.
+
+[49]    A refusal to provide access to a record which is legally under its control must be justified by the State. It bears the burden of laying a sufficient factual basis to  
+[2022] JOL 57675 (GJ) at 19
+establish that it is unable to produce any part of the record, even if that record was generated by a third-party independent contractor. In this case, it was incumbent on the respondents to have dealt with this issue squarely and clearly in the answering affidavit by averring to the necessary facts. However, this was not the case that was made out there.
+
+[50]    The respondents did not aver that they were not in possession or control of any of the documents requested. Instead, the case made out by them in the answering affidavit was that they were justified in refusing access to the documents in question on the grounds of sections 37; 39; 40; 44 and 46 of PAIA. All of these defences presuppose that the respondents are in possession or control of the requested documents unless a contrary averment is made. Not only is such an averment absent from the answering affidavit, but it was also not made in the respondents' responses and reasons for refusal communicated to Ericsson in the run-up to the application. In fact, the respondents' purported inability to produce documents was simply a non-issue until the hearing of the matter, as was the breadth of the request, which was belatedly relied on by the respondents in their heads of argument.
+
+[51]    If, indeed, the respondents were unable to produce any particular documents because, for example, they were in the possession of Nexus and not the City, the respondents ought to have stated as such and identified the particular documents in question. This was not done. In the absence of a proper factual foundation being laid by the respondents, the court a quo erred in assuming, without evidence to support the contention, that the respondents were unable to produce any of the documents in question, and hence it erred in finding that Nexus ought to have been joined as a necessary party with a direct and substantial interest in the application.
+
+[52]    The court a quo erred further in overlooking the fact that on the respondents' version, it was in possession of the report and, because it did not deny it, the draft report. The main focus of Ericsson's request was for access to the Nexus report and draft report, and it has never been doubted that the respondents have possession and control of them both as a matter of fact and law. Even if there had been a factual averment that some documents fell outside of the respondents 'control, this would not have justified a dismissal of the entire application for non- 
+[2022] JOL 57675 (GJ) at 20
+joinder. There was simply no factual reason why they could not have produced the reports without Nexus' assistance.
+
+[53]    It follows, for similar reasons, that the second basis for the court a quo's finding that Nexus had a direct and substantial interest in the application was also fatally flawed. Ericsson did not seek any relief from Nexus in the notice of motion. It did not need to do so because under section 4, read with section 1 of PAIA, the requested documents formed part of the record under the respondents' control and it was the respondent, and not Nexus who is required to grant access to them. This puts paid to any implication that relief was being indirectly sought against Nexus. The court a quo thus erred in proceeding from the premise that such relief was on the table.
+
+[54]    Once it is found that the court a quo erred in holding that Nexus had a direct and substantial interest in the application, the inevitable consequence is that it erred in upholding the non-joinder point in limine. Ericsson's grounds of appeal are well founded. The court a quo ought properly to have dismissed the point in limine and proceeded to consider the merits of the application.
+
+Are the respondents entitled to rely on new grounds of refusal in their answering affidavit?
+
+[55]    Ericsson contended that the respondents' reliance on sections 37; 39; 40; 44 and 46 as valid grounds to justify refusal of access to the requested record was misplaced. This is because in refusing the initial request for access to the record, and in dismissing the internal appeal against that refusal, the respondents had relied unequivocally on section 7 of PAIA. Ericsson submitted that the respondents were not permitted to change tack and to rely on new grounds in their answering affidavit. They were bound to their reliance on section 7 and, as no case was made out for this reliance in their answering affidavit, the respondents must be directed to provide the record sought.
+
+[56]    In support of its contention Ericsson referred to the Full Court decision of this Division in Afriforum v Emadleni Municipality13 in which it was held: 
+[2022] JOL 57675 (GJ) at 21
+ "[26] To my mind, the position of the respondent is analogous to that of administrative bodies, where such bodies are generally, not permitted to furnish new or additional reasons to those they furnished when they took impugned decisions. . . .
+
+Given the above authorities, I am of the view that the court a quo should have found that it was impermissible, and not open to the respondent, for it to raise and place reliance on new grounds of refusal in the answering affidavit, to bolster its decision to refuse the applicant's request for access to the records. The matter should therefore have been determined on the ground relied on by the respondent in its letter dated 20 November 2013."
+
+[57]    However, no mention was made by the Full Court in Emadleni of the Constitutional Court judgment in M & G, which says that:
+
+"In proceedings under PAIA, a court is not limited to reviewing the decisions of the information officer or the officer who undertook the internal appeal. It decides the claim of exemption from disclosure afresh, engaging in a de novo reconsideration of the merits."14
+
+[58]    This finding by the Constitutional Court appears to be at odds with the principle espoused in paragraph 26 of Emadleni, cited above. According to the Constitutional Court, the court exercising its powers under section 82 of PAIA is not in a position analogous to a court in judicial review proceedings. It must engage in a de novo reconsideration of the merits. Surely, this must mean that a respondent in such an application is not limited to the reasons given for its decision to refuse the request for information, or in its decision in the internal appeal? If so, the Full Court in Emadleni was wrong in finding that it was impermissible for the respondent to advance new grounds for refusal in its answering affidavit in a section 82 application.
+
+[59]    I assume that the Full Court's attention was not drawn to the pre-existing Constitutional Court judgment in M & G. Had it been so drawn, it no doubt would have dealt with the dictum cited above and explained why, nonetheless, it is impermissible to advance new grounds for refusal in a section 82 application. In the absence of an explanation of this nature, I am constrained to proceed on the basis  
+[2022] JOL 57675 (GJ) at 22
+that the Full Court in Emadleni erred in its finding and that the respondents were not permitted to advance new grounds in their answering affidavit.
+
+Is respondents' refusal of access justified under sections 39, 40, 44 or 46?
+
+[60]    I deal with the respondents' case under these sections first before considering the more complicated issue of their reliance on section 37 and their proposed draft order.
+
+[61]    As noted earlier, the aim of section 39 is to provide protection to police dockets and other law enforcement and legal proceedings. The respondents rely on section 39(1)(b), which permits, but does not require, a refusal of access to a record (1) containing "methods, techniques, procedures or guidelines for . . . the prevention, detection, curtailment or investigation of a contravention or possible contravention of the law, or . . . the prosecution of alleged offenders" and (2) where the disclosure of the relevant information "could reasonably be expected to prejudice the effectiveness of those methods, techniques, procedures or guidelines or lead to the circumvention of the law or facilitate the commission of an offence".
+
+[62]    Under the applicable legal principles, the respondents must present sufficient evidence to establish, on a balance of probabilities, that they have satisfied both legs of the exemption. As the Constitutional Court emphasised in M & G, discussed earlier, they need to go further than simply reciting the statutory language and relying on assertions, without back-up facts, that the grounds for exemption are met. Similarly, in SAHAT, the SCA criticised the answering affidavit of the public body concerned for being "long on stock phrases which merely repeat parts of this Chapter".
+
+[63]    The respondents deal with the claimed section 39 exemption in three dedicated paragraphs of the answering affidavit. The first, being paragraph 26, comprises a recitation of the whole of section 39 in the form of an extract from PAIA. In the second, paragraph 27, the deponent states that the report contains "recommendations and a review of Nexus' investigative methods, techniques and procedures". We are told that this includes "sources of information", "when and where certain documentary evidence was obtained", "when informants were engaged", "the outcomes and subjects of lifestyle audits". The respondents say further that this  
+[2022] JOL 57675 (GJ) at 23
+information is not common knowledge, would hamper investigations and would alert wrongdoers that they were being subject to investigation.
+
+[64]    The respondents' case in respect of section 39 concludes with paragraph 28, which states that: "Clearly, the disclosure of these methods, techniques, procedures or guidelines could reasonably be expected to prejudice the effectiveness of the methods, techniques, procedures or guidelines or lead to the circumvention of the law or facilitate the commission of an offence."
+
+[65]    Save for paragraph 27, the exemption claimed under section 39 rests on nothing more than a recitation of the provisions of that section and a reliance on stock phrases. Paragraph 28 does not take the matter much further. We are not told directly what "investigative techniques" were utilised. We must infer that persons, including informants, were interviewed, lifestyle audits were done and documents were analysed. None of these investigative techniques are unusual in a forensic investigation of this nature. In fact, Ericsson knew about the investigation, engaged with Nexus and provided information to Nexus as part of the investigative process. Ericsson would already have some idea of the investigative process and its aims through that involvement. It seems that the real concern of the respondents is that the information gathered as a result of the investigation, rather than the investigative techniques themselves, should not be disclosed. If so, this falls for consideration under other sections of PAIA, not section 39.
+
+[66]    The third paragraph of the answering affidavit dealing with section 39 is of no assistance to the respondents, as it by and large reproduces the requirements of that section. Further, we know that despite the respondents' assertion to Ericsson in their first and second responses to the PAIA request, no criminal proceedings have in fact been instituted. We also know that despite the reason given for the dismissal of the internal appeal, no civil proceedings implicating the report have been instituted either. The respondents fail to deal with these facts in their answering affidavit. Their silence leads to the obvious inference that the stated fear that wrongdoers would be alerted is without real foundation.
+
+[67]    I find that the respondents have failed to satisfy the burden placed on them of establishing that they are entitled to refuse access to the record on under section 39 of the Act.
+
+ 
+[2022] JOL 57675 (GJ) at 24
+
+[68]    I turn to the respondents' reliance on section 40. This section permits a mandatory refusal of access to information that is legally privileged. The respondents' case here is that the report is subject to litigation privilege in that it was obtained for the purpose of the City's submission to a legal advisor for legal advice and litigation was pending or contemplated as likely at the time.
+
+[69]    The respondents' state in their answering affidavit that the Nexus report was commissioned "when the new City leadership had suspicions regarding the propriety of the NBP process and was contemplating various legal proceedings including disciplinary and criminal proceedings against City employees, review proceedings related to compromised decisions taken by the City, and damages proceedings in order to recover money lost as a result of the botched project". According to the City, it commissioned the report to inform "this litigation" and its own investigations. Nexus reported on its progress and findings to the City's legal advisers to enable them to "plan and conduct the relevant proceedings". The outcome of this, say the respondents, is that "to date the City has instituted disciplinary proceedings and Anton Pillar proceedings against an employee of the City". The latter proceedings were brought in July 2017.
+
+[70]    The respondents correctly identify the two requirements for litigation privilege under our law, namely, that the document in question must have been obtained or brought into existence for the purpose of a litigant's submission to a legal advisor for legal advice; and that litigation was pending or contemplated as likely at the time.15 The justification for the privilege is founded on the notion that the lawyer's brief is sacrosanct.16 In an adversarial system of litigation, counsel control fact-presentation before the court. The rationale for the privilege is that under this system, counsel decide for themselves which evidence and by what manner of proof they will adduce facts, and they have no obligation to make prior disclosure of the material acquired in preparation of their case.17
+
+[71]    As to the first requirement, the City says that the report was commissioned for, among other things, submission to its "legal advisors". It is not clear whether these were the City's own internal legal advisors, or external legal advisors. If the  
+[2022] JOL 57675 (GJ) at 25
+former, it is doubtful that the underlying rationale for this form of privilege would find application. Even if it was the latter, I am not persuaded that the respondents have placed sufficient evidence before the court to justify a claim to this form of privilege.
+
+[72]    As the underlying rationale demonstrates, the purpose is to permit counsel to prepare for their case unimpeded by the obligation to make disclosure of all documents in her or his brief pertaining to that preparation. The link with pending or contemplated litigation must be properly established to justify the claim to privilege. If the litigation is not yet pending, its contemplation must be likely, or probable,18 or else there would be no rationale for refusing access to the documents in question. This is particularly so in an application for access under PAIA, which seeks to advance the constitutional principle of transparency in public administration.
+
+[73]    It has been said that in South Africa the practice is to accept a statement on oath that litigation was contemplated and that our courts do not normally go behind the contents of an affidavit to determine whether or not litigation had been contemplated when the document was made.19 In my view, this does not mean that a respondent in a PAIA application is entitled to rely on a deponent's ipse dixit that litigation was under contemplation when the document was produced. This would be contrary to the Constitutional Court's clear injunction against such practices in M & G, cited above. The respondent must place sufficient evidence before the court to satisfy it that the claimed litigation was indeed likely or probable.
+
+[74]    In this case, the evidence points the other way. Save for one Anton Pillar application in 2017 and one disciplinary inquiry against a City employee, there is no evidence that any other litigation has seen the light of day in the succeeding years. There does not appear to me to be any justification established by the City for its statement that when the report was prepared litigation was likely. On a balance of probabilities, therefore, it has failed to show that it is entitled to refuse access to the reports under section 40 of the Act.
+
+ 
+[2022] JOL 57675 (GJ) at 26
+
+[75]    Under section 44 of PAIA a public body may refuse a request for access to a record if it contains an opinion, advice, report or recommendation obtained for purposes of assisting it to formulate a policy or take a decision or exercise a power or duty imposed by law. Access may also be refused where the disclosure of the record could frustrate the deliberative process of the public body. 
+
+[76]    Once again, the respondents explain their case under section 40 in three paragraphs in the answering affidavit. Again, the first paragraph comprises a recitation of the section. As in SAHAT, the remaining two paragraphs are long on stock phrases. The court is told that the Nexus report is "self-evidently" a document that falls within the ambit of section 44. Neither Ericsson nor the court know what is in the report, so there is nothing self-evident about it. An assertion that the report falls within the ambit of the exemption provided for under section 44 without evidence to support it is insufficient to satisfy the burden resting on the respondents.
+
+[77]    The respondents say that "the powers and duties which the City seeks to exercise are its powers and duties in relation to combatting corruption and running a clean administration and tender regime". They also say that "the Nexus report forms part of a broader discussion on how to tackle corruption and malfeasance". These are stock phrases which are so generalised as to be of no assistance in determining whether the refusal is justified. They do not provide the court with the sufficiency of information necessary to endorse the respondents' refusal to provide access to the report.
+
+[78]    For these reasons, I find that the respondents have failed to establish that their refusal was lawful under section 44.
+
+[79]    Finally, I consider the reliance on section 46, which permits an exemption from disclosure in the public interest. The respondents must show that granting access of the record to Ericsson would reveal evidence of a substantial contravention or non-compliance with the law or an imminent and serious public safety risk. I refer to this as the "harm" requirement. It is found in section 46(a). In addition, they must show that the public interest in disclosing the record "clearly outweighs the harm contemplated". I refer to this as the "balance" requirement. It is found in section 46(b).
+
+[80]    These two requirements are linked. A public body relying on section 46 must not only show that there is a public interest element in refusing disclosure. It must show  
+[2022] JOL 57675 (GJ) at 27
+that the harm contemplated from disclosure outweighs the public interest in disclosure. This means that unless the harm requirement is satisfied, no assessment can be made under the balance requirement.
+
+[81]    The respondents' case is that "the public interest is better served by not disclosing forensic reports which contain confidential information related to sensitive proceedings". It is noteworthy that this statement is not even directed at the Nexus report per se, but at all forensic reports of a similar nature. Once again, the statement is so generalised as to be of no assistance to the court.
+
+[82]    More critically, however, the respondents defence is ill-founded for the simple reason that they fail to address the harm requirement. They do not indicate what substantial contravention of the law would be revealed by providing access to the report, or what serious and imminent risk to public safety would arise as a result of disclosure. Their failure to do so precludes them from being permitted to rely on this ground of exemption.
+
+[83]    I find that the respondents have failed to justify their refusal of access to the report under section 46.
+
+Section 37 and the proposed draft order
+
+[84]    As I noted earlier, the respondents' 11th-hour proposal that the appeal succeed and that an order be granted in terms of the draft relies on section 37, read with sections 47 and 49 of PAIA. The relief proposed in the draft order is based on the judgment of the SCA in SAHAT.
+
+[85]    Section 37, which deals with the protection of confidential information of third parties, is quoted in full above under the legal framework section of this judgment. In summary, section 37(1)(b), which is the section relied on by the respondents, permits a public body to refuse access to a record if it contains information supplied in confidence by a third party, the disclosure of which could reasonably be expected to prejudice the further supply of similar information or information from the same source, and it is in the public interest that similar information or information from the same source should continue to be supplied.
+
+ 
+[2022] JOL 57675 (GJ) at 28
+
+[86]    Sections 47 and 49 relate to the procedure to be followed by the information officer of a public body in circumstances when section 37 (among others) may be applicable. Section 47(1) requires that:
+
+"The information officer of a public body considering a request for access to a record that might be a record contemplated in section 34(1), 35(1), 36(1), 37(1) or 43(1) must take all reasonable steps to inform a third party to whom or which the record relates of the request." (Emphasis added)
+
+The remainder of the section states what information the public body must include in its notice to the third party and it requires the third party to be informed that they may make representations as to either why the request for access should be refused, or that they consent to access being granted.
+
+[87]    In SAHAT, the SCA explained the rationale for the third-party notice procedure in sections 47–49:
+
+"It can readily be imagined that records sought from public bodies may contain information about third parties. Such third parties would be unaware of the request. Their rights might be affected if access is given. For that reason, PAIA has been carefully crafted to ensure that such a third party is given opportunities to be heard on the request. Our common law requires that parties must be informed if a court order affecting them might be granted: 'because orders granted without notice to affected parties are a departure from a fundamental principle of the administration of justice, namely, audi alteram partem. It is this audi alteram partem principle which finds expression in ss 47 to 49.'"20
+
+[88]    The court held further that because the SARB had relied on section 37 in refusing the request for information, this triggered section 47.21 The threshold for this trigger is low, as denoted by the word "might" in section 47.22 Once section 47 is triggered, a decision on a request for information can only be made under sections 49(1) or 49(2).23 
+
+[89]    Section 48(1) permits third parties who are informed under section 47(1) to make oral or written representations as to why the request should be refused. Conversely, they  
+[2022] JOL 57675 (GJ) at 29
+may give written consent for the disclosure of the record. Under section 48(2), a third party who has not been so informed, but who obtains knowledge of a request for information may proceed in the same manner to make representations.
+
+[90]    Section 49(1) requires that:
+
+"The information officer of a public body must, as soon as reasonably possible, but in any event within 30 days after every third party is informed as required by section 47–
+
+ (a) decide, after giving due regard to any representations made by a third party in terms of section 48, whether to grant the request for access;
+
+ (b) notify the third party so informed and a third party not informed in terms of section 47(1), but that made representations in terms of section 48 or is located before the decision is taken, of the decision; and
+
+ (c) notify the requester of the decision and, if the requester stated, as contemplated in section 18(2)(e), that he or she wishes to be informed of the decision in any other manner, inform him or her in that manner if it is reasonably possible, and if the request is–
+
+granted, notify the requester in accordance with section 25(2); or
+refused, notify the requester in accordance with section 25(3)."
+
+[91]    According to the SCA in SAHAT, as regards a decision under section 49(1), this:
+
+"Requires one or both of two actions to have taken place:
+
+A third party must have been informed 'as required by section 47'; or
+A third party, despite not having been so informed, must have nevertheless made representations."
+
+And: 
+[2022] JOL 57675 (GJ) at 30
+"If the third party has not been so informed and if no representations have been received, the provisions of s 49(1) do not apply and the IO is not empowered to make any decision in terms of that section."24
+
+[92]    As the court noted, it may not be possible to inform all third parties despite reasonable steps having been taken to do so. In such circumstances, a decision must be made under section 49(2), rather than under section 49(1). Subsection (2) provides that:
+
+"If, after all reasonable steps have been taken as required by section 47(l), a third party is not informed of the request in question and the third party did not make any representations in terms of section 48, any decision whether to grant the request for access must be made with due regard to the fact that the third party did not have the opportunity to make representations in terms of section 48 why the request should be refused."
+
+[93]    Section 49(2) is the one exception to the audi alteram partem requirements of PAIA. It must be narrowly construed. The default position is that if a decision is to be taken which affects the rights of a person, that person must be given an opportunity to be heard.25 The exception only applies where it has not been possible to give effect to the audi principle despite all reasonable steps having been taken. It cannot and does not apply if the information officer has not taken all reasonable steps to inform third parties concerned.26
+
+[94]    The respondents submit that as in SAHAT, they invoked section 37 as a ground for refusal of access to the record. This triggered section 47. However, like the South African Reserve Bank in SAHAT, they say, the City failed to take all reasonable steps to inform third parties to whom the record relates of the request. Consequently, following the SCA in SAHAT, the City was not empowered to take the decision that it did, and the decision to refuse on this ground must be set aside. On this basis, in their draft order the respondents concede that the appeal should succeed. They go further and submit that the appropriate order is to direct the respondents to give notice of the request for access to third parties, rather than  
+[2022] JOL 57675 (GJ) at 31
+to order them to grant access to Ericsson. The respondents base prayer 2 of their draft order on the order that was made in SAHAT.
+
+[95]    In their submissions in support of the draft order, the respondents identify two third parties who they say fall within the category of parties who must be given notice of the request for access to the record under section 47. These are Nexus and the whistleblowers and informants upon whom, they say, Nexus relied in its investigation.
+
+[96]    The starting point for considering these submissions is the case made out by the respondents in support of section 37. After all, as the respondents accept, it is section 37 that triggers the audi alteram partem obligations under section 47. The latter section cannot be considered in isolation.
+
+[97]    In their written and oral submissions, the respondents say that Nexus in its own right is a party to whom notice of the request should be given. They say that this is because Ericsson has requested access to all supporting documents used in the Nexus investigation. This request was overbroad and extended to documents of which the respondents say the City has no knowledge or which may no longer be in the possession or control of Nexus. For this reason, the respondents contend that Nexus would need to comment on Ericsson's request for access to the record.
+
+[98]    It is important to appreciate that in considering the respondents' case for the relief contained in their draft order it is the case made out in their answering affidavit, and not in their heads of argument, that must be considered. More particularly, it is their averments in support of their reliance on [section] 37 that are determinative.
+
+[99]    In their answering affidavits the respondents say that informants and whistle-blowers may have supplied Nexus with confidential information which was then used by Nexus in the compilation of its report. These are the third parties referred to by the respondents in support of their reliance on section 37(1)(b). The role of Nexus as an affected third party in its own right is not made out in the answering affidavit. It was only raised in the written and oral submissions made by counsel for the respondents in support of, first, the joinder point in limine at the hearing before the court a quo, and, second, in addressing the proposed draft order before this Court on appeal. Consequently, the answering affidavit does not support the argument belatedly raised that it would be appropriate to make an order requiring the  
+[2022] JOL 57675 (GJ) at 32
+respondents to give notice of the request to Nexus as a third party directly affected and covered by section 37(1)(b).
+
+[100]    What is more, and even if one were to overlook the failure of the respondents to make out a case in their answering affidavits, the arguments advanced in counsels' submissions do not bring Nexus within the ambit of third parties to whom notice must be given.
+
+[101]    I noted earlier that section 47(1) must be read with section 37(1) to determine whether a case is made out. It is not enough to simply say, in the language of section 47(1), that Nexus is a "third party to whom or which the record relates". The respondents must make the necessary averments and submissions as to why Nexus fits within those categories of third parties identified in section 37(1)(b), as it is that section that triggers the obligation to give notice under section 47(1).
+
+[102]    The argument advanced by counsel for the respondents was that Ericsson's request extends to documents in respect of which the City does not have knowledge, possession or control. For this reason, the respondents have an obligation to notify Nexus so that it could comment on whether it had any of these documents. However, the reason advanced does not bring Nexus within the ambit of section 37(1)(b). That section specifically relates to the need to protect confidential information from disclosure. It has nothing to do with whether a third party has possession or control of the requested information.
+
+[103]    In my view, the real crux of the notice issue raised by the respondents centres on the position of the informants and whistle-blowers. As noted above, it is these third parties whose interests the respondents aver in their answering gives the City a basis on which lawfully to refuse access to the record requested by Ericsson.
+
+[104]    More specifically, the respondents aver that the Nexus report makes it clear that it relied on "a number of informants and whistle-blowers to assist with their investigations". The respondents go on to explain that Nexus "has disclosed very little about their identities". However, "there are indications in the report that some are or were employed by the City and/or ESA (Ericsson)". Further, "Nexus has disclosed specific information about the occupation of one particular informant". The respondents do not aver that the information was disclosed to Nexus or to the City on a confidential basis as is required under section 37(1)(b).
+
+ 
+[2022] JOL 57675 (GJ) at 33
+
+[105]    Of course, neither this Court nor Ericsson has seen the Nexus report. The averment that Nexus used information from informants and whistle-blowers can't be disputed. The threshold to trigger the notice obligation under section 47(1) is low: the question is whether the record "might" contain information supplied in confidence by a third party. For this reason, and despite there being no express averment that these third parties supplied confidential information, I accept that what the respondents say in their answering affidavit is sufficient to activate the section 47(1) trigger.
+
+[106]    Does this mean, though, that it would be appropriate to deny Ericsson any access at all to the entire Nexus report and related documents requested? Does it also mean, as provided for in the proposed draft order, that Nexus ought to be the party notified, rather than the informers or whistle-blowers themselves?
+
+[107]    The respondents aver in their answering affidavit that the reasons the City has not informed the informants and whistle-blowers of Ericsson's request is because the City does not know their identities. It was on this basis that counsel for the respondents proposed the form of notice set out in the draft order. The proposal is that the respondents be directed to notify Nexus of the request. In their submissions to the court, counsel suggested that it is necessary for Nexus to act as a "conduit" between the court and the whistle-blowers.
+
+[108]    The facts of this case are different to those in SAHAT. There, the identity of the third parties concerned was known. Consequently, the court was able to direct that reasonable steps be taken to notify those identified parties and there was no need to consider a conduit as is suggested in this case. Moreover, the requester in SAHAT requested evidence regarding contraventions of certain laws by these named individuals. Clearly, in that case disclosure could not be made lawfully in the absence of reasonable steps being taken to notify the identified third parties that access was being sought to evidence linking them to possible contraventions of the law.
+
+[109]    Here, the City does not know the identity of the third parties. What is more, Ericsson's request is broad. It wants, among other things, access to the Nexus reports in general. It does not specifically seek information about informers or whistle-blowers who may have assisted Nexus in its investigations, or necessarily  
+[2022] JOL 57675 (GJ) at 34
+of information they may have provided. However, insofar as the reports and other documentation may record information provided by informers and whistle-blowers, that information cannot be disclosed to Ericsson without reasonable steps being taken to notify these third parties.
+
+[110]    Nonetheless, this does not mean that in the interim Ericsson ought to be denied access to the remainder of the reports and other documentation that is not relevant to those third parties. Save for the information pertaining to the informers and whistle-blowers, the respondents have failed to satisfy the burden resting on them to justify their refusal under any of the grounds relied upon by them. It follows that their decision to refuse access was unlawful and must be set aside. The decision to refuse access to the particular information pertaining to the third-party informers and whistle-blowers must be set aside because the decision was premature in that the City had not complied with its obligations under sections 47–49 of the Act. The order this Court makes must make provision for this as well.
+
+However, I am not persuaded that the draft order proposed by Counsel for the respondents is legally warranted or appropriate. Contrary to what Counsel for the respondents propose, in my view the correct and appropriate order would be to:
+
+Direct the respondents to take reasonable steps to notify the informants and whistle-blowers of Ericsson's request. It is not for this Court to tell the respondents what steps those should be, as there is simply insufficient information before the Court to guide us in this regard.
+The respondents should in addition be directed to redact the final and draft reports so as to remove all information relevant to the informants and whistle-blowers. 
+Thereafter, the respondents must be directed to provide access to Ericsson of the balance of the record to the extent that it is in the possession or under the control of the City.
+
+[111]    In my view, this is the appropriate manner of balancing the interests and constitutional rights of Ericsson with those of third-party informants and whistle-blowers. While the latter are entitled to be notified, if reasonably possible, of a request for information relating to them, Ericsson also has a right to the balance of  
+[2022] JOL 57675 (GJ) at 35
+the reports and supporting documentation which, they have been told, makes adverse findings against them. There is no warrant for continuing to deny Ericsson such access considering that no legal steps have been taken against it in the years since the report was finalised.
+
+Costs
+
+[112]    The respondents submitted that in the event of this Court upholding the appeal, it should order that each party should pay its own costs. The basis for this submission is that Ericsson could have taken steps to ensure that the informers and whistle-blowers were notified and it failed to do so.
+
+[113]    I find no merit in this submission. Until the 11th hour the respondents steadfastly opposed the appeal and contended that the court a quo had correctly upheld the point in limine. The respondents only did an about turn after the appellant drew their attention to the SAHAT judgment. Even though the concession that the appeal should succeed was included in its proposed draft order filed on the eve of the appeal, this neither shortened the hearing or narrowed the issues between the parties.
+
+[114]    Ultimately, the respondents' opposition to the appeal failed. The appellant succeeded substantially on the merits and in my view there is no reason to deprive them of the costs that ordinarily follow the event.
+
+Order
+
+[115]    I make the following order:
+
+The appeal is upheld with costs including those of senior Counsel, which costs must be paid by the respondents jointly and severally, the one paying the other to be absolved.
+The order of the court a quo is set aside and the following order is substituted:
+The point in limine is dismissed.
+The decision to refuse access as to the requested records is set aside. 
+[2022] JOL 57675 (GJ) at 36
+Subject to paragraph 2(e) below, the respondents are directed to provide the applicant with access to copies of the draft report and the final report prepared by Nexus Forensic Services (Nexus), in respect of the first respondent's broadband network project, together with copies of such exhibits, annexures, schedules and supporting documents utilised by Nexus Forensic Services for its investigation into the broadband network project, and the compilation of the draft and final reports ("the Record" ) as may be in the possession or under the control of the respondents.
+The access to the record directed under paragraph 2(c) above must given within 10 days of service of this order on the respondents.
+Prior to providing access to the applicant, the respondents are directed to redact from the record any details of the informers and whistle-blowers who assisted Nexus in its investigation and compilation of its report, as well as the information supplied by such informers and whistle-blowers to Nexus in confidence.
+The respondents are directed to take all reasonable steps to notify the aforesaid informers and whistle-blowers of the request insofar as it pertains to them in accordance with section 47 of PAIA as soon as reasonably possible and no later than within 15 days of service of this order, and thereafter to comply with the time periods and provisions in Chapter 5 of PAIA.
+The respondents are directed to pay the costs of the application, including the costs of senior Counsel, jointly and severally the one paying the other to be absolved.
+
+(Matojane J; Van Aswegen AJ concurred in the judgment of Keightley J.)
+
+
+
+Footnotes
+1	  Act 2 of 2000.
+2	 2012 (2) SA 50 (CC) at para [9] [also reported at 2012 (2) BCLR 181 (CC); [2012] JOL 28167 (CC) – Ed].
+3	 Brümmer Minister for Social Development and others 2009 (6) SA 323 (CC) [also reported at [2009] JOL 24044 (CC); 2009 (11) BCLR 1075 (CC) – Ed].
+4	 M & G para [10].
+5	 My Vote Counts NPC v Minister of Justice and Correctional Services and another 2018 (5) SA 380 (CC) para [23] [also reported at 2018 (8) BCLR 893 (CC) – Ed], cited in The South African History Archive Trust v South African Reserve Bank and others [2020] ZASCA 56 (29 May 2020) para [6] [also reported at [2020] 3 All SA 380 (SCA); [2020] JOL 47561 (SCA); 2020 (12) BCLR 1427 (SCA) – Ed].
+6	 M & G para [14].
+7	 M & G para [15].
+8	 M & G para [23].
+9	 M & G para [24].
+10	 M & G para [25].
+11	 Ericsson took issue with an obviously incorrect statement in the judgment to the effect that the application was "an opposed application for summary judgment". Nothing turned on this error and the learned Acting Judge corrected the statement in the leave to appeal judgment. The second complaint was that the judgment recorded that Ericsson was required to comment on "findings relating to reasonable suspicion of fraud against the applicant". Ericsson says that the court ought not to have found that there were reasonable suspicions of fraud, as this could only have been apparent from the Nexus report, which was not made available to the court. In fact, there was no "finding" by the court a quo to this effect. As I read the judgment, it was simply a record of a background fact, which was irrelevant to the court's decision to uphold the point in limine.
+12	 [2020] ZASCA 56 (29 May 2020).
+13	 [2016] ZAGPPHC 510 (27 May 2016).
+14	 Para [14].
+15	 Competition Commission v ArcelorMittal South Africa Ltd and others 2013 (5) SA 538 (SCA) at para [21] [also reported at [2013] 3 All SA 234 (SCA); [2013] 1 CPLR 1 (SCA) – Ed].
+16	 Zeffertt and Paizes The South African Law of Evidence (3ed) at 736 (Zeffertt & Paizes).
+17	 Zeffert & Paizes at 733, citing Sopinka et al Evidence at 653 fn 4.
+18	 General Accident, Fire and Life Assurance Corporation Ltd v Goldberg 1912 TPD 494 at 504.
+19	 Bagwandeen v City of Pietermaritzburg 1977 (3) SA 727 (N) at 731H [also reported at [1977] 2 All SA 562 (N) – Ed].
+20	 Para [7].
+21	 Para [9].
+22	 Para [10].
+23	 Para [14].
+24	 Para [16].
+25	 SAHAT para [19].
+26	 SAHAT para [20].
+
+Appearance:
+Adv G Nel SC, Bowman Gilfillan Incorporated (A); Adv R Solomon SC, Adv M Williams, Mothle Jooma Sabdia Incorporated (R)
+
+
+End of Document

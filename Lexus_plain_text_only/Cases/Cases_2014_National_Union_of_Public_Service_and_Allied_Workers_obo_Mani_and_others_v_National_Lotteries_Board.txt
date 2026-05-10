@@ -1,0 +1,1035 @@
+
+
+
+
+National Union of Public Service and Allied Workers obo Mani and others v National Lotteries Board 2014 (6) BCLR 663 (CC)
+Constitutional Law Reports
+
+Division: Constitutional Court of South Africa
+Case No: CCT75/13
+Date: 10/04/2014
+Before: DE Moseneke Acting Chief Justice, TL Skweyiya Acting Deputy Chief Justice, E Cameron, J Froneman, CN Jafta, M Madlanga, BE Nkabinde, RM Zondo Justices, N Dambuza and NZ Mhlantla Acting Justices
+Keywords
+
+
+Labour relations — workers’ right to participate in the activities and programmes of a trade union — section 23(2)(a) of the Constitution — employees’ right to freedom of association — right to participate in lawful activities of a trade union — section 4(2)(a) of the Labour Relations Act 66 of 1995 — employees presenting a petition that CEO be given a separation package in return for resignation — such not a demand for the dismissal of the CEO — statement by employees that they could not bear to be in the same building with the CEO and that the employer was to ensure that a certain day would be his last day in the employer’s employ — publication of complaints — such lawful activities in terms of section 4(2)(a) of the Labour Relations Act 66 of 1995 and made in pursuit of a conciliation process — not amounting to insubordination and disrespectful behaviour — dismissals automatically unfair — employees awarded retrospective reinstatement and costs.
+
+Editor’s Summary
+
+
+Applicant trade union (“NUPSAW”) applied on behalf of 10 of its members who had been dismissed by Respondent for leave to appeal against a decision of the Labour Court upholding their dismissals.
+
+A number of employees had been dissatisfied with Respondent’s Chief Executive Officer. Three shop stewards of NUPSAW wrote a letter to Respondent’s Manager of Human Resources stating that they were “no longer prepared to bear his style of leadership”. They demanded to be given sight of the CEO’s employment contract. A further letter was sent complaining that the shop stewards had not been invited to attend interviews of candidates for appointment to the post of Chief Operations Officer. The letter stated that the aggrieved employees would not recognise the appointment of any Chief Operations Officer, that they would “isolate” the person appointed; and would “ensure that he or she does not feel welcome”. In response the Human Resources Manager denied the request to have sight of the employment contract, advised that the employees should follow the grievance procedure set out in a Staff Policy document, stated that NUPSAW had no right to attend the interviews, and warned NUPSAW that its members faced the risk of disciplinary action for insubordination.
+
+A dispute referred to the CCMA concerning the claim of access to the employment contract was decided in favour of Respondent. The shop stewards and some employees then submitted a petition signed by 41 employees to the Human Resources Manager indicating their “vote of no confidence” in the CEO, and stating that they were “no longer prepared to spend a day in the same building with him”. Respondent warned that  
+2014 (6) BCLR 663 (CC) at 664
+unless the petition was withdrawn disciplinary proceedings would be instituted. When some employees refused to withdraw the petition, Respondent instituted disciplinary proceedings. Following disciplinary proceedings 10 employees were dismissed for misconduct in the form of insubordination. The gravamen of the misconduct constituting insubordination was found to be the manner in which the employees had associated themselves with a campaign designed to bring both Respondent and its CEO into disrepute. All of the employees were invited to sign a formal acknowledgment dissociating themselves from the letters and petition, acknowledging their wrongdoing, and apologising to the CEO. Twenty-eight employees signed such acknowledgments and were given warnings. The remaining 10 employees belatedly made a qualified apology which the chairman found to be insincere. Those 10 employees were dismissed. 
+
+Applicant on behalf of the employees referred a dispute to the Labour Court contending that the dismissals were automatically unfair in terms of section 187(1)(d) of the Labour Relations Act 66 of 1995 (“the LRA”), alternatively, unfair. Applicant contended that its members were exercising their constitutional rights to freedom of expression, assembly, demonstration, picket and petition, and “freedom of the press and other media” and “freedom to receive and impart information”. The Labour Court concluded that the employees were guilty of insubordination and bringing into disrepute the Respondent its CEO. It found that this conduct was not protected constitutionally or by the LRA. The dismissals were not automatically unfair. It also found that there was no inconsistency in the fact that the employees who had given acknowledgments had been treated differently from those who had not. The Labour Court dismissed an application for leave to appeal. A petition to the Labour Appeal Court for leave to appeal also failed. The Supreme Court of Appeal granted leave to appeal. 
+
+The Supreme Court of Appeal dismissed the appeal in a judgment reported as National Union of Public Service and Allied Workers on behalf of Mani and others v National Lotteries Board [2013] 8 BLLR 743 ((2013) 34 ILJ 1931) (SCA). It concluded that the employees had not been dismissed for petitioning their employer, but rather for their acts of insubordination. 
+
+Applicant then approached the Constitutional Court seeking leave to appeal.
+
+By a majority (per Zondo J, with Moseneke ACJ, Jafta, Madlanga, Nkabinde JJ and Mhlantla AJ concurring) the Constitutional Court granted leave to appeal and overturned the judgment of the Supreme Court of Appeal. The majority held that the statements made by the employees were in pursuit of the ongoing statutory-conciliation process, and in the exercise of their right to participate in collective bargaining. Their conduct formed part of the lawful activities of a union. Their dismissals were, accordingly, automatically unfair. Furthermore, the failure to utilise the statutory dispute-resolution mechanisms in the LRA or to use the domestic grievance procedure did not render them guilty of insubordination. Respondent was ordered to reinstate the employees.
+
+Dambuza AJ wrote a separate judgment setting out different reasons for concurring in the order proposed by the majority. Dambuza AJ agreed that the dismissals were unfair but disagreed that they were automatically unfair. Petitioning an employer to dismiss another employee was not a lawful union activity protected under the LRA. However, viewed in the circumstances of Respondent’s unwillingness to engage in good faith negotiations, coupled with its disregard for the conciliation process that was underway, the employees’ threat to defy authority did not constitute insubordination and disrespectful behaviour. The dismissals were, accordingly, substantively unfair. 
+
+A minority (per Froneman J, concurred in by Skweyiya ADCJ and Cameron J) held that the employees’ petition and the publication of the letter amounted objectively to insubordination and the bringing of the CEO and Respondent into disrepute. The dismissals were thus not automatically unfair. Although unions and employees were entitled  
+2014 (6) BCLR 663 (CC) at 665
+to exercise their rights to petition and freedom of expression parallel to processes under the LRA, those rights could not be exercised in a manner that undermined the processes of the LRA. The minority would have granted leave to appeal but dismissed the appeal.
+
+____________________________________________________________________________________
+
+Froneman J: 
+
+Introduction
+What protection does the Labour Relations Act1 (“Act”) afford to employees who demand the dismissal of their Chief Executive Officer (“CEO”), with a threat to stop work if the demand is not met, and then also associate themselves with a letter about the poor performance of the CEO, which their union leaks to the press, all during a conciliation process in terms of the Act? That is the question to be determined in this matter.
+The respondent, the National Lotteries Board (“employer” or the “Board”), dismissed the employees on the ground that the demand and threat constituted insubordination, and that the association with the press leak constituted misconduct in the form of disrespect and bringing the CEO and employer into disrepute. At a disciplinary hearing the employees were found guilty of these charges and those who did not make a formal apology were dismissed. The dismissals were upheld in the Labour Court and Supreme Court of Appeal. The applicant (“union”) seeks further redress in this Court for the dismissed employees.
+The union does so, on two alternative grounds. The first is that the dismissals were automatically unfair under section 187 of the Act, because the employees’ conduct amounted to participation in the lawful activities of the union under the Act. The alternative ground is that if the dismissals were not automatically unfair, they were nevertheless unfair under section 188 of the Act.
+Briefly, what happened is that the union was unhappy with the performance of the CEO. It sought information about the CEO’s terms of contract from the employer. The employer refused to divulge it. The union then referred the dispute about its alleged right to obtain the information to conciliation under the Act. During the conciliation process the union and the employees were given the opportunity to motivate why the contract of the CEO should be made public. The union did so in a letter (union letter) that listed a number of complaints against the CEO. The union letter did not demand his dismissal, nor did it contain any threats of a work stoppage. The employer did not respond to a further request for a meeting. The union letter was leaked to the press. Again the employer did not respond. The employees then wrote their own letter (petition) supporting the union, but went further in demanding the dismissal of the CEO and stating that if it was not done by a certain date, they would not work in the same building with him again. This conduct led to the institution of 
+2014 (6) BCLR 663 (CC) at 666
+  disciplinary proceedings. Separately, the conciliation was declared a failure and the employer’s contention that the union was not entitled to the information was upheld by the commissioner.
+This judgment holds that the enquiry should proceed by asking questions at three different levels. The first is to determine whether the employees’ petition and the publication of the union letter in the press objectively amounted to insubordination and bringing the CEO and employer into disrepute. I find that they do, for reasons explained later.
+The second is whether the Act contains provisions that make it automatically unfair to dismiss employees for these transgressions. The answer is no.
+As far as the insubordination charge is concerned, the union letter did not demand dismissal of the CEO and threaten a work stoppage. The employees’ petition did. To demand the dismissal of a co-employee without a fair hearing is unlawful. The employees made that demand, the union did not. There is simply no room for the employees to rely on the lawful activities of the union under the Act to justify their own, separate and unlawful, demand and threat.
+Should a dispute about the continued employment of the CEO be determined in accordance with the dispute-resolution processes under the Act? This judgment says, Yes, but qualifiedly so. As will be seen later, there are detailed and elaborate provisions under the Act for that kind of dispute to be resolved. Neither the union nor the employees sought to pursue these dispute-resolution provisions to their final conclusion. Trade unions and employees have a choice whether to follow or complete the dispute-resolution route under the Act; they cannot be compelled to do so. But if they decide to forgo that process, they lose the protections afforded to them under the Act stemming from the dispute-resolution process. If there then is a right to leak and publish that information during the conciliation process, it must lie outside the provisions of the Act. This alternative source may be the rights to petition and free expression under the Constitution. But the automatically unfair protection relates to union activities in the exercise and participation of rights under the Act, not outside it.
+That brings us to the third level. Here the question is whether the dismissal, although not automatically unfair, is nevertheless unfair because the employer failed to prove that the reason for the dismissal was a fair reason relating to the employees’ conduct2 viewed in light of all the circumstances. It is at this level that the right to petition and free expression must play its rightful role. Do the rights to petition and freedom of expression in the Constitution afford employees charged in disciplinary proceedings with additional independent protection outside the protection  
+2014 (6) BCLR 663 (CC) at 667
+  afforded under the Act? This judgment again says, Yes, but again only qualifiedly so. Unions and employees may exercise their rights to petition and free expression in parallel to processes under the Act, but only to the same extent as everyone else may generally exercise these rights, and provided that these rights may not be exercised in a way that undermines the Act’s own processes.
+It is difficult to conceive how the union and the employees could rely on the rights to petition and free expression outside of the Act’s processes without undermining those processes. The employees sought the removal of the CEO from his position. He can be removed only in accordance with the provisions of the Act. To do so otherwise would be unlawful.
+The right of employees to be protected when they participate in the lawful activities of a union is a hard-won right. But it forms part of the cluster of fundamental rights that ensures fair labour practices and the right to engage in collective bargaining – rights that are given expression in the Act. The dispute in this case is one for which the Act provides elaborate and detailed dispute-resolution mechanisms. When participation in union activities outside the Act is used as justification for conduct that is unlawful under the Act, the basic principles and structure of collective bargaining under the Act are put at risk. That is cause for the gravest concern.
+But this explanation has run ahead of things. In coming to the outcome set out in this introduction, what follows is a fuller exposition of the facts, the law and the reasoning in the application of the law to the facts.
+
+Facts
+The dispute stems from the union’s dissatisfaction with the performance of the CEO. On 20 March 2008, the union sent letters to the employer’s human resources and administration manager seeking a meeting with him to obtain the CEO’s employment contract and to raise complaints about his leadership style. The union was also dissatisfied with its exclusion from the interview process for the position of chief operations officer. The human resources manager replied that the union was not entitled to see the contract and that an employee who had a grievance had the right to follow the grievance procedure in terms of the employer’s Staff Policy. He also warned that further misconduct would result in disciplinary action, including possible dismissal. The union took umbrage at this reply, regarding it as a breach of the collective agreement between it and the employer.
+As a result the union referred the dispute to the Commission for Conciliation, Mediation and Arbitration (“CCMA”) under section 16 of the Act. It sought disclosure of the “terms of reference of the CEO”. The Commissioner issued a directive in the following terms on 9 May 2008:
+
+“In view of the willingness of both parties to settle the matter, the conciliation will be extended for 30 days to give the parties the opportunity:
+
+To draft a motivation to the Board of the National Lotteries Board outlining the reasons why it is important for the contract of employment of the CEO to be made public.
+To specify in writing expectations of the staff in terms of overall organisational performance and delivery.”
+The union’s motivation came on 23 May 2008 in the form of the union letter. The union letter is highly critical of the CEO and lists some 17 paragraphs of complaints about his performance. These included that the CEO gave preferential treatment to certain departments by allowing them to appoint friends without advertising the vacancies, not applying consistent contractual terms and further, that he “failed to guide the Board in ensuring that the Companies involved in the re-engineering process were properly appointed through [Public Finance Management Act] compliant tender processes.” The union described these problems as “directly linked to the operations of the CEO and in turn adversely affecting both staff of the [Board] and [its] beneficiaries,” and asserted that they had, inter alia, “culminated into job losses, non-delivery of essential services by NGOs to the communities of the country that are affected by abject poverty.” The demand to see the CEO’s contract and terms of reference is reiterated, but without any threat to act outside the conciliation process. The letter does not ask for a further meeting with the employer. The union subsequently leaked this letter and, on 30 May 2008, it was published in the Mail & Guardian.
+A report in the Mail & Guardian on 30 May 2008 noted that the union letter had been sent to the employer and that it contained “a lengthy list of concerns”. The report notes that the CEO “is accused of treating staff and board members autocratically and routinely failing to meet delivery deadlines for the handover of more than R2-billion in annual grants to sports, arts and charities.” Among the complaints in the letter listed in the report are that the CEO: failed to institute performance appraisals, skills development and HIV/Aids policies; purchased flat-screen televisions and digital satellite decoders instead of upgrading old computers and printers; introduced unreasonable access restrictions; delayed or reneged on payment to beneficiaries; failed to institute affirmative action; and plotted the constructive dismissal of a staffer.
+On 3 June 2008 – before the extended period for conciliation had expired – the petition, containing a vote of no confidence in the CEO, signed by 41 employees, was sent to the employer. It read:
+
+“We the undersigned employees of the National Lotteries Board and as citizens of the Republic of South Africa, hereby submit a VOTE OF NO CONFIDENCE in the CEO of the National Lotteries Board, Prof Vevek Ram.
+
+In addition to the letter dated 23 May 2008, attached herein as ‘Appendix A’, we the employees of the Board have lost confidence in him and his ability to run the organisation. We, the employees of the Board have suffered adversely under his bureaucratic leadership style and his inept management approaches. We, as the employees of the Board are no longer prepared to bear with him anymore.
+
+In light of the above, we urge the Board to request Prof Vevek Ram to resign and further look at a suitable settlement for him as deemed fit by the Board. Failing which, Prof Vevek Ram must be relieved of his duties due to the reasons stated in ‘Appendix A’.
+
+ 
+2014 (6) BCLR 663 (CC) at 669
+
+We do not only submit this vote of no confidence on our behalf, but for fellow South Africans who are currently adversely affected by the bureaucratic leadership style of Prof Ram. The poor, victims of crime, the homeless, the future sporting stars and the future artists of this country are dependent on the public-centred service delivery which they are currently being denied.
+
+We further urge the Board to take this matter seriously as we are no longer prepared to spend a day with Prof Ram in the same building with him at the helm of this organisation. We further urge the Board to ensure that June 30th 2008 is the last day of his employment.
+
+We the undersigned whole-heartedly support the vote of no confidence in Prof Vevek Ram. We further state that we were neither coerced nor misled into signing this vote of no confidence. We fully understand our actions.”
+
+The union urged the employer not to subject any of its members to “any form of intimidation or victimisation” for the decision they had taken. In reply the employer, through its attorneys, wrote to the union setting out its position in relation to the various points raised. It stated that in terms of the collective agreement the union had no entitlement to the contract of the CEO and that the union had also breached the procedural and substantive commitments it bound itself to in the collective agreement. It warned that if this behaviour continued, notice would be given for termination of the agreement. It referred to the publication of the union’s letter of 23 May 2008 in the media and warned that this was not a lawful activity of the union permitted under section 5 of the Act, but was intended to undermine the authority of the Board, to bring it into disrepute and to create conflict in the workplace. The demand contained in the petition was unlawful and the threat not to work constituted an act of insubordination on the part of the employees who signed it.
+In spite of this, the majority of the employees who had signed the petition persisted in their demands.
+The conciliation process had been extended to 11 June 2008. On that day, the employer raised an objection to the jurisdiction of the CCMA to conciliate or arbitrate the dispute about the information the union sought from the employer. A certificate of non-resolution was issued3 and the matter was set down on 24 July 2008 for a hearing on this issue.
+On 17 June 2008, the Board brought three charges against the remaining 38 employees. The charges were:
+Insubordination and disrespectful behaviour, making the continued employment relationship intolerable, by associating with and supporting the contents of the letter dated 23 May 2008 and supporting the petition dated 3 June 2008.
+Bringing the name and reputation of the employer and the CEO into disrepute and making the continued employment relationship intolerable by associating with and supporting the contents of the union’s letter dated 23 May 2008, the publication of the contents of the letter in the media and the union’s stated intention (conveyed in its letter of 
+
+5 June 2008) to make the contents of its correspondence with the employer available to the media and whomever it deems fit.
+
+A material breach of the general duty to act in good faith and to co-operate with, and the refusal to work under, the supervision and control of the duly appointed CEO.
+The disciplinary hearing, after some postponements, commenced on 30 June 2008. It was conducted by Professor Andrè van Niekerk, an acknowledged labour law expert.4 He found the charged employees guilty on the first two counts but also found that, outside of the elements of insubordination and disrespect contained in the first two counts, there was no further indication of an actual refusal to work or co-operate.
+As far as the insubordination charge was concerned, he stated that the question whether the employees defied the employer’s authority raised tension between the employees’ right to freedom of expression and their obligation to show a degree of respect to the employer. Internal procedures for the resolution of grievances contemplate an initial, private attempt to resolve workplace grievances at the lowest possible level. At no stage did the union seek to have the issues contained in the 23 May 2008 letter formally tabled as grievances, nor did they seek a resolution in terms of any internal process. There was no evidence that the union had exhausted all possible avenues in seeking to have their concerns addressed by the employer. The union’s allegations in the 23 May 2008 letter amounted to little more than conjecture. The union failed to bring the grievances to the attention of management through the appropriate grievance procedure or any statutory mechanisms available to it. By associating themselves with the union’s actions, the individual employees made themselves guilty of insubordination and disrespectful behaviour.
+He also found that there was no doubt that the union made the contents of the 23 May 2008 letter available to the media. This was in line with the union’s express intentions as contained in the letter of 5 June 2008. By associating themselves with the publication of the contents of the letter, and in particular, by stating that the CEO should resign, failing which he should be dismissed, the charged employees made themselves guilty of insubordination and disrespect.
+The charged employees were given an opportunity to apologise unreservedly for their conduct at the disciplinary inquiry prior to the imposition of sanction. All of the employees – except for those now before us – did so. The employees in the current appeal made a conditional apology, but were nevertheless dismissed.
+An internal appeal failed and the matter was then taken further to the Labour Court.
+At no stage during the disciplinary proceedings or in the Labour Court did the union or dismissed employees attempt to rely on the section-16 referral to the CCMA as a defence to the charges. As noted, those proceedings  
+2014 (6) BCLR 663 (CC) at 671
+  were postponed on 11 June 2008 after a certificate of non-resolution was issued. On 24 July 2008, the commissioner heard argument on whether the union was “entitled to disclosure of information pertaining to the employment contract of the CEO”. He handed down his ruling on 1 August 2008, finding that the union was not entitled to disclosure of information concerning the CEO’s employment contract. The union did not seek a review of the decision on that issue.
+
+Constitutional and legal context
+The Constitution guarantees every worker the right to join a trade union and to participate in its activities and programmes.5 It also provides that trade unions have the right to determine their own administration, programmes and activities, to organise6 and to engage in collective bargaining.7 The Constitution, of course, also protects other fundamental rights, including the right to freedom of expression,8 the right to present petitions,9 and the right to freedom of association.10 
+2014 (6) BCLR 663 (CC) at 672
+The Act seeks to give effect to the right to fair labour practices under the Constitution.11 It provides that every member of a trade union has the right to participate in the lawful activities of the union12 and that every union has the right to plan and organise its administration and lawful activities.13
+Under section 14(4) of the Act, a trade union representative has the right:
+“(a) at the request of an employee in the workplace, to assist and represent the employee in grievance and disciplinary proceedings;
+to monitor the employer’s compliance with the workplace-related provisions of this Act, any law regulating terms and conditions of employment and any collective agreement binding on the employer;
+to report any alleged contravention of the workplace-related provisions of this Act, any law regulating terms and conditions of employment and any collective agreement binding on the employer to – 
+
+  (i) the employer;
+
+  (ii) the representative trade union; and
+
+  (iii) any responsible authority or agency; and
+
+to perform any other function agreed to between the representative trade union and the employer.”
+An employer must disclose to a trade union representative all relevant information that will allow that representative to perform these functions effectively.14 An employer is not obliged to disclose information:
+“(a) that is legally privileged;
+that the employer cannot disclose without contravening a prohibition imposed on the employer by any law or order of any court;
+that is confidential and, if disclosed, may cause substantial harm to an employee or the employer; or
+that is private personal information relating to an employee, unless that employee consents to the disclosure of that information.”15
+Disputes about what information is required to be disclosed may be referred to the CCMA. Section 16 of the Act states in relevant part:
+“(6) If there is a dispute about what information is required to be disclosed in terms of this section, any party to the dispute may refer the dispute in writing to the Commission.
+The party who refers the dispute to the Commission must satisfy it that a copy of the referral has been served on all the other parties to the dispute.
+The Commission must attempt to resolve the dispute through conciliation.
+If the dispute remains unresolved, any party to the dispute may request that the dispute be resolved through arbitration.
+In any dispute about the disclosure of information contemplated in subsection (6), the commissioner must first decide whether or not the information is relevant.
+If the commissioner decides that the information is relevant and if it is information contemplated in subsection (5)(c) or (d), the commissioner must balance the harm that the disclosure is likely to cause to an employee or employer against the harm that the failure to disclose the information is likely to cause to the ability of a trade union representative to perform effectively the functions referred to in section 14(4) or the ability of a representative trade union to engage effectively in consultation or collective bargaining.
+If the commissioner decides that the balance of harm favours the disclosure of the information, the commissioner may order the disclosure of the information on terms designed to limit the harm likely to be caused to the employee or employer.
+When making an order in terms of subsection (12), the commissioner must take into account any breach of confidentiality in respect of information disclosed in terms of this section at that workplace and may refuse to order the disclosure of the information or any other confidential information which might otherwise be disclosed for a period specified in the arbitration award.
+In any dispute about an alleged breach of confidentiality, the commissioner may order that the right to disclosure of information in that workplace be withdrawn for a period specified in the arbitration award.”
+To complete the picture it is necessary to mention that the Act gives generous protection to the constitutional right to strike.16 It does so in three forms: primary strikes about demands, grievances or disputes at the workplace;17 secondary strikes in support of a strike by other employees;18 and protest action for the purpose of promoting or defending the socio-economic interests of workers.19 
+2014 (6) BCLR 663 (CC) at 674
+No person may discriminate against an employee for exercising any right conferred by the Act.20 If an employer dismisses an employee for exercising rights conferred under the Act, or if the reason for the dismissal is that the employee took action, or indicated that he or she would take action, against the employer by exercising any right conferred by the Act or participating in any proceedings in terms of the Act, the dismissal is regarded as automatically unfair.21
+What thus emerges is that the Act comprehensively regulates workplace disputes by procedures agreed to and established through collective bargaining, as well as other dispute-resolution processes in terms of the Act. The Act also recognises that workers have a legitimate interest in workplace issues of other workers that do not directly affect them, by allowing secondary strikes, as well as in promoting and defending the general socio-economic interests of workers through protest action. And though the Act does not directly speak to rights of petition and free expression, the Act’s prohibition against unfair dismissals includes otherwise unjustified dismissals resulting from employees’ exercise of constitutionally-protected rights, including the rights fundamental for engaging in public discourse.22 
+2014 (6) BCLR 663 (CC) at 675
+Workers and trade unions have the right to express themselves freely on all issues in public and in private, in the same manner as anyone else. That freedom is not unlimited – it does not extend to undermining the reputation and dignity of others. When trade unions and workers choose to pursue resolution of disputed issues through the dispute-resolution machinery of the Act, they are only entitled to the protection of the Act to the extent that they comply with the requirements of that process. It may be permissible to pursue disputed issues in public debate in parallel with the dispute-resolution process under the Act, provided that the integrity of this process is not unreasonably undermined by doing so and the ordinary bounds of expression, relating to the reputation and dignity of others, are not transgressed.
+
+Issues
+From this, it appears that the substantive issues are:
+Did the dispute relate to an internal workplace grievance?
+If so, did the conduct of the dismissed employees objectively amount to insubordination, and bringing the name and reputation of the employer and the CEO into disrepute?
+If it did, was their conduct nevertheless protected under section 4(2)(a) of the Act as participation in the lawful activities of the union and thus was their dismissal automatically unfair in terms of section 187 of the Act?
+If not, was their dismissal nevertheless unfair for other reasons in terms of section 188(1)(a)(i) of the Act?
+Was dismissal justified as a sanction if the dismissed employees were properly found guilty?
+Before dealing with these issues, the preliminary question to be disposed of is whether leave to appeal should be granted.
+
+Leave to appeal
+The Labour Court dismissed the union’s argument that the employees’ dismissal was automatically unfair under the Act because they were dismissed for their mere association with the union’s legitimate activities. Basson J found that the union’s activities were not legitimate activities under the Act and that the employees unequivocally declared that they personally accepted the consequences of their conduct.23 The alternative claim, for otherwise unfair dismissal, was also dismissed on the basis that there were existing grievance procedures that were not pursued.24 The dismissed employees were given a fair opportunity to retract their support for the petition at the disciplinary hearing but failed to do so.25 The sanction of dismissal was thus justified. 
+2014 (6) BCLR 663 (CC) at 676
+The Labour Court and the Labour Appeal Court refused leave to appeal, but the Supreme Court of Appeal granted special leave to appeal to it.26
+The Supreme Court of Appeal held that the reason for the employees’ dismissal was not the petitioning itself, but the communication of the offensive material contained in the petition.27 Correctly construed the employees were not dismissed for petitioning, but for their acts of insubordination manifested in the content of the petition.28 It also upheld, as procedurally and substantively fair, the sanction of dismissal.
+Before this Court, the union bases its application for leave to appeal on the same grounds as it did in the other courts: that the dismissals were automatically unfair under section 187 of the Act and in the alternative, that they were “ordinary” unfair dismissals under section 188 of the Act. Given the constitutional importance of the right to freedom of expression and fair labour rights, the union argues, leave to appeal should be granted.
+The employer argues that leave should be refused because the findings in the Labour Court and Supreme Court of Appeal are largely fact-based and do not establish a constitutional issue of any import. In any event, the prospects of success are not good either. Hence, the interests of justice do not favour granting leave.
+NEHAWUestablished the parameters for granting leave to appeal to this Court in labour matters. It held that the interpretation and application of a statute that seeks to give effect to a fundamental right under the Constitution raises a constitutional matter.29 But Ngcobo J cautioned:
+
+“This does not mean that this Court will as a matter of course hear appeals against decisions of the [Labour Appeal Court] dealing with the interpretation and application of the [Act].”30
+
+In that case, relevant considerations to the interests of justice enquiry were: prospects of success,31 including a difference of opinion in the Labour Court and Labour Appeal Court on the proper construction of a provision of the Act;32 the fact that it was the first time this Court had to consider and lay down the proper approach to interpreting a section of the Act;33 the importance of respecting the expertise of specialised courts like the Labour Court and the Labour Appeal Court;34 and the need for labour  
+2014 (6) BCLR 663 (CC) at 677
+  disputes to be resolved speedily. In regard to the latter consideration, the Court stated:
+
+“By their very nature labour disputes must be resolved expeditiously and be brought to finality so that the parties can organise their affairs accordingly. They affect our economy and labour peace. It is in the public interest that labour disputes be resolved speedily by experts appointed for that purpose. This Court will therefore be slow to hear appeals from the [Labour Appeal Court] unless they raise important issues of principle. The present application raises such issues.”35 (Emphasis added.)
+
+This is consistent with this Court’s general approach that, to obtain leave, a party must not only raise a constitutional issue, but must also demonstrate that the interests of justice favour granting leave.36 Ordinarily, no appeal lies against mere dissatisfaction with the factual findings of a preceding court’s decision or its application of an accepted legal test.37
+What is the “important issue of principle” at stake here that needs to be decided by this Court? This case concerns the interpretation and application of a number of provisions of the Act, particularly those dealing with the nature and extent of lawful union activities and the right of employees to take part in them. Moreover, this case requires us to clarify the extent of the Act’s protection for public employees who speak out on matters of public concern. This Court has not authoritatively dealt with these issues. It is in the interests of justice to do so now.
+Leave to appeal must be granted.
+
+The appeal
+Where legislation seeks to give effect to constitutional rights, a party must bring its case within the regulatory framework of the statute and may not rely directly on the constitutional right.38 If it does wish to rely on the constitutional right directly it needs to challenge the constitutional validity of the Act that purports to give content to the constitutional right.
+The dismissed employees do not challenge the constitutional validity of any provisions of the Act. They do not rely directly on the constitutional right to petition,39 nor any other constitutional right,40 as an independent right outside the provisions of the Act, which entitles them to relief. It is important to recognise this because a failure to do so gives rise to the potential for conflating the material issues referred to in [37] above. 
+2014 (6) BCLR 663 (CC) at 678
+
+A workplace issue
+The first issue is whether the dispute relates to a workplace or employment issue. As we have seen, the Act deals with workplace or employment issues only. It is not necessary for the purposes of this case to attempt to delineate the limits or boundaries of these kinds of issues. The Act itself contains no definitional limits to the kind of demand, grievance or dispute that may be dealt with under its dispute-resolution processes.41 The union and dismissed employees alleged that they were entitled to disclosure of the CEO’s employment contract. The employer disputed the right to this information on the basis of certain terms of the collective agreement.
+The point is, however, that none of the parties relied on any assertion that the dispute was not subject to the provisions of the Act. The union referred the information dispute to the CCMA under section 16 of the Act. The employer brought charges of insubordination and bringing it and the CEO into disrepute, by disclosure and publication in the media, on the basis that the union and employees disregarded the collectively agreed grievance procedures as well as the provisions of the Act.
+The union initiated the dispute-resolution procedure in terms of section 16 of the Act. That is not challenged. It did not complain that it was in some way forced or under duress to do so, and that this amounted to an unfair labour practice. It is also unchallenged that it did not pursue the dispute-resolution process it initiated under the Act. At no stage of the disciplinary proceedings, or before the Labour Court, did it raise the objection that the disciplinary proceedings were premature or unfair. It made the choice not to take the CCMA finding in the information dispute on review as it was entitled to do under the Act. Once again it did not complain that it was forced or under duress to discontinue the process, and that requiring it to do so was some form of unfair labour practice. So, on the undisputed facts on the record before us, the union, of its own free accord, initiated a dispute-resolution process under section 16 of the Act and did not pursue it to its full conclusion.
+There is no obligation on a party to a labour dispute – in this case, the union – to pursue the dispute-resolution process under the Act if it does not wish to do so. That is true, but misses the essential point. If the union pursued the dispute-resolution process under the Act, the employer may not have been justified in using disciplinary proceedings whilst the statutory dispute-resolution process, initiated by the union under section 16 of the Act, remained unresolved. The union freely chose not to pursue the dispute-resolution process it initiated. By doing so it forswore the protections the Act ordinarily affords to conduct occurring within formalised dispute-resolution structures. Put in plain language – if the union and employees objected to the institution of disciplinary proceedings on the basis  
+2014 (6) BCLR 663 (CC) at 679
+  that it was premature to do so, given the pending dispute-resolution process under the Act, they would have had good grounds to do so. They never did. Not in the disciplinary proceedings, not in the Labour Court, not in the Supreme Court of Appeal, nor before this Court.
+With all that out of the way, one can then proceed to deal with the issues set out earlier.
+
+Insubordination and disrepute
+The next issue that arises is whether the conduct of the dismissed employees objectively amounted to insubordination and bringing the name and reputation of the employer and CEO into disrepute. The determination of this question depends on an objective assessment of the conduct complained of and its effect on the employment relationship. In Malan, the Labour Court held that the “issue of whether conduct justifies termination of an employment contract requires an analysis of the conduct and its effect on the employment relationship.”42 This is not the same inquiry as to whether the conduct of the employees was wrongful in a delictual sense, or unlawful and illegal in a criminal sense. It is not necessarily decisive or even helpful to analyse objectively the workplace conduct of employees and its effect on the employment relationship by relying on these concepts from the law of delict and criminal law.43
+Insubordination in the workplace context generally refers to the disregard of an employer’s authority or lawful and reasonable instructions.44 Further, in this case, the Staff Policy specifically prohibited harming the interests and dignity of the Board and disobeying those in the chain of command, including the CEO. The employer warned the union and the employees that their actions amounted to misconduct and contravened the terms of the collective agreement.45 
+2014 (6) BCLR 663 (CC) at 680
+Had the employees restricted themselves to the purpose of the CCMA’s ruling, namely to “draft a motivation to the Board . . . outlining the reasons why it is important for the contract of employment of the CEO to be made public” and to “specify in writing expectations of the staff in terms of overall organisational performance and delivery”, there would have been no cause for any complaint by the employer.
+Instead, they abused the opportunity by demanding that the Board terminate the CEO’s employment and threatening that, if this was not done, they would stop working. The petition stated:
+
+“In light of the above, we urge the Board to request Prof Vevek Ram to resign and further look at a suitable settlement for him as deemed fit by the Board. Failing which, Prof Vevek Ram must be relieved of his duties due to the reasons stated in ‘Appendix A’.
+
+. . . 
+
+We further urge the Board to take this matter seriously as we are no longer prepared to spend a day with Prof Ram in the same building with him at the helm of this organisation. We further urge the Board to ensure that June 30th 2008 is the last day of his employment.”
+
+Objectively construed this was a demand that the CEO’s employment should be ended without a fair hearing and a threat that, if the demand was not met, the employees would stop working. This was in blatant disregard of the employer’s earlier instructions and the conciliation process that was instituted to resolve the dispute relating to the CEO. On the accepted test for insubordination it could be regarded as nothing else. In TSI Holdings, the Labour Appeal Court held that the purpose of a refusal to work “cannot be conduct that would constitute a violation of the right not to be dismissed unfairly provided for in section 185 read with section 188 of the Act”.46
+The demand that Prof Ram “be relieved of his duties” was therefore unlawful. This demand, and the associated threat to stop work, are issues that the employer was urged, and indeed entitled, to take seriously. The petition itself states that the employees “urge the Board to take the matter seriously” and “urge the Board to ensure that June 30th 2008 is the last day of his employment.” The employer was entitled to take the employees at their word, when they made demands and when threats were made. And as stated earlier, neither the employees nor the union claimed that this demand and threat was merely part of the statutory dispute-resolution process under the Act to which they wanted to return. It is simply not correct that they regarded the petition as part of the conciliation process and that, if conciliation failed, they would proceed under the dispute-resolution process that the union instituted.47 
+2014 (6) BCLR 663 (CC) at 681
+
+Bringing into disrepute
+Did the dismissed employees’ association, with the leaking of information to the media and its publication, have an adverse effect on the employer’s and CEO’s name and reputation? It certainly violated the Staff Policy, which prohibited the unauthorised disclosure of any material regarding the Board’s activities and it did not meet the requirements of the Protected Disclosures Act.48 But to determine whether the employer’s and CEO’s name and reputation were adversely affected one needs to examine the contents of the union letter leaked to the media.
+The union letter lists a number of complaints against the CEO and the Board. For the moment we are not concerned with the question whether  
+2014 (6) BCLR 663 (CC) at 682
+  the union was entitled as part of its right to free expression to leak the letter to the media. The question is simply whether anyone reading the contents would think the CEO and the Board were doing their duties properly? I think not.
+The report in the Mail & Guardian indicated that the union letter had been sent to the employer and that it contained “a lengthy list of concerns”. The content of the report is referred to in paragraph 16 above and shall not be repeated.
+These allegations do not, to put it mildly, reflect well on the CEO and the employer.
+
+Lawful participation in union activities: automatically unfair dismissal?
+That brings us to the third issue, namely whether the dismissed employees’ conduct was nevertheless protected under section 4(2)(a) of the Act, as participation in the lawful activities of the union. The section makes it clear that their right to participation is restricted to the union’s lawful activities.49 Their right to protection in relation to union activities under sections 5 and 187 of the Act thus extends only to participation in lawful union activities.
+The essential issue is thus what is meant by the “lawful activities” of a trade union. Once again care must be taken not to confuse this enquiry with the different issues of delictual wrongfulness or criminal unlawfulness or illegality. “Lawful activities” of the union in terms of section 4(2)(a) of the Act are activities in accordance with the Act’s provisions. The enquiry into lawfulness here is a specific one, namely lawfulness under the Act. It is not an enquiry into criminal illegality or civil wrongfulness. These may coincide with unlawfulness under the Act, but they are not the final determinants of the enquiry.
+But even if I am wrong in holding that “lawful activities” of the union means unlawfulness under the Act, and not criminal illegality or civil wrongfulness, the end result will not be different. Participation in criminally illegal acts will obviously not assist the dismissed employees. Nor will participation in otherwise “lawful” activities, unless those “lawful” activities also entail protection under the Act. Thus, the opposite of “lawful activities” may perhaps more accurately be termed unprotected instead of unlawful. An example will illustrate the point.
+Employees have a constitutional right to strike. The Act regulates the manner in which that right can be exercised. There is no obligation on employees to use the regulated dispute-resolution procedures under the Act, but there are consequences if they do not. If they start by using these regulated procedures, but then abandon them and simply stop working, they are not committing a crime. They are, in that sense, still acting “lawfully”. But that “lawfulness” does not afford them the benefits of a protected strike under the Act. By failing to adhere to the Act the strike  
+2014 (6) BCLR 663 (CC) at 683
+  becomes unprotected, and an employer will be in a position to take disciplinary steps against them for not coming to work – something that would not have been possible had they complied with the requirements of the dispute-resolution process under the Act. The same applies to the facts here. The actions of the employees may not be unlawful or illegal in the criminal sense, but they are unprotected.
+The process leading to the eventual dismissal of the employees started with the union’s demand to obtain a copy of the CEO’s contract. When the employer refused, the union referred this dispute to the CCMA in terms of section 16 of the Act.50 The commissioner then provided the union with an opportunity to draft a motivation outlining the reasons the CEO’s contract of employment should be made public. She also gave the employees the opportunity to specify in writing the expectations they had in terms of overall organisational performance and delivery. It is important to note that the conciliation was extended for 30 days to give the union and the employees the chance to present their views to the employer.
+Had things gone according to the purpose of the conciliation proceedings, the union and the employees would have presented their views to the employer. If they then reached agreement the conciliation process would have ended. If not, the matter should have gone back to the commissioner for further efforts at conciliation. Part of that process required the commissioner to determine whether the information sought by the union – the CEO’s contract of employment – was relevant. The provisions of the Act in this regard are detailed and exhaustive.51
+If any party was unhappy with the arbitration award, review proceedings could have been brought to set it aside.52 There thus exists a detailed and regulated framework under the Act to resolve the dispute that the union initially took to the CCMA.
+Neither the union nor the dismissed employees chose to continue on the route the Act provided. The union, if dissatisfied with the arbitration award, was entitled to take it on review to the Labour Court. It did not do so.
+The result is that the union and the dismissed employees forfeited the protection of the Act when they decided, and freely chose, not to utilise the Act’s dispute-resolution process. One cannot abandon, mid-step, the protected pathway of dispute-resolution under the Act’s provisions, and then cry foul when called to a halt for doing so.
+There is another reason why the reliance on the lawful activities of the union cannot afford the employees automatically unfair dismissal protection in relation to the insubordination charge. The union did not make the unlawful demand for the CEO to be dismissed or the unlawful threat that work would stop. The employees did. There is no logic in attempting to  
+2014 (6) BCLR 663 (CC) at 684
+  protect the unlawful conduct of the employees by relying on the lawful conduct of the union.
+Was the leaking of the union letter for publication in the press protected under the Act? One of the principles on which this judgment is premised is that unions and employees may use the fundamental rights of petition and freedom of expression in the Constitution in parallel to the Act’s dispute-resolution processes, provided that they have no greater right in that regard than anyone else, and do not undermine the integrity of the Act’s dispute-resolution process by the purported exercise of those rights. Do these “parallel rights” provide automatically unfair dismissal protection in terms of the direct and express provisions of the Act? The answer must be No, precisely because they are rights that run in parallel to the dispute-resolution process and not as part of it in terms of the Act. They are not rights exercised by the union or by the employees under the Act.53
+There are further reasons why there can be no automatically unfair dismissal protection. The staff policy of the employer forbade publication54 and the disclosure was not justified by the provisions of the Protected Disclosures Act.55
+But why, even if there are these prohibitions, should a trade union not be allowed to publish information that it considers important and in its interest and the public interest? The answer is that it is of course entitled to do so in terms of the right to freedom of expression under the Constitution, but that is a different question to whether that attracts the protection of the Act.
+And here one must look a bit more closely at what the union sought to achieve by leaking the letter to the press. In the letter, and in the process under the Act, it asserted that it had a right to information about the CEO’s employment contract. The Act provides a detailed process for the correctness of that assertion to be determined. The union leaked its letter to the press and sought its publication while conciliation was still in process. For what purpose? To put added pressure on the commissioner to make a finding in its favour? If so, it was not a legitimate purpose under the Act. To force the employer to accede to its concerns? If so, that too was not a legitimate purpose under the Act. And if its purpose had nothing to with the process under way in terms of the Act, then how could it possibly attract the Act’s protection?
+
+Otherwise unfair?
+Is that the end of the matter? Not according to section 188 of the Act. Its relevance at this stage is that it provides that a dismissal that is not automatically unfair may yet be unfair if the employer fails to prove that the reason for the dismissal is a fair reason related to the employees’  
+2014 (6) BCLR 663 (CC) at 685
+  conduct.56 As explained above, section 188(2) requires that a determination of the fairness of a dismissal “take into account”, in this case, the Act’s Schedule 8, the Code of Good Practice: Dismissal.57 And in considering the Code of Good Practice, due weight must be given to employees’ constitutional rights and their understanding of those rights.
+I cannot agree with the view that the employer is entirely to blame for the employees not persisting with the instigated resolution process under the Act, or that the union was entitled to pursue its views in the media without having regard to its possible effect on the integrity of the Act’s dispute-resolution procedures.
+It is true that the employer did not accede to a meeting after the union’s letter of 23 May 2008. But the union letter did not ask for a meeting, nor did the petition. This much was conceded under cross-examination by the union official. He admitted it was a deliberate strategy:
+
+“You agree that you could have asked for a meeting, but did not? Instead, you employed the strategy to say, ‘We are not going to work with the CEO one day’. − Correct.
+
+And you have used this, you said this is a strategy you and [the] union sometimes use. – Correct.”
+
+  Later on the following exchange occurred:
+
+“Yes. I put it to you that it is highly reckless of you and your union to advise and encourage your members to take this so-called strategy, to say what they do not mean in a letter and then expect to get off. Any comment?
+
+– I cannot comment on that.”
+
+
+Of course, unions may determine their own strategies. No one should dictate to them in that. But I find it difficult to understand how it can be found that it was an unfair reason for the employer to take the union and the employees at their word and chosen strategy. If one makes the point that unions must be allowed to determine their own strategies, then surely it must follow that they must also accept the consequences of embarking on those strategies.
+The Labour Court made factual findings in relation to whether the employees meant what they said when they demanded the dismissal of the CEO and threatened to stop working and also in relation to their association in the leaking and publication of the union letter. It must be remembered that the evidence of the union and employees’ witnesses was that they never meant to demand the CEO’s dismissal or to stop work, even though that was what was stated in the petition. It was also their evidence that the union never leaked the letter and that the employees knew nothing of the leak. This evidence was rejected as false in the Labour Court. I cannot find anything on record to justify overturning those factual findings. In addition, it would be inconsistent to reject the finding on the one aspect – whether the demand and threat were meant seriously – but to accept the other – that the publication was leaked. 
+2014 (6) BCLR 663 (CC) at 686
+
+Sanction
+Similarly, there is insufficient reason to interfere with the imposed sanction of dismissal. The employees could have persisted with the formal dispute-resolution process by following the grievance procedure to completion. They were also given an opportunity to apologise and continue working. They chose not to.
+
+Concluding remarks
+It is not lawful under the Act to demand the dismissal of a fellow employee without a fair hearing. That is what the employees did here. The Act provides the process for determining whether employees are entitled to information about the employment contract of the CEO. A determination under the Act was made that the union was not entitled to that information. The effect of finding that all this may be ignored by reliance on union activities outside the Act undermines the integrity of the collective bargaining process under the Act. This extension of the hard-won right of employees to participate in the lawful activities of their union will, ironically, have an adverse effect on the underlying rationale for that participation: to bargain collectively and effectively under the Act for their interests. I repeat that this will be cause for grave concern.
+
+Costs
+This is a labour matter where the circumstances have changed materially since the dismissals occurred. The union has lost its representative recognition and the CEO has departed. Awarding costs is not called for.
+
+Order
+I would have granted leave to appeal but dismissed the appeal.
+
+(Skweyiya ADCJ and Cameron J concurred in the judgment of Froneman J.)
+
+Zondo J: 
+
+Introduction
+I have had the opportunity of reading the judgments prepared by my Colleagues, Froneman J (“main judgment”) and Dambuza AJ. For the reasons that Froneman J gives I agree that this Court has jurisdiction in this matter and that we should grant leave to appeal. However, I am unable to agree with him that the dismissal of the employees (the “applicant employees”) was neither automatically58 nor substantively59 unfair and  
+2014 (6) BCLR 663 (CC) at 687
+  that the appeal should be dismissed. In my view, the dismissal of the applicant employees was automatically unfair and the Supreme Court of Appeal60 and the Labour Court61 erred in finding differently.
+
+Brief background
+Although the main judgment has set out the background, I need to refer to certain parts of the background for a proper understanding of my approach to the issues. This is necessary because there are differences of emphasis on the facts between my approach and that of the main judgment.
+The dispute between NUPSAW62 (“union”) and the applicant employees, on the one hand, and the respondent, on the other, is whether the dismissal of the applicant employees by the respondent was automatically unfair or, alternatively, substantively unfair and, if so, whether they should be reinstated. The applicants contend that the dismissal was automatically unfair or alternatively substantively unfair whereas the respondent contends that the applicant employees were fairly dismissed for certain acts of misconduct.
+The applicant employees were dismissed by the Chairperson63 of the disciplinary inquiry (“chairperson”) after he had found them guilty of insubordination and disrespectful behaviour and of bringing the name of the Chief Executive Officer (“CEO”) of the respondent and that of the respondent into disrepute. However, a reading of the chairperson’s ruling reveals that the employees were also dismissed for other conduct about which more will be said later. They challenged the fairness of that dismissal in the Labour Court. The Labour Court upheld the decision of the chairperson and concluded that the dismissal was not automatically or substantively unfair. The Labour Court took the view that the applicant employees’ unfair dismissal claim was without any merit, dismissed it and ordered them to pay costs.
+In September 2007, the union and the respondent concluded a collective agreement. The union had the majority of the employees of the respondent in its workplace as its members. In terms of clause 1.6 of that agreement the union and the respondent agreed to “negotiate and/or consult (as may be the case) in good faith in seeking reasonable and satisfactory solutions”. (Emphasis added.) Clause 1.5 of the collective agreement provided that the agreement was legally binding. 
+2014 (6) BCLR 663 (CC) at 688
+On 20 March 2008 the union, through three trade union representatives64 employed by the respondent, addressed a letter to the Manager: Human Resources and Administration of the respondent, namely Mr Sikonela. In that letter the union said that it would like to meet the HR Committee of the respondent in relation to:
+“[t]he Employment Contract of the Chief Executive Officer of the [respondent]”; and
+“[t]he nature of the contract as to whether it is within the Generally Acceptable Practice where occupation of similar positions within the public sector and government agencies is governed by a set of rules and prerequisites”.
+The trade union representatives also said that they “would like to raise complaints on, inter alia, the leadership style and modus operandi of the current CEO and the bad causal-effects this has had on staff and that we’re no longer prepared to bear with his leadership style any longer.” They further stated: “We request you to kindly meet us in due course so that we can get the latter ironed out and put to rest with immediate effect”. (Emphasis added.) Finally, they expressed the hope that Mr Sikonela would find “the above in order”.
+On the same day the trade union representatives addressed another letter to Mr Sikonela about the position of the Chief Operations Officer (“COO”). They complained about the fact that the respondent had not invited the union to participate in the interviews for candidates for the position of COO. The union questioned the “objectivity and fairness of the process.” They said that they would not recognise “the interviews and the due appointment that would emanate from [them]”. They stated that, therefore, they would not recognise the person who would be appointed as the COO and would “not give him or her any kind of co-operation and assistance in whatever way.” They said that they would isolate such a person and ensure that he or she did not feel welcome until due process had been followed and the union had been involved. They demanded that the “process be reopened and all parties be recalled to the interviews.”
+On 1 April 2008 Mr Sikonela addressed two letters to the General Secretary of NUPSAW-Gauteng, one replying to the union’s letter of 20 March 2008 concerning the CEO and the other responding to the other letter of the union of the same date concerning the interviews for the position of COO. Mr Sikonela asked the union whether the shop stewards or trade union representatives had authority to write the letters of 20 March 2008. In regard to the letter concerning the CEO one would have expected that Mr Sikonela would have contacted the HR Committee to find out what its attitude was to the union’s request for a meeting with it on the issues raised. However, in his reply Mr Sikonela did not indicate that he had approached the Committee nor did he indicate what its attitude to the  
+2014 (6) BCLR 663 (CC) at 689
+  union’s request was. It seems that he simply took it upon himself to respond to the contents of the letter.
+I pause here to point out that section 7(1)(a) of the Lotteries Act65 provides as follows about the functions and duties of the CEO of the respondent:
+
+“The Board shall in the performance of its functions under this Act, be assisted by – 
+
+(a) a suitably qualified and experienced person as chief executive officer, appointed by the board or seconded in terms of subsection (3) and solely accountable to the board for the performance of all financial, administrative and clerical functions of the board and any duties which may be delegated to him or her by the board in terms of subsection (4)”. (Emphasis added.)
+It is clear from section 7(1)(a) that a CEO of the respondent performs all financial, administrative and clerical functions of the respondent and any other “duties which may be delegated to him or her by [the respondent] in terms of subsection (4)”. The delegation of further duties by the respondent to the CEO in terms of section 7(4) could have been contained in the contract of employment of the CEO or in a separate document. The union wanted to see his contract of employment in the context of the fact that its members were very unhappy with the CEO’s leadership style and “modus operandi”. It is obvious that the union wanted to see whether, in terms of his contract of employment and the duties delegated to him by the respondent, the CEO was performing his duties or carrying out his mandate properly.
+Mr Sikonela rejected out of hand the union’s statement that they had complaints about the leadership style and modus operandi of the CEO. It is difficult to understand why the respondent did not provide the union with the CEO’s contract but made sure that any parts thereof that were considered confidential were deleted. I am sure that the part of the CEO’s contract of employment which identified his job was not confidential. I also do not understand why the respondent had an objection to making available to the recognised trade union a copy of the document containing the mandate given to the CEO.
+Furthermore, Mr Sikonela did not explain why the respondent was not prepared to agree to the union’s request for a meeting with the HR Committee of the respondent to discuss its complaints. The suggestion that any employee who had a grievance should follow the grievance procedure was not a good response because good labour practice is that, as far as possible, attempts should be made to resolve complaints informally before formal procedures may be invoked.
+Mr Sikonela told the union that it was the prerogative of the respondent to interview and employ personnel. He said that neither the union nor its representatives had “a right to be involved in interviews for any position.” He threatened the union, its officials and members with an urgent application  
+2014 (6) BCLR 663 (CC) at 690
+  for an interdict, should they “interfere in the functioning and efficient operations of the respondent.” He warned that “[t]he threats of the non-recognition of the COO and non co-operation with the COO [would] constitute insubordination or other misconduct to the extent that such threats [interfered] with the activities of the COO and the functioning of the [respondent].” In the last sentence he wrote that “any misconduct would result in disciplinary action which could include dismissal.” By way of a letter dated 3 April 2008 the union’s provincial organiser responded to the respondent and assured it that the shop stewards were entitled to raise with the respondent on behalf of the union the issues they raised in the letters of 20 March.
+In the Labour Court Mr Mani, one of the applicant employees and a shop steward of the union, testified that, prior to the interviews for the position of COO, the union had been invited to, and, participated in, a number of interviews for the appointment of employees in the respondent. This was not challenged. Under cross-examination it was put to Mr Mani that there had been no precedent of the union being involved in interviews of candidates for senior positions. The suggestion was that the practice of involving the union in interviews was limited to cases where junior staff members were to be appointed. Mr Mani’s reply was that there had not been interviews for senior positions but he maintained that the union was entitled to participate in all interviews.
+There was no suggestion that the respondent had ever told the union that the practice was limited to certain positions. Mr Sikonela’s statement that the union was not entitled to participate in any interviews for any position must have been untrue because at the trial Mr Mani’s evidence was that, prior to the interviews for the position of COO, the union had been involved in a number of interviews and this evidence was not disputed.
+Since, prior to the interviews for the position of COO, the union had been invited to interviews and it had never been told that it would not be invited to interviews for senior positions, one would have expected that the respondent would have informed the union, before the interviews, that it would not be invited to the interviews for the position of COO because this was a senior position. This would have made sure that the union was not taken by surprise by its exclusion from the interviews for the position of COO. The respondent did not do this. One would also have expected that, when the union raised the issue, the respondent would have apologised for not informing the union before that it would not be invited to interviews for senior positions and explained its stance properly. However, the respondent did not do this either.
+The respondent’s conduct in ignoring the union’s request for a meeting and its refusal to furnish the union with the CEO’s contract or his “terms of reference” gave rise to a dispute (disclosure dispute) between the parties. In April 2008, the union referred the dispute to the Commission for Conciliation, Mediation and Arbitration (“CCMA”) for conciliation in terms of the LRA. In the relevant part of the CCMA referral form the union said that the outcome that it wanted to achieve through the conciliation process was the disclosure of “the terms of reference of the CEO.”  
+2014 (6) BCLR 663 (CC) at 691
+
+  I think this was a reference to the mandate or targets given to the CEO by the respondent.
+
+A conciliation meeting66 was held at the CCMA on 9 May 2008. The meeting was chaired by a commissioner of the CCMA, Ms Ann Hofmeyr. She was of the view that both parties were willing to settle the matter. Accordingly, with the consent of both parties, she extended the statutory conciliation period for 30 days to give the parties a further opportunity to resolve the dispute.67 That extension would take the conciliation period to 9 June 2008. In a note the commissioner wrote that:
+
+“[i]n view of the willingness of both parties to settle the matter, the conciliation will be extended for 30 days to give parties the opportunity . . .
+
+1. To draft a motivation to the Board of the National Lotteries Board outlining the reasons why it is important for the Contract of Employment of the CEO to be made public.
+2. To specify in writing expectations of the staff in terms of overall organisational performance delivery.” (Emphasis added.)
+
+  This note was signed by the commissioner and the representatives of the parties. In my view, item 2 of the note meant that the union should not just give the motivation required in item 1 but should also address itself to what its members saw as the way to resolve the dispute – in other words, their proposed solution.
+
+On 23 May 2008, the union addressed a letter to Mr Sikonela on the “Position of the CEO and Terms of Reference”. I do not propose to quote the contents of that letter but will refer to certain parts of its contents. That letter is one of two upon which the subsequent disciplinary charges were based. The union said in the opening paragraph of the letter that it was giving “motivation for demanding access to the contract of the CEO and Terms of Reference.” That the union said this is quite important because it puts beyond doubt the fact that the contents of that letter were intended as motivations for the union’s stance on the dispute then pending before the CCMA. In the letter the union raised complaints or grievances about the CEO and about how certain things were done in the organisation. The context of the articulation of these complaints is that they were being relied upon to justify the union’s contention that the respondent should let it have a copy of the CEO’s contract of employment and his mandate from the respondent. Most, if not all, of the issues raised in the letter can be accepted as having been legitimate for a trade union to raise  
+2014 (6) BCLR 663 (CC) at 692
+  with its members’ employer if its members were concerned about, or, felt aggrieved by, such issues.
+The letter of 23 May 2008 is lengthy. The union must have taken a lot of trouble to prepare such a detailed letter. There is no suggestion that in taking the trouble the union was motivated by anything other than a genuine desire to achieve a resolution of the dispute or of the grievances of its members. It seems to me that, seeing the dissatisfaction with the CEO’s leadership style and modus operandi, the union wanted to examine the terms and conditions of his contract of employment as well as his mandate and targets, if any, given to him by the respondent so as to see what power he had and what mandate he had been given by the respondent and whether he was executing his mandate properly.
+It has never been suggested that the contents of the letter were not a true reflection of the concerns or grievances of the union’s members. Therefore, the matter must be decided on the basis that the contents of that letter reflected the union members’ bona fide views, concerns or grievances.
+By 3 June 2008, the respondent had not responded to the union’s letter of 23 May. It also had not agreed to have a meeting with the union. The union then wrote another letter to Mr Sikonela. The letter was dated 3 June 2008. Its subject was: “VOTE OF NO CONFIDENCE IN THE CEO OF THE NATIONAL LOTTERIES BOARD, Prof Vevek Ram.” The letter has been referred to as a petition and has been quoted in the main judgment.68 Since it has been quoted in the main judgment, I shall discuss its contents without quoting it in full. The respondent accepted that the petition was written by the union and the employees.69
+In the first paragraph of the petition the union and the employees said that, as employees of the respondent and as citizens of the Republic, they were submitting “a vote of no confidence in the CEO” of the respondent, Prof Vevek Ram.
+In the second paragraph the union and the employees said that “[i]n addition to the letter of 23 May 2008, attached herein as Appendix A, we the employees have lost confidence in the CEO and in his ability to run the organisation”. (Emphasis added.) The phrase “[i]n addition to the letter of 23 May 2008” is indicative of the fact that the letter of 3 June 2008 or the petition was an extension of, or follow up on, the letter of 23 May 2008. This is important for the point I make later in this judgment that the statements made by the employees and the union in this letter were made in pursuit, and, in the course, of the statutory conciliation process and as part of collective bargaining aimed at resolving the disclosure dispute. They also said that the employees had “suffered adversely under [the CEO’s] bureaucratic leadership style and his inept management approaches.” They added: “We, as the employees of the [respondent] are no longer prepared to bear with him anymore.” (Emphasis added.) 
+2014 (6) BCLR 663 (CC) at 693
+In the third paragraph the union went on to say:
+
+“In the light of the above we urge the [respondent] to request Prof Vevek Ram to resign and further to look at a suitable settlement for him deemed fit by the [respondent]. Failing which, Prof Vevek Ram must be relieved of his duties due to the reasons stated in Appendix ‘A’.” (Emphasis added.)
+
+  Appendix A was the union’s letter of 23 May 2008. I draw attention here to the use of the verb “urge” to give expression to what the employees and the union were seeking to do in this letter. An appreciation of the meaning of that word and its role in that sentence is very important. The Concise English Oxford Dictionary says the verb “urge” means:
+
+“encourage or entreat earnestly to do something – strongly recommend – encourage to move more quickly – (urge someone on) encourage someone to continue.”
+
+
+  The Cambridge International Dictionary of English gives the following meaning to the verb:
+
+“to strongly advise or ask (someone) to do a particular thing or for (something) to happen. The dogs are urged into fighting more fiercely by loud shouts from the crowd. I urge you all to take the time to read at least three novels on the list. Lawyers will urge the parents to take further legal action if necessary.” (Emphasis added.)
+
+
+It is clear from the meaning of the verb “urge” that what the union and employees said in that sentence is that they were earnestly encouraging or entreating or strongly recommending or strongly advising the respondent to offer the CEO a suitable monetary compensation in return for his resignation failing which they were strongly advising or recommending that the CEO be relieved of his duties. They did not say that they were demanding that the CEO be dismissed. With reference to the last sentence used in the quotation in the Cambridge International Dictionary of English, one cannot say that that sentence means the same as saying: “Lawyers will demand the parents to take further legal action if necessary”. It is to be noted that in the petition the employees use the verb “urge” three times to describe what they were seeking to do. They use the verb two times in the fifth paragraph.
+In the fourth paragraph, the union and employees said that they were not submitting the vote of no confidence only on their behalf but also “for fellow South Africans who are currently adversely affected by the bureaucratic leadership style of the [CEO].” They continued: “The poor victims of crime, the homeless, the future sporting stars and future artists of this country are dependent on the public-centered service delivery which they are currently being denied.”
+In the fifth paragraph the union and employees said:
+
+“We further urge [the respondent] to take this matter seriously as we are no longer prepared to spend a day with Prof Ram in the same building with him at the helm of this organisation. We further urge the [respondent] to ensure that June 30th 2008 is the last day of his employment.” (Emphasis added.)
+
+  I once again draw special attention to the fact that in this paragraph the union and employees used the verb “urge” twice to articulate what they were seeking to do. All in all the union and the employees used the word  
+2014 (6) BCLR 663 (CC) at 694
+  “urge” three times in the petition. In my view, this was not accidental. The word must have been chosen intentionally. I shall elaborate on this shortly.
+
+In the last paragraph of the letter the employees said that they supported the vote of no confidence in the CEO “whole-heartedly” and had neither been coerced nor misled into signing the vote of no confidence. They concluded: “We understand our actions.”
+A reading of the letter of 23 May and the petition reveals that in the letter of 23 May the union sought to provide motivation for its stance on the dispute whereas in the petition it and the employees proposed a solution or a way of resolving the disclosure dispute. Accordingly, in writing both the letter of 23 May and the petition, the union sought to give effect to items 1 and 2 of the agreement reached at the conciliation meeting. At that time it was about two and a half months since 20 March when the union had asked the respondent for a meeting, a copy of the CEO’s contract and mandate and nothing was forthcoming from the respondent. This must have begun to cause the union and its members some degree of frustration.
+Earlier on I drew special attention to the fact that in the petition the union and employees used the verb “urge” to describe what they sought to do. They did so in the third and fifth paragraphs. In the third paragraph they said that they were urging the respondent to request the CEO to resign in return for a suitable separation monetary package failing which the CEO should be relieved of his duties. There are two points I wish to make in this regard.
+The first point is that, in the light of the meaning of the verb “urge” used in that part of the petition, the meaning of the third paragraph is that the union and the employees were giving the respondent strong advice or recommendation to offer the CEO a suitable separation monetary compensation in return for his resignation. The meaning of that paragraph is also that if that failed, the union’s and employees’ strong advice or recommendation was that the CEO be relieved of his duties. The second point is that the proposition that the employees demanded the dismissal of the CEO is not consistent with the use of the verb “urge”. The union and employees were giving the respondent strong advice or a recommendation which it could accept or reject. In that letter they did not spell out what they would do if the respondent rejected the advice. It must also be mentioned that the petition was not the only letter in which the union and employees used the verb “urge” to describe what they sought to do. They also used that verb in the letter of 5 June 2008 to which reference will be made shortly.
+The petition was delivered to the respondent on 4 June 2008. On 5 June and before the respondent could reply to the petition, the union addressed another letter to the respondent. That letter was dated 5 June 2008. The union warned the respondent not to intimidate or victimise union members because of the letter of 23 May. It also pointed out that it had a right  
+2014 (6) BCLR 663 (CC) at 695
+  to communicate the contents of its correspondence to the public through the media without any fear of scrutiny or victimisation.
+The union reminded the respondent that it was a public institution and the public was entitled to know of the activities in the organisation that are of public interest. The union wrote: “The union can also not be dictated to on how to conduct its business and this should also be respected by the [respondent] regardless of its objection to the position of the union.” The union said that, whenever it saw fit, it would publish information to the public “for information and support.” It said: “The union has a right to seek advice and the intervention from whichever quarters.”
+More importantly, the union said in its letter:
+
+“We therefore urge the [respondent] to address the current impasse with the representatives of the Union. We have always indicated that dialogue is key in problem-solving and it is still advisable for the [respondent] to pursue dialogue and nothing else in dealing with the current impasse. Any form of intimidation will be met with unprecedented resistance and we shall not allow anyone for whatever reason to attempt to intimidate our members in whatever fashion and style.” (Emphasis added.)
+
+  Here, too, I draw special attention to the use by the union of the verb “urge” to describe what they were seeking to do. The union’s call to the respondent to engage in a dialogue with it to resolve the dispute between the parties was in accordance with the undertaking that both parties had made to each other in clause 1.6 of their collective agreement. In terms of that clause the parties had undertaken to “negotiate and/or consult in good faith in seeking reasonable and satisfactory solutions” to problems and disputes.
+
+In concluding the letter of 5 June 2008 the union said that there needed to be a change of leadership at the respondent “for the interest of all concerned be it the public, staff at the Board or government as a shareholder.”
+The respondent did not respond to the union’s plea for the issues to be resolved through dialogue. Instead, it handed the matter over to a firm of attorneys to correspond with the union. In a letter to the union dated 6 June 2008 those attorneys, who also acted for the respondent in these proceedings, contended that the union’s request for the CEO’s contract of employment and his “terms of reference” was “misconceived” and “lacked legal justification”. This response by the respondent’s attorneys lacks an appreciation that, in collective bargaining, a union does not normally ask for things to which it is entitled in law but asks or demands things to which it or its members are not legally entitled but will be contractually entitled if an agreement is reached.
+The attorneys said that the demand contained in the petition was unlawful but failed to explain the legal basis for that contention. They also said that the “threat that employees will not work should Prof Ram continue to serve as CEO after 30 June constituted an act of insubordination” by all individuals who had signed the petition. In this letter the respondent’s attorneys suggested that there was such a threat in the petition. They said that the threat was an act of insubordination. 
+2014 (6) BCLR 663 (CC) at 696
+
+  [128]   It is factually untrue that in the petition the employees threatened that they would not work beyond 30 June 2008 if the CEO continued to be the CEO of the organisation. What the employees said in the petition was that they could not bear to be with the CEO anymore in the same building while he was at the helm of the organisation. They also urged the respondent to ensure that 30 June 2008 was his last day of employment. They did not say what they would do if, after 30 June 2008, he was still there as CEO of the organisation. The respondent’s attorneys read into the petition a threat not to work that was not in the petition. The main judgment does the same thing. A reading of the petition sentence by sentence reveals that there is no such threat nor is there any statement referring to stopping work.
+
+Even if there was a threat to stop work, the respondent would have had to establish how that work stoppage would come about and not assume that it would be an illegal work stoppage. This would be important because the work stoppage could well be a protected strike. It is possible that if, after 30 June 2008, the CEO was still there as CEO, the union and the employees could have taken the necessary steps to comply with section 64 of the LRA70 in order to embark upon a collective refusal to work in support of a demand that the CEO be dismissed. Provided that his dismissal would be substantively and procedurally fair and the requirements of section 64 of the LRA had been complied with, a work stoppage in support of the demand would be a protected strike in terms of the LRA. In such a case the dispute between the parties would not be the disclosure dispute. It would be whether or not the CEO should be dismissed because, for example, of serious misconduct or poor performance or his anti-union attitude. In TSI Holdings71 the Labour Appeal Court left the question open whether a work stoppage in support of a demand for the dismissal of a manager or co-employee would be protected where the dismissal would not infringe the relevant co-employee’s or the manager’s right not to be dismissed unfairly.
+In the present case, the union and the employees would have had to apply their minds to that after 30 June 2008. Furthermore, in the present case we have to decide this matter on the assumption that the complaints against the CEO were legitimate and true because both the chairperson of the disciplinary inquiry and the Labour Court did not investigate whether those complaints were valid and they were prepared to assume so.
+In their letter of 6 June 2008 the attorneys for the respondent said that “[t]he delivery of such an unlawful ultimatum is subversive of the integrity and the authority of the [respondent] and its capacity to continue to  
+2014 (6) BCLR 663 (CC) at 697
+  perform its statutory functions.” The reference to “an unlawful ultimatum” must be a reference to the alleged threat they read into the petition that the employees were threatening to stop work if, after 30 June 2008, the CEO had not been dismissed. They called upon the union and each one of its members who had signed the petition to withdraw the petition unequivocally by close of business on Monday 9 June 2008 failing which the respondent would institute disciplinary action against the signatories. The effect of this ultimatum was that the respondent would not bring disciplinary charges against the employees if the union and employees withdrew the petition. The fact that the respondent issued an ultimatum calling upon not just the employees but also the union to withdraw the petition suggests that the respondent accepted that the petition had been written or issued by both the union and the employees.
+The choice of 9 June as the deadline for the employees to withdraw the petition was important. It was either the last day of the extended statutory conciliation period or it was the day after the expiry of that period. Subsequent to the conciliation meeting, the union had written the letter of 23 May 2008 giving its motivation for its stance on the dispute pending at the CCMA. It was still waiting for a reply from the respondent when it wrote the petition on 3 June 2008 giving its own solution to the dispute. It had then written the letter of 5 June 2008 suggesting a dialogue between the parties to resolve the dispute when, on 6 June 2008, the respondent responded by issuing a demand to the union and employees to withdraw the petition on or before 9 June 2008 failing which the employees would face disciplinary action. The ultimatum came a day or two before the expiry of the extended conciliation period. The main judgment finds that the union abandoned the conciliation process. This sequence of events from 23 May to the end of the conciliation period shows that it cannot be said that the union abandoned the conciliation process.
+On 9 June 2008, the union responded to the letter of 6 June from the respondent’s attorneys. It claimed the “Freedom of expression and the right to assembly, demonstration, picket and petition”. The union said that, when it thought that the CEO’s performance was not satisfactory and not in line with the Lotteries Act, it would be entitled to raise these issues. The union also pointed out that according to the Oxford Dictionary the word “petition” means a “formal request, typically signed by many people appealing to the authority in respect of a course.” It seems to me that by saying this, the union meant that there was no demand in the petition but requests.
+With regard to the statement in the letter of 6 June 2008 that in the petition there was a threat to stop work, the union said: “[t]here is no reference to strike or work stoppage on or after 30 June 2008 by our members on the letters of 23 May 2008 and 3 June 2008 respectively.” This statement by the union should have put to bed the allegation that in the petition the employees had threatened to stop work if the CEO was not dismissed. Both the chairperson and the Labour Court impliedly rejected that allegation. The union pointed out that the respondent’s ultimatum that  
+2014 (6) BCLR 663 (CC) at 698
+  the union and employees withdraw the petition was “an infringement of workers’ rights.”
+Arising out of the exchange of correspondence, the union members were charged with acts of misconduct. Before I discuss the charges or allegations of misconduct, it is necessary to refer to the relevant constitutional and statutory framework.
+
+Constitutional and statutory framework
+In terms of section 16(1) of the Constitution everyone has the right to freedom of expression.72 Section 17 provides that everyone has the right, peacefully and unarmed, to assemble, to demonstrate, to picket and to present petitions.73 Section 18 provides that everyone has the right to freedom of association.74
+Section 23(1) of the Constitution provides that everyone has the right to fair labour practices. Section 23(2) reads as follows:
+
+“Every worker has the right – 
+
+to form and join a trade union;
+to participate in the activities and programmes of a trade union; and
+to strike.” (Emphasis added.)
+
+  Section 23(4) confers upon every trade union and every employers’ organisation the right:
+
+“(a) to determine its own administration, programmes and activities;
+to organise; and
+to form and join a federation.” (Emphasis added.)
+
+  Section 23(5) of the Constitution provides:
+
+“Every trade union, employers’ organisation and employer has the right to engage in collective bargaining. National legislation may be enacted to regulate collective bargaining. To the extent that the legislation may limit a right in this chapter, the limitation must comply with section 36(1).” (Emphasis added.)
+
+
+The LRA is the legislation contemplated in section 23(5) of the Constitution which regulates collective bargaining. Among other things the LRA gives effect to every trade union’s right to engage in collective bargaining and to most, if not all, the rights in section 23. Chapter 2 of the LRA deals with freedom of association and general protections. Section 4(2)(a) and (d) of the LRA provides:
+
+“Employees’ right to freedom of association
+
+ . . .
+
+Every member of a trade union has the right, subject to the constitution of that trade union – 
+
+  (a) to participate in its lawful activities;
+
+. . .
+
+ 
+2014 (6) BCLR 663 (CC) at 699
+
+  (d) to stand for election and be eligible for appointment as a trade union representative and, if elected or appointed, to carry out the functions of a trade union representative in terms of this Act or any collective agreement.” (Emphasis added.)
+
+Section 5(1) of the LRA provides that “[n]o person may discriminate against an employee for exercising a right conferred by this Act.” Section 5(2) provides that:
+
+“Without limiting the general protection conferred by subsection (1), no person may do or threaten to do, any of the following:
+
+. . .
+
+(b) prevent an employee from exercising any right conferred by this Act or from participating in any proceedings in terms of this Act; or
+(c) prejudice an employee because of past, present or anticipated – 
+
+. . .
+
+  (iii) participation in the lawful activities of a trade union, federation of trade unions or workplace forum;
+
+  (iv) failure or refusal to do something that an employer may not lawfully permit or require an employee to do;
+
+ . . .
+
+  (vi) exercise of any right conferred by this Act; or
+
+  (vii) participation in any proceedings in terms of this Act.” (Emphasis added.)
+
+The effect of section 5(2)(b) is to preclude anyone from preventing or threatening to prevent any employee from exercising any right conferred by the LRA or to preclude anyone from preventing or threatening to prevent any employee from participating in any proceedings in terms of the LRA. The effect of section 5(2)(c)(iii) is to preclude anyone from prejudicing any employee because of past, present or anticipated participation in lawful activities of a trade union, or federation of trade unions or workplace forum. The effect of section 5(2)(c)(iv), (vi) and (vii) is to preclude anyone from prejudicing any employee for past, present or anticipated exercise of any right conferred by the LRA or for past, present or anticipated participation in any proceedings in terms of the LRA. It is convenient at this stage to point out that section 187(1)(d)(ii) of the LRA provides that a dismissal:
+
+“is automatically unfair if the employer, in dismissing the employee, acts contrary to section 5 or, if the reason for the dismissal is – 
+
+. . .
+
+(d) that the employee took action, or indicated an intention to take action, against the employer by – 
+
+  (i) exercising any right conferred by this Act; or
+
+  (ii) participating in any proceedings in terms of this Act.”
+
+Section 8(b) of the LRA provides that:
+
+“[e]very trade union and every employers’ organisation has the right – 
+
+. . .
+
+(b) to plan and organise its administration and lawful activities.” (Emphasis added.) 
+2014 (6) BCLR 663 (CC) at 700
+
+  Section 12(1) provides:
+
+“Any office-bearer or official of a representative trade union is entitled to enter the employer’s premises in order to recruit members or communicate with members, or otherwise serve members’ interests.” (Emphasis added.)
+
+
+Earlier I referred to every trade union’s right in section 23(5) of the Constitution “to engage in collective bargaining” and the fact that the LRA was enacted to give effect to the rights in section 23 of the Constitution. About collective bargaining it has been said:
+
+“[B]y bargaining collectively with organised labour, management seeks to give effect to its legitimate expectation that the planning of production, distribution, etc should not be frustrated through interruptions of work. By bargaining collectively with management, organised labour seeks to give effect to its legitimate expectations that wages and other conditions of work should be such as to guarantee a stable and adequate form of existence and has to be compatible with the physical integrity and moral dignity of the individual, and also the job should be reasonably secure. This definition is not intended to be exhaustive. It is intended to indicate (and this is important for the law) that the principal interest of management in collective bargaining has always been the maintenance of industrial peace over a given area and period, and that the principal interest of labour has always been the creation and the maintenance of certain standards over a given area and period, standards of distribution of work, of rewards, and of stability of employment”.75
+
+  As to what collective bargaining entails, it has also been said:
+
+“By collective bargaining we mean those social structures whereby employers (either alone or in coalition with other employers) bargain with the representatives of their employees about terms and conditions of employment, about rules governing the working environment (eg the ratio of apprentices to skilled men) and about the procedures that should govern the relations between unions and employer. Such bargaining is called ‘collective’ bargaining because on the workers’ side the representative acts on behalf of a group of workers.”76
+
+
+In Chapter III the LRA seeks to give effect to trade unions’ and employers’ constitutional right to collective bargaining. Section 14, which falls under Part A of Chapter III, makes provision for the election of trade union representatives in a workplace where the employer has no less than 10 employees who are members of a union that has the majority of the employer’s employees in the workplace as its members. Section 14(4)(a), (c) and (d) reads as follows:
+
+“A trade union representative has the right to perform the following functions – 
+
+(a) at the request of an employee in the workplace, to assist and represent the employee in grievance and disciplinary proceedings;
+
+. . .
+
+ 
+2014 (6) BCLR 663 (CC) at 701
+(c) to report any alleged contravention of the workplace-related provisions of this Act, any law regulating terms and conditions of employment and any collective agreement binding on the employer to – 
+
+  (i) the employer;
+
+  (ii) the representative trade union; and
+
+  (iii) any responsible authority or agency; and
+
+(d) to perform any other function agreed to between the representative trade union and the employer.” (Emphasis added.)
+Section 16(2) of the LRA says in part:
+
+“Subject to subsection (5), an employer must disclose to a trade union representative all relevant information that will allow the trade union representative to perform effectively the functions referred to in section 14(4).” (Emphasis added.)
+
+  Section 16(3) places upon such an employer a similar duty to disclose to:
+
+“the representative trade union all relevant information that will allow the representative trade union to engage effectively in consultation or collective bargaining.” (Emphasis added.)
+
+
+  Section 16(4) and (5) reads as follows:
+
+“(4) The employer must notify the trade union representative or the representative trade union in writing if any information disclosed in terms of subsection (2) or (3) is confidential.
+An employer is not required to disclose information:
+
+  (a) that is legally privileged;
+
+  (b) that the employer cannot disclose without contravening a prohibition imposed on the employer by any law or order of any court;
+
+  (c) that is confidential and, if disclosed, may cause substantial harm to an employee or the employer; or
+
+  (d) that is private personal information relating to an employee, unless that employee consents to the disclosure of that information.” (Emphasis added.)
+
+There is no absolute preclusion of the disclosure of confidential information to a trade union representative. If the information is confidential, it may still be disclosed to a trade union representative or to a representative trade union provided that the employer notifies the union or the representative that the information is confidential. If the confidential information is private personal information relating to an employee, it may be disclosed if the employer secures the consent of the employee concerned. If the confidential information is not private personal information relating to an employee, whether it may be disclosed will depend upon whether its disclosure may cause substantial harm to an employee or the employer. If the disclosure of confidential information may cause harm, it may not be disclosed. If the disclosure may not cause such harm, then the employer may disclose the information provided that, as I have already said, the employer informs the trade union that the information is confidential.
+This matter requires an interpretation of certain provisions of the LRA that confer certain rights on trade unions, employees and union members. For that reason, it is important to bear in mind certain provisions of the  
+2014 (6) BCLR 663 (CC) at 702
+  Constitution and the LRA relevant to interpretation. These include section 39 of the Constitution, the primary objects of the LRA as well as section 3 of that Act.
+Section 39(1) and (2) of the Constitution reads:
+“(1) When interpreting the Bill of Rights, a court, tribunal or forum – 
+
+  (a) must promote the values that underlie an open and democratic society based on human dignity, equality and freedom;
+
+  (b) must consider international law; and
+
+  (c) may consider foreign law.
+
+When interpreting any legislation, and when developing the common law or customary law, every court, tribunal or forum must promote the spirit, purport and objects of the Bill of Rights.”
+The purpose of the LRA is to advance economic development, social justice, labour peace and the democratisation of the workplace by fulfilling the primary objects of that Act.77 Those objects include:
+“(a) giving effect to section 23 of the Constitution;
+giving effect to obligations incurred by the Republic as a member state of the International Labour Organisation; 
+(c) to provide a framework within which employees and their trade unions, employers and employers’ organisations can – 
+
+  (i) collectively bargain to determine wages, terms and conditions of employment and other matters of mutual interest; and
+
+. . .
+
+
+to promote – 
+
+  (i) orderly collective bargaining;
+
+. . .
+
+
+  (iii) employee participation in decision-making in the workplace; and
+
+  (iv) the effective resolution of labour disputes”.78 (Emphasis added.)
+
+  In the context of this case, I draw special attention to the primary objects in (c)(i) and (d)(iii) and (iv).
+
+Section 3 of the LRA provides that any person applying the LRA must interpret its provisions:
+“(a) to give effect to its primary objects;
+in compliance with the Constitution; and
+in compliance with the public international law obligations of the Republic.”
+
+  It is now convenient to refer to the charges or allegations of misconduct that the respondent brought against the applicant employees.
+
+I return to the provisions of section 4(2)(a), 5(2)(c) as well as section 187(1)(d)(i) and (ii) of the LRA. Section 4(2)(a) has been quoted above. Section 5(2)(c) precludes anyone from prejudicing an employee for “participation in the lawful activities of a trade union”, for exercising any right conferred by the LRA and for participating in any proceedings in terms of the LRA. Section 187(1)(d)(i) provides that the dismissal of an  
+2014 (6) BCLR 663 (CC) at 703
+  employee because he took action against the employer by exercising any right conferred by the LRA is automatically unfair. Section 187(1)(d)(ii) provides that the dismissal of an employee for participating in any proceedings in terms of the LRA is automatically unfair.
+The meaning of the phrase “lawful activities” in sections 4(2)(a) and 5(1)(c)(iii) plays an important role in the present case. In interpreting this phrase we must be guided by various factors and principles. These include that:
+in accordance with the interpretive injunction in section 39(2) of the Constitution we must prefer the meaning of the provision that promotes the workers’ right to “participate in the activities and programmes of a trade union” to an interpretation that undermines that right;
+in compliance with the instruction in section 3 of the LRA, we must promote the LRA’s primary object of giving effect to and regulating the fundamental rights conferred by section 23 of the Constitution;
+section 4(2)(a) must be construed restrictively so as to give the workers a full measure of the protection afforded by section 23 of the Constitution; and
+we must heed the rule of constitutional interpretation that constitutional rights conferred without an express limitation should not be cut down by reading implicit restrictions into them.79
+We must also bear in mind what this Court said in SAPS v POPCRU80 and in SATAWU v Moloto.81 In SAPS v POPCRU it said:
+
+“The provisions in question must thus not be construed in isolation, but in the context of other provisions of the LRA and the SAPS Act. For this reason, a restrictive interpretation of essential services must, if possible, be adopted so as to avoid impermissibly limiting the right to strike. Were legislation to define essential services too broadly, this would impermissibly limit the right to strike”.82
+
+  In SATAWU v Moloto it said:
+
+“The relevance of a restrictive approach is to raise a cautionary flag against restricting the right more than is expressly provided for. Intrusion into the right should only be as much as is necessary to achieve the purpose of the provision and this requires sensitivity to the constraints of the language used”.83
+
+
+Although it may not be necessary on the facts of this case to give an exhaustive definition of the phrase “lawful activities” in sections 4(2)(a) and 5(2)(c)(iii), it seems to me that, on a proper restrictive approach, the  
+2014 (6) BCLR 663 (CC) at 704
+  phrase must exclude illegal activities or activities that constitute contraventions of the law. It definitely excludes conduct that constitutes criminal offences. The provisions include participation by union members in union activities that form part of the core functions of a trade union. These include taking up its members’ complaints or grievances with their employer, representing them in grievance and disciplinary proceedings, collective bargaining, attending statutory tribunals to represent their members’ interests and communicating with its members’ employer about workplace issues. In this regard, section 200 of the LRA is important. It provides that a trade union may act in any one or more of three capacities “in any dispute to which any of its members is a party”, namely, in its own interest, or on behalf of any of its members or in the interest of any of its members.84
+
+The first charge
+The essence of the first charge was that the employees were guilty of “insubordination and disrespectful behaviour making the continued employment relationship intolerable” “by associating [themselves] with and supporting”:
+“the contents of the union’s letter dated 23 May 2008 and the petition dated 3 June 2008 in which the CEO [was] grossly defamed by the false accusation of ineptitude, favouritism, racial bias, unlawful acts and mismanagement”;
+“the statement that you are not prepared to continue working with the CEO in the same building with him at the helm”; and
+“the call to the [respondent] to relieve the CEO of his duties.”
+
+The second charge
+The essence of the second charge was that the employees were guilty of bringing “the name and integrity of the [respondent] and the CEO into disrepute and making the continued employment relationship intolerable by associating [themselves] with, and, supporting”:
+“the contents of the union’s letter of 23 May 2008 in which the CEO was falsely accused of ineptitude, favouritism, racial bias, unlawful acts and mismanagement”;
+“the publication of the contents of that letter in the media”; and
+“the union’s stated intention in its letter dated 5 June 2008 to make the contents of its correspondence with the [respondent] available to the media whenever it deems fit.” 
+2014 (6) BCLR 663 (CC) at 705
+
+The chairperson’s findings and decision
+In his ruling, the chairperson of the disciplinary inquiry said in relation to the first charge:
+
+“By associating themselves with these actions, in particular by stating that Prof Ram should resign, failing which he should be dismissed, by stating that they were no longer prepared to spend a day with Prof Ram in the same building with him at the helm and that the Board is urged ‘to ensure that June 30th 2008 is the last day of his employment’, the individual employees made themselves guilty of insubordination and disrespectful behaviour.”85 (Emphasis added.)
+
+When the chairperson referred to “these actions” in the first line of this passage, he was referring to that part of paragraph 32 of his ruling where he said:
+“the union failed to bring the subject matter of the accusations to the attention of an appropriate manager, or failing redress at that level to the attention of a higher level of management, through the grievance procedure”; and
+the union “also failed to utilise the statutory mechanisms at its disposal” and “[i]nstead . . . it chose a confrontational path, one that involved an attack on the personal integrity of Prof Ram. In sporting parlance the union decided not to play the ball but rather to play the man.”86
+
+  Accordingly, the conduct to which the chairperson refers as “these actions” in the quoted passage and the conduct which he specified in the passage refer to the conduct that the employees:
+
+associated themselves with the union’s failure to bring the subject matter of the accusations to the attention of an appropriate manager or higher level of management by using the grievance procedure;
+associated themselves with the union’s failure to use “the statutory mechanisms at its disposal”;
+supported the statement that the CEO should resign failing which he should be dismissed;
+said that they were no longer prepared to spend a day with the CEO in the same building at the helm of the organisation; and
+supported the statement urging the Board “to ensure that June 30th 2008 [was] the last day of CEO’s employment.”
+It needs to be highlighted that the conduct in 1 and 2 of [157] did not form part of the charges that were brought against the employees. It is to be noted that the chairperson made no finding to the effect that the employees had said that they would not work. He refrained from making that finding despite the fact that the allegations of fact upon which the first charge was based included a statement that the employees had said that they would stop working. Therefore, in the light of that, this Court cannot decide the matter on the basis that the employees made such a statement.
+The passage quoted above87 from the chairperson’s ruling suggests that the employees’ support for, or association with, the statements referred to in 3, 4 and 5 in [157] above was viewed by the chairperson as the most serious under the first charge. This is in line with the fact that each one of these statements was either in the petition or was understood by the respondents to be in the petition and it was the refusal of the union and employees to withdraw the petition on or before 9 June 2008 that led the respondent to bring the disciplinary charges against the employees. If the employees had withdrawn the petition, they would not have been dismissed. Accordingly, in so far as the first charge is concerned, the conduct for which the employees were dismissed consists of the “actions” listed in 3, 4 and 5 of [157] above. The chairperson said that, through the acts listed in 1 to 5 in [157] the employees made themselves guilty of insubordination and disrespectful behaviour.
+I draw special attention to the fact that the chairperson did not base his finding of guilt in respect of the first charge on the allegation that the employees had associated themselves with or supported the contents of the union’s letter of 23 May 2008. As far as finding the employees guilty of the first charge, he based his finding on certain statements he understood the employees to have made, or to have associated themselves with in the petition as well as their conduct referred to in 1 and 2 of [157]. However, under the second charge he did base his finding of guilt on the allegation that the employees had associated themselves with the contents of the union’s letter of 23 May 2008.
+The chairperson dealt with the second charge only in paragraph 33 of his ruling. He made a finding that the union had leaked the letter dated 23 May 2008 to the Mail & Guardian. He then gave his reasons. Thereafter, he said that “[b]y associating themselves with the letter of 23 May 2008 and with the publication of that letter in the Mail & Guardian”, the applicant employees “associated themselves with a campaign clearly designed to bring the Board and its CEO into disrepute.” He said that “[t]he individual employees are accordingly guilty of the misconduct described in charge 2.”
+Although the employees were never charged with associating themselves with or, supporting, a confrontational stance adopted by the union in its  
+2014 (6) BCLR 663 (CC) at 707
+  dealings with the respondent, the chairperson dismissed them for that as well. I shall deal with this later.
+The employees’ conduct in associating themselves with the contents of the letter of 23 May 2008 appeared under both the first charge and the second charge. I shall say something about this later. The chairperson of the disciplinary inquiry concluded that the conduct described in 3, 4 and 5 of [157] above fell under the first charge and constituted insubordination and disrespectful behaviour. I pause here to make the observation that, although one of the acts on which the first charge was based was that the employees had associated themselves with and supported the petition, the chairperson did not base his finding of guilt in respect of the first charge on that conduct.
+In regard to the petition, the chairperson found the employees guilty of associating themselves with or supporting certain statements in the petition. Those statements are reflected in 3, 4 and 5 of [157] above. He concluded that the employees’ conduct in associating themselves with the letter of 23 May 2008 and with the union’s publication of that letter in the Mail & Guardian fell under the second charge and constituted bringing the name and integrity of the respondent and the CEO into disrepute.
+
+The Labour Court
+The Labour Court upheld the findings of the chairperson on virtually the same grounds upon which the chairperson had based them. A reading of the ruling of the chairperson reveals that there are essentially seven pillars upon which the chairperson found the employees guilty of the first two charges and dismissed them. A reading of the judgment of the Labour Court reveals that the judgment rests upon the same pillars. These pillars are that:
+the union was obliged to follow the internal grievance procedure in raising the grievances but it failed to do so;
+there were statutory mechanisms at the union’s disposal the union was obliged to utilise but did not utilise;
+the union adopted a “confrontational stance” in pursuing the employees’ grievances;
+in the petition a demand was made that the CEO be dismissed;
+a statement was made in the petition that the employees were no longer prepared to work with the CEO;
+a statement was made in the petition that the employees were no longer prepared to be in the same building with the CEO “at the helm of the organisation”; and
+in the petition the respondent was urged to ensure that 30 June 2008 was to be the CEO’s last day in the respondent’s employment.
+I shall now consider whether the conduct for which the employees were dismissed constituted misconduct. In the course of discussing each conduct, I shall deal with the question whether dismissal for that conduct would be automatically unfair. 
+2014 (6) BCLR 663 (CC) at 708
+
+Employees’ statement about the CEO’s separation package or possible dismissal
+The chairperson’s finding that the employees stated that the CEO should resign failing which he should be dismissed is not accurate. Whatever the employees said along those lines is to be found in the petition. The petition does not anywhere contain a statement that the CEO should resign failing which he should be dismissed. The employees said:
+
+“In the light of the above we urge the [respondent] to request Prof Vevek Ram to resign and further to look at a suitable settlement for him deemed fit by the [respondent]. Failing which, Prof Vevek Ram must be relieved of his duties due to the reasons stated in Appendix ‘A’.” (Emphasis added.)
+
+As mentioned, the union and the employees gave the respondent their strong advice or recommendation that it should offer the CEO a suitable separation package in return for his resignation failing which their strong recommendation was that the CEO be relieved of his duties. It is also important to point out that in the petition this was not put as a demand. The recommendation that the CEO be relieved of his duties was an alternative recommendation in case the respondent made the offer to the CEO but no agreement was reached involving his resignation.
+The union’s and employees’ conduct in making this statement must be viewed in its proper context. The union and the respondent had agreed at the conciliation meeting that the union should furnish its motivation for its stance on the dispute pending at the CCMA as well as provide the employees’ expectations of how the dispute could or should be resolved. When one reads the union’s letter of 23 May 2008, one will realise that that letter deals only with the motivation for the union’s stance on the dispute and does not deal with how the employees thought the dispute could or should be resolved. It was in the petition that the employees’ solution, as they saw it, was articulated. That was that the respondent should offer the CEO a suitable separation package in return for his resignation.
+In furnishing its motivations in the letter of 23 May and its “remedy” in the petition, the union was taking forward the conciliation process. In the petition the union and employees specifically wrote that the petition was “[i]n addition to the letter dated 23 May 2008”. The employees were taking part in a lawful union activity and in proceedings in terms of the LRA as provided for in section 4(2)(a) read with section 187(1)(d)(i) and (ii) respectively.
+The parties never got to the alternative solution because the respondent did not even want to enter into a discussion with the union about the first solution they proposed nor did it want to open any discussions between itself and the CEO to see whether there was any possibility of the conclusion of a separation agreement with him.
+The articulation by the union and the employees of their proposed solution was part of collective bargaining and, therefore, was a lawful activity of the union in which the employees were entitled to participate in terms of section 4(2)(a) of the LRA. It was also participation in proceedings in  
+2014 (6) BCLR 663 (CC) at 709
+  terms of the LRA as contemplated in section 5(2)(b)(c)(vii), namely, conciliation proceedings aimed at resolving the disclosure dispute. The employees were entitled, as members of the union, to participate in those proceedings. The dismissal of employees for this conduct would constitute an automatically unfair dismissal as envisaged in section 187(1)(d)(i) and (ii) of the LRA.
+
+Employees’ attitude towards the CEO and 30,June 2008 as his last day of employment
+Under this heading I discuss the statement made by the employees in the petition that they were no longer prepared to spend a day with the CEO in the same building at the helm of the organisation. I also discuss their association with the union’s conduct in urging the respondent “to ensure that June 30th 2008 [was] the last day of [the CEO’s] employment” with the respondent. In making this statement and in associating themselves with this conduct on the part of the union, the employees were attempting to convince the respondent:
+how deeply unhappy they were with the CEO; and
+how seriously and urgently the respondent should take their statement that it should offer him a suitable compensation in return for his resignation.
+The contents of the petition must be understood against the background that the bargaining that would have taken place at the conciliation meeting, if that meeting had not been adjourned before there was a discussion of the issues, subsequently took place through letters. What the letters contained were statements that the union could have articulated at the conciliation meeting. However, the fact that collective bargaining took place away from the conciliation meeting does not make it any less of collective bargaining than it would have been if it had taken place in a conciliation meeting. This is more so in this case because that bargaining occurred pursuant to an agreement reached at a conciliation meeting. Viewed in this context it follows that, the employees’ statement and association under discussion were part of collective bargaining and are lawful.
+In making the statement under discussion and in associating themselves with the union’s conduct in question, the union and employees were engaging in collective bargaining with the respondent so as to ensure that the respondent agreed with the union that it should offer the CEO a separation package in return for his resignation. In this regard, it must be borne in mind that this was during the extended statutory conciliation period and the union was making bona fide efforts to resolve the dispute pending at the CCMA. The articulation of this statement and the employees’ conduct in associating themselves with the union’s conduct in this regard constituted lawful union activity within the meaning of section 4(2)(a) of the LRA in which the employees were entitled to participate. The articulation of this statement by the employees was also participation in conciliation proceedings in terms of the LRA and fell under section 187(1)(d)(ii) of the LRA. The statement was articulated in pursuit of and  
+2014 (6) BCLR 663 (CC) at 710
+  in the course of conciliation proceedings aimed at resolving a dispute pending before the CCMA. The same is true of the employees’ conduct in this regard. A dismissal of employees for that conduct and for making that statement is an automatically unfair dismissal as it falls under section 187(1)(d)(i) and (ii).
+
+Failure to comply with the internal grievance procedure
+Both the chairperson and the Labour Court criticised the union for not using the internal grievance procedure for the grievances or complaints in the letter of 23 May 2008. They both based their findings that the employees were guilty of insubordination and disrespectful behaviour partly on the statement that the employees associated themselves with this failure by the union. In paragraph 32 of his ruling the chairperson said in part: “Secondly, the union failed to bring the subject matter of the accusations to the attention of an appropriate manager, or failing redress at that level, to the attention of a higher level of management, through the grievance procedure”. In criticising the union for this, the chairperson overlooked the fact that the grievances were against the CEO and there was no other manager higher than the CEO to which the grievances could have been brought. He also overlooked the fact that the union had requested a meeting with the HR committee of the respondent but that its request had been ignored.
+That the employees had associated themselves with the union’s alleged failure to follow the grievance procedure was not conduct that formed part of the charges brought against the employees in the disciplinary inquiry. Nor was there an allegation that the union had failed to bring its complaints about the CEO to the attention of any manager. The chairperson was not entitled to take that conduct into account as part of the conduct constituting insubordination and disrespectful behaviour. The employees could not be dismissed for misconduct for which they had not been charged.
+Was the union obliged to use the internal grievance procedure? In my view the union was not. The grievance procedure was not applicable to grievances against the CEO. This is because in stage three – which is the last stage and is the stage at which the CEO gets involved – clause 16.3.3 provides that “[t]he decision reached at this stage will be final.” (Emphasis added.) This decision would be that of the CEO. The grievance procedure did not contain any provision for the CEO’s recusal in a case where the grievance or complaint was against him. This means that, if the union had utilised the internal grievance procedure, the CEO would have been required to make a final decision on the union’s complaints or grievances against him and his decision would have been the final decision within the organisation.
+In my view, the grievance procedure was inapplicable to grievances against the CEO. This is because the procedure made the CEO’s decision final in regard to any grievance even when the grievance was against him or her. 
+2014 (6) BCLR 663 (CC) at 711
+
+Employees’ association with union’s alleged failure to utilise statutory mechanisms
+The employees’ conduct in associating themselves with the union’s failure “to utilise the statutory mechanisms at its disposal” was part of the conduct that the chairperson and the Labour Court found to constitute insubordination and disrespectful behaviour on the part of the employees for which, in part, they were dismissed. The chairperson made this criticism in paragraph 32 of his ruling. There he said:
+
+“[The union] also failed to utilise the statutory mechanisms at its disposal. Instead, as I have already noted, it chose a confrontational path, one that involved an attack on the personal integrity of Prof Ram.”
+
+  After saying that the union decided to play the man and not the ball, the chairperson said in the next sentence that by associating themselves with these “actions”, the employees “made themselves guilty of insubordination and disrespectful behaviour.”
+
+This finding by the chairperson, which was upheld by the Labour Court, has no statutory basis. Neither the chairperson nor the Labour Court referred to the provisions of the LRA that they believed the union was obliged to utilise but did not utilise. There are no mechanisms in the LRA which the union was obliged to use but did not use. Instead, the union used the dispute resolution mechanisms of the LRA by:
+referring the dispute to the CCMA for conciliation;
+attending the conciliation meeting;
+concluding an agreement at the conciliation meeting on the way forward;
+writing the letter of 23 May giving the motivation it was required to give in terms of the agreement reached at the conciliation meeting;
+writing the petition as part of its bargaining with the respondent in the course of a statutory conciliation process; and
+writing the letter of 5 June 2008 calling for a dialogue between itself and the respondent.
+The main judgment says that, because the union and employees did not pursue the disclosure dispute through all the LRA processes up to finality, they forfeited the protection against an automatically unfair dismissal. It says that the union and employees should have brought a review application in regard to that dispute and, because they did not do so, they waived their right not to be dismissed for a reason that rendered their dismissal automatically unfair. With respect this proposition is untenable. The union and the employees were at liberty not to pursue the disclosure dispute further than they did if, for example, it would be too expensive to do so or if it was not worth pursuing beyond the conciliation process. There is no reason why that should result in them losing their protection against automatically unfair dismissals or why that should be a bar to a court finding that the dismissal was for a reason listed in section 187(1) of the LRA  
+2014 (6) BCLR 663 (CC) at 712
+  and, therefore, automatically unfair. There were no statutory mechanisms that the union and employees were required to observe which they did not observe.
+
+The employees’ association with the union’s letter of 23 May 2008
+If the position is that the union was entitled to write the letter of 23 May to the respondent, then its members were entitled to associate themselves with that letter. It is important to remember how that letter came about and what it was about. The union wrote that letter to honour the agreement reached at the conciliation meeting that it should provide motivation for its stance on the dispute pending before the CCMA. In that letter, the union provided motivation for its stance on the dispute.
+There was nothing unlawful or wrong that the union said in the letter of 23 May. Indeed, it could have articulated the contents of that letter at the statutory conciliation meeting. If it had done that, that could not have formed a basis for the respondent to later take disciplinary action against the union’s members. In writing that letter the union was performing a normal union activity or function of seeking to negotiate the resolution of a dispute affecting its members. The union’s members were entitled to associate themselves with the union’s performance of that function. In the letter of 23 May, there was no basis for the finding of insubordination and disrespectful behaviour.
+The dismissal of the employees for associating themselves with the contents of that letter would be a dismissal of union members for participation in a lawful activity of their union as provided for in section 4(2)(a), a dismissal of employees for the reason of exercising their right as contemplated in section 187(1)(d)(i) of the LRA. Such a dismissal would also be a dismissal for participation in proceedings in terms of the LRA as contemplated in section 187(1)(d)(ii). The proceedings involved here are the conciliation proceedings under the LRA because the conciliation meeting was adjourned and the conciliation period was extended to enable the parties to make efforts to try and resolve the dispute through conciliation. This means that the conciliation process was being taken further through correspondence. Dismissing employees for associating themselves with that process is automatically unfair.
+
+Publication of union’s letter of 23 May 2008
+The other conduct that the chairperson took into account in dismissing the employees was that the union caused the publication of its letter of 23 May in the Mail & Guardian and that it stated in its letter of 5 June 2008 that it would publish correspondence with the respondent whenever it deemed it necessary to do so. The chairperson disapproved of the union members associating themselves with that publication and with that statement. This fell under the charge of bringing the name of the CEO and the respondent into disrepute.
+In my view, there was nothing unlawful in the union causing the publication of any parts of the contents of its letter of 23 May in a newspaper.  
+2014 (6) BCLR 663 (CC) at 713
+
+  Firstly, the union and its members have a right to freedom of expression under section 16 of the Constitution. Secondly, under the LRA the union has a right to serve the interests of its members and to decide its own programmes and its activities relating to how best to serve the interests of its members. The fact that the respondent or the Court may not agree with the activities or programmes that the union initiates to serve the interests of its members is no ground to interfere with its activities or programmes as long as they are not unlawful. Thirdly, the respondent is a public institution. Fourthly, the public has an interest in how the respondent as a public institution is run. Fifthly, in terms of the Lotteries Act, which established the respondent and regulates it, the respondent is bound by the values in section 195 of the Constitution.
+
+In relevant parts section 195 reads:
+
+“Basic values and principles governing public administration
+
+Public administration must be governed by the democratic values and principles enshrined in the Constitution, including the following principles:
+
+  (a) A high standard of professional ethics must be promoted and maintained.
+
+  (b) Efficient, economic and effective use of resources must be promoted.
+
+. . .
+
+  (d) Services must be provided impartially, fairly, equitably, and without bias.
+
+  (e) People’s needs must be responded to, and the public must be encouraged to participate in policy making.
+
+  (f) Public administration must be accountable.
+
+  (g) Transparency must be fostered by providing the public with timely, accessible and accurate information.
+
+. . .
+
+  (i) Public administration must be broadly representative of the South African people, with employment and personnel management practices based on ability, objectivity, fairness, and the need to redress the imbalances of the past to achieve broad representation.”
+
+In terms of section 195(2), the above principles apply to organs of State and public enterprises. The respondent is an organ of State. The union and the employees were unhappy with the leadership style and way of doing things of the CEO of a public institution. One of the issues they raised was linked to the principle contained in section 195(1)(i) of the Constitution. That relates to ensuring that the organisation was broadly representative of the South African people and taking measures to address the imbalances of the past in the workplace. The public had a right to know whether the CEO of the respondent as a public institution was implementing this important constitutional principle.
+In all of these circumstances, the union was entitled to cause the publication of those parts of its letter of 23 May that got published. It was also entitled to seek support from the public for its complaints about the Head of a public institution. Indeed, it was right to say that it was entitled to  
+2014 (6) BCLR 663 (CC) at 714
+  publish its correspondence with the respondent when it deemed it appropriate to do so provided that there was nothing in that correspondence which would render the publication thereof unlawful. There was nothing in the letter of 23 May that would render publication unlawful. In the end, the employees were entitled to associate themselves with the union’s stance on this issue and with its publication of certain parts of its letter. Their dismissal for associating themselves with the publication of certain parts of the letter of 23 May was a dismissal of union members for participating in a lawful union activity and for exercising their rights under the LRA that rendered their dismissal automatically unfair.
+
+Union’s alleged confrontational stance
+It also seems to me that the chairperson’s view that the union had been confrontational played an important, if not a critical, role in his decision to find the employees guilty of the first charge. In one part of his ruling, he said “[t]he union consciously resolved to adopt a confrontational stance and it must live with the consequences of that decision.”88 In another part he said about the union:
+
+“It also failed to utilise the statutory mechanisms at its disposal. Instead, as I have already noted, it chose a confrontational path, one that involved an attack on the personal integrity of Prof Ram.”89 (Emphasis added.)
+
+The view that the adoption of a confrontational stance by a trade union in its dealings with an employer is unacceptable and that in the present case the union adopted a confrontational stance also influenced the Labour Court in upholding the decisions of the chairperson.90 In one part of its judgment the Labour Court said:
+
+“The ten applicants must therefore stand [or] fall by their own decision to support the petition and to remain steadfast in associating themselves with the union’s confrontational stance.”91 (Emphasis added.)
+
+  A few paragraphs later the Labour Court said about confrontation:
+
+“I am therefore of the view that the union could have used other means of dealing with their grievances and that it was certainly not warranted to have opted [for] the confrontation route that resulted in the dismissal of ten of its members.”92
+
+
+A trade union has a right to determine its own strategies and tactics in dealing with an employer concerning grievances, or complaints, disputes of right or disputes of interests, and, generally, on how to handle consultations, negotiations, discussions and collective bargaining with an employer. It is not for a court to dictate to a trade union how to handle its discussions or negotiations with an employer or what tactics and strategies it should use and at what stage it should use them in its dealings with an employer. 
+2014 (6) BCLR 663 (CC) at 715
+It is the union’s prerogative to decide how to handle those matters. Sometimes it may deem it fit to handle these matters “gently”. Sometimes it may decide to handle these matters in a confrontational way. Sometimes it can decide to resort to industrial action and sometimes it may decide to take the route of negotiation without any threat of industrial action. The same can be said of an employer or an employers’ organisation as well. Provided that a trade union does not act unlawfully, it may adopt a confrontational stance. There is nothing unlawful in adopting a confrontational stance per se where it does not involve any physical harm to any person or damage to property. This does not mean that a trade union is free to say whatever it pleases. There are limits to that right but, on the facts of this case, those limits were not exceeded and there is no need to define them with any precision.
+To the extent that it can be said that the union adopted a confrontational stance in its dealings with the respondent, it was entitled to do so. That was part of legitimate collective bargaining. It was a lawful activity within the meaning of that phrase in section 4(2)(a). The applicant employees were entitled to participate in that activity in terms of section 4(2)(a) of the LRA. Their dismissal for taking part in that activity was a dismissal for exercising their right and constitutes an automatically unfair dismissal. The union was also entitled to be supported by its members. The employees were also entitled to give their union support for the stance it took. It was also participation in the conciliation proceedings. Accordingly, the respondent had no right to take disciplinary action against the union members just because their union had adopted a confrontational stance in its dealings with it. A dismissal of employees for that conduct falls under section 187(1)(d)(i) and (ii) and is automatically unfair.
+
+The main judgment
+The main judgment concludes that the chairperson’s finding that the employees were guilty of the first two charges was justified. It then goes on to determine whether they were dismissed for associating themselves with a lawful activity of the union in which case their dismissal would be automatically unfair. It accepts that what the employees supported was union activity but finds that the activity was not lawful. A reading of the judgment suggests that, if it had found that the union activity was lawful, it would have held that the dismissal of the employees for associating themselves with that activity infringed their right under section 4(2)(a) of the LRA and would have been automatically unfair.
+The main judgment says that the meaning of the word “lawful” in section 4(2)(a) of the LRA is “lawfulness under the Act”. It says: “It is not an enquiry into criminal illegality or civil wrongfulness.” I have already dealt above with the interpretation of section 4(2)(a).
+The main judgment seems to rest on five propositions. They are that:
+a demand by employees that their employer dismiss a co-employee or a manager or CEO is an unlawful demand;
+in this case the employees’ demand was that the CEO be dismissed;
+the employees demanded that his dismissal be without a fair hearing;
+the employees threatened to stop work if he was not dismissed and this was an unlawful threat; and
+the employees’ dismissal could not be automatically unfair because they failed to pursue the disclosure dispute through all processes under the LRA up to finality, including review proceedings.
+As to (a), in my view a proposal or demand for the dismissal of a co-employee or a manager or CEO is not necessarily unlawful. It depends on whether the dismissal will be unfair or not. In this case, both the chairperson and the Labour Court dealt with the matter on the basis that they were not going to investigate whether the allegations against the CEO were true or not. We should adopt the same approach. As to (b), the union and the employees did not demand the CEO’s dismissal but they strongly recommended his dismissal. As to (c) a reading of the petition reveals that there is no justification for the suggestion that the employees demanded that the CEO’s dismissal be without a fair hearing. The respondent could have put the allegations to him to deal with before deciding to dismiss him if there was a fair reason for his dismissal. As to (d), again a reading of the petition reveals that the employees did not threaten to stop working after 30 June if the CEO was still employed as CEO. They refrained from saying what would happen if he was still the CEO after 30 June 2008. I have dealt with (e) earlier.
+
+Judgment of the Supreme Court of Appeal
+In its judgment, the Supreme Court of Appeal suggested that the union should have used the mechanisms in section 191 of the LRA to resolve its complaints or grievances. It made this suggestion on the basis that the complaints or grievances were unfair labour practices as defined in the LRA. The part of the definition of “unfair labour practice” the Supreme Court of Appeal quoted is the one referring to:
+
+“unfair act or omission between an employer and an employee involving – 
+
+. . .
+
+(a) unfair conduct by the employer relating to the promotion, demotion, probation (excluding disputes about dismissals for a reason relating to probation) or training of an employee or relating to the provision of benefit to an employee.”
+With respect, this suggestion is not correct. Firstly, when regard is had to the definition of “unfair labour practice” in section 186(2) of the LRA, it is clear that most, if not all, of the complaints that the union articulated could not conceivably fall within that definition. Secondly, the effect of the Supreme Court of Appeal’s suggestion is that the trade union and the employees were wrong to ask the respondent for a meeting to discuss their concerns or grievances in the workplace and they should have resorted to statutory dispute procedures before requesting a meeting with the respondent. This view presupposes that, if workers have grievances or complaints, they must refer them to statutory mechanisms for resolution without first seeking to resolve them in the workplace with their employer  
+2014 (6) BCLR 663 (CC) at 717
+  through discussion. In my respectful view, that suggestion does not correctly reflect the legal position. As I understand it, the correct legal position is that one of the principles that underlies the dispute resolution system under the LRA is that, as far as possible, workplace problems must be resolved in the workplace. In other words: workplace solutions for workplace problems.
+In conclusion, the dominant, if not the sole, reason for the dismissal of the employees in the present case is that they engaged in conduct in which the LRA entitled them to engage. In this regard it must be borne in mind that, by way of its attorney’s letter of 6 June 2008, the respondent called upon the union and employees to withdraw the petition to avoid the disciplinary charges. This means that, if the union and employees had agreed to withdraw the petition, no disciplinary charges would have been brought against the employees and they would not have been dismissed. This means that what the respondent found most objectionable and what called for the bringing of disciplinary charges against the employees was what they said in the petition. Therefore, it is what the union and employees said in the petition that constitutes the important or real reason for the dismissal of the employees. I have already found that, in saying what they said in the petition, the union and employees were engaging in a lawful activity of the union, were exercising their rights, and were taking part in conciliation proceedings and collective bargaining. Their dismissal for such conduct was contrary to section 5(2)(c) and fell within section 187(1)(d)(i) and (ii). That means that their dismissal was automatically unfair in terms of section 187(1) of the LRA. Once it is accepted that the main or real or dominant reason for dismissal was, or related to, such conduct, there is no room for a conclusion that the dismissal was not automatically unfair but only substantively unfair. In other words, to reach the conclusion that the dismissal was only substantively unfair one would have to conclude that the dismissal had nothing or very little to do with legitimate union activities and the conciliation proceedings. In my view, both on the facts and the law that cannot be said.
+
+Remedy
+A dismissal of employees for supporting the lawful activities of a union and for exercising their rights under the LRA is a very serious violation of workers’ constitutional rights given effect to in the LRA that may be committed by an employer. The dismissal of employees for that conduct is even more serious when the employer is a public institution or an organ of State because government departments and other organs of State are expected to take a lead in the protection and promotion of these rights in our society.
+Section 7(2) of the Constitution obliges the State to respect, protect, promote and fulfil the rights in the Bill of Rights. The respondent, as an organ of State, was obliged to observe this injunction. It failed to do so. Instead, it violated the employees’ rights. Indeed, it also violated the rights of the trade union to engage in any lawful activity and to serve the interests of its members in the workplace. 
+2014 (6) BCLR 663 (CC) at 718
+
+  [205]   This Court must vindicate the union’s rights and the rights of its members. In my view, the only appropriate way to vindicate the union’s rights and the rights of the employees in this case would be to order the reinstatement of the applicant employees. In the Labour Court the respondent was entitled to lead evidence that would show that, even if the dismissal of the employees was found to have been automatically unfair or simply substantively unfair, reinstatement would not be an appropriate remedy. It led no evidence of this kind. It was represented by an experienced senior Counsel who would have ensured that this evidence was led if it existed.
+
+Section 193(2) of the LRA obliges the Labour Court to require the employer to reinstate an employee whose dismissal has been found to be automatically unfair or substantively unfair unless one of four situations listed therein is present. None of those situations is present in this case. Where the dismissal has been found to have been automatically unfair, the Labour Court has a discretion to order the reinstatement to operate retrospectively from the date of dismissal. In my view, the order that the Labour Court should have made is one of reinstatement with retrospective effect from the date of dismissal. Accordingly, this Court should make an order to that effect.93
+In the circumstances, the following order is made:
+Leave to appeal is granted.
+The appeal is upheld.
+The orders of the Supreme Court of Appeal and the Labour Court are set aside.
+The order of the Labour Court is replaced with the following order:
+
+  “(a) The dismissal of the applicant employees was automatically unfair.
+
+   (b) The respondent is ordered to reinstate the applicant employees in its employ on terms and conditions of employment no less favourable to them than the terms and conditions that governed their employment immediately before their dismissal.
+
+   (c) The order in (b) above is to operate with retrospective effect from the date of dismissal.
+
+   (d) The respondent must pay the applicants’ costs.”
+
+The respondent must pay the applicants’ costs in the Labour Appeal Court, Supreme Court of Appeal and in this Court.
+
+(Moseneke ACJ, Jafta, Madlanga, Nkabinde JJ and Mhlantla AJ concurred in the judgment of Zondo J.)
+
+ 
+2014 (6) BCLR 663 (CC) at 719
+
+Dambuza AJ:
+
+Having read the judgments by my brothers Froneman J and Zondo J, I agree that the appeal should succeed and the employees should be reinstated. My reasoning, however, differs in part from that of both my Colleagues. I find that the dismissal was only substantively unfair, and not automatically unfair.
+More specifically, my view is that the charge of insubordination and disrespectful behaviour is unfounded. However, I agree that dissemination of the letter of 23 May 2008 could have the effect of bringing the name and integrity of the Board and the CEO into disrepute. It is also my view that both the acts of disseminating the contents of the letter of 23 May 2008 and seeking termination of the CEO’s employment contract are a departure from the dispute-resolution procedures provided for under the Act. I agree that, for employees to enjoy protection under the Act, as specifically provided under section 187,94 the dispute-resolution method utilised had to fall within the prescripts of the Act.
+In its judgment, the Supreme Court of Appeal found that the appeal turned on the contents of the petition. Indeed, the Labour Court had already found that the letter of 23 May 2008 served as the motivation required by the Commissioner in her interim ruling on 9 May 2008. The letter of 23 May 2008 remains relevant only insofar as its dissemination was impugned.
+
+Insubordination and disrespectful behaviour
+The Labour Court narrowed down the basis for the finding of insubordination to the petition. It found the employees to have been “grossly disrespectful, confrontational and insubordinate” in expressing an intention not to respect the CEO and threatening not to obey the instructions of their employer. The Supreme Court of Appeal endorsed this finding.
+In the petition the employees complain about the CEO’s “bureaucratic leadership style and his inept management approaches”. They state that they “are no longer prepared to bear with him anymore”. They “urge the Board to take this matter seriously as [they] are no longer prepared to spend a day with [the CEO] in the same building with him at the helm of this organisation”. They further urge the Board to ensure that 30 June 2008 is the last day of the CEO’s employment.
+It is so that, as a basic principle, insubordination occurs when an employee refuses to accept the authority of a person in a position of authority over him or her. Insubordination is misconduct because it assumes a calculated breach, by the employee, of the duty to obey the employer’s lawful authority.95 I accept that in expressing unwillingness to “bear with [the CEO] anymore” or to “spend a day with [him] . . . at the helm of this organisation” the employees signified a repudiation of the CEO’s authority. 
+2014 (6) BCLR 663 (CC) at 720
+
+  [214]   However, the threat issued by the union and employees and the finding by the Supreme Court of Appeal that, once a threat to repudiate authority is issued, an employer need not wait until the threatened refusal actually takes place before it takes action, require closer consideration. A threat to repudiate authority must be understood in the context in which it occurs. The full conduct of both the employer and the employee must be taken into account in determining whether a threat actually constitutes insubordination. This is nothing new. It has been said that:
+
+“[t]he gravity of insubordination (or indeed whether the refusal to obey an instruction amounts to insubordination at all) depends on a number of factors, including the action of the employer prior to the alleged insubordination, the wilfulness of the employee’s defiance and the reasonableness or otherwise of the order that was defied.”96 (Footnotes omitted.)
+
+
+The threat was made after many attempts to alert the Board to the employees’ complaints about the CEO. The employees had repeatedly drawn to the Board’s attention aspects of the CEO’s exercise of his authority, which they viewed as having a negative effect on their work environment and beyond. I am not pronouncing on the veracity of the complaints. But the Board’s unwillingness to deal with the allegations and the consequent disrespect shown to the employees is a significant factor in the assessment of the employees’ conduct.
+The disregard by the Board of the trouble that the union and the employees had taken to comply with the interim ruling of the Commissioner was, itself, disrespectful. The Board never signalled an intention to respond to the letter of 23 May 2008, not even to indicate a view that, despite its motivation, the union was not entitled to the information it sought or an explanation of how the Board intended to deal with the complaints levelled against the CEO.
+The Board must, all along, have been aware of the shortcomings in the internal grievance procedure insofar as there is no provision for complaints against the CEO. The chairperson of the disciplinary hearing referred to this discrepancy. He highlighted the importance of initial private attempts to resolve workplace grievances. (It seems to me that this is what the employees had been attempting to do from March 2008.) The chairperson acknowledged that there were no structures in place “to establish effective channels through which the union was able to articulate grievances.” But the Board had insisted that the employees use the internal grievance procedures.
+The Board attended the conciliation meeting of 9 May 2008. At that stage it did not register its objection to the jurisdiction of the CCMA. I can only conclude from the interim ruling of 9 May 2008 that the Board must have signalled a willingness to discuss the subject of the dispute. Its later conduct proves that such show of willingness was not in good faith. It did not signal any intention of responding to the letter of 23 May 2008. It is only on the last day of extended conciliation that the Board objected to the  
+2014 (6) BCLR 663 (CC) at 721
+  CCMA’s jurisdiction. What is more, only at that stage did the Board register its view that disclosure of the information sought by the union and employees was not a dispute as contemplated by the Act.
+The conduct of the Board is unacceptable. In terms of the Collective Agreement, both parties undertook to negotiate and consult in good faith in seeking reasonable and satisfactory solutions to their disputes. My view is that the conduct of the Board was in breach of its duty to negotiate in good faith and, in fact, constituted an abuse of power. Such lack of good faith by the Board features throughout the process of attempting to resolve the dispute, from the Board’s insistence that the employees utilise the inadequate internal grievance procedures to its deliberate strategy of withholding its stance on conciliation until the very last day.
+Whether the employees were correct in thinking that the solution to their dissatisfaction lay in the contract is, for me, not the question in these proceedings. But the union and employees do state in the letter of 23 May 2008 that “the contract should have been able to guard against . . . the problems which are directly linked to the operations of the CEO and in turn adversely affecting both the staff of the [Board] and beneficiaries”. The content of the letter sets out a connection (at least insofar as the union was concerned) between the contract and the CEO’s performance of his duties. The accusations were a serious indictment of the CEO’s management capacity. However, that should not be a bar to the employees’ right to have their workplace misgivings afforded proper consideration.
+The conduct of the employees following the petition is also relevant in determining the reasonableness of their conduct. The facts relating to this conduct are properly set out in the other two judgments. Although the contents of the petition exceeded the parameters of the dispute-resolution processes provided for in the Act, the post-petition correspondence from the union showed the union and employee’s clear desire to have their grievances resolved through discussions. This is a position they maintained until they were confronted with the Board’s belated objection to the jurisdiction of the CCMA.
+In this context, I cannot agree that the threat to repudiate authority constituted insubordination and disrespectful conduct. The threat was made when the employer had persistently shown disrespect for the conciliation that was underway, to the extent that that process degenerated into a “brawl”. That said, I cannot agree that the call for termination of the CEO’s contract of employment is a lawful act under the Act. That is not to say the conduct is proscribed under the Act. But a call for termination of the services of an employee violates the right to fair disciplinary procedures. I can find no reason why the employees did not agitate for disciplinary process if that is what they intended. The fact that the employees may have used it as a strategy to get a response from the employer does not detract from its nature and implications.
+Both the Supreme Court of Appeal and the Labour Court dealt with the call for termination of the CEO’s contract of employment in the context of insubordination, and not on the basis of the impropriety of the demand  
+2014 (6) BCLR 663 (CC) at 722
+  itself. The impropriety of a demand for termination of the services of an employee as a dispute-resolution mechanism does not depend on the position held by that employee. The demand is equally unlawful whether it relates to an employee who occupies a position of authority or to an ordinary employee.
+I do not agree that this call was made in response to the Commissioner’s provisional ruling of 9 May 2008, as part of the conciliation process. The CCMA ruling was that the employees should “specify expectations of the staff in terms of overall organisational performance and delivery”. It was not the case of the union and employees that the call for termination of the CEO’s services was made in response to the interim ruling of 9 May 2008 as their “expectation of organisational performance and delivery”. Their case was that this was a strategy to get a response from the employer.
+The union and employees strayed from the dispute-resolution mechanisms provided for under the Act insofar as they disseminated the contents of the letter of 23 May 2008 and petitioned their employer, calling for termination of the CEO’s services. The reason behind the special protection afforded under section 187 is to enable employees to exercise rights conferred on them under the Act without fear of reprisal. Otherwise the rights provided for under the Act would be meaningless.97 It makes sense that this protection would be available for a closed list of rights rather than an open-ended one. Therefore, to enjoy special protection under section 187 an employee must have been exercising a right specifically provided for in the Act. Apart from the fact that I can find no express or implied reference in the Act to the right to freedom of expression (other than within the context of protected processes), I do not think that this right was envisaged in the protection provided under section 187. This must be because this right is often subject to legal limitations such as I refer to in the paragraph below.98
+
+Bringing the Board and the CEO into disrepute
+This brings me to the charge of bringing the Board and the CEO into disrepute. Whilst I accept the rights of the employees and the union to make their grievances available for publication, it does need to be said that the rights of the subject of the publication should also be borne in mind. Whereas the disseminated allegations may be proved to be incorrect, the implications or effects of publication may be irreversible. For that reason the right to publish is subject to some limitations99 and I can  
+2014 (6) BCLR 663 (CC) at 723
+  only conclude that the Legislature intentionally omitted it from general protection under the Act.
+Whether or not a dismissal is automatically unfair requires a factual enquiry to establish the true reason for the dismissal. The legal issue is whether the identified reason is covered by one of the provisions of section 187.100 In this case, it is my view that both the dissemination of the letter of 23 May 2008 and the contents of the petition for which the employees were dismissed are not rights or conduct envisaged in sections 5 and 187 of the Act. It is for this reason that I cannot find that their dismissals were automatically unfair.
+However, in terms of section 188 of the Act, a dismissal that is not automatically unfair may still be substantively unfair if the employer fails to prove that the dismissal was for a fair reason related to the employees’ conduct or capacity. In terms of section 188(2) of the Act, any person considering whether or not the reason for dismissal is fair must take into account the contents of Schedule 8 to the Act.101
+It is a key principle of the Code that employers and employees must treat one another with respect. Both the Labour Court and the Supreme Court of Appeal did not take into account the disrespectful conduct of the Board. It is this conduct that drove the union and employees to resort to measures outside of the Act.
+For these reasons, the dismissals in this case were substantively unfair. I agree that the dismissed employees should be reinstated, and that costs must be awarded in their favour.
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  66 of 1995.
+2	  S 188(1) of the Act reads, in relevant part:
+“A dismissal that is not automatically unfair, is unfair if the employer fails to prove – 
+  (a) that the reason for dismissal is a fair reason – 
+ (i) related to the employee’s conduct . . . ”.
+3	  S 135(5) of the Act.
+4	  He currently serves as a judge of the Labour Court.
+5	  S 23(2) of the Constitution states that:
+“Every worker has the right – 
+  (a) to form and join a trade union;
+  (b) to participate in the activities and programmes of a trade union; and
+  (c) to strike.”
+6	  S 23(4) of the Constitution states that:
+“Every trade union and every employers’ organisation has the right – 
+  (a) to determine its own administration, programmes and activities;
+  (b) to organise; and
+  (c) to form and join a federation.”
+  See also Food and Allied Workers Union v Ngcobo NO and another [2013] ZACC 36; 2014 (1) SA 32 (CC); 2013 (12) BCLR 1343 (CC) at para [26].
+7	  S 23(5) of the Constitution states that:
+“Every trade union, employers’ organisation and employer has the right to engage in collective bargaining. National legislation may be enacted to regulate collective bargaining. To the extent that the legislation may limit a right in this Chapter, the limitation must comply with section 36(1).”
+8	  S 16 of the Constitution states that:
+ “(1) Everyone has the right to freedom of expression, which includes – 
+ (a) freedom of the press and other media;
+ (b) freedom to receive or impart information or ideas;
+ (c) freedom of artistic creativity; and
+ (d) academic freedom and freedom of scientific research.
+  (2) The right in subsection (1) does not extend to – 
+ (a) propaganda for war;
+ (b) incitement of imminent violence; or
+ (c) advocacy of hatred that is based on race, ethnicity, gender or religion, and that constitutes incitement to cause harm.”
+9	  S 17 of the Constitution states that:
+“Everyone has the right, peacefully and unarmed, to assemble, to demonstrate, to picket and to present petitions.”
+10	  S 18 of the Constitution states that:
+“Everyone has the right to freedom of association.”
+11	 National Education Health and Allied Workers Union v University of Cape Town and others [2002] ZACC 27; 2003 (3) SA 1 (CC); 2003 (2) BCLR 154 (CC) (NEHAWU). See also NAPTOSA and others v Minister of Education, Western Cape and others 2001 (2) SA 112 (C) at 123 [also reported at 2001 (4) BCLR 388 (C) – Ed], cited with approval in Minister of Health and another NO v New Clicks South Africa (Pty) Ltd and others [2005] ZACC 14; 2006 (2) SA 311 (CC); 2006 (8) BCLR 872 (CC) at paras [434]–[436].
+12	  S 4(2)(a) of the Act states that:
+“Every member of a trade union has the right, subject to the constitution of that trade union to participate in its lawful activities”.
+13	  S 8 of the Act states that:
+“Every trade union and every employers’ organisation has the right – 
+  (a) subject to the provisions of Chapter VI – 
+ (i) to determine its own constitution and rules; and
+ (ii) to hold elections for its office-bearers, officials and representatives;
+  (b) to plan and organise its administration and lawful activities;
+  (c) to participate in forming a federation of trade unions or a federation of employers’ organisations;
+  (d) to join a federation of trade unions or a federation of employers’ organisations, subject to its constitution, and to participate in its lawful activities; and
+  (e) to affiliate with, and participate in the affairs of, any international workers’ organisation or international employers’ organisation or the International Labour Organisation, and contribute to, or receive financial assistance from, those organisations.”
+14	  S 16(2) of the Act.
+15	S 16(5) of the Act.
+16	  S 23(2)(c) of the Constitution.
+17	  Ss 64 and 65 of the Act.
+18	  S 66 of the Act.
+19	  S 77 of the Act.
+20	  S 5(1) of the Act.
+21	  S 187(1) of the Act states in relevant part:
+“A dismissal is automatically unfair if the employer, in dismissing the employee, acts contrary to section 5 or, if the reason for the dismissal is – 
+ (a) that the employee participated in or supported, or indicated an intention to participate in or support, a strike or protest action that complies with the provisions of Chapter IV;
+ (b) that the employee refused, or indicated an intention to refuse, to do any work normally done by an employee who at the time was taking part in a strike that complies with the provisions of Chapter IV or was locked out, unless that work is necessary to prevent an actual danger to life, personal safety or health;
+ (c) to compel the employee to accept a demand in respect of any matter of mutual interest between the employer and employee;
+ (d) that the employee took action, or indicated an intention to take action, against the employer by – 
+ (i) exercising any right conferred by this Act; or
+ (ii) participating in any proceedings in terms of this Act;
+ . . . 
+ (h) a contravention of the Protected Disclosures Act, 2000, by the employer, on account of an employee having made a protected disclosure defined in that Act.”
+22	  S 188(2) of the Act requires that “Any person considering whether or not the reason for dismissal is a fair reason . . . must take into account any relevant code of good practice issued in terms of this Act.”
+  The relevant code of good practice – the Code of Good Practice: Dismissal – is in Sch 8 of the Act. Item 3(5) provides:
+“When deciding whether or not to impose the penalty of dismissal, the employer should in addition to the gravity of the misconduct consider factors such as the employee’s circumstances (including length of service, previous disciplinary record and personal circumstances), the nature of the job and the circumstances of the infringement itself.”
+  In addition, under item 7(b)(i) of Sch 8, an employer should also consider whether the workplace rule or standard contravened by an employee “was a valid or reasonable rule or standard”. When considering these and the other factors set forth in the Code of Good Practice: Dismissal, a court must give due weight to the constitutional rights of employees.
+23	 NUPSAW obo Mani and others v National Lotteries Board [2011] ZALCJHB 199 at para [26].
+24	 Id at paras [28]–[51].
+25	 Id at para [41].
+26	  As a result of the Constitution Seventeenth Amendment Act of 2012, this right of appeal to the Supreme Court of Appeal no longer exists. S 168(3)(a) of the Constitution now reads:
+“The Supreme Court of Appeal may decide appeals in any matter arising from the High Court of South Africa or a court of a status similar to the High Court of South Africa, except in respect of labour or competition matters to such extent as may be determined by an Act of Parliament.”
+27	 National Union of Public Service and Allied Workers on behalf of Mani and others v National Lotteries Board [2013] ZASCA 63; [2013] 8 BLLR 743 (SCA); (2013) 34 ILJ 1931 (SCA) (Supreme Court of Appeal judgment) at para [29].
+28	 Id at para [32].
+29	  NEHAWU above fn 11 at paras [13]–[17].
+30	 Id at para [18].
+31	 Id at para [25].
+32	 Id at para [26].
+33	 Id at para [28].
+34	 Id at paras [30]–[31].
+35	 Id at para [31].
+36	  See, for example, Coetzee v National Commissioner of Police and another [2013] ZACC 29; 2013 (11) BCLR 1227 (CC) at para [19] [also reported at 2013 (11) BCLR 1227 (CC) – Ed].
+37	 Id at para [27]; Mankayi v AngloGold Ashanti Ltd [2011] ZACC 3; 2011 (3) SA 237 (CC); 2011 (5) BCLR 453 (CC) at para [12]; Minister of Safety and Security v Luiters [2006] ZACC 21; 2007 (2) SA 106 (CC); 2007 (3) BCLR 287 (CC) at para [27]; Phoebus Apollo Aviation CC v Minister of Safety and Security [2002] ZACC 26; 2003 (2) SA 34 (CC); 2003 (1) BCLR 14 (CC) at para [9] and S v Boesak [2000] ZACC 25; 2001 (1) SA 912 (CC); 2001 (1) BCLR 36 (CC) at para [15].
+38	  NEHAWU above fn 11 at para [17].
+39	  See s 17 of the Constitution above fn 9.
+40	  For example, freedom of expression in s 16 of the Constitution above fn 8.
+41	  S 213 of the Act defines “dispute” as including “an alleged dispute”, and defines “issue in dispute” in relation to a strike or lock-out as “the demand, the grievance, or the dispute that forms the subject matter of the strike or lock-out”.
+42	 Malan v Bulbring NO and others [2004] ZALC 52; [2004] 10 BLLR 1010 (LC) at para [23]. See also Matsekoleng v Shoprite Checkers (Pty) Ltd [2012] ZALAC 41; [2013] 2 BLLR 130 (LAC) at paras [66]–[67].
+43	  The Supreme Court of Appeal at para [30] of its judgment (above fn 27) appears to have regarded these concepts as decisive:
+“A meeting of trade union officials and shop stewards cannot, for example, be convened to plot and plan the murder of a disagreeable employee at the workplace or to burn down the buildings of the employer, no matter how justified the participants may believe such action to be. So too, pickets, protests, meetings, pamphleteering cannot, as the court a quo also mentioned by way of illustration, be organised contrary to our law of defamation. Trade union activities which constitute unlawful acts of insubordination are not protected. The law does not dissemble unlawful acts through the invocation of a constitutional banner.”
+44	 In National Union of Mineworkers on behalf of Selemela v Northam Platinum Ltd [2013] ZALAC 10; (2013) 34 ILJ 3118 (LAC) at para [39] [also reported at [2014] JOL 31867 (LAC) – Ed] the Labour Appeal Court considered failing to obey a lawful instruction to be insubordination. It made a similar finding in Motor Industry Staff Association and another v Silverton Spraypainters and Panelbeaters (Pty) Ltd and others [2012] ZALAC 42; (2013) 34 ILJ 1440 (LAC) at para [43]. Dismissal for insubordination was dealt with in National Trading Co v Hiazo (1994) 15 ILJ 1304 (LAC); (1994) 12 BLLR 53 (LAC) at 1308H–J where the Court held that the wilful flouting of the instructions of the employer justified dismissal.
+45	  The collective agreement, entered into between the employer and the union, states at clause 6.3 that “[t]he Trade Union recognises management’s authority and responsibility to plan, organise and manage.”
+46	 TSI Holdings (Pty) Ltd and others v National Union of Metalworkers of SA and others [2006] ZALAC 1; (2006) 27 ILJ 1483 (LAC) (TSI Holdings) at para [48] [also reported at [2006] 7 BLLR 631 (LAC) – Ed].
+47	  The union’s letter to the employer in defence of the petition, dated 9 June 2008, makes no mention at all of the dispute-resolution process.
+48	  26 of 2000. S 9 provides:
+ “(1) Any disclosure made in good faith by an employee – 
+ (a) who reasonably believes that the information disclosed, and any allegation contained in it, are substantially true; and
+ (b) who does not make the disclosure for purposes of personal gain, excluding any reward payable in terms of any law;
+  is a protected disclosure if – 
+ (i) one or more of the conditions referred to in subsection (2) apply; and
+ (ii) in all the circumstances of the case, it is reasonable to make the disclosure.
+  (2) The conditions referred to in subsection (1)(i) are – 
+ (a) that at the time the employee who makes the disclosure has reason to believe that he or she will be subjected to an occupational detriment if he or she makes a disclosure to his or her employer in accordance with section 6;
+ (b) that, in a case where no person or body is prescribed for the purposes of section 8 in relation to the relevant impropriety, the employee making the disclosure has reason to believe that it is likely that evidence relating to the impropriety will be concealed or destroyed if he or she makes the disclosure to his or her employer;
+ (c) that the employee making the disclosure has previously made a disclosure of substantially the same information to – 
+   (i) his or her employer; or
+   (ii) a person or body referred to in section 8,
+   in respect of which no action was taken within a reasonable period after the disclosure; or
+ (d) that the impropriety is of an exceptionally serious nature.
+  (3) In determining for the purposes of subsection (1)(ii) whether it is reasonable for the employee to make the disclosure, consideration must be given to – 
+ (a) the identity of the person to whom the disclosure is made;
+ (b) the seriousness of the impropriety;
+ (c) whether the impropriety is continuing or is likely to occur in the future;
+ (d) whether the disclosure is made in breach of a duty of confidentiality of the employer towards any other person;
+ (e) in a case falling within subsection (2)(c), any action which the employer or the person or body to whom the disclosure was made, has taken, or might reasonably be expected to have taken, as a result of the previous disclosure;
+ (f) in a case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the employee complied with any procedure which was authorised by the employer; and
+ (g) the public interest.
+  (4) For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information referred to in subsection (2)(c) where such subsequent disclosure extends to information concerning an action taken or not taken by any person as a result of the previous disclosure.”
+  None of the pre-conditions in s 9(2) is applicable.
+49	  See s 4(2)(a) of the Act above fn 12.
+50	  S 16 of the Act is quoted in relevant part at [32].
+51	 Id.
+52	  S 145 of the Act.
+53	  S 187(1) of the Act above fn 21.
+54	  See [62] above.
+55	 Id.
+56	  S 188(1) of the Act above fn 2.
+57	  See above fn 22.
+58	 Under the Labour Relations Act 66 of 1995 (“LRA”) a dismissal is automatically unfair if the reason for the dismissal is one of those set out in s 187 of the LRA. They include a dismissal where the reason therefor is that the employee exercised his or her rights under the LRA or supported a lawful activity of his or her trade union.
+59	 A dismissal is substantively unfair in terms of the LRA if there is no fair reason for it and it is not an automatically unfair dismissal.
+60	  The judgment of the Supreme Court of appeal is reported as follows National Union of Public Service and Allied Workers on behalf of Mani and others v National Lotteries Board [2013] ZASCA 63; [2013] 8 BLLR 743 (SCA); (2013) 34 ILJ 1931 (SCA).
+61	  The judgment of the Labour Court is reported as follows NUPSAW obo Mani and others v National Lotteries Board [2011] ZALCJHB 199.
+62	  NUPSAW stands for National Union of Public Service and Allied Workers. In this case it represents 10 of its members previously employed by the respondent who were dismissed. For convenience, I refer to the dismissed employees as the applicant employees.
+63	  The Chairperson was Prof A van Niekerk.
+64	  In terms of s 213 of the LRA a trade union representative is a member of a trade union who is elected to represent employees in the workplace where he or she works.
+65	  57 of 1997.
+66	  When a party has referred a dispute to the CCMA for conciliation, the CCMA assigns the dispute to one of its commissioners to conciliate the dispute or to assist the parties to resolve it through conciliation. The LRA does not anywhere oblige any party to attend a meeting in which attempts are made to reach a resolution of the dispute through conciliation but parties normally do attend such a meeting convened by the CCMA. Once a dispute has been referred to the CCMA, the parties have 30 days from the date of receipt of the referral to try and resolve the dispute before another step becomes open to one or both parties in the dispute resolution process. Such a step might be referring the dispute to arbitration or adjudication or giving a notice of strike or lock-out. The period of 30 days may be extended by agreement between the parties.
+67	  S 135(2) of the LRA provides for such an extension.
+68	  See [17] of the main judgment.
+69	  It did so in Annexure “A” to the disciplinary charges against the employees.
+70	 Essentially, s 64 lays down the procedural requirements that must be complied with for a strike or lock-out to be a protected strike or lock-out. A protected strike is one for which employees cannot be penalised by the employer. Such a strike or lock-out also does not give rise to civil liability. Such protection does not cover criminal conduct by the union or the employees in the course of the strike.
+71	 TSI Holdings (Pty) Ltd and others v National Union of Metalworkers of SA and others [2006] ZALAC 1; (2006) 27 ILJ 1483 (LAC).
+72	  S 16(1) of the Constitution reads: “Everyone has the right to freedom of expression.”
+73	  S 17 of the Constitution reads: “Everyone has the right, peacefully and unarmed, to assemble, to demonstrate, to picket and to present petitions.”
+74	  S 18 of the Constitution reads: “Everyone has the right to freedom of association.”
+75	 National Union of Mineworkers v East Rand Gold and Uranium Co Ltd [1991] ZASCA 168; 1992 (1) SA 700 (A) (NUM) at 716 [also reported at [1992] 4 All SA 78 (A) – Ed] quoting Davies and Freedland Labour Law: Text and Materials (2ed) (Weidenfields, United Kingdom 1979).
+76	 Id at 734.
+77	  S 1 of the LRA.
+78	 Id.
+79	Kentridge AJ in S v Zuma and others [1995] ZACC 1; 1995 (2) SA 642 (CC); 1995 (4) BCLR 401 (CC) at para [15].
+80	 South African Police Service v Police and Prisons Civil Rights Union and another [2011] ZACC 21; 2011 (6) SA 1 (CC); 2011 (9) BCLR 992 (CC) (SAPS v POPCRU).
+81	 South African Transport and Allied Workers Union and others v Moloto NO and another [2012] ZACC19; 2012 (6) SA 249 CC; 2012 (11) BCLR 1177 (CC) (SATAWU v Moloto).
+82	 SAPS v POPCRU above fn 80 at para [30].
+83	 SATAWU v Moloto above fn 81 at para [54].
+84	  S 200(1) of the LRA reads:
+“A registered trade union or registered employers’ organisation may act in any one or more of the following capacities in any dispute to which any of its members is a party – 
+ (a) in its own interest;
+ (b) on behalf of any of its members;
+ (c) in the interest of any of its members.”
+85	  Para [32] of the ruling of the Chairperson.
+86	I reach this conclusion upon an analysis of para [32] of the Chairperson’s ruling. Obviously, the “actions” to which the Chairperson was referring in the passage could only be found in the part of the ruling which preceded that reference. The reference to “these actions” appears in the last third of para [32] of the ruling. “These actions” are to be found in the first two-thirds of para [32]. In the first sentence of para [32] the Chairperson said: “In my view, the union overstepped the mark in its campaign to have its grievances addressed.” What follows after that up to where the quoted passage commences (in other words up to where the Chairperson says “[b]y associating themselves with these actions” which takes up the first two thirds of para [32]), the chairperson gives his reasons for the conclusion that the union overstepped the mark. The only things that the Chairperson says in the balance of the first two-thirds of para [32] of his ruling that can possibly fall within the word “actions” are reflected in (a) and (b) of [157] of this judgment.
+87	  See the passage in [156] above from the Chairperson’s ruling.
+88	  Para [31] of the Chairperson’s ruling.
+89	 Id at para [32].
+90	  See paras [10], [11], [22], [31], [33], [35] and [37] of the judgment of the Labour Court above fn 61.
+91	 Id at para [32].
+92	 Id at para [37].
+93	  S 193(2) reads as follows:
+“The Labour Court or the arbitrator must require the employer to reinstate or re-employ the employee unless – 
+ (a) the employee does not wish to be reinstated or re-employed;
+ (b) the circumstances surrounding the dismissal are such that a continued employment relationship would be intolerable;
+ (c) it is not reasonably practicable for the employer to reinstate or re-employ the employee; or 
+ (d) the dismissal is unfair only because the employer did not follow a fair procedure.”
+94	  S 187 above fn 21.
+95	  Grogan Dismissal, Discrimination and Unfair Labour Practices (2ed) (Juta & Co Ltd, Cape Town 2007) at 307–11.
+96	 Id at 309.
+97	  Grogan above fn 95 at 227.
+98	  See, for example, National Media Ltd and others v Bogoshi [1998] ZASCA 94; 1998 (4) SA 1196 (SCA) [also reported at [1998] 4 All SA 347 (SCA) – Ed] and Holomisa v Argus Newspapers Ltd 1996 (2) SA 588 (W); 1996 (6) BCLR 836 (W).
+99	  See further, Laugh It Off Promotions CC v SAB International (Finance) BV t/a Sabmark International (Freedom of Expression Institute as amicus curiae) [2005] ZACC 7; 2006 (1) SA 144 (CC); 2005 (8) BCLR 743 (CC); Khumalo and others v Holomisa [2002] ZACC 12; 2002 (5) SA 401 (CC); 2002 (8) BCLR 771 (CC); Case and another v Minister of Safety and Security and others; Curtis v Minister of Safety and Security and others [1996] ZACC 7; 1996 (3) SA 617 (CC); 1996 (5) BCLR 609 (CC) at para [27]; and clause 14 of the Regulations regarding the Code of Conduct for Broadcasting service licensees issued in terms of s 54 of the Electronic Communications Act 36 of 2005.
+100	  Grogan above fn 95 at 225.
+101	  The Code of Good Practice: Dismissal.
+
+For the applicant:
+
+V Ngalwana and N Mbelle instructed by Ndumiso Voyi Incorporated
+For the respondent:
+
+H Maenetje SC and J Brickhill instructed by Cheadle Thompson & Haysom Incorporated
+
+
+End of Document

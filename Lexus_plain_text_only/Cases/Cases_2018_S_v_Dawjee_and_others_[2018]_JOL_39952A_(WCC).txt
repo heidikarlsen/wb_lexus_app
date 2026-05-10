@@ -1,0 +1,1581 @@
+“REPORTABLE”
+
+IN THE HIGH COURT OF SOUTH AFRICA (WESTERN CAPE DIVISION, CAPE TOWN)
+CASE NO: CC45/2015
+
+In the matter between:
+
+
+
+S v Dawjee and others [2018] JOL 39952A (WCC)
+
+
+
+THE STATE
+
+and
+
+MOHAMMED SALEEM DAWJEE	Accused 1
+
+TOWBARS KING	Accused 2
+
+TOWBARS CAPE	Accused 3
+
+ARNO HEINRICH LAMOER	Accused 4
+
+DARIUS VAN DER ROSS	Accused 5
+
+KOLINDHREN (“KOLLIN/COLLIN) GOVENDER	Accused 6
+
+LOGAMBAL (“SHARON”) GOVENDER	Accused 7
+
+
+
+JUDGMENT: 19 FEBRUARY 2018
+
+
+ALLIE, J:
+
+
+At the inception of the trial, the State alleged that the accused are guilty of the following main charges:
+
+
+
+Count 1:  RACKETEERING in contravention of section 2(1)(f) read with sections 1, 2(2) and 3 of the Prevention of Organised Crime Act, No 121 of 1998 (“POCA”):
+Managing an enterprise whilst knowing or ought reasonably to have known that any person, whilst employed by or associated with that enterprise, conducts or participates in the conduct, directly or indirectly, of such enterprise’s affairs through a pattern of racketeering activity.
+[ACCUSED 1]
+
+Count 2:  RACKETEERING in contravention of section 2(1)(e) read with sections 1, 2(2) and 3 of the POCA:
+Whilst managing, employed by or associated with any enterprise, conducting or participating in the conduct of such enterprise’s affairs through a pattern of racketeering activity.
+[ACCUSED 1; 2; 3; 4; 5; 6; 7]
+
+Counts 3 – 6: CORRUPTION in contravention of section 4(1)(b) read with sections 1, 2, 4(2), 21, 25 and 26 of the Prevention and Combating of Corrupt Activities Act, 12 of 2004 (“PRECCAA”) - Corrupt activities relating to public officers (offering or giving a gratification)
+[ACCUSED 1; 2; 3]
+
+Count 7:  CORRUPTION in contravention of section 4(1)(a) read with sections 1, 2, 4(2), 21, 24, 25 and 26 of the PRECCAA - Corrupt activities relating to public officers (Accepting or agreeing or offering to accept a gratification)
+[ACCUSED 4]
+
+Count 8:  CORRUPTION in contravention of section 4(1)(a) read with sections 1, 2, 4(2), 21, 24, 25 and 26 of the PRECCAA - Corrupt activities relating to public officers (Accepting or agreeing or offering to accept a gratification)
+[ACCUSED 5]
+
+Count 9:  CORRUPTION in contravention of section 4(1)(a) read with sections 1, 2, 4(2), 21, 24, 25 and 26 of the PRECCAA - Corrupt activities relating to public officers (Accepting or agreeing or offering to accept a gratification)
+[ACCUSED 6]
+
+Count 10: CORRUPTION in contravention of section 4(1)(a) read with sections 1, 2, 4(2), 21, 24, 25 and 26 of the PRECCAA - Corrupt activities relating to public officers (Accepting or agreeing or offering to accept a gratification)
+[ACCUSED 7]
+
+Counts 11 – 15:	CORRUPTION in contravention of section 4(1)(b) read with sections 1, 2, 4(2), 21, 25 and 26 of the PRECCAA -
+
+Corrupt activities relating to public officers (offering or giving a gratification)
+[ACCUSED 1;2; 3]
+
+Count 16:	FRAUD
+
+[ACCUSED 1; 2; 3]
+
+
+
+
+Count 17: CONTRAVENTION OF SECTION 31(1) READ WITH SECTIONS 120(1)(a) AND 121 OF THE FIREARMS CONTROL ACT, NO. 60 OF 2000 (“FCA”)
+Trading in a firearm without a dealer’s license
+
+[ACCUSED 1 AND 6]
+
+Count 18: CONTRAVENTION OF SECTION 3 READ WITH SECTIONS 120(1)(a) AND 121 OF THE FIREARMS CONTROL ACT
+Possession of firearm without a license
+
+[ACCUSED 1 AND 6]
+
+Count 19: CONTRAVENTION OF SECTION 120(9)(f) OF THE FIREARMS CONTROL ACT
+Supplying false particulars in a permit or authorization
+
+[ACCUSED 1 AND 6]
+
+Count 20: CONTRAVENTION OF SECTION 120(2)(a) OF THE FIREARMS CONTROL ACT
+
+Failing to report unlicensed possession of a firearm
+
+[ACCUSED 1 AND 6]
+
+Count 21: CONTRAVENTION OF SECTION 120(1)(a), READ WITH SECTION 6(1)(b) OF THE FIREARMS CONTROL ACT, , AND REGULATIONS 1(xix) AND 13(4)(a) OF THE FIREARMS CONTROL REGULATIONS, 2004 (GN R345 IN GG 26156 OF 26.03.2004, AS AMENDED)
+A person other than the relevant Designated Firearms Officer receiving, completing and submitting an application for a license to possess a firearm
+[ACCUSED 6]
+
+Count 22: CONTRAVENTION OF SECTION 90(a) READ WITH SECTIONS 120(1)(a), AND 121 OF THE FIREARMS CONTROL ACT,
+Possession of ammunition without a license
+
+[ACCUSED 1]
+
+Count 23: CONTRAVENTION OF SECTION 120(9)(e) READ WITH SECTIONS 120(1)(a), 117 AND 121 OF THE FIREARMS CONTROL ACT,
+Using a license issued in the name of another person to procure possession of ammunition
+[ACCUSED 1]
+
+Count 24:	CONTRAVENTION OF SECTION 91(1) READ WITH SECTIONS 120(1)(b), 117 AND 121 OF THE FIREARMS CONTROL ACT,
+Possession of more than 200 cartridges for a licensed firearm
+
+[ACCUSED 1]
+
+
+
+
+Count 25:	DEFEATING OR OBSTRUCTING THE COURSE OF JUSTICE [ACCUSED 1; 2; 3]
+Count 26:	FRAUD
+
+[ACCUSED 1]
+
+Count 27:	DEFEATING OR OBSTRUCTING THE COURSE OF JUSTICE [ACCUSED 1 AND 5]
+Counts 28 – 109: MONEY LAUNDERING
+
+In contravention of section 4(a) and/or (b), read with sections 1, 4(i), 4(ii) and 8 of the POCA
+[ACCUSED 1; 2; 3; 4; 5; 6; 7]
+
+
+
+
+During the course of the presentation of the State’s case, a trial within a trial was held to determine, inter alia, the fairness of the trial with specific reference to whether the surveillance of the accused by the SAPS was lawful.
+
+Before the conclusion of the trial within a trial, accused 1 through to 6 decided to change their pleas on certain counts from not guilty to guilty and to make certain admissions in terms of section 220 of the Criminal Procedure Act 51 of 1977.
+
+
+
+The State chose to accept the pleas in terms of section 112(2) and the court, after having already considered the evidence led to date when it was presented with the change of pleas, accepted the pleas and convicted the relevant accused on their pleas.
+
+
+The State and defence brought an application to separate accused 7, who had not changed her plea, from the remaining accused but the court refused the application on the grounds that no actual prejudice to accused 7 was found to exist.
+
+
+
+The State and the defence brought an application for the acquittal of accused 7 on all counts that she had been charged with and an acquittal of accused 1 through to 6 on all counts that they had not pleaded guilty to.
+
+
+The court considered the application for acquittal.
+
+This judgment contains the reasons for the conviction of the relevant accused on the counts to which they pleaded guilty as well as the reasons for the acquittal of the relevant accused on the counts for which they sought acquittals.
+
+
+
+
+
+
+
+Law Applicable to cases in which a plea is changed after evidence has
+
+been adduced
+
+In S v Brown 2015 (1) SACR 211 (SCA) at [94] the Supreme Court of Appeal held as follows:
+“Change of plea during a trial
+[94] More than 25 years ago in S v Mokhobo 1989 (1) SA 939 (A), this court had occasion to consider s 112 of the Act, in relation to it being applied both at the commencement of proceedings, as well as after the state has led evidence and an accused has then elected to change his plea from not guilty to guilty. At 943D – E the following appears:
+'Artikel 112 vind normaalweg toepassing wanneer 'n beskuldigde by die aanvang van 'n verhoor skuldig pleit. Daar is egter niks in die artikel wat spreek teen 'n aanwending van die bepalings daarvan indien 'n beskuldigde wat aanvanklik onskuldig gepleit het sy pleit wens te verander nadat die Staat getuienis begin lei het nie — mits, natuurlik, die aanklaer bereid is om op daardie stadium 'n pleit van skuldig te aanvaar. Dit mag dan egter nie nodig wees om die beskuldigde te ondervra, of vir hom om in sy verklaring erkennings te maak, aangaande elemente van die misdaad wat reeds deur getuienis bewys is nie.'
+
+
+The court in S v Sethoga & Others 1990(1) SA 270 (A) at 275 C-E, found that a court has the duty to determine the issues raised by the accused’s initial plea of not guilty.
+“The prosecutor cannot interfere with the exercise of that duty and compel the Court”
+
+In Brown’s case the Supreme Court of Appeal held as follows at [102]:
+
+“Having regard to the authorities referred to above, Veldhuizen J was obliged, when the plea was tendered, to consider whether the plea ought to be accepted, with particular regard being paid to the effect of the evidence led up until that stage.”
+
+
+At para 103, the court in Brown found that:
+
+“In deciding on an appropriate sentence, the court below ought not to have restricted itself to bare facts contained in the plea. The tendered plea does not provide enough context nor does it present enough of a picture for the court to properly fulfil its sentencing function…. no regard can be had to evidence inconsistent with the plea.”
+
+
+In conformity with the view expressed in the paragraph above, the relevant evidence is summarised and evaluated for the purpose of taking account of the context it provides and to demonstrate why the court accepts the pleas of guilty, where applicable and how the court arrives at its decision concerning the remaining charges on which pleas of not guilty have been entered.
+
+
+Summary of evidence led
+
+Warrant Officer Wynand Wessels, the forensic investigator’s relevant testimony is as follows:
+Concerning accused 4:
+
+A cheque of R20 000 drawn on the account of accused 1 made payable to accused 4 was eventually deposited into an African Bank account of accused 4 by way of internal bank credit transfer on 3 December 2011;
+
+A further cheque of R7000 drawn on accused 1’s bank account made payable to accused 4 was deposited into accused 4’s ABSA bank account on 7 February 2012;
+From 27/4/2012 to 1/5/2012, accused 4 lived at Soeteweide Guest House and he incurred costs of R3180 which was paid by accused 2;
+On 12 December 2012, a cash cheque drawn on the bank account of accused 2 for R15 000,00 was deposited into a Standard Bank account of accused 4;
+R2000 cash was deposited into the bank account of accused 4 with the reference” Mr Dawjee” on 5 January 2013;
+On 12 July 2013 a Mercedes Benz was rented by Accused 4’s daughter, Dominique, for R10 149,30 from Cabs Car Hire and the amount was charged to the account of accused 2;
+On 19 August 2013, a cash cheque of R10 000,00 drawn on the bank account of accused 1, was deposited into a Standard Bank account of accused 4.;
+On 3 September 2013, an amount of R4000,00 was paid on the Truworths account of accused 4 which was from the First National Bank credit card of accused 1;
+On 3 September 2013, an amount of R4195,00 was paid on the Markhams account of accused 4 from the First National Bank credit card of accused 1;
+The total amount of financial benefit allegedly received by accused 4 from either accused 1 or from one of the business entities controlled by accused 1 is R75 524,30;
+
+Of the amount of R75 524,30 mentioned above, R54 000,00 were cash payments/cheque deposits;
+
+
+Concerning accused 5:
+
+Accused 5 declared in a financial disclosures form, a golf sponsorship by accused 2 to the value of R4000,00 ;
+On 11 May 2013, petrol in the amount of R697,10, was filled into a motor vehicle owned by accused 5 and debited to the account of accused 2 held at the petrol station;
+On 16 June 2013, petrol in the amount of R704,25, was filled into a motor vehicle owned by accused 5 and debited to the account of accused 2 held at the petrol station;
+On 22 June 2013, petrol in the amount of R673,00, was filled into a motor vehicle owned by accused 5 and debited to the account of accused 2 held at the petrol station;
+On 6 July 2013, petrol in the amount of R478,65, was filled into a motor vehicle owned by accused 5 and debited to the account of accused 2 held at the petrol station;
+On 15 July 2013, petrol in the amount of R771,60, was filled into a motor vehicle owned by accused 5 and debited to the account of accused 2 held at the petrol station;
+The total value of the alleged benefit to accused 5 as outlined above, is R7324,60 of which R4000,00 is a declared golf sponsorship and R3324.60 is for petrol;
+
+Concerning Accused 6
+
+On 28 February 2012, a motor vehicle was rented by accused 6 at a cost of R3643,73, which was charged to the account of accused 2;
+On 27 July 2012, a motor vehicle was rented by accused 6 at a cost of R1352,15, which was charged to the account of accused 2;
+On 13 August 2012, a motor vehicle was rented by accused 6 at a cost of R1493,04, which was charged to the account of accused 2;
+On 7 September 2012, a motor vehicle was rented by accused 6 at a cost of R1352,20, which was charged to the account of accused 2;
+On 18 September 2012, a motor vehicle was rented by accused 6 at a cost of R2004,10, which was charged to the account of accused 2;
+On 3 December 2012, a motor vehicle was rented by accused 6 at a cost of R3754,25, which was charged to the account of accused 2;
+On 4 April 2013, a motor vehicle was rented by accused 6 at a cost of R955,50 which was charged to the account of accused 2;
+On 25 June 2013, petrol in the amount of R 516,85, was filled into a vehicle owned by accused 6 and debited to the account of accused 2 held at a petrol station;
+On 4 July 2013, a Renault Clio motor vehicle, valued at R167400,20, was registered in the name of accused 2 but it bore the registration number “ KIRSH WP” and it was used by Kirshia Govender, the daughter of accused 6 and 7;
+On 24 August 2013, Mango Flight tickets valued at R2218,00 for Kirshia Govender was paid from the First National Bank credit card account of accused 1;
+
+On 4 October 2013, petrol in the amount of R 468,05, was filled into the Renault Clio and debited to the account of accused 2 held at a petrol station;
+On 10 October 2013, a Mango flight ticket valued at R1325,00 for accused 6 was paid from the First National Bank credit card account of accused 1;
+A Toyota Tazz motor vehicle’s registration was transferred from the name of Kirshia to the name of accused 2 on 5 July 2013;
+Over the period 21 November 2011 to March 2013, accused 1 paid for maintenance of the pool at the home of accused 6 and 7 in a total amount of R5777,00;
+The total value of the benefit to accused 6 is calculated at R192,260,00;
+The benefits received by accused 6 and 7’s daughter and the pool maintenance at the joint home of accused 6 and 7 were apportioned equally between accused 6 and 7;
+
+
+Concerning accused 7:
+
+On 24 February 2012 a cash deposit of R3000 was made into her Nedbank account with a reference bearing accused 1’s name.
+On 7 June 2012 a cash deposit of R5000 was made into accused 7’s bank account bearing a reference with accused 1’s name.
+On 30 November 2012 a cash deposit of R3000 was made into the bank account of accused 7 bearing a reference of accused 1’s name.
+
+On 2 January 2013 a BMW 3 series car with a contract value of R490 919,00 was registered in the name of accused 7 with accused 1 signing as surety and co-principal debtor. Accused 1 also arranged for the payments for the vehicle to be deducted by debit order from his bank account.
+On 14 March 2013 a cash cheque to the value of R10 000 drawn on a bank account of accused 1 was cashed by accused 7.
+On 22 March 2013 a BMW 5 series vehicle with a contract value of R669 001,66 was bought on the name of accused 7 with accused 1 signing as surety and co-principal debtor and authorising the payments for the vehicle to be deducted by debit order from his bank account.
+On 14 April 2013 a motor vehicle to the value of R955,50 was hired by P Govender, the son of accused 6 and 7 and the amount for the hire was charged to the account of accused 2.
+On 25 May 2013 petrol to the value of R760,25 was put into a vehicle owned by accused 7 at a petrol station and it was charged to the account of accused 2.
+On 14 June 2013 petrol to the value of R672,35 was put into a vehicle owned by accused 7 at a petrol station and it was charged to the account of accused 2.
+On 25 June 2013 petrol to the value of R725,00 was put into a vehicle owned by accused 7 at a petrol station and it was charged to the account of accused 2.
+
+On 25 June 2013 petrol to the value of R516,85 petrol was put into a vehicle owned by accused 7 at a petrol station and it was charged to the account of accused 2.
+On 4 July 2013 a Renault Clio to the value of R 167 400, 20 used by accused 6 and 7’s daughter was used registered in the name of accused 2.
+On 24 August 2013 Mango flights for accused 6 and 7’s daughter to the value of R2218,00 was paid from accused 1’s credit card account.
+On 29 September 2013 petrol to the value of R300,00 was put into a vehicle owned by accused 7 at a petrol station and it was charged to the account of accused 2.
+On 4 October 2013 petrol to the value of R468,05 was put into a vehicle driven by the daughter of accused 6 and 7 at a petrol station and charged to the account of accused 2.
+During the period October to November 2013 the maintenance of the pool at the home of accused 6 and 7 was paid for by accused 1.
+The total value of the benefits to accused 7 amount to R1360 713,86.
+
+For the period 4 January 2013 to 30 September 2013 accused 7 paid accused 1 R91 000 ostensibly for the debit orders of the vehicles.
+
+
+Cross examination of Wessels
+
+It was put to him that accused 4 had cash with which to pay his clothing store accounts but because accused 1 was with him, accused 1 wanted the cash and paid the stores with his credit card. The witness could not deny that.
+
+It was put to him that it was absurd to suggest that accused 5 would perpetrate corruption for meagre amounts but the witness could not comment on that allegation.
+Wessels agreed with accused 5’s legal representative that the prescribed form used for the disclosure or registrable interests did not make provision for the disclosure of loans or liabilities.
+It was put to Wessels that accused 6 and 7 are relatives of accused 1 and he could not dispute it.
+Wessels could not dispute that accused 6 and 7’s son was not financially dependant on them and was 26 years old at the time when accused 2 paid for a vehicle hired by him nor could he challenge the proposition that accused 7 didn’t know about it.
+Wessels agreed that accused 6 and 7’s daughter was an adult at the time when the Renault Clio vehicle was purchased for her. He couldn’t deny that Kirshia entered into an agreement with accused 1 and 2 for the purchase of the vehicle and sold her Toyota Tazz to accused 2.
+Wessels could not dispute that accused 6 paid Alphera Financial Services for the balance of Kirshia’s motor vehicle.
+He didn’t dispute that accused 7 re-paid accused 1 for the instalments he caused to be made on the vehicles initially.
+Wessels admits that the Toyota Tazz owned by Kirshia was transferred to accused 2.
+It was put to Wessels during cross examination that he is not an auditor, which he admitted, nor independent. He denied that it is unusual for an independent auditor not to be used in a case of this kind.
+
+Wessels could not dispute the proposition that is also contained in accused 7’s plea, that the BMW vehicles were bought by accused 7 but were for the benefit of accused 6.
+He couldn’t dispute that accused 7 was not aware that petrol for the BMW vehicles were paid by accused 2 because the vehicles were driven by accused 6.
+He conceded that the BMW 320 was traded in and replaced by the BMW 520 and accused 7 didn’t have the two vehicles simultaneously.
+It was also put to him that it was incorrect to apportion the total contract value of the vehicles purchased by accused 7 as a benefit but he said that he believed that but for accused 1’s assistance, accused 7 and her daughter would not have been able to obtain vehicles to that value, hence he apportioned the full contract value even though the vehicles remain under the ownership of the finance company concerned until it was full paid up.
+He admitted that the schedule to the indictment contain certain payments for pool maintenance that are duplicated for accused 6 and 7.
+He couldn’t dispute the proposition that payments to the value of R21 000,00 made by accused 1 to accused 7 were made prior to transfer of the Toyota Tazz to accused 2, but in compensation for the Toyota Tazz
+
+
+Brigadier Thiruvasigi Hansraj formerly Asaram
+
+This witness was the alleged whistle-blower. She was the station commander of Goodwood Police Station when she allegedly uncovered cause for concern about the behaviour of the accused.
+
+
+As part of her liaison duties towards local business persons in the area of Goodwood Station, she met accused 1 after he allegedly requested to meet her.
+
+
+Accused 1 told her to ensure that officer Theunis is given a better vehicle. He also invited her to his home for breakfast. He said that accused 6 and 7 as well as Lennit Max would attend but she declined the invitation.
+
+
+
+On 14 February 2012, while she was on leave she received a call from Lt Col Vlok who was distressed because accused 1 asked him to provide feedback on a docket involving the alleged illegal possession of a firearm by a young man who was driving with his deceased father’s firearm in his vehicle and was arrested. Accused 1 allegedly used foul language while threatening to harm a certain Capt Engelbrecht in a telephonic conversation that he was allegedly having with accused 5, who was the cluster commander in that area.
+
+
+Capt Engelbrecht approached the witness to complain about the rude behaviour of accused 1. The witness advised her to either open a complaint docket or speak to accused 5 since accused 1 was allegedly speaking to accused 5 at the time. Capt Engelbrecht spoke to accused 5.
+
+
+
+
+The suspect in the illegal possession of a firearm docket is Dillon Chetty who accused 1 said was his nephew. He alleged that he was granted permission by accused 6 to bring the firearm to Goodwood SAPS so that it could be destroyed. The witness explained that the normal procedure was not to expect an unlicensed member of the public to bring the firearm to the police station but police officers would instead fetch the firearm themselves. The case against Dillon Chetty was eventually withdrawn because the ballistics expert who had to testify couldn’t be found.
+
+
+On 20 February 2012 accused 1 arrived at the Goodwood Police station and asked to speak to the witness. He told her that he was there because the provincial Inspectorate of the SAPS was coming to do an inspection of that station because it’s the most racist station. He said that his brother, Colonel Naidoo would form part of the inspection. She was astonished that a civilian had so much insight into a SAPS inspection. As it subsequently transpired, the inspection was postponed to 22 February.
+
+
+She told accused 1 that she received a complaint about him being abusive towards Colonel Engelbrecht. Accused 1 became angry and demanded that Colonel Vlok come to the witness’ office immediately. He said he wanted to f… up Col Vlok. Accused 1 was breathing heavily and looked somewhat ill. Her secretary brought accused 1 a glass of water. Accused 1 wanted to call accused 4 to say that he was going to be late for a meeting and asked the witness to call accused 4. She dialled the number and then gave the phone to
+
+accused 1. Accused 1 told accused 4 that he should remember the discussion they had that weekend about Goodwood SAPS and also said he would fetch accused 4’s daughter. Accused 1 asked her to call accused 5 but he didn’t answer his phone. Then he asked her to call accused 7 which she did. He spoke to accused 7 and so did the witness. Accused 7 asked her to give accused 1 sugar water, to escort him to his car and to calm him down as he was diabetic. The witness indeed calmed accused 1 down and saw him leave the building but he returned later. She was surprised to see him again but he wanted feedback on the firearm case of Dillon Chetty. Accused 5 walked into her office with accused 1. She called Col Vlok and the branch commander, Col Izaks to provide feedback. In the docket she found a statement signed by accused 6 in which he said that accused 1 called him about a deceased person’s firearm that he wanted to have transferred onto the name of the son of the deceased. Accused 6 allegedly told accused 1 that the son should hand the firearm into the police for destruction. She called accused 5 aside and told him about how accused 1 insulted Col Engelbrecht. She went back into her office where accused 1, Engelbrecht, Izaks and accused 5 were all present. Accused 5 told the witness that she called the meeting but she didn’t call a meeting with accused 1 but did so with accused 5. Accused 5 began reading from the firearm docket to accused 1. Accused 1 asked Vlok why he had carried tales to the witness. He accused Vlok of being racist and telling lies. Vlok became tearful. Vlok felt uncomfortable because accused 5 didn’t stop accused 1. Accused 1 received a phone call and he said that it was from accused 4. He complained to the person on the phone about Goodwood SAPS. Then he said he would pick Dominique up and he would see accused 4 later at dinner. Vlok
+
+took out his firearm and placed it on the table. He told accused 5 that he could transfer him anywhere, while crying. The witness asked Col Izaks to accompany Vlok out of her office. The witness told accused 1 that his behaviour was incorrect. Then only did accused 5 also tell accused 1 that his behaviour is wrong and he should leave.
+
+
+Later after she thought accused 1 had left, he returned to her office for a third time while holding his arm around a crying Vlok. Accused 1 said he had apologised to Vlok and he kissed Vlok and said there was no case going to be made. Accused 1 looked comfortable as though he was in his terrain and Vlok looked uncomfortable and flushed.
+
+
+
+After accused 1 left her office for the third time, he met Capt Engelbrecht on the stairs, who didn’t greet him. Accused 1 came to her office for a fourth time to complain that Engelbrecht didn’t greet him. By then she was tired and told accused 1 that she would deal with it later.
+
+
+On 24 February 2012 accused 5 asked the witness to attend a meeting at accused 1’s shop as it’s a meeting with business people regarding crime in the area. When she arrived at accused 1’s shop, she was told that accused 5 was in accused 1’s office with him. She found accused 5 relaxed on a couch drinking cappuccino and there were no other business people present. Accused 1 said that the meeting was about crime around his premises. She produced statistics which showed that was no high crime incidents in that sector. The
+
+police strategy was to deploy patrol vehicles in the geographical blocks that were crime hotspots. Accused 5 said that the witness must explain the strategy to accused 1, which she did but accused 1 became irritated. Accused 1 said that the witness must inflate the statistics so that there could be more patrols around his business. Accused 5 also explained the strategy to accused 1. Accused 1 said that certain police members must be transferred. The witness said that the meeting is becoming out of order and that she was going to excuse herself from it. She stood up. Accused 5 didn’t complain about her wanting to leave. Accused 1 complained and said she had no respect for accused 5. Accused 1 said that accused 5 should be more like accused 7 and accused 4. She walked out followed by accused 1 who showed her missing drain covers and belaboured his complaints. She told him she’ll step up patrols if he has concerns about drain covers being stolen.
+
+
+Later accused 1 called her to apologise for his behaviour because his wife asked him to do so.
+
+
+Accused 5 called the witness while she was on her way to a meeting to tell her that there was a burglary at accused 1’s business premises and accused 1 complained of poor service delivery by Goodwood SAPS.
+
+
+She later discovered that accused 1 had not reported the burglary but his secretary had called the Goodwood station, asked for the witness, who was not in and hung up without reporting the burglary. She arranged telephonically for a vehicle to go out to the premises of accused 1. Later accused 1 called the
+
+witness to say that accused 4 told him to instruct the witness herself to come out to his business. She explained that she was in a meeting but accused 1 wasn’t happy. She sent Capt Dickerson to accused 1. After her meeting she asked accused 5 whether she should still attend at accused 1’s business premises and he said that she should. She didn’t believe it was necessary because police policy was to give priority to armed robberies and murders first and not burglaries. She nonetheless went to accused 1’s business. She was told that the burglar alarm wasn’t on at the time of the burglary and the cameras were not working either. No inventory was kept of the stock but she was told that approximately one million rand’s worth of stock was stolen.
+
+
+
+On 20 March 2012 there was an armed robbery at a business called Fish 4 Africa. She received a report from Warrant Officer Wilson to the effect that while she was attending the crime scene, accused 1 arrived and opened fridges and potentially contaminated the crime scene. Wilson claimed that accused 1 was aggressive.
+
+
+Accused 1 invited the witness to lunches and places where other senior police officers would attend but the witness declined the invitations. Accused 1 called her a cheeky Indian woman with an attitude.
+
+
+It bothered her that accused 1 expected preferential treatment and appeared to have so much influence and knowledge in the police force.
+
+Under normal circumstances she would have approached the cluster commander and the Provincial Commissioner of Police about her concerns but because accused 1 appeared to have a cosy relationship with them, she couldn’t approach them.
+
+
+In her first encounter with accused 1 he told her that members of Goodwood SAPS came to his business to fit tow-bars and for favours and that he helped an officer whose house had burned down. The witness told accused 1 not to entertain police members.
+
+
+She decided to register her concerns about accused 1 and his relationship with accused 4,5, 6 and 7, the expectations he had of preferential treatment and his behaviour in an Inquiry Docket which she opened and registered with Col Izaks. She didn’t mention the names of accused 4 and 5 in the docket because she didn’t want to expose them then.
+
+
+That same evening after she registered the inquiry, accused 5 called her and asked what the inquiry was about. She told him that she’s not at liberty to discuss it with him. Sergeant Jaftha, who is now accused 5’s wife, was then working at the detective branch of Goodwood SAPS.
+
+
+The following day the witness wasn’t at work. She gave a report to Major-General Mathope. She wanted to know what he was going to do with the information because she felt that she couldn’t trust anyone. He said that he would take it to Pretoria Head Office.
+
+
+
+When she returned to work, she was warned to back off by Brigadier Solomons. She felt alone because she couldn’t trust senior officers and junior officers wouldn’t come forward for fear of being victimised.
+
+
+On 28 August 2012, her husband, to who she wasn’t yet married at the time, Colonel Hansraj told her that there was a plot to discredit her with false accusations made by one, Nadeem, who sold cell-phones and who alleged that she took cell-phones from his business.
+
+
+She arranged to meet Nadeem to discuss the allegation. He didn’t arrive at the meeting place. Then she received a call from Mrs Dawjee, accused 1’s wife and that is when she discovered that Nadeem was at accused 1’s business premises. When she arrived at accused 1’s business with Colonel Gouws, Nadeem was sitting there fearfully while accused 1 spoke abusively to him. Nadeem said that the witness took nothing from him. Accused 1 threatened to beat him up. Accused 1 said he thinks that Nadeem knew of the conflict between the witness and accused 1 and tried to impress accused 1 by making false accusations against the witness.
+
+
+On 10 September 2012 the witness met Mrs Dawjee and her son Zameer at their request. They were unhappy about a search and seizure operation that had taken place at second accused’s business premises. Accused 1 arrived late at the meeting. He said something about being a member of PAGAD but the witness didn’t respond. It was put to her during cross examination that
+
+accused 1 said he was an affiliate of PAGAD. Accused 1 said that Crime Intelligence was part of the operation and he implied that that only happened because her fiancé ,who is now her husband, works for Crime Intelligence.
+
+
+She denied that she leaked the fact of the investigation of this case to the media and said that the media could have heard about the search and seizure operation.
+
+
+She received a Prestige award for excellent work performance for 2012 to 2013 because Goodwood wasn’t an under-performing station and it in fact performed quite well.
+
+
+According to the witness police management didn’t take her inquiry seriously initially. Instead, accused 4 caused police under his command to harass her by holding repetitive inspections at the Goodwood police station. She endured duplicate inspections by the Police Inspectorate and by the Auditor-General. Goodwood police station was belatedly included in a Project 21 which was designed to assist police stations that were struggling with high crime statistics although Goodwood wasn’t in need of assistance and so it became Project 22. When she queried why Goodwood Police station was included in the Project, accused 5 told her at a meeting that the reason why it was included was because of all the businesses in that area that dealt with second hand goods. General Jacobs informed her that Goodwood police station was added to the project. He was accused 4’s deputy at the time. People who formed part of the
+
+Projects were first selected for training and she wasn’t part of that selection initially.
+
+
+She begged the police management, including those to who she reported the inquiry, for feedback but it took a long time before she received any feedback. She was shunned by police leadership because she dared to open an inquiry that implicated accused 4, 5 , 6, & 7.
+
+
+She eventually met with General Matakatha who actually ensured that her inquiry was investigated. General Matakatha introduced her to Colonel Enus, the investigating officer in this case.
+
+
+The witness lodged 4 grievances about the harassment she experienced after reporting the inquiry but it didn’t receive satisfactory attention. She lodged the second grievance because she wasn’t happy with the result of the first grievance. That caused further victimisation. General Jacobs suggested she enter into mediation but she wasn’t satisfied with the outcome. The officers who dealt with her grievances worked under the command of accused 4 such as General Jacobs, Brigadier Solomons, accused 7, Colonel Buffels, General Burger and General Van Wyk. There was a need to lodge the third and fourth grievances because the first and second grievances were not adequately addressed and so the harassment escalated. She receive feedback only that her fourth grievance was sent to the National Commissioner of Police. She received no correspondence confirming receipt of her grievance from the National Commissioner’s office.
+
+
+
+She believes the successive inspections were designed to divert her attention away from the complaints that she had lodged in the Inquiry docket and she said that is how accused 4 misused his power.
+
+
+She said that accused 1 used the tactic of speaking to accused 4 or 5 on the phone in the presence of other police officers to show that he was connected and he had money and power.
+
+
+Officers at Goodwood police station noticed a man parked in a car outside the station for some hours. They asked him what he wants and he said that he wants to see the Indian lady and he was sent by accused 5. She later discovered that he was a notorious gangster. She believes his visit was an act of intimidation.
+
+
+While she was on sick leave, a Colonel Daniels was sent to sit in her office.
+
+She was compelled to remove her belongings from her office although she was only booked off for a short while.
+
+She confirmed during cross examination that accused 5 did also reprimand accused 1 when he spoke rudely to Vlok.
+
+She admitted that she didn’t hear accused 4 speak to accused 1 on the phone when the latter held out that they were speaking to one another.
+
+During cross examination, she readily conceded that throughout the harassment that she alleged she experienced after she registered the inquiry, she didn’t avail herself of the mechanisms available in the Protected Disclosures Act.
+
+
+Colonel Vernon Vlok
+
+He first met accused 1 in 2007 when he was arranging sponsorship from business people for the police soccer team. Accused 1 sponsored meat for an event of the soccer team.
+
+
+Accused 1 regularly complained about police members and about his businesses’ drain covers being stolen so he attended at accused 1’s business premises from time to time.
+
+
+He went to accused 1’s business premises on 14 February 2012 with Warrant Officer Theunis. Accused 1 was very upset and shouted over a courier service that arrived late. He told the witness that the service delivery at Goodwood police station was poor and he alleged that Captain Engelbrecht is a racist. Accused 1 then allegedly used foul language to describe how he was going to harm Engelbrecht. Accused 1 then referred to Engelbrecht’s husband who is a Lt Col and said that it is easy to have him transferred. He spoke as though he had the authority to have police officers transferred. Accused 1 said he would call the provincial commissioner, i.e. accused 4 but he wasn’t available and then accused 1 called accused 4’s driver, Danie. He asked the driver whether they received the food and whether they ate well. He also spoke about tyres
+
+that had to be fitted to a vehicle. The witness could hear the person on the other side of the line laughing when asked whether they ate well. Accused 1 then said he was going to call accused 5 who was the Bellville cluster commander at the time. He used some name on accused 5 and then he told him about Engelbrecht and how he wanted to harm her. He once again used foul language when he mentioned Engelbrecht. At that point the witness stood up and walked outside because he found it offensive. Accused 1 followed him outside and he told accused 1 that he shouldn’t speak about his fellow officers that way in his presence. The witness climbed into the car which Theunis drove. As they arrived at the police station, he noticed some t-shirts on the back seat of their car. He pleaded with Theunis to return the t-shirts because he realised that accused 1 had given it to Theunis. He informed Capt. Engelbrecht and the station commander, Asaram (who subsequently married and became Brigadier T Hansraj) about what accused 1 had said.
+
+
+On 20 February 2012, while sitting in his office, accused 1 walked in and said he’s waiting for the police inspectorate to do an inspection at the Goodwood police station and accused 1 said that he’s brother was part of the inspection.
+
+
+He found it peculiar that a civilian would know about an internal police inspection because it had nothing to do with the public. There was an inspection scheduled for later that week but not on that day.
+
+
+	At approximately midday on that same day Asaram called him to her office. He found Izaks, Asaram, accused 5 and accused 1 in the office.
+
+
+
+Accused 1 said he had a complaint. against Warrant Officer Nortje concerning an investigation of illegal possession of a firearm. He alleged that the witness was also involved but the witness said that he wasn’t part of that investigation. Accused 1 threatened to bring a civil claim against the police. Accused 1 then said that he didn’t say the derogatory things about Engelbrecht that the witness alleged he had said. The witness told the meeting verbatim what he heard accused 1 say. During cross examination, it was put to this witness that both accused 1 and accused 5 deny that those words were uttered. Accused 1 angrily alleged that the witness is corrupt and he is a pig. Accused 1 loudly reprimanded the witness for having told Engelbrecht what accused 1 said about her. He intimidated the witness. Accused 1 said that the witness and Engelbrecht must be separated. The witness didn’t feel well especially after accused 1 said that he must die. He was upset that accused 5, his cluster commander sat silently by and allowed accused 1, a civilian to speak to him that way. He took out his firearm and placed it on the table and said that he could be transferred anywhere. He went to his office and closed the door. Izaks followed him in and said accused 1 ought not to have spoken that way. The witness was crying. Approximately 10 minutes later accused 1 came into the witness’ office, kissed him on the left side of his head and said he was sorry. The witness walked to Asaram and told her that accused 1 had apologised. Later accused 1 asked him out for coffee but he declined.
+
+
+The next day accused1 called him again and said he must come take down a complaint against Engelbrecht but the witness didn’t go to accused 1.
+
+
+
+On 16 May 2012, accused 1 called the witness about drain covers that were stolen. Accused 1 said that accused 5 suggested that he call the witness. He sent Warrant Officer Roman to accused 1.
+
+
+On 25 January 2012, when it was National Police Day, accused 5 had organised a big walk from Bellville to Goodwood Civic Centre. Station commanders were seated in the hall as well as accused 1. Later accused 1 confronted the witness and asked him why he left the meeting early when people still wanted to ask him questions. He explained that his mother became ill. He couldn’t understand why he had to explain his absence to accused 1. He made a statement for this case.
+
+
+He was challenged during cross examination on how he could have heard the voice on the other side of the telephone line when accused 1 purported to be speaking to accused 5. The witness said he heard the sound of accused 5’s voice on the other side of the line.
+
+He admitted that he couldn’t hear what the person on the other side of the line was saying.
+
+
+The witness explained during cross examination that Theunis wasn’t present throughout the conversation between accused 1 and himself on 14 February 2012.
+
+He denied that accused 1 called him to his business premises on 14 February 2012 to complaint about cases he made of stolen drain covers and other acts of vandalism that the police failed to keep a record of. He could not recall the purpose of his visit on that day but he also explained that accused 1 often complained in general terms and expected preferential treatment for his complaints and he wanted extra patrols around his business but the witness believed all people should be treated the same.
+
+
+Colonel Deidre Engelbrecht
+
+She received a report from Vlok about what accused 1 said about her. Her duties included doing the grids, planning the areas of operation and setting aside focus areas for crime prevention.
+
+
+She felt humiliated and embarrassed by what Vlok told her.
+
+
+
+On 20 February 2012, she didn’t greet accused 1 when she saw him walk out of Asaram’s office.
+
+
+She was questioned concerning accused 1’s allegation that when the police fail to record the correct crime statistics, certain areas would not receive adequate patrols. She agreed that that could happen but she didn’t believe that it happened at Goodwood police station.
+
+She agreed that the statement that she made was given to Asaram and it wasn’t commissioned in her presence and the date on which it was commissioned appears to be incorrect.
+
+
+Captain Wayne Barry Theunis
+
+He was the communication officer and media liaison at Goodwood police station. He met accused 1 who gave the police a donation when they had a fun run to raise funds. Asaram became the station commander in 2009. During her tenure, there was only one occasion when accused 1 was asked to donate for a Mandela Day celebration where accused 1 donated heaters. Asaram later stopped all donations from anyone to the police. He recalled that accused 1 complained about his drain covers being stolen but he didn’t want to lodge a formal complaint and provide a statement. He remembered one occasion when he accompanied Asaram to accused 1’s business and they had a meeting inside while he waited outside. When they came out, accused 1 told Asaram that she must give the witness a new car. It did strike him as strange that accused 1 involved himself so much with police matters.
+
+
+The witness confirmed that he accompanied Vlok to accused 1’s business on 14 February 2012. He heard accused 1 say Goodwood police station is the most racist; that Colonel Engelbrecht was a racist and she allegedly only provides overtime for her friends. Accused 1 said he was going to call the provincial commissioner, then his driver and finally accused 5, the cluster commander.
+
+He heard accused 1 refer to accused 5 as a “boesman” on the phone. The witness felt uncomfortable about the disparaging words that accused 1 used when speaking about Engelbrecht and the derogatory word he used on accused 5, hence he stepped outside the business premises of accused 1 and waited outside for Vlok. Accused 1 and Vlok later walked outside and accused 1 showed Vlok where some trees were stolen. Accused 1 gave the witness two golf t-shirt but when Vlok saw the t-shirts, he said that the witness should take them back but he felt too embarrassed to do so.
+
+
+He first provided Asaram with a handwritten statement which was then typed and he later signed the typed statement.
+
+
+He explained that if a businessman wanted more patrols, that would be acceded to only if the business is in a hot spot area where a number of crimes have been reported.
+
+
+He couldn’t explain why his statement wasn’t commissioned.
+
+
+
+Warrant Officer Elsabe Nortje
+
+Stationed at Goodwood for past 9 years. She became the investigating officer in the illegal possession of firearm case. She liaised with the prosecutor who provided guidance concerning the matter. The suspect was working in Johannesburg and failed to appear in court. She asked the court to issue a warrant for the arrest of the suspect. The firearm in that case was sent to Ballistics for testing. The firearm’s serial number coincided with that of a firearm
+
+belonging to someone who lived in Pretoria. She believed she couldn’t charge a suspect if the serial number belonged to a firearm in the possession of its lawful owner. She discussed the issue with the prosecutor and the case was withdrawn. The firearm was sent for destruction at the request of the wife of the deceased owner. She said that she would normally give feedback on the progress of a docket to the complainant. Accused 1 wasn’t the complainant and he wasn’t entitled to receive feedback. Accused 1 didn’t approach her for feedback nor did the suspect contact her for feedback.
+
+
+She typed a statement for Captain Dickenson who was her superior.
+
+
+
+She couldn’t understand why accused 1 complained about the investigation of the case because the outcome was to the advantage of the suspect.
+
+
+She understood that accused 1 had threatened a civil action and there was an internal departmental inquiry about the conduct of the investigation. She told Asaram that the case was withdrawn because there was a problem with the serial number. She did so even before accused 1 lodged a complaint.
+
+
+She only saw accused 6’s statement in the docket when she prepared to testify in this case.
+
+
+Warrant Officer Wilson
+
+She was a detective who attended a robbery crime scene at Fish 4 Africa, a business in Goodwood. She was busy taking statements, speaking to the
+
+fingerprint expert and photographer. The interior of the shop had been cordoned off to enable the police to locate fingerprints and to take photos. She heard a commotion and found accused 1 leaning on a fridge, asking for his fish. He was touching the fridge and contaminating the scene. She asked him a few times to leave but it took a while before he left because he insisted on being given his fish order. Accused 1 asked her if she didn’t know who he was and she said that she didn’t. She later established who accused 1 was. She was upset with the officers who cordoned off the scene because they allowed accused 1 to go into the shop.
+
+
+Much later she went to accused 1’s business with Warrant Officer Horne. They were told to attend because it was a complaint of theft. They usually didn’t attend the scene when it involved common theft but they followed orders. She felt uncomfortable because accused 1 was speaking to them about their boss, Arno, i.e. accused 4 who he felt he needed to call in their presence. He purported to discuss a lunch arrangement and golf with accused 4.
+
+
+She wrote out her own statement and signed it but not before a commissioner of oaths. She doesn’t know how it came to be commissioned.
+
+
+Brigadier Anand Pillay
+
+He was cluster commander of Milnerton cluster in February 2013. On Saturday 15 February 2013 while he was at movies with his son, his phone rang and he could see it was the provincial commissioner who is now accused 4, that called him. When he tried to answer the call outside, it had stopped ringing. He
+
+assumed that if accused 4 called him, it had to be urgent. Immediately thereafter he received a call from accused 1 who he didn’t know at the time. Accused 1 told him that he received the witness’ number from accused 4. He said that his brother’s flat in Century City had been burgled and he wasn’t satisfied with the service he was receiving from Milnerton police. He also said that accused 6 was with him and he was the station commander of Cape Town police station and if Milnerton was not prepared to do the investigation, Cape Town would do it. The witness responded that it’s a Milnerton case and he would contact the duty officer, Colonel Sutherland. He then called Sutherland and asked her to go attend the crime scene. The witness also sent accused 4 a text message informing him that he had sent Sutherland out to the scene. After the movie at approximately 22h00, the witness called accused 1 to find out if he was satisfied and he said that Sutherland was there and he was satisfied. Accused 1 wanted to meet the witness and buy him a salomie but the witness declined the offer as he sensed that accused 1 wanted to become familiar with him.
+
+
+A few days later accused 1 called the witness again and said that he wasn’t satisfied with the attention that the case was receiving. Accused 1 said that he went to Century City and obtained the security camera footage. Accused 1 said that computers with important work on were stolen from his brother’s flat and the computers were required urgently. He said that on the footage one can see a white golf with a black fender leaving and on the back seat he could see a flat screen t.v. Later that vehicle was found in Gugulethu. Accused 1 said that there were three brigadiers sitting with him and the witness could hear voices in the
+
+background. The witness heard the female voice of accused 7 say: “Tell him if he doesn’t have anyone to do it, I can do it.” He recognised her voice because she was station commander of Tableview at the time and they spoke regularly. The witness said that it’s a Milnerton case and they are capable of investigating it. The witness then called the station commander at Milnerton, Brigadier Stander and gave him the information that accused 1 had given the witness.
+
+
+Stander went to the flat but found no video footage. Later accused 1 called the witness again and said that the white Golf was seen in Kenilworth or Mowbray and accused 1 needed the computers urgently. The witness called Stander again and said that he should give feedback directly to accused 1.
+
+
+On 21 February 2013, accused 1 called the witness and said that he wasn’t satisfied with the investigation and would like to meet the witness.
+
+
+At 14h00 on 21 February 2013, accused 1, with his son Zameer and his brother Shabir Dawjee, arrived at the witness ‘office for a meeting.
+
+
+The witness had the group commander of detectives, a cluster detective who was a relative of accused 4 and the investigating officer all present at the meeting.
+
+
+The officers gave accused 1 feedback and said that the case was receiving priority and they were doing their utmost to resolve the investigation. The witness told accused 1 that it’s a Milnerton case and he doesn’t appreciate
+
+other brigadiers from other police stations offering to do the investigation. Accused 1 responded by saying that the witness should not speak like that about accused 4 who had the right to become involved because they were friends and accused 1 would die for accused 4. The witness said that he wasn’t referring to accused 4 but to other brigadiers.
+
+
+Accused 1 said that he was going to call the Provincial Commissioner, i.e. accused 4 and he began dialling. The witness said the meeting was concluded and everyone left his office. Accused 1 spoke loudly in the passage on his phone and said: “General, this person is very arrogant and I’m not getting any assistance.” He allowed accused 1 back into his office at the request of the latter’s son. Accused 1 explained that he had known accused 4 for a very long time and that he had done a lot for the police. He funded or sponsored many projects and awards. Then accused 1 asked the witness what type of car he drives. The witness said that he drove a Mercedes Benz. Accused 1 said that he could get a BMW for the witness because he has shares in a SMG BMW dealership. Accused 1 said that he got a BMW X5 for accused 4, a BMW 1 series for General Jaftha who was deputy Provincial Commissioner, a BMW X 3 for Brigadier Petersen and Colonel Mathews and a BMW 5 series for accused
+6. Accused 1 then asked the witness if he applied for the cluster commander position at George because a Major-General’s position was advertised there. The witness deliberately told accused 1 that he didn’t apply while in fact he did. Accused 1 said that the witness is lying because accused 6 also applied for that position and he saw the shortlist and the witness wasn’t on the shortlist. The witness wanted to know why accused 1 needed the stolen computers so
+
+urgently and accused 1 said that he set his brother up in a business that supplies the SAPS with ink cartridges and he needed the invoices on the computer. The witness said he wasn’t interested in accused 1’s offer of a vehicle. After accused 1 left, the witness spoke to Lt Col Lamoer and asked him to tell accused 4 that accused 1 was using his name and it could compromise his position.
+
+
+
+A few months later the witness attended a meeting at the Provincial Command centre where he met accused 6. He jokingly told accused 6 how could accused 1 want to buy him a salomie. That evening the witness received a call from accused 1 who said that he had been informed that the witness accused him of trying to bribe him with a salomie. The witness replied that he merely joked about it.
+
+
+On 19 September 2013 he was again at the Provincial Command centre. The witness asked accused 6 how his friend, Dawjee was. Accused 6 said that the witness had formed the wrong impression of accused 1 who did a lot for the police. Accused 6 also said that on that day it was accused 1’s birthday. Accused 6 called accused 1 and said that the witness wanted to speak to him. The witness declined and said he would speak to him some other time. While driving home that day, the witness felt bad because accused 6 said accused 1 was a good person and it was his birthday, so the witness called accused 1 to wish him happy birthday. Accused 1 said he had a good birthday, there were brigadiers at his celebration and accused 4 flew down from Pretoria for his
+
+birthday. Accused 1 said that Indians shouldn’t fight one another. The witness invited accused 1 for coffee on condition that the witness pays.
+
+
+There was an event planned by the provincial commissioner in Atlantis and the witness attended. In the presence of Generals Vearey and Jacobs, accused 4 addressed the witness sternly and angrily and he wanted to know why police member’s private cars were parking on the police station’s grounds and why the grass was cut shortly before he arrived. The witness thought that those were issues to address with the station commander. He tried to explain but he didn’t want to become argumentative with the provincial commissioner, i.e. accused 4.
+
+
+The witness was cross examined by accused 1’s counsel concerning his role and responsibility as cluster commander. It was put to him that if a complainant such as accused 1’s brother wasn’t satisfied with the attention the case was receiving, he could complain to him. The witness agreed but said that there was a chain of command to follow. The complaint should first be made to the station commander but the complainant bypassed the chain of command and as a result he asked Colonel Sutherland to attend the scene herself. In his view, the case did receive priority because Sutherland, the investigating officer and the station commander were involved in the first few days after the burglary. Usually burglaries do not receive that level of attention. Fingerprints were found and a suspect was arrested within a month of the burglary. The witness believes that despite the priority given, accused 1 expected greater priority.
+
+
+
+The witness said that he ensured that the case received priority because he understood that the provincial commissioner had wanted him to give it his attention.
+
+
+He was questioned about how it is untoward for other brigadiers to have offered to assist with the investigation when Milnerton SAPS wasn’t able to act quickly. The witness said that there were no grounds upon which to conclude that Milnerton SAPS were unable to properly investigate.
+
+
+The witness said that accused 1 expected that the stolen computer had to be found soon after the burglary and he was being unrealistic because stolen goods like that are rarely recovered.
+
+
+When the witness met Asaram some time later, and she mentioned the problems she was having with Mr Dawjee, the witness remembered the problems he had encountered with Dawjee.
+
+
+Thereafter Brigadier Hansraj who works at Crime Intelligence spoke to the witness about his encounters with accused 1 and told the witness that the investigating officer, Colonel Enus would contact him. Colonel Enus did contact him and he made a statement in this case.
+
+He drafted his statement with reference to the itemised billing of his own cellular phone so that he could have the dates of contact between him and accused 1 correct.
+
+He knew that accused 1‘s telephones were being monitored but he didn’t know who the other suspects were and if their phones were monitored.
+
+
+Evaluation
+
+Since Mrs Dawjee , Zameer Dawjee and Colonel Izaks didn’t testify, I do not rely on what they allegedly informed Brigadier T Hansraj and what Zameer Dawjee allegedly told Brigadier Pillay. Their names are however included in the summary of testimony purely for the purpose of identifying who were present and in the case of Brigadier Hansraj, to explain how she came to attend at accused 1’s business premises looking for Nadeem Noor.
+
+
+The evidence led by the State sketch a milieu in which accused 1 appeared to have more knowledge about the internal working of the SAPS than most civilians and sought to utilise that knowledge and his friendship/relationship with the remaining accused to obtain preferential treatment and in some instances, a more effective and speedier resolution of his complaints, than the average person.
+
+The evidence, which is supported by the pleas of guilty on the corruption counts, also demonstrates the existence of gratifications given to accused 4, 5 and 6.
+
+
+The relevant accused’s subsequent plea of guilty and section 220 admissions are as follows:
+
+In respect of accused 1 to 3:
+
+PLEAS OF GUILTY IN TERMS OF SECTION 112(2) AND ADMISSIONS IN
+
+TERMS OF SECTION 220 OF THE CPA
+
+
+“I change my plea from not guilty to guilty and those of Accused 2 and 3 on the following counts in terms of section 112(2) and make the following admissions in terms of section 220 of the CPA:
+Count 3:
+
+I met Arno Lamoer (Accused 4), 25 years ago whilst working in Manenberg as a petrol attendant. He was a constable at Manenberg Police Station. Over the years we have remained firm friends as have our wives until Arno Lamoer’s wife passed away. We holidayed and socialized together. His children and mine grew up together and my and his children treated our separate homes as their own whilst growing up.
+
+During the period 2011 to 2013 Arno Lamoer ran into financial difficulties. I, through the services of and with the assistance of Accused 2 and 3, helped him financially. He was then a Lieutenant-General in the SA Police. I gave R20 000,00 to his daughter on her marriage in 2011, to him R7 000,00 in February 2012, R15 000,00 in December 2012, R2 000,00 in January 2013 and R10 000,00 in August 2013. In April 2012 I gave him R3 180,00 towards his holiday accommodation on the Garden Route and in July 2013 R10 149,50 towards him hiring a vehicle. I gave Arno Lamoer and his family in total over the period from December 2011 to August 2013 R67 329,50. When Arno Lamoer received his pension he repaid this amount in full.
+
+I accordingly admit that on 8 occasions during the period 3 December 2011 and 19 August 2013, and at or near the districts of Goodwood, Cape
+
+Town, and/or Bellville. I gave Accused 4, a public officer and his family, monies totaling R67 329,50.  My main intent was to help a very close friend.
+
+I admit however that at the time of the payments I foresaw as a possibility, and reconciled myself with that fact, that such payment could cause Accused 4 to give me preferential treatment when carrying out or exercising his powers, duties or functions as a police officer should I ever in the future approach him for assistance concerning police matters, conduct that is proscribed by s.4(1)(b)(i) to (iv) of PRECCA. My actions in making the aforesaid payments were accordingly wrongful and unlawful.
+
+Accused 4 did in fact directly assist or favour me in one instance in November 2013 by giving me a letter setting out my good standing with the SAPS.
+
+
+Count 4:
+
+I met Darius van der Ross through my sponsorship of various police activities in the Northern Suburbs. He was a Brigadier in the SA Police. I and Accused 2 and 3 sponsored for example a Thula Thula room at Bellville Police Station for victims of crime, police fundraising events, numerous sporting events and sponsored prizes or awards that recognized outstanding police work. As the evidence has shown I was a businessman that the police could rely on when they were in need of donations for police work.
+
+Darius van der Ross and I became house friends over the years as we shared numerous interests, mostly policing.
+
+Over a period from 30 April 2012 to 15 July 2013 I allowed Darius van der Ross to use the businesses’ petrol account on 5 instances where he bought petrol amounting to R3 324,60. Towbars Cape CC in April 2012 also sponsored his costs associated with a police golf event in an amount of R4 000,00. That sponsorship was declared and made known to the SA Police.
+
+I accordingly admit that on these 6 occasions during the period 30 April 2012 and 15 July 2013, and at or near the districts of Goodwood, Cape Town, and/or Bellville, I and Accused 2 and 3 wrongfully and unlawfully gave Accused 5 gifts totaling R 7 324.60. Our main intent was to help a very close friend of mine.
+
+I admit however that at the time of the payments I foresaw as a possibility, and reconciled myself with that fact, that such payments could cause Accused 5 to give us preferential treatment when carrying out or exercising his powers, duties or functions as a police officer should I ever in the future approach him for assistance concerning police matters, conduct that is proscribed by s.4(1)(b)(i) to (iv) of PRECCA. Our actions in making the aforesaid payments were accordingly wrongful and unlawful.
+
+I have read and confirm what is said by Accused 5 in his s.112 plea in paragraphs 9.1, 9.2 and 9.3 and confirm and admit that Accused 5 did give me the assistance he described therein.
+
+
+Count 5:
+
+Colin Govender and I are cousins. I have known him most of my life. After he, his wife, Sharon, and children moved to Cape Town our families became very close. Whenever either my wife and I or they go away, for example, then the parents staying in Cape Town look after all the children.
+
+We go on holidays together and are the closest of house friends.
+
+Over the period November 2011 to October 2013 I and Accused 2 and 3 gifted Colin R24 601,44 made up as follows:
+
+I paid for the families pool maintenance (R5 770,00);
+
+For vehicle rental (R14 554,97);
+
+Petrol expenses (R726,47); and
+
+Two flight tickets (R3 543,00).
+
+I accordingly admit that during the period November 2011 to October 2013, on at or near Goodwood, I and Accused 2 and 3 gave Accused 6, a public officer R24 601,44 as described above and on the dates there mentioned for his, and/or for the benefit of his family. Our main intent was to help a very close friend of mine and his family.
+
+I admit however that at the time of the payments I foresaw as a possibility, and reconciled myself with that fact, that such payment could cause Accused 6 to give me and Accused 2 and 3 preferential treatment when carrying out or exercising his powers, duties or functions as a police
+
+officer should we ever in the future approach him for assistance concerning police matters, conduct that is proscribed by s.4(1)(b)(i) to (iv) of PRECCA. Our actions in making the aforesaid payments were accordingly wrongful and unlawful.
+
+I have read and confirm what is said by Accused 6 in his s.112 plea in paragraph 9.1 to and including 9.8 and confirm and admit that Accused 6 did give us the assistance he describes therein.
+
+COUNT 12:
+
+I.r.o. Accused 1
+
+In February 2013 I offered to assist Brigadier Pillay, should he ever wish to obtain a BMW motor vehicle, by getting him preferential treatment at a BMW franchise in exchange for him assisting me and my brother in getting the police to do their duty expeditiously in investigating a break in at my brother’s flat and in recovering the stolen property. Such offered assistance involved me going to talk to a friend of mine at SMG Motors (who sold BMW vehicles) to ask that preferential treatment be accorded to Brigadier Pillay should he want to purchase a BMW.
+
+I admit accordingly that at the time I offered to assist should he want to purchase a BMW I foresaw as a possibility and reconciled myself to that fact that such offer could cause Brigadier Pillay to assist in getting police officers under his control to do their duty expeditiously and thereby granting me preferential treatment, conduct that is proscribed by s.4(1)(b)(i) to (iv) of PRECCA and is wrongful and unlawful.
+
+My actions in offering to assist Brigadier Pillay regarding the BMW were accordingly wrongful and unlawful.
+
+
+COUNT 13:
+
+I.r.o. Accused 1
+
+On a date in October 2013 I spoke to a Police Colonel Hiranwanlal about a VW Polo belonging to me that was in a police pound in Durban. I wanted my vehicle back. The Colonel had been told by Brigadier Colin Govender before speaking to me that the return of the vehicle to me was above board. The Colonel nevertheless refused to assist in the return of my vehicle. I impressed on him that I was a friend of the police and had sponsored numerous police events and intended to do the same in future. The Colonel swore at me, ending our conversation.
+
+
+
+I admit accordingly that when I told Colonel Hiranwanlal that I was a friend of the police and had sponsored numerous police events and intended to do the same in future I foresaw as a possibility and reconciled myself to that fact that such a statement could cause Colonel Hiranwanlal to assist me in getting my vehicle released from the pound, conduct that is proscribed by s.4(1)(b)(i) to (iv) of PRECCA.
+
+My actions in offering future sponsorships to SAPS to Colonel Hiranwanwal were accordingly wrongful and unlawful.
+
+
+COUNT 14:
+
+I.r.o. Accused 1
+
+On 14 October 2013 I gave General Matakata R1 000,00 in cash. General Matakata was known to my wife. When General Matakata visited me I gave her the money as my wife had asked me to give her a gift of chocolates. My intention was to buy her those chocolates but had never gotten around to doing so. At the time that I gave her the money I told General Matakata that the money was from my wife.
+
+I admit however that at the time of the payments I foresaw as a possibility, and reconciled myself with that fact, that such payment could cause General Matakata to give me preferential treatment when carrying out or exercising her powers, duties or functions as a police officer, either in connection with my complaints to her at our meeting about the investigation in the present case, or should I ever in the future approach her for assistance concerning police matters, conduct that is proscribed by s.4(1)(b)(i) to (iv) of PRECCA. My actions in making the aforesaid payments were accordingly wrongful and unlawful.
+
+
+COUNT 15:
+
+I.r.o Accused 1
+
+Lieutenant General Thulani Ntobela, a police officer stationed in Mpumulanga, had asked Colin Govender about obtaining tickets to attend a jazz festival in Cape Town in late 2013. Colin Govender asked me if I had spare tickets to the festival. I did have spare tickets. I phoned General Ntobela whom I had met through Colin and said he could have the spare tickets in exchange for transport when and if I went to Mpumulanga. I sent him the spare tickets.
+
+I admit however that at the time of giving of the tickets I foresaw as a possibility, and reconciled myself with that fact, that such payment could cause General Ntombela to give me preferential treatment when carrying out or exercising his powers, duties or functions as a police officer should I ever in the future approach him for assistance concerning police matters, conduct that is proscribed by s.4(1)(b)(i) to (iv) of PRECCA. My actions in making the aforesaid payments were accordingly wrongful and unlawful.
+
+COUNT 16:
+
+I.r.o Accused 1; 2 and 3
+
+I was the sole member of Towbars Cape CC (accused 2), Towbars King CC (accused 3) and Shine the Way 307 CC. All three CC’s fit towbars. On 9 October 2013 I was approached by Warrant Officer Pieterse to quote on supplying and fitting a towbar to a police vehicle. He requested me to supply three quotes.
+
+I in turn requested my employees in the three CC’s to supply quotes on supplying and fitting a towbar. They did. I failed to disclose that I was the sole member of the three CC’s to Pieterse or the SAPS. The names of the three managers of the three CC’s appeared on the quotes.
+
+The work was never carried out. Unbeknown to me Pieterse had been sent to trap me into giving him the three quotes he requested.
+
+I accordingly admit that on the abovementioned date and place and at or near Goodwood, in the district of Goodwood I wrongfully, unlawfully and intentionally defrauded Pieterse and/or the SA Police Service, by failing to disclose to Pieterse or SAPS that I was the sole member of the entities that quoted for the work to be done and accordingly were not independent quotations. The quoted prices however were not inflated and did represent market related prices for the work to be carried out.
+
+
+COUNT 25:
+
+DEFEATING OR OBSTRUCTING THE COURSE OF JUSTICE
+
+I.r.o Accused 1
+
+I admit that on or about 02.05.2012 and at or near Goodwood, in the District of Goodwood, I wrongfully, unlawfully and with the intention to defeat or obstruct the course of justice, caused a letter to be drafted in the name of an employee in the employ of Accused 2, namely Lindy-Lou Loock stating that she was not aware of any funds paid to Accused 4.
+
+
+When I caused the letter to be drafted and placed into the personal files of Lindy-Lou Loock I knew that such letter did not reflect the truth as I knew she was aware of me paying amounts that set out in items 1 – 4 of schedule 1 to the indictment to Accused 4 as such financial transactions were done with her knowledge as bookkeeper.
+
+Such letter was compiled because I was at loggerheads with Colonel Asaram and possibly would need the letter to counter her allegations that my relationship with Accused 4 was somehow corrupt. I admit that I thereby attempted to defeat or obstruct the course of justice having such a letter drafted and placed in Ms Loock’s personal file.
+
+I never used the letter in any way and the letter at all relevant times remained in the personal file of Mrs Loock.
+
+
+COUNT 26:
+
+FRAUD
+
+I.r.o Accused 1
+
+During the course of 2011 I was approached by Andre Petersen, a relative by way of his marriage to a family member, Zaida Karriem, and who was previously employed by me as a manager at Towbars King, for assistance in purchasing a vehicle for him as he did not qualify for bank finance.
+
+He contacted me and asked me to buy the car in my name and to finance the car in my name and that he would pay me the installments I had to pay to Alphera Financial Services to pay for the car. The underlying agreement between myself and Mr Petersen was that when the last installment was paid I would transfer ownership of the vehicle to him. The installments that Mr Petersen would pay me amounted to R 3 000.00, which instalment included insurance on the vehicle.
+
+Mr Petersen resided in Durban with Zaida Karriem. Mr Petersen took the Polo during May 2011 to Durban.
+
+During the early part of 2012, Mr Petersen stopped making payments to me. I contacted him and demanded the return of the vehicle as he was no longer making the payments as agreed. I also withdrew my permission for him to use the Polo. I also informed Zaida Karriem of the withdrawal of my permission for Petersen to use the vehicle and that he should return the Polo.
+
+I continued to pay the instalments due to Alphera Financial Services as set out in the instalment sale agreement.
+
+By August 2013, Mr Petersen had still not returned the Polo to me. I approached Accused 5 for assistance and requested that the matter be investigated so that the Polo can be returned. On or about 15 August 2013 I signed an affidavit drawn up by Warrant Officer McGregor that set out the above facts. The affidavit is attached hereto marked “MSD1”. A docket was opened on the charge of “use of vehicle without owner’s consent.”
+
+I was later informed by the investigating officer that he had taken the docket to the Regional Prosecutor who had then converted the charge to theft.
+
+After some investigation by the SAPS, the vehicle was eventually traced and recovered in Durban in the possession of Mr Petersen. The vehicle was eventually returned to me after I had withdrawn the charge of theft against Mr Petersen.
+
+I admit that I failed to comply with certain sub-clauses of the instalment sale agreement with Alphera Financial Services as set out on page 59 of the indictment being:
+
+The Polo was to be kept in my possession or under my control at all times;
+
+If the Polo became lost or stolen I was obliged to immediately inform Alphera in writing thereof;
+
+I was obliged to inform Alphera in writing of any change concerning;
+
+the address of the premises in which the Polo was ordinarily kept;
+the name and address of any other person to whom possession of the Polo had been transferred.
+
+I did not and had no intention of keeping the vehicle in my possession or under my control when I signed the agreement. I did not inform Alphera in writing of the address where the Polo was ordinarily kept nor did I in writing tell them of the transfer of possession to Mr Petersen.
+
+I however did honor my payment obligations to Alphera Financial Services, and paid all amounts owing to them even though Petersen stopped paying me. This company has never complained of any wrong doing on my part. I have fully paid for the car.
+
+I accordingly admit that on or about 27.05.2011 and at or near Goodwood, in the district of Goodwood, I wrongfully, unlawfully and with the intent to defraud, falsely and to the potential prejudice of Alphera Financial Services, failed to inform them of the underlying agreement I had with Petersen and that Petersen was to take possession of and use the vehicle and store the vehicle away from me.
+
+
+COUNT 27:
+
+DEFEATING OR OBSTRUCTING THE COURSE OF JUSTICE
+
+I.r.o Accused 1
+
+Mr Petersen resided in Durban with Zaida Karriem. Mr Petesen took the Polo mentioned above during May 2011 to Durban.
+
+
+During the early part of 2012, Mr Petersen stopped making payments to me. I contacted him and demanded the return of the vehicle as he was no longer making the payments as agreed. I also withdrew my permission for him to use the Polo. I also informed Zaida Karriem of the withdrawal of my permission for Petersen to use the vehicle and that he should return the Polo.
+
+
+I continued to pay the instalments due to Alphera Financial Services as set out in the instalment sale agreement as also the insurance amounts.
+
+By August 2013, Mr Petersen had still not returned the polo to me. I approached Accused 5 for assistance and advice and told him what is set out above. I made use of him firstly because I was not able to read and write fluently and secondly because he was far better equipped to explain my predicament. He in turn relayed the information to Warrant Officer Bronwyn McGregor a police officer who then drew up my statement for me. I signed it. The facts contained in such affidavit are all true and correct. The affidavit is attached here to marked “MSD1”. A docket was opened on the charge of “use of vehicle without owners consent”.
+
+I was later informed by the investigating officer that he had taken the docket to the Regional Prosecutor who had then converted the charge to theft. I had no input and played no role in such a decision.
+
+
+After some investigation by the SAPS, the vehicle was eventually traced and recovered in Durban in the possession of Mr Petersen. The vehicle was eventually returned to me after I had withdrawn the charge of theft against Mr Petersen.
+
+I failed to accurately describe the true circumstances of the alleged offence of driving a motor vehicle without the owner’s consent in that my statement says:
+“The suspect however fail (sic) to return the vehicle. He disappeared with the vehicle is (sic) now allegedly somewhere in the Durban area.”
+
+
+
+The affidavit (“MSD1”) did not reveal the following details:
+
+I intended to transfer ownership of the vehicle to Petersen when the vehicle was paid for;
+
+Petersen took possession of the vehicle for his personal use in Durban with my consent prior to me rescinding my consent;
+
+
+The Affidavit was misleading in that it failed to indicate that Petersen was allegedly using the vehicle without my consent in Durban and not the Western Cape, meaning that any crime was committed in Durban, to be investigated by Durban SAPS and not the Western Cape and its SAPS members. A Durban investigation would have deprived me of being able to call upon the assistance of Accused 5.
+
+Accordingly, I plead guilty to Defeating or Obstructing the Course of Justice. “
+
+
+In respect of accused 4:
+
+Plea of guilty in terms of section 112(2) and admissions in terms of section 220 of the CPA:
+
+“15.  I changed my plea from not guilty to guilty on the following count in terms of section 112(2) and makes the following admissions in terms of section 220 of the CPA:
+Count 7:
+
+Corruption in contravention of section 4(1)(a) read with sections 1, 2, 4(2), 21, 24, 25 and 26 of the Prevention and Combating of Corrupt Activities Act, 12 of 2004 - Corrupt activities relating to public officers (Accepting or agreeing or offering to accept a gratification)
+I admit that:
+During the period December 2011 to September 2013, on the dates mentioned in Column 2 of Schedule 1 and at or near the places mentioned in Column 4 of Schedule 1, in the districts of Goodwood and/or The Cape, I, being a public officer as described in the Preamble, wrongfully and unlawfully agreed to accept and/or accepted from Accused 1 to 3 the gratifications (in the form of loans) described in the Preamble and mentioned in Schedule 1, for my benefit and/or for the benefit of any other person, in order to act personally or by influencing another person so to act, in a manner prescribed in section 4(1)(i) to
+(iv) of PRECCAA (as described in the Preamble).
+I further wish to state that no favours were done for acc 1 to 3 up and until
+17 November 2013 (sworn affidavit of investigating officer dated 30 September 2013 refers).
+I accordingly admit that I wrongfully, unlawfully and intentionally gave a letter of good standing to accused no 1 for the benefit of accused 1 to 3 in a manner as prescribed in section 4(1)(i) to (iv) of PRECCAA (as prescribed in the PREAMBLE). I admit that my intention to commit the crime was dolus eventualis as when I gave the aforesaid letter of good standing I foresaw as a possibility that such letter would play a role in what is prescribe in the PREAMBLE.”
+
+
+
+In respect of accused 5:
+
+PLEAS OF GUILTY IN TERMS OF SECTION 112(2) AND ADMISSIONS IN
+
+TERMS OF SECTION 220 OF THE CPA
+
+
+“8.1  I change my plea from not guilty to guilty on the following counts in terms of section 112(2) and make the following admissions in terms of section 220 of the CPA:
+
+Count 8:
+CORRUPTION in contravention of section 4(1)(b) read with sections 1, 2, 4(2), 21, 25 and 26 of the Prevention and Combating of Corrupt Activities Act, 12 of 2004 (“PRECCAA”) – Corrupt activities relating to public officers (offering or giving a gratification).
+Over a period from 11 May 2013 up to and including 15 July 2013 I, with the permission of Accused 1, used the petrol account of Accused 2 and/or Accused 3 on 5 instances to the value of R3 324,60. I filled my personal vehicle with petrol to the value mentioned above. Accused 1 also sponsored me for a police golf event in the amount of R4 000,00 in April 2012. That sponsorship was declared and made known to the SA Police in the prescribed manner.
+I accordingly admit that on 5 occasions during the period 11 May 2013 up to and including 15 July 2013, at or near the places mentioned at numbers 2 to 6 in Column 4 of Schedule 2, in the districts of Goodwood and/or The Cape, I, being a public officer as described in the Preamble, wrongfully, unlawfully and with dolus eventualis agreed to accept and/or accepted from Accused 1 to 3 the gratifications mentioned above and described in the Preamble (excluding the R4000.00 golf sponsorship) for my benefit.
+I admit that my intention to commit this crime was dolus eventualis as when I accepted the aforesaid gratifications I foresaw the possibility that such gratifications would induce me in the execution of my duties to act, personally or by influencing another so to act in a manner that amounts to improper preferential treatment of Accused 1, 2 or 3. Despite forseeing this possibility, I still accepted the gratifications.
+
+
+Accordingly I admit the following interventions by me, which amounted to improper preferential treatment in favour of Accused 1:
+
+In and during August 2013, Accused 1 called me from Parow Arms. He indicated that he needed certain documents to be certified. He said he needed me to assist him. I immediately contacted Lt. Williams and told him to go to Parow Arms to assist Accused 1, which he did.
+
+In and during August 2013 I assisted Accused 1 in opening a case for use of a motor vehicle without the owner’s consent. Accused 1 informed me that the vehicle was in Durban. I personally took his statement and gave instructions to my officers to expedite the investigation. I gave this matter my personal attention and improperly prioritised its investigation.
+
+During the period from May 2013 onwards, Accused 1 approached me for police assistance and/or to complain about
+
+police service delivery. When he did so, I would give him improper preferential treatment personally or by directing others to do so.”
+
+
+In respect of accused 6:
+
+PLEAS OF GUILTY IN TERMS OF SECTION 112(2)
+
+“7.	I plea guilty to the following counts in terms of section 112(2) and make the following admissions in terms of section 220 of the CPA:
+
+COUNT 9: CORRUPTION in contravention of section 4(1)(a) read with sections 1, 2, 4(2), 21, 24, 25 and 26 of the Prevention and Combating of Corrupt Activities Act, 12 of 2004 – Corrupt activities relating to public officers (Accepting gratifications).
+
+
+During the period November 2011 to October 2013, on the dates mentioned in Column 2 of Schedule 3 and at or near the places mentioned in Column 4 of Schedule 3, in the district of Goodwood, Accused 6, being a public officer as described in the Preamble, wrongfully, unlawfully and with dolus eventualis accepted from Accused 1 to 3 the gratifications described in the Preamble and mentioned in Column 3 of Schedule 3 (excluding item 14 of Column 3 of Schedule 3) for the benefit of Accused 6 :
+
+
+Mohamed Saleem Dawjee (Accused 1) and I are cousins. I have known him most of my life. Our families are supporting each other when the need arises from time to time with loans and business arrangements. We go on holidays together and are the closest of house friends. Over the period November 2011 to October 2013 I received the following gratifications in the amount of R 24 601,44 from Accused 1, 2 and 3:
+Payment of pool maintenance (R5 770,00);
+For vehicle rental (R14 554,97);
+Petrol expenses (R726,47);
+Two flight tickets (R3 543,00).
+
+
+I admit that my intention to commit this crime was dolus eventualis as when I accepted the aforesaid gratifications I foresaw the possibility that such gratifications would induce me in the execution of my duties
+
+to act, personally or by influencing another so to act in a manner that amounts to improper preferential treatment of Accused 1, 2 or 3. Despite forseeing this possibility, I still accepted the gratifications.
+
+Accordingly, and with the above mentioned personal acts and influences by me, I admit to the following interventions referred to in Schedule 6 of the indictment :
+
+During February 2013 I was willing to go to an address in Gugulethu after hours to check on a vehicle which was used in a burglary of at the house of Accused 1’s brother in the event that the Cluster Commander of Milnerton, Brigadier Pillay, had not have anybody available to do so. (Item 17).
+
+During February 2013 I introduced W/O Knoetzen to Accused 1 in my office to assist Accused 1’s daughter with an appeal in respect of her fire-arm license application. (Item 25).
+
+Lieutenant General Ntombela, a police officer stationed in Mpumulanga, asked me about obtaining tickets to attend a jazz festival in Cape Town in late 2013. I asked Accused 1 if he had spare tickets. Accused 1 then contacted General Ntombela and gave his spare tickets to General Ntombela directly. (Item 12).
+
+During July 2013 I introduced Captain Hendricks to Accused 1 to assist him with an application to temporarily possess a fire-arm in terms of a regulation 86(4) form. (Item 26).
+
+During July 2013 I requested Constable de Jager to hand over a Norinco pistol to Accused 1 in terms of the regulation 86(4) form. (Item 32 & 34).
+
+During July 2013 I arranged an appointment for Mr Ross with the designated police officer, Captain Hendriks, to assist Ross with the application for a fire-arm license. Ross accordingly attended at the Cape Town police station and Hendricks assisted him with the motivation of the application. (Item 36).
+
+During August 2013 Accused 1 enquired from me to make printouts of his and his wife’s fire-arm registrations to see whether he would qualify for another firearm. I then asked W/O Knoetzen to make the printouts. (Item 43).
+
+During October 2013 I called detective commander at the SAPS Phoenix to assist Accused 1 with the clearance and handover of the Polo vehicle which was recovered (and not stolen) as per the docket. (Item 64 & 65).”
+
+
+In respect of accused 7:
+
+In her plea of not guilty to Count 10, accused 7 provides the following explanation:
+Ms Govender denies that she received, accepted, agreed or offered to accept any gratification from Accused 1, 2 or 3 either for the benefit of herself or for the benefit of another person.
+Ms Govender denies that any gratification was accepted by her in order to act in a manner that amounts to illegal, dishonest, unauthorised exercise, carrying out or performance of any powers, duties or functions arising out of her legal obligations as a public officer and more specifically that she received gratifications corruptly in furtherance of the private, personal or business interests of Accused 1 to 3.
+Ms Govender denies that she accepted or received any gratification that amounts to the abuse of her position of authority, a breach of trust or in violation of her legal duties as a public officer or to influence her to use her office or position to advance the interests of Accused 1 to 3.
+Ms Govender denies that she received any gratification in order to act in a manner designed to achieve an unjustified result.
+Ms Govender denies that she attempted, conspired, aided, abetted, induced, incited, instigated, instructed, commanded or counselled any other person to commit an offence as listed in the Prevention and Combating of Corrupt Activities Act.
+Ms Govender engaged with Accused 1, a family member, in his personal capacity in legitimate and lawful contractual transactions as set out below.
+Ms Govender did not enter into any unlawful or illegal transactions with Accused 1, 2 or 3.
+Ms Govender had no mens rea to engage in any illegal or unlawful transactions with Accused 1, 2 or 3.
+Ms Govender denies that she received gratifications from Accused 1 to 3 in furtherance of an ongoing scheme with a common purpose.
+Ms Govender denies that she:
+
+offered or displayed any favours in work-related activities to Accused 1, 2 or 3; or
+influenced another Police employee to do or not to do any favours for Accused 1, 2 or 3; or
+engaged in any transaction or action with Accused 1 – 3 that was in conflict with or infringed on the execution of her official duties; or
+acceded to any demands by Accused 1 or that she was required by Accused 1 to use her official position and influence at all.
+The items listed in Schedule 4 were justified transactions pursuant to mutually accepted contractual obligations between adult and authorised parties to wit Accused 1 and 6 and Ms Govender.
+	Item 1, 2, 3, 4 and 6 refer to pool maintenance at the residence of Ms and Mr Govender (Accused 6) which was paid from the account of Accused 2 in a total amount of R5 777…
+The pool maintenance service was rendered by a company (Pool People) in terms of a contract between Accused 1 and the Pool People which maintenance was provided to five different properties (including the pool of Ms Govender and her husband - Accused 6) paid for by Accused 2. The underlying agreement between Accused 1 and Accused 6 was that Accused 6 will reimburse Accused 1 on a monthly basis.
+Accused 1 was reimbursed on a monthly basis for all the above payments.
+Ms Govender denies that the pool maintenance was a gratification or a gift or a registerable interest as contemplated in the Financial Disclosure Framework applicable to senior public officers.
+The pool maintenance contract made legitimate business sense.
+
+
+Cash Deposits:
+Items 5; 7; 8 and 10 refer to cash deposits into the Nedbank account of Ms Govender from the account of Accused 1 in the total amount of R21 000,00.
+These amounts were instalments for the sale of a Toyota Tazz from Accused 6 to Accused 1 in the amount of R30 000,00 during January 2013.
+Ms Govender denies that any cheques drawn on the bank accounts of Accused 1, 2 or 3 was paid into her bank account.
+
+BMW 320i:
+Item 9 refers to a BMW 320i with a contract value of R490 919,00 which vehicle was registered on 2 January 2013 in the name of Ms Govender. Accused 1 executed a suretyship and acted as co-debtor pertaining to the financing of the BMW 320i. Accused 1 also authorised BMW Financial Services to debit his account in respect of obligations arising from the finance agreement.
+The explanation of Ms Govender is that Accused 6 wanted to buy the BMW 320i during November 2012. The requirement of BMW Financial Services in their standardised application forms was to submit details of a co-debtor and that of a surety. Accused 1 forms part of the SMG Fleet Portfolio and has access to a facility allocated to him by BMW South Africa. Accused 1 introduced various members of Police senior management to SMG and all those transactions were also facilitated by Accused 1. Accused 1 acted on that basis as co-debtor and surety for the BMW 320i and in that capacity signed an authority for BMW Financial Services to use his account as co-debtor and to act as surety for Ms Govender.
+The BMW 320i was registered in the name of Ms Govender but was exclusively used and driven by Accused 6.
+The first four payments were debited against Accused 1’s account in the amount of R7,983.38 on the first day of January, February, March and April 2013 which payments were reimbursed to Accused 1 from the Nedbank account of Ms Govender.
+The sale agreement between BMW Financial Services and Ms Govender with Accused 1 as co-debtor and/or surety was a lawful agreement and not a concealed or undisclosed transaction.
+
+
+BMW 520D:
+A BMW 520D with a contract value of R669 001,65 was registered in the name of Ms Govender on 22 March 2013.
+The explanation by Ms Govender is that Accused 6 who used the BMW 320i traded it is on a second-hand BMW 520D. Similar requirements by BMW Financial Services applied regarding a co-debtor and a surety. Accused 1 again facilitated the transaction and acted as co-debtor and executed a suretyship.
+The instalments which were debited against Accused 1’s account by BMW Financial Services in monthly amounts of R10 951,53 were in close proximity reimbursed from Ms Govender’s Nedbank account to Accused 1’s FNB account.
+Ms Govender paid the rest of the instalments from April 2014 directly into the bank account of BMW Financial Services and still to date pays
+
+the instalments although the vehicle has been used from April 2013 to date by Accused 6.
+Ms Govender therefore denies that Items 9 and 11 are correct inasmuch that it states that an amount of R490 919,00 was debited to her account on 2 January 2013 and that an amount of R669 001,66 was debited to her account on 2 April 2013.
+The BMW 320i and the BMW 520D sale agreements between Ms Govender, BMW Financial Services and the suretyships by Accused 1 for both vehicles made legitimate business sense between family members.
+Petrol:
+…
+The explanation of Ms Govender is that the petrol payments in respect of Items 13, 14 and 15, were for the BMW 520D driven and used exclusively by Accused 6 and the petrol slips were signed for by Accused 6. The petrol payments in Item 16, 19 and 20 were for the Renault Clio which was driven and used exclusively by Kirshia Govender and the petrol slips were signed for by Kirshia.
+Ms Govender therefore denies that the petrol items in Schedule 4 were gratifications received or accepted or agreed to be accepted by her. She never purchased petrol on Accused 2’s petrol account.
+Ms Govender further denies that she directly or indirectly accepted the petrol payments for the benefit of Accused 6 or Kirshia as she had no knowledge of the transactions or that she ought to have known about the existence of such transactions. Accused 6 used the BMW 520D for work purposes and Kirshia used the Renault Clio exclusively for transport while she was a student.
+
+
+Vehicle Rent Paid:
+Item 12 refers to the rental of a Nissan by P Govender at the value of R955,50 and paid for by Accused 2.
+Ms Govender denies that she received, accepted or agreed to accept a gratification relating to the rental of a Nissan by P Govender for the account of Accused 2.
+Ms Govender denies any knowledge of the rental or that she ought to have known about it.
+Ms Govender denies that any cars were rented by her for the account of Accused 1, 2 or 3.
+Mango Flights:
+Item 18 of Schedule 4 refers to a payment made by Accused 2 for a Mango return flight ticket in the amount of R2 218,00.
+
+Ms Govender denies that she was a passenger on those particular flights and/or that the flights were booked for her and/or that a flight ticket was purchased for her by either Accused 1, 2 or 3 at any stage. It appears from the transaction details that the flights were booked for Kirshia Govender by Accused 1 and paid for from his credit card account.
+Ms Govender denies that she received, accepted or agreed to accept the flight tickets as a gratification for the benefit of Kirshia Govender.
+
+
+Renault Clio:
+Item 17 refers to the sale of a Renault Clio with registration number KIRSH WP in the amount of R167 400,20. Accused 1 is reflected as the person responsible for the purchase of this car as his identity number is reflected in Item 17. Ms Govender was advised that Accused 1 applied to Alphera Finances for the financing of the purchase.
+Accused 1 facilitated the purchase of the Renault Clio with the assistance of Alphera Finances and the Renault was registered in the name of Accused 1. Kirshia used the car. Ms Govender paid instalments from a Nedbank account into the FNB account of accused 1.
+On 3 February 2014 Accused 6 paid the outstanding balance of R163,217.38 to Alphera Finance.
+Ms Govender denies that the purchase of the Renault Clio was received, accepted or agreed to be accepted as a gratification by her for the benefit of Kirshia.
+Paragraph 119 in the indictment refers to assistance by Ms Govender to Accused 1 to gain possession of a Volkswagen Polo motorcar in Durban from Petersen and that she intervened placing SAPS resources at the disposal of Accused 1. This is false and consequently denied.
+
+
+
+COUNTS 28 – 109: EXPLANATION:
+Ms Govender denies that she knew or ought reasonably to have known that any property or part thereof or any service, advantage, benefit or reward was allegedly derived, received or retained in connection with or as a result of any alleged unlawful activity carried on by either Accused 1, 2 or 3.
+Ms Govender denies any knowledge of unlawful activities carried on by Accused 1, 2 or 3 and/or whether any proceeds of such allegedly unlawful activities were property used in any agreement, arrangement or transaction listed in Schedule 4.
+
+Ms Govender denies that she performed any act with such property to the effect that or to have the effect of concealing, disguising the nature, source, location, disposition or movement of the said property for the following reasons:
+She did not know or ought to have known that the source of the property used to pay for the pool maintenance, the petrol, the renting of cars, the flight tickets and the cash deposits into her bank account were alleged proceeds of criminal activities.
+She did not conceal or disguise or disposed the movement of the said property - it was clearly reflected in bank statements, petrol slips the rental agreement and on the flight booking and was not received, issued to or signed by Ms Govender.
+The BMW 320i and BMW 520D purchases were transparent and well documented transactions, the source of which was BMW Financial Services.
+The transactions in Schedule 4 were not declared in terms of the Financial Disclosure Framework simply because it was not registrable interests or gifts.
+The transactions were not material advantages that were not available to the general public.
+Ms Govender denies that she acted unlawfully or with mens rea regarding the alleged unlawful activities of Accused 1, 2 or 3 and/or regarding the proceeds of any such alleged unlawful activities.
+Ms Govender admits that on or about 4 October 2013, that Accused 4 (the Provincial Commissioner) called her about a complaint of Accused 1 and instructed her to enquire about the complaint. Ms Govender admits that she instructed one Colonel Anthony to attend to the complaint as a result of Accused 4’s call to her.
+
+
+In view of the State failing to adduce evidence to disprove accused 7’s plea explanation that:
+The BMW motor vehicles were acquired for accused 6 and that the petrol utilised in those vehicles were also for accused 6’s benefit,
+The pool maintenance payments made by accused 2, was made in terms of an agreement between accused 1 and 6 (which accused 6 accepted in his plea as a gratification),
+
+Airline ticket to the value of R2 218,00 has been accepted by accused 6 as his gratification,
+there are no further alleged gratifications attributed to accused 7 which remain unexplained.
+
+
+
+The State did not adduce evidence of accused 7’s interventions on behalf of accused 1, 2 and 3.
+
+
+
+Brigadier Hansraj’s s testimony concerning accused 7’s alleged interventions are:
+that accused 7 asked her to calm accused 1 down and see him out of the building.
+that accused 7 behaved aggressively towards her in a meeting chaired by accused 5 and harassed her for causing an investigation into the accused’s conduct.
+
+
+
+Neither of the above allegations constitute proof of the commission of an offence by accused 7 for which she is charged in this case.
+
+
+
+Brigadier Pillay alleged that when accused 1 called him to say that the vehicle driven by the suspect during the burglary at his brother’s flat had been seen in
+
+Gugulethu, he heard accused 7’s voice in the background and he heard her say that if Milnerton police cannot pursue the vehicle, she can.
+Although Pillay was challenged during cross-examination on how he knew it was accused 7 speaking, he provided a plausible answer to the challenge as set out in the summary of his evidence earlier.
+
+
+
+Accused 6 confirms his willingness to go to Gugulethu. The allegation that accused 7 also expressed her willingness to do so, is not disproved. The court accepts that accused 7 accordingly offered to assist accused 1.
+
+
+That offer does not however amount to unduly preferring accused 1 in compensation for gratifications provided because no gratifications to her were proved beyond reasonable doubt.
+
+
+
+The corruption charge is the predicate offence for which a conviction is required to succeed in the POCA related charges.
+
+
+Law Applicable to the offence of Corrupt Activities involving a Public
+
+Officer
+
+PRECCAA is the primary anti-corruption legislation in South Africa. It was enacted to deal more comprehensively with the corrosive scourge of corruption in all its manifestations than previous anti-corruption statutes. It provides a general offence of corruption; creates offences in respect of corrupt activities
+
+relating to specific persons; offences in respect of persons in an employment relationship; offences in respect of corrupt activities relating to specific matters and various offences relating to possible conflict of interest and other unacceptable conduct as well as offences of accessory to or after an offence, attempt, conspiracy and inducing another person to commit an offence.
+
+
+
+Section 4(1)(a)(i)(aa) which describes offences in respect of corrupt activities relating to public officers contained in Chapter 2, Part 2 of the Act provides as follows:
+‘(1) Any─ (a) public officer, who directly or indirectly, accepts or agrees or offers to accept any gratification from any other person, whether for the benefit of himself or herself or for the benefit of another person; or (b) . . . in order to act, personally or by influencing another person so to act, in a manner─ (i) that amounts to the─ (aa) illegal, dishonest, unauthorised, incomplete, or biased; or (bb) . . . exercise, carrying out or performance of any powers, duties or functions arising out of a constitutional, statutory, contractual or any other legal obligation; . . . is guilty of the offence of corrupt activities relating to public officer
+
+
+The primary motivation for the enactment of PRECCAA is set out in its preamble which inter alia, reads as follows:
+
+“WHEREAS the Constitution enshrines the rights of all people in the Republic and affirms the democratic values of human dignity, equality and freedom;
+
+AND WHEREAS the Constitution places a duty on the State to respect, protect, promote and fulfil all the rights as enshrined in the Bill of Rights;
+
+AND WHEREAS corruption and related corrupt activities undermine the said rights, endanger the stability and security of societies, undermine the institutions and values of democracy and ethical values and morality, jeopardise sustainable development, the rule of law and the credibility of governments,  and  provide  a  breeding  ground  for  organised  crime;
+
+AND WHEREAS the illicit acquisition of personal wealth can be particularly
+
+damaging to democratic institutions, national economies, ethical values and the rule of law;
+
+AND WHEREAS there are links between corrupt activities and other forms of crime, in particular organised crime and economic crime, including money-laundering;
+
+AND WHEREAS corruption is a transnational phenomenon that crosses national borders and affects all societies and economies, and is equally destructive and reprehensible within both the public and private spheres of life, so that regional and international cooperation is essential to prevent and control corruption and related corrupt activities;…”
+
+
+Section 4 (1) (b) deals with misconduct by the corruptor which can take the form of either direct or indirect gratifications. That sub-section goes on to describe the element of intent that must be present.It merely uses the words: “ in order to act…”. It doesn’t qualify the intent of the corruptor in seeking an undue intervention from the corruptee. No provision is made in sub-section 4(1)
+(b) for a direct or indirect intent because it is an integral part of the offence that the corruptor must have intended to provide a gratification with the specific intent of deriving some undue benefit.
+
+
+
+Elements of the offence of corrupt activities relating to public officers as contained in sections 4(1) and 4(2) of “PRECCAA” are as follows:
+There must have been an offer of or actual gratification given to a public officer;
+That gratification must be given for the purpose of moving the public officer to act in a manner that amounts to the unlawful exercise of or the failure to exercise his duty, functions or authority. This requirement contemplates an improper act or omission i.e. unlawfulness.
+
+That act must be designed to achieve an unjustified result i.e. intention.
+
+This aspect is the consequence of improper conduct which leads to an undue result.
+
+
+In Selebi v The State 2012(1) SA 487 (SCA) the appeal court held as follows concerning the elements of the offence of corrupt activities:
+“ [9] The first element (acceptance) is self explanatory and does not require any elucidation. As for the second element (gratification) it is said to include ‘money, whether in cash or otherwise’. The third element (inducement) depends on whether receipt of the gratification is directed at procuring the recipient to act in one or more of the ways as set out in the subsection. I have dealt with ‘unlawfulness’. Just as with ‘unlawfulness’, ‘intention’ referred to in (e) above, is not specifically mentioned in the definition section of the PCCA Act but the definition must be construed as requiring intention. The recipient must have the required intention at the moment he receives the gratification. Snyman says: ‘[I]ntention always includes a certain knowledge, namely knowledge of the nature of the act, the presence of the definitional elements and the unlawfulness. A person has knowledge of a fact not only if she is convinced of its existence, but also if she foresees the possibility of the existence of the fact but is reckless towards it; in other words she does not allow herself to be deterred by the possibility of the existence of such fact. She then has intention in the form of dolus eventualis.’ “
+
+
+The court said the following at para 39 of Selebi’s case concerning the element of intention in section 4(1) of the Act:
+“ Intention / mens rea
+[39] I turn to consider the question whether the State succeeded in proving beyond reasonable doubt that the payments were received from Agliotti and any quid pro quo was afforded with the requisite mens rea. I have already alluded to the fact that s 4(1)(a)(i) of the PCCA Act does not specifically refer to intention but rather uses the words ‘in order to act, personally or by influencing another person so to act . . .’. According to Burchell these words at least import some ‘intention’ element. Besides, there is a presumption in our law that mens rea is required for a contravention of a statutory provision. In the case of a contravention of s 4 of the PCCA Act the legislature has made it easier for the State to prove
+
+the presence of ‘intention’. Section 24 of the PCCA Act provides that once the prosecution has proved that gratification (payment) was accepted or agreed and the State can show that despite having taken reasonable steps, it was not able with reasonable certainty to link the acceptance of the gratification to a lawful authority or excuse on the part of the person charged, and in the absence of evidence to the contrary which raises reasonable doubt, it is sufficient evidence that the person charged accepted such gratification of that person ‘in order to act’ in a manner envisaged in s 4 of the PCCA Act. The provisions relate to a rebuttable presumption of mens rea, including knowledge of unlawfulness, which is rebuttable by the person charged.”
+
+
+
+The minority judgment in Selebi provides direction concerning the interpretation of section 4(1) read with section 4 (2) as follows:
+“[97] Section 4, in my view, does not require an agreement between the corruptor and the corruptee, nor does it require a quid pro quo from the corruptee. It must be plainly understood that the conviction in this case on the evidence that established an agreement and the giving of a quid pro quo, is not the low water mark of the section.
+On the view that I take of s 4, the trial court would have been justified to convict the appellant even without a finding that he had provided a quid pro quo. Section 4 (1)(a)(ii) reads: ‘Any public officer who . . . accepts . . . any gratification from any other person . . . in order to act, . . . in a manner that amounts to – (aa) the abuse of a position of authority; (bb) a breach of trust; or (cc) the violation of a legal duty or a set of rules; is guilty of the offence of corrupt activities relating to public officers.’
+Section 25 of the PCCA Act supports the wide interpretation of s 4. It provides: ‘Whenever an accused person is charged with an offence under Part 1, 2, 3 or 4, or section 20 or 21 (in so far as it relates to the aforementioned offences) of Chapter 2, it is not a valid defence for that accused person to contend that he or she– (a) did not have the power, right or opportunity to perform or not to perform the act in relation to which the gratification was given, accepted or offered; (b) accepted or agreed or offered to accept, or gave or agreed or offered to give the gratification without intending to perform or not to perform the act in relation to which the gratification was given, accepted or offered; or (c) failed to perform or not to perform the act in relation to which the gratification was given, accepted or offered.’ ”
+
+
+	In casu the civilian accused, namely accused 1, 2 & 3 have all admitted in their plea of guilty that they provided accused 4,5 & 6 with gratifications.
+
+
+
+
+Accused 4, 5 & 6 were public officers at the time when they received those gratifications. They admitted in their pleas that they received the gratifications from accused 1, 2 or 3.
+
+
+
+Accused 1, 2 & 3 further admitted in their plea that they provided the gratifications for the purpose of obtaining assistance or preferential treatment for accused 1 or for persons that accused 1 sought assistance for.
+
+
+Accused 4, 5 & 6 admitted in their pleas that they provided accused 1 or those for who he sought assistance, with undue interventions.
+
+
+Accused 1,2,3,4,5 & 6 all admitted that the acts made by accused 4,5 & 6 had the effect of unjustifiably preferring accused 1 or those persons on whose behalf he sought their intervention.
+
+
+
+It has been said that corruption is a crime of double intention. The corruptee/recipient must not only intend to receive the gratification but also do so in order to act in a certain way. There can be no doubt that not only did accused 4 to 6 receive financial benefit from accused 1 to 3, but also intended to and did cause themselves or other police officers to give preferential treatment to accused 1, 2 and 3 and to use police officers to do accused 1’s bidding.
+
+
+
+
+The State adduced no evidence on counts 1 and 2, i.e. the alleged racketeering in contravention of the POCA and asked for an acquittal on those counts.
+
+
+
+Similarly the State led no evidence on counts 28 to 109, i.e. the alleged money-laundering offences in contravention of the POCA and asked for an acquittal on those counts.
+
+
+The State was clearly content to proceed with the predicate offences which may have given rise to the POCA offences.
+
+
+I turn now to deal with the remaining counts on which the accused pleaded not guilty and for which an acquittal is sought.
+
+
+
+COUNT 6:
+
+This count relates to the allegation that accused 1 to 3 have committed corrupt activities relating to a public officer, namely, accused 7 by offering or giving her gratifications.
+
+
+
+Accused 6 and 7 are married and share a common household and have common children.
+
+The alleged gratifications given to accused 7 are summarised in Warrant Officer Wynand Wessels, the forensic investigator’s relevant testimony above.
+
+
+
+Accused 6 admits in his section 112(2) plea that the gratifications allegedly received by accused 7 were in fact destined for him and that he enjoyed the benefit of those gratifications and provided accused 1 to 3 with interventions therefor.
+
+
+In the absence of a plea of guilty by accused 7, the evidence adduced read with the admissions of accused 4 to 6 do not constitute proof beyond reasonable doubt that accused 1 to 3 committed the offence of corrupt activities in relation to accused 7.
+
+
+
+COUNT 11:
+
+This count concerns accused 1 to 3 allegedly offering or giving a gratification valued at R5 000 to Warrant Officer Ainslee for the setting of bail for an accused in a Lansdowne case on 18 April 2011.
+
+
+
+No evidence was led and no admissions were made concerning this count.
+
+Accused 1 to 3 stand to be acquitted on this count.
+
+Charges other than corruption, for which accused 1 to 3 only pleaded guilty
+COUNT 16:
+
+The summary of substantial facts incorporated into the indictment relating to this count are as follows:
+“FRAUD
+(Accused 1 to 3)
+IN THAT during or about the period 09.06.2011 to 09.10.2013, on the specific dates mentioned in Column 2 of Schedule 9 and at or near Goodwood, in the district of Goodwood and/or Cape Town, in the district of The Cape, Accused 1 to 3 wrongfully, unlawfully and with the intent to defraud, falsely and to the prejudice, either real or potential, of the SA Police Service, and/or SAPS officials mentioned in Column 3 of Schedule 9.
+Gave out to the aforesaid SAPS that the quotations to the value of R42 610,00 submitted by Accused 2, Accused 3 and Shine the Way 307 CC mentioned in Columns 4, 5 and 6 of Schedule 9 and were fair, competitive, independent, proper and genuine quotations; and/or
+Failed to reveal to the abovementioned persons and/or entities, when there was a legal duty so to reveal, that the abovementioned quotations were directed by Accused 1, and/or Accused 1 was the sole member of all three of the bidders, as described in the Preamble.”
+
+
+
+Accused 1, 2 and 3 pleaded guilty to this count in the following manner:
+
+“40. “I was the sole member of Cape Tow-Bar CC (accused 2), Tow Bar King CC (accused 3) and Shine the Way 307 CC.  All three CC’s fit towbars.  On 9 October 2013 I was approached by Warrant Officer Pieterse to quote on supplying and fitting a towbar to a police vehicle. He requested me to supply three quotes.
+
+I in turn requested my employees in the three CC’s to supply quotes on supplying and fitting a towbar. They did. I failed to disclose that I was the sole member of the three CC’s to Pieterse or the SAPS. The names of the three managers of the three CC’s appeared on the quotes.
+
+The work was never carried out. Unbeknown to me Pieterse had been sent to trap me into giving him the three quotes he requested.”
+
+
+The preamble to the indictment contains the following allegations:
+
+”53.  The system, for the procurement of goods and services for State institutions is governed by Section 217 of the Constitution, Act No. 108 of 1996. It is required that the relevant [Supply Chain Management (“SCM”) system must be fair, equitable, transparent, competitive and cost-effective.
+Chapter 4 of the SAPS national supply-chain management instructions (“SCMIs”) contains instructions requiring price quotations for the acquisition of goods and services for the SAPS. Prospective suppliers must apply to be listed in a register that must be kept. Price quotations must only be invited from suppliers appearing on the list of prospective suppliers.
+In terms of Paragraph 4.2.1.10 of the SCMIs, at least 3 price quotations must be obtained for the provision of goods and services above R2000.
+The Pocket Guide for the Invitation and Consideration of Price Quotations (“PGICPQ”), issued by the SAPS SCM Division, contains guidelines relevant to quotations for the supply of goods and services. In terms of Paragraph 9.1.2 of the PGICPQ, at least 3 written quotations must be obtained from suppliers appearing on the list of prospective suppliers for the acquisition of goods and services above the value of R2000 but not exceeding R30 000.
+It is implicit in the Constitutionally required fair, equitable, transparent, competitive and cost-effective SAPS SCM system that the prescribed 3 quotations must properly be quotations from three different suppliers who are independent of each other and who do not each know what the other competing quotations are. Any quotation from a supplier who is not independent of the others or who bears knowledge of or controls any of the competing quotations would fall foul of the requirements.
+In some instances, bidders were required to sign a “Certificate of independent bid determination”, in which the declarant certified that there had been no consultations, communications, agreements or arrangements with any competitor regarding the contents of the respective bids, including the price.
+Various SAPS officials are involved in processing the applications for acquisitions based on the required three quotations and approving the highest scoring qualifying quotation, based on the lowest price quoted. Such SAPS officials reasonably rely on the required three quotations as genuine, in the sense that they are truly supplied from three independent suppliers, with no knowledge of the details or price of the
+
+other bids, so as to comply with the fairness, equity, transparency, competitiveness and cost-effectiveness that is required.
+As indicated in Chapter 1 above, Accused 1 was the sole member of Accused 2 and 3. Accused 2 and 3 were registered on the SAPS list of supplier.
+On 05.04.2004, Shine the Way 307 CC (‘STW 307), registration number 2004/031968/23 was incorporated.
+Accused 1 was registered as the sole remaining member of STW 307 on 05.09.2005.
+STW 307 traded as Bullbar Towbar Manufacturers (“BTM” at Shop 2, Joe Hattingh Street, N1 City, Goodwood. This is the same address as Accused 2.
+STW 307, STW 307 trading as BTM and/or BTM were not registered on the SAPS list of suppliers.
+Information was received that Accused 1 engaged in “cover quoting” to provide SAPS applicants for tow-bar fittings with three quotations, including from Accused 2 and 3 and BTM. As a result, two operations in terms of section 252A of the Criminal Procedure Act, No 51 of 1977 (“CPA”), were conducted on 28.02.2013 and 09.10.2013. Both revealed that the three quotations produced to the agents purportedly from Accused 2, 3 and STW 307, trading as BTM, were generated from the same premises at the same time, under Accused 1’s directions.
+The quotation dated 27.03.2013 was, as SAPS required, accompanied by a “Declaration of interest” (“DOI”) form. The names and identity numbers of the bidders and “Full details of directors/trustees/members/shareholders” were indicated on the DOI forms.
+The DOI forms failed to indicate that Accused 1 was the sole member of all three bidders.
+…
+…
+...
+...
+...
+As a result of Accused 1 to 3’s misrepresentations and failures to reveal the truth, the SAPS payment to Accused 2 in each case was thus not a payment that was fair, equitable, transparent, competitive, and cost-effective.”
+
+Fraud has been described by CR Snyman:  Criminal Law 6th ed  (2014) at
+
+523 as the unlawful and intentional making of a misrepresentation which causes actual prejudice or which is potentially prejudicial to another.
+
+
+
+I have emphasised the elements of the offence above.
+
+
+
+The bases on which accused 1, 2 and 3 plead guilty is the failure to disclose: -
+
+That accused 1 had the sole financial interest in each of the three Close Corporations whose quotations he provided;
+That the quotations were accordingly not those of three independent juristic entities that held themselves out to be willing to do the required work and supply the necessary goods.
+
+
+
+The plea contains the exculpatory statement that the prices in the quotations were market related prices.
+
+
+
+The patently obvious purpose of requiring three independent quotations, is to ensure that the SAPS is able to select the most cost effective one. The prejudice or potential prejudice to the SAPS lies in it being denied the opportunity to make that selection in circumstances where each juristic entity would not know the other’s best price and where the true market value could be independently tested.
+
+The nature of the intention present in the plea on this count is not one where accused 1, 2 and 3 foresaw that the representation may be false but nonetheless decided to make it.
+
+
+Accused 1, 2 and 3, through the conduct of accused 1, who held sole ownership of all three close corporations, actually knew that those close corporations were not independent from one another but nonetheless proceeded to hold out that they were. Dolus directus is accordingly applicable to the intention exercised here.
+
+
+COUNTS 17 – 21:
+
+COUNT 17:
+
+This count concerns an allegation that accused 1 and 6 traded in a firearm, by selling it or giving possession of it to a person who is not entitled to such possession, when they did not have a firearm dealer’s licence.
+
+
+
+Item 37 of Schedule 6 to the indictment summarises the State’s allegations concerning this count as follows:
+“On 15.08.2013 Accused 1 took the Norinco to Brussels Stockmakers, Parow to have it refurbished. Ross went with Accused 1. He was introduced as the intended new owner.
+As a non-licence holder and notionally permitted Storer in terms of FCR 86(4), Accused 1 was not permitted to remove and transport the Norinco from the place of storage, being the safe at his residential address in Plattekloof.
+
+Accused 1 was unable to produce a licence. He produced instead the FCR 86(4) form.
+A few days later, Brussels Stockmakers called Ross to inform him of the costs of repair, which he authorized.
+On 21.08.2013, Brussels Stockmakers called Ross to collect the Norinco.
+Ross called both Accused 1 and 6 to confirm that he could collect the Norinco. Both Accused 1 and Accused 6 assured Ross that the FCR 86(4) form was sufficient, as long as he stored the Norinco in the prescribed safe that he had installed.
+Sometime thereafter, Ross paid the refurbishment bill, collected the Norinco and stored it in his safe.”
+
+
+No evidence was led concerning this count.
+
+
+
+
+COUNT 18:
+
+This count concerns the same firearm mentioned in count 17, but is a charge of accused 1 allegedly being in unlawful and wrongful possession of the firearm and accused 1 and 6 causing the firearm to be placed in possession of Mr Ross when none of them had a licence to possess that firearm.
+
+
+
+COUNT 19:
+
+This count contains the allegation that accused 1 and 6 knew that Mrs Mullins, whose deceased husband owned the firearm, was not the lawful possessor of the firearm, but nonetheless caused the completion of a Regulation 86(4) form in which a false impression was created that Mrs Mullins had the lawful
+
+authority to grant accused 1 permission to store the firearm on her behalf. This count relates to the same firearm mentioned in counts 17 and 18.
+
+
+
+COUNT 20:
+
+This count concerns accused 1 and 6’s alleged failure to report that Mr Ross was in unlawful possession of the firearm referred to in counts 17 – 19.
+
+
+
+COUNT 21:
+
+This count concerns accused 6 allegedly having wrongfully, unlawfully and intentionally caused Hendricks to receive complete and submit a firearm licence application for Mr Ross when Hendricks wasn’t the designated firearms officer for Durbanville or Goodwood.
+
+
+
+No evidence was led in support of the allegations contained in counts 17 to 21.
+
+
+
+It is patently clear that the allegation that accused 1 and 6 caused Mr Ross to have possession of the relevant firearm encompasses implicit allegations that formed the basis of counts 18 to 20.
+
+
+In my view, counts 18 to 20 amount to a duplication of charges.
+
+Accused 6’s section 220 admission in para 9.6 reads as follows:
+
+“9.6. During July 2013 I arranged an appointment for Mr Ross with the designated police officer, Captain Hendriks, to assist Ross with the application for a fire-arm license. Ross accordingly attended at the Cape Town police station and Hendricks assisted him with the motivation of the application. (Item 36.)”
+
+
+
+The above-stated does no more than admit that accused 6 procured an appointment for Mr Ross with Captain Hendricks.
+
+
+
+Accused 6’s admission does not go far enough in that it does not include a statement that accused 6, in arranging the appointment between Mr Ross and Captain Hendricks, knew that Captain Hendricks would receive, complete and submit Ross’ application to possess a firearm. Accused 6’s admission does not constitute sufficient proof that he knew exactly what role Captain Hendricks would play in rendering assistance to Mr Ross, as envisaged by count 21.
+
+
+
+Accused 1 and 6 therefore stand to be acquitted on counts 17 to 20 and accused 6 ought to be acquitted on count 21.
+
+
+
+COUNT 22:
+
+This count concerns accused 1 allegedly purchasing ammunition without having a licence to possess the ammunition. Accused 1 allegedly used SAPS
+
+printouts from their database showing that accused 1 and his wife were licence holders.
+
+
+
+Accused 6 admitted that he provided accused 1 with said printouts.
+
+
+
+
+Paragraph 9.7 of accused 6’s admissions reads as follows:
+
+“9.7 During August 2013 Accused 1 enquired from me to make printouts of his and his wife’s fire-arm registrations to see whether he would qualify for another firearm. I then asked W/O Knoetzen to make the printouts. (Item 43).”
+
+
+Accused 6 was not charged with count 22. Accused 1’s intention to use the printouts and his wife’s firearm licence for the unlawful possession of ammunition and his alleged possession were not proved as no evidence was led on this count.
+
+
+
+COUNT 23:
+
+This count concerns accused 1 allegedly using his wife’s firearm licence to obtain possession of the ammunition mentioned in count 22.
+
+
+
+No evidence was led of facts in support of this count and no admissions were made concerning this count either.
+
+Accused 1 accordingly stand to be acquitted on this count.
+
+
+
+
+COUNT 24:
+
+Concerns accused 1 allegedly purchasing ammunition for a different calibre firearm than that mentioned in count 23 .No evidence was led and no admissions were made concerning this allegation.
+
+
+
+Accused 1 accordingly stands to be acquitted on this count.
+
+
+
+
+COUNT 25:
+
+The basis upon which the state alleged in the indictment that accused 1 had defeated or obstructed the course of justice is set out in the preamble to the indictment as follows:
+“DEFEATING OR OBSTRUCTING THE COURSE OF JUSTICE
+Accused 1 became aware that there was a DPCI investigation concerning his allegedly corrupt relationship with Accused 4, including giving gratifications to Accused 4. On or about 02.05.2012, Accused 1 caused affidavits to be drafted and signed by employees in the employ of Accused 2, namely Annelise Theron, Lindy-Lou Loock and Togieda Moosa. Each affidavit was to the following effect:
+Accused 1 and Accused 4 had been acquainted for over twenty years;
+Each of the deponents was not aware of any funds paid to Accused 4;
+Each of the deponents was aware of donations to the SAPS;
+In the case of Lindy-Lou Loock, no financial transactions were done without her knowledge as bookkeeper.
+
+Accused 1 said that he wanted the affidavits to “counter Col Asaram”. Accused 1 was well aware that he had by then given Accused 4 the gratifications mentioned in items 1 to 4 of Schedule 1, in the case of item 1 using the bank account of Accused 3 and in the case of item 3, using the bank account of Accused 2. Accused 1 was well aware that the affidavits did not reflect the truth. They were designed to mislead the DPCI investigation then current and conceal the gratifications that he, and/or Accused 2 and/or Accused 3 had given to Accused 4.”
+
+
+
+Accused 1 admitted in his plea that he wrongfully, unlawfully with the intention to defeat or obstruct the course of justice, caused a letter to be drafted in the name of an employee of accused 2, in which she stated that she was not aware of any funds paid to accused 4. Accused 1 further admitted that he knew that the employee knew that he had made certain payments for accused 4 because the employee was the bookkeeper. Accused 1 also admitted that he acquired the letter for the purpose of countering allegations that his relationship with accused 4 was somehow corrupt.
+
+
+
+Snyman at 327 describes the offence of defeating or obstructing the course of justice as unlawfully and intentionally engaging in conduct which defeats or obstructs the course of or administration of justice.
+
+
+The words emphasised above constitute the elements of the offence.
+
+
+
+The offence often encompasses other offences and those could include, inter alia, fraud, forgery or perjury.
+
+On accused 1’s admission, the letter contains false information. That information is undoubtedly a misrepresentation. On accused 1’s admission, the letter was designed to counter allegations of corruption. The potential prejudice lies in the administration of justice being impeded by that misrepresentation.
+
+
+
+When viewed in conjunction with accused 1’s plea of guilty on count 3, there can be no doubt that accused 1 knew that the representation contained in the letter was false. His intention to conceal the true position in the letter amounts to him subjectively knowing that the representation is false and nonetheless proceeding to cause the letter to be drafted and kept under his control with the intention of hampering an investigation into alleged corruption. The intent present here is dolus directus.
+
+
+
+COUNT 26:
+
+This count concerns accused 1 failing to disclose certain material facts to Alphera Financial Services, a company that entered into a credit agreement with accused 1 for the purchase of a motor vehicle which was to be paid by accused 1 in instalments.
+
+
+
+The following material provisions of the agreement set out in the summary of substantial facts to the indictment are as follows:
+“116. Accused 1 intended at all times not to comply with all the following standard clauses in the ISA with Alphera that stipulated the following:
+
+3.1 – Ownership of the Polo remained with Alphera until all amounts due in terms of the ISA were paid;
+7.1.1 – Accused 1 was obliged to keep the Polo in his possession or under his control at all times;
+– Accused 1 may not have sold the Polo, nor have ceded, assigned or delegated any of his obligations in terms of the ISA, nor let or parted with possession of the Polo;
+7.7 – Accused 1 may not have parted with possession of the Polo;
+9.1 – If the Polo became lost, Accused 1 was obliged immediately to inform Alphera in writing;
+13. – If the Polo was kept on any premises not owned by Accused 1, he was obliged immediately to notify Alphera of the name and address of the owner of the premises;
+ – Accused 1 was obliged to inform Alphera in writing of any change concerning:
+– the address of the premises in which the Polo was ordinarily kept;
+– the name and address of any other person to whom possession of the Polo had been transferred.”
+
+
+
+The indictment contains the following allegations concerning this count:
+
+“117.  The abovementioned clauses are designed to provide the financier who retains ownership of the vehicle under an ISA with adequate security against the risk of loss, given the inherent risk attaching to the purchaser not possessing the vehicle for the duration of the Isa.
+Accused 1 misled Alphera, to its prejudice or potential prejudice, by pretending that the ISA was genuine and by failing to reveal that, in fact, the ISA was simulated to provide credit to Petersen, who was blacklisted, and that Accused 1 intended to ignore all the abovementioned provisions in the ISA when he concluded the ISA.”
+
+
+
+Accused 1’s plea contains the following relevant admissions:
+
+“55.	I admit that I failed to comply with certain sub-clauses of the instalment sale agreement with Alphera Financial Services as set out on page 59 of the indictment being:
+
+The Polo was to be kept in my possession or under my control at all times;
+
+If the Polo became lost or stolen I was obliged to immediately inform Alphera in writing thereof;
+
+I was obliged to inform Alphera in writing of any change concerning;
+
+the address of the premises in which the Polo was ordinarily kept;
+the name and address of any other person to whom possession of the Polo had been transferred.
+
+I did not and had no intention of keeping the vehicle in my possession or under my control when I signed the agreement. I did not inform Alphera in writing of the address where the Polo was ordinarily kept nor did I in writing tell them of the transfer of possession to Mr Petersen.
+…
+I accordingly admit that on or about 27.05.2011 and at or near Goodwood, in the district of Goodwood, I wrongfully, unlawfully and with the intent to defraud, falsely and to the potential prejudice of Alphera Financial Services, failed to inform them of the underlying agreement I had with Petersen and that Petersen was to take possession of and use the vehicle and store the vehicle away from me.”
+
+
+Accused 1 says in his plea that the vehicle was recovered, returned to him and he paid Alphera Financial Services in full.
+
+
+
+The facts admitted by accused 1, for which no evidence has been led, prove potential prejudice.
+
+
+Accused 1 knew the true position concerning the facts that he omitted at the time when he transacted with Alphera.	His intention was to advance the
+
+interest of Petersen to the potential prejudice of Alphera.  The intent here is
+
+dolus directus.
+
+
+
+
+COUNT 27
+
+This count refers to item 51 of Schedule 6 to the indictment which reads as follows:
+“Accused 1 and Accused 5 failed in the affidavit accurately to describe the true circumstances of the alleged offence of driving a motor vehicle without the owner’s consent. In particular, the affidavit did not reveal the following details:
+The ISA with Alphera was a simulated transaction in terms of which Petersen, and not Accused 1, was the actual purchaser;
+Petersen would immediately take possession of the Polo and keep and use it in Durban, obviously with Accused 1’s consent, inasmuch as this was necessary;
+If Accused 1 validly withdrew his consent for Petersen to use the Polo after Petersen failed to honour the agreement to continue the monthly payments, Petersen was using the Polo without his consent in Durban.
+In all the circumstances, Accused 1’s affidavit was calculated to mislead and cause the false impression that the failure to pay amounted to the offences of use without the owner’s consent and/or theft. If so, the affidavit falsely created the impression that such offences had occurred, or at least commenced, in the SAPS Bellville Cluster area.
+The misleading affidavit was calculated wrongly to vest SAPS and Accused 5 with the criminal jurisdiction to investigate what was essentially a civil dispute for breach of contract that had occurred in Durban.
+Ultimately, the misleading affidavit was calculated to facilitate Accused 5’s improper intervention to assist Accused 1 to recover the Polo.”
+
+
+
+On a reading of the above paragraph and the affidavit of accused 1 annexed to his section 112(2) plea, it is clear that accused 1 did indeed fail to disclose the following:
+
+That he intended to transfer ownership of the vehicle to Petersen when the vehicle was paid for;
+That Petersen took possession of the vehicle for his personal use in Durban with his consent prior to him rescinding his consent.
+
+
+
+The intent of accused 1 was that of actual knowledge that the omissions would serve to cause SAPS Durban to investigate a criminal case.
+
+
+
+No evidence was adduced concerning the statement at the trial.
+
+
+
+There is no evidence that accused 5 knew that the omissions of accused 1 as stated above existed at the time when he commissioned the affidavit.
+
+
+Accused 5 accordingly stand to be acquitted on count 27.
+
+
+
+Accused 1 pleads guilty to this count and was convicted on that plea. Accused 1 with full knowledge of the correct facts, concealed them and in so doing acted with direct intent, i.e. dolus directus.
+The evidence led in this trial reached the stage where it only made out a case for accused 1 to 6 to meet concerning corrupt activities and the influence peddling that accompanied that offence.
+
+In the absence of sufficient evidence concerning the counts for which the accused pleaded not guilty, this court finds that the State has not discharged its onus of proof beyond reasonable doubt and the accused stand to be acquitted on those charges.
+
+
+IT IS ORDERED THAT:
+
+ACCUSED 1, 2 & 3:  MOHAMED SALEEM DAWJEE  (Personally and as
+
+representative of accused 2 and 3)
+
+Count 1:  Racketeering - NOT GUILTY Count 2:  Racketeering - NOT GUILTY Count 3:   Corruption - GUILTY
+Count 4:	Corruption - GUILTY Count 5:	Corruption - GUILTY Count 6:	 Corruption - NOT GUILTY Count 11:	 Corruption- NOT GUILTY Count 12:	 Corruption-GUILTY
+Count 13:	Corruption-GUILTY
+
+Count 14:	Corruption-GUILTY
+
+Count 15:	 Corruption-GUILTY Count 16:	Fraud - GUILTY
+
+Count 17:	Trading in a firearm without a dealer’s license - NOT GUILTY
+Count 18:	Possession of firearm without a licence - NOT GUILTY
+
+Count 19:		Supplying false particulars in a permit or authorization - NOT GUILTY
+Count 20:		Failing to report unlicensed possession of a firearm - NOT GUILTY
+Count 22:	Possession of ammunition without a license - NOT GUILTY
+
+Count 23:	Using a license issued in the name of another person to procure possession of ammunition - NOT GUILTY
+Count 24:	Possession of more than 200 cartridges for a licenced firearm - NOT GUILTY
+Count 25:	Defeating or obstructing the course of justice - GUILTY Count 26:	Fraud - GUILTY
+Count 27:	Defeating or obstructing the course of justice - GUILTY Counts 28 – 109: Money laundering - NOT GUILTY
+
+
+ACCUSED 4: ARNO HEINRICH LAMOER
+
+Count 2:	Racketeering - NOT GUILTY Count 7:	 Corruption - GUILTY
+
+Counts 28 – 109: Money laundering - NOT GUILTY
+
+
+
+
+ACCUSED 5: DARIUS VAN DER ROSS
+
+Count 2:	Racketeering - NOT GUILTY Count 8:	 Corruption - GUILTY
+Counts 28 – 109: Money laundering - NOT GUILTY
+
+
+
+
+ACCUSED 6: KOLINDREN GOVENDER
+
+Count 2:	Racketeering - NOT GUILTY Count 9:	 Corruption - GUILTY
+Count 17:		Trading in a firearm without a dealer’s licence	-NOT GUILTY
+Count 18:	Possession of firearm without a licence: NOT GUILTY
+
+Count 19:		Supplying false particulars in a permit or authorization: - NOT GUILTY
+Count 20:	Failing to report unlicensed possession of a firearm: NOT GUILTY
+Count 21:  Causing a person other than the relevant Designated Firearms Officer receiving, completing and submitting an application for a licence to possess a firearm - NOT GUILTY
+
+Counts 28 – 109: Money laundering - NOT GUILTY
+
+
+
+
+ACCUSED 7: LOGAMBAL (“SHARON”) GOVENDER:
+
+Count 2: Racketeering - NOT GUILTY Count 10: Corruption: - NOT GUILTY
+Counts 28 – 109: Money laundering - NOT GUILTY
+
+
+
+
+
+
+JUDGE R. ALLIE

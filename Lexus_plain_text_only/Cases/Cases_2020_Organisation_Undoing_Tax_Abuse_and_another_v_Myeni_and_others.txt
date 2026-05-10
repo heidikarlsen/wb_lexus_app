@@ -1,0 +1,1166 @@
+
+
+
+
+Organisation Undoing Tax Abuse and another v Myeni and others [2020] JOL 47337 (GP)
+Judgments Online
+
+Division: Gauteng, Pretoria
+Case No: 15996 / 2017
+Hearing Date(s): 27 / 01 / 2020; 28 / 02 / 2020
+Judgment Date(s): 27 / 05 / 2020
+Bench: RG Tolmay J
+
+
+Keywords
+
+
+Corporate and Commercial — Company director — Declaration as delinquent director — Section 162(5) of the Companies Act 71 of 2008
+
+Mini Summary
+
+
+The first defendant (Myeni) was chairperson of the board of the second defendant (SAA) until 2017.
+
+In the present proceedings, the plaintiffs sought an order declaring Myeni a delinquent director in terms of section 162(5) of the Companies Act 71 of 2008. Four sets of transactions were relied on to support their claim. To expedite matters, the plaintiffs only led evidence on two of those.
+
+Held that section 162(5) states that a court must make an order declaring a person a delinquent director if while a director, he grossly abused the position; took personal advantage of information or an opportunity, or intentionally or by gross negligence inflicted harm on the company or a subsidiary of the company; or acted in a manner that amounted to gross negligence, wilful misconduct or breach of trust or in a manner contemplated in section 77(3)(a), (b) or (c) of the Act.
+
+A declaration of delinquency under section 162(5) has the effect that a person may not serve as a director of a company for a minimum of 7 years – although the court has the power to relax the order after 3 years.
+
+Where the grounds for delinquency have been established, the court has no discretion and must grant the order. The only discretion given to the court concerns the conditions that may be attached to the order. It has been stated in case law that the four grounds for delinquency under section 162(5)(c) all share the common feature that they involve serious misconduct on the part of the director. That implicates a person who grossly abuses the position of director and acts in a way tantamount to recklessness. Objectively, Myeni’s conduct had to be weighed against the standards expected of a reasonable director in her position. Subjectively, her conduct had to be weighed against the skills, qualifications and experience she possessed.
+
+The court considered the duties imposed on a director under the Companies Act, as amplified by the Public Finance Management Act 1 of 1999. In terms of section 50 of the latter Act, all directors of SAA were subject to heightened fiduciary duties. The said legislative instruments and SAA’s corporate policy documents formed the background against which Myeni’s conduct had to be evaluated.
+
+Turning to the first transaction (“the Emirates deal”) referred to by the plaintiffs, the court noted the range of benefits posed by the deal for SAA. Despite those benefits, Myeni thwarted the signing of the deal. She was shown to have acted dishonestly, stating false facts to support her stance, and grossly abused her powers in blocking the deal. In court, Myeni’s explanation of her actions was nonsensical and contradictory. She had no reasonable grounds for blocking the Emirates deal, and was found to have breached her fiduciary duty to act in good faith, for a proper purpose and in the best interests of SAA. The failure of the deal led to irreparable harm for SAA and the country.
+
+The second transaction referred to (“the Airbus swap”) involved an agreement between SAA and Airbus to cancel their old agreement (involving onerous obligations for SAA) and to substitute it with a new deal for SAA. The new deal would have significant benefits for SAA. However, that deal was also thwarted by Myeni, who delayed the matter, and then undid the work already done in the deal and began to renegotiate the deal unilaterally – backtracking on the resolution to proceed and altering the terms.
+
+The court expressed its displeasure with the Conduct of Myeni in the trial. She was found to be a dishonest and unreliable witness. Her explanations for the inexplicable course of actions taken by her at SAA were unconvincing. Her conduct satisfied several grounds for delinquency.
+
+Issuing a declaration that Myeni was a delinquent director, the court ordered that the order subsist not just for 7 years, but for Myeni’s lifetime.
+
+ 
+[2020] JOL 47337 (GP) at 2
+
+
+
+
+TOLMAY J:  
+
+Introduction
+
+[1]    The Organisation Undoing Tax Abuse (OUTA) and the South African Airways Pilot Association (SAAPA) issued summons against Ms Duduzile Myeni (Ms Myeni), South African Airways Soc Ltd (SAA), Air Chefs Soc Ltd (Air Chefs) and the Minister of Finance. No relief was sought against SAA, Air Chefs and the Minister of Finance.
+
+[2]    The plaintiffs sought an order declaring Ms Myeni, who was the former Non-Executive Chairperson of SAA to be declared a delinquent director in terms of section 162(5) of the Companies Act 71 of 2008 (Companies Act).
+
+[3]    It is common cause that Ms Myeni was appointed as a Non-Executive Director of the SAA Board (the board) on or about 28 September 2009. She became the Acting Chairperson of the Board on or about 7 December 2012. On or about January 2015 Ms Myeni was appointed Chairperson, and on 2 September 2016 she was re-appointed as Chairperson. She served as such until 2017.
+
+ 
+[2020] JOL 47337 (GP) at 3
+
+[4]    It is also common cause, on the pleadings, that she was a member of the accounting authority of SAA as contemplated in the Public Finance Management Act 1 of 1999 (PFMA). She acted as a Non-Executive Director of Air Chefs, a subsidiary of SAA from about 28 September 2009 to 8 March 2013 and from 28 May 2015 to 30 September 2016.
+
+[5]    In the pleadings the plaintiffs focused on four sets of transactions namely the so-called Emirates deal, the Airbus deal, the BNP Capital (Pty) Ltd deal and the Ernest and Young report, to support their claim. During the trial the plaintiffs only led evidence regarding the Emirates deal and the Airbus Swap transaction to prove their case. It was argued on their behalf that they decided to do so, in order to ensure that the trial could be finalised in the allotted five weeks and they were satisfied that sufficient evidence was led to prove delinquency, as envisaged in section 162(5) of the Companies Act.
+
+[6]    The plaintiffs submitted that Ms Myeni's alleged failures and conduct also constitutes wilful and grossly negligent breaches of sections 50, 51 and 55 of the PFMA and constitutes criminal offences under section 86(2) of the PFMA. They were accordingly of the view that this matter should also be referred to the National Prosecution Authority (NPA) for further investigation.
+
+[7]    The plaintiffs called Mr Nico Bezuidenhout, the former Acting CEO of SAA and current CEO of Mango, Mr Sylvain Bosc, SAA's former  
+[2020] JOL 47337 (GP) at 4
+General Manager: Commercial (also referred to as the Chief Commercial Officer) and now Senior Vice President, Europe at Qatar Airways. Ms Thuli Mpshe, also a former SAA Acting CEO and General Manager: Human Resources, currently serving as the Acting General Manager: Human Capital (HR) at South African Express, Mr Wolf Meyer, former Chief Financial Officer (CFO) of SAA and current CFO of Saudi Arabia Airlines. Ms Avril Halstead, a National Treasury official, who previously served as the Chief Director for Sector Oversight, in which role she was responsible for overseeing SOEs. Mr Carl Stein, a practising attorney, the author of a textbook on company law, and an expert on corporate governance. Ms Myeni was the only witness for the defence.
+
+The legal framework
+
+[8]    The plaintiffs' claim is based on section 162(5) of the Companies Act which reads in relevant part as follows:
+
+A court must make an order declaring a person to be a delinquent director if the person–
+. . .
+. . .
+. . .
+. . .
+while a director–
+grossly abused the position of director,
+took personal advantage of information or an opportunity, contrary to section 76(2)(a);
+intentionally, or by gross negligence, inflicted harm upon the company or a subsidiary of the company, contrary to section 76(2)(a); (iv) acted in a manner-
+that amounted to gross negligence, wilful misconduct or breach of trust in relation to the performance of the director's functions within, and duties to, the company; or (bb) contemplated in section 77(3)(a), (b) or (c);
+. . . 
+[2020] JOL 47337 (GP) at 5
+. . .
+. . .
+. . .
+. . ."
+
+[9]    Although OUTA does not fall under the categories mentioned in section 162(2) of entities empowered to launch such an application, this Court found in an interlocutory application that OUTA qualified to bring a delinquency application based on section 157(1)(d) of the Companies Act. 1 In any event SAAPA's legal standing was never challenged and was common cause, at all times. Even in the event that another court may find that this Court erred in finding that OUTA had legal standing, there was at all times at least one plaintiff, namely SAAPA who undisputedly had the necessary standing to proceed with the matter.
+
+[10]    A declaration of delinquency under section 162(5) of the Companies Act has the effect that a person may not serve as a director of a company for a minimum of seven years.2 This is however subject to the court's power to relax the order, after three years and to place the director under probation in terms of section 162(11)(a).
+
+[11]    In Gihwala v Grancy Property Ltd,3 the SCA stated that section 162 has a protective purpose:
+
+ 
+[2020] JOL 47337 (GP) at 6
+
+". . . Its aim is to ensure that those who invest in companies, big or small, are protected against directors who engage in serious misconduct of the type described in these sections. That is conduct that breaches the bond of trust that shareholders have in the people they appoint to the board of directors. Directors who show themselves unworthy of that trust are declared delinquent and excluded from the office of director. It protects those who deal with companies by seeking to ensure that the management of those companies is in fit hands. And it is required in the public interest that those who enjoy the benefits of incorporation and limited liability should not abuse their position."4
+
+[12]    It was also stated in Gihwala that a declaration of delinquency can only be made in consequence of serious misconduct.5 The constitutionality of section 162 was attacked in that matter, but it was found that it passes constitutional muster and it was stated as follows: ". . . Patently it is an appropriate and proportionate response by the legislature to the problem of delinquent directors and the harm they may cause to the public who place their trust in them."6.
+
+[13]    Where the grounds for a delinquency order have been established under section 162(5), a court "must" grant this order. It has no  
+[2020] JOL 47337 (GP) at 7
+discretion in this regard.7 A court only has a discretion in respect of the conditions that may be attached to the order.8
+
+[14]    In Gihwala, the SCA stated that the four grounds for delinquency under section 162(5)(c) all share the common feature that they involve "serious misconduct on the part of a director".9 It was explained as follows:
+
+First, in terms of subsection 162(5)(c)(i):
+
+". . . [O]ne starts with a person who grossly abuses the position of director. . . . We are not talking about a trivial misdemeanour or an unfortunate fall from grace. Only gross abuses of the position of director qualify."10
+
+Subsection (ii) involves:
+
+". . . taking personal advantage of information or opportunity available because of the person's position as a director. This hits two types of conduct. The first, in one of its common forms, is insider trading, whereby a director makes use of information, known only because of their position as a director, for personal advantage or the advantage of others. The second is where a director appropriates a business opportunity that should have accrued to the company. Our law has deprecated that for over a century."11
+
+ 
+[2020] JOL 47337 (GP) at 8
+Subsection (iii) applies where "the director has intentionally or by gross negligence inflicted harm upon the company or its subsidiary".12
+Subsection (iv) applies–
+
+". . . where the director has been guilty of gross negligence, wilful misconduct or breach of trust in relation to the performance of the functions of director or acted in breach of s 77(3)(a)–(c). That section makes a director liable for loss or damage sustained by the company in consequence of the director having–
+
+acted in the name of the company, signed anything on behalf of the company, or purported to bind the company or authorise the taking of any action by or on behalf of the company, despite knowing that the director lacked the authority to do so;
+acquiesced in the carrying on of the company's business despite knowing that it was being conducted in a manner prohibited by section 22(1) [A company must not carry on its business recklessly, with gross negligence, with intent to defraud any person or for any fraudulent purpose];
+been a party to an act or omission by the company despite knowing that the act or omission was calculated to defraud a creditor, employee or shareholder of the company, or had another fraudulent purpose . . .'"13
+
+[15]    It was noted that "gross negligence" in subsections 162(5)(c)(ii) and (iv) is the equivalent of "recklessness".14 Recklessness and gross negligence have been described as involving:
+
+". . . a complete obtuseness of mind or, where there is no conscious risk-taking, a total failure to take care . . .;"15 
+[2020] JOL 47337 (GP) at 9
+". . . an entire failure to give consideration to the consequences of one's actions, in other words, an attitude of reckless disregard of such consequences", which includes both foreseen and unforeseen consequences;16
+"carrying [on the business of a company] by conduct which evinces a lack of any genuine concern for its prosperity."17.
+
+[16]    An objective and subjective standard must be applied in assessing gross negligence. This is made clear by section 76(3)(c) of the Companies Act, which will be dealt with later on. Objectively, Ms Myeni's conduct must be weighed against the standards expected of a reasonable director in her position. Subjectively, Ms Myeni's conduct must also be weighed against the skills, qualifications and experience she possessed. More could be expected of an experienced director, particularly a director who was on the SAA Board for more than nine years and was, by her own account, a "corporate governance expert".
+
+[17]    In Msimang NO v Katuliiba,18 the meaning of wilful conduct as envisaged by section 162(c)(iv) was described with reference to 
+
+ 
+[2020] JOL 47337 (GP) at 10
+
+Rustenburg Platinum Mines Ltd v South African Pan American World Airways Inc19 as follows:
+
+The meaning of the concept 'wilful conduct' has also been considered by our courts in the past. In Rustenburg Platinum Mines Ltd v South African Pan American World Airways Inc [1977] 1 Lloyds LR 19, (QB (Com Ct)) 564, AcknerJ (at 569) held:
+
+it is common ground that 'wilful misconduct' goes far beyond negligence, even gross or culpable negligence, and involves a person doing or omitting to do that which is not only negligent but which he knows and appreciates wrong, and is done or omitted regardless of the consequences, not caring what the result of his carelessness maybe."
+
+[18]    Breaches of section 77(3) of the Companies Act also provide grounds for delinquency. This includes knowingly acting without the board's authority under section 77(3)(a). To establish these grounds of delinquency, Ms Myeni's conduct must be assessed in light of her duties as a director under the common law, the Companies Act and the PFMA. Directors of SOEs are not only subject to the duties of ordinary company directors, but they are also subject to duties under the PFMA.
+
+[19]    Under the Companies Act, the board of directors of a company have collective and ultimate responsibility for management of the company in terms of section 66(1). Section 66(1) provides that:
+
+"the business and affairs of a company must be managed by or under the direction of its board, which has the authority to exercise all of the powers and perform any of the functions of the company, except to the extent that this Act or the company's memorandum of incorporation provides otherwise."
+
+ 
+[2020] JOL 47337 (GP) at 11
+
+[20]    However, collective responsibility does not exclude individualised responsibility and liability for each of the board members. The individual duties of all company directors are set out in the Companies Act. In particular, sections 76(2)(a) and 76(3) thereof. The fiduciary duties of directors and the duties of care, skill and diligence are entrenched in these sections. Section 76(2) and (3) provides in relevant part as follows:
+
+"76 Standards of directors conduct
+A director of a company must–
+not use the position of director, or any information obtained while acting in the capacity of a director–
+to gain an advantage for the director, or for another person other than the company or a wholly-owned subsidiary of the company; or
+to knowingly cause harm to the company or a subsidiary of the company; and
+
+. . .
+
+Subject to subsections (4) and (5), a director of a company, when acting in that capacity must exercise the powers and perform the functions of director–
+in good faith and for a proper purpose;
+in the best interests of the company; and
+with the degree of care, skill and diligence that may reasonably be expected of a person–
+carrying out the same functions in relation to the company as those carried out by that director; and
+having the general knowledge, skill and experience of that director."
+
+[21]    Board members are both collectively and individually responsible. Collective responsibility means that all directors have a duty to ensure  
+[2020] JOL 47337 (GP) at 12
+the proper management of the company, but this does not absolve directors of individual liability. The collective responsibility of the board imposes individual duties on directors.
+
+[22]    Individual directors may be held jointly and severally liable for wrongdoing. Section 77(2)(a) and (b) of the Companies' Act states that:
+
+"A director may be held liable
+
+in accordance with the principles of the common law relating to a breach of a fiduciary duty, for any loss, damages or costs sustained by the company as a consequence of any breach by the director of a duty contemplated in section 72, 76(2) or 76(3)(a) or (b)
+."
+
+[23]    Section 77(6) states that the "the liability of a person in terms of this section is joint and several with any other person who is or may be held liable for the same act". This Court already held in the joinder application brought by Ms Myeni that plaintiffs are entitled to pick their target from a group of wrongdoers.20 The applicable legislation makes it clear that a director cannot avoid individual liability, by blaming the so-called "collective".
+
+[24]    The plaintiffs reiterated that they did not seek to exonerate other SAA Directors, who might have been involved in unlawful activities, but as a private entity with limited means they leave it to law enforcement agencies to investigate possible transgressions by other directors.
+
+ 
+[2020] JOL 47337 (GP) at 13
+
+[25]    Subsection 76(4), read with subsection (5) of the Companies Act, contains the so-called "business judgment rule". In terms of this rule, a director could be protected from an allegation of a breach of the duty to act in the best interests of the company (section 76(3)(b)) and with care, skill and diligence (section 76(3)(c)) where that director has:
+
+taken reasonably diligent steps to become informed about the matter;
+either had no conflict of interest in relation to the matter or complied with the rules on conflict of interests; and
+had a rational basis for believing, and did believe, that her decision was in the best interest of the company.21
+
+[26]    The "business judgment principle" can only protect those who act in good faith and have taken reasonable diligent steps to become informed. Wilful misconduct, recklessness and dishonesty are not protected.
+
+[27]    The duties of company directors are amplified by the PFMA. SAA is listed as a major public entity in terms of Schedule 2 to the PFMA and its board is the designated "accounting authority".22 The SAA Board is in turn accountable to the "executive authority" under the PFMA. Since December 2014, the Minister of Finance has served in this role.
+
+ 
+[2020] JOL 47337 (GP) at 14
+
+[28]    In terms of section 50 of the PFMA, all members of the SAA Board are subject to heightened fiduciary duties. Section 50 reads as follows:
+
+"Fiduciary duties of accounting authorities:
+
+The accounting authority for a public entity must–
+exercise the duty of utmost care to ensure reasonable protection of the assets and records of the public entity;
+act with fidelity, honesty, integrity and in the best interests of the public entity in managing the financial affairs of the public entity;
+on request, disclose to the executive authority responsible for that public entity or the legislature to which the public entity is accountable, all material facts, including those reasonably discoverable, which in any way may influence the decisions or actions of the executive authority or that legislature; and
+seek, within the sphere of influence of that accounting authority, to prevent any prejudice to the financial interests of the state.
+A member of an accounting authority or, if the accounting authority is not a board or other body, the individual who is the accounting authority, may not–
+act in a way that is inconsistent with the responsibilities assigned to an accounting authority in terms of this Act; or
+use the position or privileges of, or confidential information obtained as, accounting authority or a member of an accounting authority, for personal gain or to improperly benefit another person.
+
+. . ."
+
+[29]    Section 51 of the PFMA sets out the further responsibilities of the board. It provides, in relevant part, as follows:
+
+General responsibilities of accounting authorities
+An accounting authority for a public entity–
+must ensure that that public entity has and maintains– 
+[2020] JOL 47337 (GP) at 15
+ (i) effective, efficient and transparent systems of financial and risk management and internal control;
+
+. . .
+
+an appropriate procurement and provisioning system which is fair, equitable, transparent, competitive and cost-effective;
+
+. . .
+
+must take effective and appropriate steps to–
+
+. . .
+
+prevent irregular expenditure, fruitless and wasteful expenditure, losses resulting from criminal conduct, and expenditure not complying with the operational policies of the public entity; and
+manage available working capital efficiently and economically;
+is responsible for the management, including the safeguarding, of the assets and for the management of the revenue, expenditure and liabilities of the public entity;
+
+. . .
+
+is responsible for the submission by the public entity of all reports, returns, notices and other information to Parliament or the relevant provincial legislature and to the relevant executive authority or treasury, as may be required by this Act;
+
+. . .
+
+must comply, and ensure compliance by the public entity, with the provisions of this Act and any other legislation applicable to the public entity."
+
+[30]    The board has a particular duty to give effect to SAA's internal policies. In doing so, the board is specifically enjoined to prevent "expenditure not complying with the operational policies"23 of SAA. In Allpay Consolidated Investment Holdings (Pty) Ltd v Chief Officer of the  
+[2020] JOL 47337 (GP) at 16
+South African Social Security Agency 24 the Constitutional Court said that a public entity's internal policies are "not merely internal prescripts that [an entity] may disregard at whim".25
+
+[31]    The SAA Board is also subject to more stringent financial reporting duties than ordinary companies. These duties are set out in sections 55 and 65 of the PFMA.
+
+[32]    The fact that someone is a "non-executive member" does not absolve her of any legal responsibility. The legal duties of all directors are the same. These principles were summarised in Howard v Herrigel and another NNO26 where it was stated that both executive and non-executive directors are subject to the same legal duties, which include duties of care, skill and diligence. Compliance with these duties requires an assessment of the role actually played by the director, the information available to her and the information that could have been available. If one considers the powers executed by non-executive directors, it is clearly appropriate that no distinction should be drawn between the two groups.
+
+[33]    The implication of the aforesaid is that if a non-executive director and/or a chairperson involved him or herself in the day-to-day operation, their duties do not change, but their conduct might be  
+[2020] JOL 47337 (GP) at 17
+judged more stringently. This is reinforced by section 76(3)(c) of the Companies Act referred to above.
+
+[34]    The special obligations of the chairperson of a board are detailed in the so-called "King Codes". An expert witness testified during the trial that these codes, which are commissioned by the Institute of Directors in South Africa, provide guidelines on sound corporate governance. Four sets of King reports and accompanying King Codes have been issued over the years. King III, which was issued in 2009, was applicable during the relevant events that are covered in this case.
+
+[35]    In terms of SAA's 2014/2015 shareholder's compact, SAA bound itself to observe the King III principles. Clause 3.1 of the applicable 2014/2015 shareholder's compact provided that:
+
+"The Parties are bound by the principles of the Protocol, the South African Airways Act, 2007, the Companies Act, the PFMA and applicable Treasury Regulations in endeavouring to enhance effective business performance and to maintain good corporate governance, including the principles contained in the King Report, within South African Airways."
+
+[36]    Principle 2.16 of King III, which set out the specific responsibilities of the chairperson prescribed that the chairperson should be an independent, non-executive director. The chairperson was responsible for "setting the ethical tone for the board and the company".27 The chairperson must also provide "overall leadership to the board without limiting the principle 
+
+ 
+[2020] JOL 47337 (GP) at 18
+
+of collective responsibility for board decisions, while at the same time being aware of the individual duties of board members".28
+
+[37]    The aforesaid principal importantly emphasises the responsibility of the chairperson to take responsibility for the ethical tone of the company. A failure to do so may be indicative of a failure to act in accordance with the legislation already referred to any [sic] may support a finding of delinquency as set out in section 162(5).
+
+[38]    It was common cause that SAA was at all relevant times governed by the following documents:
+
+The Memorandum of Incorporation (MOI)
+
+The preamble of the MOI records that SAA is subject to the provisions of the Companies Act and the PFMA. It provides the framework for SAA's governance.
+
+The Delegation of Authority Framework, 2011–2016
+
+Clause 3.2 states that the DOA was the "master policy" guiding decisions within SAA. Clause 4 determined the matters reserved for board determination. These included governance, planning and monitoring, setting of SAA strategy and business plans, and approval of the budget, etc. The role of the board was to monitor and guide, not to make or implement operational decisions.
+
+ 
+[2020] JOL 47337 (GP) at 19
+
+Clause 5, headed "Matters Delegated by the SAA Group Broad to the SAA Group CEO", provided as follows:
+
+"Subject to the matters reserved for the SAA Board of Directors and the principles applicable to the execution of delegated authority herein contained, the Group Chief Executive Officer of SAA shall have all such powers, functions and duties as may be exercised or done by SAA to give effect to the implementation of the SAA Group Strategy . . .".
+
+The Significance and Materiality Framework
+
+This framework is required by section 54(2) of the PFMA, read with Treasury Regulation 28.3.1. Its purpose was to enable the Minister to exercise effective oversight over major transactions by requiring that certain transactions must be submitted to the Minister for approval and by providing the procedures that must be followed when approval was needed. It noted that the approval of the Minister was not required for the signing of a non-binding memoranda of understanding.
+
+The Shareholders Compact
+
+In terms of the National Treasury Regulations, SAA was required to conclude an annual shareholders compact to record the mandatory performance measures and indicators as agreed between the board and its shareholder [sic]. Clause 4.1 enumerated the obligations of the board and again invoked the provisions of the Companies Act, the PFMA and the King III Code of Corporate Governance. In particular, the role and responsibilities of the board were enumerated in clause 12. They included, that the  
+[2020] JOL 47337 (GP) at 20
+directors "shall exercise their skill and fiduciary duties to pursue the objectives and targets as set out in the Corporate Plan." It also required that the board "accepts the responsibility to direct and guide the business in a proper manner in keeping with good governance practices . . .". It recognised the importance of speedy decision making, and that the board would use its best endeavours to prevent undue delays with regard to critical decisions.
+
+[39]    SAA's strategy at the relevant time was founded on the following policy documents.
+
+The Long-Term Turnaround Strategy (LTTS)
+
+This policy sought to bolster, inter alia, SAA's network, alliance and fleet through increasing networks through code-share relationships and embarking on a wide-body fleet replacement plan. In turn, if properly implemented, the LTTS was meant to significantly contribute towards SAA's ongoing cost compression programme which had, at the time of its adoption, already yielded R300 million in savings for SAA in the 2013/2014 financial year.
+
+The Corporate Plan
+
+In its summary, the plan put primary emphasis on achieving and maintaining commercial sustainability. Some of the key initiatives and targets included the implementation of the network and fleet plan, which was estimated to achieve R2.5 billion in  
+[2020] JOL 47337 (GP) at 21
+annualised earnings improvements during the three-year period. Optimisation of code-share over the Middle-East. Resolution of the 2002 Airbus A320 order, cancelling the remaining 10 deliveries scheduled for FY16 and FY17 and replacing them with five Airbus A330 aircraft to complement the existing six A330 units within SAA's fleet and extending the existing Airbus A340 fleet leases for approximately six years.
+
+The Comprehensive Network and Fleet Plan
+
+During 2015, following a complete review and analysis of SAA's network and fleet by aviation experts, it was discovered that SAA had the wrong wide-body fleet given the current economic (that is fuel costs) and competitive environment. As such it was found that the Airbus A330 aircraft would be a cost-effective alternative and thus ideal for SAA's substitution programme. In turn, a detailed analysts [sic] of SAA's opportunities over the next three years showed that profitability could be restored by 2017. The accompanying fleet strategy document further emphasised, among other things, the replacement of the existing Airbuses. The network and fleet plan was adopted not only by the board, but by an inter-ministerial committee chaired by then Deputy President Ramaphosa.
+
+The 90-Dav Action Plan
+
+In this document, SAA sought to outline the key interventions required, as well as high-priority board-driven interventions.
+
+ 
+[2020] JOL 47337 (GP) at 22
+
+[40]    It is against the aforesaid legal framework and corporate policy documents that the evidence and Ms Myeni's actions must be evaluated to determine whether she should be declared a delinquent director as envisaged in the Companies Act.
+
+The Emirates deal
+
+[41]    Mr Bezuidenhout, Mr Bosc, Ms Mpshe and Mr Wolf Meyer testified about the Emirates deal. Mr Bezuidenhout and Mr Bosc testified that in 1995 SAA was the first international airline to enter into a code-sharing relationship with Emirates. At that point in time Emirates was a small operator, but over the years it had grown into the largest international airline in the world. It was common cause on the pleadings that this was one of the most profitable areas of SAA's business and generated profits of over R170 million per year. Part of the deal was that SAA could purchase tickets on Emirates flights at reduced rates and sell these on to its customers at a profit for SAA.
+
+[42]    Mr Bosc testified that as a result of South Africa's geographical location as an end of hemisphere airline, major international destinations are far away and accordingly it is extremely difficult to run a profitable airline. Australia experiences the same challenge. A further complication was that SAA's international, fleet consisted of four-engined Airbus A340-600 aircraft, which were heavy on fuel. This made it very difficult to conduct these international routes on a profitable basis. SAA's direct flights to major international destinations generally pass over the world's biggest travel hub, the Middle East, which is home to major airlines,  
+[2020] JOL 47337 (GP) at 23
+including Emirates, Etihad and Turkish Airlines. These airlines generally offer cheaper connecting flights than SAA and as a result SAA cannot compete with them.
+
+[43]    On top of that the Department of Transport (DOT) had granted Emirates a substantial number of weekly flight frequencies to and from South Africa, in terms of a bilateral agreement between the United Arab Emirates (UAE) and South Africa. During the time of the FIFA World Cup, DOT increased Emirates' permitted flight frequencies from three weekly flights between Dubai and Johannesburg to four (the fourth frequency). This meant that SAA faced stiffer competition regarding its international routes. The result of all these factors was that SAA was operating a substantial number of loss-making international routes. This necessitated an enhanced code-sharing agreement between SAA and a Middle Eastern carrier. It was for this reason that the 2013 LTTS made it a key priority for SAA to increase networks through code-share relationships.
+
+[44]    Emirates was SAA's first choice for an expanded code-sharing relationship, according to Mr Bezuidenhout, due to the fact that SAA previously rebuffed Emirates there was an initial reluctance from Emirates to co-operate with SAA. As a result SAA had to look elsewhere for a partner. During 2013 SAA entered into a code-sharing agreement with Etihad, which operates out of Abu Dhabi, which is situated 80km from Emirates' base in Dubai. Both Mr Bezuidenhout and Mr Bosc confirmed that the Abu Dhabi route made a loss from the onset. 
+
+ 
+[2020] JOL 47337 (GP) at 24
+
+According to the network and fleet plan these losses amounted to approximately R346 million per annum. As a result SAA urgently needed to address these losses. The fact that the Etihad deal ran into difficulties had the advantage of renewing Emirates' interest in doing a deal with SAA. During January 2015 Emirates approached SAA with the proposal for an enhanced code-sharing arrangement. This proposal was forwarded to National Treasury.
+
+[45]    Mr Bosc and Mr Bezuidenhout testified that SAA had two key "bargaining chips" going into the negotiations with Emirates. The first was that Emirates felt threatened by SAA's new code-sharing relationship with Etihad. Secondly, Emirates sought SAA's support in ongoing litigation with DOT. This litigation related to the fourth frequency and questioned the legality of the agreement that underpinned this arrangement. DOT tried to stop the fourth frequency during 2013. Emirates approached the court and obtained an interdict to keep the fourth frequency, but DOT was threatening to appeal. Although Emirates sought SAA's support over the fourth frequency, Mr Bezuidenhout, Mr Bosc, Ms Mpshe and Mr Meyer were all clear that SAA had no legal power to determine existing route rights or to determine the course of DOT's litigation with Emirates, but could merely approach DOT to consider the prudency of the litigation, in the light of the prospective code-sharing agreement with Emirates.
+
+[46]    The Emirates proposal offered a range of benefits for SAA. It was modelled on the deal between Emirates and Qantas, which had helped  
+[2020] JOL 47337 (GP) at 25
+to turn that airline around. The key benefit was that Emirates offered SAA an annual minimum revenue guarantee, which was a guaranteed income for SAA to sustain a new route from Johannesburg to Dubai. The Emirates proposal and SAA's own modelling predicted that the minimum revenue guarantee for SAA would amount to approximately USD100 million annually, approximately R1.5 billion per annum at [sic] prevailing exchange rate at the time.
+
+[47]    Additionally, Emirates was willing to offer a range of other significant strategic benefits to SAA, including the ability to code-share on "non-trunk" routes, meaning the Emirates flights from Dubai to other destinations in Europe and Asia. The establishment of secondment opportunities for SAA pilots and other staff training exchanges and assistance with network planning and potential employment for SAA employees, who were facing possible retrenchment at the time. These benefits were all reflected in the draft MOU.
+
+[48]    Mr Bosc and Mr Bezuidenhout further testified that this relationship would have allowed SAA to cancel its loss-making route to Abu Dhabi far sooner. Mr Bosc was tasked with leading the discussions with Emirates and drafting the initial memorandum of understanding (MOU). Mr Bezuidenhout, Mr Bosc and Mr Meyer confirmed that the SAA Board was made aware of the Emirates proposal as soon as the proposal was received, during January 2015.
+
+ 
+[2020] JOL 47337 (GP) at 26
+
+[49]    The plaintiffs' witnesses testified that, in ordinary circumstances, the negotiation of a non-binding MOU would have been a strictly operational matter, to be handled by the SAA Executive. Board involvement would only be required at the final stages of approving a binding agreement, after negotiations had been concluded. This was in terms of SAA's delegation of authority framework. The plaintiffs' witnesses stated that this was confirmed repeatedly by Mr Tony Dixon, the board's resident governance expert, who emphasised that negotiations with Emirates and the conclusion of a non-binding MOU did not need any board approval. Mr Dixon was due to testify in this trial, but passed away during December 2019, shortly before the trial was due to commence.
+
+[50]    While board approval was not required as a matter of law, Mr Bezuidenhout testified that he nevertheless wished to keep the board apprised of developments on the Emirates deal, given its importance to the airline and the widespread coverage that it would receive. The conclusion of a non-binding MOU was also a matter that did not require the approval of the shareholder [sic], whose representative at the time was the Minister of Finance. It was common cause on the pleadings that on or about 15 February 2015, the Minister of Finance informed Emirates, who in turn informed SAA, that the National Treasury regarded the Emirates proposal as an operational matter in which the Executive branch of government would not interfere.
+
+[51]    While the discussions with Emirates were continuing, SAA was also in the process of preparing its revised network and fleet plan. This was  
+[2020] JOL 47337 (GP) at 27
+developed with the help of an external consultancy, Royal Haskoning DHV, a leading international expert on these matters. A draft network and fleet plan was prepared in February 2015 and the final network and fleet plan was approved on 2 April 2015.
+
+[52]    The network and fleet plan specifically recommended an enhanced code-sharing arrangement with Emirates. Its recommendations included that SAA add a daily Johannesburg-Dubai route with A340-600 aircraft and expand the code-share alliance with Emirates. This recommendation was based on various scenarios and tables set out, which predicted increased profits of between R123.1 and R181 million per annum from this proposal. On 14 March 2015, Mr Bosc gave a presentation to the SAA Board on the revised SAA network and fleet plan. In doing so, he also presented the Emirates proposal to the board and its advantages. On 2 April 2015, the board approved the network and fleet plan, in resolution number 2015/B15.
+
+[53]    Mr Bosc and Ms Mpshe both testified that they regarded this approval of the network and fleet plan as an approval for the executive and management to pursue an enhanced code-sharing arrangement with Emirates, as recommended in the network and fleet plan. One of the conditions of this approval was that an engagement be scheduled for the board with Emirates, after a revised MOU had been distributed to the board for review.
+
+ 
+[2020] JOL 47337 (GP) at 28
+
+[54]    While this resolution referred to a meeting between Emirates and the board, Mr Bezuidenhout and Mr Bosc testified that it was Ms Myeni who personally insisted on this meeting. They testified that it was highly unusual for a non-executive chairperson to seek to be involved in operational affairs, but they nevertheless acceded to this request and begun [sic] making plans with Emirates for a meeting. Two separate meetings were scheduled, the first of these meetings was planned for 5 May 2015. Arrangements were made for Ms Myeni to travel to Dubai to meet with Sir Tim Clark, President and CEO of Emirates, and the Chairperson of Emirates, Sheikh Ahmed bin Saeed Al Maktoum, the uncle of Dubai's ruler.
+
+[55]    This meeting was timed to coincide with the Arabian Travel Market, one of the biggest events on the international aviation calendar. Mr Bezuidenhout testified that he had hoped to have concluded a non-binding MOU with Emirates at this event, as it offered an opportunity for SAA to attract substantial publicity. Despite accepting the invitation to this meeting, Ms Myeni cancelled at the last minute. Mr Bezuidenhout testified that Ms Myeni called him shortly before she was scheduled to travel to Dubai and asked him to tell Sheikh Al Maktoum that she was sick.
+
+[56]    On 4 May 2015, the day before the scheduled meeting, Ms Myeni wrote a letter to Sheikh Al Maktoum. She said that she would not be travelling to Dubai for the travel market due to unspecified "unforeseen circumstances". In her testimony, Ms Myeni failed to elaborate on her  
+[2020] JOL 47337 (GP) at 29
+reasons for not attending this meeting. She simply claimed that "some commitments emerged" and that she had "pressing commitments". She later claimed that she had unspecified health problems, but no further detail regarding the nature and extent of these problems were provided.
+
+[57]    Mr Bosc and Mr Bezuidenhout proceeded to the Arabian Travel Market and had a courtesy visit with the CEO and the Chairman of Emirates. In their evidence, they noted the deeply awkward and difficult position that Ms Myeni placed them in. It was apparently no simple matter for SAA to obtain a meeting with the CEO and chairperson of the largest international airline in the world. To cancel such a meeting at the last minute was regarded as highly disrespectful, and the Arabians place immense value on respect.
+
+[58]    The second opportunity was a planned meeting on 12 May 2015 in Cape Town. The President and CEO of Emirates, Sir Clark, had personally sent an invitation to Ms Myeni to attend this meeting in Cape Town. Mr Bezuidenhout reminded Ms Myeni of this invitation and the day of the meeting. Ms Myeni again failed to attend the meeting. The other non-executive board members also failed to attend. Mr Dixon was the only non-executive director to tender his apologies in advance, due to ill-health. The meeting proceeded as a meeting between the two airlines' executive teams.
+
+[59]    On 2 May 2015, the draft non-binding MOU was circulated to the SAA Board. This draft MOU was explicitly made non-binding. As described  
+[2020] JOL 47337 (GP) at 30
+by Mr Bosc, it was a "framework" to guide further negotiations, which would lead to a suite of binding agreements.
+
+[60]    Despite its non-binding nature, Mr Bezuidenhout explained that the conclusion of this MOU was a matter of profound importance for SAA. This was the necessary first step towards reaching a final agreement, which would give SAA its full package of benefits, including the annual revenue guarantee of approximately USD100 million. The MOU would also have paved the way towards allowing SAA to terminate its loss-making Abu Dhabi route and to replace this with a profitable Dubai route, securing savings of up to R3 million per day.
+
+[61]    An MOU with the world's biggest international airline would have given SAA a massive reputational boost in the global aviation industry according to Mr Bezuidenhout. Mr Bezuidenhout testified that this was particularly important to give SAA an advantage in its negotiations with big banks and financiers over the planned recapitalisation of SAA. He testified that, to take a credible financial plan to financiers, SAA needed the Emirates MOU to show concrete proof of its efforts to turn the airline around.
+
+[62]    On 27 and 28 May 2018, the board held a special meeting to discuss the Emirates MOU. Mr Bezuidenhout circulated a presentation to guide the board's discussion. During this board session, an email from Mr Nick Linnell was tabled by Ms Myeni, raising legal questions about the MOU. Mr Linnell was, according to Mr Bezuidenhout, an attorney, who  
+[2020] JOL 47337 (GP) at 31
+was hired by Ms Myeni to advise the board, despite SAA having had a legal advisory panel. Mr Linell raised no legal objections to the MOU. His email specifically stated that "although the MOU is not legally binding it carries relationship and reputational risks if not pursued . . . without good reason". An internal SAA legal opinion, prepared by SAA's legal advisory panel, had already been obtained, which indicated that the MOU itself had no binding legal effect.
+
+[63]    On 28 May 2015, a further board meeting was held to discuss the MOU. A signed extract of the board minutes was certified by the Company Secretary, Ms Kibuuka. It was reflected in these minutes that Mr Bezuidenhout briefed the board on further developments with the MOU. The executive was accused of delays in submitting the draft MOU to the SAA Board and a lack of transparency about the MOU. However, Mr Bezuidenhout explained that the Emirates proposal had been discussed extensively by the board on 14 March 2015 and the revised MOU was circulated to the board members on 2 May 2015, following further negotiations with Emirates. The minutes further recorded that Mr Dixon expressed his "in principle support for the proposed relationship" and he made the further observation that "the delay was in fact on the part of the Board who received the MOU on 2 May 2015 and failed to provide comments to management". These minutes concluded by recording that Ms Myeni, as the Chairperson undertook to provide her decision by 9 June 2015 and no resolution was taken on the matter.
+
+ 
+[2020] JOL 47337 (GP) at 32
+
+[64]    As a matter of law and corporate governance, the chairperson's approval was not required for the conclusion of the MOU. However, Mr Bezuidenhout testified that he deferred to Ms Myeni as he wished to have the board's support on such a major deal. Mr Bezuidenhout further testified that Ms Myeni had created a climate of fear, as executives who crossed her were subjected to disciplinary proceedings and victimisation.
+
+[65]    Despite having undertaken to give a decision by 9 June 2015, Ms Myeni on 30 May 2015, emailed the board and the executive proposing the creation of an "Operation Review Committee" to be made up of a list of middle-managers who she had appointed. Ms Myeni made it clear that she had personally come up with this idea for a committee and that its purpose was to advise her independently. Mr Meyer confirmed that Mr Bezuidenhout and the board had not been consulted on the creation of this committee.
+
+[66]    Ms Myeni instructed that the committee's terms of reference were to be the following:
+
+"Assess the proposal and advise us of SAAs Benefit on the deal in pure financial terms.
+
+To Assess how this deal will assist SA4 in growing business in South Africa and Africa.
+
+Risks not mentioned in the MOU or any document re Emirates and their interest in South Africa.
+
+History of our relationship and it's benefit then and now.
+
+Value proposition in relation to guaranteed revenues-risk Associated with this.
+
+Risk of not taking Emirates as our partner. What are we going to loose?
+
+ 
+[2020] JOL 47337 (GP) at 33
+
+Etihad – how will we deal with them when they get to know we work with Emirates.
+
+While the proposal focusses on pure business and commercial relationship, is the proposal iin (sic) the best interest of SAA or more in Emirates terms and Favour (sic)."
+
+[67]    Ms Myeni was clearly aware of the urgency to conclude this deal, as she claimed that this committee would somehow "speed up the approval". Given the urgency, Ms Myeni specifically set a timeline for the committee's report to be completed the Tuesday or Wednesday of the following week.
+
+[68]    Mr Bosc, Mr Meyer and Mr Bezuidenhout testified about the highly irregular nature of Ms Myeni's conduct in establishing this committee. They testified that it is unusual for a non-executive chairperson to constitute his or her own committee. It was even more irregular to constitute a team of middle-managers to second-guess decisions that had already been taken by the EXCO.
+
+[69]    On 3 June 2015, the operational review committee produced its recommendation, which fully supported the conclusion of the Emirates MOU, accompanied by minor changes to the MOU.
+
+[70]    On 7 June 2015, Mr Bezuidenhout sent a set of consolidated submissions to the board on the Emirates deal, attaching the operational review committee's report, an updated MOU, legal reviews, and a report prepared by Deloitte. On 10 June 2015, Mr  
+[2020] JOL 47337 (GP) at 34
+Bezuidenhout travelled to Miami for the IATA AGM. He testified that this was another missed opportunity to conclude the Emirates MOU at a major international aviation event, but Ms Myeni had still not provided her decision despite her undertaking to do so on or before 9 June 2015. On 11 June 2015, Mr Bezuidenhout sent a further email to the board requesting any feedback on the draft MOU. He requested the board for a response, and to indicate whether any other concerns still exist.
+
+[71]    Mr Bezuidenhout's email also referred to an SMS from Ms Myeni, in which she requested to meet with the operational review committee. Mr Bezuidenhout further testified in cross-examination that Ms Myeni refused to attend the meeting with the operational review committee the following day, as she claimed that she was too busy.
+
+[72]    Mr Bezuidenhout, Mr Bosc and Mr Meyer testified that after the 11 June 2015 email there were no objections from the board regarding the Emirates MOU. At that time, there were only four non-executive board members, Ms Myeni, Ms Kwinana, Mr Tony Dixon and Dr John Tambi. Dr Tambi, Mr Dixon and Ms Kwinana had all indicated that they had no objections to the MOU. Mr Wolf Meyer, the CFO also supported the conclusion of the MOU. Ms Myeni who did not agree, was the only holdout. Mr Bezuidenhout later recorded the approvals received from the other board members in an email to the board on 20 June 2015.
+
+[73]    Mr Dixon had formally recorded his approval in the board minutes of 28 May 2015. Dr Tambi confirmed his approval on 9 May 2015. Ms  
+[2020] JOL 47337 (GP) at 35
+Kwinana confirmed her approval on 12 June 2015, during a discussion with Mr Bezuidenhout at an SAA supplier day.
+
+[74]    Under cross-examination, Ms Myeni claimed to have no knowledge of the attitude of the other board members. She testified that, if the other board members had approved the deal, she would have approved too. However, when she was asked to explain what she did to contact other board members and to canvass their views, she provided no response.
+
+[75]    SAA then had a major opportunity to conclude the non-binding MOU at the Paris Air Show on 16 June 2015. This is, according to Mr Bezuidenhout, one of the premier events in the international aviation calendar and offered SAA a valuable opportunity to publicise its deal with Emirates to the international aviation industry and the international media, Ms Myeni in an email confirmed the importance of this event.
+
+[76]    Ms Myeni further acknowledged that she knew well in advance about the plans to sign the Emirates MOU at this event. At Ms Myeni's request, Mr Bezuidenhout had even arranged an invitation for her to travel to Paris to attend the air show. However, on or about 13 or 14 June 2015, she advised that her travel plans had changed and that she could not travel to Paris.
+
+[77]    The signing ceremony for the non-binding MOU was scheduled to take place on the morning of 16 June 2015 at the Four Seasons Hotel George V in Paris. The Emirates President and CEO, Sir Clark, was to  
+[2020] JOL 47337 (GP) at 36
+sign on behalf of Emirates. The international media had been invited to the event, which was designed to be a showcase for both airlines.
+
+[78]    On 15 June 2015, Mr Bezuidenhout, Mr Bosc and Mr Meyer arrived in Paris ahead of the signing ceremony the next day. That afternoon, Mr Bezuidenhout and Mr Bosc met with Emirates representatives. Mr Bezuidenhout advised Emirates that Ms Myeni had still not given her express approval and that he did not want to contradict her on the matter. Emirates advised that they would escalate the matter to the "highest office" in South Africa, as they felt that SAA had not acted in good faith and had not presented any good reason for not signing the non-binding MOU. Emirates further advised that the failure to make any further progress, not only threatened the value proposition for SAA, but would force them to reconsider their existing relationship with SAA (noting that this meant R170 million per year to SAA in current profits), as well as reconsidering the strategic cooperation agreement signed with Emirates by the Minister of Tourism earlier during May 2015.
+
+[79]    Mr Bezuidenhout testified that during the early hours of 16 June 2015, he received a call from Ms Myeni, during which she stated that there was an instruction from President Zuma not to sign the Emirates MOU. Mr Meyer testified that he was with Mr Bezuidenhout at the time that he received the call and that Mr Bezuidenhout had placed the call on speakerphone. Mr Meyer corroborated Mr Bezuidenhout's evidence of the content of the call.
+
+ 
+[2020] JOL 47337 (GP) at 37
+
+[80]    On the morning of 16 June 2015, shortly before the signing ceremony, Ms Myeni again repeated the instruction not to sign the agreement. She sent an SMS to Mr Bezuidenhout's wife, again instructing Mr Bezuidenhout not to sign the non-binding MOU. In her testimony, Ms Myeni admitted sending this SMS. It stated:
+
+"Morning Glynis. Hope u are all well. Another call came through 3 mins ago. We do not approve signing any Non-Binding MOU. No approval is given on any commitment on this matter. Best regards."
+
+[81]    Mr Bezuidenhout, Mr Bosc and Mr Meyer all testified that they interpreted the reference to "we" in this SMS as a reference to Ms Myeni and the President as the other board members had all expressed their approval for the signing of the MOU. Mr Meyer further confirmed that Ms Myeni had taken no steps to consult with him or other SAA board members, before issuing this instruction. As a result, this could not have been an instruction from the board.
+
+[82]    On arriving at the hotel, Mr Bezuidenhout testified that he took Sir Clark aside and advised him of the latest instruction and that he did not have Ms Myeni's consent on the execution of the MOU. Although irritated by the last-minute cancellation, Sir Clark was gracious and told Mr Bezuidenhout that he felt sorry for the SAA team, whose efforts to improve SAA's situation were being hampered.
+
+[83]    In cross-examination, Mr Bezuidenhout, Mr Bosc and Mr Meyer were questioned on why they did not go ahead to sign the MOU, if no board resolution was required to approve the MOU. Mr Bezuidenhout testified  
+[2020] JOL 47337 (GP) at 38
+that he was unwilling to defy a direct instruction from the chairperson, particularly given the fact that Ms Myeni had invoked the name of the President and her history of victimising executives who stood in her way. Clause 13.3.3 of the SAA MOI [sic] also requires the CEO to follow any instructions from the board. It reads as follows:
+
+"The CEO shall be responsible for the day-to-day functions of Company and shall be obliged to comply with any instructions issued by the Board and any directives issued by the Minister to the Board provided that the Board remains accountable for purposes of the PFMA, as contemplated in section 49(1) of the PFMA."
+
+[84]    Mr Meyer further testified that Mr Bezuidenhout could not be seen to be disobeying direct instructions of the chairperson. This reluctance to disobey Ms Myeni's direct instructions was later also echoed by Ms Mpshe.
+
+[85]    As a result, SAA and Emirates were forced to call off the signing ceremony. Mr Bezuidenhout, Mr Bosc and Mr Meyer all described this as one of the most embarrassing moments of their professional careers. This was also a national embarrassment that was widely reported in the media at the time. The consequence was that SAA not only failed to conclude the MOU, but it also hampered its relationship with Etihad, which was now alerted to the fact that SAA was considering a new deal with Emirates. Mr Bosc testified that this also harmed SAA's relationship with other partners, including Lufthansa. In his words, SAA was now seen as a "headless chicken" by its code-share partners. As a  
+[2020] JOL 47337 (GP) at 39
+consequence, SAA gained none of the benefits of the Emirates deal but suffered all the reputational harm.
+
+[86]    The South African media became aware of the failed deal with Emirates and, on 19 June 2015, a journalist from the Sunday Times contacted SAA, National Treasury and Ms Myeni seeking a response.
+
+[87]    On 20 June 2015, Mr Bezuidenhout authored an email that addressed the media leak. The email included a comprehensive chronological list of events, including Ms Myeni's instruction not to sign the MOU on 16 June 2015. Ms Myeni made no attempt to contest the facts recorded in this email, either at the time or during her testimony.
+
+[88]    On 30 June 2015, Mr Parsons (both Chief Strategy Officer, and Executive in the Chairperson's Office) sent an email indicating that Ms Myeni wanted to meet with the operational review committee. On 3 July 2015, Ms Myeni held a meeting with the operational review committee. Mr Bosc scribed notes on the meeting, directly after the meeting, from memory. Mr Bosc testified that Ms Myeni brought unidentified armed guards to the meeting who confiscated all attendees' mobile phones and laptops before the meeting had started. At the end of the meeting, Ms Myeni instructed her guards to confiscate all the written notes taken by attendees, except those of the company secretary.
+
+ 
+[2020] JOL 47337 (GP) at 40
+
+[89]    Mr Bosc testified that Ms Myeni spoke at length at this meeting, stating many facts that were untrue. When Mr Bosc tried to interject, Ms Myeni told him to keep quiet or to leave. Mr Bosc testified that he then kept silent for the duration of the meeting. Mr Bosc recorded that Ms Myeni raised the following objections, which he responded to in detail in his notes:
+
+"SAA does not have an African Strategy"
+"SAA never engaged with DOT on the matter (Emirates), and the Minister was concerned"
+"The MOU was received by SAA's Management in January 2015, but was hidden away from the Board until recently (at that time, which was 3 July 2015"
+"Equity talks were sneaked into the MOU"
+"SAA hired a consultant to work on the matter"
+"The Chair was summoned to meet with an Emirates Chairperson, but did not understand why"
+
+[90]    An action list was formulated from the 3 July 2015 meeting, with tasks assigned to different SAA officials and board members. Mr Bosc testified that Ms Myeni had insisted that three further steps be followed. They were that the SAA Emirates review team should organise a meeting with Emirates after the meeting with the board and DOT, the Emirates team should also meet with the board and it should also be arranged that the Chairperson of the SAA Board meet with the Chairperson of Emirates.
+
+[91]    Mr Bosc testified that these action items were nonsensical. It would be an embarrassment for the operational review committee, as a group of  
+[2020] JOL 47337 (GP) at 41
+middle-managers, to now meet with Emirates following months of negotiations and the history of the matter up to that point. The requirement that the chairperson should meet with the Chairperson of Emirates also made little sense, particularly as Ms Myeni had previously failed to attend meetings with him. Mr Bosc testified that he made his objections known.
+
+[92]    On 6 July 2015, Mr Bezuidenhout attempted to circulate a round-robin resolution to the board seeking approval for the signing of the MOU. This round-robin was accompanied by a detailed set of submissions, setting out the history of the negotiations, the merits of the proposal, and responses to concerns that had been raised. He also attached the latest version of the MOU.
+
+[93]    On that same day, Ms Myeni stopped the attempt to circulate the round-robin and the submissions to the board. In her email, she stated that she never requested or instructed Mr Bezuidenhout to send a round-robin for board approval, and insisted that the steps be taken as per the action list.
+
+[94]    The reference to the action list was the list of items emanating from the 3 July 2015 meeting, described above, which insisted on various meetings being held, before any further action could be taken on the MOU. Having stopped the round-robin resolution, the submissions were then included in the board packs for the board's next meeting on 10 July 2015.
+
+ 
+[2020] JOL 47337 (GP) at 42
+
+[95]    On 7 July 2015, Mr Bosc emailed the action list to Mr Bezuidenhout, indicating that he had tried to answer the tasks assigned to him as best as he could, but that most were pointless. These action items were simply a repeat of work that had already been done. He also informed Mr Bezuidenhout per email of Ms Myeni's behaviour at the meeting on 3 July 2015.
+
+[96]    The minutes of 10 July 2015 under item 4.4 recorded that:
+
+"The Board confirmed that it was satisfied with the draft non-binding Emirates Memorandum of Understanding (MOU) and concluded that the next process as outlined In the action list from the meeting held on Friday 03 July 2015 with the Emirates Operational Review Team should be followed."
+
+[97]    No resolution was taken on this matter. The action list of 3 July 2015 was attached to the minutes. The minutes repeated that the operational review committee was to meet with Emirates, the DOT and the board. It required that a further meeting be arranged between Ms Myeni and the Chairperson of Emirates. Far from being a green light to conclude the MOU, as Ms Myeni during evidence claimed, it merely placed further hurdles in the way of concluding the MOU. At no time did Ms Myeni ever revoke her instruction to Mr Bezuidenhout not to sign the MOU, nor did she tell the SAA executives that they were free to sign.
+
+[98]    On 13 July 2015, Mr Soga emailed Mr Bezuidenhout, indicating that his 6 July 2015 submission to the board had been included in the board pack, but had not been considered at the board meeting of 10 July 2015. He then requested that Mr Bezuidenhout approve the  
+[2020] JOL 47337 (GP) at 43
+submissions so that they could be circulated again to the board for approval on a round-robin basis.
+
+[99]    This email was sent to Mr Bezuidenhout at the end of his tenure, shortly before he went back to Mango. As a result, his submissions to the board were not circulated. Mr Bosc followed this up in an email dated 5 August 2015 to the then Acting CEO, Ms Thuli Mpshe, in which he, inter alia, stated that the board did not consider the submissions.
+
+[100]    Mr Meyer testified that, to his knowledge, the 6 July 2015 submissions were not circulated to the board at any time after the 10 July 2015 meeting. He further confirmed that it was the duty of Ms Myeni, as chairperson to ensure that uncompleted items were carried forward to the next board meeting but, to his knowledge, this was never done.
+
+[101]    On 21 July 2015, Mr Bosc attended the weekly meeting between SAA management and National Treasury officials. On 27 July 2015, he sent an email to the participants of those weekly meetings, in which he again raised the problem of the board stalling the MOU. On 7 August 2015, Mr Bosc attended a further meeting with DOT to discuss the Emirates MOU. He took minutes of the meeting. Both Mr Bosc and Ms Mpshe testified that Ms Myeni frequently stated that DOT would be against the Emirates partnership which was not true. This meeting was organised to clear up those issues.
+
+ 
+[2020] JOL 47337 (GP) at 44
+
+[102]    Following this meeting, on 8 August 2015, the Minister of Transport on behalf of DOT wrote to Ms Myeni expressing support for the MOU. The Minister stated the following:
+
+"With regard to Emirates, Department of Transport has no objections to SAA discussing and / or signing any Memorandum of Cooperation (MOC), which has to do with the national carrier's Turn Around Strategy and intent for Africa. However, the Department regards these matters as operational and commercial for the airline's Management and Board.
+
+It is my considered view that this MOU contains a lot of positive and beneficial elements that seek to increase your revenue base and widens the SAA market. I trust the Management and Board has applied due diligence and would advise you to proceed and conclude the deal with Emirates"
+
+[103]    On 17 August 2015, Mr Bosc sent an email to colleagues at SAA to update them on progress. He referred to the positive meeting with DOT and indicated that the Minister of Transport would be meeting with the Minister of Finance to discuss these matters. He had been told by DOT representatives that a communication from the Minister of Transport to Ms Myeni would be coming, but was not sure if a letter had already been sent at the time. He therefore specifically asked the Acting CEO, Ms Mpshe, to check with the company secretary whether there had been any official communication from the DOT or National Treasury on the Emirates deal.
+
+[104]    On 27 August 2015, Mr Bosc sent a follow-up email to Ms Mpshe to find out if there had been any further communication from Ms Myeni about the Emirates MOU. On 30 August 2015, Mr Bosc received a letter from Mr Orhan Abbas of Emirates on an official letterhead. Mr Bosc testified  
+[2020] JOL 47337 (GP) at 45
+that he was surprised to receive this official correspondence, as he had previously been corresponding with Mr Abbas informally. This was a signal of Emirates' strong disapproval. Mr Abbas stated that he was writing to convey his grave concern about the deterioration in the Emirates-SAA commercial partnership. Mr Abbas cited three causes for this deterioration. They were the continued delay in concluding the MOU, the perception that SAA was not assisting in resolving the litigation between Emirates and DOT, over the Emirates traffic rights to operate the fourth frequency and the fact that SAA had concluded a binding deal with Jet Airways to direct traffic through Abu Dhabi. Jet Airways was partly owned by Etihad. Mr Abbas concluded by placing SAA on terms that if the issues could not be resolved, this would jeopardise the existing profitable relationship between SAA and Emirates.
+
+[105]    Mr Bosc testified that, following this letter, he had conversations with Emirates' representatives, Mr Abbas and Mr Farooqui. From these conversations it was clear to him that the damage to SAA's relationship with Emirates was far more severe than he had anticipated.
+
+[106]    On 1 September 2015, Mr Bosc wrote to SAA colleagues, including Ms Thuli Mpshe and Mr Wolf Meyer, to relay his conversations with Emirates. He told his colleagues that at that time he believed there was a 50% chance that Emirates would walk away from both the MOU and from the existing code-sharing relationship. He further explained that from his discussions with National Treasury, there was pressure on SAA  
+[2020] JOL 47337 (GP) at 46
+to terminate its loss-making relationship with Etihad. This would mean that SAA would be without a key link to Asia, in the absence of an enhanced code-share with Emirates. He suggested that as a show of good faith, SAA should write to DOT indicating that SAA would support bringing an end to litigation against Emirates. Ms Mpshe subsequently wrote to DOT on 9 September 2015 proposing that the litigation with Emirates come to an end to facilitate the negotiation and finalisation of the MOU.
+
+[107]    In the meantime, the relationship with Emirates continued to deteriorate. Mr Bosc and Ms Mpshe testified that Ms Myeni had repeatedly told the executive team that the Minister of Finance and the Minister of Transport had some undisclosed concerns about the Emirates deal, which had to be resolved, before any MOU could be concluded. Mr Bosc confirmed that his team had relayed Ms Myeni's concerns to Emirates to explain the delays in concluding the MOU.
+
+[108]    On 30 August 2015, Mr Abbas of Emirates wrote separately to National Treasury about the MOU. On 2 September 2015, the Minister of Finance responded to Emirates. The Minister informed Emirates that the MOU was an operational matter, that he had not been consulted on the MOU by the SAA Board, and that National Treasury would not get involved.
+
+[109]    This response contradicted what Emirates had been told by Ms Myeni about the reasons for the further delay. The Minister of Finance clearly  
+[2020] JOL 47337 (GP) at 47
+indicated that National Treasury had no intention of interfering in these matters, contrary to Ms Myeni's claim that Treasury's sign-off was required.
+
+[110]    0n 3 September 2015, Mr Bosc again wrote to Ms Mpshe, Mr Meyer and Mr Soga to update them on these issues. Mr Bosc highlighted that Treasury's response showed that there was no basis whatsoever for Ms Myeni's claim that ministerial approval was required for the MOU and that this was now exposed as a stalling tactic. Mr Bosc concluded by asking Ms Mpshe and Mr Meyer for guidance on the way forward, as it was clear that Ms Myeni was intent on stalling.
+
+[111]    On 8 September 2015, Mr Abbas sent a letter to Ms Mpshe, copying Mr Bosc and the SAA Board. This letter made reference to the Minister of Finance's letter of 2 September 2015 and expressed surprise at Treasury's response. He stated that it was disturbing that the Minister stated that he had never been consulted by the board on the matter, which was at odds with what he was told by the SAA Board and he also referred to the fact that DOT had withdrawn their appeal in the litigation about the fourth frequency. Mr Abbas expressed his frustration that it had taken eight months to conclude the MOU.
+
+[112]    In the ensuing months, no further action was taken by the board on the Emirates deal. The entire SAA team that had been responsible for engaging with Emirates was removed or resigned. Mr Bezuidenhout had left SAA at the end of July 2015. He returned to Mango following an  
+[2020] JOL 47337 (GP) at 48
+acrimonious exchange with Ms Myeni, he testified, she accused him of using an e-cigarette to record a meeting and used bogus whistle-blower reports to threaten him. Mr Bezuidenhout was later cleared of any wrongdoing.
+
+[113]    Mr Bosc was placed on special leave during early October 2015, pending an investigation into various allegations against him. He, too, was later cleared of all charges at a subsequent disciplinary hearing. Ms Thuli Mpshe was relieved of her duties as Acting CEO during November 2015 and was suspended in early 2016. She too was never found guilty of any misconduct. Mr Barry Parsons resigned due to Ms Myeni's conduct at the end of September 2015.
+
+[114]    In his evidence, Mr Bosc underlined the fact that commercial negotiations involve relationships and trust. Following his removal, there was no point of contact for Emirates at SAA and, to his knowledge, no further negotiations took place. The Emirates proposal and the MOU were simply allowed to die away. In the process, SAA lost out on a significant opportunity to advance its commercial relationship with the largest airline in the world.
+
+[115]    Ms Myeni's version on the Emirates deal was confusing. During cross-examination the version put on her behalf changed, in instances contradicted her pleadings and sometimes even contradicted her evidence which was led later on. Very little of the evidence led by the witnesses of the plaintiffs was disputed or contradicted. The most  
+[2020] JOL 47337 (GP) at 49
+concerning aspect was the failure to put a comprehensive version of Ms Myeni's evidence to the witnesses. Counsel's attention was repeatedly drawn to the inherent danger of not doing so by the court.
+
+[116]    During the cross-examination of Mr Bezuidenhout, Mr Bosc and Ms Mpshe, Ms Myeni's Counsel was vociferous in putting the version that the Emirates MOU was a "sham" and was "unlawful", as it was allegedly an impermissible attempt to secure Emirates a fourth frequency to Johannesburg. It was further claimed that the MOU contained no material benefits for SAA. As a result, Ms Myeni's Counsel claimed that the board had legitimately opposed the MOU because of these concerns. The evidence of Mr Bezuidenhout and Mr Bosc contradicted these allegations. Why this seemingly profitable transaction was a sham and unlawful remained devoid of any substance or facts to support it.
+
+[117]    In her evidence, Ms Myeni's testimony contradicted the version put by her Counsel. She then claimed that on 10 July 2015, the board fully approved the Emirates MOU, giving the executives the green light to conclude the deal. She claimed to have no knowledge why the deal was not signed after that date. Ms Myeni stated that she instructed Mr Bezuidenhout not to sign the MOU on 16 June 2015, simply because the board had not yet had an opportunity to study the operational review committee's recommendations and did not want to be "rushed". On this version, she had no substantive objections to the MOU. Her version was that she had never told Mr Bezuidenhout not to sign because of the President's instructions. Instead, she claimed that she  
+[2020] JOL 47337 (GP) at 50
+was speaking on behalf of the board, when she phoned him on 16 June 2015. This version is clearly untrue, as the evidence revealed that all the other board members supported the conclusion of the MOU.
+
+[118]    Ms Myeni's version, put under cross-examination to the witnesses of the plaintiffs, namely that the Emirates deal was a sham and unlawful was in stark contrast with her evidence that she approved it on 10 July 2015. Her own evidence constituted two mutually destructive versions. She never produced any concrete evidence that the deal was unlawful, she did however complain that Mr Bezuidenhout was rushing the deal as he wanted to "shine at the Paris air show". In the light of the timeline and the numerous delays that occurred, it is abundantly clear that Ms Myeni and the board had ample time to consider the deal, but for reasons that remain unclear to this day, frustrated and sabotaged the deal.
+
+[119]    Ms Myeni complained that she was not afforded due respect by Mr Bezuidenhout, Mr Bosc and Mr Meyer and alleged that it was because she is a Black woman. No allegation of gender or race bias was put to any of the plaintiffs' witnesses, including Ms Mpshe who was in much the same position as Ms Myeni, being a Black woman in an executive position. There is no arguing that racial and gender bias are serious allegations, and if it did exist should have been properly raised with the alleged perpetrators, surprisingly this was not done. As a result this belated complaint will not be entertained by this Court. In any event no such bias could be found on a thorough evaluation of the evidence and the correspondence, it would also seem that Mr Bezuidenhout and Mr  
+[2020] JOL 47337 (GP) at 51
+Bosc made every effort to respect Ms Myeni's wishes and instructions. It was because they gave due respect to her and her position that this lucrative deal for SAA was never signed.
+
+[120]    In order to determine whether the conduct of Ms Myeni constitutes that of a delinquent director the Court, inter alia, needs to establish whether there was any valid reason for her not to sign the Emirates deal. On a charitable construction of her version, Ms Myeni's justification for not giving instructions for the signing of the MOU appeared, to be that a formal resolution of the board was required to approve the signing of the non-binding MOU with Emirates. According to Ms Myeni the board and herself were concerned that the MOU would unlawfully grant Emirates a fourth daily frequency. It is incomprehensible that Ms Myeni was unaware of the fact that it was DOT and not SAA, who granted frequencies and that the fourth frequency was granted by DOT.
+
+[121]    Ms Myeni went back and forth on the question of whether a formal board resolution was indeed required for the conclusion of the non-binding MOU. Under cross-examination Ms Myeni first insisted that a resolution was required, her Counsel interjected to say that this was not her version, after which Ms Myeni claimed that board approval was required, but not a formal resolution. Ms Myeni finally settled on the version that a resolution was needed. Ms Myeni's confusion on such an essential question was indicative of a gross lack of care and placed her credibility as a witness in question.
+
+ 
+[2020] JOL 47337 (GP) at 52
+
+[122]    No board resolution was in fact required for the signing of a non-binding MOU with Emirates. The MOU merely paved the way to further negotiations. A formal board resolution and other approvals would only have been needed after the negotiations, at the point where SAA and Emirates were seeking to conclude legally binding agreements.
+
+[123]    Mr Bezuidenhout testified that Ms Myeni had never raised the issue of the fourth frequency with him personally. He testified that the two primary concerns that Ms Myeni relayed to him were, the mistaken belief that Emirates sought to buy SAA, and the belief that Emirates was somehow involved in the illegal trade of South African wildlife.
+
+[124]    Her email of 2 May 2015 reflected the essence of Ms Myeni's concern. She was concerned about flights to other destinations, beyond OR Tambo. At no point in this email did Ms Myeni express any concern about Emirates' fourth frequency flight to Johannesburg. Instead, her concerns related to the mistaken belief that SAA was somehow giving Emirates new rights to fly domestic routes within South Africa, instead of getting into OR Tambo. Not only did this email conflict with Ms Myeni's alleged concern over the fourth frequency, but it also reflected her lack of understanding of how frequencies work. Emirates already had eight existing frequencies, allowing it to operate international flights between Dubai and three international airports in South Africa, namely, Johannesburg, Cape Town, and Durban. The MOU did not change this. Emirates never had permission to operate domestic routes between  
+[2020] JOL 47337 (GP) at 53
+airports in South Africa, nor did the MOU suggest that it would be given domestic routes.
+
+[125]    It would seem that Ms Myeni's obstruction of the MOU was, if this is accepted, based on an ignorance of how flight frequencies worked. Her failure to acquaint herself with this issue demonstrated a reckless lack of care.
+
+[126]    Mr Stein's expert evidence confirmed that it is the chairperson's duty to provide leadership to the board and to convene board and urgent board meetings when necessary. This is reinforced by clause 12.2.3 of the SAA Shareholder's Compact, which states that the board "recognises the importance of speedy decision-making, and will use its best endeavours to prevent undue delays with regard to critical decisions". Despite this Ms Myeni took no steps to expedite the matter.
+
+[127]    The question of whether Ms Myeni was indeed instructed by the then president, Mr Zuma not to allow the signing of the MOU is not determinative of the question of her alleged delinquency. Mr Bezuidenhout and Mr Meyer testified that, that was what she said, whether this instruction emanated from Mr Zuma, we will never know. What we do however know is that it was common cause that Ms Myeni gave a direct instruction not to proceed with the signing of the MOU on 16 June 2915 to the great embarrassment of not only Messrs Bezuidenhout, Meyer and Bosc, but ultimately to the detriment of SAA and the whole country.
+
+ 
+[2020] JOL 47337 (GP) at 54
+
+[128]    Ms Myeni had no valid reason to block the signing of the Emirates MOU. She was not acting on behalf of the board in issuing such an instruction, and she clearly was engaging in a frolic of her own. Whether or not Ms Myeni in fact invoked President Zuma's name could merely be of aggravation, which will not change the conclusion that there was serious misconduct on her part.
+
+[129]    Mr Bezuidenhout's testimony was undeniably credible and reliable. His testimony on the events of 16 June 2015 was corroborated by Mr Meyer, who was present with him at the time of the call and listened in when Mr Bezuidenhout placed the call on speakerphone. By contrast, Ms Myeni proved to be an unreliable and evasive witness.
+
+[130]    It was only during the course of her examination-in-chief that Ms Myeni for the first time alleged that the events of 16 June 2015 were not significant, as there was still an opportunity to conclude the Emirates MOU after 16 June, Ms Myeni testified that the board approved the MOU on 10 July 2015, and she testified that she could not understand why the executive did not conclude the MOU after that date. This evidence stands in stark contradiction with her pleadings, the version that was put on her behalf and the evidence of the other witnesses. While the events of 16 June 2015 did not bring a complete end to negotiations with Emirates, the damage to SAA was clearly incalculable. Ms Myeni did not provide this Court with a consistent credible version.
+
+ 
+[2020] JOL 47337 (GP) at 55
+
+[131]    The only witness who was given the opportunity to respond to Ms Myeni's new version on the 10 July 2015 meeting was Mr Meyer. He denied Ms Myeni's claims that these minutes reflected Ms Myeni's approval. He confirmed that at no point did Ms Myeni expressly revoke her instruction not to sign the MOU, nor did she ever express her support for the transaction.
+
+[132]    In summary, Ms Myeni did not have any reasonable grounds to block the signing of the Emirates MOU on 16 June 2015 or thereafter. This led to the inevitable conclusion that Ms Myeni breached her fiduciary duty to act in good faith, for a proper purpose, and in the best interests of SAA. The Emirates deal was never concluded, as a result of Ms Myeni's actions. This led to irreparable harm for SAA and the country. What motivated these reckless and detrimental actions to SAA and country, we still do not know. Ms Myeni acted recklessly and broke her fiduciary duty in sabotaging this deal and the people of South Africa and SAA's employees are paying the price for her actions.
+
+[133]    The evidence was that to this day Emirates retains its four daily frequencies to Johannesburg, yet SAA has obtained none of the benefits that were envisaged had it concluded an enhanced code-sharing arrangement with Emirates.
+
+The Airbus swap transaction
+
+ 
+[2020] JOL 47337 (GP) at 56
+
+[134]    The second cause of action with which the plaintiffs proceeded concerned Ms Myeni's alleged efforts to obstruct the conclusion of the swap transaction during 2015. This was an agreement between SAA and Airbus in 2015 to cancel a legacy contract for the purchase of 10 Airbus A320-200s and to substitute this with a new deal for SAA to lease five Airbus A330-300 aircraft directly from Airbus.
+
+[135]    This swap was necessary to allow SAA to escape onerous pre-delivery payments (PDPs) and inflated prices under the old contract. Time was of the essence, as the PDPs were nearly due. SAA was liable to pay over a R1 billion to Airbus in 2015, money which it did not have. If SAA defaulted on any PDPs, it faced the risk of triggering cross-default clauses on other loans and leases, with the effect that billions of rand in debt would fall due immediately. This would have had a significant knock-on effect on other government debts.
+
+[136]    The history of SAA's dealings with Airbus are common cause on the pleadings. In 2002, prior to Ms Myeni's tenure as a board member, SAA entered into a purchase agreement with Airbus for 15 A320-200 aircraft (the 2002 agreement). In 2009, SAA approached Airbus to revise the 2002 agreement. This led to the 2009 revised agreement, which included, inter alia, the following terms, namely that SAA would increase its order from 15 to 20 aircraft and in exchange, Airbus would agree to postpone the payment of PDPs to Airbus.
+
+ 
+[2020] JOL 47337 (GP) at 57
+
+[137]    During 2013, SAA did a deal to acquire the first 10 A320 aircraft through a novation of the 2009 revised agreement and a sale-and–leaseback transaction with Pembroke Aircraft Leasing ("Pembroke"), the aircraft financing arm of Standard Chartered Bank. This was referred to as the "Pembroke deal". SAA still had to pay for the remaining 10 aircraft under the 2009 revised agreement, which were scheduled for delivery from quarter two of 2015 until quarter four of 2017. PDPs were becoming due in 2015 and SAA was facing a substantial liability. As part of the 90-day action plan, the then Acting CEO, Mr Bezuidenhout, tasked the CFO, Mr Meyer, and the Commercial General Manager, Mr Bosc, with renegotiating the Airbus contract.
+
+[138]    These negotiations were driven by two imperatives. SAA was in a dire financial position. It was cash-strapped and did not have the money to pay the remaining PDPs and final delivery payments on the remaining 10 A320 aircraft, which amounted to billions of rand. The original contract locked SAA into a purchase price for the A320 aircraft, which now was far in excess of the market value of the aircraft. This would mean that SAA would have to write off over USD10 million on the delivery of each aircraft, which would have resulted in a substantial impairment of SAA's balance sheet.
+
+[139]    Mr Meyer and Mr Bosc testified that they spent months working on the deal, supported by their team at SAA. In late 2014, they travelled to Toulouse, France where they spent a week negotiating better terms for SAA. The outcome of these negotiations was the proposed swap  
+[2020] JOL 47337 (GP) at 58
+transaction. In terms of this deal, SAA and Airbus would agree to cancel the purchase of the remaining 10 Airbus A320-200s and to substitute this with a new deal for SAA to lease five Airbus A330-300 aircraft directly from Airbus.
+
+[140]    This deal would have significant benefits for SAA, as was captured in Mr Meyer's submissions to the board on 27 March 2015. The swap transaction would allow SAA to escape the onerous contract with Airbus and the outstanding PDPs. In addition, SAA would have received refunds on the PDPs that it had already paid under the deal. This was estimated to have a positive cash-flow impact of USD106 million over three years, over and above the cost of outstanding PDPs that would be avoided. The swap transaction would also allow SAA to avoid impairing its balance sheet by a further USD106 million as a result of the price escalations on the A320s. The added benefit was that this deal would give SAA access to more fuel-efficient wide-body aircraft in the form of A330-300s, which were needed to replace the inefficient and expensive A340-600 aircraft. This was consistent with SAA's network and fleet plan, which had specifically recommended this replacement.
+
+[141]    In her plea, Ms Myeni admitted that the swap transaction would indeed have significant benefits as it would, inter alia, alleviate SAA's liquidity problems associated with the 2009 revised agreement and would have allowed SAA to procure A330-300 aircraft. On 31 March 2015, the SAA Board unanimously resolved to approve the swap transaction. A  
+[2020] JOL 47337 (GP) at 59
+condition of the conclusion of the swap transaction was that SAA would obtain the necessary governance approvals, which included an approval from the Minister of Finance, in terms of section 54(2) of the PFMA and SAA's Significance and Materiality Framework.
+
+[142]    On 30 July 2015, the Minister of Finance conditionally approved the swap transaction in terms of section 54(2) of the PFMA, subject to receiving additional information on the deal. On 30 July 2015, the Acting Chief Executive Officer and the Chief Financial Officer of SAA had already signed the execution documents in terms of SAA's Delegation of Authority Framework, 2012. On 11 September 2015, the Minister of Finance unconditionally approved the swap transaction in terms of section 54(2) of the PFMA. His letter confirmed that the outstanding information had now been provided to the Treasury team.
+
+[143]    After the Minister's unconditional approval, the only outstanding task remaining was for the SAA Board to ratify the signatories to the execution documents. Mr Meyer testified that this ought to have been a mere formality, which should have taken no time at all.
+
+[144]    The swift conclusion of the swap transaction was not only necessary to rescue SAA's financial position, but it also became a key condition for SAA to receive any further going concern guarantees from the government. During December 2014, at the time that the Minister of Finance took over as the executive authority responsible for SAA, SAA's financial position was extremely weak. Ms Halstead testified that SAA  
+[2020] JOL 47337 (GP) at 60
+had been technically insolvent since at least 2012/2013. This situation meant that SAA was reliant on government guarantees to remain afloat. Ms Halstead testified that a guarantee is an undertaking that, if SAA were to default on its debts then the government would be liable to pay its creditors. Without these guarantees, SAA would not have been able to sign off on its financial statements as a going concern and would face liquidation. These guarantees were also necessary to give comfort to its lenders. In the absence thereof, no lender would have been willing to assist SAA. During August 2015, SAA had submitted an application for a R5 billion increase in their government guarantee facility. Ms Halstead and Mr Meyer confirmed that the requested amount was premised on SAA concluding the A320/A330 swap transaction.
+
+[145]    On 14 September 2015, Minister Nene wrote to Ms Myeni in response to SAA's application for the government guarantee. The Minister refused to consider the application, until seven key actions were taken, which included the conclusion of the swap transaction. He set a deadline for 18 September 2015 for this matter to be concluded. He stated that SAA had to finalise certain outstanding issues, which included the swap transaction. He pointed out that the delay was resulting in the annual financial statements not being signed off. He also required finalisation of the outstanding matters by 18 September 2015.
+
+[146]    Ms Halstead testified that the 18 September 2015 deadline was set based on the deadlines prescribed under the PFMA, for the finalisation and tabling of financial statements and annual reports. In terms of  
+[2020] JOL 47337 (GP) at 61
+section 65(2) of the PFMA, the Minister was required to table SAA's financial statements in Parliament by 30 September 2015. This could not be done if they had not been finalised and the going-concern guarantee was a prerequisite for their finalisation. Section 55(1)(d) of the PFMA requires that SAA ought already to have completed its financial statements by 31 August 2015. She testified that the delay was negatively impacting the confidence of lenders. It also meant that the AGM could not be held.
+
+[147]    Ms Myeni failed to meet this 18 September 2015 deadline and there was still no ratification of the deal. By September 2015 the board consisted of five members: Ms Myeni, Ms Kwinana, Dr Tambi, Mr Dixon and Mr Meyer. The Acting CEO at the time, Ms Mpshe, ought to have been regarded as a board member in terms of the MOU, but Ms Myeni took the view that she was not a proper board member and she was apparently excluded from board decisions.
+
+[148]    Despite approving the Swap Transaction on 31 March 2015 and supporting the section 54 application to the Minister, Ms Myeni, Ms Kwinana and Dr Tambi now began questioning the transaction. On 7 September 2015, shortly before confirmation of the Minister's unconditional approval, Ms Myeni had sent an email to Mr Meyer and the other board members setting out queries about the swap transaction. Mr Meyer replied on 13 September 2015, providing detailed responses. As reflected in Mr Meyer's correspondence, he expressed his confusion as to why Ms Myeni was raising these issues at  
+[2020] JOL 47337 (GP) at 62
+this point, after she had already approved the transaction on 31 March 2015 and signed off on the section 54 application to the Minister. The conclusion of the deal was now urgent and merely required a round-robin to ratify the signatories. On 16 September 2015, Mr Meyer sent a follow-up email to the board emphasising the urgency of concluding the swap transaction and explaining the risks of further delays.
+
+[149]    Rather than simply ratifying the signatories, Ms Myeni, Ms Kwinana and Dr Tambi then started engaging directly with Airbus representatives in an attempt to renegotiate the deal. All of the witnesses, including the expert, Mr Stein, noted that it was highly irregular for non-executive directors to attempt to meet directly with suppliers.
+
+[150]    On 24 September 2015, Ms Kwinana and Dr Tambi met with Mr Hadi Akoum, the Airbus Vice President of Sales in Africa, in Johannesburg. Mr Meyer testified that neither he, nor Mr Dixon were made aware of this meeting. On 25 September 2015, Mr Akoum sent an email directly to Ms Myeni following this meeting, addressing her on first-name terms Mr Akoum indicated that it was urgent that SAA conclude the swap transaction as Airbus had production deadlines. Mr Akoum further warned Ms Myeni that if SAA reverted to the 320 deal all PDPs would be payable and the aircraft would be delivered in the near future.
+
+[151]    On 25 September 2015, Mr Dixon responded expressing his concern that the other board members had met directly with Airbus, without his knowledge. Mr Dixon also emphasised that, in his view, board approval  
+[2020] JOL 47337 (GP) at 63
+had already been granted for the swap transaction and that there was no reason for further delays. On Sunday 27 September 2015, Mr Meyer emailed Ms Myeni and the other board members again, following further discussions with Mr Akoum. Mr Meyer relayed a text message he had received from Mr Akoum, which stated: "Hi Wolf, no feedback from Dudu or board members. We will send a default notice next week for the outstanding A320 POP's. Sorry, regards Hadi."
+
+[152]    Mr Meyer reminded the board that the delay would have horrendous implications for SAA and also result in SAA failing to meet its targets and undertakings in the 90-day action plan, the corporate plan and the shareholder's compact. Despite Mr Meyer's warnings and the Minister's instruction to conclude the swap transaction by 18 September 2015, there was still no ratification.
+
+[153]    When asked in cross-examination why there was a delay, Ms Myeni failed to offer any plausible explaining [sic]. She initially suggested that she wanted to ratify, but was held back by other board members. When pressed further, she then suggested that there were unspecified concerns over the swap transaction and that the board wanted to explore all options. She failed to give any clear answer on where she stood on the transaction and why she took no proactive steps to expedite matters. Mr Meyer testified that far from being neutral, it was Ms Myeni who took the lead in blocking the finalisation and attempted to renegotiate the deal with Airbus. This was evident from Ms Myeni's correspondence directly with Airbus.
+
+ 
+[2020] JOL 47337 (GP) at 64
+
+[154]    On 29 September 2015, Ms Myeni sent a letter to the President and CEO of Airbus, Mr Fabrice Bregier, seeking unilaterally to change the agreed swap transaction. Ms Myeni stated that:
+
+"On behalf of the Board of South African Airways, I would like to apologise for the delay in reaching a decision on the A320 / A330 swap transaction. You will appreciate that this is a complex transaction and the full Board had to be satisfied that the approved deal is in the best interests of the company and the government of the Republic of South Africa at this point of time.
+
+I am pleased to inform you that SAA has decided to do this transaction slightly differently, by engaging an African Aircraft Leasing Company to engage directly with you. As there has been a delay in reaching this decision, SAA is agreeable to extending the delivery dates by a month or two. This company will then work directly with SAA going forward,
+
+I trust you will find the above in order."
+
+[155]    Ms Myeni claimed in evidence that her letter of 29 September 2015 was prepared by the Company Secretary, Ms Kibuuka, in an apparent attempt to shift the blame for any misrepresentations. However, when pressed, Ms Myeni stated that she approved of the contents of the letter. Ms Myeni further testified that she checked all draft correspondence carefully before signing and that by signing this letter she indicated her approval of its contents. Therefore, there is no basis for Ms Myeni to attempt to disavow this letter.
+
+[156]    Mr Bosc, Mr Meyer and Ms Mpshe testified that this letter took them by complete surprise. Ms Myeni had made no attempt to consult with them, other board members, or members of EXCO before sending it. They were adamant that there was no board resolution to change the  
+[2020] JOL 47337 (GP) at 65
+nature of the transaction and the chairperson did not have the authority to change such a deal without approval. There was also no "African Aircraft Leasing Company" in place to engage with Airbus. Moreover, Airbus's tight production schedules did not permit SAA to dictate delivery periods, as Ms Myeni attempted to do.
+
+[157]    All of the plaintiffs' witnesses were unanimous that it is unheard of for a non-executive chairperson to take the step of writing directly to the head of a major supplier to attempt to renegotiate a deal that was already approved. Mr Bosc emphasised that the negotiation process up to that point had taken more than nine months of planning and negotiation involving people at SAA, Treasury and Airbus, many of whom were specialists. He stressed that the acquisition of aircraft is a highly complex and specialised task.
+
+[158]    Not only did Ms Myeni seek to change the nature of the transaction, but she also went directly to the President and CEO of Airbus, who had not previously been involved in the negotiations. It was common cause on the pleadings that at the time that Ms Myeni sent this letter, that the SAA Board had not decided to amend the terms of the swap transaction, nor had the Minister approved this amendment of the swap transaction.
+
+[159]    On 5 October 2015, Mr Bregier sent a letter to Ms Myeni expressing his surprise at her letter of 29 September 2015. Mr Bregier indicated that, in Airbus's view, the transaction was already on the verge of completion following the signing of the transaction documentation on 31 July 2015  
+[2020] JOL 47337 (GP) at 66
+and the fact that both the SAA Board and the Minister had already approved the transaction. Mr Bregier further indicated that Airbus would not permit the introduction of an "African Aircraft Leasing Company" at this stage, as Airbus had strict procurement requirements. A leasing company could only be introduced, after Airbus had concluded a full request for proposals ("RFP") process. Mr Bregier concluded with the thinly veiled threat that any further delays would result in Airbus taking steps to "preserve its rights" – which was a reference to its rights to demand payment of the PDPs in terms of the 2009 revised agreement.
+
+[160]    As a result, Airbus had made its position clear. It was not willing to consider the insertion of an African aircraft leasing company as a precondition for the conclusion of the swap transaction. It was, however, open to the inclusion of such a company in a future RFP process that was envisaged, after the swap transaction was concluded. In the meantime, any further delays in concluding the swap transaction would mean that SAA would be held liable for the outstanding PDPs under the existing agreement, amounting to almost USD40 million by the end of November 2015.
+
+[161]    Rather than heeding Airbus's warnings, Ms Myeni, aided by Ms Kwinana and Dr Tambi, then sought to use these warnings as a pretext to push through the appointment of a transaction advisor. On 5 October 2015, Ms Myeni received Mr Bregier's letter via email. Ms Myeni then  
+[2020] JOL 47337 (GP) at 67
+circulated this letter to Ms Kwinana and Dr Tambi, excluding Mr Dixon and Mr Meyer.
+
+[162]    On 28 and 29 September 2015, around the time that Ms Myeni sent the letter to Airbus, a meeting was held at the Intercontinental Hotel at OR Tambo, involving SAA management and some members of the board. Ms Myeni sought to characterise this as a board meeting, but all of the plaintiffs' witnesses insisted that it was nothing of the sort. Mr Bosc testified that members of senior executives of SAA had initially been summoned to this meeting by Ms Myeni. At the last minute, the venue was changed from the SAA headquarters to the Intercontinental Hotel.
+
+[163]    Mr Bosc, Ms Mpshe and Mr Meyer attended this meeting. They described it as a two-day monologue, during which Ms Myeni spoke at great length, reflecting her personal views on a range of topics. No agenda had been circulated in advance, as Ms Myeni had rejected the one proposed by the executive. There were no meeting packs, no submissions, no votes, and no resolutions passed.
+
+[164]    On 3 November 2015, Ms Mabana Makhakhe, the Deputy Company Secretary, emailed a copy of the draft minutes of this meeting to board members seeking their approval. Mr Meyer, Mr Bosc and Ms Mpshe all confirmed that these draft minutes were not an accurate reflection of the meeting and that, to the best of their knowledge, these minutes were never approved. In response to these minutes Mr Bosc immediately  
+[2020] JOL 47337 (GP) at 68
+emailed Mr Viwe Soga, Head of the Legal Department at SAA, to ask that draft minutes be corrected as they were wrong.
+
+[165]    Both Ms Mpshe and Mr Meyer testified that they fully concurred with Mr Bosc's objections to the draft minutes and adopted his views as their own. Mr Bosc, Ms Mpshe and Mr Meyer further confirmed in their testimony that the portions of these draft minutes that dealt with the swap transaction are false. These draft minutes stated that "It was agreed that the response to the Minister should state that the structure of the A320 transaction was being reviewed by the Board and it was observed that the local aircraft leasing company was a better option for SAA". They confirmed that the board did not reach any such agreement, nor was there a resolution to this effect. Instead, it was Ms Myeni who raised the issue of a local aircraft leasing company, but declined to give any further details as she feared that information may be leaked to the media. Under the heading "Local Aircraft Leasing Company" the minutes stated that:
+
+"The Board requested Management to direct Members to individuals or Institutions which could unlock opportunities for SAA. In particular it was stated that there was a need to. access the Department of Trade and Industry (DTI) National Industrial Participation Programme (NIPPs) funding for the local aircraft leasing company. It was stated that the idea was to request DTI through one of its entities to hold a majority stake in the aircraft leasing company together with the Public Investment Corporation (PIC) and the Development Bank of Southern Africa (DBSA)."
+
+ 
+[2020] JOL 47337 (GP) at 69
+
+[166]    The witnesses confirmed that the board made no such request at the meeting. There was also no resolution passed to amend the swap transaction or to overturn the resolution of 31 March 2015.
+
+[167]    Ms Myeni's letter of 29 September 2015 had an immediate reaction from Airbus. On 1 October 2015, Mr Jerome Charieras of Airbus sent an email to Mr Meyer and Ms Mpshe explaining the consequences of the board's failure to approve the swap transaction.
+
+"Based on the Letter from South African Airways Chair received yesterday by Airbus it seems that the Board hasn't approved A320 swap by A330-300 yet.
+
+As explained in Hadi Akoum's letter dated 27th September 2015, SM is forcing us to go back to the A320 agreement until the A330 contract is approved.
+
+Therefore, you are going to receive a request for the outstanding PDP's of US$ 16 873 719,74 and another PDP's request for the soon to come November 2015 PDP's of US$ 22 421 660,91.
+
+These PDP's will be added to the already received PDP's and should SAA decided to move forward with the A330 agreement returned to SAA based on the documents signed on 30th July 2015."
+
+[168]    On 6 October 2015, Ms Kwinana wrote to Ms Myeni and the board, suggesting that SAA must urgently procure a transaction advisor to assist in making a decision. She made specific reference to the "questions and concerns that you [Ms Myeni] raised". At 10:03pm, just half-an-hour later, Ms Myeni responded to Ms Kwinana's email stating the following:
+
+"Dear Chairperson of Audit and Risk 
+[2020] JOL 47337 (GP) at 70
+I support this and would rather try and expedite this by writing to the entire board.
+
+I know that 2 members of the board, being Mr Dixon and the CFO approved this long ago. But after the EXCO mentioned that they had never interrogated the swap at the EXCO meeting, it was evident that this was only done by a few people and then round robined this to the rest of the EXO members. There was absolutely no ownership of these huge numbers at EXCO level. Can this stand public scrutiny?
+
+I take your advice and will send a memo to the Board Regards."
+
+[169]    Mr Dixon and Mr Meyer were strongly against a transaction advisor, as appeared from their emails. In his correspondence and his testimony, Mr Meyer also strongly disputed that the swap transaction had only been approved by two board members and was not interrogated by EXCO. The swap transaction had, in fact, received unanimous board approval on 31 March 2015. On 7 October 2015, Mr Meyer responded pointing out that "[t]he Chair already indicated to Airbus that the Board supports the transaction and that it was only the South African lease vehicle issue being the stumbling block and now this? We are losing all credibility". On the same day, Mr Dixon responded recording his strong objections to the appointment of a transaction advisor, as appears in his email. Mr Dixon further pointed out that there was nothing stopping the board from exploring the option of a local leasing company after the swap transaction was concluded.
+
+[170]    On 8 October 2015, Mr Meyer sent a further email to the board again emphasising that no transaction advisor was needed. He further advised that the delays in concluding the swap transaction would  
+[2020] JOL 47337 (GP) at 71
+impact on SAA's cash flow and would potentially trigger cross-default clauses. Mr Bosc responded to add that SAA had already consulted no less than four transaction advisors on this deal. Following this exchange, Ms Myeni circulated a letter to the board in which she personally recommended the appointment of Quartile Capital as the transaction advisor.
+
+[171]    During Ms Mpshe's testimony, Ms Myeni's Counsel raised an objection to this letter, claiming that it was an unsigned, undated letter which was inadmissible. This objection was out of time as the admissibility of this letter had already been determined by agreement between the parties in the pretrial minute of 16 October 2019. In response to the objection, the court ruled that in the absence of any reasonable notice of the objection, the document was admissible and that the only issue is the weight to be given to the document, which was a matter for argument.
+
+[172]    That objection was in due course overtaken by events. The plaintiffs subsequently subpoenaed the signed version from SAA which was then produced by SAA's Company Secretary, Ms Kibuuka. The signed version, bearing Ms Myeni's signature, was dated 12 October 2015. In this letter, Ms Myeni repeated her claim that the swap transaction did not enjoy full board and EXCO support. Ms Myeni further indicated that she was aware of some unidentified third party that indicated that it wished to make a funding proposal for the swap transaction. This consortium comprised both private and State-controlled financial institutions according to her. Ms Myeni stated that she had personally  
+[2020] JOL 47337 (GP) at 72
+approached Quartile Capital to be the transaction advisor on the swap transaction and that she had considered them as they are perceived to be independent and credible. She sought to justify this step by claiming that there was now urgency which was largely dictated by circumstances which were outside the control of the board.
+
+[173]    Both Mr Meyer and Ms Halstead testified that the attempt to procure the services of a transactional advisor directly, without any open and competitive tender process was manifestly unlawful. There had also been no application to Treasury to permit a deviation from normal procurement procedures.
+
+[174]    This appointment of a transaction advisor appeared to have been confirmed on 23 October 2015, when the board resolved "to approve the engagement of a competent transactional adviser to deliver, validate and/or enhance the A320 / A330 swap transaction, and the R15 Billion Funding Requirement and RFP". This resolution further provided that "management should explore the option of negotiating a reasonable success fee based on the savings realised".
+
+[175]    Mr Meyer raised his objections to the appointment of a transaction advisor in a letter to the board, dated 26 October 2015. He specifically noted that no proper procurement process had been followed and that there was no non-disclosure agreement with Quartile Capital. He also made reference to a report on the swap transaction, which had been prepared by Quartile Capital, in its capacity as a transaction advisor,  
+[2020] JOL 47337 (GP) at 73
+and stated that he reviewed the proposal from Quartile Capital and realised that it displayed a lack of aptitude and understanding of the transaction. Mr Meyer's email and his testimony indicated that Quartile Capital was indeed involved at the time, contrary to Ms Myeni's claims to know nothing about its role.
+
+[176]    On 10 October 2015, certain members of the board met with Mr Hadi Akoum of Airbus to again discuss the swap transaction. Ms Kwinana, Dr Tambi, Mr Dixon and Mr Meyer attended the initial meeting. Mr Meyer testified that after he and Mr Dixon left the initial meeting, Ms Myeni and Mr Motloba of Quartile Capital arrived and conducted a second meeting with Mr Akoum. Mr Meyer further testified that he had seen Mr Motloba of Quartile Capital in the lobby of the hotel on his way to the meeting and was aware of his presence.
+
+[177]    On 14 October 2015, Mr Akoum wrote directly to Ms Myeni, again on first name terms. In this letter, Mr Akoum referred to the private meeting with Ms Myeni on 10 October 2015. He again indicated that Airbus rejected SAA's request to entertain a sale-down of the lease transaction to the African Aircraft Leasing Company, as a precondition for the swap transaction. Instead Airbus suggested to sell SAA the five A330s. SAA would then enter into a sale and leaseback with the African Aircraft Leasing Company. This meant SAA would immediately be liable to pay PDPs to the value of USD17 million and an additional USD100 million within 30 days of execution of the deal. Mr Akoum demanded a response by 16 October 2015.
+
+ 
+[2020] JOL 47337 (GP) at 74
+
+[178]    Mr Meyer testified that he was startled by Mr Akoum's letter, as he had not been consulted on any proposal to purchase the five aircraft directly from Airbus. He testified that SAA did not have USD 117 million that would now be required in 30 days under a sale agreement. Later that day, also on 14 October 2015, Mr Meyer wrote to Ms Cynthia Stimpel, SAA Treasurer, indicating that he had not been party to the discussions with Airbus about the direct purchase of the A330s, that this would have significant financial implications, that SAA did not have the liquidity required for this new deal, and that National Treasury had immediately to be alerted to this new development and the financial implications.
+
+[179]    On 15 October 2015, Mr Meyer sent a letter to the Director General of National Treasury, Mr Lungile Fuzile, wherein he explained that in light of these new developments and the delay in concluding the swap transaction, SAA would likely be unable to meet its debt obligations. He attached Mr Akoum's letter of 14 October 2015 to alert Treasury to the danger. Ms Halstead testified that, had it not been for Mr Meyer's correspondence, Treasury would likely have been entirely unaware of Airbus's position and the risk of over USD100 million in PDPs that were to be paid. Mr Meyer testified that he sent this letter to Treasury, because he was aware that Ms Myeni would not do so, despite the obligation on the board to alert Treasury to any potential defaults on SAA's obligations in terms of SAA's guarantee framework agreement.
+
+[180]    Mr Meyer's warnings to Treasury were echoed in a memorandum prepared for the SAA Board on 6 November 2015. Ms Mpshe submitted  
+[2020] JOL 47337 (GP) at 75
+this memorandum to the board, reflecting a legal opinion on the consequences of further delays in the conclusion of the swap transaction. Ms Myeni did not respond to these warnings.
+
+[181]    While these events were unfolding, Minister Nene was in regular correspondence with Ms Myeni. His correspondence reflected Treasury's increasing concern at the dangers facing SAA. On 29 September 2015, Ms Myeni wrote to the Minister, indicating that a local leasing company was being explored for the swap transaction. A copy of this letter was never discovered by SAA, but its tenor is apparent from the Minister's reply.
+
+[182]    The Minister responded to Ms Myeni in a letter dated 30 September 2015. He reiterated that any amendment to the approved swap transaction should leave SAA in a better financial position. He also required that SAA submit details, including a comprehensive business case for the proposed alternatives for his consideration. Minister Nene concluded his letter by highlighting the grave consequences of SAA's delays in finalising its financial statements, which was in large part caused by the delay in concluding the swap transaction.
+
+[183]    On 20 October 2015, Minister Nene sent a further letter to Ms Myeni. He noted that since his letter of 30 September, Ms Myeni had failed to provide any further feedback on outstanding matters before the going-concern guarantee would be considered. He further emphasised that no funding allocation would be made to SAA given the tight fiscal position.
+
+ 
+[2020] JOL 47337 (GP) at 76
+
+[184]    On 3 November 2015, Minister Nene sent a further letter to Ms Myeni addressing the delays in concluding the swap transaction. Minister Nene referred to a meeting held with Ms Myeni on 2 November 2015, where her proposed changes to the swap transaction were discussed. Minister Nene again expressed his frustration that the swap transaction had still not been concluded, and that SAA has not responded in more than three weeks despite the urgency of the matter. This was holding up consideration of the government guarantee and was preventing SAA from finalising its financial statements and holding its AGM.
+
+[185]    On 9 November 2015, Ms Myeni submitted the business case that had been requested by Minister Nene, setting out the proposed changes to the swap transaction. Ms Myeni signed the business case. Its original author remained unknown. Mr Meyer testified that he had never seen this business case, he was not consulted on its contents, and it was not discussed at board level. This was despite the fact that he was still the CFO at the time and he would ordinarily have been directly involved in preparing such documents.
+
+[186]    Ms Halstead testified that her team at Treasury conducted an analysis of this business case that highlighted many gaps, flaws and misstatements. She pointed out that Ms Myeni's proposals were contradictory and ambiguous. All of the possible options that SAA might have been contemplating reflected a material amendment to the original swap transaction, requiring that they sought approval from the Minister of Finance in terms of section 54(2) of the PFMA. No such application  
+[2020] JOL 47337 (GP) at 77
+had been submitted. As a result of Mr Meyer's warnings, Treasury was aware that, should SAA be responsible for purchasing the A330 aircraft, USD117 million in PDPs would be payable within 30 days. However, Ms Myeni's business case claimed that no PDPs would be payable at all.
+
+[187]    Ms Myeni claimed that SAA would follow due process to secure a local leasing company and possible financiers, but no procurement process had been commenced, which would have taken a long time to reach finality. A proper process could not be completed in 30 days, according to Mr Meyer and Ms Halstead.
+
+[188]    The Minister wrote to Ms Myeni on 10 November 2015 and again on 12 November 2015, indicating that the business case provided little in the way of concrete information that would be required to make an informed decision. In his letter of 10 November 2015, Minister Nene highlighted the ongoing serious corporate governance and fiduciary failures on the part of the board by failing to conclude the swap transaction.
+
+[189]    In his letter of 12 November 2015, the Minister further advised Ms Myeni that the changes to the swap transaction, that she was considering, would constitute a significant amendment to the transaction and would therefore require that SAA reapply for approval in terms of section 54(2) of the PFMA. He underlined that this application should be submitted by 16 November 2015, failing which no further discussions or applications relating to the amendment of the transaction structure would be  
+[2020] JOL 47337 (GP) at 78
+entertained and SAA would be required to implement the transaction structure in line with the approval that had already been granted.
+
+[190]    He directed that SAA was to provide certain information in a section 54 application. This should include all costs that the airline would incur in respect of the transaction, including the lease rate at which the local leasing company had committed to lease the aircraft to SAA, financing costs that would be incurred, return conditions, penalties, cabin configuration etc. In the event of an outright purchase, the expected residual value of the aircraft at the end of a 12-year period with an explanation of how this value was estimated. It should also include cash flow and profitability projections over the full lifetime of the transaction and the approach to ensure that SAA would have the cash resources available to meet all payments when they fall due. The background information regarding the company from which the aircraft would be leased, including a financial and legal due diligence. It should explain the process followed in selecting the company from which the aircraft would be leased, through a procurement process, that was in line with all legislative requirements and all related legal agreements.
+
+[191]    At this point all the senior executives who were opposed to Ms Myeni's plan were removed. Mr Bosc was placed on special leave during early October 2015, Ms Mpshe was removed from her position as acting CEO on 13 November 2015. Mr Meyer tendered his resignation on 12 November 2015 and left SAA on the same day, as he said that his  
+[2020] JOL 47337 (GP) at 79
+relationship with Ms Myeni became intolerable. Mr Dixon had also resigned shortly before Mr Meyer.
+
+[192]    Mr Bosc, Ms Mpshe and Mr Meyer testified that they played no role in preparing the section 54 application that was subsequently submitted to the Minister, nor were they consulted on this application. Mr Meyer had been involved in the preparation of the original section 54 application, which was submitted in May 2015, but was now excluded from the process.
+
+[193]    On 16 November 2015, Ms Myeni submitted the new section 54 application to the Minister. Ms Myeni sought approval to amend the approved swap transaction to insert an African aircraft leasing company, to be financed by an unidentified local consortium of banks.
+
+[194]    Ms Myeni signed a covering letter to the application setting out the core of the justification for this amendment. Mr Bosc, Ms Mpshe, Mr Meyer and Ms Halstead highlighted significant errors, falsehoods, and omissions during their evidence. Their analysis was reflected in the Minister's letters of 24 November 2015 and 3 December 2015, which provided a more restrained, but equally scathing analysis.
+
+[195]    In her covering letter, Ms Myeni referred to the alleged benefits of a lease in rand. She claimed that this would save SAA approximately R2.6 billion in currency hedging costs as a ZAR lease would have no hedging costs. Mr Bosc, Ms Mpshe, Mr Meyer and Ms Halstead testified  
+[2020] JOL 47337 (GP) at 80
+that this was manifestly false. There will always be currency hedging costs, regardless of the structure of the lease. A local leasing company, or some other middleman would still have to pay Airbus for the aircraft in US dollars, regardless of the structure of the transaction. The currency risk would then be passed on to SAA in some way, either directly or by building the costs into the price of the lease.
+
+[196]    Ms Halstead and Mr Meyer further testified that the R2.6 billion hedging cost was grossly inflated and was entirely unsubstantiated. Ms Halstead testified that she had personally spoken to several financial institutions to obtain indicative hedging costs, which came back at a small fraction of this amount.
+
+[197]    Ms Myeni also suggested that her proposal would somehow leave SAA with an asset. This statement made no sense, as Ms Myeni was still proposing that SAA would lease the aircraft, rather than acquiring them directly. Moreover, Mr Bosc and Mr Meyer testified that wide-body aircraft like the A330 lose a substantial proportion of their value over time and cannot easily be resold, making a lease a far less risky option than an outright purchase.
+
+[198]    Ms Myeni further stated to the Minister that the options in the SAA business case presented to him were not for SAA to either acquire outright the five A330s, or enter into a ZAR-denominated lease. SAA's business proposal was, according to her, to facilitate, from the local financial institutions, the outright acquisition/purchase of the five A330s and, leasing them to SAA by way of a ZAR-denominated lease. Ms  
+[2020] JOL 47337 (GP) at 81
+Halstead testified that the precise nature of this proposal remained unclear, as it was uncertain whether Ms Myeni was proposing that SAA purchase the aircraft and then engage in a sale-and-leaseback, or whether the local aircraft leasing company would be acquiring these aircraft directly from Airbus.
+
+[199]    These different options involved very different legal and practical challenges. Either of these scenarios would still have involved lengthy and complex procurement processes, which would have taken many months to complete and would have required further section 54 approvals. Mr Meyer testified that from his experience in concluding the Pembroke deal during 2013, such a process could take between three and six months minimum. In fact, the proposed deal would have required far more time. The Pembroke deal had involved an established and reputable international aircraft leasing company, in contrast with this proposal where Ms Myeni was now envisaging the creation of a new local aircraft leasing company from scratch. In this case, there was simply no time to follow such a lengthy and complex process, as Airbus had made clear that it required finality on the matter within 30 days.
+
+[200]    Ms Myeni stated that in respect of the rates that the South African lessor would charge SAA for the five A330s, and any antecedent financial terms and conditions, these would be negotiated and finalised as soon as the procurement process of the South African financial institution(s) was complete. This was further confirmation that the transaction was entirely speculative, as it still relied on a procurement process being  
+[2020] JOL 47337 (GP) at 82
+followed at some later date. Ms Myeni concluded her letter by claiming that there was no real urgency to complete the transaction, as she alleged that no PDPs were in fact due and payable.
+
+[201]    Ms Myeni attached to her covering letter an email from Airbus, dated 16 November 2015 In this email, Mr Akoum referred to earlier correspondence from Ms Myeni dated 11 November 2015 and stated the following:
+
+"Dear Chairperson,
+
+Airbus is willing exceptionally to give SAA another 30 days exemption from its obligations on the A320 due PDP payment until we have a clear understanding on how Nedbank would be financing the direct purchase by SAA of the 5 A330-300. MY team will contact SAA acting CEO to define a date for the joined meeting with Nedbank."
+
+[202]    Contrary to what Ms Myeni claimed, this email demonstrated that Airbus was still insisting on payment of the PDPs. Furthermore, Airbus' reference to a meeting with Nedbank indicated that Airbus had either been told or led to believe that Nedbank would be financing the deal. Ms Myeni accepted this proposal under cross-examination.
+
+[203]    A further attachment to the section 54 application, sent by Ms Myeni was an "unsolicited proposal" on a Nedbank letterhead, signed by a Mr Masotsha Mngadi. The letter is dated 30 October 2015 and was addressed directly to the board members. The plaintiffs' witnesses noted that this letter was highly suspicious. Ms Halstead testified that she and her Treasury team were having weekly meetings with the major banks at the time, including Nedbank. At no time had Nedbank ever  
+[2020] JOL 47337 (GP) at 83
+indicated that they had made or approved any such unsolicited proposal for the financing of these aircraft. Ms Halstead further testified that she became aware of Mr Mngadi in 2016, when it emerged that he was acting for BNP Capital, which had been improperly appointed as a transaction advisor for SAA's R15 billion recapitalisation plan. Mr Mngadi was later fired by Nedbank for his involvement in that deal.
+
+[204]    Mr Meyer testified that he was never shown this letter, even though he was still CFO when it was ostensibly sent to the board. He testified that any such unsolicited proposal ought to have been directed through his office and through the EXCO. It was highly improper for such a letter to be sent directly to the board and for Ms Myeni to then use this unsolicited proposal to justify the section 54 amendment application. In any event, Mr Mngadi's letter was not an offer of finance, but was merely a speculative proposal which was still subject to proper procurement processes being followed.
+
+[205]    Under cross-examination, Ms Myeni was asked to explain why this Court should not find her grossly negligent in allowing such a defective section 54 application to be submitted under her name. She declined to offer any answer, even when pressed by the Court. She was content to state that "my non-response does not mean that I was grossly negligent". When pressed further, Ms Myeni suggested that it was not her job to prepare such applications and that this was the task of the CEO and EXCO. She stated "The CEO [Musa Zwane] signed it . . . I  
+[2020] JOL 47337 (GP) at 84
+assumed that it must have gone through all the relevant EXCO approvals".
+
+[206]    There was no evidence whatsoever that the section 54 application went through any proper EXCO process. The documents bore all the hallmarks of having been prepared by Ms Myeni and the remaining board members themselves, without any meaningful input from the executive. This was apparent from several significant features of these documents. The section 54 application form contained only two signatures, Ms Myeni's and Mr Zwane's, the new Acting CEO. There were no signatures from any other members of the EXCO or the company secretary, as would be expected in such an application.
+
+[207]    Even if Mr Zwane, the Acting CEO, had some role in preparing this application, it would have been entirely unreasonable for Ms Myeni to simply rubber-stamp his work. Ms Myeni knew full well that Mr Zwane had been in the position for no more than three days, after Ms Mpshe was removed from her position on 13 November 2015. The CFO, Mr Meyer, had resigned on 12 November 2015, and confirmed in his testimony that he was not consulted on this section 54 application before his departure. In these circumstances, a responsible chairperson would have closely scrutinised the section 54 application, knowing that the acting CEO had no prior involvement in the matter.
+
+[208]    Ms Myeni attempted to cast doubt on the authenticity of this section 54 application, suggesting that there was "something sinister about this  
+[2020] JOL 47337 (GP) at 85
+document". No such version had been put to any of the plaintiffs' witnesses. In any event, Ms Myeni submitted the self-same section 54 application to the Minister of Finance on 17 December 2015, complete with all the same deficiencies and errors. Her belated attempt to cast doubt on the 16 November 2015 application can only point to dishonesty.
+
+[209]    On 24 November 2015, the Minister pointed out serious flaws in the section 54 application and directed Ms Myeni to provide further information by 27 November 2015. Ms Myeni responded on 30 November 2015, providing some further information, but not enough to satisfy the Minister and his team.
+
+[210]    On 3 December 2015, the Minister of Finance declined Ms Myeni's request to amend the existing section 54 approval. Minister Nene further directed that Ms Myeni and the remaining SAA Board members must conclude the approved swap transaction without delay and by no later than 21 December 2015, which was the deadline set by Airbus. Failure to meet that deadline would mean that Airbus would issue a default notice in respect of the outstanding PDPs. On 9 December 2015, Minister Nene was fired by the former President, Mr Zuma and replaced by Minister Des van Rooyen. On 13 December 2015 Minister van Rooyen was replaced by Minister Gordhan as Minister of Finance.
+
+[211]    On 15 December 2015, shortly after taking office, Minister Gordhan wrote to Ms Myeni, recording their conversation earlier that day. 
+
+ 
+[2020] JOL 47337 (GP) at 86
+
+Minister Gordhan's letter started by acknowledging the turmoil of the previous week, the speculation surrounding SAA's involvement in Minister Nene's removal, and the need for swift action to restore market confidence.
+
+[212]    Minister Gordhan indicated that he was willing to afford Ms Myeni one final opportunity to make out a case for the proposed amendments to the approved swap transaction. He further arranged for a meeting between SAA and the Deputy Minister for the following day, 16 December 2015. Ms Halstead testified that Ms Myeni and the other non-executive board members failed to attend that meeting, as is reflected in the minutes.
+
+[213]    On 17 December 2015, Ms Myeni submitted a section 54 application to Minister Gordhan. Apart from a new covering letter, this application was identical to the application of 16 November 2015. On 20 December 2015, Minister Gordhan rejected the amended section 54 application on the same grounds as his predecessor.
+
+[214]    He directed that SAA was to conclude the swap transaction by 21 December 2015 and he outlined a detailed series of deadlines for the actions necessary to conclude this deal in time. He specified that this would require that, the board approve execution of the swap transaction, either through a meeting in person, teleconference or through round robin. The board's resolution to execute the lease transaction with Airbus was to be provided to his office by 1pm on 21  
+[2020] JOL 47337 (GP) at 87
+December 2015. The board's decision was to be communicated to Airbus and confirmation was to be obtained in writing from Airbus that it was in agreement. The confirmation from Airbus was to be provided to his office by as soon as it was received, but before close of business on 21 December 2015, and a press statement would be released at 3pm by National Treasury on 21 December 2015, which should preferably be done as a joint statement with SAA.
+
+[215]    Minister Gordhan concluded his letter by calling on Ms Myeni and the SAA Board to show leadership at a time of national crisis and stated that a failure to do so would constitute a collective neglect of fiduciary responsibility to SAA and the country.
+
+[216]    In her testimony, Ms Halstead detailed the events of 21 December 2015. On that day, she worked closely with other Treasury officials, including Mr Momoniat, the Acting DG, in attempting to conclude the swap transaction. They were in contact with the Minister regularly throughout the day. Ms Halstead testified that, to her knowledge, Ms Myeni, Ms Kwinana and Dr Tambi were travelling, creating challenges in securing a round-robin approval of the transaction. This was despite the fact that it should have been well known to all of the board members that 21 December 2015 was the deadline for concluding on the transaction, failing which SAA would have to pay the PDPs. Despite this threatening disaster, Ms Myeni had made no proactive efforts to coordinate the board members and to convene a special board meeting ahead of time. Ms Myeni admitted as much under cross-examination.
+
+ 
+[2020] JOL 47337 (GP) at 88
+
+[217]    Ms Halstead further testified that Ms Myeni reported to the Minister that she had received a letter from Ms Kwinana, resigning from the board. The Minister directed Ms Myeni to share a copy of the letter with him. Up to the date of the conclusion of the trial, no copy of such a letter had ever been provided and, despite having supposedly served her resignation, Ms Kwinana continued serving on the board until August 2016.
+
+[218]    Late on the afternoon of 21 December 2015, Mr Momoniat contacted Mr Akoum of Airbus by finding his telephone number on an Airbus letterhead. Ms Halstead testified that she was in Mr Momoniat's office at the time and listened in on the call. Mr Akoum stated that no one from SAA had made any contact with Airbus that day, to explain the situation, or to inform them of the way forward before close of business on 21 December 2015. Nevertheless, Mr Akoum agreed to provide an additional 24 hours to resolve the matter.
+
+[219]    It later emerged that Ms Myeni had received a letter from Airbus on the morning of 21 December 2015, but the contents were only shared with National Treasury after they called Airbus directly. Airbus's letter clearly outlined that in order for SAA to conclude the swap transaction, as the Minister had directed, Airbus required that by close of business on 21 December 2015 the SAA Board had to confirm in writing its unconditional approval of the swap transaction as agreed. If no such approval was delivered, Airbus would immediately issue a default notice in respect of the outstanding PDPs.
+
+ 
+[2020] JOL 47337 (GP) at 89
+
+[220]    Late during the evening, the company secretary reported to National Treasury that she had finally secured the necessary approvals. The board resolution was only communicated to Treasury and Airbus on 22 December 2015.
+
+[221]    The only evidence of a resolution was found in a document that merely confirmed that on 31 March 2015 the board approved the swap transaction. No other resolutions had been discovered or delivered, despite subpoenas issued to SAA and National Treasury. Ms Halstead confirmed that to the best of her recollection, this was the document that was sent to National Treasury on 22 December 2015. Ms Myeni did not dispute this during her evidence.
+
+[222]    It was clear from the evidence that despite all the delays Ms Myeni and the board on 22 December 2015, merely confirmed the resolution of 31 March 2015, which begs the question why the matter was delayed.
+
+[223]    Ms Halstead and Mr Meyer both gave evidence about the likely consequences for SAA and the country had Treasury not intervened. Their evidence stood uncontested. SAA had no money to pay the outstanding PDPs. Had Airbus issued a default notice, this would have triggered the cross-default clauses and the acceleration of billions of rand in debt. SAA would have been forced into business rescue or liquidation. The government would also have faced a call on its guarantees, jeopardising the fiscus at a time of economic and political  
+[2020] JOL 47337 (GP) at 90
+turmoil. In Ms Halstead's words this would have had a catastrophic domino effect on other SOEs and the economy.
+
+[224]    Faced with all of these risks, Ms Myeni's attitude seemed to be one of supine indifference. No effort was made to convene a special board meeting in advance of the 21 December 2015 deadline, let alone arrange for board members to be contactable on the day. Most damning was the fact that Ms Myeni and the board members also made no attempt to contact Airbus that day, despite the fact that Ms Myeni had little difficulty in corresponding with Airbus directly on previous occasions.
+
+[225]    When confronted with this evidence, Ms Myeni merely claimed that she had personally signed a resolution on 21 December 2015, but was at a loss to explain what further steps she had taken to contact Airbus or to ensure that the other necessary signatures were obtained in time.
+
+[226]    Ms Myeni's version on the swap transaction was inconsistent, and generally incomprehensible. In the cross-examination of Mr Bosc, Ms Myeni's Counsel failed to put any meaningful version on the Airbus deal to him. This Court warned Counsel of the consequences. Similarly, Ms Myeni's Counsel failed to present anything resembling a full or complete version to Ms Mpshe or Ms Halstead. The majority of their evidence was left uncontested, despite this Court's further warnings.
+
+ 
+[2020] JOL 47337 (GP) at 91
+
+[227]    It was only during Mr Meyer's testimony that Ms Myeni's Counsel presented something approximating a version. This version attempted to distance Ms Myeni from the events by claiming that she had not attended any meetings with Airbus, that she was merely a mouthpiece for the board, and was caught in the middle between different factions. Mr Meyer responded that this was incorrect, as Ms Myeni had played the leading role in attempting to renegotiate the swap transaction and that she had direct dealings with Airbus throughout. His evidence was supported by all the correspondence presented during the trial.
+
+[228]    In her testimony, Ms Myeni attempted to deny any individual responsibility. While she, at this point, admitted to meeting with Airbus on 10 October 2015 and to corresponding directly with Airbus's representatives, she continued to claim that she was merely acting on behalf of a "collective". She repeatedly attempted to pass the buck to Ms Kwinana, Dr Tambi, and other unnamed members of the executive, whom she claimed were in favour of renegotiating the swap transaction. She refused to give any clear answer as to whether she in fact supported or opposed the original swap transaction, but continuously insisted that the board wanted to weigh up all options. It was clear that Ms Myeni was in favour of only a single option, namely the insertion of an unidentified African aircraft leasing company as a precondition for concluding the deal.
+
+[229]    Ms Myeni was at a complete loss to explain why she had supported the swap transaction in March 2015 and had signed the section 54  
+[2020] JOL 47337 (GP) at 92
+application in May 2015, but later on sought to second-guess that decision. Ms Myeni could not explain why the board did not simply ratify the swap transaction and then later explore the option of a local aircraft leasing vehicle. The question was put to her repeatedly, both by Counsel and by the Court, but she provided no coherent or logical response. She in fact admitted that she could provide no answer.
+
+[230]    The evidence clearly indicated Ms Myeni's obstruction and delay of the swap transaction. As chairperson of the board she did not show any concern for the catastrophic consequences of her actions not only for SAA but the country.
+
+Conclusion
+
+[231]    In light of all the evidence a determination must be made of whether a declaration of delinquency under section 162(5) is appropriate and if so, for which period it should apply. It is a matter of public record that SAA is presently under business rescue. While writing this judgment Covid-19 and its devastating consequences also reached our shores. We are experiencing the perfect storm, our economy is faltering our SOEs are limping along with difficulty and SAA might in all probability finally be pushed over the abyss and countless employees may lose their jobs.
+
+[232]    Ms Myeni's evidence posed serious difficulties for her defence. The versions put on her behalf during the trial changed, the plaintiffs' witnesses did not get the opportunity to answer to crucial aspects of her  
+[2020] JOL 47337 (GP) at 93
+evidence, as it was never put to them and her evidence contradicted her plea. She did not deem it fit to attend the trial during the plaintiffs' presentation of their case. Her reason for not attending Court was unconvincing. Countless truly poor and uneducated South Africans manage to attend court proceedings with great difficulty. Her pleading poverty is distasteful in the light of the plight of millions [sic] unemployed people. She is by all accounts a professional woman who served and still serves as director of several companies. She is one of the privileged few.
+
+[233]    Ms Myeni was a dishonest and unreliable witness. A perusal of the evidence as set out above illustrates abundantly that her evidence was unreliable and more often than not, blatantly untrue. As a result her version of events cannot be accepted.
+
+[234]    The failure to put a proper version to all the witnesses and the numerous contradictions which revealed itself during her evidence poses a serious difficulty for Ms Myeni's defence. It is trite that if a defendant wishes to contradict the evidence of an opposing witness, or to draw a negative inference, or imputation about that witness, that version must be put to the witness in cross-examination to allow him or her an opportunity to respond. In President of the Republic of South Africa v SARFU,29 these principles were set out as follows:
+
+ 
+[2020] JOL 47337 (GP) at 94
+The institution of cross-examination not only constitutes a right, it also imposes certain obligations. As a general rule it is essential, when it is intended to suggest that a witness is not speaking the truth on a particular point, to direct the witness's attention to the fact by questions put in cross-examination showing that the imputation is intended to be made and to afford the witness an opportunity, while still in the witness box, of giving any explanation open to the witness and of defending his or her character. If a point in dispute is left unchallenged in cross-examination, the party calling the witness is entitled to assume that the unchallenged witness's testimony is accepted as correct. This rule was enunciated by the House of Lords in Browne v Dunn and has been adopted and consistently followed by our courts.
+The rule in Browne v Dunn is not merely one of professional practice but 'is essential to fair play and fair dealing with witnesses'. It is still current in England] and has been adopted and followed in substantially the same form in the Commonwealth jurisdictions.
+The precise nature of the imputation should be made clear to the witness so that it can be met and destroyed, particularly where the imputation relies upon inferences to be drawn from other evidence in the proceedings. It should be made clear not only that the evidence is to be challenged but also how it is to be challenged. This is so because the witness must be given an opportunity to deny the challenge, to call corroborative evidence, to qualify the evidence given by the witness or others and to explain contradictions on which reliance is to be placed."30
+
+[235]    This was manifestly not done. Counsel for Ms Myeni was warned about the failure to put a proper version to the witnesses. Maybe if Ms Myeni bothered to attend the trial, she could have instructed her Counsel properly. She has only herself to blame for the shortcomings in the presentation of her case.
+
+[236]    However, the Court must despite the aforesaid determine whether the plaintiffs' succeeded in proving their case, with reference to the  
+[2020] JOL 47337 (GP) at 95
+applicable legal principals. In order to determine whether the requirements of section 162(5) were met, to declare her a delinquent director, her actions must be measured against what was required of her as a chairperson and board member of SAA.
+
+[237]    The evidence as set out above speaks for itself, it does not reveal one single legitimate reason why Ms Myeni, frustrated and ultimately caused the demise of the lucrative Emirates deal, which if it could not have saved SAA, could at least have strengthened its financial position considerably and would have limited some of the financial fallout. It might even have been in a position to weather the storm that it is facing now. Her evidence explaining the events and her actions during the course of this deal was unconvincing and were both inexplicable and reckless. One cannot but suspect that there were some other forces at play, behind the scenes, but it is not for this Court to venture into the realm of speculation.
+
+[238]    In my view Ms Myeni's conduct in blocking the Emirates deal satisfies multiple grounds of delinquency under section 162(5)(c) of the Companies Act. Not only did she deliberately or through gross negligence inflict substantial harm on SAA, but her belated attempts to justify her conduct show that she acted dishonestly, in bad faith and not in the best interests of SAA and the country.
+
+[239]    Regarding the Airbus deal, Ms Myeni's version was inconsistent and sometimes even incomprehensible. In the cross-examination of Mr  
+[2020] JOL 47337 (GP) at 96
+Bosc, Ms Myeni's Counsel failed to put any meaningful version on the Airbus deal to him. Similarly, Ms Myeni's Counsel failed to present anything resembling a full or complete version to Ms Mpshe or Ms Halstead. The majority of their evidence was left uncontested. As stated previously it was only during Mr Meyer's testimony that something approximating a version was put to him.
+
+[240]    In her testimony, Ms Myeni attempted to deny any individual responsibility. She claimed that she was merely acting on behalf of a "collective" as set out above. The legal framework referred to above dealt comprehensively with the fact that directors can either collectively or individually be held responsible. Ms Myeni cannot hide behind the so-called "collective", but must take responsibility for her actions. She is after all an experienced director, with years of experience serving at not only at SAA, but also on other boards.
+
+[241]    It is also unclear who this "collective" was. It could only have been Ms Myeni, Dr Tambi and Ms Kwinana, as we knew that the evidence was clear that the other board members pressed for the conclusion of the swap transaction.
+
+[242]    Under the Companies' Act, the board of directors of a company have collective and ultimate responsibility for management of the company in terms of section 66(1). Section 66(1) provides that:
+
+"the business and affairs of a company must be managed by or under the direction of its board, which has the authority to  
+[2020] JOL 47337 (GP) at 97
+exercise all of the powers and perform any of the functions of the company, except to the extent that this Act or the company's memorandum of incorporation provides otherwise."
+
+[243]    However, this collective responsibility is operationalised by converting it into individualised responsibility and liability for each of the board members. The individual duties of all company directors are now partially codified in the Companies Act. In particular, sections 76(2)(a) and 76(3) of the Companies Act entrench the fiduciary duties of directors and the duties of care, skill and diligence as fully set out above. Minister Nene warned her in his correspondence that the board was not executing its fiduciary duty, but this warning made no impression on her as her actions illustrated.
+
+[244]    Ms Myeni's 29 September 2015 letter to Airbus was at the very least, grossly negligent, as it misrepresented the facts to Airbus and was sent without board authority. The evidence established incontrovertibly that Ms Myeni's letter contained false statements, including a statement that she was acting on behalf of the board.
+
+[245]    It was false of Ms Myeni to claim that the full board still had to be satisfied that the deal was in the best interest of SAA as the full board had already unanimously approved the swap transaction in their resolution of 31 March 2015.
+
+[246]    The only plausible inference that can be drawn from the evidence is that Ms Myeni made misrepresentations to Airbus and the Minister knowingly  
+[2020] JOL 47337 (GP) at 98
+and wilfully. Ms Myeni could have been in no doubt about the content of the letter to Airbus and the gravity of the changes to the transaction that she was proposing. As chairperson of the board, Ms Myeni would also have known full well that there was no board resolution to authorise her actions. Therefore, this Court can only conclude that there was deliberate dishonesty and a gross abuse of power by her, as contemplated in section 162(5)(c)(i) of the Companies Act.
+
+[247]    The letter to Airbus was further in breach of section 77(3)(a) of the Companies Act, read with section 162(5)(c)(iv)(bb), as Ms Myeni plainly acted in the name of the company, and signed it on behalf of the company, despite knowing that she lacked the authority to do so. On Ms Myeni's own admission, there was no board resolution at the time authorising her to unilaterally change a deal that had already been approved by the board and the Minister.
+
+[248]    Under cross-examination, Ms Myeni confirmed that before sending this letter she took no steps to check whether there was a board resolution to support such a change, the evidence shows that she made no attempt to discuss the contents of the letter with other board members, nor did she even circulate this letter to other board members in advance. On her own admission, there was no care taken on a significant letter that jeopardised the entire swap transaction and exposed SAA to financial ruin.
+
+ 
+[2020] JOL 47337 (GP) at 99
+
+[249]    The mere fact that Ms Myeni attempted to unilaterally renegotiate the swap transaction with Airbus, following more than nine months of work by specialists and experts on the existing deal, is itself indicative of recklessness, as with her vast experience she must have known better.
+
+[250]    In her plea, Ms Myeni's only defence was to deny that she had ever represented to Airbus that the board had decided to change the transaction. The content of Ms Myeni's letter gives lie to what was contained in the pleadings. Ms Myeni was plainly representing that the board had taken a decision to effect a significant change to the deal.
+
+[251]    In her evidence and under cross-examination, Ms Myeni sought to advance another defence that contradicted her plea. She appeared to claim, contrary to the evidence, that there was a board resolution for introduction of the "African Aircraft Leasing Company", despite her plea admitting that there was no such resolution. Ms Myeni's application to withdraw her admissions was refused and no further application for any amendment to her pleadings was made, despite the Court's invitation to do so if the evidence should justify it. As a result the admissions made in her pleadings stand.31
+
+[252]    A further ground for declaration of delinquency is that Ms Myeni's 16 November 2015 application to the Minister to approve the section 54(2) approval was dishonest and failed to disclose material facts. She did not reveal that there was no board resolution to bring this application and  
+[2020] JOL 47337 (GP) at 100
+furthermore misrepresented to the Minister that Airbus would not insist on payment of the PDPs as set out above.
+
+[253]    Directors' duties of good faith and honesty are set out in the PFMA. Section 50(1)(b) requires of directors of public entities to "act with fidelity, honesty, integrity and in the best interests of the public entity". Section 50(c) goes further by imposing a duty of disclosure. Directors of public entities must "on request, disclose to the executive authority responsible for that public entity . . . all material facts, including those reasonably discoverable, which in any way may influence the decisions or actions of the executive authority. . .". Ms Myeni failed to disclose material facts and did not act in the best interests of SAA by sabotaging the Emirates deal and nearly ruining the Airbus transaction.
+
+[254]    Honesty and full disclosure have particular significance under section 54(2) of the PFMA. A Minister can only exercise effective oversight over major transactions that require his or her approval, if information is presented honestly, fully and accurately. Ms Halstead, Mr Bosc, Ms Mpshe and Mr Meyer pointed out a long list of falsehoods, misrepresentations and omissions of material facts in Ms Myeni's covering letter to the section 54(2) application and the accompanying documents. Their evidence stands uncontradicted.
+
+[255]    Ms Myeni could have been in no doubt as to the true facts at the time she signed off on the section 54 application to the Minister. Airbus had made its position clear in its correspondence and at the meeting of 10 October 2015. The issue of the PDPs was also set out in explicit detail  
+[2020] JOL 47337 (GP) at 101
+in Mr Meyer's repeated warnings to the board, the 6 November 2015 opinion submitted to the board by Ms Mpshe, and the Minister's letter of 12 November 2015. She clearly attempted to wilfully misrepresent the true facts to the Minister.
+
+[256]    Not only was Ms Myeni untruthful in the section 54 application, but the application also failed to disclose material facts that were directly relevant to the Minister's decision, in direct breach of her duties under section 50(1)(d) of the PFMA.
+
+[257]    Minister Nene's repeated insistence that Ms Myeni and the SAA Board provide further information could have left her in no doubt as to the need for full and frank disclosure. Her failure to take any care to ensure that the section 54 application contained all relevant information was, at the least grossly negligent. The section 54 application was also in breach of the PFMA and the significance and materiality framework, as there was no evidence of any formal board resolution to support this application.
+
+[258]    The significance and materiality framework agreement provides the procedural requirements for such a section 54 application. This framework specifically requires that all section 54 applications must be accompanied by "a certified resolution by the Board or appropriate Board committee as well as information on which the Board or committee based its resolution".
+
+ 
+[2020] JOL 47337 (GP) at 102
+
+[259]    In the section 54 application, Ms Myeni explicitly recorded that a board resolution was attached. The accompanying attachment was merely a "Board Submission" signed by Ms Myeni and Ms Kwinana. By all appearances, this submission was prepared and approved by Ms Myeni and Ms Kwinana alone. Ms Myeni herself conceded that this document was irregular.
+
+[260]    The evidence established that Ms Myeni knowingly took SAA and the country to the brink of disaster by delaying the conclusion of the swap transaction. Were it not for the intervention of the Minister of Finance and the efforts of Treasury officials in December 2015, SAA would have, at that point already, faced almost certain ruin.
+
+[261]    After the Minister's unconditional approval on 11 September 2015, the only outstanding requirement was for the board to ratify the signatories to the swap transaction. Rather than doing so, the evidence demonstrates that Ms Myeni joined by Dr Tambi and Ms Kwinana failed or refused to ratify it. Ms Myeni then actively participated in efforts to renegotiate the swap transaction. The fact that she was supported in these efforts by Dr Tambi and Ms Kwinana does not in any way absolve her of individual responsibility. She signed off on the fraudulent letter to Airbus on 29 September 2015, she signed the proposals and section 54 amendment application, sent to Minister Nene on 16 November 2015. She inserted herself into negotiations with Airbus, and she supported the improper appointment of a transaction advisor, where it was not appropriate or necessary to appoint one.
+
+ 
+[2020] JOL 47337 (GP) at 103
+
+[262]    Ms Myeni admitted during cross-examination that the PDPs were in fact due and payable and that SAA did not have the money to pay PDPs. The uncontested evidence detailed above shows the dire consequences for SAA and the country if SAA had defaulted on these payments by delaying conclusion of the swap transaction.
+
+[263]    Ms Myeni displayed complete disregard for public funds. The Court asked her whether it was her evidence that SAA had the money to pay the PDPs that were due and payable. She answered "SAA belongs to government 100% . . . they wouldn't allow SAA to fail". This answer revealed Ms Myeni's true attitude. She honestly believed that there was no problem if SAA defaulted on its debts, as the government and the public ought to have been saddled with SAA's debts, regardless of the consequences. This was despite the repeated and consistent warnings from Minister Nene that the government did not have the money to bail out SAA and would not do so.
+
+[264]    It is disconcerting that a non-executive board member, let alone chairperson could interfere and could very nearly collapse a transaction, which would have brought SAA to its knees. This is what nearly happened during the swap transaction. The evidence illustrated how Ms Myeni did not comply with the direct instructions of the shareholder, represented at that time by Minister Nene as Minister of Finance and how she made no attempt to comply with deadlines set by him and later by Minister Gordhan. It is inconceivable that a chairperson of especially a SOE could be so dismissive of the shareholder's  
+[2020] JOL 47337 (GP) at 104
+instructions. The timeline is also interesting, as the firing of Minister Nene occurred a mere three days after he instructed her to see to the signing the Airbus swap transaction.
+
+[265]    In delaying the conclusion of the swap transaction, Ms Myeni wilfully and recklessly contributed to SAA breaching its financial reporting obligations under the PFMA. Section 55(1) of the PFMA requires the accounting authority of a public entity to prepare annual financial statements and submit such financial statements to the auditors as well as to the relevant Treasury within two months after the financial year end. Section 55 further requires the accounting authority to submit the audited financial statements along with the auditor's report on the financial statements and an annual report to Treasury, the responsible executive authority and the Auditor-General (if it did not perform the audit) within five months of the end of the financial year. The report and audited financial statements must then be submitted for tabling in Parliament or the provincial Legislature.32
+
+[266]    Section 65(1) requires the executive authority responsible for the public entity, being the Minister of Finance, to table the annual report, audited financial statements and audit report in Parliament, within one month after the accounting authority has received the audit report. If the executive authority fails to table these documents in Parliament within six months, after the end of the financial year, subsection (2) obliges the  
+[2020] JOL 47337 (GP) at 105
+executive authority to provide a written explanation to Parliament in which case the Auditor-General may issue a special report on the delay.
+
+[267]    It follows that the SAA Board had a duty to prepare and submit SAA's financial statements to the auditors and Treasury on 31 May 2015. SAA then had until 31 August 2015 to submit to National Treasury its annual report and audited financial statements together with the auditors' report. Treasury then had an obligation in terms of section 61 to table the relevant documents in Parliament within one month of receiving them from SAA, which would be 31 September 2015 at the latest.
+
+[268]    As reflected in Minister Nene's letter of 14 September 2015, the conclusion of the swap transaction was a prerequisite for SAA to be granted the R5 billion government guarantees that would ensure that the company's 2014/2015 annual financial statements could be prepared on a going-concern basis, as opposed to an insolvent basis. Despite Ms Myeni being made aware of this fact she took no steps to ensure that the resolution authorising the executives to sign the Airbus deal was approved. In fact, she did the opposite by attempting to renegotiate the existing swap transaction with Airbus. Despite numerous warnings, as is evident from the correspondence between Minister Nene, and later Minister Gordhan, and her, Ms Myeni failed to take expeditious steps to conclude the swap transaction. This conduct was wilful and in breach of her duties under the PFMA.
+
+ 
+[2020] JOL 47337 (GP) at 106
+
+[269]    In Msimang NO and another v Katuliiba and others,33 the court held that the reckless failure by two directors of a private company, inter alia, to ensure the timely preparation of annual financial statements for the company and to hold AGMs was sufficient for an order declaring them to be delinquent directors. This case is even more deserving of a delinquency order, as the impact of these breaches was not confined to a narrow class of private shareholders. As a State-owned entity, SAA's failure to prepare and finalise financial statements timeously, robbed the public at large of effective oversight over SAA finances and jeopardised SAA's ability to raise funding.
+
+[270]    The evidence in this case conclusively demonstrated that Ms Myeni's conduct was delinquent as envisaged in section 162(5)(c) of the Companies Act. Accordingly, this Court must declare Ms Myeni a delinquent director and the Court, as already stated, has no discretion in this regard.34 This Court only has a discretion in respect of the conditions that may be attached to the order and its duration.35 It must be stated that even if this Court had a discretion, this would have been an instance where the exercise of such a discretion would have led to a declaration of delinquency. Section 162(6) of the Companies Act provides that a declaration of delinquency under section 162(5)(c) subsists for a minimum period of seven years or such longer period as determined by the court.
+
+ 
+[2020] JOL 47337 (GP) at 107
+
+[271]    The plaintiffs argued that a lifelong declaration of delinquency is appropriate. In this instance Ms Myeni caused untold harm to SAA and the South African economy by what can only be described as sabotaging, the lucrative Emirates deal and very nearly ruining the swap transaction. Although all of SAA's woes can certainly not be attributed to her alone, she surely contributed significantly to the position SAA and the economy finds itself in today. SAA would in all probability have been in a much better position, if not profitable, were it not for Ms Myeni's actions. Her actions during the negotiations of this deal were inexplicable and there exists a reasonable possibility that something sinister was going on behind the scenes. This in my view constitutes sufficient ground for the NPA to consider the evidence presented during the trial and to investigate the circumstances surrounding the Emirates deal and the Airbus swap transaction, if they find it appropriate. These investigations if undertaken should include the other board members who were implied.
+
+[272]    Ms Myeni's actions as chairperson of the board caused SAA immense harm. She was a director gone rogue, she did not have the slightest consideration for her fiduciary duty to SAA. She was not a credible witness, as already stated, she changed her versions, contradicted herself, blamed others and played the victim. Her actions did not constitute mere negligence but were reckless and wilful.
+
+ 
+[2020] JOL 47337 (GP) at 108
+
+[273]    If both an objective and subjective test is applied, one can safely conclude that she did not act as a reasonable director in the light of her vast experience as a director. Ms Myeni failed to give any reasonable explanation for her numerous failures, misrepresentations and actions, this Court cannot but find that she failed abysmally in executing her fiduciary duty. In my view a lifelong delinquency order is appropriate. Ms Myeni is not a fit and proper person to be appointed as a director of any company, let alone a board member of an SOE.
+
+[274]    A lifelong delinquency order still offers the hope of some redemption. It will always remain open to Ms Myeni to apply to the court after three years from the date of this order for the declaration of delinquency to be suspended in terms of subsections 162(11) and (12). This would require her to demonstrate to court that she has sufficiently remedied and rehabilitated her misconduct.
+
+[275]    It was argued on her behalf that the plaintiffs were obliged to deal with the other causes of action contained in the pleadings. This argument has no merit the question is whether the evidence led justify [sic] a finding of delinquency and in my view it undoubtedly does that.
+
+[276]    It will not be inappropriate for this Court to take judicial notice of the immense harm that was done to the country and its people in the last years due to the mismanagement, not only of SAA, but also other SOEs and the suffering that it brought and continues to bring to millions of  
+[2020] JOL 47337 (GP) at 109
+South Africans. To serve on a board of an SOE should not be a privilege of the politically connected. Government has, as custodian of the common good, an obligation to ensure that suitably qualified people, with integrity are appointed in these positions. Whoever serves on the Board of an SOE should ultimately be a servant of the people and whoever is appointed as such, has a sacred duty to society and should ensure that State resources are not squandered, or the economy placed at risk. In my view the plaintiffs were correct when they submitted that a higher duty rests on non-executive directors of SOE's, who are appointed by the government of the day as the shareholder. It is a matter of public knowledge that SAA received billions in government guarantees, leaving government liable should SAA default on any of its liabilities. Not only the courts, but also government should hold board members of SOEs accountable when they fail to execute their duties.
+
+Costs
+
+[277]    The plaintiffs submitted that they are entitled to their costs in these proceedings, on a punitive scale. The Court was referred to Public Protector v South African Reserve Bank36 where the following was stated in relation to a punitive costs order:
+
+. . . The punitive costs mechanism exists to counteract reprehensible behaviour on the part of a litigant. As explained by this Court in Eskom, the usual costs order on a scale as between party and party is theoretically meant to ensure that the successful party is not left 'out of pocket' in  
+[2020] JOL 47337 (GP) at 110
+respect of expenses incurred by them in the litigation. Almost invariably, however, a costs order on a party and party scale will be insufficient to cover all the expenses incurred by the successful party in the litigation. An award of punitive costs on an attorney and client scale may be warranted in circumstances where it would be unfair to expect a party to bear any of the costs occasioned by litigation.
+The question whether a party should bear the full brunt of a costs order on an attorney and own client scale must be answered with reference to what would be just and equitable in the circumstances of a particular case. A court is bound to secure a just and fair outcome.
+More than 100 years ago, Innes CJ stated the principle that costs on an attorney and client scale are awarded when a court wishes to mark its disapproval of the conduct of a litigant. Since then this principle has been endorsed and applied in a long line of cases and remains applicable. Over the years, courts have awarded costs on an attorney and client scale to mark their disapproval of fraudulent, dishonest or mala fides (bad faith) conduct; vexatious conduct; and conduct that amounts to an abuse of the process of court."
+
+[278]    Ms Myeni's dishonesty, breach of fiduciary duty, recklessness and gross negligence have already been addressed in detail above. This constitutes reprehensible conduct and is sufficient reason for a punitive costs order as a mark of this Court's disapproval. Her actions caused SAA and the country immense harm and it was of the utmost importance that she be brought before a court to answer for her deeds.
+
+[279]    Ms Myeni not only proved to be dishonest in her dealings at SAA, but she has also been dishonest with this Court. This dishonesty is demonstrated by her attempts to explain her failure to appear in Court at the very beginning of the trial on 7 October 2015.
+
+ 
+[2020] JOL 47337 (GP) at 111
+
+[280]    In her postponement application, Ms Myeni initially claimed to have no money to travel to Court. She stated on affidavit that "I was . . . unable to be present in court on the day the matter was set down for hearing as I had no means to come from Richards Bay to Pretoria". She further claimed that she was "unemployed" and that "it is not easy for me to travel from KwaZulu-Natal to Gauteng without any funding".
+
+[281]    In that affidavit, Ms Myeni failed to disclose to this Court that she earned over R4.3 million in directors' remuneration during her time at SAA and an additional R3.45 million from her time as a director on the Mhlathuze Water Board, not to mention her undisclosed earnings from her numerous other directorships over the years. She also failed to disclose that she remains an active director of at least four companies, including her ongoing role as Deputy Chairperson at Centlec, a Free State parastatal, which paid her at least R274 364 in directors' fees in 2018. Nor did she mention that she owns a property in Richard's Bay worth at least R4.2 million. When confronted with this evidence in cross-examination, Ms Myeni made no attempt to deny it.
+
+[282]    Instead, Ms Myeni sought to offer yet another explanation for the failure to attend Court. She claimed that it was unfair to expect her to spend her own money on the litigation, in circumstances where she believed that SAA's insurers ought to have paid for her costs. This entirely contradicts her previous pleas of poverty, demonstrating that she perjured herself on affidavit. She admitted that she exercised a  
+[2020] JOL 47337 (GP) at 112
+deliberate choice not to come to Court. Such dishonesty and disrespect of this Court's processes is worthy of a punitive costs order.
+
+[283]    In addition, Ms Myeni's conduct of this litigation also requires condemnation. Between October and November 2015, she launched no less than four separate interlocutory applications, which in itself is not problematic, but when those applications were dismissed, Ms Myeni waited until the scheduled commencement of this trial on 27 January 2019 to file two separate applications for leave to appeal, long out of time. This conduct was clearly calculated to cause maximum delay and disruption. In fact, it succeeded in prolonging this trial substantially and contributed to the plaintiffs' costs.
+
+[284]    Ms Myeni finally elected not to attend trial for the duration of the plaintiffs' evidence, despite this Court's repeated warnings that this would compromise her defence. In these circumstances, justice and equity requires that the plaintiffs be fully indemnified, to the greatest extent possible, for the costs of this litigation.
+
+[285]    The following order is made:
+
+Ms Myeni is declared a delinquent director in terms of section 162(5) of the Companies Act.
+This declaration of delinquency is to subsist for the remainder of Ms Myeni's lifetime, subject to the  
+[2020] JOL 47337 (GP) at 113
+provisions of sections 162(11) and (12) of the Companies Act.
+Ms Myeni is directed to pay the costs of this action on an attorney and client scale, including the costs of three Counsel.
+This judgment and the evidence led is referred to the NPA for their consideration and determination of whether an investigation regarding possible criminal conduct should follow.
+
+
+Footnotes
+1	Organisation Undoing Tax Abuse and another v DC Myeni (15996/2017) (12 December 2019.
+2	 S 162(6)(b).
+3 the SCA stated that section 162 has a protective purpose:	 2017 (2) SA 337 (SCA) (Gihwala) [also reported at [2016] 2 All SA 649 (SCA); [2016] JOL 35573 (SCA) – Ed].
+4	Gihwala para [144].
+5	Gihwala para [149].
+6.	Gihwala para [145].
+7	Gihwala para [140].
+8	 S 162(10).
+9 It was explained as follows:	Gihwala para [149] and in Lewis Group Ltd v Woollam and others 2017 (2) SA 547 (WCC) para [18] [also reported at [2017] 1 All SA 192 (WCC) – Ed], the court held that "[t]he relevant causes of delinquency entail either dishonesty, wilful misconduct or gross negligence. Establishing so called 'ordinary' negligence, poor business decision making or misguided reliance by a director on incorrect professional advice will not be enough".
+10	Gihwala para [143].
+11	Para [143]. This ss is qualified by reference to s 76(2)(a) which does not limit its scope and provides:
+ "(2) A director of a company must–
+ (a) not use the position of director, or any information obtained while acting in the capacity of a director–
+ (i) to gain an advantage for the director, or for another person other than the company or a wholly owned subsidiary of the company; or
+ (ii) to knowingly cause harm to the company or a subsidiary of the company".
+12	Gihwala para [143].
+13	Gihwala para [143].
+14	Gihwala para [144].
+15	Transnet Ltd t/a Portnet v Owners of the MV "Stella Tingas" and another 2003 (2) SA 473 (SCA) at para [7] [also reported at [2003] JOL 10533 (SCA) – Ed].
+16	Philotex (Pty) Ltd and others v Snyman and others; Braitex (Pty) Ltd and others v Snyman and others 1998 (2) SA 138 (SCA) at 143C–144A [also reported at [1998] JOL 1881 (A) – Ed]; Transnet Ltd t/a Portnet v Owners of the MV "Stella Tingas" and another 2003 (2) SA 473 (SCA) at para [7] [also reported at [2003] JOL 10533 (SCA) – Ed]; S v Dhlamini 1988 (2) SA 302 (A) at 308D–E [also reported at [1988] 2 All SA 106 (A) – Ed].
+17.	Tsung and another v Industrial Development Corporation of South Africa Ltd and another 2013 (3) SA 468 (SCA) at para [31] [also reported at [2013] 2 All SA 556 (SCA); [2013] JOL 30237 (SCA) – Ed].
+18 the meaning of wilful conduct as envisaged by section 162(c)(iv) was described with reference to 	 [2013] 1 All SA 580 (GSJ); see also KLM Royal Dutch Airlines v Hamman 2002 (3) SA 818 (W) [Msimang] [also reported at [2002] 3 All SA 484 (W); [2002] JOL 9764 (W) – Ed].
+19 as follows:	Msimang para [38].
+20	Myeni v Organisation Undoing Tax Abuse NPC and others (15996/2017 [2019] SAGPPHC 565 (2 December 2019) para [70].
+21	Henochsberg on the Companies Act 71 of 2008 issue 18 at 298(20)–299(2).
+22 The SAA Board is in turn accountable to the "executive authority" under the PFMA. Since December 2014, the Minister of Finance has served in this role.	 PFMA s 49(2)(a).
+23 of SAA. In 	 PFMA, s 51(1)(b)(ii)).
+24 the Constitutional Court said that a public entity's internal policies are "not merely internal prescripts that [an entity] may disregard at whim".	 2014 (1) SA 604 (CC) (AllPay) [also reported at 2014 (1) BCLR 1 (CC) – Ed].
+25	AllPay at para [40].
+26 where it was stated that both executive and non-executive directors are subject to the same legal duties, which include duties of care, skill and diligence. Compliance with these duties requires an assessment of the role actually played by the director, the information available to her and the information that could have been available. If one considers the powers executed by non-executive directors, it is clearly appropriate that no distinction should be drawn between the two groups.	 1991 (2) SA 660 (A) at 678 [also reported at [1991] 2 All SA 113 (A) – Ed].
+27 The chairperson must also provide "overall leadership to the board without limiting the principle 	 King III para [40.1].
+28	 King III para [40.2].
+29 these principles were set out as follows:	President of the Republic of South Africa and others v South African Rugby Football Union and others 2000 (1) SA 1 (CC) [also reported at [1999] JOL 5301 (CC); 1999 (10) BCLR 1059 (CC) – Ed].
+30	 Para [32].
+31	Myeni v Organisation Undoing Tax Abuse NPC and others [2019] ZAGPPHC 565 (2 December 2019).
+32	 S 55(1)(d).
+33 the court held that the reckless failure by two directors of a private company, 	 [2013] 1 All SA 580 (GSJ).
+34	Gihwala at para [140].
+35	 S 162(10) of the Act.
+36 where the following was stated in relation to a punitive costs order:	Public Protector v South African Reserve Bank [2019] ZACC 29; 2019 (9) BCLR 1113 (CC) at paras [221]–[223] [also reported at [2019] JOL 45174 (CC) – Ed].
+
+Appearance:
+Adv C Steinberg, Adv C McConachie, Adv N Kakaza, Pandor Attorneys (P); Adv BN Buthelezi, Lugisani Mantsha Incorporated (D)
+
+
+End of Document

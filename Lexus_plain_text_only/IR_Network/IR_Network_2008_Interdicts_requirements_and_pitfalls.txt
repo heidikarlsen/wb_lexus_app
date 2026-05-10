@@ -1,0 +1,110 @@
+
+
+
+
+Interdicts – requirements and pitfalls
+IR - Editorial
+
+Interdicts – requirements and pitfalls
+
+By far the most Labour Court decisions relate to review of arbitration awards. But granting interdicts comes close behind. This editorial looks at some of the basic rules relating to interdicts and also looks at three decisions that illustrate the requirements for an interdict and some of the potential problems that may arise if a party claims, for instance, that the matter is urgent.
+
+What is an interdict?
+
+An interdict is an order of court. It takes one of two forms: mandatory or prohibitory. A mandatory interdict is an order of court instructing a party to do something or to perform certain actions. A prohibitory interdict does what its name says: it is a court order instructing a party not to do something. A prohibitory interdict may mean, for example, that an employer is prohibited (or interdicted) from proceeding with a disciplinary enquiry or a dismissal. A trade union may be prohibited from calling a strike. This distinction is largely a theoretical distinction – the requirements for both interdicts are the same. 
+
+The important point to bear in mind when it comes to an interdict is that its focus lies in the future – it is an instruction to do something or not to do something at some point in the future. Unlike other court proceedings, an interdict does not look back to some point in the past and it does not try to redress the wrongs of the past. 
+
+But there are significant differences between final interdicts and temporary (or interim) interdicts. As its name implies, a final interdict resolves the matter between the parties. A temporary or interim interdict merely preserves or restores the status quo until such time that the dispute between the parties are finally determined. The interim interdict does not entail that the dispute is finally resolved – the final resolution of the matter may still be some way off in the future (for instance, the Labour Court will only hear the matter on some future date).
+
+The rule nisi
+
+Another term often encountered in the law reports is the rule nisi. The word “nisi” is Latin and it means “unless” or “if not”. The essence of a rule nisi is that the ruling or the court order is not yet final or absolute – the order will only be final on a certain date. This is called the return date. By means of a rule nisi one party calls on another to show cause (or give a reason) why the relief in the order should not be made final. In other words, the court order will be made final on the return date “unless” the other party can show good cause why the order should not be confirmed. 
+
+A rule nisi is often granted by a court if the person against whom the relief is being sought is not in court. The effect of a rule nisi is then to call on the absent party to give reasons (on or before the return date) why a final order – as set out in the rule nisi – should not be made. Urgent applications often take the form of a rule nisi. A rule nisi may be formulated as follows: “A rule nisi is granted calling upon the respondent to show cause, on or before Monday 2 April 2001, at 10:00 or as soon thereafter as counsel may be heard, why a final order should not be granted interdicting and restraining the respondent from harassing, assaulting or in any way interfering with the applicant…”
+
+If the other party cannot show cause, the relief contained in the order may be made final. On the return date, then, the court may either discharge the rule nisi or confirm the rule – in the latter case, the relief contained in the court order may either be extended or be made final. The rule nisi can take a variety of forms, but, for present purposes, it is usually used together with a temporary or interim interdict. In this case, the respondent party must show cause (or give a reason) on the return day why the interim interdict should not remain in force until the main court proceedings have been concluded. So an employer can apply for an interim interdict and the court may make a rule nisi in terms of which the trade union must show cause (on the return date) why the interdict should not continue until such time as the main court proceedings between the parties are concluded.
+
+What must be proven to obtain an interdict?
+
+In order to obtain a final interdict a party must show the following:
+
+That it has a clear right (in other words, a clear legal right, such as the right not to be unfairly dismissed);
+
+That an injury or damage is actually committed or that there is a reasonable apprehension of an injury or harm, and
+
+There is no similar protection offered by any other ordinary remedy. 
+
+The requirements for an interim interdict are somewhat different:
+
+The applicant party must establish that it has a prima facie right (this means that the applicant party must have a clear right, and if the right is not clear, it must be a prima facie right – there must be at least some indication that the applicant has a legal right in the case even though the right may be open to some doubt;
+
+The applicant party must show that it has a well-grounded apprehension of irreparable harm if the interim interdict is not granted and it has to wait until the final relief is obtained – in other words, that the party needs the interdict now and cannot wait for the main court proceedings to be completed.
+
+The balance of convenience must favour the granting of the interim interdict (this entails weighing up the prejudice the applicant will suffer if the interdict is not granted against the prejudice the respondent party will suffer if the interdict is granted – the applicant’s prospects of success in the main proceedings will play a role here) and
+
+The applicant has no other satisfactory remedy. 
+
+It is important to bear in mind that interim interdicts do not finally decide a dispute – it is usually some form of relief granted by the Court pending the outcome of another application in the Court. It is not intended to be of a permanent nature. 
+
+In IMATU & others v City of Tshwane Metropolitan Municipality & others (2007) 16 LC 11.1.2 the Labour Court made the following instructive remarks about temporary interdicts:
+
+ “[31] … Suffice it to point out that these different requirements should not be considered in isolation but should be considered in conjunction with one another in order to determine whether the applicant is entitled to the relief sought. In respect of the first requirement, the court will grant an interdict if it is satisfied that the applicant has established on a balance of probabilities a right and that the respondent has infringed that right or is threatening to do so. Because the applicant is only seeking temporary relief, the courts do not generally insist on the same degree of proof necessary in the case of an application for final relief. In respect of the second criterion the applicant must establish a well-grounded apprehension of irreparable harm if the relief is not granted. In respect of the balance of convenience the court must weight the prejudice to the applicant if the interim interdict is refused against the prejudice to the respondent if such relief is granted. In considering the balance of convenience, the court will look at the prospects of success in the main action and should it be of the view that the prospects of success are good the less the need for balancing the convenience in favour of the applicant. In respect of the last requirement the applicant must show the absence of another satisfactory remedy….”
+
+In respect of a final interdict see SAMWU obo Abrahams & others v City of Cape Town (2008) 17 LC 4.2.1.Here the union and the employees applied for an order compelling the employer to comply with a disciplinary procedure contained in a collective agreement. The Labour Court granted the union and employees the final interdict they applied for.
+
+Seeking urgent relief – the issue of urgency
+
+If a party applies to the Labour Court for urgent interim relief, it must be able to show why the matter is urgent. And, if the applicant party was itself to blame for any delay, it will find it difficult to persuade the Court that the matter was indeed urgent – an applicant cannot create its own urgency by delaying bringing an application (or be the author of its own urgency, as it is sometimes put). In SAMWU & another v The Nelson Mandela Metropolitan Municipality & others (2007) 16 LC 1.11.49  the union approached the Labour Court for urgent relief – in the form of an order to overturn the suspension of an assistant manager: housing delivery. 
+
+The issue of urgency was raised very pertinently in this case – it is only if an applicant party has made out a case for urgent relief in the papers will the Court relax the ordinary procedural rules. In this case the employer (respondent) argued that the employee (the second applicant) had made only scant, general and vague arguments about urgency. The matter was not urgent, said the Labour Court, and it looked at the relevant dates in the case. By 6 June 2007, they knew about the suspension and they had an opportunity to make representations on the suspension on 19 June 2007. The final decision to suspend was taken on 26 June 2007; yet the applicants only brought the application to Court on 19 July 2007 – with no persuasive reason why they waited so long. This is an important point when it comes to urgent relief – the applicant will have to make a solid case, on the papers, as to why the matter is urgent. 
+
+The other point the Court made was that the second applicant (the employee) had an alternative remedy in this case, namely to refer the dispute concerning his suspension to the bargaining council as an alleged unfair labour practice. The employee did not explain why he failed to use this remedy. 
+
+Given that the Court concluded that the matter was not urgent, it was not, strictly speaking, necessary for the Court to consider the merits of the case. But even if it was wrong as regards the issue of urgency, said the Court, it also found that the union and the employee had not established a clear right to the relief they asked for. The employee’s case rested on an allegation that the decision to suspend him was motivated by political reasons – to remove members of the South African Communist Party from their positions. Naturally, the employer, the municipality, denied this allegation – and it was clear, said the Court, that there was a considerable dispute of facts. The employee had, for instance, participated in a march against the housing delivery policies of his own employer. The employee had gone even further: he urged members of the public to reconnect their electricity and water supplies if these had been disconnected by the municipality because of non-payment. The Court found that the employer had shown a sound and fair operational reason for the employee’s suspension. The employee had also issued a letter to his subordinates saying that they should not participate in the investigation against him. 
+
+Another protected disclosure, another interdict
+
+The decision of the Labour Court in Theron v Minister of Correctional Services & another (2007) 16 LC 11.1.4  contains a good example of a rule nisi. The rule nisi was issued calling on the employer to show cause on a future date why a specific order should not be made. The order related to certain decisions of the employer, including the decision of the employer to remove the employee from his post and transferring him to another institution. Part of the rule nisi took the form of a conditional interim interdict.
+
+The facts were briefly as follows: the employee had provided medical care to prisoners at the Pollsmoor Management Area Medium A for about 22 years. The parties agreed that he was an employee of both the Department of Correctional Services and the Department of Health. For some time problems had been experienced with the level of healthcare and the employee had raised these with various officials of the Department of Correctional Services and the Department of Health. During January 2007 the employee raised his concerns with persons outside the Departments – the inspecting judge of prisons. In April 2007 the employee also raised his concerns with the Parliamentary Portfolio Committee on Correctional Services. The two reports that followed were very critical of the health care service at Pollsmoor.
+
+The employee was then charged by the Department of Health for misconduct for contacting the inspecting judge and visiting the chairperson of the Portfolio Committee. The employee then approached the Labour Court for an interdict to stop the Department of Health proceeding with the disciplinary proceedings. The charges were withdrawn and an unfair labour practice dispute he had referred to the sectoral bargaining council was settled.
+
+But that was not the end of the matter. On returning to work, the employee was told that the Department of Correctional Services had written to the Department of Health saying that the employee’s services were no longer required at Pollsmoor. The letter concerned said that the relationship between the employee and the Pollsmoor Management Area had been severely damaged and that it would be in Pollsmoor’s best interest if the employee were not to return. No hearing was held, and the employee was then placed at a community health centre. 
+
+The parties agreed that the matter was urgent, so the issue of urgency did not arise. But this case is instructive as regards the other requirements for an interdict discussed by the Court. The Court looks at the issue of whether the applicant (the employee) has a legal right, for instance. And in this regard the Court finds that the pertinent issue was whether the employee had been subjected to an occupational detriment because he had made a protected disclosure in terms of the Protected Disclosures Act. The Court considers the relevant provisions of the Protected Disclosures Act in some detail and came to the conclusion that the applicant’s right was based on the fact that he had suffered an occupational detriment as a result of his protected disclosure. Employees in this position deserve the protection of the Labour Court. 
+
+The Court also considered the issue of irreparable harm and the issue of balance of convenience. The only inconvenience the applicant appeared to be suffering was the fact that he no longer worked with prisoners – this was his passion and he had done this work for about twenty years. The employer argued that the Department of Correctional Services no longer required the employee’s services because another medical practitioner had been permanently appointed and he had taken over the employee’s functions. The Labour Court was not persuaded by this argument: in the past, the fact that a permanent practitioner had been appointed did not mean that practitioners such as the applicant were no longer required. The only real inconvenience the Department of Correctional Services would suffer if the employee was to return to Pollsmoor on an interim basis was the fact that officials who had taken exception to the employee’s disclosures would now again have to work with him. It appeared, however, that the interaction between the employee and these officials would be limited. The balance of convenience, said the Court, also favoured the employee. 
+
+Even though the employee’s rights in terms of the Protected Disclosures Act would still have to be finalised and there was some slight doubt as to that right, it was still a right deserving protection by the Labour Court. The employee did not suffer any irreparable harm and the balance of convenience was only slightly in his favour. The Court granted the employee the relief sought. 
+
+Interdicts, urgent relief and strikes
+
+One of the situations in which an employer will almost always try and obtain an interdict again a union and its members is when the union embarks on a strike or threatens with a strike. There are all kinds of possibilities as regards the timing of the interdict, what its objectives are and how wide the scope of the relief sought. Given that there is always an aspect of power-play in the case of strikes and lock-outs, an interdict obtained by one or the other party will naturally affect the balance of power and may indeed swing that balance in one direction or another. And let there be no mistake in this regard – it is not only employers who approach the Labour Court.
+
+In NUM v Black Mountain – a Division of Anglo Operations Ltd (2007) 16 LC 11.5.2  the union approached the Labour Court for urgent relief – the employer had served a notice of lock-out on the union. In this case, again, the union’s case foundered on the issue of urgency. The employer’s lock-out notice was issued on 11 July 2007 and the lock-out was to start on 14 July 2007. However, the union’s urgent application was only filed with the Labour Court on 30 July 2007 – more or less three weeks after the lock-out notice was served. 
+
+In Ford Motor Company of SA (Pty) Ltd v NUMSA & others (2007) 16 LC 9.6.3  the employer approached the Labour Court on an urgent basis to interdict intended industrial action in the form of an overtime ban by its employees. The employer’s argument was that the refusal to work overtime contravened a collective agreement and that the strike was unprotected. A number of interesting aspects arose in this case – such as whether the employees were in fact obliged to work overtime. Another question the Labour Court focused on was whether the employees and the union had expressed an intention to embark on the overtime ban – it was clear from the facts, said the Labour Court, that the individual employees had made clear their intention not to work overtime on a certain date. The Court found that the dispute resolution procedures in the LRA had not been followed and that such a strike would be illegal. The Court also took the view that the employer would suffer irreparable harm if the unprotected industrial action is not interdict. Accordingly, the Court extended the rule nisi order it had made earlier.
+
+Naturally, interdicts are often used in the context of pickets. In Vodacom (Pty) Ltd v Communication Workers Union & another (2007) 16 LC 11.1.3  the employer argued that individual employees, all members of the union, were engaged in allegedly unlawful conduct. The employer also argued that the strikers were breaching the picketing rules applicable to them. This specific decision was made on the return date of a rule nisi that had been granted earlier. A noteworthy aspect of this case was the fact that the employees continued their unlawful conduct in spite of the earlier order that interdicted their unlawful acts. This goes to show that when tempers are running high and a strike and picket have attained their own momentum, heed is not always paid to an interdict.
+
+The problem in this case was that while the employer’s papers were detailed and contained an extensive account of all the employees’ unlawful acts, the union’s responding affidavit contained nothing more than a bland denial of the allegations. Other than this simple denial the accusations of unlawful conduct were not dealt with. The union’s answering papers did not deal with any of the correspondence attached to the employer’s papers. 
+
+This meant in turn meant that the union had failed to raise a real, genuine and bone fide dispute of fact and it could not rely on the mere denials. The Labour Court took the view that the employer had made out a proper case for the final interdict it sought. The Court’s order is a detailed final interdict setting out what the picketers were not permitted to do. They were, for instance, interdicted and restrained from being within 200 meters from the perimeter of the employer’s premises and they were ordered to comply with the picketing rules issued by the CCMA.
+
+Powerful weapon
+
+It is especially in the context of collective action that an interdict may prove to be a strategically important instrument. Once a strike has been interdicted it may very well lose momentum altogether and it may mean that the union is no longer in a position to underscore its demands by means of a strike. Naturally, if the strike is protected, the employer’s room to manoeuvre is more limited -  
+
+In other cases, an interdict should not, strictly speaking, be necessary. An employer should know or seek advice in cases where the discipline or dismissal of an employee may be difficult – for instance, if the discipline or dismissal takes place in the context of protected disclosures. No prudent employer should find itself in the potentially embarrassing situation of having disciplinary proceedings interdicted.
+
+But it is clear from the examples in this editorial that an interdict is indeed a powerful instrument in the hands of either employees, their union or the employer. The requirements will have to be met, however, and if a party approaches the Labour Court for urgent interim relief, it needs to be prepared to explain why the matter is urgent. Waiting to long to bring an application for urgent relief is almost as good as not going to Court at all.
+
+Carl Mischke
+
+September 2008
+
+
+
+End of Document

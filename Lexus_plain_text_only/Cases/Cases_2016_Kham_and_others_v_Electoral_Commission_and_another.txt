@@ -1,0 +1,865 @@
+
+
+
+
+Kham and others v Electoral Commission and another [2016] JOL 32989 (Elect Ct) 
+Judgments Online
+
+Division: Johannesburg
+Case No: 006 / 2013
+Hearing Date(s): 16 / 01 / 2015
+Judgment Date(s): 19 / 03 / 2015
+Bench: DSS Moshidi, Wepenaar JJ, Shongwe JA, Ms S Pather, Mr M Mthembu
+
+
+Keywords
+
+
+Constitutional law — Municipal by-elections — Application for mandatory interdict — Alleged irregularities
+
+Mini Summary
+
+
+The applicants contended that the voter registration and subsequent voters’ roll compiled by the Electoral Commission in respect of municipal by-elections held in a certain municipality were inaccurate, incorrect, and therefore unreliable. It was alleged that a large number of voters who were registered and / or voted in the said by-elections were ineligible voters and were bussed in from other wards or areas. The applicants therefore sought a mandatory interdict ordering the Commission, at its own expense, to commission an independent forensic investigation.
+
+Held that the starting-point in resolving the issue was whether this court possessed the necessary power to grant the relief claimed. That involved the correct and proper interpretation of the provisions of the various applicable legislation as well as the Constitution. The court first turned to the proper construction of sections 56 and 55 of the Electoral Act 73 of 1998 on which counsel for the applicants relied. It found that neither the said statutory provisions, nor section 20 of the Electoral Commission Act 51 of 1996 availed the applicants, and their reliance thereon was misplaced.
+
+The court then turned to consider the applicants’ contentions that the elections should be set aside on the basis of various irregularities alleged to have taken place. The court found that the irregularities complained of by the applicants were not of such a materiality to vitiate the by-elections. It could not be said that the Commission acted unreasonably in the by-elections under discussion.
+
+It was concluded that the application had to fail.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 3
+
+
+
+
+MOSHIDI J:
+
+[1]    At the heart of this matter are the collective contentions of the applicants that the voter registration and the subsequent voters' roll compiled by the Electoral Commission, the first respondent ("the Commission"), in regard to the municipal by-elections held at Tlokwe Local Municipality during August 2013, September 2013 and December 2013, were inaccurate, incorrect, and therefore unreliable. In essence, the assertions of the applicants came to this: a large number of voters who were registered and / or voted in the said by-elections were ineligible voters and were bussed in from other wards or areas. 
+
+The relief sought by the applicants
+
+[2]    In the amended notice of motion,1 the relief sought by the applicants was framed in the following terms:
+
+The First Respondent (at its own expense), is ordered to instruct a suitably qualified, reputable and independent firm of forensic investigators to conduct a comprehensive forensic investigation into the registration process adopted and implemented by the First Respondent for the by-elections held on 6 and 7 August 2013, 17 and 19 September 2013 and those held on 10 and  
+[2016] JOL 32989 (Elect Ct)  at 4
+11 December 2013 in the district of the Tlokwe Local Municipality, Northwest Province (the 'by-elections') within 30 days of date of this order.
+The First Respondent is ordered to revert and make available to this court the full written report of the forensic investigation, within 90 days from date upon which the order is granted.
+The terms of reference and mandate for purposes of the forensic investigator's report must require and contain, inter alia, the following:
+The names and addresses (under separate headings) of all voters in the by-elections that were:
+registered with the First Respondent for the first time ('first time registrations');
+re-registered with the First Respondent from an address and/or municipal ward that falls within a district outside the district of the Tlokwe Local Municipality ('outside re-registrations');
+re-registered from another ward within the Tlokwe Local Municipality;
+registered to cast a special vote.
+The number and full particulars of all voters not susceptible to have voted, for whatsoever reason, in vacant wards in respect of the by-elections on 6 and 7 August 2013, 17 and 18 September 2013 and 10 and 11 December 2013, respectively.
+A recommendation in respect of those voters (a list with full particulars should be included) to be removed from the voters roll by the First Respondent.
+A full indication on any adverse effect that the lists in paragraph 2.2 and 2.3 supra may have had on the freeness and fairness of the by-elections held on 17 and 18 September 2013 and 10 and 11 December 2013, within the district of Tlokwe Local Municipality.
+The names and full particulars of officials of the First Respondent that may reasonable have been party to or at least aware of contraventions of the Electoral Act in respect of the 2013 by-elections in the Tlokwe Local Municipality. 
+[2016] JOL 32989 (Elect Ct)  at 5
+The name(s) of any political party(ies) that may reasonable [sic] be suspected to have been involved with or that may have orchestrated a process of illegal registration in the by-elections in 2013 in the Tlokwe Local Municipality.
+All registered candidates and political parties will have observer status during the process in paragraph 2.
+The Applicants are granted leave to supplement their papers once the full forensic report is made available to the First Respondent, within 20 days of date thereof.
+Should the report contain any adverse findings in respect of the by-elections in 2013 within the Tlokwe Local Municipality, which findings indicate irregularities which may have had an adverse effect on the freeness and fairness of the by-elections in the Tlokwe Local Municipality in the 2013 by-election, it is ordered that:
+the unlawful election of any candidate in any particular ward be set aside and that the First Respondent be ordered to convene new by-elections in such ward where such candidate(s) was/were elected;
+any political party and/or candidate of a political party involved with or responsible for an orchestrated or collective effort or the provision of assistance to voters to illegally register in any ward where by-elections in the Tlokwe Local Municipality were held in 2013, be disqualified from participating in the by-elections;
+the First Respondent must take all reasonable steps to lay criminal charges against all or any persons that have committed a criminal offence during the registrations and by-election dates as provided for 2.2 above.
+Further and/or alternative relief."
+
+The parties
+
+[3]    The eight applicants are almost collectively cited as community leaders and/or politicians resident in Ikageng, district of Potchefstroom, within the  
+[2016] JOL 32989 (Elect Ct)  at 6
+Tlokwe Local Municipality. The Commission is a body established in terms of the Constitution,2 which sets out the Commission's functions as:
+
+The Electoral Commission must–
+manage elections of national, provincial and municipal legislative bodies in accordance with national legislation;
+ensure that those elections are free and fair; and
+declare the results of those elections within a period that must be prescribed by national legislation and that is as short as reasonably possible.
+The Electoral Commission has the additional powers and functions prescribed by national legislation."3
+
+In addition, sections 4 and 5 of the Electoral Commission Act 51 of 1996 ("the Commission Act"), deal with essential duties, functions, objects and powers of the Commission. The objects include, to strengthen constitutional democracy and promote democratic electoral processes. Some of these objects and powers will become more pertinent later in the judgment. The second respondent, who did not participate in these proceedings, is the Member of the Executive Council, Department of Local Government and Traditional Affairs, North West Provincial Government ("the MEC"). The latter was joined in this application in her official capacity, and by virtue of the powers vested in her in terms of section 8 of the Local Government: Municipal Electoral Act 27 of 2000 ("the Municipal Electoral Act").
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 7
+
+The background
+
+[4]    The matter was heard by a full complement of this Court during the January 2015 court recess. At that stage it had accumulated a long and substantial history. The record of the proceedings had also grown into huge volumes. This was caused largely by the amended notice of motion, which in turn resulted in a rejoinder by the Commission,4 and the applicants' surrejoinder.5 All these pleadings contained various and numerous annexures. At a previous hearing, ie on 22 October 2014, this Court also postponed the matter and ordered that other potential interested parties and political parties be joined. However, none of such parties opted to join the proceedings. In spite thereof, some nine additional bundles of papers were filed shortly before the current hearing.
+
+Some common cause facts
+
+[5]    From the entire documentation, certain facts or events were either common cause or not seriously disputed. These were that, some of the applicants previously took part in the Tlokwe Municipal by-elections under the banner of the African National Congress ("the ANC"). The ANC expelled those members, such as the first, second and the third applicants. For the present, the applicants were described as community leaders, selected politicians and leaders earmarked to contest in the Tlokwe Municipal by-elections 
+[2016] JOL 32989 (Elect Ct)  at 8
+that took place on 7 August 2013, and those scheduled for 18 September 2013 and 11 December 2013.
+
+[6]    Despite the relief currently sought by the applicants, the by-elections of 7 August 2013 were held mostly uneventful. There was no known challenge to these by-elections by any political party and candidates in terms of section 65 of the Municipal Electoral Act or section 15 of the Electoral Act 73 of 1998 ("the Electoral Act"). The results were duly declared by the Commission. However, in regard to the by-elections scheduled for 18 September 2013, there were certain developments and obstacles. The second, third, fourth, fifth, sixth and seventh applicants launched urgent proceedings in this Court against the Commission on 17 September 2013. The proceedings ended in the present second, third, fourth, fifth and sixth applicants being allowed to register as candidates in their respective wards. The by-elections were postponed pursuant an order, and judgment of this Court in Johnson and others v Electoral Commission and others.6
+
+[7]    In essence, the complaints and grievances of the applicants against the conduct of the Commission commenced in earnest on 8 August 2013. These persisted right up to the by-elections of September 2013 and December 2013, leading up to the present proceedings.
+
+[8]    In my view, and for purposes of determining the applicants' main relief set out in the amended notice of motion, ie mandatory injunction ordering the  
+[2016] JOL 32989 (Elect Ct)  at 9
+Commission, at its own expense, to commission an independent forensic investigation, it was unnecessary to detail here all the relevant allegations made by the applicants. These are dealt with later below.
+
+The investigation against Mr Makodi
+
+[9]    The complaint of the applicants of 8 August 2013 concerned the conduct of one of the Commission's officials, ie Mr Dise John Makodi ("Makodi"), in refusing to assist and register certain independent candidates for the by-elections scheduled to take place on 18 September 2013. The conduct of Makodi was fully ventilated in the judgment of this Court in Johnson v Electoral Commission, supra. We were told that the Commission subsequently took appropriate steps against Makodi by suspending him pending an investigation into his conduct. He was later subjected to a disciplinary hearing but resigned his position before such hearing could commence. Nothing more needs to be mentioned in regard to Makodi.
+
+The postponement of the September 2013 by-elections
+
+[10]    Pursuant to the postponement of the September 2013 by-elections, the MEC (second respondent) set a new date for the holding of the by-elections as 23 October 2013. However, on the latter date too, the by-elections were not held. The reason for this, according to the Commission, was that the interested parties agreed to a postponement in order to allow for proper preparation for the by-elections. The Commission also advanced as a reason  
+[2016] JOL 32989 (Elect Ct)  at 10
+the fact that there were general allegations made regarding the integrity of the voters' roll. On the other hand, the applicants contended that the by-elections had to be postponed because of certain irregularities in the registration process of voters, and the absence of a credible voters' roll. For these reasons, the applicants had threatened legal action in the event the by-elections proceeded. For present purposes, it was unnecessary to determine this factual dispute. The end result was that the MEC was again approached to fix a new date. The date was 11 December 2013 for the by-elections to be held in Wards 1, 4, 11, 12, 13 and 20.
+
+The events after new date
+
+[11]    The new date was communicated to all relevant and affected parties and was also published in the North-West Provincial Gazette on 11 November 2013. This was preceded by voter registration that took place in all the affected Tlokwe Local Municipality wards.
+
+[12]    Once more, and very briefly, in regard to the applicants' interdictory relief, the papers showed certain developments leading to the December 2013 by-elections. These were that the first applicant raised various complaints with the Commission. The complaints were mirrored in various correspondence exchanged between the respective parties' legal representatives commencing on 17 October 2013. In this regard, in a letter addressed by the first applicant's attorneys of record to the Commission on 17 October 2013, the following was stated: 
+[2016] JOL 32989 (Elect Ct)  at 11
+"The complaints are of a serious nature and we have in fact, amongst others, been placed in possession of a ward for ward list wards in the past by-elections and coming by-elections detailing exact figures of persons that are not residing in the said respective wards, but have been bussed in by a political party to increase their votes and help secure a victory in these wards. In this respect we are also in the process of obtaining affidavits from persons that have already voluntary indicated that they were asked to participate in the aforementioned activities. We are advised that our clients were anonymously informed about these facts by an official of the IEC, that has access to the relevant information and who is very unhappy with the fact that this may lead to a very distorted result in the by-elections and deprive other political parties from a fair opportunity to win. The said official, in fear of been victimised, surrendered the information on condition that his/her identity should not be disclosed" (sic).
+
+The same letter proceeded to state that:
+
+"There are also other serious irregularities that we are investigating, some of which have been brought to our attention as formal complaints. The request for access to information was specifically addressed to you to obtain the necessary documentation that would assist our clients to investigate and verify some of the allegations and information they received."
+
+Finally, paragraph 6 of the letter went on to mention that:
+
+"By virtue of the impression that has been created, our clients did not, as yet, file a formal court application in the electoral court for the postponement of the by-elections and an order for an independent investigation into the allegations."
+
+The Commission responded to the allegations in several correspondence and answering papers. The contents of such response will be dealt with later below. However, I must mention now that the applicants' various objections were found to have no merit at all.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 12
+
+[13]    The end-result was that a few days before the by-elections scheduled for 10 and 11 December 2013, the applicants launched an application in which they sought an order for the postponement of the pending by-elections. They also sought certain ancillary relief. The Commission filed an answering affidavit on 10 December 2013. Regrettably, the application could not be heard by this Court for some unforeseen reasons. The December 2013 by-elections in Wards 1, 4, 12, 13 and 20 were held as scheduled. The applicants contended that as a result of these developments, it became necessary to file the amended relief as presently before the court, and that the relief sought had not become moot.
+
+The main relief sought
+
+[14]    Having in mind the above background, and the brief description of the applicant's allegations of irregularities pertaining to the voter registration of candidates, I turn to consider the main and crucial relief sought by the applicants. This is the mandatory interdict ordering the Commission to cause an independent forensic investigation into the registration process of the by-elections held in August, September and December 2013, as set out more fully in prayer 1 of the amended notice of motion dated 28 March 2014.
+
+[15]    The obvious starting-point in resolving the issue was the question whether this Court possessed the necessary power to grant the relief claimed. 
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 13
+
+The process will involve the correct and proper interpretation of the provisions of the various applicable legislation as well as the Constitution.7
+
+[16]    In the heads of argument and in closing argument, counsel for the applicants initially relied on the provisions of section 56 of the Electoral Act, read with the provisions of subsections (5) and (6) of section 55 of the same Act. Section 56 of the Electoral Court, under the heading "Powers of Commission and Electoral Court", provides as follows:
+
+"If the Commission or the Electoral Court decides, whether as a result of an objection or appeal brought under section 55 or otherwise, that a serious irregularity has occurred concerning any aspect of an election, the Commission or the Electoral Court may order–
+
+that the votes cast at a particular voting station do not count in whole or in part; or
+that the votes cast in favour of a registered party at a particular voting station must be deducted in whole or in part from the votes cast in favour of that registered party in that election."
+
+It was equally relevant to refer to the provisions of section 55 of the same Act, which deals with "objections material to final results of the election", and provides that:
+
+Any interested party may lodge with the Commission an objection that is material to the determination of the final result of the election, in respect of proceedings provided for in–
+Part 1 of Chapter 4 concerning voting; and
+Parts 2 and 3 of Chapter 4 concerning the counting of votes. 
+[2016] JOL 32989 (Elect Ct)  at 14
+The objection must be made to the Commission in the prescribed manner not later than 21:00 on the second day after the voting day.
+The Commission, on good cause shown, may condone a late objection.
+The Commission, in the prescribed manner, must decide the objection, and must notify the objector and any other parties involved in the objection, of the decision.
+An objector or other party involved in the objection and who feels aggrieved by the decision of the Commission, may appeal to the Electoral Court in the prescribed manner.
+The Electoral Court, in the prescribed manner, must consider and decide the appeal and notify the parties to the appeal of its decision.
+The result of an election is not suspended pending the decision of the Electoral Court" (emphasis added).
+
+Section 2 of the Electoral Act provides that in interpreting the Act this Court must do so in a manner that gives effect to the constitutional declarations, guarantees and responsibilities contained in the Constitution.
+
+[17]    In support of the submission, and indeed later ones, counsel for the applicants implored this Court to invoke its inherent powers to protect and regulate its own process as stipulated in section 173 of the Constitution.
+
+Construction of sections 55 and 56
+
+[18]    It was convenient to first have regard to the proper construction of the statutory provisions, ie sections 56 and 55 of the Electoral Act on which counsel for the applicants relied. In the process, it was necessary to have regard to  
+[2016] JOL 32989 (Elect Ct)  at 15
+the other statutory provisions governing elections, as well as the relevant provisions of the Constitution.
+
+[19]    The onus was undoubtedly on the applicants to allege and prove that the statutory provisions on which they relied advanced their cause (see in this regard McKay v Stein8 and Fundstrust (Pty) Ltd (in liquidation) v Van Deventer).9 In regard to the proper interpretation to be placed on the sections under discussion, the primary rule, including ascertaining the intention of the Legislature, as enunciated in Union Government v Mack,10 was confirmed in Du Plessis v Joubert.11 There it was stated that:
+
+"Dit is 'n primêre reel van wetsuitleg dat die woorde van 'n wetsbepaling in hul gewone, alledaagse betekenis verstaan moet word, tensy dit vasstaan dat daardie betekenis in stryd is met die duidelike bedoeling van die Wetgewer soos blyk uit die statuut as geheel en ander tersaaklike omstandighede. In so 'n geval kan van die gewone betekenis van woorde afgewyk word ten einde aan die duidelike bedoeling van die wetgewer gevolg te gee."
+
+This rule that the language of the Legislature should be read in its ordinary sense, is still recognised as a basic rule of construction (see in this regard LAWSA).12
+
+[20]    Much later, and in Rashavha v Van Rensburg,13 the court had occasion to deal with the interpretation of sections 8(4) and 10(3) of the Extension of Security of Tenure Act 62 of 1997.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 16
+
+In ultimately refusing condonation for the late filing of the appeal, the court at paragraph [14] of the judgment, said:
+
+"The argument is absurd, and was rejected in clear terms by the court of first instance and by the Land Claims Court. The words of section 8(4)(b) are clear. There is no need to resort to an interpretation of a section, generous, purposive or otherwise, where there is no uncertainty as to its meaning. The appellant, in order to rely upon the section, would have to show that at the time when the eviction was sought, she had resided on the farm for 10 years and was at least 60 years old. That she could not do."
+
+[21]    In applying the above principles to the facts of the present application, it was more than plain that upon a proper reading of the language of the Legislature, it could never have been the intention to clothe this Court with jurisdictional powers to grant the main relief as claimed by the applicants, as contended for by their counsel. If that was the intention, the Legislature would have said so in express terms. Such power could not be implied. Indeed, the same construction applies to the other relevant legislation dealing with elections.
+
+[22]    The preamble to the Electoral Act provides that it was intended "to regulate elections of the National Assembly, the Provincial legislatures and municipal councils; and to provide for related matters". Section 56 of this Act, clearly provides for different powers of the Electoral Court in respect of the result of elections. It specifically provides for the powers of the Electoral Court to decide, "as a result of an objection or appeal brought under section 55 or otherwise, that a serious irregularity has occurred concerning any  
+[2016] JOL 32989 (Elect Ct)  at 17
+aspect of an election". The section then proceeds to deal with how votes in an election may be adjusted by either the Commission or this Court (emphasis added). Section 55 of the same Act on the other hand, deals with "objections material to final results of elections". It is implicit in this section, again on the plain reading of the language of the Legislature, envisages that an objection was lodged by the applicants. In particular, subsections (2), (5) and (6) provide, respectively, that the objection must be made to the Commission in the prescribed manner, and that: 
+
+". . . an objector or other party involved in the objection and who feels aggrieved by the decision of the Commission, may appeal to the Electoral Court in the prescribed manner", 
+
+and finally, that: 
+
+"The Electoral Court in the prescribed manner must consider and decide the appeal . . ."
+
+It was common cause that although objections were lodged by the applicants with the Commission in respect of the September 2013 and December 2013 by-elections, such objections were found to have no merit at all. We do not have before us an appeal by the applicants against the dismissal or rejection of their objections by the Commission. Instead, the applicants approached this Court by way of motion proceedings. More on this kind of procedure will be discussed later. That being so, it could hardly be argued that this Court has the requisite jurisdiction to entertain the interdictory relief sought by the applicants, ie ordering the Commission to cause an independent forensic investigation into the by-elections concerned. To do so, would be to usurp the powers, functions and duties of the Commission as provided for in the relevant statutory provisions, as well as the Constitution. The relief sought by the applicants in the main prayer, was in any event, so drastic and invasive that it could never had been the intention of the  
+[2016] JOL 32989 (Elect Ct)  at 18
+Legislature to clothe this Court with such powers. It would have absurd repercussions, to say the least (see Rashavha v Van Rensburg, supra).
+
+[23]    It is so that when the above hurdles were pointed out to counsel for the applicants during argument, the contentions were abandoned, correctly so in my view. Instead, counsel for the applicants resorted to reliance on subsection (3)(a) of section 7 of the Electoral Commission Act.
+
+The latter section, under the heading "Terms of office, conditions of service, removal from office and suspension of commissioners", provides in section 7(3)(a) that a commissioner (of the Commission) may only be removed from office by the President:
+
+on the grounds of misconduct, incapacity or incompetence;
+after a finding to that effect by a committee of the National Assembly upon the recommendation of the Electoral Court; and
+the adoption by a majority of the members of that Assembly of a resolution, calling for that commissioner's removal from office."
+
+[24]    Once more, upon a proper reading of the language of the Legislature, the wording of section 7(3)(a) is readily clear. In the first place, section 7 deals with the conditions of service and the removal and suspension of commissioners from office. Furthermore, the wording in subsection (3)(a)(ii) that:
+
+". . . upon the recommendation of the Electoral Court", 
+[2016] JOL 32989 (Elect Ct)  at 19
+could never be properly interpreted to mean that this Court is empowered to grant the relief sought by the applicants. In the end, counsel for the applicants proceeded to rely on the provisions of section 20(7) of the Commission Act for the submission that this Court has the power to grant the main relief. Section 20(7) provides that:
+
+"The Electoral Court may investigate any allegation of misconduct, incapacity or incompetence of a member of the Commission and make any recommendation to a member of the National Assembly referred to in section 7(3)(a)(ii)."
+
+The contention has already been shown to be untenable and of no assistance to the applicants. Section 20(7) concerns the power of the Electoral Court to investigate allegations of misconduct, incapacity or incompetence of a member of the Commission.14 It too, cannot be of any benefit to the applicants' cause. This much was conceded by counsel for the applicants. In summation, it was conceded on behalf of the applicants that this Court in fact does not have the power to grant the interdictory relief sought. This Court was established under section 18 of the Commission Act.15 It is therefore a creature of statute. In the Full Court decision of this Court, namely Inkatha Freedom Party v Electoral Commission,16 the court had to determine the issue whether it had the power to grant costs in litigation. At paragraph [6] of the judgment, the court (per Mthiyane JA) said:
+
+"The Electoral Court is a creation of the statute. Dealing with a similar statutory tribunal Ackerman J said (at 492G–H) that: 
+[2016] JOL 32989 (Elect Ct)  at 20
+'An electoral tribunal, like a magistrate's court, is a creature of statute. It derives its jurisdiction from the legislative measures which accord it its existence. It possesses no jurisdiction beyond that granted by the statute creating it. It has no inherent jurisdiction such as is possessed by the Supreme Court and may claim no authority which cannot be deduced from the four corners of the statute under which it is constructed.
+
+This was said in respect of an electoral tribunal but it is of equal application to this Court . . . Section 20 of the Electoral Commission Act deals with the Court's powers, duties and functions, but confers no express powers upon it to make an order for costs.'"
+
+[25]    In my view, all of the above should put to rest the applicants' contentions based on section 20 of the Commission Act to the effect that this Court has the requisite power to grant the interdictory relief sought in the main prayer. This applied equally to the submissions premised on sections 55 and 56 of the Electoral Act. It is readily apparent that, to accede to the interpretation contended for by the applicants would be tantamount to circumventing the context of the clear wording and construction of the various statutory and constitutional mandates conferred on the Commission, as argued by the Commission, and quite correctly so.
+
+The applicants' alternative relief
+
+[26]    I turn to the applicants' claim for "alternative relief" as advanced by their counsel in closing argument. The further and/or alternative relief was set out in the amended notice of motion. For the sake of clarity, and possibly of repetition, the alternative relief claimed under prayer 4 of the amended notice of motion,17 was depended on the success of the main prayer. The latter relief  
+[2016] JOL 32989 (Elect Ct)  at 21
+has been found to be unachievable and counsel for the applicants had difficulty in advancing argument to the contrary. Significantly, the relief now claimed under prayer 4 of the amended notice of motion,18 was still dependent on the findings of the report of the independent forensic investigation envisaged in the main relief. On this basis alone, it could well be argued that the entire relief claimed under prayer 4 of the amended papers was non-suited, and that should have signalled the end of the applicants' complaints and grievances regarding voter registration and the voters' roll during the by-elections. However, counsel for the applicants implored us to invoke our inherent jurisdiction to find that the irregularities which occurred in the by-elections, on their version, were of such gross materiality that this Court was obliged to intervene and to set aside the declared result thereof, and order the Commission to convene fresh by-elections in the wards implicated. In this regard, reliance was placed on the provisions of section 173 of the Constitution. The Inkatha Freedom Party matter, supra, made it clear that this Court possessed no inherent jurisdiction.
+
+[27]    The submissions were in the end confined to, especially prayer 4.1 and prayer 4.2 of the amended notice of motion. Prayer 4.1, it will be recalled, sought an order that "the unlawful election of any candidate in any particular ward be set aside and that the first respondent be ordered to convene new by-elections in such ward, where such candidate(s) was/were elected". It was plain that the relief claimed in prayer 4.2, on its turn, was dependent on the finding whether prayer 4.1 was competent. The  
+[2016] JOL 32989 (Elect Ct)  at 22
+submissions were made on the basis that since there were certain common cause facts showing significant irregularities leading to the by-elections, this Court was obliged to grant the alternative relief on statutory and constitutional grounds of invalidity. There was obviously much to be said about the alternative relief claimed, since the outcome of this matter was of national importance and public interest in the sphere of electoral jurisprudence. However, I do so later but first deal with the applicants' allegations of irregularities of a material nature. Counsel for the Commission, although arguing strongly against the competence of the alternative relief as being ambiguous, left it to the court to determine whether there was any constitutional basis justifying the setting aside of the by-elections.
+
+The applicants' contentions on irregularities
+
+[28]    The applicants' allegations based on the alleged irregularities, stripped to the bone, came to this: the Commission registered voters not normally resident within the demarcated area of the specific area of the specific ward in which they were registered to vote; voters appearing on the voters' roll registered in particular wards, without any addresses recorded on the applications for registration as a voter (REC 1) form, ie voters who were impossible to verify if they did exist, and appear correctly on the voters' roll, and within the demarcated ward; the publicised election timetable compiled in terms of the Electoral Act,19 was not adhered to, save for one aspect relating  
+[2016] JOL 32989 (Elect Ct)  at 23
+to special votes; that the certified voters' roll20 was only made available on 4 December 2013 as opposed to 14 November 2013; that as a consequence, no verification could be made on REC 1 forms; that there was an unusual increase of some 1 900 special votes,21 which the applicants were unable to verify; at a meeting of the Provincial Party Liaison Committee ("the PPLC") the second applicant was approached by a member of the Commission, who provided certain information on condition of anonymity ("the whistle blower"). The whistle blower informed that the Commission, for purposes of registration for voters for the 10 and 11 December 2013 by-elections, allowed approximately 2 100 voters from wards not taking part in the by-elections to be registered in Wards 1, 4, 6, 11, 12, 13, 18, 20 or 26 (the applicants could not identify the split); and that the Commission registered more than 70 voters not eligible to vote at all in the different wards. Based on the above, which the applicants described as "the top of the iceberg of the irregularities at the Commission", the applicants concluded that, "it certainly appears that the by-elections held on 17 and 18 September 2013 were tainted".22
+
+[29]    The first applicant proceeded to submit a complaint to the Commission in terms of section 65 of the Municipal Electoral Act in respect of the September 2013 by-elections. I deal with the outcome of the objection later below. Each of the applicants proceeded to set out what was termed certain irregularities in their respective wards. These are dealt with immediately below.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 24
+
+[30]    The second applicant was the registered independent candidate for Ward 13, which is known as "Die Bo-Promosa Ward". According to him, when he took part in previous by-elections in 2011, there were approximately 3 500 registered voters in the ward. However, the figure of 4 078 registered voters for the December 2013 by-elections provided by the Commission showed an incredible increase. The REC 1 forms in respect of the voters in the informal settlement called "Maricana", in Ward 13 contained no addresses, and that Maricana fell in Ward 17 and not 13. The addresses of the voters situated in Ward 21 appeared on the voters' roll for Ward 13. The third applicant was registered as a candidate for Ward 20. In the 2011 by-elections the ward had 700 registered voters. However, he was surprised to see that for the December 2013 by-elections there were 1 379 registered voters reflected by the voters' roll. The bundle of particulars of voters for Ward 20 which were supplied by the Commission, showed that no street names or numbers were provided, and merely a suburb. The same applied to an informal settlement called "Baipei". More than 350 voters on the voters' roll were resident outside Ward 20. It was alleged that the name Baipei was used for more than one informal settlement over various wards.
+
+[31]    The first applicant's complaints were as follows: He was registered as a candidate for Ward 18 at the time. He received from the Commission the REC 1 registration forms. He scrutinised the forms, assisted by other applicants. He deduced from the forms that: voters residing in Ward 19 were allowed to cast votes in Ward 18; one voter, Ms Anna Nozindaba Sebueng ("Sebueng"), informed the first applicant that she never completed an REC 1  
+[2016] JOL 32989 (Elect Ct)  at 25
+form to vote in Ward 18, but was picked on the voting day to vote in Ward 18. She denied residing at the address provided in the form with her name thereon; on the first applicant's version, an alarming number of 612 REC 1 forms for Ward 18 given to him by the Commission contained non-existent addresses; on a further 174 REC 1 forms street addresses were not supplied, but a generic name of Baipei Extension 11 or Extension 6 was used to describe the proximity of the physical addresses; the applicants also deduced that the names of 28 voters were found not to be on the voters' roll and registered to participate in the by-elections that took place on 18 September 2013. On further investigations, according to the applicants, the last-mentioned voters had not only already cast their votes in the 2013 by-elections, but were also declared legible to cast votes in other wards, notably, Wards 1 and 4 where further by-elections were due to be held on 10 and 11 December 2013; in addition, so the allegations continued, some 31 voters were said to have registered from previous residential addresses in other neighbouring towns and, even provinces; voters were bussed into Ward 18 where the first applicant resided, which bussing-in was contradictory to the influx of new residents in the ward; and the residential addresses of voters were not verified by the Commission. A rather significant allegation made in the founding papers was that the applicants found it impossible to assess accurately, the alleged irregularities in respect of each ward due to time, resources and manpower constraints.23 The same significance applied to the first applicant's admission that he lodged an objection to the Commission in terms of section 65 of the Municipal Electoral Act in respect of the elections that  
+[2016] JOL 32989 (Elect Ct)  at 26
+occurred on 17 and 18 September 2013 late. The objection was admittedly dated 20 September 2013, and to which the Commission responded, as indicated immediately below.
+
+The response of the Commission
+
+[32]    The Commission duly responded to the above allegations both by way of correspondence and in the answering papers. The response was rather extensive as it dealt with both factual and legal matters, including preliminary issues.24
+
+[33]    The preliminary issues were based on certain statutory provisions. These included that the application was premature since the applicants had not exhausted their internal and statutorily guaranteed remedies as provided for in section 15 of the Electoral Act as well as section 65 of the Municipal Electoral Act. These provisions, as cited later below deal with objections to the voters' roll and objections material to the result of an election. The Commission argued that these legislative provisions constituted checks and balances that are inherent in the scheme of the regulatory framework which governs elections.
+
+[34]    On the merits, and by way of background, the Commission explained that once the by-elections were postponed for various reasons in September 2013, and October 2013, a new date, ie 11 December 2013, was set. This  
+[2016] JOL 32989 (Elect Ct)  at 27
+was in respect of by-elections in Wards 1, 4, 11, 12, 13 and 20 of the Tlokwe Municipality. Although the new date was close to the festive season, no formal objections were lodged by any of the candidates or parties who were contesting the elections. On 9 and 10 November 2013 voter registration occurred in all the affected Tlokwe Local Municipality wards. Measures were in place to deal extensively with fraud. One of these measures was the presence of the South African Police Service who participated alongside the officials of the Commission. The Police assisted in informing voters that irregular activities constituting criminal conduct would be dealt with strictly in terms of the law.
+
+[35]    In addition, the proclamation of the new election date, and the registration period on 11 November 2013, occurred. The voters' roll, as it appeared on the latter date, was the final version of the roll. The Commission informed all political parties and independent candidates that if there were no objections to the voters' roll by 5pm on 11 November 2013, the roll would stand as a final voters' roll. There were no such objections.
+
+[36]    On 15 November 2013, the Commission had the Election Timetable proclaimed in the relevant Government Gazette. The proclamation set out in clear terms the essential elements of the timetable and the procedure as prescribed in section 6(2) of the Municipal Electoral Act. The section under Chapter 2, deals with the segments of the voters' roll to be used in elections, provides that: 
+
+". . . by no later than a date stated in the timetable for an election, the chief electoral officer must; (a) certify the segments of the voters' roll for the voting  
+[2016] JOL 32989 (Elect Ct)  at 28
+districts to be used in the election, and (b) make such segments available for inspection at the commission's head office; the office of the commission's provincial representative in the province in which the election will take place; and the office of the commission's local representative in the Municipality in which the election will take place." 
+
+The Commission, in the answering papers, contended that a free copy of the certified voters' roll is only made available to candidates when they are issued with their certificates and as such confirmed as registered candidates. The certification in this matter in fact took place on 25 November 2013. However, before this date, the voters' roll was available for inspection at the local offices of the Commission or the Tlokwe Local Municipality offices.
+
+The provisions of section 15 of the Electoral Act
+
+[37]    Prior to dealing with the Commission's other responses to the first applicant's additional grievances, it was necessary to deal briefly first with the provisions of section 15 of the Electoral Act. The section provides as follows:
+
+In relation to any segment of the voters' roll or a provisionally compiled voters' roll, any person may object to the Commission in the prescribed manner to–
+the exclusion of any person's name from that segment;
+the inclusion of any person's name in that segment; or
+the correctness of any person's registration details in that segment.
+A person who objects to the exclusion or inclusion of the name of another person, or to the correctness of that person's registration details, must serve notice of the objection on that person. 
+[2016] JOL 32989 (Elect Ct)  at 29
+The Commission must decide an objection and, except for an objection in relation to a provisionally compiled voters' roll, by not later than 14 days after the objection was made, notify the following persons of the decision:
+the person who made the objection;
+the chief electoral officer; and
+in the case of an objection against the exclusion or inclusion of the name, or the correctness of the registration details, of a person other than the objector, that other person.
+The chief electoral officer must give effect to a decision of the Commission in terms of subsection (3) within three days.
+No appeal may be brought against the Commission's decision, subject to section 20(2)(a) of the Electoral Commission Act."
+
+[38]    I have already dealt with the provisions of section 20 of the Electoral Act, supra. On a proper reading of the provisions of section 15 of the Electoral Act, it is readily plain that it creates the right to any person to object in relation to any segment of the voters' roll to the Commission in regard to the inclusion or exclusion of the name of any voter, or the correctness of any person's registration details in that segment. The Commission in turn, is also obliged to consider and decide the objection lodged expeditiously, ie within 14 days after it was made. This was of particular importance in the context of the present matter since the applicants' grievances were based on the allegation that voters who took part in the by-elections were either irregularly registered or excluded from voting. The provisions of section 15 also give content to the constitutional mandate of the Commission to "manage elections of national, provincial and municipal legislative bodies in accordance with national  
+[2016] JOL 32989 (Elect Ct)  at 30
+legislation, and ensure that those elections are free and fair" as provided for in section 190(1) of the Constitution. The provisions of section 15 also put in place appropriate checks and balances to ensure that the rights of citizens to free and fair and regular elections for any legislative body, as enshrined in the Bill of Rights, were realised. It was common cause that, save for the first applicant's objection in terms of section 65 of the Municipal Electoral Act, and an application for access to information under the Promotion of Access to Information Act 12 of 2000 ("PAIA"), the applicants did not utilise the statutory mechanism of objecting to the voters' roll. When this was raised with applicants' counsel in argument, he submitted simply that the invocation of the remedy provided in section 15 was not considered a practical or viable option at the time. The submission was not convincing at all.
+
+[39]    In the answering papers, the Commission confirmed that the first applicant, in particular, raised various complaints with it. However, this was in the context of a request for the postponement of the by-elections scheduled for 23 October 2013 as well as an application for access to information in terms of PAIA. In addition, there was an objection lodged in terms of section 65 of the Municipal Electoral Act. On 24 October 2013 the Commission provided the applicant with the information he sought. This included a spreadsheet containing the names of all voters that registered as first time voters, and those who re-registered during the registration campaign between 10 and 12 August 2013 for the by-elections. The Commission also provided a training manual used to train members of its staff involved in the administration of applications for voter registration. In short, the complaints  
+[2016] JOL 32989 (Elect Ct)  at 31
+were three-fold. The first were allegations of irregular voter registration in regard to which the Commission responded, as stated earlier above, that there was no formal objection lodged in terms of section 15 of the Electoral Act. However, the Commission subsequently conducted its own administrative investigation into this aspect, and reported back to the applicants as mentioned below. The second complaint concerned the request for access to information dealt with above. The third complaint was contained in the objection lodged in terms of section 65 of the Municipal Electoral Act which I deal with presently.
+
+The provisions of section 65 of the Municipal Electoral Act
+
+[40]    Section 65 provides that:
+
+Any interested party may lodge with the Commission an objection material to the result of an election, concerning–
+any aspect of the voting or counting proceedings provided for in Chapter 5 or Chapter 6, respectively; or
+alleged unlawful–
+interference with or obstruction of election activities or processes in the vicinity of, at or in a voting station; or
+interference with or influencing, intimidation or obstruction of voters or prospective voters in the vicinity of, at or in a voting station.
+An objection must be lodged by serving by no later than 17:00 on the second day after voting day, at the Commission's national office at the prescribed address, a written notice containing– 
+[2016] JOL 32989 (Elect Ct)  at 32
+ (a) a reference to the election concerned and the relevant section of the Act in terms of which the objection is brought;
+the full name and physical address of the objecting party;
+the postal address and telephone number where the objecting party can be contacted and, if available, the party's facsimile number and e-mail address;
+the interest of the objecting party in the matter;
+details of the objection and the aspect of the election concerned;
+detailed reasons for the objection;
+the relief sought;
+a list of supporting documents accompanying the notice of objection; and
+proof of service of copies of the notice and annexures on all other interested parties.
+The Commission may, on good cause shown, condone a late objection.
+In considering and deciding the objection referred to in this section, the Commission may take any one or more, or all, of the following actions:
+Investigate the factual basis of the objection or cause it to be investigated;
+afford other interested parties an opportunity to make written or verbal submissions;
+call for written or verbal submissions from other persons or parties;
+call upon the objecting party to submit further information or arguments in writing or verbally; or
+conduct a hearing on the objection.
+The Commission must consider the objection and either reject or uphold it. 
+[2016] JOL 32989 (Elect Ct)  at 33
+If the Commission decides to uphold the objection before the result of the election had been determined, the Commission may–
+decide that the votes cast at a particular voting station do not count in whole or in part;
+decide that the votes cast at a particular voting station in favour of a party or candidate must be deducted in whole or in part from the votes cast in favour of that party or candidate in the election; or
+reduce the number of votes cast in favour of a party or a candidate.
+If the Commission decides to uphold the objection after the result of the election had been declared, the Commission may–
+amend the result; or
+if it is of the opinion that the seriousness and extent of unlawful conduct or irregularities that occurred may justify the setting aside of the election, refer the objection to the Electoral Court for its decision.
+The Commission must immediately notify the objecting party and any other interested parties involved in the objection of its decision in terms of subsection (5).
+An objecting party or other party involved in the objection who feels aggrieved by the decision of the Commission may, within seven days of the Commission's decision, lodge an appeal to the Electoral Court in terms of section 20 of the Electoral Commission Act and the Rules of the Electoral Court.
+The Electoral Court must–
+consider an appeal contemplated in subsection (9) and either–
+reject the appeal;
+amend the decision of the Commission;
+set aside the election; or
+make an appropriate order; and
+notify the parties to the appeal of its decision. 
+[2016] JOL 32989 (Elect Ct)  at 34
+The Electoral Court–
+may, after having considered an objection referred to it by the Commission in terms of subsection (7)(b), either–
+reject the objection;
+amend the result of the election;
+set aside the election; or
+make an appropriate order; and
+must notify the objecting party of its decision.
+The declared result of an election is not suspended by an appeal in terms of subsection (9) or a referral to the Electoral Court in terms of subsection (7)(b)."
+
+[41]    On a proper reading of the provisions of section 65, it is also readily clear that it was intended to provide adequate relief to any interested party to lodge an objection material to the result of an election about any aspect of the voting proceedings, and/or alleged unlawful interference or obstruction at a voting station. The section contains important provisions, such as that an objection must be lodged by serving by no later than 17h00 on the second day after voting, at the Commission's national office, and that the Commission may investigate the factual basis of the objection or cause it to be investigated. Equally important are the provisions that the Commission must consider the objection and either reject or uphold it, and that if the Commission decides to uphold the objection after the result of the election had been declared, the Commission may amend the result or if it is of the opinion that the seriousness and extent of unlawful conduct or irregularities that occurred may justify the setting aside of the election, refer the objection to the Electoral Court for its decision (underlining added).
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 35
+
+[42]    Indeed, the provisions of section 65 have on numerous occasions in the past been considered by this Court. For example, in Independent Party v Electoral Commission,25 the court in allowing an appeal, expressed the view that:
+
+"Implicit in s 65(1) of the Local Government: Municipal Electoral Act 2000, seen against the constitutional and legislative framework relating to the Independent Electoral Commission's role in elections, is that the Commission is the functionary which is required to determine whether an objection lodged in terms of the section is one within the contemplation of s 65(1). It could never have been intended by the Legislature that an administrative official, without any delegated power, should be entitled to decide, without reference to the Commission, what is in fact the vital ingredient of the objection. The Commission may well be entitled to act in appropriate circumstances on the advice or recommendation of its officials, but ultimately it must apply its mind to the matter and decide it in accordance with the provisions of s 65(4)(a)."
+
+In that matter, the court also found that section 65(2) of the Act makes specific provisions for condonation of a late objection by the Commission, on good cause shown (see also National Democratic Convention and another v Electoral Commission and others,26 and Inkatha Freedom Party, Nongoma and another v Electoral Commission and others).27
+
+[43]    In the instant matter, the Commission received the first applicant's objection in terms of section 65 on 25 September 2013. It was dated 20 September 2013. The Commission considered the objection but rejected it on  
+[2016] JOL 32989 (Elect Ct)  at 36
+several grounds. These included that the objection was lodged out of time and not as prescribed by section 65(2) of the Act. There was no good cause shown to condone the late lodging of the objection, in the view of the Commission. The Commission also found that the objection failed to comply with the provisions of section 65(1)(a)(i) or (ii).
+
+[44]    The decision of the Commission in rejecting the objection, in the circumstances of the case, could not be faulted. The objection was lodged in regard to the by-elections scheduled for 18 September 2013 only. The remedy available to the applicants was clearly to invoke the provisions of section 65(9) which makes provision for an aggrieved party whose objection was rejected by the Commission, to lodge an appeal to this Court in terms of section 20 of the Commission Act and the Rules of this Court. The appeal had to be lodged within seven days of the Commission's decision. This admittedly, did not happen. Instead, we have before us motion proceedings.
+
+The Commission's administrative investigation
+
+[45]    In the process of determining the materiality or otherwise of the irregularities as alleged by the applicants, it was instructive to have regard to some of the Commission's responses thereto. The Commission contended that it duly investigated administratively the broad allegations of fraudulent registration of voters in order to ascertain whether there was any impact on the results of the by-elections. The investigation was concluded in March  
+[2016] JOL 32989 (Elect Ct)  at 37
+2014. The result of the investigation was contained in various annexures to the answering papers, as well as in a later rejoinder.28
+
+[46]    The report of the investigation was rather comprehensive. In summary, it showed that, in the nine wards in the Tlokwe Local Municipality, there were some 3 832 persons who applied for registration as voters between January 2000 and February 2014. This was at the close of the voters' roll for the May 2014 national and provincial elections; an additional spatial address database was sourced from the Tlokwe Local Municipality in order to enhance the Commission's National Address Database, since municipalities are custodians of such spatial address databases which are essential for municipal planning purposes; thereafter, a desktop electronic exercise was undertaken in order to link the REC 1 forms addresses presented by voter registration applicants. The results of the electronic analysis showed that of the above figure of 3 832 total number of voters:
+
+2 108 applicants for voter registration correctly registered in the voting districts of ordinary residents; the balance of some 1 724 applicants were captured as follows:
+359 applicants were registered in other voting districts but within the wards in which they resided;
+332 applicants did not have sufficient conventional addresses to match with the spatial addresses provided by the municipality; 
+[2016] JOL 32989 (Elect Ct)  at 38
+4. 1 040 applicants applied for registration outside their ward of residence.
+
+[47]    As the figure of 1 040 applicants showed incorrect registrations, this prompted the Commission to carry out an inspection in loco on 1 March 2014. The field team of the Commission made several significant observations. This was that in respect of Wards 4, 11, 14 and 19, the configuration of wards in the municipality lent itself to cross-boundary registrations. The problem was compounded by the phenomenon of the emergence of unplanned informal settlements such as Maricana which is situated in Ward 17 even though the residents of Maricana formed part of the community of Ward 13. The settlement continued to expand with new residents establishing homes there on a daily basis. Closely connected with the phenomenon of increasing informal settlements, was the challenge that ward boundaries were not clearly defined and observed.
+
+[48]    The Commission explained the procedure on voting day: it uses a Voter Participation Application on its Portable Barcode Scanning Unit, commonly called a "zip-zip" machine. On scanning a voter's identity document on voting day, a receipt is generated by the zip-zip machine, indicating the sequential number of that voter on the voters' roll. The identity number of the voter was recorded as well. After the close of voting day, the voter participation information on the zip-zip was then uploaded through the Wide Area Network ("WAN") system into a database. Through this database, the  
+[2016] JOL 32989 (Elect Ct)  at 39
+Commission could determine who voted at which voting station, including the time of voting.
+
+[49]    Based on the above information, the Commission contended that it was enabled to determine who, amongst any incorrectly registered voters, voted and also in which voting district they voted. The analysis of the impact of these incorrectly registered voters on the outcome of the by-elections of September 2013 and December 2013, was mirrored in annexure "MSM11".29
+
+[50]    What was undoubtedly crucial on this aspect of the materiality or otherwise of the alleged irregularities, was the methodology used by the Commission to assess the impact of incorrectly registered voters on the by-elections. In the first place, the Commission determined the margin of victory in the ward. This was the difference between the number of votes between the winning candidate and the second highest candidate. Secondly, the Commission proceeded to determine the number of incorrectly registered voters who voted. This information was derived from the uploaded voter registration data as captured with the zip-zip machine on voting day, and uploaded onto a database. The Commission then subtracted the number of votes cast by incorrectly registered voters from the winning candidate. If the result bore a positive number, then this was an indication that the impact of the participation of incorrectly registered voters in fact did not influence materially the outcome of the by-elections. In the event of the result showing a negative number, then that indicated that the impact of the involvement of  
+[2016] JOL 32989 (Elect Ct)  at 40
+the incorrectly registered voters could have influenced materially the outcome of the by-election. The network was based on the assumption that all incorrectly registered voters voted for the successful candidate, a fact that the Commission said it could not determine with precision given the constitutional imperative for a secret vote.
+
+[51]    Based on the assumption of the analysis of the impact of incorrectly registered voters on the outcome of the September 2013 and December 2013 by-elections, as contained in annexure "MSM11", the Commission scrutinised each of the nine wards in question. According to it, the following picture emerged:
+
+Ward 1: There were 187 incorrectly registered voters of whom 96 voted. The margin of victory was 891. Subtracting 96 votes from the margin of victory, the outcome remained the same.
+
+Ward 4: There were 108 incorrectly registered voters of whom 39 voted. The margin of victory was 42. Subtracting 39 from the margin of victory, the outcome remained the same.
+
+Ward 6: There were 34 incorrectly registered voters of whom 19 voted. The margin of victory was 389. Subtracting 19 votes from the margin of victory, the outcome remained the same.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 41
+
+Ward 11: There were 26 incorrectly registered voters of whom six voted. The margin of victory was 559. Subtracting six votes from the margin of victory, the outcome remained the same.
+
+Ward 12: There were 38 incorrectly registered voters of whom seven voted. The margin of victory was 1 100. Subtracting seven votes from the margin of victory, the outcome remained the same.
+
+Ward 13: There were 433 incorrectly registered voters of whom 249 voted. The margin of victory was 283. Subtracting 249 votes from the margin of victory, the outcome remained the same.
+
+Ward 18: There were 14 incorrectly registered voters of whom eight voted. The margin of victory was 364. Subtracting eight votes from the margin of victory, the outcome remained the same.
+
+Ward 20: There were 148 incorrectly registered voters of whom 90 voted. The margin of victory was 197. Subtracting 90 from the margin of victory, the outcome remained the same.
+
+Ward 26: There were 52 incorrectly registered voters of whom 46 voted. The margin of victory was 525. Subtracting 46 votes from the margin of victory, the outcome remained the same.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 42
+
+Based on the above, the Commission came to the conclusion that the participation of incorrectly voters did not materially affect the outcome of the by-election.
+
+Party Liaison Committee meetings
+
+[52]    The Commission also placed before the court minutes of meetings it held with the Provincial Party Liaison Committee ("the PPLC") on 2 September 2013, 2 October 2013 as well as 3 December 2013. The contents of the minutes showed that various issues related to the by-elections were raised by the various parties involved. Not much argument was based on these minutes.
+
+The investigation of Ms AN Sebueng
+
+[53]    The Commission further investigated the issue concerning the registration and voting record of Ms Sebueng raised by the applicants. The applicants complained that Ms Sebueng neither resided in nor ever registered to vote in Ward 18, yet she was allegedly ferried to a voting station in Ward 18 where she voted. The printout from the Commission's voter registration system reflected this voter's voting history. She registered on 11 August 2013 to vote in Ward 18, and her voter status was verified. Ms Sebueng, according to registrations, completed REC 1 forms on 10 October 2005, apparently under her maiden surname of "Jantjie", and also on 8 August 2013 this time under her married surname of Sebueng. However, her national identity  
+[2016] JOL 32989 (Elect Ct)  at 43
+number entered on the REC 1 form, and the one captured by means of the zip-zip machine, were identical. The Commission's Deputy Chief Electoral Officer and other officials visited her address located in Ward 18 on 1 March 2014, where they spoke to her husband, Mr Modise Andries Sebueng. He confirmed that he was married to the voter in question and that they had been resident at the mentioned address for approximately eight years. At the hearing of the matter, an affidavit attested to by Ms Sebueng on 22 December 2014, had already been filed. In it, she denied categorically the contentions of the applicants concerning her registration and voting.
+
+Criticism of database
+
+[54]    The Commission, based on its investigations outlined above, was satisfied that the alleged irregularities were not material so as to set aside the by-elections. This contention was mirrored in the heads of argument. The applicants in the surrejoinder challenged most of the contentions of the Commission, and remained adamant that the by-elections of August, September and December 2013 were vitiated by material irregularities. In essence, the applicants challenged the Commission's desktop study investigation on the Tlokwe Local Municipality's database. The latter database, so the contention continued, only recorded residents who contracted with the Municipality for services, and who were liable for municipal rates or leasing land from the Municipality or perhaps particulars of persons on a waiting list for accommodation in State-funded housing projects. It was also contended that the database used by the Commission excluded  
+[2016] JOL 32989 (Elect Ct)  at 44
+occupants of informal settlements where no services were provided. Consequently, so the contentions proceeded, the database could in no way contribute to a proper voters' roll or serve as conclusive proof of the non-materiality of unlawful registrations, as contended for by the Commission, nor did it clarify issues raised, regarding special votes.30
+
+Special votes
+
+[55]    I must deal briefly with the issue of special votes as well as the contentions advanced on both sides in regard thereto. Special votes are provided for in section 55 of the Municipal Electoral Act, which provides that:
+
+"Any voter who is unable, on voting day, to cast his or her vote at the voting station in the voting district where he or she is registered, may in the prescribed manner apply to be allowed, prior to voting day, to cast a special vote within that district."
+
+This section, on a proper reading, makes it clear that, in furthering the entrenched right of every citizen to vote in free and fair elections in terms of section 19(2) of the Constitution, the Legislature has made it possible for voters unable to vote on voting day, to still do so. This category could include a variety of inabilities, such as physical inability, advanced age, pregnancy, absence from the Republic of South Africa, a voter being on duty as a member of the security services in connection with the election concerned, and/or voters affected by illness. The list can never be exhaustive. The inabilities are described in section 33 of the Electoral Act. Special votes are therefore, important in an election,  
+[2016] JOL 32989 (Elect Ct)  at 45
+and should be taken into account properly. This was recognised by this Court in Inkatha Freedom Party, Nongoma and another v Electoral Commission, supra.
+
+[56]    In the instant matter, the applicants alleged that there was an irregularity in regard to the special votes cast during the by-elections. The essence of the complaint was that there was a marked increase in special votes which votes were not allocated to a specific ward. It was further contended that the irregularity was made possible since the Commission's officials visited special voters unaccompanied by candidates competing in the by-election: this made it impossible for the applicants to verify the special votes cast.
+
+[57]    The Commission, which was also accused of not dealing convincingly with the allegations relating to the special votes, did however, respond in one of the answering affidavits.31 The Commission, in essence, denied the allegations as largely unfounded. The increase in voter registration was not necessarily an indication of an irregularity being perpetrated, it said. This was after the Commission's own administrative investigation. The Commission also countered that the only way the applicants could monitor the process was to accompany its officials who conducted the exercises, since there was no known prohibition on candidates to do so.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 46
+
+[58]    I have deliberately set out in extenso the allegations of both parties in regard to the nature of the irregularities during the by-elections concerned. The main reason for doing so was purely to determine whether based on "the seriousness and extent of unlawful conduct or irregularities that occurred may justify the setting aside of the election", as provided for in section 65(7)(b) of the Municipal Electoral Act, and/or other statutory applicable legislation, and of course, the Constitution.
+
+[59]    The Commission, in its heads of argument, and I might add, to its credit, admitted readily, its statutory obligations and responsibilities, including section 19 of the Constitution, in managing elections. It also identified at the outset that the main complaints of the applicants related to grave matters concerning the enfranchisement and possible disenfranchisement of voters, coupled with the enormous task it faced during elections.
+
+The statutory framework applicable
+
+[60]    The statutory framework is rather extensive and incapable of complete recital presently. To begin with, section 7 of the Electoral Act provides that:
+
+A person applying for registration as a voter must do so in the prescribed manner.
+[Deleted by sec 3 of Act 34 of 2003 with effect from 26 November 2013.]
+(a) A person is regarded to be ordinarily resident at the home or place where that person normally lives and to which that person regularly returns after any period of temporary absence. 
+[2016] JOL 32989 (Elect Ct)  at 47
+For the purpose of registration on the voters' roll a person is not regarded to be ordinarily resident at a place where that person is lawfully imprisoned or detained, but at the last home or place where that person normally lived when not imprisoned or detained."
+
+[61]    Section 8(1) of the same Act provides that if the electoral officer is satisfied that a person's application for registration complies with the Act, and that person is a South African citizen, and at least 18 years of age, the electoral officer must register that person as a voter by making the requisite entries in the voters' roll. Subsection 8(3) in addition, provides that a person's name must be entered into the voters' roll only for the voting district in which that person is ordinarily resident and for no other voting district (emphasis added). In addition, section 9 of the Electoral Act provides that:
+
+"A registered voter or person who has applied for registration as a voter and whose name or ordinary place of residence has changed, must apply in the prescribed manner to have that change recorded in the voters' roll in that person's application" (emphasis added).
+
+[62]    Section 1 of the Electoral Act does not define "ordinary place of residence", but does state that "prescribe" means prescribed by regulation in terms of section 100 and "prescribed" has a corresponding meaning, and that "prescribed manner" includes any prescribed requirement as to time, process or form. It was also significant that in regard to applications for special votes  
+[2016] JOL 32989 (Elect Ct)  at 48
+in terms of section 33 of the Electoral Act, Regulation 7(3) of the Election Regulations, 2004,32 provides that:
+
+"The Presiding officer, or a voting officer designated by him or her, must consider every application received and if he or she is satisfied that–
+
+the applicant is registered as a voter in that voting district; and
+cannot vote at that voting station due to physical infirmity or disability, or pregnancy, approve the application and if not, reject the application" (emphasis added).
+
+[63]    The above legislative framework, and other legislation, which show the statutory power exercised by the Commission and its officials, inevitably must also give effect to the provisions of sections 181(1)(f) and 190(1) of the Constitution, ie to strengthen constitutional democracy, and to manage the elections, and ensure the elections are free and fair, respectively. In this regard, counsel for the Commission argued, and quite correctly so in my view, that the correct approach to the Commission's power is aligned to the principle of legality which prescribes that a public functionary exercising a public function may exercise no power and perform no function beyond that confirmed by law as enunciated in Fedsure Life Assurance Ltd v Greater Johannesburg Transitional Metropolitan Council.33
+
+[64]    Indeed, the Commission recognised quite readily, not only the statutory and constitutional imperatives placed upon it, but also that in performing its  
+[2016] JOL 32989 (Elect Ct)  at 49
+functions, it is obliged to protect its competences, functional and institutional integrity. This is an arduous task. As seen earlier, the Commission was accused of performing its functions in an incorrect and irregular manner by especially allowing ineligible voters to register and vote, and not verifying voters' addresses, and significantly exaggerated the quantity of the special votes cast. The Commission countered that it did its best in the circumstances. It had no statutory obligation to verify addresses. The irregularities subsequently discovered after investigations were not material.
+
+[65]    The provisions of sections 8 and 9 of the Electoral Act, oblige the Commission to register as a voter a person who applies and meets certain criteria, including South African citizenship. The obligation is equally applicable to a voter who changes registration details. In the same manner, the presiding officer or a voting officer is obliged to consider every application received for a special vote as contained in regulation 7(3).
+
+[66]    In August and another v Electoral Commission and others,34 the Constitutional Court had occasion to deal with, inter alia, the interpretation of sections 6(1), 7(1), 8(1) and (2) and 33(1) of the Electoral Act, in the context of the rights of prisoners to vote. At paragraph [33] of the judgment, the court said that:
+
+"Parliament cannot by its silence deprive any prisoner of the right to vote. Nor can its silence be interpreted to empower or require either the Commission or this Court to decide which categories of prisoners, if any, should be deprived of the vote, and which should not. The  
+[2016] JOL 32989 (Elect Ct)  at 50
+Commission's duty is to manage the elections, not to determine the electorate; it must decide the how of voting, not the who. Similarly the task of this Court is to ensure that fundamental rights and democratic processes are protected."
+
+At paragraph [25] of the judgment, the court went on to say that:
+
+"Section 7(1) of the 1998 Electoral Act provides:
+
+'A person applying for registration as a voter must do so–
+
+in the prescribed manner; and
+only for the voting district in which that person is ordinarily resident.'
+
+The purpose of the phrase 'ordinarily resident' is to facilitate the electoral process. It will, for example, enable the allocation of voters to voting districts, each with their own polling stations, so that an identified and relatively small number of voters resident in that district during the period of registration and voting will vote in it. The voters' roll for each district will be prepared on the basis of those that have registered for each district. This will facilitate easy and accurate identification on voting day and prevent long queues."
+
+At paragraph [27] of the judgment, the court went on to say that:
+
+". . . It is clear from s 7(1) of the Act that the relevant date for determining where a person is 'ordinarily resident' is the date upon which the person registers. Whether a person is 'ordinarily resident' at that date at a particular place will depend on the circumstances of each case."
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 51
+
+[67]    From the above, it was clear that the Commission has the duty, with all its inherent difficulties and arduousness, to manage the elections in terms of the Constitution and the enabling statutory framework. It must decide the "the how of voting, not the who". The Constitutional Court did not disenfranchise prisoners. The court's interpretation of the words "ordinarily resident", in section 7(1) of the Electoral Act allowed for the enfranchisement, rather than disenfranchisement of voters. The words "ordinarily resident" do not have a precise definition, especially in the context of elections. Whether a voter was "ordinarily resident" during the by-elections under discussion, "will depend on the circumstances of each case". Indeed, these were some of the challenges faced by the Commission. In particular, applications for registration of voters; the regulation of the process; managing the compilation of a credible voters' roll particularly in the face of the mushrooming informal settlements; the awkward demarcation boundaries; the absence of a statutory obligation and duty on the part of the Commission to verify physically, or otherwise, the addresses of the registrants to ensure that they fall within the requirements of "ordinarily resident" as envisaged in section 7(1) of the Electoral Act; and in particular, the fluid nature of some of the voters' residential addresses. There was significant comfort in the assurances given by the Commission that, once the complaints raised by the applicants were brought to its attention, it promptly investigated such, discovered some irregularities, which were however, not material to the result of the by-elections in question. It was difficult not to accept these assurances in the absence of concrete proof to the contrary, as well as the failure by the applicants to invoke the numerous  
+[2016] JOL 32989 (Elect Ct)  at 52
+checks and balances procedures created by the applicable legislative provisions.
+
+The conclusion on alleged irregularities
+
+[68]    Based on the above, the conclusion that, the irregularities complained of by the applicants were not of such a materiality to vitiate the by-elections and to grant the relief sought by the applicants, became irresistible (see in this regard, S A Medical and Dental Council v McLoughlin,35 and Absa Bank v De Villiers and another).36 The onus of proving the materiality of the irregularities was on the applicants. They failed to discharge such onus. The Commission contended that once the allegations were brought to its attention, it promptly investigated them, and found that the nature of the allegations were not that serious and to the extent to affect the result of the elections. It acknowledged its obligations and responsibilities in regard to the allegations. The Commission asserted that, aided and enabled by the various checks and balances in the legislative framework applicable, it had done all it could in the circumstances. This was reasonable. On the issue of irregularities which were in fact material, see Pitso v Electoral Commission.37 As regards the question of the onus related to irregularities, certain foreign jurisdictions provide instructive guidelines. For example, in Canada, Wrzesnewskyj v Canada (Attorney-General),38 the applicant was the unsuccessful candidate in the 2011 federal elections. The election was decided by a plurality of 26  
+[2016] JOL 32989 (Elect Ct)  at 53
+votes. The applicant contested the election under section 524(1)(b) of the Canada Elections Act on the basis that there were irregularities that affected the result of the election. In granting the application, Lederer J said:
+
+". . . The onus was on the applicant to prove not only that there were irregularities but also that the irregularities affected the result, the onus did not shift to the respondent to disprove the second part of the test The standard of proof was that of a balance of probabilities, regardless of the nature of the irregularity being alleged."
+
+[69]    In this matter, even on the basis of the common cause irregularities, there were other cogent reasons militating against the granting of the relief sought by the applicants. The starting-point in this regard is the principle of legality which prescribes that a public functionary exercising a public function, may exercise no power and perform no function beyond that conferred by law. The electoral legislative framework gives effect to section 181(1)(f) and section 190(1) of the Constitution. In Independent Electoral Commission v Langeberg Municipality,39 at paragraph [22] the court said:
+
+"The Commission exercises public powers and performs public functions in terms of the Constitution . . . It was created by chap 9 of the Constitution which is headed 'State institutions supporting constitutional democracy'. Section 181(1) provides that it is to strengthen constitutional democracy in the Republic."
+
+At paragraph [24]:
+
+"There is no doubt that the holding of free and fair elections for national, provincial and local legislatures is not a private function. It is  
+[2016] JOL 32989 (Elect Ct)  at 54
+a public function and therefore a State function performed by a State institution. In this broad sense, the Commission does perform a governmental function. More specifically, it implements national legislation concerning the conduct of elections. What would otherwise be an executive function to implement national legislation is vested by the Constitution in the Commission. That does not mean, however, that the Commission falls within the national sphere of government as contemplated by chap 3 of the Constitution" (see also Fedsure Life Assurance Ltd, supra, at paragraphs [56]–[59]).
+
+[70]    Based on the principle of legality, it is expected of the Commission that the measures provided for in the applicable legislation must show a rational relationship between the legislative scheme used and the achievement of a legitimate governmental purpose (see New National Party of South Africa v Government of the RSA).40 The pertinent question was thus whether this Court could interfere in the manner in which the Commission exercised its powers and public functions in this case.
+
+[71]    There are several important guidelines. In Glenister v President of the Republic of South Africa,41 the only issue before the court was whether the principle of separation of powers allowed it to consider the validity of Cabinet's decision at the time when certain bills in question were still before Parliament. There, the applicants contended that the ongoing mass resignations from the Scorpions would cripple the unit well before the pending legislation was promulgated, and that the courts' intervention at that stage was vital. In  
+[2016] JOL 32989 (Elect Ct)  at 55
+finally declining the application for leave to appeal, and the application for direct access, the court, at paragraph [33] said:
+
+"In our constitutional democracy, the courts are the ultimate guardians of the Constitution. They not only have the right to intervene in order to prevent the violation of the Constitution, they have also the duty to do so. It is in the performance of this role that courts are more likely to confront the question of whether to venture into the domain of the other branches of government and the extent of such intervention. It is a necessary component of the doctrine of separation of powers that courts have a constitutional obligation to ensure that the exercise of power by other branches of government occurs within constitutional bounds. But even in those circumstances, courts must observe the limits of their powers" (see also Doctors for Life International v Speaker of the National Assembly and others,42 at paragraphs [68]–[70], and DA v President of the Republic of South Africa).43 
+
+In MEC, Environmental Affairs and Development Planning v Clairison's CC,44 at paragraph [22], the court said:
+
+"What was said in Durban Rent Board is consistent with the present constitutional principle and we find no need to re-formulate what was said pertinently on the issue that arises in this case. The law remains, as we see it, that when a functionary is entrusted with a discretion, the weight to be attached to particular factors, or how far a particular factor affects the eventual determination of the issue, is a matter for the functionary to decide, and as he acts in good faith (and reasonably and rationally) a court of law cannot interfere . . ."
+
+See also Bato Star Fishing (Pty) Ltd v Minister of Environmental Affairs,45 where at paragraph [45] the court discussed the relevant factors to determine whether a decision is reasonable or not, and emphasised that: 
+[2016] JOL 32989 (Elect Ct)  at 56
+"The Court should take care not to usurp the functions of administrative agencies. Its task is to ensure that the decisions taken by the administrative agencies fall within the bounds of reasonableness as required by the Constitution."
+
+The principles enunciated above, are consistent with the provisions of sections 181(4) and (5) of the Constitution which provide that:
+
+"No person or organ of state may interfere with the functioning of these institutions; and that these institutions are accountable to the National Assembly, and must report on their activities and the performance of their functions to the Assembly at least once a year."
+
+The Commission is one of the institutions established under Chapter 9 of the Constitution, as "state institutions supporting constitutional democracy".
+
+[72]    On the facts of the present matter, sketched by both parties in lengthy and voluminous papers, and having regard to the various legislative framework within which the Commission carries out its duties and functions, it cannot be said that the Commission acted unreasonably in the by-elections under discussion. The same applied to the provisions of sections 19 and 190 of the Constitution. One of the several misconstrued obligations of the Commission displayed in this matter, was the contention that it was obliged to verify the addresses of the persons registering to vote. This was plainly not a proper reading and interpretation of section 8 of the Electoral Act. On the contrary, the section requires that the Commission should be satisfied that a person's application for registration complies with the Act. This is achieved when the applicant is obliged to complete the information sought in the REC 1 form, as argued by the Commission. To place a verification obligation on the  
+[2016] JOL 32989 (Elect Ct)  at 57
+Commission was not the correct interpretation. The Concise Oxford Dictionary defines "verify" as "make sure or demonstrate that (something) is true, accurate, or justified". If this is what is expected of the Commission, the result would be contrary to the principle of enfranchisement rather than disenfranchisement of voters as enunciated in August and another v Electoral Commission and others, supra. On appeal in the Canadian matter of Wrzesnewskyj v Canada (Attorney-General), supra, ie Opitz v Wrzesnewskyj 2012 SCC 55, Opitz, who was successful in the election, appealed to the Supreme Court. The court at paragraph [148] said:
+
+"The objective of efficiency and certainty in the electoral process suggests that there ought to be strict compliance with the requirements of the Act. The objective of ensuring that those not qualified to vote not do so pulls in the same direction. On the other hand, the objective of enfranchisement suggests that 'irregularities' should not be interpreted in a technical or trivial way that improperly disenfranchises voters. The voters of Canadian citizens 18 years of age or over should not be set aside over trifles."
+
+At paragraph [151] of the judgment, the court went on to say that:
+
+"Every electoral system must strike a balance between enabling those who have the constitutional right to vote to do so, and ensuring that those who do not have the right are not allowed to vote. The formal system of entitlement is our mechanism for striking the right balance between these two valid concerns, whilst ensuring the efficiency and certainty of the electoral process. It aims to safeguard both the right to vote and the integrity of elections."
+
+At the risk of repetition, the Commission investigated the complaints of irregularities, addressed them and found that such irregularities did not affect the result of the by-elections. The applicants, on the other hand, simply chose not to make use of the procedures created by the various legislative  
+[2016] JOL 32989 (Elect Ct)  at 58
+framework and checks and balances to regulate the lodgement and investigations and objections in regard to their complaints. On the basis of the above principles, it will not be equitable and proper to grant the relief sought by the applicants.
+
+[73]    There was yet another reason why the relief ought not be granted. The by-elections of 6 and 7 August 2013 came and went. The applicants raised no objections, as they were entitled to, in regard to these by-elections. The election results were subsequently finalised and published. The same could comfortably and substantially be said about the subsequent by-elections of September 2013 and December 2013, save for the delay and inability of this Court to hear the matter during December 2013.
+
+[74]    The finding that the alleged irregularities were not of a material nature necessitating the setting aside of the by-elections, has already been made. Even if the alleged irregularities were material and affecting the result of the by-elections, which had not been proved, this Court in the exercise of its discretion would still grapple with the issue of a just and equitable remedy. This kind of situation arose in Allpay Consolidated Investment Holdings (Pty) Ltd and others v Chief Executive Officer, South African Social Security Agency and others ("Allpay").46 In that case, Allpay was an unsuccessful bidder in a tender invited by the South African Social Security Agency ("SASSA") for the administration of social grant payments to beneficiaries. Allpay challenged the awarding of the tender to Cash Paymaster Services  
+[2016] JOL 32989 (Elect Ct)  at 59
+(Pty) Ltd ("CPS") in the High Court. The High Court declared the process followed in awarding the tender illegal and invalid but declined to set it aside, because it would have disrupted the payment of social grants. Allpay appealed to the Supreme Court of Appeal ("the SCA") against the refusal to set the award aside, and there was a cross-appeal by CPS against the declaratory order. The SCA upheld the cross-appeal and dismissed the appeal, finding that the alleged irregularities were not unlawful, and commenting that public interest dictated that a procurement process should not be invalidated for minor inconsequential flaws. Allpay appealed further to the Constitutional Court. The latter court came to the conclusion that the decision to award the tender to Cash Paymaster was constitutionally invalid, and set aside the order of the SCA. In regard to the appropriate remedy, the court, pursuant to hearing various and conflicting submissions, said:
+
+"These considerations raise difficult factual and legal issues . . . It would be inappropriate to make a decision on a just and equitable remedy in the absence of further information and argument on these issues . . ."47
+
+The court suspended the declaration of invalidity pending determination of a just and equitable remedy. In South African Property Owners' Association v Johannesburg Metropolitan Municipality and others,48 the court heard an appeal in regard to the imposition of rates levied by the Johannesburg Municipality on residential and non-residential properties in terms of section 19(1) of the Local Government: Municipal Property Rates Act 6 of 2004. The court found that the Mayor and the Johannesburg Municipality had not complied  
+[2016] JOL 32989 (Elect Ct)  at 60
+with the statutory requirements of participation in the budget process by the local community. The court in finally upholding the appeal, and setting aside the order of the High Court, also found that there was no rational connection between the rates and the decision to impose the additional rate on business properties, and that there was no legal basis to impose justification of the additional increase. As to the appropriate remedy, the court noted that the applicants did not seek the setting-aside of the previous 2009–2010 budget of the City of Johannesburg Municipality, but insisted on seeking relief pertinent to the additional increase in the rates imposed on business properties. At paragraph [60] of the judgment, the court articulated the problem inherent in the relief sought as follows:
+
+"If this relief were granted, this Court would declare, in effect, that the Council acted unlawfully in imposing the additional 18% on the rates on business properties (because it failed to comply with the prescribed legal requirements and procedures) and, pursuant to that declaration, would set aside the rate imposed in excess of R0.0132 in the rand. Counsel acknowledged that there may be claims for repayment of the rates paid in excess of what should have been paid and suggested that the Court order that the City has three years to repay any such amount. He also acknowledged that the respondents' conduct has created a problem which is too big to be solved by a Court order. As he put it, the Court cannot unscramble the egg. This concession is clearly correct in so far as it relates to the whole budget for 2009/10."
+
+These concerns were accommodated in the order ultimately made.
+
+[75]    In the context of the present matter, unlike in the Allpay matter, this Court had all the relevant information to determine a just and equitable remedy. Based upon a consideration of all the circumstances, there was plainly no justification advanced to undo the by-elections. The successful  
+[2016] JOL 32989 (Elect Ct)  at 61
+candidates have been elected and placed in respective positions. For this reason, too the application must fail.
+
+[76]    There was a final reason why the application must fail. This related to the prayer and alternative relief referred to earlier in the judgment. In closing argument, counsel for the applicants left it to the court to amend the prayers in 4.1 and 4.2 of the notice of motion and to grant the relief sought thereunder. It would be unfair to the Commission for the court to do so. The applicants approached this Court by way of motion proceedings. In the process, they made various allegations against the Commission, some of which potentially attracted factual disputes. It is by now trite that in motion proceedings, all essential averments must appear in the founding affidavits or the courts will not allow an applicant to make or supplement his/her/its case in the replying affidavits (see in this regard for example, Body Corporate of the Shaftesbury Sectional Title Scheme v Estate of the Late Wilhelm Rippert and others,49 and Titty's Bar and Bottle Store (Pty) Ltd v ABC Garage (Pty) Ltd and others).50 However, the rule is not an absolute one, the court still has the necessary discretion to allow new matter in a replying affidavit in exceptional circumstances, as pronounced in Finishing Touch 163 (Pty) Ltd v BHP Billiton Energy Coal South Africa Ltd and others.51 The applicants failed to advance all the necessary allegations in the founding papers, especially in the amended papers, in order to sustain the relief claimed.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 62
+
+[77]    In any event, on a consideration of all the relevant circumstances, the applicants should not be entitled to claim relief on the basis of "further and/or alternative relief", especially such drastic relief based on unamended papers (see in this regard, Johannesburg City Council v Bruma Thirty-Two (Pty) Ltd).52 More recently, in National Stadium South Africa (Pty) Ltd and others v Firstrand Bank Ltd53 it was held that:
+
+"The court below justified its approach on the ground that in joining the managers in the proceedings and supporting them the City became a co-wrongdoer and had to be restrained. This, however, does not dispense with the required prayer for relief against the City. The court also relied on the prayer for alternative relief. It erred because this superfluous prayer does not entitle a court to grant relief that is inconsistent with the factual statements and the terms of the express claim . . ."
+
+In this matter the application to an extent was based on the amended notice of motion, and which was eventually left to the court to further amend appropriately, must fail.
+
+Conclusion
+
+[78]    For all these reasons, I came to the conclusion that the application must fail in its entirety. However, there was one matter that, in my view, needed mention. This was that, from the voluminous papers placed before us, a close study of the history of the by-elections under discussion, the Commission undoubtedly bears a huge obligation and responsibility in election processes as enshrined in sections 19 of the Bill of Rights and 190 of the Constitution.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 63
+
+Added to this, are the various legislative frameworks described above. It is a daunting task in a developing democracy like ours. The point is simply that, in spite of its recognition of the task, and the assurances it gave that it did its best to comply with its statutory obligations in relation to the applicants' concerns, the Commission can and should do better. It should, for example, adopt a more proactive and sensible approach, rather than investigating matters only when raised by interested parties. What immediately comes to mind in this regard is the issue of integrated, effective and localised voter education. The problems of emerging informal settlements, problematic demarcations and nomadic citizenry should be properly planned for. The aim should really be to avoid unnecessary litigation without limiting the rights of access to the courts as enshrined in the Constitution. All the issues raised in this application, and they are crucial, ought to be addressed with all interested parties outside of the litigation process. This much was put to counsel on both sides at the conclusion of the argument.
+
+[79]    In the result the following order is made:
+
+The application is dismissed.
+There is no order as to costs.
+
+(Shongwe JA, Pather and Mthembu concurred in the judgment of Moshidi J.)
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 64
+
+WEPENER J (dissenting as to alternative relief only):
+
+[80]    I have had the privilege of reading the judgment prepared by Moshidi J. I am in agreement with his conclusion regarding the fact that this Court lacks the power to order or authorise an investigation of the type sought by the applicants, for the reasons given by Moshidi J.
+
+[81]    I, however, find myself unable to agree with conclusion reached regarding the relief sought by the applicants to have the flawed elections set aside. It is so that the notice of motion is couched in terms that are dependent on the main relief, ie the investigation, which relief that applicants failed to obtain. Nevertheless, counsel for the applicants submitted that the applicants are entitled to the relief despite the manner in which the relief was couched. Prayer 4 of the notice of motion reads as follows:
+
+That depending on the results of the investigation ordered herein and the recommendations in the report in 3.2 above it be ordered that:
+The unlawful election of any candidate be set aside and that new by-elections be convened in the ward where such candidate was elected.
+. . ."
+
+[82]    Counsel for the applicants submitted that, even in the absence of the proposed investigation, sufficient facts have been disclosed to show that the by-elections were not free and fair and should be set aside. To disallow this  
+[2016] JOL 32989 (Elect Ct)  at 65
+relief because it was couched as being dependent upon the outcome of an investigation would, in my view, place form before substance. The effective relief sought by the applicants is to have flawed elections set aside. If the facts before us justify such a setting aside it would, in my view, be wrong to argue that relief is only obtainable if a report would justify such a course of conduct. The applicants clearly sought a setting aside and also couched the notice of motion in a form which included a request for further and/or alternative relief. The relief sought has a basis in the supporting papers and is not inconsistent with the substantive relief claimed.54 If the papers show a flawed election process, I am of the view, that the applicants should be afforded relief in order to avoid giving form preference over substance, something that should not be countenanced.55
+
+[83]    The question then is whether the by-elections were tainted with illegality and, if so, whether the applicants are to be afforded relief.
+
+[84]    Moshidi J expressed the view that the applicants failed to utilise the statutory mechanisms to object to a voters' roll and that the applicants' submission that the invocation of the remedy provided in section 15 of the Municipal  
+[2016] JOL 32989 (Elect Ct)  at 66
+Electoral Act was not practical, was not convincing.56 But counsel for the applicants relied on a previous judgment of this Court which held that there are circumstances where the duty to act rests on the Commission, despite the failure of individuals to act. This Court has held that where there is a large scale unlawful registration of voters it is for the Commission itself to act when the unlawful conduct is brought to its attention. In this regard this Court held in Lötter v Electoral Commission and others57 as follows:
+
+"[36]  The provisions of s 15 of the Electoral Act may not be entirely suitable for the situation described by the applicant where there was a large scale registration of persons who are unknown to the applicant. When there is such large scale unlawful registration of voters it is for the Commission itself to act when the unlawful conduct is brought to its attention, the latter which the applicant did do when he visited the Commission's head office in Centurion.
+
+[37]    Although I will not attempt to suggest all the suitable measures which the Commission could and should take in order to avoid large scale unlawful voter registration, some steps do come to mind.
+
+[38]    The Commission is able to determine the pattern of registration of any individual voter by having regard to that particular voter's past registration as a voter. If there were large numbers of voters who suddenly registered in Ward 22 but who were previously registered in surrounding wards, it would be an indication that something was amiss. Unfortunately the information as to such voter migration was not made available to us. The Commission should take the information regarding each voter who registered in Ward 22 since March 2013 and utilise its officials to see if such persons were indeed residing at their former  
+[2016] JOL 32989 (Elect Ct)  at 67
+addresses and not within Ward 22. If such persons are still so resident at their former addresses and found to reside outside Ward 22, the Commission must take steps to have such persons removed from the voters' roll of Ward 22. The Commission is entitled to acquire the necessary staff to do such an exercise, even on an urgent and wide scale basis, as is envisaged in s 5(2) of the Electoral Commission Act which provides:
+
+'The Commission shall, for the purposes of the achievement of its objects and the performance of its functions–
+
+acquire the necessary staff whether by employment, secondment, appointment on contract or otherwise;
+. . .
+. . .
+. . .
+
+that is necessary for or conducive to that.'
+
+The Act is a broad guideline and the Commission is entitled to take steps in order to promote free and fair elections.
+
+[39]    The Commission could then mero motu apply provisions of s 15 (3) of the Electoral Act to correct the unlawful position. If s 15(3) is found to confer insufficient machinery the Commission is hampered in that it does not have the necessary legal machinery to correct the voters' roll, it should act in order to avoid such a situation in the future. It has the duty to strengthen the constitutional democracy and promote the electoral processes without any prescription or curtailment of its powers (see s 4 of the Electoral Commission Act). It can further make recommendations in connection with the electoral legislation as is provided for in s 5(1)(j) of the Electoral Commission Act.
+
+[40]    If it is found that there are a large number of unlawful registered voters in Ward 22 these voters must be removed from that voters' roll  
+[2016] JOL 32989 (Elect Ct)  at 68
+pursuant to s 5(1)(e) of the Electoral Commission Act. The Commission is to 'compile and maintain voters' rolls by means of a system of registering of eligible voters by utilising data available from government services and information furnished by voters'. Each unlawfully registered voter can be removed from the voters' roll pursuant to an application to court if necessary.
+
+[41]    It is because of this view that the order in 2 above was issued. Unlawfully registered voters must be removed from the voters' roll as such a situation, un-remedied, is not conducive to a free and fair election in a democratic society."
+
+[85]    Were the freeness and fairness of the elections tainted by illegality? It is common cause58 that a fraudulent registration of voters in the wards concerned indeed occurred. The Commission set it out thus:
+
+359 applicants were registered in other voting districts but within the wards in which they were residing;
+332 applicants did not have sufficient conventional addresses to match with the spatial addresses provided by the Municipality;
+1040 applicants applied for registration outside the ward of residence."
+
+[86]    Moshidi J describes the irregularities in detail and I do not repeat them.
+
+[87]    After conceding the several incorrect registrations the Commission, by simple mathematical calculation, concludes that the impact of the participation of the incorrectly registered voters did not materially influence the outcome of  
+[2016] JOL 32989 (Elect Ct)  at 69
+the by-elections. In order to underline this argument the Commission set out the details of the elections in each ward, the number of fraudulent voters determined in each ward and then concludes that the result of each election would not have altered even if those fraudulently registered voters were disregarded. Although the by-elections in Wards 9 and 18 took place during September 2014, the facts that underlie the allegations of irregularity with the voters' roll came to the attention of the applicants sometime after those elections.
+
+[88]    Municipal elections are held on the basis that voters in specific demarcated wards can vote for their candidates who make themselves available for election in that specific ward. It follows that persons who are not resident in a specific ward should not be eligible to cast a vote in an election in that ward. The Commission is obliged to manage elections:59
+
+Powers, duties and functions of Commission
+The functions of the Commission include to–
+manage any election;
+ensure that any election is free and fair;
+promote conditions conducive to free and fair elections;
+promote knowledge of sound and democratic electoral processes; 
+[2016] JOL 32989 (Elect Ct)  at 70
+ (e) compile and maintain voters' rolls by means of a system of registering of eligible voters by utilising data available from government sources and information furnished by voters;
+compile and maintain a register of parties;
+establish and maintain liaison and co-operation with parties;
+undertake and promote research into electoral matters;
+develop and promote the development of electoral expertise and technology in all spheres of government;
+continuously review electoral legislation and proposed electoral legislation, and to make recommendations in connection therewith;
+promote voter education;
+promote co-operation with and between persons, institutions, governments and administrations for the achievement of its objects;
+. . .
+declare the results of elections for national, provincial and municipal legislative bodies within seven days after such elections;
+adjudicate disputes which may arise from the organisation, administration or conducting of elections and which are of an administrative nature; and 
+[2016] JOL 32989 (Elect Ct)  at 71
+ (p) appoint appropriate public administrations in any sphere of government to conduct elections when necessary.
+The Commission shall, for the purposes of the achievement of its objects and the performance of its functions–
+acquire the necessary staff, whether by employment, secondment, appointment on contract or otherwise;
+establish and maintain the necessary facilities for collecting and disseminating information regarding electoral matters;
+co-operate with educational or other bodies or institutions with a view to the provision of instruction to or the training of persons in electoral and related matters; and
+generally, perform any act that is necessary for or conducive to that."
+
+[89]    The Commission is to oversee that the elections occur within the relevant legislative framework. This would include ensuring that only voters who reside in a particular ward can vote for the candidates who make themselves available in that particular ward.
+
+[90]    This case, like many other by-elections, concerns the unlawful registration of voters who are not normally resident in a ward, but who do register in that ward despite not being resident therein. This form of unlawful registration has been referred to as "bussed in voters" in order to bolster a  
+[2016] JOL 32989 (Elect Ct)  at 72
+particular political party's chances to win the elections.60 The applicants also complained that voters appearing on the voters' roll of particular wards had no addresses recorded on the REC 1 forms – the form which formed the basis of the compilation of the voters' roll.
+
+[91]    The voters' roll which was made available on 4 December 2013 instead of 14 November 2013, did not afford the applicants sufficient time to verify the voters registered on the roll and to canvas for votes. During argument before this Court, counsel for the applicants relied on the common cause irregular registration of voters. The Commission, who investigated the complaints and found that irregular registration of voters indeed occurred, resisted the setting aside of the elections. The investigation itself, however, was based on a special database of the Tlokwe Municipality, which database is of limited value due to its omissions. There can be no doubt that the database of residents who contracted with the municipality only will exclude particulars of other residents of a particular household, who did not so contract. It also excludes persons who live in informal settlements where no services are being provided. It is common cause that the wards under consideration cover several informal settlements. Such an incomplete database cannot contribute to a proper investigation or check the correctness of a voters' roll.
+
+[92]    I cannot agree with the reasoning of Moshidi J. Firstly, the materiality of the incorrectly registered voters should not be approached simply by making arithmetical calculations. The materiality is to be determined by reference to  
+[2016] JOL 32989 (Elect Ct)  at 73
+the purpose of the relevant statutory provisions.61 Over and above this aspect, the calculations relied upon by the Commission during its desktop investigation are based on wholly unreliable information.
+
+[93]    In addition, the applicants were entitled to receive a voters' roll containing addresses of the relevant voters in order to canvas voters prior to the elections. Counsel for the Commission conceded that the independent candidates are as entitled to a voters' roll with addresses as any political party would be.62
+
+[94]    Thirdly, the applicants complained that they did not receive a voters' roll containing the addresses in order to enable them to canvas for votes prior to the elections. Counsel for the Commission responded with two submissions. Firstly, that the regulations only require a number on the roll, a name and an identity number. The voters' roll which the applicants received complied with the regulations, but this submission cannot overcome the provisions of the Act.63
+
+[95]    Counsel then suggested that one of the applicants was indeed provided with forms REC 1 on which there appear addresses of voters and that those forms together with the voters' roll would supply the necessary information. That argument misses the very complaint of the applicants. The  
+[2016] JOL 32989 (Elect Ct)  at 74
+REC 1 forms were received late and the information on these forms was wholly insufficient as it does not properly describe the addresses of the voters.
+
+[96]    The failure of the Commission to supply the applicants with the voters' roll containing the addresses and then supplying forms with inadequate addresses late, resulted in independent candidates being unable to properly canvas for votes as they were entitled to do. The election process was consequently flawed by virtue of the non-compliance of the Commission with the supply of the voters' roll and the inadequacy of the voters' roll itself. I am of the view that the purpose of the voters' roll, which contains addresses of voters, is to allow for candidates to visit voters and to canvas for votes prior to any election. The failure to afford the independent candidates that opportunity is a serious one that merits intervention.
+
+[97]    The materiality of the failure lies therein that the purpose of the making available of a voters' roll to a candidate, ie to able to canvas, was wholly defeated. The fact that the number of voters found to have been incorrectly registered would not have affected the outcome of the election is irrelevant to this aspect of the case. Once an irregularity is found to have existed the action of the Commission to continue with the by-elections was wrong as the elections could never have been free and fair. In this regard, I am of the view, that the principles applied by the Constitutional Court to a procurement  
+[2016] JOL 32989 (Elect Ct)  at 75
+process would be equally applicable to the process regarding elections. In Allpay64 it was said:65
+
+"This judgment holds that:
+
+The suggestion that 'inconsequential irregularities' are of no moment conflates the test for irregularities and their import; hence an assessment of the fairness and lawfulness of the procurement process must be independent of the outcome of the tender process.
+The materiality of compliance with legal requirements depends on the extent to which the purpose of the requirement is attained."
+
+[98]    Section 5666 of the Electoral Act allows for this Court to hear an objection regarding a serious irregularity which had occurred concerning any aspect of an election. Should an order as provided for in section 56(a) be issued the effect would be that there was no candidate that won the election and as a logical consequence the Commission will have to call for new by-elections.
+
+[99]    In addition, the applicants lodged an objection with the Commission regarding their complaint under section 65 of the Local Government: Municipal Electoral Act.67 In this matter the applicants sought relief prior to the by-elections but the matter was not heard and circumstances forced them to adopt the formulation of the current relief. They were not at fault when the  
+[2016] JOL 32989 (Elect Ct)  at 76
+matter was not heard initially and I am of the view that they should not be prejudiced because of any delay. If regard is had to the flawed registration of voters and the flawed basis of the desktop investigation utilised by the Commission to determine the correctness of the voters' roll, the words of Froneman J in Allpay68 are apposite:
+
+"[23]  To the extent that the judgment of the Supreme of Court of Appeal may be interpreted as suggesting that the public interest in procurement matters requires greater caution in finding that grounds for judicial review exist in a given matter, that misapprehension must be dispelled. So too the notion that, even if proven irregularities exist, the inevitability of a certain outcome is a factor that should be considered in determining the validity of administrative action.
+
+[24]    This approach to irregularities seems detrimental to important aspects of the procurement process. First, it undermines the role procedural requirements play in ensuring even treatment of all bidders. Second, it overlooks that the purpose of a fair process is to ensure the best outcome; the two cannot be severed. On the approach of the Supreme Court of Appeal, procedural requirements are not considered on their own merits, but instead through the lens of the final outcome. This conflates the different and separate questions of unlawfulness and remedy. If the process leading to the bid's success was compromised, it cannot be known with certainty what course the process might have taken had procedural requirements been properly observed."
+
+[100]    In this matter if the process leading to the election was compromised and it cannot be known with certainty what course the process might have taken had procedural requirements been properly observed. This approach of  
+[2016] JOL 32989 (Elect Ct)  at 77
+the Constitutional Court is at variance with the Canadian law69 and I would not place such high onus on the applicants as was suggested in Wrzesnewskyj in circumstances such as those presenting in this case.
+
+[101]    I am of the view that the principles enunciated in Allpay regarding unlawfulness of deviations from fair process are equally applicable to free and fair elections. In Allpay it was said:70
+
+"There is a further consideration. As Corruption Watch explained, with reference to international authority and experience, deviations from fair process may themselves all too often be symptoms of corruption or malfeasance in the process. In other words, an unfair process may betoken a deliberately skewed process. Hence insistence on compliance with process formalities has a threefold purpose: (a) it ensures fairness to participants in the bid process; (b) it enhances the likelihood of efficiency and optimality in the outcome; and (c) it serves as a guardian against a process skewed by corrupt influences."
+
+[102]    In all the circumstances, I am of the view, that the by-elections were not free and fair and were tainted by illegality and that the votes cast at the voting stations of the relevant wards in the by-elections should be ordered to not to count in whole. The effect of such an order would be that those candidates purportedly elected would cease to hold office with immediate effect and that the Commission should take steps to hold new by-elections.
+
+ 
+[2016] JOL 32989 (Elect Ct)  at 78
+
+[103]    This being a dissenting judgment I need not further define the appropriate relief which I would have afforded the applicants save to state that I am of the view that they are entitled to have the irregular elections set aside.
+
+[104]    I also agree with the contents of paragraph [78] of the judgment of Moshidi J. It is clear that the Commission must take urgent steps to avoid "bussing". One such step may be to close the registration process when vacancies occur which would lead to by-elections. The whole unlawful process which reared its head on more than one occasion before this Court can then effectively be avoided.
+
+
+
+Footnotes
+1	See Bundle 1 at 360 – 363.
+2	See s 181 of the Constitution.
+3	See s 190 of the Constitution.
+4	See record at 373– 509.
+5	See record at 511– 556.
+6	Reported at 2014 (1) SA 71 (EC) [also reported at [2014] JOL 31515 (Elect Ct) – Ed].
+7	Constitution of the Republic of South Africa, 1996.
+8	1950 (4) SA 692 (W).
+9	1997 (1) SA 710 (A) at 725H – I [also reported at [1997] JOL 590 (A) – Ed].
+10	1917 AD 731 at 743.
+11	1968 (1) SA 585 (A) at 594H – 595A.
+12	2 ed) Vol 25 Part 1 (First Reissue) at para [349].
+13	[2004] 1 All SA 168 (SCA) [also reported at [2003] JOL 12154 (SCA) – Ed].
+14	See United Democratic Movement and others v Tlakula and another (EC 05 / 14) [2014] ZAEC 5 (18 June 2014) [also reported at [2015] JOL 33090 (Elect Ct) – Ed].
+15	There is an Electoral Court for the Republic, with the status of the Supreme Court.
+16	2006 (3) SA 396 (EC) [also reported at [2005] JOL 13220 (Elect Ct) – Ed].
+17	See Bundle at 7.
+18	See Bundle at 362.
+19	S 20(1)(a) and (b).
+20	S 5 of the Electoral Act provides that the Chief Electoral Officer must compile and maintain a national common voters' roll.
+21	S 33 of the Electoral Act deals with special votes.
+22	See FA record at 23 para [28].
+23	See bundle at 35 para [38 FA].
+24	See bundle at 208 – 293.
+25	2010 IEC 406 (EC) [also reported at [2001] JOL 8228 (Elect Ct) – Ed].
+26	2010 IEC 451 (EC).
+27	[2014] 4 All SA 465 (EC) [also reported at [2014] JOL 32356 (Elect Ct) – Ed].
+28	See Bundle at 373 – 406.
+29	See Bundle 2 at 417.
+30	See para 3.4 at 6 of the applicants' heads of argument.
+31	See Record at 76 – 77.13, Record at 76 – 77.
+32	Published under Government Notice R12 in Government Gazette 25894 of 7 January 2004, as amended.
+33	1998 (12) BCLR 1458 (CC) at para [58], also at 1999 (1) SA 374 (CC) at paras [56] – [59].
+34	1999 (3) SA 1 (CC) [also reported at [1999] JOL 4701 (CC) – Ed].
+35	1948 (2) SA 355 (A).
+36	[2010] 2 All SA 99 (SCA) [also reported at [2009] JOL 24614 (SCA) – Ed] at paras [27] and [30].
+37	2010 IEC 471 (EC) [also reported at [2001] JOL 8227 (Elect Ct) – Ed].
+38	110 O.R. (3d) 350 – 2012 ONSC 2873.
+39	2001 (3) SA 925 (CC) [also reported at [2001] JOL 8571 (CC) – Ed].
+40	1999 (3) SA 191 (CC) [also reported at [1999] JOL 4904 (CC) – Ed] at paras [18] – [19].
+41	2009 (1) SA 287 (CC) [also reported at [2008] JOL 22590 (CC) – Ed].
+42	2006 (6) SA 416 (CC) [also reported at [2006] JOL 18085 (CC) – Ed].
+43	2013 (1) SA 248 (CC) [also reported at 2012 (12) BCLR 577 (CC) – Ed].
+44	[2013] 3 All SA 491 (SCA) [also reported at [2013] JOL 30591 (SCA) – Ed].
+45	2004 (4) SA 490 (CC), 2004 (7) BCLR 687 (CC).
+46	2014 (1) SA 604 (CC) [also reported at 2014 (1) BCLR 1 (CC) – Ed].
+47	At para [96].
+48	2013 (1) SA 420 (SCA) [also reported at 2013 (1) BCLR 87 (SCA) – Ed].
+49	[2003] 2 All SA 233 (C) at 237 [also reported at [2003] JOL 10860 (C), [2003] JOL 10835 (C) and [2004] JOL 12465 (C) – Ed].
+50	1974 (4) SA 362 (T) at 369.
+51	2013 (2) SA 204 (SCA) [also reported at [2012] JOL 29082 (SCA) – Ed] at para [26].
+52	1984 (4) SA 87 (T).
+53	2011 (2) SA 157 (SCA) [also reported at [2011] JOL 26602 (SCA) – Ed] at para [45].
+54	Member of the Executive Council, Department of Education, Eastern Cape v Gqebe (2009) 30 ILJ 2388 (LAC) [also reported at [2009] JOL 23717 (LAC) and [2009] JOL 23883 (LAC) – Ed] at para [29]:
+  "[29]  What is crystal clear from the cited authorities is that alternative relief will not be granted where:
+ 29.1 No basis has been laid for such a relief in the supporting papers.
+ 29.2 The order granted is inconsistent with the substantive relief claimed; Johannesburg City Council v Bruma Thirty-Two (Pty) Ltd 1984 (4) SA 87 (T) at 93E–F:
+'In Hirschowitz v Hirschowitz 1965 (3) SA 407 (W) at 409 Vieyra J applied these principles to motion proceedings. The prayer for alternative relief is to my mind, in modern practice, redundant and mere verbiage. Whatever the Court can validly be asked to order on papers as framed, can still be asked without its presence.'"
+55	See Nabolisa v S (CCT 105/12 [2013] ZACC 17, 2013 (2) SACR 221 (CC), 2013 (8) BCLR 964 (CC) [also reported at [2013] JOL 30457 (CC) – Ed] (12 June 2013).
+56	Main judgment at para [38].
+57	Lötter v Electoral Commission and others (001/13 IEC) [2013] ZAEC 1 (7 May 2013), [2013] 4 All SA 152 (Elect Ct) [also reported at [2013] JOL 30672 (Elect Ct) – Ed].
+58	Main judgment at paras [45] – [51].
+59	S 5 Electoral Commission Act 51 of 1996.
+60	Lötter at para [29].
+61	Allpay Consolidated Investment Holdings (Pty) Ltd and others v Chief Executive Officer, South African Social Security Agency and others 2014 (1) SA 604 (CC) [also reported at 2014 (1) BCLR 1 (CC) – Ed] at paras at [28] – [30].
+62	See s 16(3) of the Electoral Act 73 of 1998.
+63	Which provides for a voters' roll with addresses which a political party (and as conceded by the Commission, an independent candidate) is entitled to receive.
+64	Allpay Consolidated Investment Holdings (Pty) Ltd and others v Chief Executive Officer, South African Social Security Agency and others 2014 (1) SA 604 (CC) [also reported at 2014 (1) BCLR 1 (CC) – Ed].
+65	At para [22].
+66	"56  Powers of Commission and Electoral Court
+  If the Commission or the Electoral Court decides, whether as a result of an objection or appeal brought under section 55 or otherwise, that a serious irregularity has occurred concerning any aspect of an election, the Commission or the Electoral Court may order– 
+ (a) that the votes cast at a particular voting station do not count in whole or in part; or
+ (b) . . ."
+67	Act 27 of 2000.
+68	At paras [23] – [24].
+69	Wrzesnewskyj, supra.
+70	At para [27].
+
+Appearance:
+Adv J Roux, Adv M Basson-Riley, Adv CL Markram, Moolman and Pienaar Incorporated (At); Adv MTK Moerane SC, Adv L Gcabashe, Gildenhuys Malatji Incorporated (1R)
+
+
+End of Document

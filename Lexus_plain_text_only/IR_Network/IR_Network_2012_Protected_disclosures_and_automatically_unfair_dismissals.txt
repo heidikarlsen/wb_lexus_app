@@ -1,0 +1,65 @@
+
+
+
+
+Protected disclosures and automatically unfair dismissals
+IR - Editorial
+
+Protected disclosures and automatically unfair dismissals
+
+When it comes to automatically unfair dismissals in terms of the Labour Relations Act 66 of 1995 (the LRA), the core issue is always one of proof – and virtually the only issue that needs to be proven is whether the dismissal was for an impermissible reason (a reason falling within the scope of section 187 of the LRA) or whether the dismissal was for misconduct or incapacity. Two new decisions from the Labour Appeal Court again illustrate the issues that arises in cases where the real reason for the employee’s dismissal is a question that effectively decides the entire dispute between the parties. 
+
+The protected disclosure
+
+In State Information Technology Agency (Pty) Ltd v Sekgobela  (2012) 21 LAC 1.11.51 the employee raised a grievance in a document he presented to the Chief Executive Officer (CEO). The grievance related to his performance review for 2003. This was not all the employee raised – he also raised issues relating to what he saw as irregularities and non-compliance with the employer’s procurement policies. The employee’s evidence was that his grievance about the performance review would be dealt with by his superior and the CEO would look into some of the irregularities he had raised. 
+
+A month or two later, the employee submitted a document setting out “Matters of Concern”, together with a bundle of supporting documents, to the public protector – these issues were effectively the same he had raised with the CEO. The employee felt that the CEO had done nothing about the concerns he had raised and that he was making a protected disclosure about the irregularities. He made the same disclosure to the SA Police Service. 
+
+The Public Protector referred the letter to the employer and asked the employer to investigate the allegations the employee had made. The same month the employee was subjected to disciplinary proceedings and he was found guilty. This finding, together with the warning he received, was overturned on appeal. As can be expected, the relationship between the employer and the employee turned sour: the employee was stripped of his responsibilities and he lodged a grievance and referred an unfair labour practice dispute to the CCMA. His responsibilities were returned but then he was suspended and told to attend an enquiry into his alleged incompatibility. 
+
+The allegation of incompatibility related to a number of incidents, including allegations that he refused to cooperate with line managers, that he refused to attend an investigatory disciplinary enquiry and refusing to attend internal management meetings. The hearing did not conclude on the first day and was supposed to continue on a later date, but the employee claimed that he did not know it was going to continue. He was informed that he had been found guilty and dismissed. The employee challenged his dismissal by referring a dispute to the CCMA – the basis for his challenge being that his dismissal constituted an occupational detriment as defined in section 1 of the Protected Disclosures Act 26 of 2000 (PDA). As such, his dismissal would constitute an automatically unfair dismissal. After the CCMA tried to resolve the dispute through conciliation, the dispute was referred to the Labour Court – the Labour Court found that he had indeed been subjected to an occupational detriment and upheld his claim that he had been automatically unfairly dismissed. 
+
+The employer’s strategy
+
+In the Labour Court the employee led detailed evidence about the events that gave rise to his dismissal. Yet after they had completed cross-examining the employee, the employer’s legal representatives simply applied for absolution from the instance (saying, in effect that there was no case to answer or that the employee had not proven the essential elements of his case). The Labour Court refused this application and the employer thereupon closed its case – without leading a single shred of evidence. 
+
+The Labour Court concluded that the employee’s dismissal was a contravention of the PDA – the Court took the view that the employer was a public entity and that the Public Finance Management Act 1 of 1999 applied to the employer. 
+
+On appeal, the employer’s argument was basically that the employee had not proven that he had made a protected disclosure – that he had not discharged the burden he bore of showing that he was dismissed for the reason he alleged. The employer’s view was that he had made no protected disclosure. 
+
+The onus and how it shifts
+
+Section 192 of the LRA envisages a two-stage process, said the Labour Appeal Court: the employee must prove that there was a dismissal (if this is in dispute) and then the employer must prove that the dismissal was for a fair reason and was procedurally fair. Once the employee has proven that there was a dismissal, the employer must prove the fairness thereof. The one comes before the other: proving the dismissal comes before proving that it was fair. In the case of automatically unfair dismissals things are not that much different – except that the employee must present enough evidence to raise a credible possibility that an automatically unfair dismissal has taken place. In other words, when it comes to automatically unfair dismissals, it will not be enough for the employee merely to claim that he or she was dismissed: he or she will also have to raise a credible possibility that the reason for the dismissal was automatically unfair. 
+
+Section 187(1)(h) also has an effect on the burden of proof. The employee must show not only that he was dismissed but that his dismissal was the result of his having made a disclosure within the ambit of the PDA. He or she must therefore prove causation and that the disclosure was protected. Whether sufficient evidence has been presented to the Court is for the Court to decide. The essential question facing the court after the parties have led their evidence, is to ascertain which party has discharged the onus resting on it. Evidence in this context is decisive and failure to produce any evidence (or failure to produce enough evidence) is a risky strategy. 
+
+In this case the only question was whether the employer had discharged the burden resting on it to show that the employee’s dismissal was for a fair reason. The only problem was that the employer had not produced any evidence. And so the employer’s poor choice of legal strategy came back to haunt it. Even though the lawyers for the employer had cross-examined him on the evidence he had presented, there were no serious challenges to the conclusions he had made based on the transactions he had observed and which had led him to make the disclosures. 
+
+The Labour Court concluded that by failing to lead evidence the employer had failed to prove its allegations that the employee was dismissed for a fair reason. The employee’s disclosure was protected in terms of the PDA and he had been subjected to an occupational detriment as envisaged by the PDA. The Labour Court had held that the employee’s dismissal was automatically unfair. 
+
+On appeal
+
+The employer’s appeal was on two grounds. The first was that the Labour Court did not consider the disclosure the employee had made to the SA Police Service and whether the employee had proven that this disclosure was justified. The second ground for appeal was that the disclosure made to the Public Protector was neither information nor a disclosure as envisaged by the PDA. 
+
+The reason for the Labour Court’s not considering the disclosure made to the SA Police Service was simply that the employee did not base his claim on that disclosure – he based his case on the disclosure he had made to the Public Protector. It was therefore ill conceived of the employer, the Labour Appeal Court said, to upset the Labour Court’s judgment and its order simply on the basis of the disclosure to the police. 
+
+Instead, it was the disclosure to the Public Protector that had to be scrutinised. The Labour Appeal Court considered section 8 of the PDA, in terms of which protected disclosures can be made to certain bodies, including the Public Protector and the Auditor-General. The three questions that followed were as follows:
+
+“[28] What has to be determined is whether the disclosure was made in good faith by the respondent, that he reasonably believed that the wrongdoing he disclosed fell within matters which, in the ordinary course are dealt with by the appellant and that the information he disclosed is substantially true. An affirmative answer to these questions means that disclosure was protected.”
+
+There was nothing to indicate that the employee was not acting in good faith when he made the disclosures and that he did not have reason to believe that something was wrong. After all, the Labour Court had the benefit of the employee’s evidence – and none from the employer. The employee’s view about the non-compliance with the employer’s policies and procedures had not been contradicted by anything the employer had produced. 
+
+The Labour Appeal Court makes an important point when it adds that the legitimacy of any disclosure does not depend on how it is treated by whoever it is made to. The test is simply whether the person making the disclosure is acting in good faith and whether he or she believed that there was an “impropriety”. The PDA does not require that the employee who made the disclosure also prove the truth of the information he or she discloses. 
+
+There was no faulting the Labour Court’s decision and the way in which it reached its conclusions. The Labour Court was correct in reaching the conclusions regarding the facts on the evidence placed before it – and it was justified in concluding that the employee had made a protected disclosure in terms of the PDA and that his subsequent dismissal constituted an occupational detriment and that it was as such automatically unfair. 
+
+If we merely look at the facts of the case, the case is not perhaps all that exciting or interesting. There are two important issues raised in the Labour Appeal Court’s judgment. The first is that it again underscores the need for an employer to put its own version, its own evidence, before the Labour Court, so that the Labour Court has something to go on. Simply not giving evidence is, it seems, a poor choice of strategy in most cases. This is even more pertinently the case if the employee has given detailed and comprehensive evidence in support of his case. 
+
+The second important point about this judgment is the Labour Appeal Court’s analysis of the burden of proof in the context of automatically unfair dismissals arising in the context of a protected disclosure - section 187(1)(h) of the LRA. Employees now know that when they approach the Labour Court they must prove not only that they were dismissed, but also that they had made a disclosure that was protected under the PDA. The employer’s burden remains the heavier one: to prove that the employee’s dismissal was not because of the disclosure at all, but that it was based on misconduct or incapacity instead. Running away from this challenge is not, unfortunately, much of an option.
+
+Carl Mischke
+
+December 2012
+
+
+End of Document

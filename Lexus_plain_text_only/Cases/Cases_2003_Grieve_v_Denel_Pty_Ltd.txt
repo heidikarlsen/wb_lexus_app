@@ -1,0 +1,276 @@
+
+
+
+
+Grieve v Denel (Pty) Ltd [2003] 4 BLLR 366 (LC)
+Labour Law Reports
+
+Division: Labour Court, Cape Town
+Case No: C7/2003
+Date: 30/01/2003
+Before: Pillemer, Acting Judge
+Statutes considered:
+
+Keywords
+
+
+Application in terms of section 158(1)(a) of the LRA
+Labour Court — Powers — Fact that Court lacks jurisdiction to entertain main dispute not precluding it from granting interim relief.
+Protected Disclosures Act 26 of 2000 — Application — Act protecting employees who make bona fide disclosures from disciplinary action.
+Unfair labour practice — Disciplinary action — Disciplinary inquiry constituting “disciplinary action” for purposes of unfair labour practice definition.
+“Whistleblower” — Scope of protection — Employee suspended and threatened with disciplinary action for disclosing information relating to possible criminal conduct by superior — Threat of disciplinary action sufficient to constitute “occupational detriment” under Protected Disclosures Act 26 of 2000.
+Words and phrases — “Occupational detriment” (Protected Disclosures Act 26 of 2000) — Threat of disciplinary action sufficient to constitute.
+Protected Disclosures Act
+Section 4 
+Section 6
+LRA
+Section 191(13)
+
+Editor’s Summary
+
+
+While the applicant was preparing a report for the respondent’s board concerning certain allegations of wrongdoing by the general manager of one of its divisions, he was charged with misconduct, suspended from duty, and summoned to attend a disciplinary inquiry. The applicant claimed that by so doing the respondent had infringed the requirements of the Protected Disclosures Act 26 of 2000. He launched an urgent application for an order restraining the respondent from instituting disciplinary action against him.
+
+The Court held that, although the PDA requires a dispute to be referred for conciliation before the Labour Court is approached, this does not mean that the Court cannot entertain urgent matters before a reference to the CCMA, or from ordering the maintenance of the status quo pending final determination of the dispute.
+
+The Court held further that the disclosures which the applicant intended to make appeared to be bona fide and that, if true, those disclosures revealed possible criminal conduct. Prima facie, the disclosures accordingly fell within the terms of the PDA. 
+
+ 
+[2003] 4 BLLR 366 (LC) at 367
+
+Although the applicant was not expressly charged with making disclosures, the charges against him related inter alia to the manner in which he had obtained information on which the disclosures were based. Furthermore, it was questionable why the respondent chose to press other unrelated charges at the same time.
+
+The Court held further that an “occupational detriment”, against which employees are protected under the PDA, is wide enough to include being subjected to a disciplinary inquiry.
+
+The respondent was ordered not to proceed with disciplinary action against the applicant pending a determination of an unfair labour practice dispute.
+
+Statutes considered:
+
+____________________________________________________________________________________
+
+
+
+
+The respondent is a private company. The state is its sole shareholder and it is managed by a board of directors appointed by the Minister for Public Enterprises. The respondent’s core business relates to armaments. It operates its business through various divisions which are located throughout the country. This application concerns the division which is styled “Swartklip Products” (“Swartklip”). The applicant is employed at Swartklip as its safety and security manager.
+It is the applicant’s case that the general manager at Swartklip, one Anthony Bedford, by his management style, has alienated himself from some of the employees who in turn have organised themselves into what are termed “concerned groups”. The applicant has assumed the role of spokesman for one such group. There is no clarity on the size and makeup of the membership of the group; it being alleged that members are fearful of being victimised if identified. Bedford concedes that there appears to be dissatisfaction and concern about his management of Swartklip by what he describes as “the applicant and some nameless individuals”.
+The applicant and members of his group appear to have over some time amassed information and “evidence” with the intention of drawing their contentions of wrong-doing and poor management by Bedford and those closely associated with him to the board of the respondent with the ultimate aim of having him removed from Swartklip.
+The applicant disclosed information in respect of four matters relating to alleged unauthorised expenditure, nepotism and financial wrong-doing by Bedford and those associated with him to his immediate superior a Mr Schultz, informally on 23 October 2002. Following that disclosure a meeting was held between the applicant and Mr Schultz and thereafter a further meeting was convened on 24 October 2002 which was also attended by a Mr Van der Merwe who is a member of the “financial executive” of Swartklip.
+On 29 October Mr Schultz called the applicant and told him that investigating the disclosures would place him in an uncomfortable position and the applicant was advised, if he wished to pursue his disclosures, to take the matter directly to the board. 
+[2003] 4 BLLR 366 (LC) at 368
+The applicant was in the process of finalising the report to the board when he was required, as part of his job function, to be involved in an investigation into an explosion which had occurred at Swartklip. In that context he had to meet with Schultz and Bedford. Schultz had mentioned to Bedford that the applicant had referred certain matters to him and he had in turn told the applicant that these were matters that should be taken up with the board and not with him. Bedford was accordingly aware that the applicant was in the process of preparing a report for the board and used the opportunity when meetings were held with regard to the investigation into the explosion to discuss the applicant’s complaint against him. At meetings on 14 and 15 November 2002 the applicant was asked to disclose to Bedford what information he relied upon and Bedford also wanted the applicant to identify the persons he represented. The applicant provided some information in respect of the four matters he had raised with Schultz but did not agree to identify the others involved as they feared intimidation and he did not believe he was authorised to disclose their identities. The report was prepared and submitted a few days later. It was sent to the board on 19 November 2002 and was put up as an annexure in these proceedings.
+On 20 November 2002 the applicant was suspended from his employment on full pay and in early December he was charged with misconduct. The disciplinary hearing, which was scheduled for December and then postponed, was set down to proceed on Monday 13 January 2003. The applicant was in the process of preparing for this hearing together with his attorney when their joint research identified the provisions of the Protected Disclosures Act and, if the Act applied, the protection provided therein which included the right not to be subjected to disciplinary action. The applicant was advised that he enjoyed protection under the Act and launched proceedings as a matter of urgency for interim relief relying upon the Act. The matter came before me at 2.00 pm on 10 January 2003 and, after the parties agreed a timetable for the exchange of affidavits and that no disciplinary hearing would be held until the application had been finally resolved, the matter was set down by agreement on 16 January 2003 when it was fully argued.
+The Protected Disclosures Act 26 of 2000 provides wide-ranging relief designed, it seems, to encourage a culture of whistle-blowing and, in fact, its preamble describes its purpose as to “create a culture which will facilitate the disclosure of information by employees relating to criminal and other irregular conduct in the workplace in a responsible manner by providing comprehensive statutory guidelines for the disclosure of such information and protection against any reprisals as a result of such disclosures”. The protection provided to the whistle blower is set out in section 3 of the Act. That section which provides that no employee may be subjected to any occupational detriment by his or her employer on account or partly on account of having made a protective disclosure is to be understood by reference to the definition sections. 
+
+  “Disclosure” is defined in the Act as follows:
+
+“(i) ‘disclosure’ means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee 
+
+who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+that a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+that a miscarriage of justice has occurred, is occurring or is likely to occur;
+that the health or safety of an individual has been, is being or is likely to be endangered;
+that the environment has been, is being or is likely to be damaged;
+unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act No, 4 of 2000); or
+that any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed.”
+
+  “Protected disclosure” is defined to read as follows:
+
+“(ii) ‘protected disclosure’ means a disclosure made to –
+a legal adviser in accordance with section 5;
+an employer in accordance with section 6;
+a member of Cabinet or of the Executive Council of a province in accordance with section 7;
+a person or body in accordance with section 8; or
+any other person or body in accordance with section 9, 
+
+but does no include a disclosure –
+
+in respect of which the employee concerned commits an offence by making that disclosure; or
+made by a legal adviser to whom the information concerned was disclosed in the course of obtaining legal advice in accordance with section 5.”
+
+  Where the protected disclosure is made to an employer section 6 of the Act is relevant. That section reads as follows:
+
+“(1) Any disclosure made in good faith –
+and substantially in accordance with any procedure prescribed, or authorised by the employee’s employer for reporting or otherwise remedying the impropriety concerned; or
+to the employer of the employee, where there is no procedure as contemplated in paragraph (a),
+
+is a protected disclosure.
+
+(2) Any employee who, in accordance with a procedure authorised by his or her employer, makes a disclosure to a person other than his or her employer, is deemed, for the purposes of this Act, to be making the disclosure to his or her employer.”
+
+  “Impropriety” is defined to incorporate conduct which falls within the categories of disclosure in the definition and reads as follows:
+
+“‘impropriety’ means any conduct which falls within any of the categories referred to in paragraphs (a) to (g) of the definition of ‘disclosure’, irrespective of whether or not –
+
+
+(a) the impropriety occurs or occurred in the Republic of South Africa or elsewhere; or
+(b) the law applying to the impropriety is that of the Republic of South Africa or of another country.”
+
+  “Occupational detriment” is defined as follows:
+
+“‘occupational detriment’, in relation to the working environment of an employee, means –
+
+being subjected to any disciplinary action;
+being dismissed, suspended, demoted, harassed or intimidated;
+being transferred against his or her will;
+being refused transfer or promotion;
+being subjected to a term or condition of employment or retirement which is altered or kept altered to his or her disadvantage;
+being refused a reference, or being provided with an adverse reference, from his or her employer;
+being denied appointment to any employment, profession or office;
+being threatened with any of the actions referred to paragraphs (a) to (g) [sic] above; or
+being otherwise adversely affected in respect of his or her employment, profession or office, including employment opportunities and work security.”
+
+  In addition to the aforegoing, the Act has a section dealing with general protected disclosures. It is section 9 and it reads as follows:
+
+“(1) Any disclosure made in good faith by an employee –
+who reasonably believes that the information disclosed, and any allegation contained in it, are substantially true; and
+who does not make the disclosure for purposes or personal gain, excluding any reward payable in terms of any law;
+
+is a protected disclosure if –
+
+one or more of the conditions referred to in subsection (2) apply; and
+in all the circumstances of the case, it is reasonable to make the disclosure.
+(2) The conditions referred to in subsection (1)(i) are –
+that at the time the employee who makes the disclosure has reason to believe that he or she will be subjected to an occupational detriment if he or she makes a disclosure to his or her employer in accordance with section 6;
+that, in a case where no person or body is prescribed for the purposes of section 8 in relation to the relevant impropriety, the employee making the disclosure has reason to believe that it is likely that evidence relating to the impropriety will be concealed or destroyed if he or she makes the disclosure to his or her employer;
+that the employee making the disclosure has previously made a disclosure of substantially the same information to –
+his or her employer; or
+a person or body referred to in section 8, 
+
+  in respect of which no action was taken within a reasonable period after the disclosure; or
+
+that the impropriety is of an exceptionally serious nature.
+[2003] 4 BLLR 366 (LC) at 371
+(3) In determining for the purposes of subsection (1)(ii) whether it is reasonable for the employee to make the disclosure, consideration must be given to –
+the identity of the person to whom the disclosure is made;
+the seriousness of the impropriety;
+whether the impropriety is continuing or is likely to occur in the future;
+whether the disclosure is made in breach of a duty of confidentiality of the employer towards any other person;
+in a case falling within subsection (2)(c), any action which the employer or the person or body to whom the disclosure was made, has taken, or might reasonably be expected to have taken, as a result of the previous disclosure;
+in a case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the employee complied with any procedure which was authorised by the employer; and
+the public interest.
+(4) For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information referred to in subsection (2)(c) where such subsequent disclosure extends to information concerning an action taken or not taken by any person as a result of the previous disclosure.”
+
+  Remedies are provided in section 4(1) and (2) which reads as follows:
+
+“(1) Any employee who has been subjected, is subject or may be subjected, to an occupational detriment in breach of section 3, may –
+approach any court having jurisdiction, including the Labour Court established by section 151 of the Labour Relations Act, 1995 (Act No 66 of 1995), for appropriate relief; or
+pursue any other process allowed or prescribed by any law.
+(2) For the purposes of the Labour Relations Act, 1995, including the con sideration of any matter emanating from this Act by the Labour Court –
+any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal as contemplated in section 187 of that Act, and the dispute about such a dismissal must follow the procedure set out in Chapter VIII of that Act; and
+any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in Part B of Schedule 7 to that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part: Provided that if the matter fails to be resolved through conciliation, it may be referred to the Labour Court for adjudication.”
+
+  The Labour Relations Act has been amended since the promulgation of the Protected Disclosures Act 26 of 2000 to incorporate the right not to be subjected to an unfair labour practice in the body of the Act rather than in a schedule to it and section 191(13) is relevant in this context. It provides as follows:
+
+“(a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+A referral in terms of paragraph (a) is deemed to be made in terms of subsection (5)(b).” 
+[2003] 4 BLLR 366 (LC) at 372
+The powers conferred upon this Court are expressed in wide terms so that any employee who has been subjected, is subject or may be subjected to an occupational detriment in breach of section 3 may approach the Labour Court for appropriate relief. Since conciliation is a pre-requisite before this court can grant final relief, in matters of urgency where the occupational detriment will occur unless the employer is interdicted and restrained, “appropriate relief” must therefore include the power to grant an interim interdict pending the resolution of the underlying dispute. The court only has jurisdiction to determine the underlying dispute once the conciliation process has run its course. This is nonetheless the type of case where the court clearly has the power to order the status quo to be preserved or restored pending determination of the main dispute. 
+At common law a court’s jurisdiction to entertain an application for an interim interdict depends on whether it has jurisdiction to preserve or restore the status quo. It does not depend on whether it has jurisdiction to decide the main dispute (Airoadexpress Proprietary Limited v Chairman, Local Road Transportation Board, Durban & others 1986 (2) SA 663 (A); National Gambling Board v Premier KwaZulu-Natal & others 2002 (2) SA 715 (CC) at 731B). 
+
+  In such a situation the court simply determines whether the applicant has a prima facie right to the relief that is to be sought in the court having jurisdiction to deal with it. This court has accepted that it has jurisdiction to grant interim interdicts in circumstances similar to those which arise in the present case (Venter v Automobile Association of SA (2000) 21 ILJ 675 (LC) at 677E–678B).
+
+The test applied by a court when an interim interdict is sought is well known. The applicant has to establish:
+a clear right or a right prima facie established though open to some doubt;
+a well grounded apprehension of irreparable harm if the interim relief is not granted and the ultimate relief is granted;
+a balance of convenience in favour of the granting of interim relief; and
+the absence of any other satisfactory remedy.
+
+  Where the applicant cannot show a clear right, and more particularly where there are disputes of fact relevant to a determination of the issue as to whether the applicant’s right is prima facie established though open to some doubt, the court approaches the matter by taking the facts set out by the applicant together with any facts set out by the respondent which the applicant cannot dispute and considers whether having regard to the inherent probabilities, the applicant should on those facts obtain final relief at the trial of the main action. The facts set out in contradiction by the respondent should then be considered and if serious doubt is thrown upon the case of the applicant he must fail, but if not then he has established the requisite prima facie case open to some doubt (Webster v Mitchell 1948 (1) SA 1186 (W) at 1189–1190 read with Gool v Minister of Justice & another 1955 (2) SA 682 (C) at 687–688; Spur Steak Ranches Limited v Saddle Steak Ranch 1996 (3) SA 706 (C) at 714C–H).
+
+ 
+[2003] 4 BLLR 366 (LC) at 373
+The applicant’s founding affidavit establishes that disclosures were made to the respondent on four main issues. The extent and the detail provided at the meetings on 14 and 15 November 2002 are disputed although in general terms it appears that the information which was ultimately incorporated into the report was disclosed. In the report the information that was disclosed and upon which reliance is placed is the following:
+“• That the General managers secretary, acting as a shipping agent, visited the USA with the purpose of recovering Swartklip stock. This was authorised the Denel Group Marketing Director on 13/08/02.
+
+The trip was however extended beyond this approval and a further airline ticket was acquired. The trip included unapproved (by Denel) stops at Miami to visit a friend, and to Orlando for a Disneyland tour. This accounted for 6 of the 10 days in the USA and was paid for by Swartklip. A further R11,000 expenses were claimed on return.
+
+Udomo Travel tax invoice 8353 and 8411 processed through Qmuzik ref numbers ADUPQ and UDUFX should be audited in this regard.
+
+• Awarding of civil and professional contracts to acquaintances. In the case of civil contracts, this has been facilitated by the transferring of approval for this function to HR from Engineering. The HR Executive and the General Manager share a long history outside Swartklip and their relationship is possibly more supportive of unethical practices. In this regard, contract have been approved despite these not being the least expensive, work being of an unsatisfactory standard, and contractor documentation not being in order, to family members of the General managers secretary. These included her now estranged husband and her brother-in-law. Work has previously been done on the General Managers private investments (houses) by the same contractor.
+
+Employees are “requested” by the General Manager to accommodate contractors, where these contractors have an association with the General Manager. Mrs Mercia Isaaks, a member of the Gambling Board with which the General manager is associated, has been accommodated in the provision of pathological services, and a trainee doctor, the son of a Gambling Board member, has been recommended for work in the Swartklip Clinic. This did not materialise due to strong opposition by the line manager responsible for the Clinic.
+
+• Governmental officials responsible for the awarding of contracts, namely Messrs A Nkulhu and Z Ramu, were entertained at Swartklip expense on a number of occasions. These included weekends in local hotels, vehicles, air-fares to the Eastern Cape, and attendance of ANC conferences. Amongst other unsourced documentation, Qmuzik requisitions AAQSS, ABGVX, ABLXI, and ABLXJ refer.
+• Conducting of personal business while utilising Swartklip resources. The General Manager promotes a relatives dental supplies enterprise while overseas, has used the now HR Executive to audit video outlet financial accounts, and routinely entertain guests who possibly have little relevance to Swartklip Products.”
+To qualify for protection disclosures have to be made bona fide. Although the disclosures are made in the process of what appears to be a campaign by employees to resolve difficulties they have with the management style of the general manager and designed to try and achieve his removal or transfer from the division at which they are employed, this in itself does not seem to me to be sufficient reason to find that the disclosures have not  
+[2003] 4 BLLR 366 (LC) at 374
+  been made bona fide. Prima facie they appear to be based on information which is documented and supported and although there may be adequate explanations and the reasons for providing the information may go beyond merely wishing to draw these matters to the attention of the management of respondent, nonetheless in my assessment at a prima facie level the applicant has established that the disclosures were made bona fide.
+
+  The disclosures reveal a breach of legal obligations, possible criminal conduct and in my view amount to a protected disclosure as defined or under the general protected disclosures set out in section 9 of the Act.
+
+The applicant was suspended from his employment on the day following the day on which he lodged the report and was subsequently charged with misconduct in terms of a letter addressed to him instructing him to attend a disciplinary enquiry. The contents of the letter are set out below:
+
+“NOTICE TO ATTEND A DISCIPLINARY ENQUIRY
+
+This letter serves to advise you that a disciplinary enquiry has been convened to be held on Wednesday 11 December (to continue on 12 December if necessary) 2002 at 10H00 (am) at Swartklip in the Donald Conference Room. The purpose of the enquiry is to consider the truth or otherwise of the following allegations of misconduct against you.
+
+1. Abuse of company facilities and working time/Breach of the Company’s Information Systems and Security Policy in that it is alleged that, over an extended period since at least February 2002 and during working hours:
+you repeatedly and extensively visited pornographic sites on Internet through the Company’s computer systems and facilities;
+you used the company email to receive and/or send pornographic, sexist or other unsavoury messages and/or images.
+2. Racism in that, in your discussion with the General Manager and Executive: Operations on 14 November 2002, you stated words to the effect that you had consulted lawyers and psychologists to determine/analyse the general manager’s way of thinking/reasoning as a Coloured person as opposed to ‘the norm’ and you implied that his alleged bad management style and practises were connected thereto.
+3. Initiating and/or actively participating in a material breach of confidentiality and dishonest conduct by, on your own admission, listening in on EXCOM meetings through a cell phone of a member of EXCOM. Furthermore, this could also constitute a breach of the National Key Points Act, the compliance with which you are tasked.
+4. On you [sic] own admission, conspiring with others, including members of Denel Head office, to achieve or orchestrate the dismissal of the General Manager.
+5. On you [sic] own admission, without authority to do so, you accessed other employees’ emails and information from the company’s computer systems and electronic communications medium. It is alleged that these actions were outside of your prescribed employment functions and constitutes a breach of confidentiality and possibly the right to privacy of certain employees.
+6. On your own admission, without authority to do so, you shared company-related information with persons outside the Company, being:
+Mr Matakata, who is currently involved in legal action against the Company; and/or 
+[2003] 4 BLLR 366 (LC) at 375
+ 6.2 Mr Fezile Calana, who you have advised us, is also intending on taking legal action against the Company; and/or 
+Mr B Sehlapelo.
+
+It is alleged that this no only constitutes a serious breach in confidentiality but also a breach in security.
+
+7. Dishonestly alternatively recklessly inciting employees against the Company and its senior management in that you sought to induce employees (including J Loubser and E Cronje) to support you [sic] concerned group’s request for an external investigation of irregularities amongst senior management by falsely representing to the employees that the focus of the investigation was the accident at the workplace, when it was not.
+
+In respect of the allegations in charges 2 to 6 above, the Company has relied on the representations you made to senior management on 14 and 15 November 2002. Should these representations in due course prove to have been false the Company reserves the right to deal therewith in a further charge of dishonesty and/or misrepresentation.
+
+The Company regards the above allegations, if they are proven, in a very serious light and with grave concern. The alleged conduct constitutes serious misconduct, which no [sic] only impacts on the integrity of the company, but also may threaten national security. It will also be alleged that, if the allegations are proven, your conduct has broken the trust essential to the continuation of the employment relationship and you should be aware that an adverse finding against you in respect of one or more of the allegations might result in your dismissal.
+
+For the purposes of this enquiry and in the interests of expediting the matter, the Company will confine itself to the above allegations. All the Company’s rights to proceed against you in respect of any other alleged misconduct or actions which might come to light and/or in respect of which the Company might secure evidence are fully reserved.
+
+You are advised that the enquiry will be chaired by an external chairperson, Mr T Leholo. You will be given a full opportunity to defend yourself against the allegations as set out above. In that regard, you will be afforded the opportunity of cross-examining any witnesses who gives evidence against you and of examining any documentary evidence which might be used against you. You will be entitled to call witnesses in your favour both in relation to the allegations and, in the event of your being found guilty, in mitigation of the penalty.
+
+If you wish to make use of an interpreter, you are required to notify the Company immediately, so that one may be provided. You are also requested to inform the Company of the identities of any witnesses you intend calling, so that arrangements may be made for their availability at the hearing.
+
+You are entitled to be represented at the enquiry by a shop steward if you are a union member, alternatively a fellow employee of your choice.
+
+Should you fail to attend the enquiry without reasonable excuse, the enquiry will proceed in your absence and a finding may be made in your absence.
+
+Should this notice not afford you sufficient time to prepare yourself, then you are required to immediately contact me in order that, if your request is reasonable, a suitable alternatively [sic] date may be arranged.
+
+Yours faithfully
+
+J Jansen
+
+Executive
+
+Swartklip Products”
+
+There is a sharp dispute of fact on the papers as to what the applicant actually said at the meeting on 14 and the further meeting on 15 November 2002. Mr Bedford has testified to the applicant having disclosed that he used unlawful means to obtain the information. The applicant denies this vehemently and explains what it is that he did say and which has been misconstrued by Mr Bedford in his affidavit. It is not possible in my view to resolve this dispute on the papers. The respondent relied heavily upon the fact that the investigations which commenced after the applicant was suspended revealed misconduct in relation to his use of the Internet. The record was burdened with thousands of Internet references to reflect access to sites bearing names which reflect probable erotic content on those sites. A printout of e-mails received by the applicant after his suspension – his mailbox was apparently investigated without his consent – indicated that he received a great deal of spam mail with an erotic content. The applicant did not deny that he had access to erotic sites but pointed out that this had been widespread in the organisation to the extent that a notice was sent warning the people not to do so. He suggests that the evidence that has been produced of the two-year history of his Internet access to reflect the fact that he had visited these sites was in the context an indication that he was being victimised and singled out for punishment because he had made the disclosures rather than because the so-called misconduct had been discovered. He points out that the effort that went in to analysing his Internet usage was odd since it was plain that the problem was widespread and if a similar investigation had been done with regard to other members of management similar results, he suggests, would have been forthcoming. It seems to me that the charge relating to Internet usage is a two-edged sword. At the one level it may well be that it has nothing whatever to do with the fact that he made disclosures, but on the other it does raise questions of why it was brought at this time and in these circumstances.
+At a prima facie level I am satisfied that the applicant has established a link between the charges which have been brought against him and the fact that he made disclosures. The timing supports his complaint on the probabilities as does the introduction of the charge relating to his Internet usage and, it is clear from the letter itself that the charge sheet is based  
+[2003] 4 BLLR 366 (LC) at 377
+  largely on information which the applicant himself provided at the time when he was asked by Bedford to disclose what it is that he intended reporting to the board. The applicant has in my opinion established a prima facie case. The respondent’s reply does not cast sufficient doubt upon the case established by the applicant to justify the refusal of relief on that ground. I am therefore satisfied that the applicant has established a prima facie case open to some doubt.
+It was argued on behalf of the respondent that the applicant will not suffer occupational detriment by simply being subjected to the disciplinary enquiry. It was contended that the term disciplinary action in the definition did not include an enquiry but rather a sanction of a lesser kind than that set out in subparagraph (b) of the definition. The term is not defined and in my view is wide enough to include a disciplinary enquiry. There is considerable prejudice in being faced with such an enquiry. The applicant has also been informed that if he is found guilty he may be dismissed and accordingly has been threatened with dismissal in the notice and in the process of the disciplinary enquiry. In my view the disciplinary enquiry the applicant faces is disciplinary action as contemplated by the Act and so the only remedy available to the applicant to protect his right conferred by section 3 of the Act would be the interim interdict which he presently seeks. Apart from delay and the fact that the respondent has suspended the applicant on full pay and will thereby be prejudiced by such delay the respondent could not advance any other argument as to why the balance of convenience did not favour the granting of an interim interdict.
+The applicant clearly had no other remedy and in my view the balance of convenience favours the granting of an interim interdict.
+In order to ameliorate the prejudice to the respondent I have incorporated a provision in the order I make which renders the interim order conditional upon the applicant launching proceedings under the Protected Disclosures Act (read with the Labour Relations Act) for conciliation of the dispute within a fixed period and, should the dispute not be resolved and the matter referred to this court, for the parties to be granted leave to seek a directive from the Judge President on the basis of my finding that the matter is to be treated as one of urgency and be afforded priority in having it set down for hearing. I have discussed the matter with the Judge President and he has had sight of the order I propose making.
+
+  An order is accordingly granted in the following terms:
+
+The respondent is interdicted from proceeding with any disciplinary action or enquiry against the applicant regarding any of the allegations contained in the notice to attend a disciplinary enquiry addressed to the applicant and dated 6 December 2002 pending the determination of an unfair labour practice dispute between the parties as to:
+the respondent’s decision to suspend and relieve the applicant from his duties as employee of the respondent with effect from 20 November 2002; and/or
+the proposed disciplinary proceedings against the applicant regarding the allegations contained in the said notice. 
+[2003] 4 BLLR 366 (LC) at 378
+This interdict shall lapse if the applicant has not launched proceedings contemplated in paragraph 1 within ten days of the grant of this order.
+The Bargaining Council for the Chemical Industry, if it has jurisdiction in the matter, or the CCMA, if it does not, is directed to give the matter priority and set it down for conciliation as soon as it is able to do so.
+The parties are given leave, should the dispute not be resolved at conciliation, to approach the Judge President for directions for the expeditious hearing of the trial in respect of the above dispute once pleadings have closed and a pre-trial conference has been held.
+The costs of this application are reserved for decision by the court hearing the trial and should the dispute be resolved by agreement then there shall be no order as to costs.
+
+Cases referred to
+For applicant:
+Mr IC Bremridge, instructed by Malcolm Lyons and Brivik Inc
+For respondent:
+Mr Stelzner, instructed by Sonnenberg Hoffman and Galombik
+
+
+End of Document

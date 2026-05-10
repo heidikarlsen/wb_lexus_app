@@ -1,0 +1,120 @@
+
+
+
+
+Telling tales: the Labour Court applies the Protected Disclosures Act
+IR - Editorial
+
+Telling tales: the Labour Court applies the Protected Disclosures Act
+
+19 March 2003
+
+In the case of Grieve v Denel (Pty) Ltd (2003) 12 LC 6.4.1, the Labour Court, for the first time, dealt with the application of the Protected Disclosures Act 26 of 2002. The decision of the Cape Town Labour Court is also interesting for a number of other reasons, including responding to allegations of corruption, nepotism and financial wrong-doing by senior managers, and the fact that the applicant employee, Grieve, was charged with abuse of internet access in that he had accessed pornographic sites. This case is of considerable importance, because it sets precedent in a number of respects in the context of the interpretation and application of the Protected Disclosures Act
+
+What the manager did
+
+The employee argued that the general manager at the Swartklip division of Denel alienated himself from a number of the employees through his management style. The employees had organised themselves into “concerned groups” and Mr Grieve was the spokesperson for one of these groups. The other concerned employees hid behind anonymity, fearing victimisation if they were identified. 
+
+The employee in question disclosed four matters relating to allegations of unauthorised expenditure, nepotism and financial impropriety by the general manager (Bedford) to his immediate manager (Schultz). Schultz advised the employee to refer the matter directly to the board of Denel. Whilst he was completing a report for the Denel board, the employee was required, as part of his job, to be involved in an investigation into an explosion, and during the course of this investigation he had to meet with both Bedford and Schultz. Schultz had informed the general manager, Bedford, about the allegations against him, and that the employee was preparing a report for the board. Bedford asked the employee to disclose who he represented, and the employee refused. 
+
+One day after submitting the report to the board, the employee was suspended from employment on full pay and was charged with misconduct. Whilst preparing for the disciplinary hearing, the employee and his legal representative realised that the employee could rely on the protection offered by the Protected Disclosures Act. The present matter before the Labour Court was brought as a matter of urgency. 
+
+The Protected Disclosures Act
+
+The Labour Court held that the Protected Disclosures Act (“the Act”) provides a wide range of relief designed to encourage a culture of whistle-blowing. The crux of the Act, for present purposes, is section 3: 
+
+ “No employee may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure.”
+
+This pivotal provision contains a number of key terms:
+
+ •  What is a “protected disclosure” for the purposes of section 3?
+
+ •  What is an “occupational detriment” for the purposes of section 3?
+
+A “protected disclosure” is defined as follows in section 1:
+
+ “a disclosure made to-
+
+ (a) a legal adviser in accordance with section 5;
+
+ (b) an employer in accordance with section 6;
+
+ (c) a member of Cabinet or of the Executive Council of a province in accordance with section 7;
+
+ (d) a person or body in accordance with section 8; or
+
+ (e) any other person or body in accordance with section 9, but does not include a disclosure-
+
+ (i) in respect of which the employee concerned commits an offence by making that disclosure; or
+
+ (ii) made by a legal adviser to whom the information concerned was disclosed in the course of obtaining legal advice in accordance with section 5”
+
+In the context of employment, section 6 of the Act provides that a protected disclosure is a disclosure made in good faith and substantially in accordance with any procedure prescribed or authorised by the employer for reporting or remedying the impropriety concerned. If there is no procedure, a protected disclosure is one made to the employer of the employee. 
+
+An occupational detriment is also defined in section 1 of the Act to mean –
+
+(a) being subjected to any disciplinary action;
+
+(b) being dismissed, suspended, demoted, harassed or intimidated;
+
+(c) being transferred against his or her will;
+
+(d) being refused transfer or promotion;
+
+(e) being subjected to a term or condition of employment or retirement which is altered or kept altered to his or her disadvantage;
+
+(f) being refused a reference, or being provided with an adverse reference, from his or her employer;
+
+(g) being denied appointment to any employment, profession or office; 
+
+(h) being threatened with any of the actions referred to paragraphs (a) to (g) above; or
+
+(i) being otherwise adversely affected in respect of his or her employment, profession or office, including employment opportunities and work security;
+
+If an employer contravenes section 3 of the Act, a remedy is provided in section 191(13) of the Labour Relations Act 66 of 1995. Section 191(13) was introduced as part of the 2002 amendments to the Labour Relations Act and it provides that an employee may approach the Labour Court if the employee alleges that he or she has been subject to an occupational detriment in contravention of section 3 of the Protected Disclosures Act. In the present case, the Labour Court held, however, that it has the power to order interim interdicts in this context, even though the dispute had not yet been subjected to conciliation:
+
+ “The powers conferred upon this court are expressed in wide terms so that any employee who has been subjected, is subject or may be subjected to an occupational detriment in breach of section 3 may approach the Labour Court for appropriate relief. Since conciliation is a pre-requisite before this court can grant final relief, in matters of urgency where the occupational detriment will occur unless the employer is interdicted and restrained, ’appropriate relief’ must therefore include the power to grant an interim interdict pending the resolution of the underlying dispute. The court only has jurisdiction to determine the underlying dispute once the conciliation process has run its course. This is nonetheless the type of case where the court clearly has the power to order the status quo to be preserved or restored pending determination of the main dispute.” (paragraph [9])
+
+Section 9 of the Protected Disclosures Act is also relevant for the purposes of an employee’s making disclosures. It provides that any disclosure made in good faith by an employee who reasonably believes that the information disclosed and the allegations made are substantially true is a protected disclosure. Note, however, that the disclosure may not, for the purposes of section 9, be made for the purposes of personal gain (excluding any reward payable in terms of any law). Section 9(2) imposes further conditions. 
+
+What did the disclosures relate to?
+
+The disclosures made by the employee in respect of the general manager (Bedford) related to the following:
+
+ •  Unauthorised extension of an overseas visit
+
+ •  Awarding of civil and processional contracts to acquaintances
+
+ •  Entertaining government officials responsible for the awarding of contracts
+
+ •  Using the employer’s resources for the purpose of conducting personal business.
+
+After considering the allegations made by the employee against the general manager, the Labour Court notes that in order to qualify for protection, disclosures must be made in good faith. The fact that the disclosures were made in the process of what appeared to be a campaign against the general manager and his management style, seeking to remove the general manager or to secure his transfer did not, in the court’s view, present sufficient reason to find that the disclosures were not in good faith. The court also found that the disclosed information indicated breach of legal obligations and possible criminal conduct, and that the disclosures fell within the scope of section 9 of the Protected Disclosures Act. 
+
+The day after lodging the report relating to the information and the allegations against the general manager, the employee was suspended and subsequently charged with misconduct. The misconduct charges included a chare that the employee abused company facilities and working time by visiting pornographic sites on the internet, and that he used the employer’s e-mail system to receive and/or send pornographic, sexist or other unsavoury messages. Other charges included racism, material breaches of confidentiality and dishonest conduct, conspiring with others, accessing other employees’ e-mails, sharing of employer-related information and dishonestly or recklessly inciting employees against the employer and its senior management. In other words, the employer threw the book at the employee who had made the disclosure. 
+
+The Labour Court’s findings
+
+After finding that it had jurisdiction to grant an urgent interdict restraining the employer (see above), the Labour Court found as follows:
+
+ •  The applicant employee had established a link between the disciplinary charged brought against him and the fact that he made disclosures of information. 
+
+ •  The disciplinary enquiry would constitute an occupational detriment for the purposes of the Protected Disclosures Act.
+
+ •  The employee had no other remedy and the balance of convenience favoured the granting of an interim interdict. 
+
+The Labour Court interdicted the employer from proceeding with any disciplinary action or enquiry against the employee. This interdict was made pending the determination of an unfair labour practice dispute between the parties, and would lapse if the employee had not launched proceedings within 10 days of the grant of the interdict. 
+
+Getting the whistles blowing
+
+There can be no doubting the importance of this judgment – it is the first decision of the Labour Court to deal with the interpretation and application of the Protected Disclosures Act, and, as such it sets important precedent. Employees may approach the Labour Court for interim relief if they face an occupational detriment in contravention of section 3. 
+
+Seen generally, making disclosures, or blowing the whistle on corruption, nepotism and financial mismanagement are important issues: not only for the employer, but also for the employee. An employee will only make these kinds of disclosures if he or she feels protected against victimisation by senior management or the employer. The protection of the employee is therefore a core issue. But it is also true that no-one likes a tattle-tale: employees who make disclosures of mismanagement, nepotism or corruption are often treated in ways that, though they do not amount to victimisation, still indicate disapproval on the part of the employer or its management. The Protected Disclosures Act seeks to “create a culture which will facilitate the disclosure of information by employees relating to criminal and other irregular conduct in the workplace”. In other words, the object of the Act is to establish a culture of whistle-blowing, of disclosing, of telling on others. 
+
+What are the implications of this? Does it mean, for example, that senior managers will live in perpetual fear that their every action could be misconstrued and whistles be blown even if there is no wrong-doing? What kind of responsibilities does this culture of whistle-blowing put on individual employees? In essence: when should they disclose and when should they stay silent? Should it be possible for employees to conduct a concerted campaign against a senior manager and then seek to take refuge behind the provisions of the Protected Disclosures Act? These are difficult questions, but they are inherent in the development of a culture of whistle-blowing. For both employers and employees, the implications of encouraging a culture of telling on others is a mixed bag – entailing a number of issues, including transparency, managerial integrity and individual responsibility.
+
+Carl Mischke
+
+
+
+End of Document

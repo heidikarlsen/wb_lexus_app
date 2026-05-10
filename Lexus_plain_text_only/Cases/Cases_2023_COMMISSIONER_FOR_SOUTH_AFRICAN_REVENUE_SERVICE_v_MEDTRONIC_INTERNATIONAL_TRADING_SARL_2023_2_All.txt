@@ -1,0 +1,877 @@
+
+
+
+
+COMMISSIONER FOR SOUTH AFRICAN REVENUE SERVICE v MEDTRONIC INTERNATIONAL TRADING SARL ([2023] 2 All SA 297 86 SATC 158
+South African Tax Cases Reports
+
+Division: Supreme Court Of Appeal
+Date: 3 March 2023
+Judges: Before Petse DP, Makgoka JA, Goosen AJA, Weiner AJA and Windell AJA
+Keywords
+
+
+Value-Added Tax — Tax Administration — Voluntary Disclosure Programme (VDP) — Sections 225 — 233 of the Tax Administration Act 28 of 2011 — Judicial review of decisions taken by the Commissioner for SARS in terms of the Promotion of Administrative Justice Act 3 of 2000 (PAJA) — Whether certain provisions of the Tax Administration Act 28 of 2011 precluded the Appellant, being the Commissioner for SARS, from considering a remission of interest levied on late payment of VAT as provided for in s 39(7)(a) of the Value-Added Tax Act 89 of 1991 subsequent to the conclusion and implementation of a voluntary disclosure agreement in terms of s 229 of Act 28 of 2011 — Commissioner having taken decision whereby he had refused to consider the Respondent’s request for remission of interest in terms of s 39(7)(a) of Act 89 of 1991 — Respondent’s employee having submitted false VAT returns to the Commissioner leading to the embezzlement of funds and this resulted in the Respondent approaching the VDP Unit and concluding two VDP agreements between itself and the Commissioner — Respondent having relied on s 39(7)(a) for remission of the interest paid on the ground of the circumstances in casu being beyond its control as provided for in s 39(7)(a) of the Act — Common cause that the impugned decisions constituted administrative action that was reviewable under PAJA — Held that Commissioner’s refusal to even consider and determine Respondent’s request for a remission of interest undermined one of the fundamental rights entrenched in the Bill of Rights which was the bedrock of our democratic order — Held that the Commissioner bore a statutory duty buttressed by the Constitution to, at the very least, give consideration to the request and decide it on its own merits but as he had refused to do so a review under s 6(2)(g) read with ss 6(3) and 8(2) of PAJA was warranted — Held that, at the very least, the Commissioner was required to entertain the application for remission and to consider and adjudicate it on its merits.
+
+Respondent was an international trading company with a distribution entity in South Africa which received its products for sale and distribution in South Africa exclusively from the Respondent which was registered with SARS as a vendor in terms of the Value-Added Tax Act 89 of 1991.
+
+For many years it appeared that Respondent had been a model of a compliant taxpayer in South Africa until its accountant had exploited weaknesses in both SARS and Respondent’s accounting systems to perpetrate fraud and had, during the course of June 2004 and May 2017 embezzled an amount of R537 236 176 from the Respondent and she had achieved this by submitting false VAT 201 returns to the Appellant, being the Commissioner for SARS, and she had sought reimbursements from the Appellant in order to conceal her embezzlement and eventually she was arrested on 13 December 2017 following investigations and forensic audits that had been conducted.
+
+On the same day that their accountant was arrested, Respondent applied to the SARS voluntary disclosure unit (the VDP Unit) for relief in terms of the Voluntary Disclosure Programme (VDP) provided for in ss 225–233 of the Tax Administration Act 28 of 2011 (TAA). Pursuant to the VDP, Respondent fully disclosed its default to SARS and  
+86 SATC 158 at 159
+the reasons therefor and had contended that it was a victim as a result of its employee’s conduct and had suffered a substantial loss.
+
+Under the VDP a taxpayer in default may obtain relief from SARS, upon meeting the prescribed requirements and avoid prosecution and payment of penalties, where they make voluntary disclosure to SARS in order to purge their default.
+
+Respondent, during its VDP discussions with the Appellant, had requested that the Appellant waive the interest incurred as a result of its default of payment of VAT to SARS taking into account the circumstances in which the loss had occurred, but the VDP Unit, in its response, had stated that it was prepared to waive all understatement and late payment penalties but that it did not have authority to waive the interest arising from the underpayment of the VAT.
+
+Respondent elected to proceed under the VDP programme and on 18 June 2018 the parties concluded a written VDP agreement and according to this agreement the Respondent was liable for the payment of the capital VAT amount of R286 464 756.62 and interest in the amount of R171 205 356.12 but was granted 100% relief in respect of administrative non-compliance penalties and understatement penalties and all of these amounts were calculated with reference to the facts disclosed in the VDP application by the Respondent.
+
+In addition, the Applicant was permitted, in terms of clause 7 of the agreement, to issue an assessment in order to give effect to the agreement.
+
+Respondent had duly paid over the capital VAT amount and the interest due to the Appellant who had agreed with the Respondent that it would grant the Respondent relief in respect of the understatement and administrative non-compliance penalties in the amount of R172 000 000 and, in addition, the Appellant would not pursue any criminal action for any of the offences in respect of the default.
+
+However, on 12 October 2018, Respondent’s attorneys wrote to the Appellant and, without reference to the VDP Unit, requested the Appellant to remit the interest that it had levied on the capital tax representing the amount of default. This request was made in terms of the interest remission provisions located in s 39(7) of the Value-Added Tax Act 89 of 1991 read with SARS Interpretation Note 61.
+
+Appellant’s terse response was that remission of interest was not catered for in the VDP programme under the Tax Administration Act and, accordingly, it asserted that the provisions regarding remission of interest contained in s 39(7) of Act 89 of 1991 and s 187(6) of the Tax Administration Act itself to the extent that they might be found to apply, found no application to VDP agreements.
+
+From the perspective of the Appellant, the Respondent’s request was considered still-born and therefore invalid.
+
+Thereafter the Respondent wrote to the Appellant imploring the VDP Unit to withdraw the refusal to consider its earlier application for remission in terms of s 9(1) of the Tax Administration Act and this request too was refused by the Appellant.
+
+Respondent then approached the High Court (see Medtronic International Trading SARL v C:SARS 83 SATC 281) to review the Appellant’s decision and the court a quo held that a request for remission of interest was not precluded in VDP’s and that the Appellant had a statutory duty to consider and decide on such a request.
+
+Appellant’s impugned decisions were set aside by the court a quo which led to the Appellant being subsequently granted leave to appeal to the Supreme Court of Appeal against the High Court’s orders.
+
+In short, the court a quo held that, in the absence of an explicit provision in the Tax Administration Act proscribing remission of interest upon a discharge by performance of a VDP agreement, it followed axiomatically that the Commissioner for SARS was vested with powers to entertain requests for remission of interest and adjudicate them on their merits.
+
+ 
+86 SATC 158 at 160
+
+On appeal Appellant submitted that the High Court erred in finding that the TAA did not preclude it from considering the request for the remission of interest made in terms of s 39(7), in circumstances where the Respondent had entered into a VDP agreement. In advancing this argument, the Appellant contended that, in requesting the Commissioner to consider remitting the interest, the Respondent was in effect seeking to reduce its liability under the VDP agreement and renege on its undertaking to pay interest. This would constitute an amendment of the VDP agreement (which was precluded under the TAA). There was no reference to relief in the form of a remission of interest under the TAA and, accordingly, Appellant further submitted, the VDP Unit had no authority to grant such remission nor any duty to consider the request, which it believed was invalid.
+
+The crux of the Appellant’s case was that when the TAA came into effect, it ‘gave rise to a permanent VDP relief statutory framework in respect of which interest is now excluded.’ And that whilst s 39(7) of the VAT Act remained in force, it found no application in respect of interest on outstanding VAT dealt with in terms of Chapter 16, Part B, of the TAA.
+
+Respondent submitted that this appeal, in essence, raised two issues to be determined. Firstly, whether Chapter 16, Part B and in particular ss 225 to 233 thereof ‘prohibit the remission of interest under s 39(7) of the VAT Act once a VDP agreement has been concluded and fully implemented.’ Secondly, whether notwithstanding the conclusion and implementation of a prior VDP agreement, the Appellant bore a statutory duty to consider and adjudicate a taxpayer’s request for remission of interest that had accrued in respect of outstanding VAT under s 39(7) of the VAT Act.
+
+Section 39(7)(a) of the VAT Act provided inter alia that where the Commissioner is satisfied that the failure on the part of the person concerned or any other person under the control or acting on behalf of that person to make payment of the tax within the specified periods or on the specified date referred to for payment, as the case may be, was due to circumstances beyond the control of the said person, he or she may remit, in whole or in part, the interest payable in terms of the relevant section.
+
+Held
+
+Majority judgment
+
+ (i) That the issue with which the court was confronted in this matter involved an interpretive exercise. Accordingly, the court proposed dealing first with the law relating to statutory interpretation. There was a notable line of cases both in the Supreme Court of Appeal and the Constitutional Court which extensively dealt with statutory interpretation and the relevant principles were usefully summarised most recently by the Constitutional Court in Minister of Police and Others v Fidelity Security Services (Pty) Ltd 2022 (2) SACR 519 (CC) at para [34].
+
+ (ii) That the dispute between the protagonists could be resolved on a narrow basis. The core issue for present purposes hinged around the question whether SARS could lawfully refuse to even consider the request for remission and to thereafter take a decision in respect thereof. In this regard it bore mentioning that the Respondent relied on various grounds of review under PAJA but the main focus was on s 6(2)(g) read with ss 6(3) and 8(2) of PAJA that regulated reviews where the administrator failed to take a decision.
+
+ (iii) That it would be recalled that SARS steadfastly refused to even entertain the Respondent’s application for remission of interest and, as a result, did not consider and determine the application on its merits. This then raised the question as to whether SARS could lawfully do so. The answer to this question was not far to seek. It could be sourced from s 33 of the Constitution and PAJA, the latter being the legislative measure contemplated in s 33 of the Constitution. In its Preamble, PAJA provided that it sought to give effect ‘to the right to  
+86 SATC 158 at 161
+  administrative action that is lawful, reasonable and procedurally fair…as contemplated in s 33 of the Constitution…’
+
+ (iv) That, tellingly, s 33(3)(b) of the Constitution imposed a duty on the State in all its manifestations to give effect to the rights in ss 33(1) and 33(2) of the Constitution. Accordingly, the Commissioner’s refusal to consider and determine the Respondent’s request altogether undermined one of the fundamental rights entrenched in the Bill of Rights which is the bedrock of our democratic order. Such conduct was inimical to the constitutional duty that SARS bore as an organ of state in terms of which it must respect, protect, promote and fulfil the rights in the Bill of Rights as decreed in s 7(1), 7(2) and s 8(1) of the Constitution.
+
+ (v) That, for now, all the court was called upon to decide was whether SARS was justified in law to refuse to even consider the Respondent’s request by virtue of such request having been made subsequent to the conclusion and implementation of the parties’ VDP agreement.
+
+ (vi) That, in sum, the conclusion reached was that SARS bore a statutory duty buttressed by the Constitution to, at the very least, give consideration to the request and decide it on its own merits and this SARS irrefutably refused to do. In these circumstances a review under s 6(2)(g) read with ss 6(3) and 8(2) of PAJA was warranted.
+
+ (vii) That the overbreadth of counsel’s contentions to the contrary and the resultant violence it did to the plain and unambiguous language of s 39(7) of the VAT Act was self-evident. Nowhere did the VAT Act nor the TAA provide expressly or by necessary implication that a taxpayer (a vendor in the context of this case) who had entered into an agreement under the voluntary disclosure programme was excluded from the benefit for which s 39(7) provided and, in particular, when such an agreement had been discharged through performance of the contractual obligations undertaken in terms of the contract.
+
+ (viii) That it should never be lost from sight that this case is primarily concerned with statutory interpretation. The proper approach to statutory interpretation had already been restated in para [33] of this judgment. Therefore, it suffices to reiterate that what the court was confronted with in this appeal was the narrow issue of whether SARS was justified in steadfastly refusing to entertain the request for remission of interest altogether for the reasons it had advanced.
+
+ (ix) That, to sum up, the court was of the view that, at the very least, SARS was required to entertain the application for remission and to consider and adjudicate it on its merits. The question whether remission of interest should be allowed and, if so, to what extent, did not arise in this appeal. In any event, even if it did, deciding that issue would not be in the court’s remit.
+
+ (x) That the final issue to consider was whether this court should itself do what SARS should have done, namely, consider the application on its merits and then adjudicate it, but obstinately refused to do. The court thought not. PAJA contemplated that a court reviewing and setting aside a decision of an administrator must, as a general rule, remit the matter to the decision-maker for reconsideration. This is the default position. Only if the reviewing court is of the view that exceptional circumstances exist will it, itself, substitute its own decision for that of the decision-maker. But the reviewing court can exercise this power only when it is just and equitable for the court to do so. This, the reviewing court will do if, in its opinion, it is in as good a position as the administrator to make the call or the decision of the administrator is a foregone conclusion. Other than that, judicial deference and the doctrine of separation of powers must predominate.
+
+Appeal dismissed with costs, including the costs of two counsel.
+
+ 
+86 SATC 158 at 162
+
+Minority judgment
+
+ (xi) That the main judgment correctly observed that Part B of Chapter 16 of the TAA does not contain a provision that a taxpayer is not entitled to seek a remission of interest in addition to the relief provided for in s 229 of the TAA. It held that, in the absence of such provision, the Commissioner was not entitled to refuse to consider the application made by the Respondent after the conclusion of the voluntary disclosure agreement and was thus obliged to consider it.
+
+ (xii) This approach did not take account of the purpose of s 230 of the TAA, as well as the nature and effect of a voluntary disclosure agreement. In every instance in which a liability to pay a tax debt is established, other than in the case of a voluntary disclosure, the amount of the tax debt is determined and the tax debt becomes due and payable upon assessment.
+
+ (xiii) That it was not open to a court to ignore the conclusion of a voluntary disclosure agreement. The agreement is the centrepiece of the voluntary disclosure programme and it served as a basis upon which outstanding tax may be recovered in exchange for a waiver of punitive sanctions. The conclusion of the agreement is the culmination of a process of engagement between the taxpayer and SARS.
+
+ (xiv) That in this case the VDA records, in clause 11, that it is the whole agreement. It records that no variation to any part of the agreement (which plainly includes the part that stipulates the amount of the tax debt) has any effect unless reduced to writing and signed by both parties. It also records that the agreement constitutes a legal, valid, binding and enforceable agreement on the parties.
+
+ (xv) That it is a well-established principle of our law of contract that due and proper recognition is given to the bargain struck between contracting parties. A party who agrees to payment of a debt cannot escape the obligation unless the agreement was induced by misrepresentation, error or fraud or some other recognised ground of repudiation and no such instances were alleged or established.
+
+ (xvi) That in this case the conclusion of the voluntary disclosure agreement established the liability for the payment of the agreed tax debt and no basis was advanced to suggest that the agreement was concluded in circumstances which would render it unenforceable. Nor was it suggested that the amount of the interest included in the tax debt occurred under reservation of rights.
+
+ (xvii) That the provisions of Part B of Chapter 16 of the TAA, properly interpreted, do not permit a taxpayer who has entered into a voluntary disclosure agreement to seek a remission of interest, the amount of which was incorporated in the determined tax debt due, after the conclusion of the voluntary disclosure agreement. To hold otherwise would undermine the legal consequences that attach to the conclusion of such an agreement.
+
+ (xviii) That in regard to the interplay between an application for voluntary disclosure relief and a request for remission of interest in terms of s 39(7) of the VAT Act or s 187(5) of the TAA, they were separate forms of relief that a taxpayer may seek. Different criteria and considerations apply to each relief. The procedures may even be administered by separate units or sub-departments within SARS. None of this, however, alters the fact that the voluntary disclosure procedure involved the determination of a tax debt payable in consequence of a default and that determination necessarily includes the ‘capital’ of the outstanding tax and the interest payable in relation thereto. The voluntary disclosure agreement is an agreement to pay the mutually agreed tax debt, in exchange for indemnity from punitive sanctions that would ordinarily apply.
+
+ (xix) That the provisions relating to the voluntary disclosure programme do not exclude consideration of remission of interest prior to determination of the tax debt. In this instance the Respondent did not pursue such relief and it was not  
+86 SATC 158 at 163
+  open to it to do so after it had concluded the agreement and SARS therefore correctly refused to consider its request for remission of interest.
+
+____________________________________________________________________________________
+
+PETSE DP:  
+
+Introduction
+
+[1]    This appeal raises interesting and vexed legal questions as to whether, on their proper construction, certain provisions of the Tax Administration Act 28 of 2011 (the TAA) preclude the appellant, the Commissioner for the South African Revenue Service (the Commissioner) from considering a remission of interest levied on late payment of value added tax (VAT) as provided for in s 39(7)(a) of the Value Added Tax Act 89 of 1991 (the VAT Act) subsequent to the conclusion and implementation of a Voluntary Disclosure Agreement in terms of s 229 of the TAA.
+
+[2]    The Commissioner says ‘yes’. For its part the respondent, Medtronic International Trading SARL (Medtronic International), says ‘no’. The court below1 disagreed with the Commissioner and, instead, agreed with Medtronic International and, based on its conclusion, it granted what it considered to be appropriate relief to Medtronic International. Now this court must, having regard to the relevant provisions of both the TAA and the VAT Act, provide an answer. For convenience, as and where the context requires, I shall refer to the appellant as either the Commissioner or South African Revenue Service (SARS).
+
+Background
+
+[3]    It is necessary to set out the facts in some detail to conduce to a better understanding of the issues at play in this case. Medtronic International, as its full name suggests, is an international trading company incorporated and registered in Switzerland. Medtronic International and Medtronic Africa are both subsidiaries of the Medtronic PLC corporate group (Medtronic Group). Medtronic Group is a medical technology company with an international footprint that manufactures and distributes medical devices and provides medical solutions in a variety of ways. Medtronic Africa is the distribution entity for the Medtronic Group in South Africa. It receives its products for sale and distribution in South Africa exclusively from Medtronic International. Medtronic International is registered with SARS as a vendor2 in terms of the VAT Act.
+
+[4]    For many years it appeared that Medtronic International had been a model of a compliant taxpayer in South Africa until its accountant, Ms Hildegard Steenkamp (Ms Steenkamp), exploited weaknesses in both SARS and Medtronic International’s accounting systems to perpetrate fraud of some breathtaking proportions. During the period June 2004 to May 2017, Ms Steenkamp embezzled a whopping amount of some R537 236 176 from Medtronic International. Ms Steenkamp executed her carefully orchestrated fraudulent  
+86 SATC 158 at 164
+scheme by submitting false VAT returns to SARS and thereafter seeking reimbursements from SARS with a view to concealing her embezzlement.
+
+[5]    However, following extensive investigations and forensic audits, her nefarious activities were uncovered culminating in her arrest on 13 December 2017. On the same day, Medtronic International applied to the SARS Voluntary Disclosure Unit (the VDP Unit) for relief3 in terms of the Voluntary Disclosure Programme (VDP)4 provided for in the TAA. Pursuant to the VDP, Medtronic International fully disclosed its default5 to SARS and the reasons therefor. Under the VDP, a taxpayer in default, may obtain relief from SARS, upon meeting the prescribed requirements6 and avoid prosecution and payment of penalties, where they make voluntary disclosure to SARS in order to purge their default.
+
+[6]    During March 2018, after moving back and forth in the course of negotiations preceding the conclusion of the parties’ VDP agreement, Medtronic International requested that the VDP unit of SARS waive the interest payable as a result of its default of payment of VAT to SARS taking into account the circumstances in which the loss had occurred. In response, SARS wrote back to Medtronic International and advised the latter in explicit terms that SARS was not empowered to waive interest under the VDP. SARS went on to advise Medtronic International, in no uncertain terms, that the latter could either pay what SARS termed the post-relief amount7 in full or, alternatively, to withdraw from the VDP programme and follow the normal course in remedying its default. I pause here to observe that the ‘normal course in remedying [the] default’8, would not ordinarily be a cost-effective way from Medtronic International’s perspective to remedy the default. This is because the suggested ‘normal course’ would have meant that Medtronic International would expose itself to liability for penalties9 (of up to 200 per cent of the capital amount owed in respect of outstanding value-added tax) in addition to mora interest.
+
+[7]    Understandably, Medtronic International elected to proceed under the VDP programme. Thus, on 18 June 2018 the parties concluded a written agreement. This Voluntary Disclosure Programme agreement, which is headed ‘Voluntary Disclosure Agreement’ recorded, amongst other things, the following:
+
+‘PREAMBLE
+
+ 1.1 The applicant applied for relief afforded by the Voluntary Disclosure Relief programme (the VDP) that is administered by the South African 
+
+ 
+86 SATC 158 at 165
+
+  Revenue Service (SARS) in terms of the Tax Administration Act (28 of 2011).
+
+ 1.2 The Applicant confirms that the default in respect of which relief is granted–
+
+ 1.2.1 was disclosed to SARS on a voluntary basis;
+
+ 1.2.2 has not occurred within five years of the disclosure of a similar default;
+
+ 1.2.3 involves a behaviour referred to in column 2 of the understatement penalty percentage table in s 223 of the TA Act;
+
+  1.2.4 is a disclosure that is full and complete in all material respects;
+
+ 1.2.5 will not result in a refund by SARS; and
+
+ 1.2.6 was applied for in the prescribed form and manner.
+
+ 2  . . .
+
+ 3 THE DEFAULT
+
+ 3.1 the default as disclosed in the voluntary disclosure application form (VDP01) and subsequent information provided, in respect of which relief is sought is the following:
+
+VAT
+
+The Applicant discovered, based on information obtained from anonymous whistle-blowers and a subsequent internal investigation, that an ex-employee embezzled money from it. This further resulted in fraud against the SARS in that she overstated Input VAT during the 2006 to 2016 financial years. The VAT liability for said years was thereby understated.
+
+ 4 TAX, INTEREST AND PENALTIES ARISING FROM THE DEFAULT
+
+ 4.1 Save for verifying the eligibility requirements pertaining to and the validity of the VDP application, the facts in relation to the default have not been verified by SARS during the VDP evaluation process in preparation for this Agreement.
+
+ 4.2 the amounts of tax, interest and penalties arising from the default have been calculated with reference to the facts disclosed in the VDP application.
+
+ 4.3 The tax. Interest and penalties arising from the default were calculated to be as follows:
+
+VAT:
+
+
+ 
+86 SATC 158 at 166
+
+ 5 RELIEF GRANTED TO THE APPLICANT
+
+ 5.1 Penalties were reduced by the following amounts: VAT:
+
+
+ 5.2 In concluding this agreement, the Commissioner assumes that the facts provided by the Applicant to demonstrate the behaviour classification for purposes of the understatement penalty are correct and that the defaults arose as a result of (iii) no reasonable grounds for the ‘tax position’ taken, which qualifies for voluntary disclosure relief under Column 6 (voluntary disclosure before notification of audit) of the understatement penalty percentage table contained in s 223 of the TA Act.
+
+ 5.3 the Commissioner grants 100% relief in respect of an administrative non-compliance penalty that was or may be imposed under Chapter 15 or a penalty imposed under a tax Act, excluding a penalty imposed under that Chapter or in terms of a tax Act for the late submission of a return.
+
+ 5.4 The Commissioner will not pursue criminal prosecution for any statutory offence under a tax Act or a related common law offence in respect of the disclosed default.
+
+ 6 TOTAL PAYABLE AFTER RELIEF IS GRANTED
+
+ 6.1 The following table reflects the post-relief amounts payable by the Applicant to SARS in respect of the defaults:
+
+
+ 6.2 The total post-relief amount payable in respect of VAT is R457 670 112,74 7 . . .
+
+ 
+86 SATC 158 at 167
+
+ 8 PAYMENT
+
+ 8.1 The total post-relief amount in respect of VAT as per point 6.2 is R457 670 112,74. The applicant made a payment of R286 464 756 on 25 May 2018 and undertakes to pay the outstanding balance in two equal instalments, subject to the accrual of interest on a monthly basis, on 29 June 2018 and 31 July 2018, under reference number 4210223212.
+
+ 8.2 Any amount payable in terms of this Agreement that remains outstanding after the due date of the payment will incur interest on the basis prescribed under the provisions of the relevant Tax Act.
+
+ 8.3 Proof of payment must be delivered by email to nlwesl@sars.gov.za or by hand to the VDU as soon as payment is made, but not later than the business day following the day on which payment is due.
+
+ 9 . . .
+
+ 10 BREACH OF CONTRACT
+
+ 10.1 The parties to this Agreement agree that the terms of the Agreement create rights and obligations that are enforceable by the parties.
+
+ 10.2 Any breach of a material term of this Agreement, particularly relating to the Applicant’s payment terms and conditions as specified in this Agreement may result in the summary termination of the Agreement by SARS. In such an event, all or any relief granted in terms of this Agreement may in the discretion of SARS be withdrawn either wholly or in part with due notice to the Applicant.’
+
+[8]    In truncated form, the parties’ agreement set out the amounts representing capital tax (ie unpaid value-added tax), accrued interest10 and penalties arising from the default. Medtronic International would only be liable for the total capital VAT amount and the total interest thereon, and was granted 100% relief in respect of administrative non-compliance penalties and understatement penalties. All of these amounts were calculated with reference to the facts disclosed in the VDP application by Medtronic International. In addition, the Commissioner was permitted, in terms of clause 7 of the agreement, to issue an assessment in order to give effect to the agreement.
+
+[9]    For its part, Medtronic International fully complied with the terms of the VDP agreement and paid the post-relief amount in full, including the interest resulting from the default. After what initially appeared to be a successful resolution of Ms Steenkamp’s unfortunate saga, things took a dramatic turn. On 12 October 2018, Medtronic International’s attorneys wrote to SARS and, without reference to the VDP Unit, requested SARS to remit the interest that SARS had levied on the capital tax representing the amount of default.11 This request was made in terms of the interest remission provisions located in s 39(7) of the VAT Act read with SARS Interpretation Note 61 (IN 61).12 SARS’s terse response was that remission of interest was not catered for in the VDP programme under the TAA. Accordingly, SARS asserted that the provisions regarding remission of interest contained in s 39(7) of the VAT Act – and  
+86 SATC 158 at 168
+s 187(6) of the TAA itself to the extent that they might be found to apply – found no application to VDP agreements.
+
+[10]    One fundamental point needs to be made even at this early juncture. It is this: SARS contended that IN 61 was not binding on it. This submission is ill-conceived. Section 5 of the TAA defines ‘practice generally prevailing’ as ‘a practice set out in an official publication regarding the interpretation or application of a tax Act’13. The TAA defines an ‘official publication’ to specifically include an interpretation note. In Marshall NO and Others v Commissioner, South Africa Revenue Service,14 the Constitutional Court dealt with the nature of SARS Interpretation Notes and the necessity for the consistent interpretation by those responsible for the administration of Tax Acts.15 Thus, in the context of the TAA, when a taxpayer is assessed in accordance with a ‘practice generally prevailing’, SARS must be consistent with its interpretation and application of the legislation and cannot make a determination contrary to a prevailing practice.16
+
+[11]    From the perspective of SARS, Medtronic International’s request was considered still-born and therefore invalid. Nevertheless, SARS suggested to Medtronic International that it could, if so advised, submit a notice of objection instead. SARS’s suggestion did not find favour with Medtronic International for clause 7.2 of the VDP agreement explicitly stated that objections to an assessment or determination issued or made by SARS were impermissible in terms of s 232(2) of the TAA.17
+
+[12]    Thereafter, Medtronic International wrote to SARS imploring the VDP unit to withdraw the refusal to consider its earlier application for remission in terms of s 9(1) of the TAA.18 This request too was refused by SARS.
+
+Litigation history
+
+[13]    By now the respective positions adopted by the protagonists had become entrenched. In consequence of this impasse, Medtronic International brought an  
+86 SATC 158 at 169
+application to the Gauteng Division of the High Court, Pretoria (the High Court), in the main, for orders, inter alia, that:19
+
+ ‘1. That it be declared that:
+
+ 1.1. the provisions of Chapter 16, Part B, ss 225 to 233 of the Tax Administration Act, Act 28 of 2011 (‘the TAA’) relating to voluntary disclosure programmes (‘VDFF’) do not prohibit a request for remission of interest in terms of s 39(7) of the Value-Added Tax Act 89 of 1991 (‘PVAT Act’) notwithstanding a VDP agreement having been entered into;
+
+ 1.2 notwithstanding a prior VDP agreement having been entered into, the respondent has a statutory duty to consider, adjudicate and decide on a request for the remission of interest in terms of s 39(7)(a) of the VAT Act.
+
+ 2. That the following decisions of the respondent be reviewed and set aside in terms of the Promotion of Administrative Justice Act, Act 3 of 2000 (‘PAJA’), alternatively the principle of legality, and remitted back to SARS for reconsideration, namely:
+
+ 2.1. The decision set out in the respondent’s letter dated 1 November 2018, of which the applicant was informed per e-mail on 20 November 2018, to refuse to consider the applicant’s request for remission of interest in terms of s 39(7)(a) of the VAT Act;
+
+ 2.2. Alternatively, the respondent’s decision set out in its letter of 13 March 2019, of which the applicant was informed per e-mail on 28 March 2019, to refuse to withdraw its decision referred to in paragraph 2.1 above and to decide that it cannot consider the request for the remission of the interest levied.
+
+ 3. That the respondent be ordered to consider, adjudicate and decide on the applicant’s request for remission of interest in terms of s 39(7)(a) of the VAT Act, dated 12 October 2018, and inform the applicant of its decision within 15 days of the order being granted. SARS’ decision may not be contrary to the declaratory relief as set out above;
+
+ 4. That in the event of the respondent deciding not to remit the interest, that it provide detailed written reasons as envisaged in the VAT Act, read with the TAA and PAJA within the same 15 days of the order being granted;
+
+ 5. That in the event of the respondent failing to comply with paragraphs 3 and 4 above, that the applicant be granted leave to approach this Court on the same papers, supplemented if necessary, for further appropriate relief;
+
+ 6. That the respondent be ordered to pay for the costs of this application, including the costs occasioned upon the employment of two counsel.
+
+ 7.  . . .’
+
+
+[14]    In support of its application, the deponent to Medtronic International’s founding affidavit, Ms Christina Susanne Brunner (Ms Brunner), stated, inter alia, that:
+
+ ‘18.1 Typically, on the 15th day of the month, Medtronic Africa received an e-mail from its clearing agents, Express Logistics and QI Logistics, stating the amount of import VAT payable by Medtronic International for the previous month. In the ordinary course of events, the clearing agents would then pay the import VAT over to SARS.
+
+ 
+86 SATC 158 at 170
+
+ 18.2 Once the e-mails described above were received from Medtronic Africa’s clearing agents, Medtronic Africa, through Ms Steenkamp, would arrange the payment of the VAT amount manually by ‘loading’ a payment through its Standard Bank online banking platform on which SARS and/or the clearing agents were listed as beneficiaries. Transfers from Medtronic Africa’s bank account to SARS’ account required the approval of two local Medtronic Africa employees. These employees used tokens to approve the transfers. Medtronic International was under the impression that the payments made on Ms Steenkamp’s instructions were being paid to SARS through the clearing agents or otherwise for import VAT.
+
+ 18.3 In late 2016, Adel Herholdt (‘Ms Herholdt’), a finance manager who supervised Ms Steenkamp, discovered that Ms Steenkamp retained the tokens she obtained from former employees, which she used to approve transfers of funds. Ms Herholdt reported the issue to the senior financial manager of Medtronic Africa, Pieter Botha (‘Mr Botha’). Mr Botha instructed Ms Herholdt to investigate the use of the tokens. She discovered that the tokens had been used to authorize over 70 payments in substantial amounts from Medtronic Africa’s bank account.
+
+ 19 . . .
+
+ 19.4 Through an investigation of Medtronic Africa’s bank documents, it was determined that Ms Steenkamp manually transferred funds from Medtronic Africa’s bank account to an account with Absa Bank Limited (‘ABSA’), which was added as a payee to Medtronic Africa’s online banking platform. The account was in the name of Ms Steenkamp’s late husband, with account number 3[. . .] (‘the husband’s account’). The husband’s account was named; or the reference for the relevant transactions suggested they were affiliated with SARS or a clearing agent for VAT, thus disguising of the transactions as valid VAT payments.
+
+ 19.5 The investigation identified 174 irregular transactions.
+
+ 20 . . .
+
+ 20.2 Deloitte discovered a further transfer of funds from Medtronic Africa’s bank account to the husband’s account and also discovered that during the period covered by Ms Steenkamp’s scheme, Ms Steenkamp made 65 transfers in an aggregate amount of R11 780 939 from Medtronic Africa’s bank account to her personal savings account with ABSA Bank Limited, with account number 9[. . .] (‘the savings account’). The savings account was the account into which Medtronic Africa paid Steenkamp her monthly salary. The 65 transactions were identified as irregular due to their value, which was significantly larger than her monthly salary; the timing of the transactions; and their subsequent accounting treatment.
+
+  . . .
+
+ 26. Medtronic is a victim in this matter and has suffered a substantial loss as a result of Ms Steenkamp’s actions.
+
+ 27. Medtronic sought advise with respect to its potential liability to SARS arising from Ms Steenkamp’s fraudulent scheme (the ‘default’). Medtronic appointed Webber Wentzel as its attorneys of record in South Africa to assist it with all proceedings and litigation that may ensue between Medtronic and SARS.
+
+ 28. Medtronic applied to SARS on 13 December 2017 for VDP relief in terms of ss 225 to 233 of the TAA. The VDP unit advised that it was prepared to waive all understatement and late payment penalties, but that it did not 
+
+ 
+86 SATC 158 at 171
+
+  have the authority to waive the interest arising from the underpayment of the VAT (and of course also not the capital).
+
+  . . .
+
+ 31. Medtronic entered into two separate VDP agreements as envisaged in terms of s 230 of the TAA with SARS on respectively 14 June 2018 (Medtronic Africa) and on 18 June 2018 (Medtronic International) (‘the VDP agreements’). The VDP agreements were on the basis that Medtronic will only be liable for the total capital VAT amount of R311 602 431,49 and the total interest thereon totalling the amount of R201 185 012,59. In accordance with the VDP agreements, SARS granted 100% relief in respect of administrative non-compliance penalties and understatement penalties respectively and SARS further undertook that it will not pursue criminal prosecution for any statutory defence under a tax Act or a related common law offence in respect of the disclosed default. The VDP agreements entered into by Medtronic International and Medtronic Africa respectively are attached hereto marked ‘MI 11’ and ‘MI 12’.
+
+  . . .
+
+  MEDTRONIC INTERNATIONAL
+
+ 34. On 12 October 2018, Webber Wentzel, acting on Medtronic International’s behalf, submitted a request to SARS to remit the interest imposed as a result of the default occasioned by Ms Steenkamp on the basis that Medtronic International has met the remission requirements in s 39(7)(a) of the VAT Act, read with SARS’ Interpretation Note 61 dated 29 March 2011 (‘IN 61’) for the periods prior to 01/04/2010 and for the periods from 01/04/2010. Attached hereto marked ‘MI 13’ is a copy of Medtronic International’s request for remission of interest, without annexures thereto. In order to not burden the papers unnecessarily, the annexures are not attached hereto, but will be made available at the hearing of this matter should it become necessary or required.
+
+  . . .
+
+ 35.3 Section 39(7)(a) of the VAT act makes provision for interest to be remitted on the late payment of VAT. Section 39(7) of the VAT Act was amended with effect from 1 April 2010. Different jurisdictional requirements apply prior to and post 1 April 2010.
+
+  . . .
+
+ 35.5 With effect from 1 April 2010, SARS’ discretion to remit interest was amended. The jurisdictional requirement is since then whether the payment of tax was made late as a result of circumstances beyond the vendor’s control.
+
+  . . .
+
+ 35.6 Once it is established that Medtronic International did not benefit financially and that the non-payment was the result of circumstances beyond Medtronic International’s control, SARS must waive the interest in question.
+
+  . . .
+
+ 37. On 20 November 2018, SARS sent a letter via e-mail to Webber Wentzel, which letter is dated 1 November 2018, informing Medtronic International that the provisions regarding the remission of interest contained in s 39(7)(a) of the VAT Act, and to the extent that s 187(6) of the TAA may apply, do not apply to any VDP agreement. Based thereon SARS took a decision to refuse to consider the request for remission by recording that ‘[u]nder the circumstances the Commissioner cannot accede to the request for the remission of the interest liability of 
+
+ 
+86 SATC 158 at 172
+
+  R171 205 356,12 as reflected in the table at paragraph 6.1 if the VDP agreement’. (‘SARS’ decision to refuse to consider Medtronic International’s request for remission of interest’). Attached hereto marked ‘MI 15’ is a copy of the e-mail of 20 November 2018 and SARS’ letter dated 1 November 2018. The reasons provided were, in summary that:
+
+  . . .
+
+ 37.2 section 39(7)(a) of the VAT Act set out ‘the circumstances (beyond the control of the taxpayer) to which [SARS] must have regard remitting interest, in whole or in part or in directing that interest, as is attributable to the circumstances, is not payable by a taxpayer’.
+
+  . . .
+
+ 37.4 VDP is an extra-ordinary process made available to taxpayers in order to enhance tax compliance, effectively manage the tax system and to assist taxpayers to regularise their affairs and avoid the imposition of understatement and administrative penalties.
+
+  . . .
+
+ 38. The applicant seeks to review SARS’ decision to refuse to consider Medtronic International’s request for remission of interest on the grounds as set out herein.’
+
+
+[15]    Medtronic International’s application was opposed by SARS. In an answering affidavit deposed to on its behalf by Mr Zahir-Ahmed Osman Karjieker (Mr Karjieker) it was, inter alia, stated that:
+
+ ‘12 Central to this application is a single legal question: whether the Commissioner may consider a request for the remission of interest in terms of s 39(7)(a) of the VAT Act once a taxpayer has agreed to pay such interest in terms of a voluntary disclosure agreement contemplated by s 230 of the TAA.
+
+ 12.1 If SARS’s interpretation of the law is correct, this application must be dismissed. This is because even if any other ground of review may have merit, the Commissioner cannot be ordered to do what he is precluded by law from doing.
+
+ 12.2 But if SARS has erred in its interpretation, then the impugned decisions ought to be reviewed and set aside, with the matter being remitted to enable the Commissioner to consider the request.
+
+  . . .
+
+Summary of the VDP
+
+ 15 Central to this matter is chapter 16 of the TAA, which is made up of two parts, Part A, entitled ‘Imposition of Understatement Penalty’, and Part B, entitled ‘Voluntary disclosure programme’. Ordinarily, a successful VDP application gives rise to a reduction (or waiving) of understatement penalties, the waiving of administrative non-compliance penalties, and a commitment on SARS’ part not to pursue criminal prosecution for a tax offence arising from the default.
+
+ 16 Prior to the coming into force of the TAA on 1 October 2012, SARS had already processed thousands of applications for voluntary disclosure relief in terms of tax ‘amnesty’ for tax defaults up to 17 February 2010. These applications, which were submitted between 1 November 2010 and 31 October 2011, were part of what was known as ‘VDP1’, which saw the waiver of not only a broad array of penalties, but also interest on outstanding tax debts. Under the TAA, however, a successful VDP application does not give rise to any waiver of interest.
+
+ 17 The VDP’s purpose is to enhance voluntary compliance in the interests of good management of the tax system, and the best use of SARS’s resources. It seeks to encourage taxpayers to come forward, on a voluntary 
+
+ 
+86 SATC 158 at 173
+
+  basis, to regularise their tax affairs with SARS. In return, taxpayers may be able to avoid the imposition of certain penalties, and criminal prosecutions.
+
+  . . .
+
+ 25 Having considered the 17-page request, I turned to my colleague Ms Kim Viegeland for advice on the procedure to follow, given the difficulties Ms Keyser had experienced in trying to process the request for remission via e-filing. (Ms Viegeland later co-signed the two letters that record the impugned decisions).
+
+  26 In drafting and finalising the letters recording the impugned decisions, I engaged with a range of SARS officials, including some who are employed in the VDP Unit, and other who are employed to provide in-house legal advise (as I am). The latter group includes two admitted attorneys.
+
+ 27 The consensus that emerged from this engagement and the advice I received from colleagues, is that the Commissioner may not enter into a VDP agreement, and then effectively amend it by acceding to a request for the remission of interest. This consensus formed the basis of the impugned decision.
+
+  . . .
+
+ 30 Medtronic International appears not to appreciate that the interest became due and payable in terms of the VDP Agreement, and no longer in terms of the VAT Act. While s 232(1) of the TAA provides for the issuing of an assessment ‘for purposes of giving effect to the agreement’, s 232(2) makes it plain that such an assessment ‘is not subject to objection and appeal’.
+
+  . . .
+
+ 49 Should this Court hold that neither of the impugned decisions constitutes administrative action that is reviewable under PAJA, then the matter should be determined under the principle of legality. That said, I accept that each decision constitutes reviewable administrative action.
+
+  . . .
+
+ 60 SARS has always been clear that the Commissioner may not entertain a request for the remission of interest that is due and payable in terms of a VDP Agreement. Accordingly, the nature of each impugned decision has never been in doubt. This much was accepted in paragraphs 37 and 38 of the founding affidavit.’
+
+
+[16]    The matter came before Hughes J, who made the following order:
+
+ ‘1. The provisions of Chapter 16, Part B, ss 225 to 233 of the Tax Administration Act, Act 28 of 2011 (‘the TAA’) relating to voluntary disclosure programmes (‘VDFF’) do not prohibit a request for remission of interest in terms of s 39(7) of the Value Added Tax Act, Act 89 of 1991 (‘PVAT Act’) notwithstanding a VDP agreement having been entered into:
+
+ (a) notwithstanding a prior VDP agreement having been entered into, the respondent has a statutory duty to consider, adjudicate and decide on a request for the remission of interest in terms of s 39(7)(a) of the VAT Act.
+
+ 2. That the following decisions of the respondent be reviewed and set aside in terms of the Promotion of Administrative Justice Act 3 of 2000 (‘PAJA’), alternatively the principle of legality, and remitted back to SARS for reconsideration, namely:
+
+ (a) The decision set out in the respondent’s letter dated 1 November 2018, of which the applicant was informed per e-mail on 
+
+ 
+86 SATC 158 at 174
+
+  20 November 2018, to refuse to consider the applicant’s request for remission of interest in terms of s 39(7)(a) of the VAT Act;
+
+ (b) Alternatively, the respondent’s decision set out in its letter of 13 March 2019, of which the applicant was informed per e-mail on 28 March 2019, to refuse to withdraw its decision referred to in paragraph 2.1 above and to decide that it cannot consider the request for the remission of the interest levied.
+
+ 3. That the respondent be ordered to consider, adjudicate and decide on the applicant’s request for remission of interest in terms of s 39(7)(a) of the VAT Act, dated 12 October 2018, and inform the applicant of its decision within 15 days of the order being granted. SARS’ decision may not be contrary to the declaratory relief as set out above;
+
+ 4. That in the event of the respondent failing to comply with paragraphs 3 above, that the applicant be granted leave to approach this Court on the same papers, supplemented if necessary, for further appropriate relief;
+
+ 5. That the respondent be ordered to pay for the costs of this application, including the costs occasioned upon the employment of two counsel.’
+
+
+In short, the High Court held that, in the absence of an explicit provision in the TAA proscribing remission of interest upon a discharge by performance of a VDP agreement, it followed axiomatically that the Commissioner for SARS is vested with powers to entertain requests for remission of interest and adjudicate them on their merits.
+
+[17]    In reaching that conclusion the learned Judge, in essence, reasoned that:
+
+the dispute between the parties entailed the interpretation of the relevant statutory instruments;
+the principles applicable to statutory interpretation are settled;
+on a proper interpretation of Chapter 6 of the TAA and, in particular, ss 228–233 thereof read with 39(7) of the VAT Act, nothing precluded SARS from entertaining and giving consideration to an application for remission of interest after the conclusion and discharge of the vendor’s obligations under the VDP agreement;
+SARS’s refusal to even entertain and then consider the application for remission of interest was influenced by ‘errors of law’.
+
+SARS was subsequently granted leave to appeal to this court against the High Court’s orders.
+
+Relevant statutory framework
+
+[18]    It is convenient at this juncture to set out the relevant statutory framework. First, s 1 of the Promotion of Administrative Justice Act 3 of 2000 (PAJA) defines administrative action to mean:
+
+‘any decision taken, or any failure to take a decision, by–
+
+ (a) an organ of State, when–
+
+ (i) exercising a power in terms of the Constitution or a provincial constitution; or
+
+ (ii) exercising a public power or performing a public function in terms of any legislation; or
+
+ (b) a natural or juristic person, other than an organ of state, when exercising a public power or performing a public function in terms of an empowering provision, which adversely affects the rights of any person and which has a direct, external legal effect, but does not include . . .’
+
+
+[19]    In Notyawa v Makana Municipality and Others,23 the Constitutional Court pointedly observed that the application of PAJA depends not on the characterisation of the review by the applicant but rather on the nature of the impugned decision. If the decision is administrative in character, PAJA applies. And the converse is that if it is not, PAJA finds no application.
+
+[20]    Earlier, in Grey’s Marine Hout Bay (Pty) Ltd and Others v Minister of Public Works and Others24 Nugent JA noted that:
+
+‘Whether particular conduct constitutes administrative action depends primarily on the nature of the power that is being exercised rather than upon the identity of the person who does so.’
+
+
+[21]    As alluded to above, the VDP is dealt with in ss 225–233 of Chapter 16, Part B of the TAA. For present purposes it is ss 226, 227, 229 and 23025 that bear relevance.
+
+ 
+86 SATC 158 at 176
+
+[22]    It is necessary to also make reference to s 187 of the TAA which deals with payment of accrued interest at the prescribed rate on any tax debt payable under a tax Act.26 For present purposes it is s 187(6) that is of relevance. It provides that:
+
+‘If a senior SARS official is satisfied that interest is payable by a taxpayer under subsection
+
+ (1)27 is payable as a result of circumstances beyond the taxpayer’s control, the official may, unless prohibited by a tax Act, direct that so much of the interest attributable to the circumstances is not payable by the taxpayer.’
+
+
+[23]    I pause here to mention that the VDP programme was first introduced through the Voluntary Disclosure Programme and Taxation Laws Act 8 of 2010. For convenience, this will be referred to as VDP1. VDP1 prescribed different jurisdictional requirements for the remission of interest applicable for periods prior to and those post 1 April 2010.28
+
+The VAT Act
+
+[24]    Insofar as the VAT Act is concerned, it is s 39(7) which is of particular relevance in this case. Section 39(7), in respect of the position prior to 1 April 2010, reads:
+
+‘To the extent that the Commissioner is satisfied that the failure on the part of the person concerned or any other person under the control or acting on behalf of that person to make payment of the tax within the period for payment contemplated in subsection (1)(a), (2), (4), (6) or (6A) or on the date referred to in subsection (5), as the case may be–
+
+ (a) (i) did, having regard to the output tax and input tax relating to the supply in respect of which interest is payable, not result in any financial loss (including any loss of interest) to the State; or
+
+ (ii) such person did not benefit financially (taking interest into account) by not making such payment within the said period or on the said date, he may remit, in whole or in part, the interest payable in terms of this section; or [Para (a) amended by s 105(c) of Act 32 of 2004.]
+
+ (b) was not due to an intent not to make payment or to postpone liability for the payment of the tax, he may remit, in whole or in part, any penalty payable in terms of this section.’
+
+
+[25]    Allied to s 39(7) of the VAT Act is SARS Interpretation Note 61 published on 29 March 2011. It dealt with, inter alia, in para [2.1] thereof, with the test for remission of interest post April 2010, which was whether the reason for the late payment of VAT was due to circumstances beyond the control29 of the vendor concerned.
+
+[26]    The second part of para [4.1] of IN 61 bears mentioning. It provides that:
+
+‘[I]n order for the Commissioner to consider remitting interest that has been levied in terms of s 39, the person concerned must make a request in writing. The person bears the burden of proving that the facts and circumstances of the case meet the requirements of the applicable law for the remission of the interest in whole or in part.’
+
+
+[27]    It is necessary to emphasise that s 229 of the TAA provides that notwithstanding the provisions of a tax Act, SARS must, upon conclusion of a valid Voluntary Disclosure Agreement under s 230: (a) not pursue criminal prosecution for any statutory offence under a tax Act arising from the default or related common-law offence; (b) grant the relief in respect of any understatement penalty to the extent referred to in column 5 or 6 of the understatement penalty percentage table in s 223; and (c) grant 100 per cent relief in respect of an administrative non-compliance penalty that was or may be imposed under Chapter 15 or a penalty imposed under a tax Act, excluding a penalty imposed under that Chapter or in terms of a tax Act for the late submission of a return or a late payment of tax.
+
+[28]    Except for certain provisions, the TAA came into effect on 1 October 2012. The TAA, inter alia, brought about certain amendments to the VAT Act. Section 39(7) of the VAT Act was deleted by s 271 of the TAA but the deletion has not yet come into effect. Consequently, s 39(7) of the VAT Act, as it stood before its impending deletion, is to all intents and purposes still of full force and effect. In the scheme of things s 187(6) of the TAA will, once it comes into operation, regulate the remission of interest where the default relating to the payment of a tax debt in terms of a tax Act is attributable to circumstances beyond the control of a taxpayer. Thus, s 39(7) remains in force insofar as it relates to any interest payable in respect of a VAT debt, and the Commissioner is still empowered under certain circumstances to remit interest.
+
+[29]    It is now apposite to put things in their proper perspective and to emphasise what this case is all about. At the hearing before us Counsel for SARS was at pains, in response to a question posed to him by a member of the bench, to explain why SARS did not even entertain Medtronic International’s application for remission of the interest accrued to the latter’s VAT debt which was the subject of the VDP agreement between the parties. This was because SARS had adopted a resolute position that the interest was paid pursuant to the VDP agreement which did not provide for the remission of interest. SARS went on to state that the only relief that it could lawfully grant under the VDP agreement, was ‘specific and limited to . . . : (a) Not pursuing any criminal Action; (b) Granting relief in respect of understatement penalty imposed by application of columns 5 and 6 in s 223(1); and (c) 100% relief in respect of administrative non-compliance penalty imposed under Chapter 15 or under a tax Act and excluding any penalty imposed for the late submission of a return’. SARS concluded by asserting that ‘as the agreements entered into between the Commissioner and [Medtronic International] remain in force, the Commissioner cannot consider the request for the remission of the interest levied’. (Emphasis added.) This was consistent with the stance that SARS had adopted even during the parties’ discussions preceding the conclusion of the VDP agreement to which reference was made in paragraph 6 above.
+
+[30]    It bears repeating, albeit briefly, that s 230 of the TAA provides that a voluntary disclosure application and relief granted under s 229 ‘must be evidenced by a written agreement between SARS and the qualifying person who is liable for the outstanding tax debt in the prescribed format . . .’. Section 230 goes further to provide that the agreement must include details on–
+
+ ‘(a) the material facts of the ‘default’ on which the voluntary disclosure relief is based;
+
+ 
+86 SATC 158 at 179
+
+ (b) the amount payable by the person, which amount must separately reflect the understatement penalty payable;
+
+ (c) the arrangements and dates for payment; and
+
+ (d) relevant undertakings by the parties.’
+
+
+[31]    The voluntary disclosure relief evidenced by the agreement may not be withdrawn or amended. And the assessment made in terms of s 232(1) to give effect to a VDP agreement is not subject to objection and appeal.
+
+[32]    Insofar as the rationale and social utility for the VDP is concerned, it is timely at this stage to make reference to a decision of this court in Purveyors South Africa Mine Services (Pty) Ltd v Commissioner for the South African Revenue Services30 where it was stated that the VDP ‘is designed to ensure that errant taxpayers who are not compliant . . . come clean, out of their own volition and without any prompting, to make amends in respect of their defaults by informing SARS’.31
+
+[33]    The issue with which we are confronted in this matter involves an interpretive exercise. Accordingly, I propose dealing first with the law relating to statutory interpretation. There is a notable line of cases both in this court and the Constitutional Court which extensively dealt with statutory interpretation.32 The relevant principles were usefully summarised most recently by the Constitutional Court in Minister of Police and Others v Fidelity Security Services (Pty) Ltd33, thus:
+
+ ‘(a) Words in a statute must be given their ordinary grammatical meaning unless to do so would result in an absurdity.
+
+ (b) This general principle is subject to three interrelated riders: a statute must be interpreted purposively; the relevant provision must be properly contextualised; and the statute must be construed consistently with the Constitution, meaning in such a way as to preserve its constitutional validity.
+
+ (c) Various propositions flow from this general principle and its riders. Among others, in the case of ambiguity, a meaning that frustrates the apparent purpose of the statute or leads to results which are not businesslike or sensible results should not be preferred where an interpretation which avoids these unfortunate consequences is reasonably possible. The qualification ‘reasonably possible’ is a reminder that Judges must guard against the temptation to substitute what they regard as reasonable, sensible or businesslike for the words actually used.
+
+ (d) If reasonably possible, a statute should be interpreted so as to avoid a lacuna (gap) in the legislative scheme.’34
+
+
+ 
+86 SATC 158 at 180
+
+[34]    The attack by SARS of the decision of the High Court was wide-ranging. But in essence it was largely concentrated on the underlying reasoning of the High Court. And this was the principal focus of Counsel’s argument at the hearing. The argument was predicated on four cardinal pillars. These were:
+
+(a) that in light of the statutory history of the VDP programme introduced by Chapter 16 of the TAA, the programme offers a standalone process for taxpayers to regularise their tax affairs without the risk of being subjected to the penalties that would ordinarily ensue by enforcement of a tax Act like the VAT Act;
+(b) that granting remission of interest under s 39(7) of the VAT Act after the taxpayer has paid interest or undertaken to do so pursuant to the conclusion of a VDP agreement would undermine the VDP agreement;
+(c) that s 6(c) of Act 8 of 2010 which dealt with defaults that had occurred before 17 February 2010 made explicit provision for the Commissioner to grant remission in respect of interest – subject to certain requirements being satisfied – of 100 per cent or 50 per cent depending on whether the voluntary disclosure occurred with or without knowledge of a pending audit or investigation into the taxpayer’s affairs or an audit or investigation that has commenced but not yet concluded;
+(d) that in contrast the TAA does not make provision for remission of interest, but instead provides in express terms in s 229 thereof what form of relief35 must be granted by SARS;
+(e) both s 39(7) of the VAT Act and s 187(6) of the TAA, which are currently in force, deal with remission of interest and therefore serve similar purposes and yet they are not couched in identical terms and are distinguishable in, at least, four respects.
+
+[35]    In essence, SARS submitted that the High Court erred in finding that the TAA does not preclude it from considering the request for the remission of interest made in terms of s 39(7), in circumstances where Medtronic International had entered into a VDP agreement. In advancing this argument, SARS contended that, in requesting the Commissioner to consider remitting the interest, Medtronic International was in effect seeking to reduce its liability under the VDP agreement and renege on its undertaking to pay interest. This would constitute an amendment of the VDP agreement (which was precluded under the TAA). There is no reference to relief in the form of a remission of interest under the TAA and accordingly, SARS further submitted, the VDP unit had no authority to grant such remission nor any duty to consider the request, which it believed was invalid. [Emphasis added.]
+
+[36]    Before dealing with Counsel’s submission, it is necessary to make some preliminary observations. SARS accepts that:
+
+(a) whilst the enactment of the TAA introduced significant changes to s 39 of the VAT Act, evincing an intention to repeal its interest-related provisions  
+86 SATC 158 at 181
+  and thereafter to regulate interest across all tax Acts, those related to s 39(7), however, have not taken effect as yet;
+(b) that the non-payment of VAT by Medtronic International was attributable to circumstances beyond the taxpayer’s control36 as envisaged in s 187(6) of the TAA. That much is accepted without question by SARS.
+
+[37]    The crux of SARS’s case is that when the TAA came into effect, it ‘gave rise to a permanent VDP relief statutory framework in respect of which interest is now excluded’. And that whilst s 39(7) of the VAT Act remains in force, it finds no application in respect of interest on outstanding VAT dealt with in terms of Chapter 16, Part B, of the TAA.
+
+[38]    For its part, Medtronic International submitted that this appeal, in essence, raises two issues to be determined. Firstly, whether Chapter 16, Part B and in particular ss 225–233 thereof ‘prohibit the remission of interest under s 39(7) of the Value-Added Tax Act once a VDP agreement has been concluded and fully implemented’. Secondly, whether notwithstanding the conclusion and implementation of a prior VDP agreement, SARS bears a statutory duty to consider and adjudicate a taxpayer’s request for remission of interest that had accrued in respect of outstanding VAT under s 39(7).
+
+[39]    In elaboration, Medtronic International advanced four principal contentions, namely:
+
+That notwithstanding the coming into effect of the TAA, s 39(7) still remains in force and is the only statutory provision in terms of which interest on late payment of VAT is levied;
+That Medtronic International’s liability for interest on its outstanding VAT debt arose from s 39(1) of the VAT Act;
+That what the VDP does is to provide a dispensation for errant taxpayers to regularise their tax affairs and does not by itself levy tax, interest or penalties for late payment of tax;
+
+  • That in refusing to even consider the request for remission, SARS is not consistent in its application of the TAA, as it has done so in relation to Pricewaterhouse Coopers, thereby treating taxpayers differently. And that by treating taxpayers differently, SARS’ conduct is inimical to the values underpinning the Constitution.
+
+[40]    In support of the last point mentioned in the preceding paragraph, Medtronic International placed great reliance on Pricewaterhouse Coopers  
+86 SATC 158 at 182
+Incorporated and Another v Minister of Finance and Another37 (PWC) where SARS had indeed considered a taxpayer’s request for remission of interest. There, SARS granted the remission of interest for the period pre-April 2010, where the requisite test was whether there was a loss to the fiscus, but refused the request for the post-April 2010 – where the focus of the factual enquiry was whether the failure to pay tax was due to circumstances beyond the taxpayer’s control. It is not necessary for present purposes to delve into the facts of PWC. Suffice it to state that in PWC the dispute revolved around the question whether SARS should also have granted remission of interest in respect of the post-April 2010 period. Simply put, the dispute was concerned with the application of the VDP1 programme. I mention it however, as what the PWC case illustrates that SARS did not consider itself to be functus officio, in relation to a request for interest to be remitted after the conclusion of a VDP agreement.
+
+Analysis
+
+[41]    In the view I take of this matter, the dispute between the protagonists can be resolved on a narrow basis. The core issue for present purposes hinges around the question whether SARS could lawfully refuse to even consider the request for remission and to thereafter take a decision in respect thereof. In this regard, it bears mentioning that Medtronic International relied on various grounds of review under PAJA. The main focus, however, was on s 6(2)(g) read with ss 6(3) and 8(2) of PAJA that regulate reviews where the administrator failed to take a decision.38
+
+[42]    Significantly, PAJA defines a ‘decision’ in s 1 thereof to mean:
+
+‘. . . any decision of an administrative nature made . . . including a decision relating to–
+
+. . .
+
+ (a) doing or refusing to do any other act or thing of an administrative nature, and a reference to a failure to take a decision must be construed accordingly.’
+
+
+[43]    It will be recalled, as already alluded to in paragraph 29 above, that SARS steadfastly refused to even entertain Medtronic International’s application for remission of interest and, as a result, did not consider and determine the application on its merits. This then raises the question as to whether SARS can lawfully do so. The answer to this question is not far to seek. It can be sourced  
+86 SATC 158 at 183
+from s 33 of the Constitution and PAJA, the latter being the legislative measure contemplated in s 33 of the Constitution.
+
+[44]    In its preamble, PAJA provides that it seeks to give effect ‘to the right to administrative action that is lawful, reasonable and procedurally fair . . . as contemplated in s 33 of the Constitution . . .’. Tellingly, s 33(3)(b) of the Constitution imposes a duty on the State in all its manifestations to give effect to the rights in ss 33(1) and 33(2) of the Constitution.39 Accordingly, the Commissioner’s refusal to consider and determine Medtronic International’s request altogether undermines one of the fundamental rights entrenched in the Bill of Rights which is the bedrock of our democratic order. Such conduct is inimical to the constitutional duty that SARS bears as an Organ of State in terms of which it must respect, protect, promote and fulfil the rights in the Bill of Rights as decreed in s 7(1), 7(2) and s 8(1) of the Constitution.40
+
+[45]    Counsel on both sides devoted much time in their respective heads of argument on the issue of whether s 39(7) finds application in circumstances where SARS and a taxpayer have concluded a VDP agreement that has subsequently been implemented. As already indicated above, Counsel advanced diametrically opposed contentions. However, I do not consider that for present purposes we are called upon to determine that issue. For now, all we are called upon to decide is whether SARS was justified in law to refuse to even consider Medtronic International’s request by virtue of such request having been made subsequent to the conclusion and implementation of the parties’ VDP agreement.
+
+[46]    In sum, the conclusion reached is that SARS bears a statutory duty buttressed by the Constitution to, at the very least, give consideration to the request and decide it on its own merits. This, SARS irrefutably refused to do. In these circumstances a review under s 6(2)(g) read with ss 6(3) and 8(2) of PAJA is warranted.
+
+[47]    To my mind, the overbreadth of Counsel’s contentions to the contrary and the resultant violence it does to the plain and unambiguous language of s 39(7) is self-evident. Nowhere does the VAT Act nor the TAA provide expressly or by necessary implication that a taxpayer (a vendor in the context of this case) who has entered into an agreement under the Voluntary Disclosure Programme is excluded from the benefit for which s 39(7) provides and, in particular, when such an agreement has been discharged through performance of the contractual obligations undertaken in terms of the contract.
+
+ 
+86 SATC 158 at 184
+
+[48]    Nevertheless, Counsel for SARS submitted, as I understood the thrust of his argument, that this is how both the VAT Act and TAA must be understood and construed. Failure to do so, Counsel emphasised, would have the effect of undermining the substratum of the parties’ Voluntary Disclosure Agreement whose central purpose was to settle, once and for all, Medtronic International’s liability to SARS and, in the result, regularise its tax affairs. This argument is unsustainable. It should never be lost from sight that this case is primarily concerned with statutory interpretation. The proper approach to statutory interpretation has already been restated in paragraph 33 above. Therefore, it suffices to reiterate that what we are confronted with in this appeal is the narrow issue of whether SARS was justified in steadfastly refusing to entertain the request for remission of interest altogether for the reasons it has advanced.
+
+[49]    That question has already been answered above. Consequently, nothing more need be said on that score save to say that if it was the Legislature’s intention to bring about this result, as Counsel for SARS contended, such an intention would have been clearly and indeed easily expressed. The Legislature’s omission to do so, notwithstanding its knowledge that s 39(7) was to remain as it currently stands in the VAT Act (to which it was alive because the as yet inoperative s 272(2) of the TAA will repeal s 39(7) when it finally takes effect), impels one to the conclusion that the Legislature was content to allow things to continue as before.
+
+[50]    To sum up, I am of the view that, at the very least, SARS was required to entertain the application for remission and to consider and adjudicate it on its merits. The question whether remission of interest should be allowed and, if so, to what extent, does not arise in this appeal. In any event, even if it did, deciding that issue would not be in our remit.
+
+[51]    If, in the alternative, as SARS argued, it did not refuse to consider the request, but did so, and rejected it, such decision-making process was unsound. In attempting to justify its refusal of the request, it referred to certain documents, which it contended, demonstrated the basis of its decision. SARS’ decision-making process would not pass muster according to the test referred to in Bel Porto School Governing Body and Others v Premier of the Western Cape Province and Another.41 The Constitutional Court held that ‘[b]oth courts and academic commentators have suggested that when examining whether or not a decision is justifiable, the decision-making process must be sound, and the decision must be capable of objective substantiation by examination of the facts and the reasons for the decision. Put another way, there must be a rational and coherent process that would tend to produce a reasonable outcome’.42
+
+[52]    The sole question with which we are seized has already been identified in paragraph 1 above, and whatever doubt there may have been surrounding that  
+86 SATC 158 at 185
+ssue is dispelled by the manner in which the issue has been formulated by Counsel on behalf of SARS. It is couched in the following terms:
+
+‘A single legal question lies at the heart of this matter: whether the Commissioner for SARS . . . may even consider a request for the remission of interest in terms of s 39(7)(a) of the VAT Act once a taxpayer has undertaken, in a VDP agreement, to pay such interest.’
+
+
+This statement unquestionably puts matters beyond doubt.
+
+[53]    In its notice of motion, Medtronic International sought an order reviewing and setting aside SARS’ initial decision refusing to consider and adjudicate its application for remission of interest and, also the second decision refusing to withdraw its initial decision. The conclusion reached in this judgment is that SARS’ refusal to consider the applications altogether is in breach of its constitutional duty for the reasons stated above. That the initial decision has been reviewed and set aside renders, in my view, SARS’ second decision refusing to withdraw the initial decision academic. Thus, this case is materially different from what obtained in Wings Park Port Elizabeth (Pty) Ltd v MEC Environmental Affairs, Eastern Cape and Others.43 There the court held that when an unfavourable decision at first instance is confirmed on appeal, it is necessary to take both decisions on review for the applicant to achieve success. This is because if only one decision is assailed, whether the one at first instance or on appeal, the other decision would remain intact.44
+
+[54]    Should this court itself then substitute its own decision? The final issue to consider is whether this court should itself do what SARS should have done, namely, consider the application on its merits and then adjudicate it, but obstinately refused to do. I think not. PAJA contemplates that a court reviewing and setting aside a decision of an administrator must, as a general rule, remit the matter to the decision maker for reconsideration. This is the default position.45 Only if the reviewing court is of the view that exceptional circumstances exist will it, itself, substitute its own decision for that of the decision maker. But the reviewing court can exercise this power only when it is just and equitable for the court to do so. This, the reviewing court will do if, in its opinion, it is in as good  
+86 SATC 158 at 186
+a position as the administrator to make the call or the decision of the administrator is a foregone conclusion. Other than that, judicial deference and the doctrine of separation of powers must predominate.
+
+[55]    It remains to record that I have had the advantage of reading the dissenting judgment of my colleague Goosen AJA. Suffice it to say that nothing said in that judgment impels me to reconsider my conclusion in regard to the outcome of this appeal.
+
+[56]    Before making the order I deem it necessary to mention that the expeditious finalisation of this judgment was delayed due to a concatenation of various factors that are unnecessary to traverse in this judgment. This delay is deeply regretted.
+
+[57]    In the result, the following order is made:
+
+The appeal is dismissed with costs, including the costs of two Counsel.
+
+Weiner AJA and Windell AJA concurred.
+
+GOOSEN AJA:  
+
+[58]    I have had the privilege of reading the judgment prepared by my colleague Petse DP (the main judgment). I am grateful to him for having traversed the facts and the background to the litigation. It is therefore not necessary for me to do so, save where particular aspects may need to be highlighted. I regret that I do not agree with the outcome proposed in the main judgment, and the reasoning underpinning it. In my view the appeal should succeed with costs and that a consequential order be made substituting the High Court order with one of dismissal of the application with costs.
+
+[59]    The main judgment decides the appeal upon a narrow basis. In essence, it decides that the Commissioner’s refusal to consider Medtronic International’s request for remission of interest after the conclusion of the Voluntary Disclosure Agreement was without justification in law. For this reason, the Commissioner’s decision must be set aside. This conclusion is reached, as the main judgment states, without having to determine the interpretation of the relevant provisions of the TAA contended for by the Commissioner.
+
+[60]    In my view, it cannot be found that the refusal to consider Medtronic International’s request for remission of interest is without justification in law, without deciding whether a request for remission may be made after conclusion of a Voluntary Disclosure Agreement. Such decision can only be made upon a proper interpretation of the relevant statutory provisions. If it is found that the TAA, read with s 39(7) of the VAT Act, entitles a taxpayer to request remission after conclusion of a Voluntary Disclosure Agreement, then (and only then) must the Commissioner’s decision be set aside. If, however, the effect of the conclusion of an agreement as to the outstanding tax liability precludes a request for remission of interest thereafter, then the Commissioner’s decision must stand, since it is lawfully justified.
+
+[61]    The declaratory order granted by the High Court plainly states that the Commissioner is obliged to consider and decide upon a request for remission of interest notwithstanding the conclusion of a Voluntary Disclosure Agreement. The High Court comes to this conclusion upon an interpretation of the relevant provisions. The main judgment endorses such an interpretation despite asserting that it is not necessary to decide upon the proper interpretation of the provisions.
+
+ 
+86 SATC 158 at 187
+
+[62]    I hold a different interpretation of the provisions of the TAA. In essence it is this:
+
+(a) The voluntary disclosure relief provided for in Part B of Chapter 16 of the TAA is directed to encourage and facilitate tax compliance by addressing the punitive consequences that ordinarily flow from non-compliance.
+(b) These provisions seek to ensure collection of tax revenue which is lawfully due to the fiscus, but which may otherwise remain unrecovered because of a lack of knowledge of the default on the part of the taxpayer.
+(c) The voluntary disclosure procedure does not, in principle, preclude simultaneous consideration of interest remission in terms of either s 39(7) of the VAT Act or s 187(6) of the TAA, albeit that different jurisdictional facts and criteria may apply.
+(d) The conclusion of the statutorily prescribed Voluntary Disclosure Agreement determines the tax liability of the taxpayer arising from the disclosed default. In accordance with the principles of the law of contract, both parties to the agreement are bound by its terms, subject only to the provisions of s 231 of the TAA. Both parties are bound by the determination of the amount of the tax debt. Liability for the payment of the tax debt, agreed between the parties, flows from the conclusion of the agreement.
+(e) Once a taxpayer agrees to the quantum of the tax debt arising from the disclosed default, there is no basis, statutory or otherwise, upon which the interest levied on the capital of the outstanding tax, and which is included in the tax debt, may be remitted.
+
+[63]    Regarding the first three propositions, I do not differ with the main judgment. They flow from the broad statement of the purpose of the Voluntary Disclosure Programme in both its initial and present iteration. Insofar as the third proposition is concerned, although I hold that view, it is not necessary, in this matter, to finally decide the issue because, on the facts of this case, it does not arise.
+
+[64]    When Medtronic International submitted its application for voluntary disclosure relief on 13 December 2017, it included a request for the remission of interest to be levied on the outstanding tax. It was, however, advised that the VDP Unit did not have the authority to waive interest. Medtronic International submitted an interim report to SARS, on 29 March 2018. It was prepared by Deloitte. Its attorneys, Webber Wentzel, made detailed submissions regarding the circumstances giving rise to the default and motivated a request for remission of interest. It did so in these terms:
+
+We submit that in considering an application under Part B of Chapter 16 of the TAA, the VDP Unit must consider the provisions of the entire VAT Act, including the whole of s 39 thereof. That would imply that if the VDP Unit can impose interest on VDP assessments in terms of s 39 (1) of the VAT Act, it can also exercise the Commissioner’s discretion in s 39(7), to waive such interest.
+We therefore request, as is required in terms of Interpretation Note 61, that the interest imposed be remitted in terms of s 39(7) of the VAT Act.’
+
+[65]    The reference to ‘VDP assessments’ in the paragraph quoted above is, as will become apparent, without foundation. What is important, however, is that Medtronic International was pursuing a fully motivated application for both  
+86 SATC 158 at 188
+voluntary disclosure relief pursuant to s 229 of the TAA and remission of interest in terms of s 39(7) of the VAT Act.
+
+[66]    It is common cause that the response to these submissions was that both sets of relief could not be sought. Medtronic International was given the option to pursue a request for remission of interest or its application for voluntary disclosure relief. Whether or not this response by SARS was lawful, or even procedurally or substantively fair, is irrelevant, since it was not an issue before the High Court or this court. It is common cause that Medtronic International elected to proceed with its application for voluntary disclosure relief in terms of s 229 of TAA. In doing so, it did not, as matter of fact, reserve its rights to pursue its remission of interest request. It participated in further negotiations regarding the voluntary disclosure relief and on 14 and 18 June 2018 it entered into Voluntary Disclosure Agreements (the VDA) for Medtronic Africa and Medtronic International, respectively.
+
+[67]    During the debate in this court, Counsel for Medtronic International submitted that its election to proceed with the voluntary disclosure relief (without reserving its right to later claim remission) did not preclude a subsequent request for remission of interest because the interest is levied in terms of s 39(7) of the VAT Act and not the VDA. As such, it is always open to a taxpayer faced with interest levied in terms of s 39(7) of the VAT Act to request remission.
+
+[68]    I do not agree. I turn now to the primary difference in interpretation. The contextual starting point is at the source of the liability for the payment of a tax debt. ‘Tax’, is defined by the TAA to include a tax, duty, levy, royalty, fee, contribution, penalty, interest and any other moneys imposed under a tax Act. A ‘tax debt’, as provided in s 169(1) of the TAA, is ‘an amount of tax due or payable in terms of a tax Act’. The determination of a ‘tax debt’ occurs by way of an assessment. This is a fundamental feature of the tax administration system. An ‘assessment’ means ‘the determination of the amount of a tax liability or refund, by way of self-assessment by the taxpayer or assessment by SARS’.46
+
+[69]    Chapter 8 of the TAA deals with assessments. Its provisions accord with similar provisions relating to assessments which occur in the Income Tax Act and the VAT Act, respectively. Section 91 of the TAA provides:
+
+If a tax Act requires a taxpayer to submit a return which does not incorporate a determination of the amount of a tax liability, SARS must make an original assessment based on the return submitted by the taxpayer or other information available or obtained in respect of the taxpayer.
+If a tax Act requires a taxpayer to submit a return which incorporates a determination of the amount of a tax liability, the submission of the return is an original self-assessment of the tax liability.
+If a tax Act requires a taxpayer to make a determination of the amount of a tax liability and no return is required, the payment of the amount of tax due is an original assessment.’
+
+[70]    The liability to pay a tax debt does not arise except by assessment of the liability by SARS or by the taxpayer, in the form of self-assessment. In the  
+86 SATC 158 at 189
+absence of such an assessment, liability, and the concomitant duty to pay, do not arise, even though at law the underlying tax obligation subsists. This applies also in respect of interest which may be levied upon overdue amounts, or penalties for non-compliance with statutory obligations.
+
+[71]    In this instance there are two interest levying provisions which are relevant. Section 187 of the TAA sets out general rules relevant to the calculation of the amount of interest payable on outstanding tax or penalties imposed in terms of a tax Act. Subsection 1 deals with tax other than income tax or estate duty. It stipulates that the interest is calculated from the effective date for the payment of the relevant tax. Interest is payable from the effective date to date of payment. The liability to pay the interest arises upon assessment.
+
+[72]    This is best illustrated by example. The liability for the payment of VAT generally arises by way of self-assessment. The registered vendor is required to submit a VAT return, for a specified tax period, in terms of s 28 of the VAT Act. In such a return, the vendor declares the value of goods or services supplied by them. This represents the amount of VAT collected by the vendor. Against this the vendor is entitled to deduct the amount of VAT paid by them to vendors from whom they procured goods or services. The nett amount constitutes the tax payable (or recoverable from SARS) by the vendor. Upon submission of the return, it constitutes an original assessment in terms of s 91(2) of the TAA. The tax debt, so assessed, is payable either on the 25th day of the month following the period of assessment, or on the last day of that month if the payment is made by electronic bank transfer.
+
+[73]    Section 39 of the VAT Act deals with the liability to pay penalties and interest. The section has been repealed by s 271 of the TAA, but the latter section has not yet come into operation in relation to s 39 of the VAT Act. Subsection (1) in its extant wording provides that the vendor,
+
+‘. . . shall, in addition to such amount of tax, pay–
+
+
+a penalty equal to 10 per cent of the said amount of tax; and
+where payment of the said amount of tax is made on or after the first day of the month following the month during which the period allowed for payment of the tax ended, interest on the said amount of tax, calculated at the prescribed rate (but subject to the provisions of s 45A) for each month or part of a month in the period reckoned from the said first day.’
+
+[74]    Interest is accordingly immediately payable, in effect, upon the assessment which determines liability for the payment of the tax. A similar set of provisions apply in relation to penalties which may be imposed upon a taxpayer for non-compliance with the provisions of a tax Act. The TAA sets out two categories of penalties.
+
+[75]    Chapter 15 deals with what are termed ‘administrative non-compliance penalties’. They are defined as being any penalty other than an ‘understatement’ penalty. The purpose of such penalties is to ensure the widest possible compliance with the tax statutes.47 It is not necessary to deal with the form that such penalties may take. It suffices to highlight that, in terms of s 214 of the TAA, a penalty is imposed by SARS issuing a ‘penalty assessment’ and that payment of the penalty is due upon assessment. The imposition of such penalty  
+86 SATC 158 at 190
+is subject to a set procedure, in which provision is made for requests for remission of the penalty, and an objection and appeal process.
+
+[76]    Chapter 16 deals with understatement penalties. An ‘understatement’ means any prejudice to SARS or the fiscus as a result of:
+
+ ‘(a) failure to submit a return required under a tax Act or by the Commissioner;
+
+ (b) an omission from a return;
+
+ (c) an incorrect statement in a return;
+
+ (d) if no return is required, the failure to pay the correct amount of ‘tax’; or
+
+ (e) an ‘impermissible avoidance arrangement’’.
+
+
+[77]    An understatement penalty, determined with reference to percentages set out in a table in s 223, is imposed in terms of s 222 of the TAA. It is subject to an objection and appeal process. It is imposed by assessment. Section 92 of the TAA provides that if SARS is at any time satisfied that an assessment does not reflect the correct application of a tax Act to the prejudice of SARS or the fiscus, it must issue an additional assessment to correct the prejudice.
+
+[78]    It is in this context that the provisions of Part B of Chapter 16 must be considered.48 The Voluntary Disclosure Programme, as the name suggests, is designed to facilitate the recovery of tax payable to the fiscus with the co-operation of recalcitrant or taxpayers who had defaulted on their tax obligations and thereby caused prejudice to the fiscus. The focus of the programme is to enable SARS to recover tax that it was not aware was due to it. The programme provides an inducement to delinquent taxpayers to regularise their tax affairs and to avoid the punitive consequences of their default.
+
+[79]    In order to benefit from the Voluntary Disclosure Programme, s 227 requires that the disclosure must:
+
+ ‘(a) be voluntary;
+
+ (b) involve a ‘default’ which has not occurred within five years of the disclosure of a similar ‘default’ by the applicant or a person referred to in s 226(3);
+
+ (c) be full and complete in all material respects;
+
+ (d) involve a behaviour referred to in column 2 of the understatement penalty percentage table in s 223;
+
+ (e not result in a refund due by SARS; and
+
+ (f) be made in the prescribed form and manner’.
+
+
+[80]    Section 226 sets out circumstances which would disqualify the application as not being ‘voluntary’. In essence, these criteria seek to ensure that the disclosure has not been induced by a process of investigation or audit of the affairs of the taxpayer.
+
+[81]    A ‘default’ is defined to mean the ‘submission of inaccurate or incomplete information to SARS, or the failure to submit information or the adoption of a ‘tax position’, where such submission, non-submission, or adoption resulted in an understatement’. Section 229 provides for relief that must be granted if the qualifying criteria are met. The relief is mandatory. SARS is obliged to grant indemnity from criminal prosecution, a full waiver of administrative penalties  
+86 SATC 158 at 191
+and a waiver of the understatement penalty that would otherwise be imposed as provided in the table set out in s 223 of the TAA.
+
+[82]    The mechanism by which the relief is granted is a mandatory agreement required by s 230. The agreement must set out the material facts of the ‘default’ on which the voluntary disclosure relief is based; the amount of the outstanding tax payable by the person; separately reflect the understatement penalty payable; the arrangements and dates for payment; and any relevant undertakings by the parties. Section 231 reserves to SARS the right to withdraw the relief if it is subsequently established that the taxpayer failed to disclose a matter that was material to the making of a valid voluntary disclosure application.
+
+[83]    The main judgment correctly observes that Part B of Chapter 16 does not contain a provision that a taxpayer is not entitled to seek a remission of interest in addition to the relief provided for in s 229. It holds that, in the absence of such provision, the Commissioner was not entitled to refuse to consider the application made by Medtronic International after the conclusion of the Voluntary Disclosure Agreement and is thus, obliged to consider it.
+
+[84]    In my view, this does not take account of the purpose of s 230, as well as the nature and effect of a Voluntary Disclosure Agreement. In every instance in which a liability to pay a tax debt is established, other than in the case of a voluntary disclosure, the amount of the tax debt is determined, and the tax debt becomes due and payable upon assessment. Such assessment is either by unilateral act by SARS based upon the submission of information by a taxpayer (eg an original assessment, or additional assessment or similar assessment), or it is by self-assessment by the taxpayer (eg by submission of a VAT return or other similar return required by the relevant tax statute).
+
+[85]    Important consequences attach to the assessment process. It is the mechanism by which a tax is levied or imposed. It renders the tax debt payable. It establishes liability for the payment of penalties, where imposed, and interest. In the latter case the assessed liability is the foundation upon which the calculation of interest occurs. As stated above, in the absence of an assessment a tax debt is not payable. Thus, in order to establish liability for the payment of a tax debt which flows from an understatement, and to render such debt due and payable (and therefore recoverable by SARS), something other than an assessment is required. The Legislature determined, for sound reasons, that the mechanism was to be an agreement – a contract entered between the taxpayer and SARS which is enforceable in the ordinary course as a contractual obligation. This is the principal purpose of the Voluntary Disclosure Agreement. There are two others.
+
+[86]    The second purpose is that it obviates the need for SARS to undertake a process of investigation and auditing of the affairs of a taxpayer so that it may be able to justify raising an assessment. The scheme of the TAA, and other tax Acts, provides that assessments raised by SARS are subject to an objection and appeal process. The reasons are obvious. An assessment raised by SARS necessarily involves the imposition of an obligation which has adverse legal effect on a taxpayer. A taxpayer is entitled to fair and just administrative conduct and to due process of law and is, therefore, entitled to challenge an assessment. Similar considerations do not apply in relation to self-assessments. There is no objection and appeal process, nor, logically, could there be such process in relation to self-assessments.
+
+ 
+86 SATC 158 at 192
+
+[87]    It is worth emphasising the basis upon which the tax debt is determined, with reference to the VDA concluded in this matter. It recorded that the amount of the outstanding tax was based solely upon the information disclosed by Medtronic International and that SARS had not independently verified the information. The agreement states that,
+
+ ‘4.1 Save for verifying the eligibility requirements pertaining to and the validity of the VDP application, the facts in relation to the default have not been verified by SARS during the VDP evaluation process in preparation for this Agreement.
+
+ 4.2 The amounts of tax, interest and penalties arising from the default have been calculated with reference to the facts disclosed in the VDP application’.
+
+
+[88]    The third purpose relates to the nature of a Voluntary Disclosure Programme. By its nature it proceeds from the starting point that SARS is not aware of the default giving rise to the prejudice suffered by the fiscus. The default cannot, until it is disclosed, be corrected and the prejudice caused thereby remedied by the collection of revenue which is due to SARS. In order to encourage taxpayers to disclose their default, they are provided with indemnity from the punitive consequences of the default. In addition, the taxpayer is assured that SARS will be bound by the outcome of the process. In this regard the Legislature chose a contract as the appropriate mechanism by which to protect the interests of both parties.
+
+[89]    In the light of these critical purposes served by the VDA, it is not open to a court to ignore the conclusion of a Voluntary Disclosure Agreement. The agreement is the centrepiece of the Voluntary Disclosure Programme. It serves as the basis upon which outstanding tax may be recovered in exchange for a waiver of punitive sanctions. The conclusion of the agreement is the culmination of a process of engagement between the taxpayer and SARS.
+
+[90]    In this case the VDA records, in clause 11, that it is the whole agreement. It records that no variation to any part of the agreement (which plainly includes the part that stipulates the amount of the tax debt) has any effect unless reduced to writing and signed by both parties. It also records that the agreement constitutes a legal, valid, binding and enforceable agreement on the parties.
+
+[91]    It is a well-established principle of our law of contract that due and proper recognition is given to the bargain struck between contracting parties. A party who agrees to payment of a debt cannot escape the obligation unless the agreement was induced by misrepresentation, error or fraud or some other recognised ground of repudiation.49
+
+[92]    In this case, no basis was advanced to suggest that the agreement was concluded in circumstances which would render it unenforceable. Nor, as I mentioned earlier, was it suggested that the amount of the interest included in the tax debt occurred under reservation of rights. Indeed, the case was not about the agreement and no relief was sought in relation to it, even though it is binding upon both Medtronic International and SARS, whose decision not to consider the request for remission of interest, Medtronic International sought to set aside.
+
+ 
+86 SATC 158 at 193
+
+[93]    The provisions of Part B of Chapter 16, properly interpreted, do not permit a taxpayer who has entered into a Voluntary Disclosure Agreement to seek a remission of interest, the amount of which was incorporated in the determined tax debt due, after the conclusion of the Voluntary Disclosure Agreement. To hold otherwise would undermine the legal consequences that attach to the conclusion of such agreement.
+
+[94]    In conclusion, it is necessary to return briefly to the interplay between an application for voluntary disclosure relief and a request for remission of interest in terms of s 39(7) of the VAT Act or s 187(5) of the TAA. They are separate forms of relief that a taxpayer may seek. Different criteria and considerations apply to each relief. The procedures may even be administered by separate units or subdepartments within SARS. None of this, however, alters the fact that the voluntary disclosure procedure involves the determination of a tax debt payable in consequence of a default. That determination necessarily includes the ‘capital’ of the outstanding tax and the interest payable in relation thereto. The Voluntary Disclosure Agreement is an agreement to pay the mutually agreed tax debt, in exchange for indemnity from punitive sanctions that would ordinarily apply.
+
+[95]    I earlier stated that the provisions relating to the Voluntary Disclosure Programme do not exclude consideration of remission of interest prior to determination of the tax debt. In this instance, Medtronic International did not pursue such relief. It was not open to it to do so after it had concluded the agreement. SARS therefore correctly refused to consider its request for remission of interest.
+
+[96]    For these reasons, I would uphold the appeal.
+
+Makgoka JA concurred.
+
+
+
+Footnotes
+1	 1 See Medtronic International Trading SARL v Commissioner for South African Revenue Service 83 SATC 281.
+2	 2 Section 1 defines a ‘vendor’ as meaning ‘any person who is or is required to be registered under this Act: provided that where the Commissioner has under section 23 or 50A determined the date from which a person is a vendor that person shall be deemed to be a vendor from that date;’. ‘Person’ in turn is defined to include ‘any public authority, any municipality, any company . . .’.
+3	  The nature of the relief will be discussed below.
+4	 Discussed in detail below. This is dealt with in Ch 16, Part B, ss 22–233 of the TAA.
+5	 ‘Default’ is defined in s 225 of the TAA as ‘the submission of inaccurate or incomplete information to SARS’ which resulted in an understatement.
+6	 Discussed in para [27] below.
+7	 The post-relief amount came to R457 670 112,74 made up of capital tax of R286 464 756,62 plus interest of R171 205 356,12.
+8	 SARS’s letter of 10 April 2018 authored by Ms Hannetjie Bothma and addressed to Ms Nina Keyser of Webber Wentzel, attorneys for Medtronic International reads:
+‘I have discussed your submissions in respect of interest with the senior manager. Qualifying relief in terms of VDP is outlined in section 229 of the Tax Administration Act. The waiver of interest will therefore not be considered under VDP.
+An option available to the applicant is to withdraw the VDP application and to approach normal branch operation to regularise its tax affairs. Kindly consider the options available and indicate whether the Applicant wish to continue with the application, or not. Your response by 16 April 2018 is awaited.’.
+9	 9 The Tax Administration Act provides for two categories of penalties, namely:
+ (i) administrative non-compliance penalty; and (ii) understatement penalty, the latter in terms of the understatement penalty percentage table set out in s 223(1) of the TAA.
+10	  The agreement also provided in clause 8.2 that any amount that remains outstanding after due date would attract interest as prescribed in terms of the TAA.
+11	 The total amount represented interest calculated over a five-year period of R171 205 356,12.
+12	Interpretation Note 61 was a written directive issued by SARS setting out, inter alia, how the provisions of the VAT Act in relation to remission of interest should be applied.
+13	 Commissioner for the South African Revenue Service v Capitec Bank Limited (94/2021) [2022] ZASCA 97; 85 SATC 311 para [44].
+14	Marshall NO and Others v Commissioner, South Africa Revenue Service 2019 (6) SA 246 (CC); 80 SATC 400.
+15	Ibid para [21].
+16	Premier Plastics v Commissioner, South Africa Revenue Service case number: 9726/2021 (28 July 2022).
+17	  S 232(2) reads:
+‘An assessment issued or determination made to give effect to an agreement under section 230 is not subject to objection and appeal.’.
+18	 S 9(1) provides:
+‘9 Decision or notice by SARS
+ (1) A decision made by a SARS official or a notice to a specific person issued by SARS under a tax Act, excluding a decision given effect to in an assessment or a notice of assessment that is subject to objection and appeal, may in the discretion of a SARS official described in paragraph (a), (b) or (c) or at the request of the relevant person, be withdrawn or amended by–
+ (a) the SARS official;
+ (b) a SARS official to whom the SARS official reports; or
+ (c) a senior SARS official.’.
+19	 19 Medtronic International Trading SARL v C:SARS 83 SATC 281.
+23	Notyawa v Makana Municipality and Others [2019] ZACC 43; 2020 (2) BCLR 136 (CC) para [38]; see also: Nedbank Ltd v Mendelow NO and Another [2013] ZASCA 98; 2013 (6) SA 130 (SCA) para [24].
+24	Grey’s Marine Hout Bay (Pty) Ltd and Others v Minister of Public Works and Others 2005 (6) SA 313 (SA) para [24] and the authorities therein cited, in particular, President of the Republic of South Africa and Others v South African Rugby Football Union and Others [1999] ZACC 11; 2000 (1) SA 1 para [141].
+25	  Sections 226, 227, 229 and 230 respectively provide:
+  S 226:
+‘Qualification of person subject to audit or investigation for voluntary disclosure
+ (1) A person may apply, whether in a personal, representative, withholding or other capacity, for voluntary disclosure relief.
+ (2) If the person seeking relief has been given notice of the commencement of an audit or criminal investigation into the affairs of the person, which has not been concluded and is related to the disclosed ‘default’’ the disclosure of the ‘default’ is regarded as not being voluntary for purposes of section 227, unless a senior SARS official is of the view, having regard to the circumstances and ambit of the audit or investigation, that–
+ (a) . . .
+ (b) the ‘default’ in respect of which the person has sought relief would not otherwise have been detected during the audit or investigation; and
+ (c) the application would be in the interest of good management of the tax system and the best use of SARS’ resources.
+ (3) A person is deemed to have been notified of an audit or criminal investigation, if–
+ (a) a representative of the person;
+ (b) an officer, shareholder or member of the person, if the person is a company;
+ (c) a partner in partnership with the person;
+ (d) a trustee or beneficiary of the person, if the person is a trust; or
+ (e) a person acting for or on behalf of or as an agent or fiduciary of the person, has been given notice of the audit or investigation.’
+  S 227:
+‘Requirements for valid voluntary disclosure
+The requirements for a valid voluntary disclosure are that the disclosure must–
+ (a) be voluntary;
+ (b) involve a ‘default’ which has not occurred within five years of the disclosure of a similar ‘default’ by the applicant or a person referred to in section 226(3);
+ (c) be full and complete in all material respects;
+ (d) involve a behaviour referred to in column 2 of the understatement penalty percentage table in section 223;
+ (e) not result in a refund due by SARS; and
+ (f) be made in the prescribed form and manner. 
+  Section 229:
+‘Voluntary disclosure relief
+Despite the provisions of a tax Act, SARS must, pursuant to the making of a valid voluntary disclosure by the applicant and the conclusion of the voluntary disclosure agreement under section 230–
+ (a) not pursue criminal prosecution for a tax offence arising from the ‘default’;
+ (b) grant the relief in respect of any understatement penalty to the extent referred to in column 5 or 6 of the understatement penalty percentage table in section 223; and
+ (c) grant 100 per cent relief in respect of an administrative non-compliance penalty that was or may be imposed under Chapter 15 or a penalty imposed under a tax Act, excluding a penalty imposed under that Chapter or in terms of a tax Act for the late submission of a return.’
+  Section 230:
+‘Voluntary disclosure agreement
+The approval by a senior SARS official of a voluntary disclosure application and relief granted under section 229, must be evidenced by a written agreement between SARS and the qualifying person who is liable for the outstanding tax debt in the prescribed format and must include details on–
+ (a) the material facts of the ‘default’ on which the voluntary disclosure relief is based;
+ (b) the amount payable by the person, which amount must separately reflect the understatement penalty payable;
+ (c) the arrangements and dates for payment; and
+ (d) relevant undertakings by the parties.’.
+26	  The prescribed rate of interest is determined in accordance with s 189 of the TAA.
+27	 Section 187(8) came into effect on 8 January 2016 and it provides:
+‘SARS may not make a direction that interest is not payable under subsection (6) after the expiry of three years, in the case of an assessment by SARS, or five years, in the case of self-assessment, from the date of assessment of the tax in respect of which the interest accrued.’.
+28	8 In essence, there were two categories of persons to whom voluntary disclosure relief applied. First, those who do without being aware of a pending audit for investigation by SARS and who were eligible for up to 100% remission of interest or, second, those in relation to whom an audit investigation was underway but has not yet been concluded who were eligible for remission of interest of up to 50% and no more.
+29	  Paragraph [4.3.2] of IN 61 described ‘circumstances beyond a person’s control’ as those that are generally external, unforeseeable, unavoidable or in the nature of an emergency, . . . as an accident, disaster, illness which resulted in the person being unable to make payment of the VAT due.
+30	Purveyors South Africa Mine Services (Pty) Ltd v Commissioner for the South African Revenue Services [2021] ZASCA 170; 2022 (3) SA 139 (SCA); 84 SATC 215.
+31	Ibid para [20].
+32	Natal Joint Municipal Pension Fund v Endumeni Municipality [2012] ZASCA 13; 2012 (4) SA 593 (SCA) para [18]; Road Traffic Management Corporation v Waymark Infotech (Pty) Ltd [2019] ZACC 12; 2019 (5) SA 29 (CC) paras [30]–[2]; Cool Ideas 1186 CC v Hubbard and Another [2014] ZACC 16; 2014 (4) SA 474 (CC) para [28]; 2019 (5) SA 1 (CC) para [29].
+33	Minister of Police and Others v Fidelity Security Services (Pty) Ltd [2022] ZACC 16; 2022 (2) SACR 519 (CC).
+34	Ibid para [34].
+35	 The relief is limited to the following:
+ 1.1 immunity from prosecution in respect of any tax offence arising from the default either under a tax Act or common law;
+ 1.2 reduction or waiver of the understatement penalty ordinarily payable;
+ 1.3 waiving certain administrative penalties.
+36	  SARS’s IN 61 explains circumstances beyond a person’s control thus: ‘Circumstances beyond a person’s control are generally those that are external, unforeseeable, unavoidable or in the nature of an emergency, such as an accident, disaster or illness which resulted in the person being unable to make payment of VAT due.’ And goes on to provide examples if circumstances that are generally considered to be beyond a person’s control as follow: ‘the following examples are generally not considered to be circumstances beyond the control of a person and would, accordingly, not qualify for a remission of interest:
+ • A person’s financial position.
+ • Failure to timeously initiate an EFT payment instruction to a financial institution.
+ • . . .
+ • Misconduct on the part of the person or any other person under the control or acting on behalf of that person.
+ • Negligence on the part of the person or any other person under the control or acting on behalf of that person.’
+37	 PricewaterhouseCoopers Inc and Another v Minister of Finance and Another [2021] ZAGPPHC 38; 2021 (3) SA 213 (GP); 83 SATC 253.
+38	 S 6(2)(g) reads as follows:
+‘A court or tribunal has the power to judicially review an administrative action if–
+ (g) the action concerned consists of a failure to take a decision; . . .’
+ S 6(3):
+‘If any person relies on the ground of review referred to in subsection (2)(g), he or she may in respect of a failure to take a decision, where–
+ (a) (i) an administrator has a duty to take a decision;
+   . . .
+ (iii) the administrator has failed to take that decision, institute proceedings in a court or tribunal for judicial review of the failure to take the decision on the ground that
+. . .’
+  S 8(2):
+‘The court or tribunal, in proceedings for judicial review in terms of section 6(3), may grant any order that is just and equitable, including orders–
+ (a) directing the taking of the decision . . .’.
+39	  Subsections 1 and 2 read:
+‘33 Just administrative action
+ (1) Everyone has the right to administrative action that is lawful, reasonable and procedurally fair.
+ (2) Everyone whose rights have been adversely affected by administrative action has the right to be given written reasons.’.
+40	  S 7 reads:
+ ‘(1) This Bill of Rights is a cornerstone of democracy in South Africa. It enshrines the rights of all people in our country and affirms the democratic values of human dignity, equality and freedom.
+ (2) The state must respect, protect, promote and fulfil the rights in the Bill of Rights.’ S 8(1) provides: ‘The Bill of Rights applies to all law, and binds the legislature, the executive, the judiciary and all organs of state.’.
+41	 Bel Porto School Governing Body and Others v Premier of the Western Cape Province and Another [2002] ZACC 2; 2002 (3) SA 265 (CC); 2002 (9) BCLR 891.
+42	 Ibid para [165]; Minister of Home Affairs and Others v Scalabrini Centre, Cape Town and Others [2013] ZASCA 134; 2013 (6) SA 421 (SCA); [2013] 4 All SA 571 (SCA); Chairman of the State Tender Board v Digital Voice Processing (Pty) Ltd, Chairman of the State Tender Board v Sneller Digital (Pty) Ltd and Others [2011] ZASCA 202; 2012 (2) SA 16 (SCA); [2012] 2 All SA 111 (SCA).
+43	 Wings Park Port Elizabeth (Pty) Ltd v MEC Environmental Affairs, Eastern Cape and Others 2019 (2) SA 606 (ECG).
+44	 See ibid para [34]. See also MEC for Health Eastern Cape and Another v Kirland Investments (Pty) Ltd t/a Eye & Laser Institute [2014] ZACC 6; 2014 (3) SA 481 (CC) paras [105]–[106]. Compare Sewpersadh v The Minister of Finance and Another [2019] ZASCA 117; [2019] 4 All SA 668 (SCA) para [20].
+45	  See s 8(1)(c)(ii) of the PAJA which is headed ‘Remedies in proceedings for judicial review’ and reads:
+ ‘(1) The court or tribunal, in proceedings for judicial review in terms of section 6(1), may grant any order that is just and equitable, including orders–
+  . . .
+ (c) setting aside the administrative action and–
+ (i) remitting the matter for reconsideration by the administrator, with or without directions.’ See also in this regard Trencon Construction (Pty) Limited v Industrial Development Corporation of South Africa Limited and Another [2015] ZACC 22; 2015 (5) SA 245 (CC); paras [34]–[45] and the cases therein cited.
+46	  Section 1 of the TAA.
+47	 S 209 of the TAA.
+48	 See Commissioner of the South African Revenue Service v United Manganese of Kalahari (Pty) Ltd 2020 (4) SA 428 (SCA) para [8]; 82 SATC 444 at 450.
+49	 See Barkhuizen v Napier [2007] ZACC 5; 2007 [7] BCLR 601 (CC); 2007 (5) SA 323 (CC) paras [65], [66], [70] and [87].
+
+
+End of Document

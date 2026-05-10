@@ -1,0 +1,181 @@
+South African Local Government Association v Commission for Conciliation Mediation and Arbitration and others [2020] JOL 48119 (LC)
+
+
+
+
+
+
+
+
+
+
+
+THE LABOUR COURT OF SOUTH AFRICA, JOHANNESBURG
+
+
+
+
+
+
+In the matter between:
+Not Reportable Case no: JR 1603/17
+
+
+SOUTH AFRICAN LOCAL
+GOVERNMENT ASSOCIATION	Applicant
+
+and
+
+COMMISSION FOR CONCILIATION
+MEDIATION AND ARBITRATION	First Respondent
+
+EVAH NGOBENI N.O.	Second Respondent SIYABONGA KHANYILE		Third Respondent
+MN GASANT	Fourth Respondent
+
+
+Heard:	07 July 2020 (via zoom)
+Delivered:  This judgment was handed down electronically by circulation to the parties' legal representatives by email, publication on the Labour Court’s website and released to SAFLII. The date and time for hand-down is deemed to be 10h00 on 13 August 2020.
+Review application – constructive dismissal – de novo determination of the jurisdictional issue whether the employee was constructively dismissed – grievance procedure cannot be futile and must be followed.
+
+
+
+
+JUDGMENT
+
+NKUTHA-NKONTWANA, J
+
+Introduction
+
+This is a review application in terms of section of 145(1)(a) of the Labour Relations Act1 (LRA), in terms of which the Applicant, South Africa Local Government Association (SALGA)), is challenging the arbitration award issued by the Second Respondent, Ms Evah Ngobeni (Commissioner) on 19 October 2018, with case number GAEK8145/17, under the auspices of the First Respondent, the Commission for Conciliation Mediation and Arbitration (CCMA).
+The third respondent, Mr Siyabonga Khanyile (Mr Khanyile), is the only respondent opposing the application.
+Factual background
+
+Mr Khanyile commenced his employment with SALGA on 15 April 2016 as a Payroll Officer. His duties included the processing of payment claims submitted by Councillors from all the provincial offices of SALGA. Mr Ntuthuko Ndlela (Mr Ndlela), Manager: OPEX Accounting, was his immediate supervisor.
+Mr Khanyile was not content with the manner in which SALGA processed and paid claims by Councillors. It was his evidence during the arbitration proceedings that in one instance, two councillors, Mr Lieba and Mr Mahasha, had submitted allowance claims for attending meetings which exceeded the statutory daily limit of R962.00 per day in terms of the Remuneration of the Public Office-Bearers Act,2 which apparently is applicable regardless of the number of meetings a councillor attends. According to Mr Khanyile, in spite of the alleged irregularity, he was instructed by Mr Ndlela to effect the payments.
+
+
+
+
+1 Act 66 of 1995, as amended.
+2 Act 20 of 1998.
+
+
+In another instance, Mr Khanyile noticed that another councillor, Mr Van Heerden, had been overpaid by SALGA. He initiated a process to recover the overpaid monies from Mr Van Heerden. Furthermore, Mr Khanyile questioned a number of claims which had not been signed by the claiming councillors but had instead been signed by the Project Managers on behalf of the respective councillors. Notwithstanding, he testified that Mr Ndlela instructed him to effect payment of those claims.
+It would seem that the high water mark of Mr Khanyile’s case is the derision by Mr Thabo Legalamitlwa (Mr Legalamitlwa), the Project Manager: Finance and Administration from the Northern Cape, on 17 June 2016. Mr Khanyile had received the claim forms from the Northern Cape that were signed by the Project Manager on behalf of the claimants who were councillors. He queried the claim forms with one, Mr Nkosana. Mr Legalamitlwa responded in an email dated 17 June 2016 which was carbon copied to various recipients wherein he scornfully criticised Mr Khanyile’s query and insinuated that Mr Khanyile lacked common sense. Mr Ndlela reprimanded Mr Legalamitlwa for the manner in which he addressed Mr Khanyile and echoed his (Mr Khanyile’s) sentiments that it was irregular for the Project Managers to sign the councillors’ claim forms.
+Mr Legalamitlwa immediately apologised but his apology was outrightly rejected by Mr Khanyile in an email dated 19 June 2016. Mr Khanyile lodged a grievance against Mr Legalamitlwa. The grievance hearing was held on 19 July 2016 and presided over by an independent external chairperson who was appointed by SALGA. On 26 July 2016, the chairperson issued the outcome wherein a sanction of a verbal warning was recommended against Mr Legalamitlwa. SALGA accepted the recommendation and Mr Legalamitlwa was given a verbal warning, which was valid for a period of six months. Mr Khanyile was discontented by the outcome of the grievance hearing. He referred a dispute to the CCMA which he later withdrew on 9 September 2016.
+Mr Khanyile’s complaints between September 2016 and January 2017 are derivative, involving the processing of a claim, which he alleged to be irregular. It was Mr Khanyile’s evidence that sometime in September he was instructed to pay a claim that was submitted on behalf Mr Ratalaga, a counsellor and friend
+
+
+of Mr Nceba Mqoqi (Mr Mqoqi), the Chief Financial officer (CFO). The claim form was not signed by the claimant and there was no proof that the counsellor had authorised changes to his banking details. In October 2017, Mr Khanyile was instructed to pay claims that had been authorised by the CFO and to pay for one counsellor’s trip abroad without proof.
+In November 2016, irregular claims continued and My Khanyile was instructed to effect payment, nonetheless. In January 2017, Mr Khanyile received a claim without supporting documents from Mr Neethling, a councillor, without supporting documentation and no signature by the claimant. He was instructed to effect payment because Mr Neethling was close to the CFO and the Chief Executive Officer (CEO), Mr Xolile George (Mr George). Mr Khanyile was also opposed to the instruction to pay for approved bursaries directly into the officials’ bank accounts as opposed to the academic institutions in which they were registered.
+Another complaint by Mr Khanyile was that he was often reminded that he was still on probation and he had to comply with instructions. Under cross examination, Mr Khanyile conceded that the CFO was the accounting officer and, as such, he was answerable for the claims and the payments he had authorised.
+Mr Khanyile testified that he felt ignored and the culture of irregular payments was affecting his work because the audit process commenced at the point where the transaction originated. The fact that the transactions that he complained about had been honoured did not render the instructions reasonable and he only complied because the management pressurised him. However, he conceded that there would not have been any consequences attributed to him in the event the impugned transactions were found to have been irregular.
+Apparently, at the time of his resignation, none of the managers were talking to him. He was adamant that he could not have followed the internal processes because both the CEO and the CFO were also implicated in the indiscretions that led to his resignation.
+
+
+On 1 February 2017, Mr Khanyile tendered his resignation. On 6 February 2017, he referred an unfair dismissal dispute to the CCMA, claiming that he was dismissed as contemplated by section 186(1)(e) of the LRA (constructive dismissal).3 The matter was set down for conciliation after which a certificate of non-resolution was issued after the parties failed to resolve the matter and progressed to arbitration; hence the impugned award.
+The Commissioner found that Mr Khanyile had been constructively dismissed and ordered that SALGA pay Mr Khanyile compensation equivalent to ten months’ salary. The Commissioner took a view that:
+‘If he [Mr Khanyile] stayed with the respondent [SALGA], it would have implied that he got himself accustomed to the manner in which claims are paid. As a person that created the claims, an audit query will be directed to him. The results of his resignation are such that he could not subscribe to maladministration of funds based on his values and principles. Having considered this, I find that the conduct of the respondent made continued employment unbearable. Therefore, the applicant discharged the onus that his resignation amounts to constructive dismissal.’4
+Legal principles and application
+
+It is well accepted that in a case of constructive dismissal, the enquiry turns on the jurisdiction of the CCMA as established by the Labour Appeal Court (LAC) in Solid Doors (Pty) Ltd Commissioner Theron and Others,5 where it was held:
+‘Having established what the requirements are for a constructive dismissal, it is necessary to make the observation at this stage of the judgment that the question whether the employee was constructively dismissed or not is a jurisdictional fact that - even on review - must be established objectively. That is so because if there was no constructive dismissal - the CCMA would not have the jurisdiction to arbitrate. A tribunal such as the CCMA cannot give itself jurisdiction by wrongly finding that a state of affairs necessary to give it jurisdiction exists when such state of affairs does not exist. Accordingly, the
+
+3 Section 186(1)(e) provides that: ‘Dismissal means that - … an employee terminated employment with or without notice because the employer made continued employment intolerable for the employee’.
+4 See: Arbitration award at page 16 para 24.
+5 (2004) 25 ILJ 2337 (LAC) at para 29.
+
+
+enquiry is not really whether the commissioner's finding that the employee was constructively dismissed was unjustifiable. The question in a case such as this one - even on review - is simply whether or not the employee was constructively dismissed. If I find that he was constructively dismissed, it will be necessary to consider other issues. However, if I find that he was not constructively dismissed, that will be the end of the matter and the commissioner's award will stand to be reviewed and set aside.’ (Emphasis added)
+It follows, as stated in HC Heat Exchangers (Pty) Ltd v Araujo and Others,6 that ‘where the issue to be considered on review is about the jurisdiction of the CCMA or bargaining council, it is not about a reasonable outcome. What happens is that the Labour Court is entitled, if not obliged, to determine the issue of jurisdiction on its own accord… In doing so, the Labour Court determines the issue de novo in order to decide whether the determination by the arbitrator is right or wrong’. There is no controversy in this regard as the parties accept that this Court is enjoined to determine, de novo, whether Mr Khanyile was constructively dismissed. As such nothing turns on the fact that SALGA pleaded unreasonableness as the applicable test.
+The test for constructive dismissal has been set out in a number of authorities and, as mentioned in Solid Doors,7 there are three requirements for constructive dismissal to be established and they are that:
+‘…The first is that the employee must have terminated the contract of employment. The second is that the reason for termination of the contract must be that continued employment has become intolerable for the employee. The third is that it must have been the employee's employer who had made continued employment intolerable. All these three requirements must be present for it to be said that a constructive dismissal has been established. If one of them is absent, constructive dismissal is not established. Thus, there is no constructive dismissal if an employee terminates the contract of employment without the two other requirements present. There is also no constructive dismissal if the employee terminates the contract of employment
+
+
+
+
+6 [2020] 3 BLLR 280 (LC) at paras 35 to 39.
+7 Supra n 4 at para 28.
+
+
+because he cannot stand working in a particular workplace or for a certain company and that is not due to any conduct on the part of the employer.’8
+Put differently, as held by the LAC in National Health Laboratory Service v Yona and Others,9
+‘…a constructive dismissal occurs when an employee resigns from employment under circumstances where he or she would not have resigned but for the unfair conduct on the part of the employer toward the employee, which rendered continued employment intolerable for the employee…The test for proving a constructive dismissal is an objective one. The conduct of the employer toward the employee and the cumulative impact thereof must be such that, viewed objectively, the employee could not reasonably be expected to cope with. Resignation must have been a reasonable step for the employee to take in the circumstances.’ (Emphasis added)
+It is of no consequence that the employee should have had no choice but to resign to avail himself to a claim of constructive dismissal, but only that the employer should have made continued employment intolerable.10 In essence, resignation should have been a reasonable step to escape the intolerable working environment.
+Tuning to the present case, the mainstay of Mr Khanyile’s case is the conduct of Mr Legalamitlwa whom he accused of violating his dignity. He still blamed that incident for the alleged intolerability that led to his resignation. However, as stated above, Mr Khanyile availed himself to the recourse of lodging a grievance, a process that was independently facilitated, and referred a dispute to the CCMA after rejecting the recommendation of the chairperson of the grievance enquiry. That process concluded in September 2016, when he withdrew the CCMA dispute.
+
+
+
+
+
+8 See: Conti Print CC v Commission for Conciliation, Mediation and Arbitration and Others 2015] 9 BLLR 865 (LAC) at paras 7 to 9.
+9 (2015) 36 ILJ 2259 (LAC) at para 30; see also Bakker v Commission for Conciliation, Mediation and Arbitration and Others (JR1078/14) [2018] ZALCJHB 13; [2018] 6 BLLR 597 (LC); (2018) 39 ILJ 1568
+(LC) at paras 5 to 16.
+10 See: Strategic Liquor Services v Mvumbi NO and Others (2009) 30 ILJ 1526 (CC) at para 4.
+
+
+During the hearing of this matter, I invited Mr Somo, Mr Khanyile’s counsel, to indicate as to what was the incident that triggered Mr Khanyile’s decision to tender his resignation after September 2016. It is apparent from the supplementary written submissions that Mr Khanyile’s main qualm was the instructions from his superiors to facilitate the payments either to councillors or staff members that he thought were unlawful. However, there was no evidence led as to why the said payments were unlawful and even if they were unlawful, how did effecting these payments make his continued employment intolerable.
+What is clear from the record, however, is that Mr Khanyile is resolute and unafraid to assert his rights. He did not hesitate to confront Mr Legalamitlwa’s disdain by following the internal grievance process. SALGA did not cry off his request and for fairness, contracted an external person to facilitate the grievance. Oddly, Mr Khanyile failed to invoke the same process to impugn the allegedly unlawful instructions by his superiors, particularly the CEO and CFO.
+To deal with this difficulty, Mr Somo submitted that since the CEO and CFO were also implicated in Mr Khanyile’s complaint, the grievance procure would not have been effective or could have been an exercise in futility. I do not concur. When Mr Khanyile was specifically asked during cross examination as to why he did not report the conduct of his superiors, which he alleged amounted to ‘corruption and maladministration’, in terms of the whistleblowing procedures at least, he responded as follows:11
+‘If I reported it, would be protected disclosure. So, I can’t answer to that question. What I am saying is that I did everything that I could, even the CFO is the last person at SALGA – he was the one who was pushing for all the reasons that I have said. You can’t go to the culprit and say: This is what you are doing…
+…they know the matter is pending before the Public Protector. I have done everything. With the internal processes there was nowhere to go, because the CFO was also – CEO, MR XOLILE GEORGE AND MR CEBA MAKOTO were
+
+
+
+
+11 See: Transcribed record page 339 lines 6 - 23; and 340 lines 12 - 22.
+
+
+involved, the Public Protector is investigating the allegations, and so I have done everything that I could.’
+Obviously, Mr Khanyile muddled the issues. To the extent that he was adamant that the alleged corrupt activities made his continued employment intolerable, he ought to have afforded SALGA and implicated officials an opportunity to address his complaints. He failed to do so because he perceived his superiors as culprits and perpetrators of corruption. Even so, he could not explain his failure to avail himself to the internal protected disclosure procedure given the nature of his complaints, a recourse he was obviously aware of; and had already explored externally by approaching the Public Protector. In Johnson v Rajah NO and Others,12 referred to with approval in HC Heat Exchangers,13 it was stated that:
+‘The Courts made it clear that an employer should be made aware of the alleged intolerable conditions and be afforded an opportunity to address and rectify it. An employee cannot merely resign and claim constructive dismissal while other options are available and as I already alluded to the test is whether a reasonable alternative existed. An employee cannot resign without affording the employer an opportunity to rectify the causes of his or her complaints and successfully claim constructive dismissal.’
+Mr Khanyile concedes further that he was enjoined by the grievance procedure to discuss his grievance with his immediate supervisor as a first port of call and, if not successfully resolved, then be escalated the next level of management. Nonetheless, given the fact that a practice had been established when SALGA contracted the services of an external chairperson to facilitate his grievance against Mr Legalamitlwa, the complaint about the structural bias has no merit. In my view, a grievance hearing facilitated by an external person could have addressed Mr Khanyile’s misgivings about its expediency. It is instructive that no formal grievance had been lodged at all. I accordingly agree with Mr July, who appeared for SALGA, that it does not avail Mr Khanyile to belatedly punch holes in a process that he deliberately shunned.
+
+
+12 (JR33/15) [2017] ZALCJHB 25 (26 January 2017) at para 74.
+13 Supra n 5 at para 54.3.
+
+
+In HC Heat Exchangers14 it was emphasised that:
+
+‘…where there is a grievance process available to the employee which would, if applied, resolve the cause of complaint, the employee must follow it. If the employee does not follow it, the employee cannot as a matter of principle claim constructive dismissal, unless the employee proves that there exists truly exceptional circumstances that may serve to absolve the employee from this obligation. And for the employee to subjectively claim that he or she has no confidence in the grievance outcome or that the employer would not reform, cannot suffice as such exceptional circumstances.’
+To my mind, Mr Khanyile failed to show that the employment relationship had become so intolerable that there was no reasonable option other than to tender his resignation.
+Conclusion
+
+In all the circumstances, I am satisfied that the Commissioner misconstrued the nature of the enquiry and incorrectly robed herself with the jurisdiction which she did not have. The award accordingly stands to be reviewed and set aside.
+There is no need to remit the matter back to the CCMA given the conclusion that I have arrived at. As such, the award stands to be reviewed and set aside and to be substituted with an order that Mr Khanyile failed to prove that he was dismissed as contemplated in terms of section 186(1)(e) of the LRA and consequently, the CCMA had no jurisdiction to entertain the dispute.
+Costs
+
+Both parties did not pursue costs prudently so, as the circumstances of this case dictate that the parties should pay their own costs.
+In the premises, I make the following order:
+
+
+
+
+
+
+
+
+14 Supra n 5 at para 54.
+
+
+Order
+
+The arbitration award issued by the Commissioner under case number GAEK8145/17, dated 19 October 2018 is reviewed and set aside and replaced with the following order:
+
+Mr Khanyile failed to prove that he was dismissed as contemplated in terms of section 186(1)(e) of the LRA.
+
+The CCMA has no jurisdiction to entertain the dispute.
+
+
+There is no order as to costs.
+
+
+
+P. Nkutha-Nkontwana Judge of the Labour Court of South Africa
+
+
+Appearances:
+
+For the Applicant:	Mr S July form Werkmans Inc. For the First Respondent:	Advocate D Somo
+Instructed by:	Legal Aid South Africa, Durban Local office.

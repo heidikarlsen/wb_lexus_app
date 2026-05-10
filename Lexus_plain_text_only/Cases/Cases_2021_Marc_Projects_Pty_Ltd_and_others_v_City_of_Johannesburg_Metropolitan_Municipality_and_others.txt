@@ -1,0 +1,587 @@
+
+
+
+
+Marcé Projects (Pty) Ltd and others v City of Johannesburg Metropolitan Municipality and others [2021] JOL 53175 (GJ)
+Judgments Online
+
+Division: Gauteng, Johannesburg 
+Case No: 33291 / 2019
+Hearing Date(s): 18–19 / 03, 28 / 05, 22–23 / 10 / 2020
+Date Revised: 12 / 04 / 2021Judgment Date(s): 29 / 03 / 2021
+Bench: T Siwendu J
+
+
+Keywords
+
+
+Constitutional and Administrative Law — Procurement — Irregularity in procurement process — Just and equitable remedy
+
+Mini Summary
+
+
+The first respondent (“the City”) obtained 92 fire engines and rescue vehicles from the second respondent (“TFM”) in 2019. The procurement involved a deviation in terms of Regulation 36(1)(a)(i) and (v) of the Municipal Supply Chain Management Regulations 2005 (the MSCM Regulations). Following a review application by the applicants, the court declared the tender process, the decision to award the tender, and the subsequent contract between the first respondent and the second respondent unlawful and constitutionally invalid. The declaration of invalidity was suspended pending the determination of a just and equitable remedy. The present application concerned the determination of such just and equitable relief under section 172(1)(b) of the Constitution, read with section 8(1) of the Promotion of Administrative Justice Act 3 of 2000.
+
+Held that the structure for determining just and equitable relief finds expression in section 172(1)(b) of the Constitution read with section 8(1) of the Promotion of Administrative Justice Act 3 of 2000. Case law referred to by the court established that the purpose of a public law remedy is to pre-empt or correct or reverse an improper administrative function – that is to afford the prejudiced party administrative justice, to advance efficient and effective public administration compelled by constitutional precepts and at a broader level, to entrench the rule of law. Such corrective principle must be applied to correct the wrongs that led to the declaration of invalidity in the particular case. In the context of public-procurement matters generally, priority should be given to the public good. That means that the public interest must be assessed not only in relation to the immediate consequences of invalidity but also in relation to the effect of the order on future procurement. Any invalidation of an existing contract as a result of the invalid tender should not result in any parry benefitting therefrom.
+
+Section 8(1) of the Promotion of Administrative Justice Act provides that the court, may after setting aside the administrative action, remit the matter for reconsideration (with or without directions); or in exceptional cases, substitute or vary or correct the defect resulting from the administrative action; or provide a compensatory relief. In the context of self-review, authorities reveal two categories of cases, namely where a tenderer, acting in good faith, takes the State’s assurances as of the lawfulness of the contract at face value to its detriment on the one end, and where the tender is vitiated by corruption, fraud and fronting on the other. The court is enjoined to consider all the interests implicated and the impact of the irregularity. The question of the honest exercise of the statutory function is material to the determination of the remedy.
+
+The order fashioned by the court extended an earlier declaration of invalidity and set out the entitlement of the City to the vehicles procured.
+
+ 
+[2021] JOL 53175 (GJ) at 2
+
+
+
+
+Introduction
+
+[1]    On 5 July 2019, the first respondent purported to procure 92 fire engines and rescue vehicles colloquially referred to as "the red fleet" from the second respondent, TFM Industries (Pty) Ltd, for R582 991 957,22 (excluding VAT) through a deviation in terms of regulation 36(1)(a)(i) and (v) of the Municipal Supply Chain Management Regulations 2005 ("the MSCM Regulations").1
+
+[2]    Following a review application by the applicants, on 2 June 2020, I declared: 
+
+the tender process, 
+the decision to award the tender, and 
+the subsequent contract between the first respondent and the second respondent unlawful and constitutionally invalid. 
+
+The declaration of invalidity was suspended pending the determination of a just and equitable remedy.
+
+[3]    This application concerns a determination of a just and equitable relief under section 172(1)(b) of the Constitution of the Republic of South Africa, 1996 ("the Constitution"),2 read with section 8(1) of the Promotion of Administrative Justice Act 3 of 2000 ("the PAJA"), following the order referred to above.
+
+ 
+[2021] JOL 53175 (GJ) at 3
+
+[4]    The first applicant, Marcé Projects (Pty) Ltd, is a company incorporated in terms of the laws of the Republic of South Africa with its principal place of business at 1012 Ergon Road, Lyttleton Manor, Centurion. The second applicant is Marcé Firefighting Technology (Pty) Ltd, a company associated with the first applicant. Both are collectively referred to as "Marcé" throughout the judgment.
+
+[5]    The first respondent is the City of Johannesburg Metropolitan Municipality, a metropolitan municipality as defined by section 1 of the Local Government: Municipal Systems Act 32 of 2000, with its principal place of business at 158 Civic Boulevard, Braamfontein, Johannesburg. It was first represented by Mr Mogashoa, the Group Head: Legal and Contracts Department, who deposed to the affidavits opposing the review application.3 The first respondent will be referred to as "the City" throughout the judgment.
+
+[6]    The second respondent is TFM Industries (Pty) Ltd ("TFM"), a private company whose registered address is at 33 Industry Road, Clayville Industrial, Olifantsfontein. It is the beneficiary of the unlawful and constitutionally invalid tender and award. Even though Marcé sought no relief directly against TFM, save in the event of opposition, TFM opposed the review application in affidavits deposed to by Mr Mlonzi (in his capacity as a director of TFM).4
+
+[7]    The third respondent is the Executive Mayor of the City, Mr Makhubo, who was joined in the proceedings in terms of this Court's order of 18 March 2020.
+
+[8]    Fire Raiders (Pty) Ltd is an intervening party and the third applicant. It is a private company and a designer, manufacturer, and supplier of fire engines and water tanks conducting its business from 26 Serenade Road, Rustivia, Germiston. It will be referred to as "Fire Raiders" throughout the judgment. On 18 March 2020, following an application, which was not opposed, I granted it leave to intervene in the review application.
+
+ 
+[2021] JOL 53175 (GJ) at 4
+
+[9]    Marcé, TFM, and Fire Raiders are competitors in the fire engine, rescue, and fleet maintenance market. They are acquainted with each other's businesses. They have jointly and individually conducted business with the City. In 2019, Marcé was appointed by the City through a deviation process to provide breakdown, repair, and roadside assistance for 40 of the City's fire and rescue vehicles for a period of 12 months. In 2018, Fire Raiders supplied five fire engines to the City's Emergency Management Services ("EMS") Department. TFM, on the other hand, was established in 1966 and claims to be the largest specialised body builder in Southern Africa, with a diverse product range as well as relationships with leading international agencies in waste, construction, fire, and emergency management services. As will appear in the judgment, part of the complaint by Fire Raiders is that TFM is not an original equipment manufacturer ("OEM") of fire engines, but a well-known manufacturer of waste trucks, and that it was not equipped to meet the requirements of the tender awarded to it by the City.
+
+[10]    I pause to mention that Fire Raiders went into business rescue at a time when it had a contract (also procured through a deviation process) to provide fire engines to the City. It appears that at some point, TFM engaged with the Business Rescue Practitioners of Fire Raiders to acquire the business, but elected not to due to the input costs required.
+
+[11]    The adjudication of the review application was preceded by an urgent application launched by Marcé on 29 October 2019 before Modiba J. Marcé claimed to have obtained information through social media, Twitter, published by the City on 23 September 2019. The feed reported that the City was about to "roll-out", and expected delivery of the fire engines which were the subject of the impugned tender process. Expected delivery was reported as the end of November 2019.
+
+[12]    On 18 November 2019, Marcé successfully obtained an interdict preserving the status quo. In the urgent court proceedings, Mr Mlonzi (on behalf of TFM), rebuffed the allegations of unlawfulness and irregularity as misguided and false. Modiba J restrained and interdicted the City and TFM from executing and implementing the contract pending this review. TFM sought to appeal the order and simultaneously applied under subsections 18(2)–(3) of the Superior Courts Act 10 of 2013 for the suspension of the operation and execution of the interdict, pending the outcome of its application  
+[2021] JOL 53175 (GJ) at 5
+for leave to appeal and a potential petition to the Supreme Court of Appeal. The City initially also appealed the order, but withdrew its appeal.
+
+[13]    An expedited allocation of the date for the hearing of the review resolved the application for leave to appeal, as well as the subsections 18(2)–(3) application, without a need for their adjudication.
+
+Background
+
+[14]    A detailed background, as well as an exposition of the nature of the tender irregularities, is essential in view of the events that followed the interdict and the adjudication of the review.
+
+[15]    The procurement of the fire engines has been marred by allegations of irregularities. The City first embarked on a procurement process in 2015 when it sought to acquire 29 new fire engines. That process terminated in November 2017 amid allegations of irregularities involving the appointment of Fire Raiders. Five fire rescue vehicles were delivered to the City. The number did not meet the City's growing needs which required services to be rendered to a population of an estimated 4,4 million people and a geographical area of 1 645km².
+
+[16]    On 18 September 2018, the City embarked on a second tender process, and invited tenders in terms of Bid No. A781 ("Bid A781") for the supply, delivery, and maintenance of specialised fire and rescue vehicles ("the red fleet") for a period of three years. The vehicles were bespoke, based on the City's operational requirements. Apart from the production (which had to meet the prescribed minimum local content requirement) and the supply of the vehicles, the tender envisaged that the successful bidder would provide maintenance and repairs as well as fleet management and support services, jointly with the City, making the tender and contract a lucrative one.
+
+[17]    On 18 October 2018, Marcé submitted its bid as part of the Moipone Consortium. The City's Bid Evaluation Committee ("the BEC") tabled its report before the Executive Adjudication Committee ("the EAC"). I understand from the record filed that the EAC recommended a split in the contract, resulting in the award for the vehicle managed maintenance services and repairs for the specialised fire and rescue  
+[2021] JOL 53175 (GJ) at 6
+vehicles to Fleet Africa, a division of Super Group, for R19 577 476,80. It recommended the Tallis Fleet Consortium ("Tallis") as the preferred bidder for the manufacturing and supply of the emergency vehicles.
+
+[18]    Allegations of tender irregularities marred the recommendation. Bidvest, a tenderer who submitted its bid with TFM, raised issues of irregularity and demanded a halt to the appointment. On 13 March 2019, Tallis withdrew from the tender process after it was selected as the preferred bidder. The City claimed there was no qualified bidder after Tallis. On 26 March 2019, following a meeting convened by the EAC and relevant internal stakeholders, the City issued a press release announcing the withdrawal of Tallis. The statement indicates the procurement process would have to be "re-advertised". Part of the complaint about the irregularity of the tender process was whether Bid A781 had been cancelled.
+
+[19]    On 16 May 2019, the City issued a "Request for confirmation of availability of fire engines, water tanks" to a selected group of OEMs under the hand of the City Manager, Dr Ndivhoniswani Lukhwareni. Marcé, Fire Raiders, and TFM were amongst the recipients. They were called to indicate availability of vehicles which are "on rubber and can be delivered immediately . . .". The request provided as follows:
+
+"REQUEST FOR CONFIRMATION OF AVAILABILITY OF FIRE ENGINES, WATER TANKS
+
+The City of Johannesburg would like to enquire whether Marce Fire Fighting Technology can supply and deliver the following specialised fire and rescue vehicles:
+
+
+The request is being made for vehicles which are on rubber and can be delivered immediately to the City of Johannesburg once the due procurement processes had been approved by the accounting officer.
+
+The City of Johannesburg hereby requests confirmation of the above vehicles with your stated price and the delivery date for such vehicles. The request is not an undertaking that the City of Johannesburg will procure any such vehicles from you. Instead it is a due diligence process to establish the availability of the abovementioned vehicles in the South African market.
+
+You are hereby requested to provide the City of Johannesburg with a written response by no later than end of business on Monday the 20th of May 2019. Upon receipt of your letter the City of Johannesburg intends conducting a physical inspection of the vehicles within 48 hours to confirm the availability and specification requirements. Accordingly, you are requested to indicate the address where the vehicles can be viewed.
+
+Your cooperation in this regard will be greatly appreciated" (emphasis added).
+
+[20]    On 29 May 2019, Mr Jimmy Maluleke (Acting Director of SHELA and FCM: GCSS) and Mr Sanjay Dubru (Acting Group Head of SHELA and FCM: GCSS) conducted an inspection of the TFM plant in Olifantsfontein. Mr Mlonzi prepared the presentation to the officials. Thereafter, they, together with Ms Boitumelo Sago,5 signed a memorandum initiating the permission to deviate in terms of regulation 36 of the MSCM Regulations. Part of the justification for the deviation was that the City did not expect that the preferred bidder, Tallis, would withdraw from the tender process. The City Manager granted the deviation on 11 June 2019.
+
+[21]    The record reveals that on 18 June 2019, the EAC met to consider the outcome of "the due diligence" and to approve the deviation in terms of regulation 36(1) of the MSCM Regulations. Even though the request for information was framed as a "due  
+[2021] JOL 53175 (GJ) at 8
+diligence" into the availability of the fire and rescue vehicles, and that the City would decide on a successful bidder once the procurement process was approved by the Accounting Officer, the deviation tabled before the EAC reads thus:
+
+"The purpose of the report is to request the Accounting Officer to:
+
+approve the outcome of the due diligence which was undertaken with the OEMS in South Africa; and
+approve the deviation in terms of Regulation 36(1)(a)(i) & (v) of the Municipal Supply Chain Regulations to appoint TFM INDUSTRIES (PTY) LTD for the once off supply and deliver [sic] including equipment of 92 specialised fire and rescue vehicles for Emergency Management Services with an approximate delivery date of the last order not exceeding three months from signature of the Service Level Agreement with COJ (sic)."
+
+[22]    On 5 July 2019,6 TFM was appointed to supply 92 specialised fire and rescue vehicles and concluded a first Service Level Agreement ("the SLA") on 19 July 2019. On 8 August 2019, the City issued a press release confirming the award of the contract to TFM. It is common cause that the procurement and negotiation of the contract was conducted by the City's Group Corporate and Shared Services Department ("the GCSS") to the exclusion of the end user department, the EMS.
+
+[23]    In her judgment, Modiba J noted that Marcé did not allege that there was corruption and malfeasance in the award of the contract to TFM. She had observed that on 29 March 2019, the President of the Republic had issued Proclamation No. R 17 of 2019, referring the procurement and contracting for several goods and services by the City to the Special Investigation Unit ("the SIU"). She ordered that her judgment be referred to the SIU for action because the Proclamation was wide enough to include the award to TFM.
+
+ 
+[2021] JOL 53175 (GJ) at 9
+
+Review application
+
+[24]    While it is not necessary to regurgitate all the grounds for review, having regard to the events that followed, they are informative and essential to demonstrate the approach adopted by TFM and the City to the review challenge.
+
+[25]    The City first claimed it embarked on the RFI (also referred to as a Request for Confirmation) process because the tender process under Bid A781 terminated on 26 March 2019. When it was clear there was no other bidder qualified, it approached the market directly for a "due diligence" into the availability of fire engines and rescue vehicles on 16 May 2019. At the same time, it claimed this was not an initiation of a procurement process. It justified its action claiming it had rationally embarked on the deviation process under regulation 36 of the MSCM Regulations, which was equivalent to the National Treasury Regulation 16A6.4, to address the shortage of fire and rescue vehicles.7 The City was no longer able to adequately respond to fire emergencies to protect citizens.
+
+[26]    On 18 March 2020, the day scheduled for the hearing of the review, Marcé launched an application to introduce a supplementary affidavit following a press statement issued by the Executive Mayor of the City, Mr Makhubo, on 19 February 2020. At odds with the City's denials and opposition, he stated that there were irregularities, poor contracting practices, and a self-created emergency in the procurement of the red fleet. He further stated that two officials responsible for the procurement within the GCSS, Mr Jimmy Maluleke and Mr Sanjay Dubru, were suspended pending an investigation.
+
+[27]    In view of the conflict in the evidence, I ordered that the Mayor be joined as the third respondent, and for him to file a supplementary affidavit dealing with the allegations in Marcé's supplementary affidavit. I also directed the future conduct of the proceedings, and the filing of further affidavits.
+
+ 
+[2021] JOL 53175 (GJ) at 10
+
+[28]    When the hearing resumed on 27 May 2020, the City made an unexpected about-turn, and in affidavits filed by the Mayor and the City Manager, unequivocally conceded the irregularity and unlawfulness of the tender and award.8 Materially, the City Manager claimed he was not aware of the allegations of irregularities or litigation until it was brought to his attention by the Mayor. As indicated previously, the litigation was managed by Mr Isaac Mogashoa, the Group Head: Legal and Contracts. As a result, on 2 June 2020, the court declared the award of the contract irregular and constitutionally invalid.9 Significantly, it was ordered that:
+
+. . .
+In addition to the order in paragraph 3 above, the second respondent must file an affidavit by no later than 17 June 2020, with details of:
+The status of implementation of the agreement entered into between the first and second respondents ('the agreement').
+All payments made by the second respondent to the third party suppliers to fulfil the agreement.
+All payments made to the directors, shareholders, agents or employees of the second respondent whether as incentive scheme, profit share, dividend, commission or any other form pursuant to the agreement.
+The first respondent may file a further affidavit by no later than 17 June 2020 dealing with:
+Allegations of corruption and malfeasance made by the third applicant;
+The alleged R48 million cost of refurbishment of vehicles provided by the second respondent;
+The status of implementation of the agreement; and 
+[2021] JOL 53175 (GJ) at 11
+ 5.4. The status of investigations being undertaken into allegations of corruption and malfeasance.
+. . .
+. . .
+No further affidavits will be permitted.
+In light of the concession by the first respondent that the award to the second respondent was irregular and that the agreement entered into the parties was unlawful:
+It is declared that the award of the contract to the second respondent is constitutionally invalid;
+It is declared that the agreement entered into between the first and second respondents pursuant to the award is constitutionally invalid;
+Pending the determination of a just and equitable remedy, and in order to preserve the status quo:
+The declaration of invalidity in 9.2 above is suspended;
+Notwithstanding the suspension in 9.3.1 above, the first and second respondents shall not implement the agreement during the period of suspension without the leave of the court;
+In lieu of the Performance Bond not furnished by the second respondent to the first respondent, the second respondent is to provide an irrevocable and unconditional bank guarantee to the satisfaction of the court (payable upon the order of this Court) in favour of the first respondent in the amount of R134 380 700.52;
+Alternatively, a presentation of an irrevocable indemnity in favour of first respondent to the satisfaction of the court (exercisable upon the order of the court) in favour of the first respondent from the second respondent's risk insurers for the amount of R134 380 700.52;
+The second respondent is to submit proof on affidavit (served on all the parties) by 17 June 2020 that 8.3.3 [sic] above has been complied with."
+
+Concessions of irregularities and unlawfulness
+
+[29]    The concessions affirm the complaint of the applicants. Despite the concessions, the court is obliged to assess the breach of the administrative justice  
+[2021] JOL 53175 (GJ) at 12
+prescripts, and the extent of the departure from the laws regulating the procurement framework. Their nature and materiality influence the court's views on the just and equitable relief. In essence, the City conceded prayers 2, 3 and 4 of the notice of motion as dealt with seriatim below.
+
+Irregular tender process
+
+[30]    The City initially dismissed Marcé's complaint contending that Marcé conflated Bid A781 with the RFI procurement process. There were conflicting statements by the City and TFM as to whether, and when, Bid A781 was cancelled. They presented conflicting versions on whether the RFI was a "due diligence" process, a new tender process, or an extension of the Bid A781 tender process.
+
+[31]    The City claimed that Bid A781 was cancelled on 26 March 2019 when the BEC determined no other bids had qualified, and advised the EAC accordingly. It disputed that it had engaged in a tender process and persisted that it merely conducted a due diligence into the availability of the vehicles.10 Despite issuing a letter of extension of the tender on 27 May 2019, it contended this was some 60 days after the period for the validity had already lapsed. There was no longer a valid tender under Bid A781.
+
+[32]    On the other hand, Mr Mlonzi (for TFM) contended before Modiba J that the RFI process was an extension or continuation of the Bid A781 process, with minimal deviations, hence the truncated time periods for the delivery of the fire engines. Later, TFM made an about-turn during the review application, claiming that the RFI and Bid A781 were discrete tender processes. It based this new position on the deviation application of 11 June 2019, and the EAC resolution dated 18 June 2019, claiming that the deviation application and approval did not mention Bid A781.
+
+Breach of section 217 of the Constitution and the Municipal Supply Chain Management Regulations
+
+[33]    The deviation purportedly implemented under regulation 36 of the MSCM Regulations breached section 217 of the Constitution. The process was designed for minor  
+[2021] JOL 53175 (GJ) at 13
+deviations and contracts. The contract price far exceeded the threshold value of R200 000 (inclusive of VAT) envisaged in the City's Supply Chain Management Policy. The policy requires that all tenders above the threshold be subject to a competitive bid or tender process. A deviation is permissible in exceptional or emergency cases.
+
+[34]    Marcé alleged that the necessity for emergency procurement was self-created, and that there were no exceptional circumstances which justified the City resorting to regulation 36 of the MSCM Regulations. According to the City's Supply Chain Management Policy, a deviation caused by poor planning or procrastination, leading to the situation being declared an emergency, will result in a deviation approved under those circumstances being classified as irregular.
+
+[35]    The City had put the cart before the horse, because the permission for the deviation was sought on 11 June 2019 – after it had already initiated the RFI process. The record of the meeting of the EAC reveals that some of its members departed from the assumption that the previous tender had been cancelled.11 When challenged, the City first sought to disavow and recast the RFI process as a "due diligence" and inquiry into the availability of vehicles. This was a misrepresentation of the true facts and inconsistent with the award of the contract to TFM. In addition, the record reveals that it was only on 31 July 2019 that Mr Andries Mucavele, the Deputy Director, Fire and Rescue Public Safety (EMS), compiled a report to the EAC requesting permission to cancel Bid A781. The City Manager approved the cancellation on 21 August 2019. All these steps were taken retrospectively, after the conclusion of the contract with TFM.
+
+ 
+[2021] JOL 53175 (GJ) at 14
+
+Non-compliance with tender specifications
+
+[36]    Despite first denying that the impugned RFI procurement process overlapped with the Bid A781 tender process, the City admitted that the specifications for the vehicles, which were the subject of the due diligence, were the same as those forming the subject of Bid A781. Even though the RFI did not provide specifications ostensibly because it was a "due diligence", the City nevertheless used Bid A781 specifications to evaluate the responses.
+
+[37]    TFM agreed that the RFI did not provide that specification and requirements of Bid A781, but merely refer to "what is immediately available for delivery". It claimed it reasonably assumed specifications for Bid A781 would be used "as far as possible" in responding to the RFI as the tender specifications for Bid A781 were recent. Accounting for the short delivery time frames, it claimed to have marshalled all resources and, unlike Marcé and Fire Raiders, provided the City with firm delivery dates.
+
+[38]    On the other hand, the City Manager stated that he approved the deviation on the basis that the procurement would be according to the specification approved for Bid A781. The request for deviation states that specifications which were approved by the Bid Specification Committee ("the BSC") in Bid A781 were used for the due diligence process in the RFI. It further stated as follows: "The intention was to mirror tender A781 like for like since the requirements for EMS was [sic] determined by the BSC and considered all future expansions within the city." As said, this information was not disclosed in the RFI.
+
+[39]    Curiously, on 19 August 2019, the City concluded a further agreement with TFM. This second SLA did not contain the specifications recorded in Bid A781; instead, materially different specifications were agreed on for a number of items. Minutes of the meeting held between the City and TFM on 12 September 2020, after the agreement was signed, reveal that EMS raised issues about the non-compliance with the tender specification.12 Even though, as I understand it, meetings were held  
+[2021] JOL 53175 (GJ) at 15
+with the EMS representatives, and specifications leading to variation orders agreed on, these were at variance with Bid A781. Significantly, they were agreed after the fact and award – accentuating the cause for complaint that the City and TFM deliberately embarked on a mercurial tender process to favour TFM.
+
+[40]    The appointment of TFM was not according to the specification for Bid A781 and was inconsistent with the City Manager's approval, as well as that of the EAC and the City's procurement prescripts.
+
+[41]    Fire Raiders asserted that TFM was awarded the contract even though it has never designed, manufactured and homologated fire engines. It claimed that as of 19 February 2020, the day the statement by the Mayor was released, TFM had not delivered the fire engines, but auxiliary service vehicles instead, which did not meet the specification. If the City had followed a lawful procurement process, TFM would not have been a successful bidder. The City, on the other hand, relied on certificates and qualifications presented by TFM to justify the appointment.
+
+[42]    Marcé and Fire Raiders complained further that TFM did not meet the requirements of the RFI. The RFI stipulated that the vehicles should be "on rubber" (ie already manufactured and ready to be delivered) and not subject to a manufacturing process. Amongst the concerns raised by the Mayor, was whether the vehicles from TFM would meet the City's operational requirements. He claimed that the vehicles already delivered had to be retrofitted at an unbudgeted cost of R48 million. There was a dispute about this claim. The assertion by the Mayor was later retracted by the Service Department EMS. He appears to have been misinformed on this aspect.
+
+[43]    Nevertheless, despite the revised SLA and specifications agreed to post the award, two variation orders to the value of R3 067 875 and R2 449 474,20 were agreed on by the City and TFM. The first variation was at the instance of TFM. It was submitted that it was occasioned by the fact that TFM omitted certain aspects in its calculations. The second variation was at the instance of the City (the EMS). The EMS's variation was attributed to the fact that it, as the end user, was excluded from  
+[2021] JOL 53175 (GJ) at 16
+the tender specification process and sourcing of the equipment until after the award of the contract. TFM failed to address the variations occasioned by its omission, asserting they were only five and a negligible 0.53% of the total contract value.
+
+Irregular upfront payment of R172 million
+
+[44]    The press statement by the Mayor reveals that the City made advance and irregular upfront payments totalling R172 992 382,71 to TFM to execute the contract. Marcé complained that the payments were made even though the review had already been launched and proceedings were pending.
+
+[45]    Bid A781 required bidders to fund the entire production of the red fleet upfront. Both SLAs, as well as the terms for the approval of the deviation by the EAC, required that payment would be initiated and made on delivery, within 30 days after the receipt of the original invoice. Clause 7 of the SLAs provided as follows:
+
+Delivery Acceptance Notes issued by the City's Contract (Project) Manager confirming the delivery of the goods shall be deemed to be supporting documentation for purposes of payment in terms of this Agreement, unless otherwise stipulated in writing by the City.
+The City shall only make payment upon the receipt of all documentation with no exception. Payment shall be due and payable within thirty (30) Days after receipt of the original invoice and supporting documentation by the City's Contract (Project) Manager."
+
+[46]    The RFI response by Mr Mlonzi committed that TFM would deliver the vehicles "without an upfront deposit, thereby eliminating financial risk to the City". He claimed TFM had the financial resources to meet its contractual obligations.
+
+[47]    The City first denied making the upfront payments to TFM. However, during the urgent application, it claimed to have made a payment of R75 million for 17 vehicles which it had received. On the other hand, a subsequent affidavit by Mr Savage (the director of TFM) disputed that the contract was funded by the upfront payments. He claimed that TFM received R38 611 682,17 for 20 vehicles delivered to the City on or about 6 November 2019, the production of which was financed from its funds. Mr Savage claims that he had to notify TFM's bankers and as a result, funding and facilities related to the project were withdrawn, and its banker terminated its facilities. 
+
+ 
+[2021] JOL 53175 (GJ) at 17
+
+The City insisted on the completion of the contract. He recast the payments as "commitment payments" made after the review proceedings had commenced.
+
+[48]    Mr Savage justified the payments as part of a risk mitigation strategy for TFM and its suppliers resulting from the pending litigation and on the grounds that TFM refused to be exposed to the risk of not receiving payments for work in progress ("WIP") where vehicles were remodelled for the City's specifications. He claimed that at the instruction of the City, TFM provided invoices with VIN and chassis numbers to effectively place the ownership of the vehicles and built equipment items in the City's hands. Mr Savage disputed that TFM received payments beyond 24 October 2019, contending that the Mayor was wrong and had been misinformed. There is no evidence of when the de-risk strategy claimed by Mr Savage was agreed on and approved, or even that it was.
+
+[49]    Payments totalling R172 million were made from 27 September to 15 November 2019 as follows:
+
+ 
+[2021] JOL 53175 (GJ) at 18
+
+[50]    An order by the City, dated 24 July 2019, exposes that the payment terms were altered from those provided in the contract to "COJ Pay immediately w/o deduction". Given the size of the contract, there is no evidence that the alteration and the payments were approved by an identifiable procurement governing structure.
+
+[51]    TFM's tax invoices were generated between 19 September 2019 and 20 September 2019, before the launch of the review application. Payments were made thereafter, even though the review application had been launched and was pending. Some of the payments were made while the urgent application was due for hearing and/or in the process of adjudication between 12 and 16 November 2019.
+
+[52]    The payments contravened the Local Government: Municipal Finance Management Act 56 of 2003 ("the MFMA") and were not made in accordance with the City's expenditure management practice which prohibits advance payments. They were also contrary to the terms of the SLA the City concluded with TFM. The payments, as well as the haste with which they were made, underpinned the applicants' complaint that there was corruption and malfeasance in respect of the tender and contract. I return to this aspect later in the judgment.
+
+Failure to call up and present a performance bond/guarantee
+
+[53]    The aborted Bid A781,13 as well as the condition for the approval of the deviation, the award, and subsequent appointment was that TFM would furnish a performance guarantee not exceeding 20% of the contract value and financial obligation in favour of the City valid for the duration of the contract.14 This term was incorporated in clause 8.12 of the SLA.15 The City failed to call up the performance guarantee and TFM did not tender it either.
+
+ 
+[2021] JOL 53175 (GJ) at 19
+
+[54]    Despite this Court's order of 2 June 2020 calling on TFM to present a guarantee of R134 380 700,52, alternatively, a softer landing in the form of an indemnity from its insurers, TFM failed to do so. It sought to offer a Notarial Bond as security over the vehicles, and thereafter filed an application for leave to appeal the order. It claimed the amounts received were expended in the production of the vehicles, some of which were available for delivery, but for the interdict. Mr Else (a director and CFO for TFM) relied on emails dated 27 September 2019 contending that its banker, Absa, declined to provide the guarantee. Curiously, even though in the contract signed in July, TFM also listed Bidvest Bank, a division of its erstwhile bidding partner for Bid A781, as its banker, it did not present any evidence that it had approached Bidvest Bank for the guarantee.
+
+[55]    In so far as the indemnity, TFM presented letters dated 9 June 2020 and 11 June 2020 from Credit Guarantee Insurance Corporation of Africa (Pty) Ltd, Guard Risk Tailored Risk Solutions, Lombard Insurance, and Hollard declining indemnity cover ordered by the court. The letter from Lombard Insurance reveals that company previously declined to provide cover to TFM in August 2019.
+
+Change of delivery time frame
+
+[56]    When regard is had to TFM's response of 20 May 2019 to the RFI, Mr Mlonzi represented to the City Manager that TFM would deliver the vehicles and adhere to the following time frames:
+
+
+[57]    The request for deviation states that orders for fire and rescue vehicles took between six to 12 months to deliver – which would not solve the emergency situation the City faced. The City justified the deviation and the appointment of TFM on account that TFM had the chassis for the vehicles at its manufacturing plant in Clayville. It noted that none of the OEMs it had approached, except for TFM, could deliver the vehicles within the time frame required. The last delivery would take 10 weeks from the last order date. TFM had represented that it had the chassis for the fire and rescue vehicles and could deliver the vehicles within 10 weeks from the order date. According to this, Fire Raiders had only one refurbished fire engine available on a lease. Leasing was against the Group Fleets Policy of the City which required outright purchases.
+
+[58]    As stated, the first SLA (dated 19 July 2019) envisaged delivery over a period of three months, being 15 November 2019 or in line with the agreed delivery schedule and RFI.16 If the vehicles were not delivered, the City had the right to impose a penalty of 1%, but not exceeding 5% of the purchase price for the vehicle(s), calculated for each month the delivery is delayed from the scheduled date. The second SLA on 19 August 2019 extended performance and delivery terms to 12 months.
+
+ 
+[2021] JOL 53175 (GJ) at 21
+
+[59]    When opposing the urgent application, TFM relied on the strict delivery schedule, contending that the agreement had been implemented and delivery of the balance of the vehicles was eminent. It also claimed to have already issued the first order for 40 vehicles amounting to R198 196 383,47 (including VAT). TFM stated that at the time of the launch of the application for review in September 2019, it had already placed the second order on 13 August 2019 for four vehicles amounting to R27 075 849.
+
+[60]    On 26 November 2019, Mr Savage wrote to Mr Jimmy Maluleke about the Work in Progress (WIP). He stated as follows:
+
+"We are able to confirm 30 vehicles are in various stages of completion, Work In Progress (WIP), which include;
+
+
+Total value of Work in Progress for the above 30 vehicles amounts to R127 340 676-01 (one hundred and twenty-seven million three hundred and forty thousand six hundred and seventy-six rand one cent) at 26th November 2019.
+
+We are also able to confirm that 5 x Heavy Duty Rear Mounted Pumpers are scheduled for completion at the end of November 2019 (Item 13)."
+
+[61]    The schedule attached to TFM's rule 18(2) application (launched in January 2020) indicates that the Major Midship Pumper vehicles were prepared by Scania South Africa, part of a Swedish Truck OEM. The Grass Fire Units were Toyota Land Cruisers sourced from Toyota South Africa, with pumps imported from Italy. The Incident Command Vehicles were from Mercedes Benz South Africa. The Heavy-Duty Rescue Units were by UD South Africa, a leading Japanese Truck OEM with an  
+[2021] JOL 53175 (GJ) at 22
+assembly plant in Rosslyn, Pretoria. UD South Africa also supplied TFM with Industrial Pumpers.
+
+[62]    TFM sourced the Light Rapid Fire and Rescue Intervention vehicles from Iveco, an Italian truck manufacturer with a branch in South Africa. It sourced the Heavy Duty Rear Mount Pumper from Mercedes Benz South Africa. It had to source the Volkan ladder trucks and Vema Platforms from Turkey and Finland. The specialised equipment, water tanks and pumps were sourced from WS Darley, USA and Godiva, United Kingdom (indicative of longer lead times for importing and transporting the equipment).
+
+[63]    Delivery within the time frame stipulated in the RFI was an impossibility by any of the parties, including TFM. The impression is that the alteration to the delivery time frames were tailored to favour TFM.
+
+The investigations into corruption and malfeasance
+
+[64]    In November 2019, reports of corruption in the procurement process surfaced in the mainstream media. Because this information came to light after Marcé launched the review, it sought to introduce these allegations in its replying affidavit as relevant new facts supporting its complaint. The City and TFM first objected to the introduction of this information. The City dismissed the allegations as an attempt to invoke suspicion and malfeasance and corruption by innuendo. It contended it was a diversion from the facts and fell to be rejected.
+
+[65]    Subsequently, it emerged that intimation of corruption and malfeasance were also from reports by a whistle blower in December 2019. Fire Raiders led the charge in respect of these allegations. It was reported that Mr Mlonzi (then the Executive Chairman of TFM), who led the defence of the contract during the urgent application, was arrested on allegations of fraud, money laundering, and breaches of the MFMA. Kwane Capital (Pty) Ltd, over which Mr Mlonzi presides, is a major shareholder of TFM. There were further reports that investigations were underway into Kwane Capital (Pty) Ltd for irregular tenders in various municipalities, procured through regulation 36 deviations. These allegations were also referred to the SIU. It was reported that the  
+[2021] JOL 53175 (GJ) at 23
+SIU was investigating the award to TFM and other contracts procured through the regulation 36 deviation process.
+
+[66]    Contrary to the position by the City, the statement by the Mayor revealed that two City officials, instrumental in the award of the tender, were criminally charged and suspended from work, pending investigation. The Mayor who assumed office around the same period as when the allegations of corruption were made, states that he initiated an investigation into whether the irregularities and maladministration relative to the contract may have been influenced by fraud and corruption. The Group Forensic and Investigation Services ("GFIS") investigated the allegations and tabled a report titled "Alleged irregularities regarding the procurement and award to TFM Industries the Red Fleet Contract and the alleged irregular payments made to TFM for the Red Fleet Contract" dated 14 September 2020.17
+
+[67]    Severely hampering the court's ability to interrogate the outcome of the investigation, on the eve of the hearing scheduled for 22–23 October 2020, the City Manager filed a supplementary affidavit on 21 October 2020 to present the report.18 He could not account for the delay in disclosure, other than that he was reminded by his attorneys of it on 16 October 2020. The late filing precipitated further affidavits and submissions from Fire Raiders and TFM.19 I have considered all the submissions by the parties to the extent that they deal with allegations of corruption, because that was the main issue germinating from my order on 2 June 2020.
+
+[68]    TFM argued that it was an innocent party, and that the forensic report did not make any aspersions on the company; it argued that the report does not make any allegations or findings of impropriety, misconduct, or maladministration – let alone malfeasance – against it. TFM claimed that the report dispels any insinuation of corruption or fraud. It also sought to introduce further evidence about the outcome of investigations by the Hawks and the SIU, as well as information from the Tshwane  
+[2021] JOL 53175 (GJ) at 24
+Magistrate's Court, pertaining to the withdrawal of charges against the two City officials who had been criminally charged. To bolster the absence of corruption and fraud, it claimed these employees had returned to work, a fact disputed by the City Manager.
+
+[69]    I have closely read the report. It has a disclaimer about information obtained relevant to the investigation and does not guarantee that all relevant documentation had been obtained. The report concludes that there was no evidence which suggested any acts of corruption and/or fraud by any of the individuals involved in the tender. This conclusion is reached notwithstanding the narrow scope and terms of reference. Clause 3.1–3.2 of the executive summary states that the mandate of the GFIS was limited to the investigation of the circumstances surrounding the tender, the allegations of irregularity in the procurement and the award, and the merits of the allegations of the payments made to TFM. I deal with this aspect in the section dealing with the just and equitable relief.
+
+[70]    I find that the concession by the City was properly made, because the whole procurement process contravened the relevant procurement framework; it was tainted and undermined fundamental constitutional principles contained in section 217(1) of the Constitution, notably, to ensure competitiveness and cost-effectiveness. I find that the mismanagement of the tender procurement process was deliberate. I note that the effect of the concession curtailed the proceedings, saving the court time and legal costs. On the other hand, a deluge of affidavits, submissions, and counter-submissions ensued, adding more paper volume to the dispute.20
+
+[71]    A part of the court's order of 2 June 2020 required that TFM disclose fully to the court:
+
+The status of the implementation of the agreement;
+All payments made to third party suppliers to fulfil the agreement;
+All payments made to directors, shareholders, agents or employees of TFM whether as an incentive scheme, dividend, profit share, commissions or any other form pursuant to the agreement. 
+[2021] JOL 53175 (GJ) at 25
+
+[72]    TFM claims that it paid the suppliers and has not realised a profit from the contract. It provided the court with detailed schedules of project expenses revealing the costs of each vehicle, materials, direct and indirect labour costs, including payments to its suppliers. Further, TFM estimates that only 15% of its employees and director's remuneration on a total cost to company derives from the contract. It states that no extraordinary bonuses or incentives were paid to any director, employee, or supplier and that no distribution was made to shareholders. I observe that in view of the time frame, the information was not audited. I deal with this in the order.
+
+Status of the implementation of the agreement
+
+[73]    According to Mr Savage (for TFM) a total of 44 fire and rescue vehicle orders were issued by the City. Of these, 20 were delivered, leaving a balance of 24 vehicles. Of the remaining 24 vehicles, 20 have already been paid for by the City. Eight of the vehicles are ready for delivery, and 12 are at different stages of completion. The remaining four vehicles are in partial manufacture and have not been paid for by the City.
+
+[74]    On the other hand, the investigation report states that there was an asset inspection and verification exercise conducted on 18 December 2019 by the Group Forensics and Investigations Service into the 40 vehicles ordered and paid for. It found that:
+
+Only 15 Grass Fire Units valued at R13 984 were delivered.
+As of 13 February 2020, when the asset team conducted an inspection of the 25 vehicles still with TFM, it found 14 vehicles valued at R86 513 176,58 were at TFM's plant but not ready for use.
+Of these, six were reported to be at TFM's Durban plant.
+Five were ready for delivery to the Midrand Fire Station.
+Whether the City would incur further costs of R48 million to refit the vehicles was in dispute. 
+[2021] JOL 53175 (GJ) at 26
+
+[75]    It is against the backdrop of all these facts that I consider the just and equitable remedy in terms of section 172 of the Constitution.
+
+Just and equitable relief
+
+Parties' submissions
+
+[76]    Ms Pillay (counsel for Marcé) argued that public interest weighs heavily in favour of the undoing of the contract. Marcé's first stance was that the City and TFM should not benefit from an unlawful contract. It argued that the court should order a restitution. To vindicate the harm done to public procurement, it contended that the court should order TFM to repay monies received. Later, Marcé revised its position, providing the court with a range of options, part of which was that the City must be permitted to retain the 15 vehicles already delivered, but that no further steps are taken to implement the unlawful and tainted SLA.
+
+[77]    On the other hand, Fire Raiders opposed the remedy sought by the City Manager and TFM on the basis that it is not just and equitable. It complained of collusion between TFM and the City, because of their similar approach to the relief, stating that this should not continue unabated. It contended that the court should cancel the contract and order TFM to return the sum of R152 372 018,86, which according to its calculations, was the correct amount received. It argued that despite my order requiring financial disclosure, and the financial information, TFM had not disclosed the profits it made from the contract. It submitted that the court must direct that TFM prepare audited financial statements within 30 days of the order and, in addition, order it to return all profits it made from the contract.
+
+[78]    The Mayor deferred to the City Manager to determine the appropriate remedy. The City criticised Marcé for advancing its business interests. It accepted that the consequences of the invalidity must be corrected and reversed where they can no longer be prevented. It attributed the low levels of the red fleet and its predicament to the collapse of the 2015 tender with Fire Raiders. Mr Maenetje (counsel for the City) argued that despite the City's blameworthiness, the conduct is addressed by the declaration of invalidity. He argued that the court must place the needs and public  
+[2021] JOL 53175 (GJ) at 27
+interest ahead and take account of the fact that the City acted as soon as it received a report from a whistle blower about the irregularities in December 2019.
+
+[79]    Mr Hollander, for TFM, forced to concede, argued that the irregularities are not significant. He contended that the irregularities were not occasioned by TFM, but by the City. He submitted that the court should also consider that TFM had established a production line to deliver the contract. It had mobilised local and international suppliers to implement the contract. Mr Hollander submitted that the court should consider the standing time from the interdict and the costs of the resources already invested towards the production of the 92 vehicles. In so far as the order variations, he claimed these were negligible – and were mainly because certain components were no longer available in the market. TFM also relied on the comparative pricing in Bid A781, in that, as I understand it, it shows that there was a saving and financial benefit from TFM's appointment, as it was cheaper than Fire Raiders and Marcé. TFM submitted that it faces the risk of financial loss, the loss of production capacity, and loss of revenues if the contract is not implemented to completion. TFM contended that its realisable profit margin would have been at the end of the contract when the full fleet was procured.
+
+[80]    Despite the extent of the irregularities, TFM asks that the court grants an order that preserves its contractual rights and which allows it to complete the contract in full. The effect of such relief would be to allow TFM to deliver the 20 vehicles in the production line and, in addition, complete the balance of the contract, comprising 48 vehicles which are not yet ordered or paid for. TFM proposes that it be permitted to deliver the vehicles as follows:
+
+Eight vehicles within five business days of the order being granted (these are complete and ready for delivery);
+Four vehicles on or before 22 December 2020;
+Two vehicles on or before 29 January 2021;
+Two vehicles on or before 26 February 2021; 
+[2021] JOL 53175 (GJ) at 28
+80.5 Two vehicles on or before 26 March 2021 and two vehicles on or before 30 April 2021 (these are to be completed);
+Four of the balance of the vehicles ordered but not paid for would be delivered in June and September 2021 respectively;
+
+[81]    In the alternative, TFM joins issue with the remedy proposed by the City.
+
+Structure of the just and equitable remedy
+
+[82]    The structure for determining just and equitable relief finds expression in section 172(1)(b) of the Constitution read with section 8(1) of the PAJA.21 The Constitutional Court in AllPay Consolidated Investment Holdings (Pty) Ltd v Chief Executive Officer of the South African Social Security Agency (No 2) held that:22
+
+"Logic, general legal principle, the Constitution, and the binding authority of this Court all point to a default position that requires the consequences of invalidity to be corrected or reversed where they can no longer be prevented. It is an approach that accords with the rule of law and principle of legality."
+
+[83]    The Constitutional Court also highlighted the multi-dimensional approach necessary to formulate a "just and equitable" remedy. The court is conferred with wide, flexible remedial powers which are without self-censor, to fashion a remedy which is appropriate to the circumstances of the case, just, practical, and equitable.23
+
+ 
+[2021] JOL 53175 (GJ) at 29
+
+[84]    In Steenkamp NO v Provincial Tender Board of the Eastern Cape,24 cited with approval in AllPay (2), Moseneke DCJ stated:
+
+"It goes without saying that every improper performance of an administrative function would implicate the Constitution and entitle the aggrieved party to appropriate relief. In each case the remedy must fit the injury. The remedy must be fair to those affected by it and yet vindicate effectively the right violated . . . The purpose of a public law remedy is to pre-empt or correct or reverse an improper administrative function. In some instances the remedy takes the form of an order to make or not to make a particular decision or an order declaring rights or an injunction to furnish reasons for an adverse decision. Ultimately the purpose of a public remedy is to afford the prejudiced party administrative justice, to advance efficient and effective public administration compelled by constitutional precepts and at a broader level, to entrench the rule of law" (emphasis added).
+
+[85]    The Constitutional Court in AllPay (2) referred to this as the "corrective principle", stating as follows:25
+
+"This corrective principle operates at different levels. First, it must be applied to correct the wrongs that led to the declaration of invalidity in the particular case. This must be done by having due regard to the constitutional principles governing public procurement, as well as the more specific purposes of the [relevant applicable legislation]. Second, in the context of public-procurement matters generally, priority should be given to the public good. This means that the public interest must be assessed not only in relation to the immediate consequences of invalidity . . . but also in relation to the effect of the order on future procurement . . ." (emphasis added).
+
+[86]    This "corrective principle" applied by the Constitutional Court in Allpay (2), also developed what is colloquially referred to as the "no-profit-no-loss" principle.26 In this regard the Constitutional Court stated:
+
+"It is true that any invalidation of the existing contract as a result of the invalid tender should not result in any loss to [the party awarded the contract]. The converse, however, is also true. 
+
+ 
+[2021] JOL 53175 (GJ) at 30
+
+It has no right to benefit from an unlawful contract. And any benefit that it may derive should not be beyond public scrutiny" (emphasis added).
+
+[87]    In Millennium Waste Management (Pty) Ltd v Chairperson of the Tender Board: Limpopo Province and others,27 Jafta JA noted that, subject to the facts of the case:
+
+"To set aside the decision to accept the tender, with the effect that the contract is rendered void from the outset, can have catastrophic consequences for an innocent tenderer, and adverse consequences for the public at large in whose interests the administrative body or official purported to act. Those interests must be carefully weighed against those of the disappointed tenderer if an order is to be made that is just and equitable" (emphasis added).
+
+[88]    In Bengwenyama Minerals (Pty) Ltd and others v Genorah Resources (Pty) Ltd and others,28 Froneman J stated that:
+
+"The apparent anomaly that an unlawful act can produce legally effective consequences is not one that admits easy and consistently logical solutions. But then the law often is a pragmatic blend of logic and experience. The apparent rigour of declaring conduct in conflict with the Constitution and PAJA unlawful is ameliorated in both the Constitution and PAJA by providing for a just and equitable remedy in its wake. I do not think that it is wise to attempt to lay down inflexible rules in determining a just and equitable remedy following upon a declaration of unlawful administrative action. The rule of law must never be relinquished, but the circumstances of each case must be examined in order to determine whether factual certainty requires some amelioration of legality and, if so, to what extent. The approach taken will depend on the kind of challenge presented – direct or collateral; the interests involved and the extent or materiality of the breach of the constitutional right to just administrative action in each particular case" (emphasis added).
+
+[89]    Froneman J further stated:
+
+"It would be conducive to clarity, when making the choice of a just and equitable remedy in terms of PAJA, to emphasise the fundamental constitutional importance of the principle of legality, which requires invalid administrative action to be declared unlawful. This would make it clear that the discretionary choice of a further just and equitable remedy follows upon that fundamental finding. The discretionary choice may not precede the finding of invalidity. The 
+[2021] JOL 53175 (GJ) at 31
+discipline of this approach will enable courts to consider whether relief which does not give full effect to the finding of invalidity, is justified in the particular circumstances of the case before it. Normally this would arise in the context of third parties having altered their position on the basis that the administrative action was valid and would suffer prejudice if the administrative action is set aside, but even then the 'desirability of certainty' needs to be justified against the fundamental importance of the principle of legality."29
+
+[90]    In addition to the above principles, I consider the attitude and approach of the parties revealing in the extent of their demonstration of a commitment to the constitutional injunctions for good governance and good citizenship paramount. As Cameron J pointed out in MEC for Health, Eastern Cape and another v Kirland Investments (Pty) Ltd,30 the City is the primary agent of the Constitution and has "a higher duty on the state to respect the law, to fulfil procedural requirements and to tread respectfully when dealing with rights". Government "must do right, and it must do it properly".31
+
+[91]    In the context of a self-review, the Constitutional Court in Buffalo City Metropolitan Municipality v Asla Construction (Pty) Ltd highlighted the importance of coming to court with clean hands, lamenting the fact that the State had not done so in a "sincere effort to clean house and rectify past wrongs and unlawfulness . . .".32 In terms of ordering a just and equitable remedy, the court in Buffalo City declared the contract invalid, but did not set it aside. This approach "preserves rights which have already accrued but does not permit a party to obtain further rights under the invalid agreement".33
+
+[92]    Given that the review was brought in terms of the PAJA, section 8(1) thereof provides that the court, may after setting aside the administrative action: (1) remit the matter for reconsideration (with or without directions); or (2) in exceptional cases, substitute or vary or correct the defect resulting from the administrative action; or (3) provide a compensatory relief. There is no closed list of factors the court may take into account,  
+[2021] JOL 53175 (GJ) at 32
+they include but are not limited to: (1) the public interest; (2) the extent or materiality of the breach, and its effect on the interests of all parties concerned;34 (3) the relative blameworthiness of the parties; (4) the extent of performance under the impugned contract; (5) the effluxion of time; (6) the interests of the reviewing party; (7) the interests of the successful tenderer; and (8) the availability of alternative remedies.
+
+[93]    In the context of self-review, authorities reveal two categories of cases, namely, where a tenderer, acting in good faith, takes the State's assurances as of the lawfulness of the contract at face value to its detriment (Gijima) on the one end, and where the tender is vitiated by corruption, fraud and fronting on the other, such as in the case of Swifambo Rail Leasing (Pty) Limited v Passenger Rail Agency of South Africa.35
+
+[94]    Regardless, the court is enjoined to consider all the interests implicated and the impact of the irregularity. The question of the honest exercise of the statutory function is material to the determination of the remedy. In this regard, courts have evaluated the State's blameworthiness at various stages of the procurement process: from when the impugned administrative decision-making takes place; at the time of initiating review proceedings; and also during the course of litigation proceedings. For example, in AllPay (2) the Constitutional Court deprecated SASSA for adopting a most "unhelpful and almost obstructionist stance" in the litigation.36
+
+[95]    I observe it was not out of the City's volition, but because of the interdict, that the implementation of the balance of the unlawful contract was brought to a halt. Whether the City is genuine, and driven by an appreciation of its obligation to promote an open, responsive, and accountable government or was acting out of "self-interest of state officials seeking to evade the consequences of their prior decisions" is open to question.37
+
+[96]    The City Manager claims that he was not aware of the pending review. The Mayor alerted him to the allegations of irregularities. Considering that the RFI was  
+[2021] JOL 53175 (GJ) at 33
+issued under his hand and he thereafter approved the deviation, there was extensive flouting of the procurement principles. The scale of the procurement irregularities reveals a deliberate tender mismanagement, which proceeded undetected, and a fundamental weakness in the governance and procurement process – at huge cost to rate payers. I conclude from the papers that:
+
+The City Manager approved a regulation 36 deviation in the procurement process without a validation of the submissions and representations made to him;
+Large irregular payments were made undetected;
+Payments were made, in bad faith, while the application for review was pending and the urgent court proceedings were underway, effectively undermining the legal process and the review;
+Despite the unlawfulness, contract parameters set out in the deviation were not adhered to. A subsequent contract was concluded without due process and oversight;
+A curious issue not raised in the investigation report and by the parties is that in purporting to conclude a second SLA, the City, in clause 5 thereof, provided an adjustment of the contract price based on a dollar and euro foreign currency exchange. This exposure to foreign currency risk was in breach of section 47 of the MFMA38 and was not the basis for the approval of the deviation;
+Given the dispute of whether TFM is a supplier of the fire engines and an OEM, there is no objective assessment by the City of whether it received value for money for the procurement and realised the projected costs savings to the value of R60 703 733,78, as claimed. It is noteworthy that in terms of Bid A781, the budget for the procurement of the fleet was R916 632 000, including VAT. The budget for the vehicle managed maintenance services was R255 000 000, 
+[2021] JOL 53175 (GJ) at 34
+including VAT, yet the City contracted with TFM at a higher value than had been projected for Bid A781 without a cogent explanation;
+For reasons unexplained to the court, the mandate and terms of reference provided to the GFIS was limited, and even though the reports conclude it could not find evidence of corruption, it does not reveal processes followed to investigate that component of the complaint;
+The City did not make representations on corrective or remedial measures taken to address the systemic failure in its procurement process, taking into account that the collapse of the tender to procure fire engines was the third of such failures in the City's procurement process.
+
+[97]    I observe that the Mayor stated that he assumed the position in December 2019. He stated further that he was briefed about the irregularities on 23 January 2020. He initiated the investigation. The submission that the City acted immediately after receiving the reports of the irregularities is inconsistent and difficult to believe. From the papers, media reports surfaced in November 2019. The report from the whistle blower surfaced in December 2019. The City Manager claims he was not aware of the irregularities until he was alerted to them by the Mayor. The City proceeded with an appeal even though it later withdrew it to enforce the contract. It was only when public statements made by the Mayor became known, and the Mayor was joined to these proceedings, that the City changed its tune.
+
+[98]    The complaint and impression that the City was partial towards TFM, imposed time frames that were impossible to meet, and thereafter concluded a favourable contract with TFM where it funded the production of the red fleet is not unfounded. Significantly, the City withheld information about the pre-payments, and failed to disclose these to the urgent court, misrepresenting the true position. The versions advanced by the City and TFM altered, were contradictory, and inconsistent on material aspects throughout the course of the litigation. The conduct undermined the constitutionally guaranteed fair, open, and competitive tender process. The egregious nature and extent of the breaches erode confidence in the governance structure and procurement system.
+
+ 
+[2021] JOL 53175 (GJ) at 35
+
+[99]    TFM is not an "innocent awardee". TFM made false representations about its ability to deliver the contract within the stipulated time period. Having conducted business with the City and other municipalities over many years, it was no stranger to public procurement. It defended the irregular contract and made material contradictions about the tender and its specifications. There is no indication on the facts, or otherwise, that it conducted its own due diligence and obtained assurance about the legality of the process it was participating in. As held in Special Investigating Unit and another v Vision View Productions CC,39 a reliance on a warranty, which is a standard clause in most contracts, without more, cannot exempt TFM.40 In the subsections 18(2)–(3) application, TFM relied on its 50-year trading history and relationship with the City, asserting it did not require deposits to execute the contract because of its reputation and relationships with OEMs and suppliers. Despite first contending for the completion of the contract, TFM conceded that in the light of the concession of irregularity by the City, it cannot persist to seek an order to complete the contract.
+
+[100]    The bank letters submitted by TFM to explain the inability to furnish the guarantee ordered by the court, fortify the court's view that TFM falsely misrepresented its financial standing. It lacked the financial capacity to execute the tender. It was not qualified as a bidder. Significantly, TFM permitted payments to be made to it despite the pending legal challenge of the contract. It first denied the payments and withheld this information from the urgent court. Its conduct throughout the proceedings displayed a clear intention not to comply with any of the court orders, providing the court with outdated information to justify the undermining of the court's order.
+
+[101]    An important aspect pertains to the argument about the absence of a finding of corruption, and the belated efforts to introduce information pertaining to the impugned City officials, the NPA, and the SIU. The report allegedly obtained from the SIU  
+[2021] JOL 53175 (GJ) at 36
+purports to exonerate the City employees, despite a finding of a misrepresentation and irregularities by the City's investigation. These attempts miss the mark. The issue is not solely about "the innocence of a tenderer" on the one side of the scale and "a corrupt tenderer" on the other end of the scale. Even if there is no definitive finding of corrupt conduct, in my view, the court must on the facts before it, judge whether the conduct of the tenderer displays ethical conduct and a commitment to principles of good corporate citizenship. It is not essential to solely rely on proof or inferences of corruption. An entity the size and nature of TFM has a social and ethical obligation in terms of the Companies Act 71 of 2008 to act within the boundaries of the law.
+
+[102]    I find that TFM knew, or ought to have reasonably known, that the RFI and the contract were unlawful and irregular. It received irregular payments and withheld pertinent information about those payments. It misled the court about the payments made. TFM did not act in good faith. The principles in Gijima, Buffalo City,41 and Millennium Waste42 do not find application. An order permitting TFM to complete the contract would be inconsistent with these findings and undermine the law. A disgorgement of all profits, dividends, and increases in salaries made as a result of the contract is appropriate.
+
+[103]    Marcé argued that the City's position regarding the red fleet prevailed since 2015, thus it cannot escape blameworthiness for the manner in which it has dealt with these tenders. The common cause fact is that incidents have increased. Public interest considerations demand that the court deals with the fact that the red fleet levels are not adequate for the needs of the City. The call-out rates to extinguish fires in winter within the more informal settlements and community where candles, paraffin and coal are used have increased. The City had 1 436 callouts in 2014 and 2 407 in 2015. As of February 2019, of the 29 fire stations, the City could only utilise between seven and nine fire engines, limiting its ability to respond to emergencies, and increasing the risk to public lives. Densely populated areas such as Diepsloot, Lonehill, Bryanston,  
+[2021] JOL 53175 (GJ) at 37
+Midrand, Sandton, Alexandra, Rosebank, Randburg, and Soweto, amongst others, are underserviced. These facts are not in contention.
+
+[104]    The cost of the irregularities to the public purse and the practical consequences of the relief require equal consideration. Mr Maenetje (for the City) argued that there is little prospect that TFM would have the resources to compensate the City for any loss that might result if the City cannot receive the vehicles ordered and already paid for. It would be prejudicial to the City, the rate payers, and the residents if the City is not permitted to retain the 20 vehicles already paid for in full. Other than the failure to provide the guarantee, which was justified on old letters, there is no proof that the submission is correct. The City has not placed any evidence which shows that it investigated whether there is recourse to TFM's overall balance sheet and business to recoup the potential losses. An impression created to the court is that TFM ring-fenced the execution of the tender from the balance of its other operations.
+
+[105]    In my view, the corrective principle, which demands that the City is placed in a position it would have been but for the irregularity, also includes the principle of efficiency. Fashioning a relief which does not impose a further burden to the public purse is necessary and justifiable.
+
+[106]    The WIP presented comprises of incomplete vehicles with chassis and other equipment retrofitted for the requirements of the City. There has been extensive modification to the vehicles, including shortening and lengthening of the chassis, rendering these unsuitable for other purposes. It was not disputed, nor argued, that there is not a ready market for the vehicles which were retrofitted for the bespoke needs of the City. The vehicles, though partially complete, are available for use to meet the City's requirements as winter approaches. The vehicles have been paid for by the City. It would exacerbate wasteful expenditure not to utilise the partly completed vehicles in the interest of the public.
+
+[107]    The balance is in respect of the four remaining vehicles, and the parts necessary for completion must be ordered from Finland, Turkey and the USA. They have not been paid for by the City. It is not necessary to expose the City to further financial risk. It would undermine the finding of the unlawfulness of the award to permit TFM to produce and deliver these vehicles.
+
+ 
+[2021] JOL 53175 (GJ) at 38
+
+[108]    An important component not raised by any of the parties (and the City in particular) are the systemic institutional remedial and corrective measures that the City intends to adopt to address the irregularities and the extent of the mismanagement of the tender. The glaring failure renders the realisation of the protected constitutional principles hollow, and a mockery given the facts of this case and the finding that there was deliberate mismanagement of the tender. In the result, and in view of the court's wide powers, an order that addresses this shortcoming is warranted.
+
+[109]    In so far as the costs of the application, they must follow the result. Fire Raiders submitted it does not seek a cost order against TFM and the City. The City and TFM are each liable for the legal costs incurred by the first and second applicant.
+
+Accordingly, I make the following order:
+
+The suspension of the declaration of invalidity in paragraph 9.3.1 of the court order dated 2 June 2020 is extended pending the delivery of the vehicles and compliance with this order.
+The City shall retain for its exclusive use the 15 Grass Fire Unit vehicles already paid for and delivered by TFM.
+In addition to the vehicles in paragraph 2 above, TFM shall procure the registration of:
+2 x Level 2 incident command vehicles;
+2 x heavy duty air trucks; and
+1 x hazmat vehicle,
+
+being the five additional vehicles ready for delivery currently under its custody and control, and deliver same to the City within 20 days of this order.
+
+Within 60 days of the order, being the order dated 29 March 2021, TFM shall deliver to the City the 20 vehicles already paid for by the City, identified as the:
+5 x Heavy Duty Rear Mount Pumpers; 
+[2021] JOL 53175 (GJ) at 39
+ (b) 7 x Light Rapid Fire and Rescue Intervention Units;
+4 x Water Tankers;
+2 x Industrial Pumpers; and
+2 x Heavy Duty Rescue Units.
+The remainder of the contract comprising:
+1 x Telescopic Aerial Ladder;
+2 x Major Pumpers; and
+1 x Hydraulic Platform,
+
+being the vehicles ordered but not paid for by the City, is legally invalid, cancelled, and forfeited forthwith.
+
+The balance of the contract comprising 48 vehicles is legally invalid and terminated forthwith. The City and TFM are prohibited from reviving the contract in any form whatsoever other than through a transparent lawful tender process.
+All profits, dividends, or bonuses paid to TFM's shareholders and/or directors, if any, arising from the contract shall be forfeited forthwith and paid back to the City within 60 days of this order.
+TFM shall ensure that the 15% increase in monthly salaries and payments made to TFM directors, arising from the contract, is returned to the City within 60 days of this order.
+TFM is directed to procure and file an affidavit and a report by an independent auditor within 65 days of this order:
+confirming the delivery of the vehicles in paragraphs 3–4 above and the compliance with the orders in paragraphs 7–8 above;
+confirming the accuracy of the information disclosed in its Schedule LS8 and LS9 (CaseLines reference D2143 & D2145) filed on 19 June 2020; 
+[2021] JOL 53175 (GJ) at 40
+ (c) detailing any other profits, dividends and/or bonuses paid to its shareholders and directors arising from the contract; and
+furnish to the court its audited financial statements and management accounts for the relevant financial year.
+The City is directed to comply with the Supply Chain Policy and to:
+investigate whether the regulation 36 deviation resulting in the award of the contract to TFM was as a result of poor planning or procrastination on the part of the City's officials;
+make a declaration in respect of the above, as is required in terms of the supply chain policy;
+identify and classify whether it incurred an irregular expenditure in terms of the contract as required in terms of the supply chain policy and applicable legislation; and
+present to the court its findings within 30 days of this order.
+In addition, the City is ordered to present to the court the remedial and corrective measures it has taken to prevent the future deliberate mismanagement of the tender and irregular procurement and the steps it has taken to implement the recommendations in the investigation report within 30 days of this order.
+The Registrar is directed to refer all the affidavits deposed to by Mr Mlonzi, Mr Savage, Mr Else, and Mr Mogashoa, dealing with the pre-payments made by the City to TFM, to the National Director of Public Prosecutions ("the NDPP") to investigate whether there are grounds to charge all or any of them with perjury, and, if so, take the necessary steps to prosecute them for same.
+The City and TFM are ordered to pay the costs of the first applicant, jointly and severally, the one paying the other to be absolved.
+The second applicant and third applicant shall bear their own costs.
+
+
+Footnotes
+1	 GN 868 of 30 May 2005: Municipal Supply Chain Management Regulations as amended by R.31 GG 40553 of 20 January 2017. The Regulations were made in terms of s 168 of the Local Government: Municipal Finance Management Act 56 of 2003. The reg 36(1) procurement process applies in cases of extreme urgency and for contract of a lesser value. It provides as follows:
+ "36. Deviation from, and ratification of minor breaches of, procurement processes
+ (1) A supply chain management policy may allow the accounting officer–
+ (a) to dispense with the official procurement processes established by the policy and to procure any required goods or services through any convenient process, which may include direct negotiations, but only–
+ (i) in an emergency;
+ . . .
+ (v) in any other exceptional case where it is impractical or impossible to follow the official procurement processes; . . ."
+2	 S 172(1)(b) of the Constitution provides:
+ "(1) When deciding a constitutional matter within its power, a court:
+ (a) . . .
+ (b) may make any order that is just and equitable, including–
+ (i) an order limiting the retrospective effect of the declaration of invalidity; and
+ (ii) an order suspending the declaration of invalidity for any period and on any conditions, to allow the competent authority to correct the defect."
+3	 He also deposed to an affidavit opposing the interdict before Modiba J. See the judgment of Modiba J in respect of the application for an urgent interim interdict in Marcé Projects (Pty) Ltd and another v City of Johannesburg Metropolitan Municipality and another [2019] ZAGPJHC 540, [2020] 2 All SA 157 (GJ) [also reported at [2020] JOL 46593 (GJ) – Ed], dealt with later in the judgment.
+4	 Mr Mlonzi also deposed to the affidavit on behalf of TFM opposing the interdict before Modiba J.
+5	 Ms Sago acted in her capacity as Legal Advisor (Group Legal and Contracts).
+6	 Cll 3 and 8.4 of the Business Relationship and Service Level Agreement contracts TFM to supply 92 specialised fire rescue vehicles comprising of the following:
+  Heavy Duty Rescue Unit x 2; Industrial pumper x 2; Heavy Duty Air Truck x 4; Telescopic Aerial Ladder x 4; Heavy Duty Hazmat vehicle x 2; Grass Fire Vehicle x 15 Major pumper x 20; Water tanker x 12; Light Rapid Fire and Rescue Intervention vehicle x 7; Prime mover x 1; Hydraulic Platform x 4; Level Two Incident Command vehicle x 2; Heavy Duty Rear Mount Pumper x 15.
+7	 Reg 16A6.4 reads: "If in a specific case it is impractical to invite competitive bids, the accounting officer or accounting authority may procure the required goods or services by other means, provided that the reasons for deviating from inviting competitive bids must be recorded and approved by the accounting officer or accounting authority."
+8	 The hearing was adjourned to 28 May 2020, and the court considered affidavits by Mr Makhubo, accompanied by affidavits by Dr Ndivhoniswani Lukhwareni, the City Manager, Mr Mogashoa, the City's Group Head: Legal and Contracts, and Mr Monageng, the Acting Chief: Emergency Management Services.
+9	 A pertinent aspect of the court's order was that at paras 9.3.3–9.3.4 the second respondent was ordered to provide an irrevocable and unconditional bank guarantee (payable upon the order of this Court) in favour of the first respondent in the amount of R134 380 700,52 being the pre-payment received under the contract for which no vehicles were delivered, alternatively, an irrevocable indemnity in favour of the City of Johannesburg, exercisable upon the order of the court from the second respondent's risk insurers.
+10	 This position accorded with the reading of the RFI, but not the City's subsequent actions.
+11	 The record reveals and records that EAC members inquired into the amounts budgeted for the tender to procure fire and rescue vehicles that was cancelled. In addition, they interrogated how the City was going to make savings of R300 000 000 from the procurement of fire engines and vehicles. The record notes that the current specifications on the procurement of fire and rescue vehicles through the deviation were similar to the specifications of the cancelled tender. They also interrogated whether the fire engines to be procured would be readily usable with the required equipment. They directed that the department should demand that the service provider submit a performance guarantee of 20% of the contract value, in favour of the City. They also directed that the service provider's three years' of financial statements should be analysed to verify if the service provider is financially sound and that a contingency of 10% of the value of the procurement (contract) be approved and its utilisation should not be done without prior approval of the City Manager.
+12	 Examples of non-compliance pertained to firefighting hoses for the Heavy Duty Rear Mount Major Pumper; TFM offered 38mm and 65mm rubber with BIC while the City required a standardised on double jacket with NST couplings. Miscellaneous equipment for the Grass Fire Units required was excluded in the SLA; the chassis offered for the Heavy Duty Rear Mount Major Pumper and Industrial Pumpers was a single-cab with a capacity for two occupants rather than a double-cab with capacity for six occupants.
+13	 The failure to supply a security bond or an approved guarantee was considered a material breach of the contract under the Bid A781 tender process.
+14	 The Minutes of the EAC dated 18 June 2019 and the letter of appointment dated 5 July 2019.
+15	 "8.12  Performance Bond
+ 8.12.1 The Contractor to provide performance bond. The Contractor shall provide a performance bond equal to the amount of the outstanding contract value provided by a registered South African financial institution reasonably acceptable to the Contract Owner, for the due performance of the Contractor's obligations in terms of this Agreement. It is recorded that the cost of this bond shall be charged by the Contractor to the User Entity.
+ 8.12.2 Bond Amount. It is recorded that the maximum bond amount is not to exceed 20% (twenty percent) of the financial obligation that the Contractor is indebted to the Contract Owner, and that the Contract Owner may, in its discretion, reduce the amount of the performance bond required over the term of the Agreement relative to Contract Owner's exposure. For clarity, the bond amount shall equal no more than the total contract amounts pre-paid to the Contractor."
+16	 Cl 4 of the July SLA provides: "This Agreement commences on the Signature Date and continues for a period of 3 (three) months or in accordance to the agreed delivery schedule."
+17	 The hearing of the application was set to resume on 16 September 2020 and had to be adjourned due to an overlap in the court's schedule. Even though dated 14 September 2020, the report had not yet been made available to the court.
+18	 The court admitted the affidavit because the matters addressed were envisaged in the order of 2 June 2020.
+19	 On 16 October TFM filed a supplementary affidavit and on 2 November it filed "replying submissions", followed by further similar submissions on 30 November 2020. On the other hand, Fire Raiders filed a "conditional affidavit" and further submissions on 10 November 2020.
+20	 The total record from the urgent application to the finalisation of the review was almost 7 000 pages.
+21	 S 8(1) of the PAJA reads: "The court or tribunal, in proceedings for judicial review in terms of section 6(1), may grant any order that is just and equitable, including orders–
+ (a) directing the administrator–
+ (i) to give reasons; or 
+ (ii) to act in the manner the court or tribunal requires; 
+ (b) prohibiting the administrator from acting in a particular manner; 
+ (c) setting aside the administrative action and–
+ (i) remitting the matter for reconsideration by the administrator, with or without directions; or 
+ (ii) in exceptional cases–
+ (aa) substituting or varying the administrative action or correcting a defect resulting from the administrative action; or 
+ (bb) directing the administrator or any other party to the proceedings to pay compensation; 
+ (d) declaring the rights of the parties in respect of any matter to which the administrative action relates;
+ (e) granting a temporary interdict or other temporary relief; or 
+ (f) as to costs."
+22	AllPay Consolidated Investment Holdings (Pty) Ltd and others v Chief Executive Officer of the South African Social Security Agency and others (No 2) [2014] ZACC 12, 2014 (4) SA 179 (CC) [also reported at 2014 (6) BCLR 641 (CC) – Ed] referred to as "AllPay (2)" at para [30].
+23	 See Mwelase and others v Director-General for the Department of Rural Development and Land Reform and another [2019] ZACC 30, 2019 (6) SA 597 (CC) [also reported at [2019] JOL 45469 (CC), 2019 (11) BCLR 1358 (CC) – Ed] at para [65], with reference to Electoral Commission v Mhlope and others [2016] ZACC 15, 2016 (5) SA 1 (CC) [also reported at [2016] JOL 36073 (CC), 2016 (8) BCLR 987 (CC) – Ed] at para [83].
+24	Steenkamp NO v Provincial Tender Board of the Eastern Cape [2006] ZACC 16, 2007 (3) SA 121 (CC) [also reported at [2006] JOL 18364 (CC), 2007 (3) BCLR 300 (CC) – Ed] at para [29]; cited in AllPay (2) (fn 22 above) at para [29].
+25	AllPay (2) (fn 22 above) at para [32].
+26	AllPay (2) (fn 22 above) at para [67]; see, for example, the order in State Information Technology Agency SOC Ltd v Gijima Holdings (Pty) Ltd [2017] ZACC 40, 2018 (2) SA 23 (CC) [also reported at [2017] JOL 39257 (CC), 2018 (2) BCLR 240 (CC) – Ed] ("Gijima") at para [54], preserving the existing contractual rights of the innocent contractor up until the declaration of invalidity.
+27	Millennium Waste Management (Pty) Ltd v Chairperson of the Tender Board: Limpopo Province and others [2007] ZASCA 165, 2008 (2) SA 481 (SCA) [also reported at [2008] JOL 21170 (SCA), [2008] 2 All SA 145 (SCA), 2008 (5) BCLR 508 (SCA) – Ed] at para [23].
+28	Bengwenyama Minerals (Pty) Ltd and others v Genorah Resources (Pty) Ltd and others [2010] ZACC 26, 2011 (4) SA 113 (CC) [also reported at [2010] JOL 26501 (CC), 2011 (3) BCLR 229 (CC) – Ed] at para [85].
+29	Ibid at para [84].
+30	MEC for Health, Eastern Cape and another v Kirland Investments (Pty) Ltd t/a Eye Lazer Institute [2014] ZACC 6, 2014 (3) SA 481 (CC) [also reported at 2014 (5) BCLR 547 (CC) – Ed] at para [82].
+31	Ibid.
+32	Buffalo City Metropolitan Municipality v Asla Construction (Pty) Limited [2019] ZACC 15, 2019 (4) SA 331 (CC) [also reported at [2019] JOL 41747 (CC), 2019 (6) BCLR 661 (CC) – Ed] at para [99].
+33	Ibid at para [105].
+34	 Bengwenyama (fn 28 above) at para [85].
+35	Swifambo Rail Leasing (Pty) Limited v Passenger Rail Agency of South Africa [2018] ZASCA 167, 2020 (1) SA 76 (SCA) [also reported at [2018] JOL 40651 (SCA) – Ed].
+36	AllPay (2) (fn 22 above) at para [75].
+37	Buffalo City (fn 32 above) at para [120] ("the minority judgment").
+38	 S 47 of the MFMA provides:
+  "Conditions applying to both short-term and long-term debt
+  A municipality may incur debt only if–
+ (a) the debt is denominated in Rand and is not indexed to, or affected by, fluctuations in the value of the Rand against any foreign currency; and
+ (b) section 48(3) has been complied with, if security is to be provided by the municipality."
+39	Special Investigating Unit and another v Vision View Productions CC (A5018/2019) [sic: 2019/20801] [2020] ZAGPJHC 421 (19 June 2020) [also reported at [2020] JOL 53649 (GJ) – Ed].
+40	Ibid at paras [75]–[9]. The respondent (who had been awarded the tender irregularly) argued that it was an innocent party in the awarding of the contract – it pleaded ignorance as to the internal procurement processes of the SABC, relying on a lack of experience in servicing the public sector. It also sought to rely on a warranty clause contained in the contract, which provided that the SABC was authorised to enter into the contract. The Full Bench was not convinced that the respondent was the innocent tenderer it purported to be. It found that the respondent had adopted a supine approach to the procurement processes, and found it inconceivable that a business operating on the scale of the respondent would be ignorant of the basic tenets of public procurement processes.
+41	 Where the Constitutional Court held that the contract awardee should neither benefit, nor be worse off, as a result of the declarations of unlawfulness.
+42	 The innocent contract awardee would nevertheless be permitted to "claim all moneys that would properly have been due to it but for [the setting aside order] on that date and to retain all moneys that were properly paid to it at that date".
+
+Appearance:
+Adv K Pillay SC, Adv Y Ntloko, Dlamini Attorneys (1–2At), Adv A Bava SC, ST Attorneys (3At); Adv N Maenetje SC, Adv M Sello, Mkhabela Huntley Attorneys Incorporated (1R), Adv L Hollander, Thomson Wilks Incorporated (2R), None Indicated (3R)
+
+
+End of Document

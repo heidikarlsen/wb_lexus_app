@@ -1,0 +1,96 @@
+
+
+
+
+The automatically unfair dismissal: some issues
+IR - Editorial
+
+The automatically unfair dismissal: some issues
+
+Almost surreptitiously, decisions relating to automatically unfair dismissals come and go, and it is easy to lose sight of the fact that these decisions, seen as group, are of considerable importance. One would be mistaken in thinking that all the issues relating to automatically unfair dismissals have been settled — many issues still seem to require decisions and the formulation of legal principles.
+
+The essence of an automatically unfair dismissal lies in the fact that the dismissal arises in the context of a fundamental right. In the case of a dismissal relating to sex, age, race or any other discriminatory ground, the right not to be unfairly discriminated against (enshrined in the  Constitution  and in the Employment Equity  Act of 1998 ) comes into play. The same consideration applies in the case of dismissal for reasons relating to the employee’s age. Similarly, the right to strike is a fundamental right regulated by the Labour Relations Act of 1995  (the LRA). Because the exercise of a fundamental right is at stake, a dismissal in this context would be automatically unfair. 
+
+Certain forms of dismissal are therefore seen as automatically unfair because of the reason for the dismissal — the unfairness does not lie in the pre-dismissal procedures, but, seen generally, that the employer is in some way infringing an employee’s fundamental rights by dismissing him or her. 
+
+But what is the real issue with automatically unfair dismissals? It is not the case that there is any real, conceptual difficulty with understanding these forms or reasons for dismissal. The real issue is that, from the employer’s perspective, the dismissal concerned usually relates to misconduct or even operational requirements. No employer will willingly engage in an automatically unfair dismissal — at this stage of the game, the risks attached to an automatically unfair dismissal (the possibility of two years’ remuneration) are well known. It is more a case of the stated reason for a dismissal (misconduct) and what appears to be the real reason for the dismissal once analysed by the Labour Court. 
+
+What may seem, at first glance, to be nothing more than a dismissal for misconduct, incapacity or operational reasons may, on closer inspection, fall within the ambit of an automatically unfair dismissal. One example from one of the cases mentioned below: the employer dismisses a trade union representative for misconduct (the charges including that the employee concerned was a disruptive influence in the workplace). From the employer’s perspective, it may seem that the dismissal was a straightforward misconduct dismissal. But once the facts have been analysed by the Labour Court, another (perhaps the “real”) reason for the dismissal is the employee’s trade union activities — and therefore an automatically unfair dismissal. 
+
+The statutory list
+
+Section 187  of the LRA contains a list of automatically unfair dismissals:
+
+
+
+dismissal that constitutes an infringement of an employee’s freedom of association (not only protected in the Constitution, but also section  5  of the LRA) would be automatically unfair.
+
+
+
+It would be automatically unfair for the employer to dismiss an employee because of that employee’s participation in a protected strike or protected protest action. Similarly, it would be automatically unfair to dismiss an employee if the employee refuses to do any work normally done by an employee who at the time was taking part in a protected strike. 
+
+
+
+Section 187(1)(c)  is one of those provisions that have enjoyed some considerable attention from our courts: it provides that it would constitute an automatically unfair dismissal if the purpose of the dismissal is force the employee to accept a demand made by the employer.
+
+
+
+It would also be unfair for the employer to dismiss an employee because of the employee’s exercising a right (a right conferred by the LRA) or participating in any proceedings in terms of the LRA. This means that an employee may not be dismissed for giving evidence in arbitration proceedings conducted in terms of the LRA.
+
+
+
+If the dismissal relates to an employee’s pregnancy, intended pregnancy or if it is for any reason related to her pregnancy, the dismissal would be automatically unfair.
+
+
+
+dismissal based on discriminatory grounds (such as race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, political opinion, culture, language, marital status or family responsibility) would be automatically unfair. 
+
+This is the original list of automatically unfair dismissals. Two specific forms of automatically unfair dismissals, arising in very exceptional circumstances, were added in 2002. The first is where the dismissal also constitutes a contravention of the Protected Disclosures Act of 2000 — in other words, if the employer has dismissed an employee because the employee has blown the whistle (and that protected disclosure falls within the ambit of the Protected Disclosures Act). 
+
+The second specific automatically unfair dismissal, added in 2002, relates to transfer from one employer to another — section 187(1)(g) says cryptically that it would be an automatically unfair dismissal if the reason for the dismissal was related to a transfer, or a reason related to a transfer from one employer to another in terms of section 197 or 197A . 
+
+This editorial focuses on only some of the forms of automatically unfair dismissal and looks at the leading cases in each case. Because of the importance of the remaining forms of automatically unfair dismissal and the number of cases to be considered, these will be dealt with in subsequent editorials. 
+
+Age discrimination and the normal retirement age
+
+Section  187(2)  contains two exceptions, and one of these relates to age. A dismissal based on age may be fair if the employee has reached the normal or the agreed retirement age for persons employed in that capacity. The leading decision on this point is the decision of the Labour Appeal Court in Rubin Sportswear v SACTWU & others  (2004) 13 LAC 1.11.14  After being transferred from one employer to another, the new employer unilaterally imposed a retirement age of 60 years. The new employer argued that the employees had reached their “normal” retirement age, and that the dismissal was therefore not automatically unfair. On the facts of the case, the Labour Appeal Court held that the new employer had no right to unilaterally impose a new condition of employment on the employees concerned because their terms and conditions of employment did not include a ‘normal’ retirement age — the new employer was attempting to unilaterally introduce a new condition of employment. An important newer decision on this point is Cash Paymaster Services (Pty) v Browne  (2005) 14 LAC 8.34.1: here the employer also sought to unilaterally reduce the employee’s retirement age from 60 to 65 after a transfer and then force the employee to resign. The dismissal was held to be an automatically unfair dismissal. 
+
+Other important decisions on this point include Schweitzer v Waco Distributors (A Division of Voltex (Pty) Ltd)  (1998) 7 LC 6.12.3 : this case contains a valuable interpretation of section 187(2)  of the LRA. 
+
+The employer’s demand and dismissal
+
+Section 187(1)(c)  has given rise to considerable controversy over the years: the uncertainties have now been settled by a consistent line of decisions: Fry's Metal (Pty) Ltd v NUMSA & Others  (2002) 11 LAC 1.11.37 , followed by CWIU & others v Algorax (Pty) Ltd  (2003) 12 LAC 5.2.6  and Mazista Tiles (Pty) Ltd v NUM & others  (2004) 13 LAC 5.3.7 . The issue landed up before the Supreme Court of Appeal in NUMSA & others v Fry’s Metals (Pty) Ltd  (2005) 14 SCA 1.1.1 .
+
+The effect of these decisions is that it remains unfair for an employer to dismiss an employee or a group of employees for failing to accept the employer’s demand in respect of a matter of mutual interest. But there is still some scope for an ordinary dismissal for operational requirements: if the purpose of the dismissal is not to enforce a demand, but to make place for a workforce who is prepared to work under the new conditions of service (for example, work according to a new shift system), the dismissal may be fair. It is the purpose or objective of the dismissal that is decisive in this regard. 
+
+Dismissal and trade union activities
+
+Kroukam v SA Airlink (Pty) Ltd  (2005) 14 LAC 1.11.21  illustrates the fact that what appears to be a misconduct dismissal to the employer may look like a dismissal for trade union activities to a Court. A trade union representative was dismissed for misconduct, including insubordination and being a disruptive influence in the workplace. The Labour Appeal Court came to the conclusion that the real reason for his dismissal was his vigorous exercise of his union role, including the fact that he had played an important role in legal proceedings against his employer. The dismissal was therefore automatically unfair. 
+
+Another important decision in this context is CEPPWAWU & Another v Glass & Aluminium 2000 CC  (2002) 11 LAC 6.13.1  — here again, a shop steward was dismissed for reasons that, when analysed, gave the impression that the dismissal was because of his trade union activities and not for misconduct as the employer had alleged. 
+
+Other issues relating to dismissal of shop stewards have been dealt with in a previous editorial. It remains important to note that there is a limit as to what a shop steward may or may not do — the fact that an employee is a shop steward does not entitle him or her to act dishonestly, for example. 
+
+Dismissal for reasons relating to pregnancy
+
+The issues relating to a dismissal in fact based on the employee’s pregnancy is illustrated in Mashava v Cuzen and Woods Attorneys  (2000) 9 LC 8.29.1 . The employer argued that the dismissal was based on misconduct (the fact that the employee had been deceitful in not disclosing her pregnancy, in other words, dishonesty). The Labour Court came to the conclusion that the real reason for her dismissal was the fact of her pregnancy or at least for reasons relating to her pregnancy and the dismissal was held to be automatically unfair. Some older and controversial cases also come to mind in this regard: see Woolworths (Pty) Ltd v Whitehead  (2000) 9 LAC 6.12.2 . 
+
+In Mnguni v Gumbi  (2004) 13 LC 8.29.3 the employee was dismissed after complaining of tiredness — she was in an advanced stage of pregnancy. The employer denied that she was dismissed: she had only been told to go home, but the following day, a new receptionist had been employed. Although the employer was aware of the reason for the employee’s tiredness, she had simply been pushed out of the workplace, and the Labour Court concluded that this was an automatically unfair dismissal. 
+
+Discrimination
+
+Racial discrimination may be covered up in a number of ways. The employer may argue that the appointment or the dismissal of an employee was related to the inherent job requirements. Whether or not an employee would be sufficiently proficient in a specific language was the stated issue in Stokwe v MEC, Department of Education, Eastern Cape Province and another  (2005) 14 LC 6.12.1 . 
+
+Discrimination may be on other grounds: the issue of discrimination on the basis of religion arose in FAWU & another v Rainbow Chicken Farms  (1999) 8 LC 8.17.1 . The employer had dismissed a number of butchers who were absent without leave on a Muslim religious holiday. The Court held that it would constitute unfair discrimination if the employer permitted only some employees to take a day off to celebrate their religion, whereas others were not permitted to do so. On the facts, the Labour Court found there had been no unfair discrimination. In Maharaj v CP de Leeuw (Pty) Ltd  (2004) 13 LC 6.13.1  the Labour Court confirmed that when it comes to proving that a dismissal was based on a discriminatory ground, the onus remains on the employee. In this case the Labour Court held that the dismissal of the employee was not automatically unfair as it was not caused by the employer’s racial discrimination against the applicant. See also Mafomane v Rustenburg Platinum Mines Ltd  (2003) 12 LC 6.13.2 .
+
+The real reason for the dismissal
+
+The fundamental question remains: what is the real reason for the employee’s dismissal. Is it a case of misconduct, as the employer may argue, or is it in reality based on discrimination, pregnancy or because of the employee’s trade union activities? Each case must be considered on its merits, and the Labour Court will, invariably, carefully look at the employer’s motivation for dismissing an employee. This means that employers need to carefully consider why they are dismissing an employee when it seems that there is some possibility that the dismissal may be for an automatically unfair reason. But at the same time, a mere allegation that a dismissal was, for instance, based on pregnancy will not always be sufficient. The decision of the Labour Court in Wardlaw v Supreme Mouldings (Pty) Ltd  (2004) 13 LC 8.29.1 is important because it shows that the employer’s stated reason for the dismissal (gross negligence by the employee after she had returned from maternity leave) may very well be the real reason for the dismissal and, in such a case, the employee’s claiming that the dismissal was automatically unfair will be in vain. 
+
+Carl Mischke
+
+August 2006
+
+
+
+End of Document

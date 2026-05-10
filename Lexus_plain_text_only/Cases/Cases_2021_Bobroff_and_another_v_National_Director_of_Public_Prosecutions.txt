@@ -1,0 +1,354 @@
+
+
+
+
+Bobroff and another v National Director of Public Prosecutions [2021] JOL 50282 (SCA)
+Judgments Online
+
+Division: Supreme Court of Appeal
+Case No: 194 / 20
+Hearing Date(s): 23 / 02 / 2021
+Judgment Date(s): 03 / 05 / 2021
+Bench: Ponnan, Mbha, Molemela JJA; Eksteen, JW Weiner AJJA
+
+
+This is the appeal from the Gauteng Division of the High Court, Pretoria against the finding of Malindi AJ (sitting as a court of first instance) – Ed.
+
+Keywords
+
+
+Criminal law and procedure — Organised crime — Theft, fraud and money laundering — Forfeiture order — Jurisdiction where money located in foreign country — Proceeds of unlawful activity
+
+Mini Summary
+
+
+On 28 July 2017 the High Court granted an ex parte application for a preservation order, in terms of section 38 of the Prevention of Organised Crime Act 121 of 1998, in respect of credit balances and interest accrued and held in two accounts in Israel in the name of the first appellant (Ronald Bobroff) at the Bank Discount (BD), and the second appellant (Darren Bobroff) at the Bank Mizrahi Tefahot (BMT), respectively. The National Director of Public Prosecutions (NDPP) contended that the credits held in those Israeli bank accounts were proceeds of unlawful activities as defined in the Act. The Bobroffs, who were temporarily resident in Australia, opposed the granting of a forfeiture order, arguing that the NDPP had failed to establish that the credit balances constituted proceeds of unlawful activities. The High Court granted an order declaring the credit balances and interest forfeit to the State, in terms of section 50 of the Act, leading to the present appeal.
+
+The Bobroffs were prominent attorneys practising as directors of the firm Ronald Bobroff and Partners Incorporated in Johannesburg. The firm practiced predominantly in the field of personal injury litigation, often acting on contingency. In 2010, allegations began to surface that the firm had charged clients inflated fees exceeding the maximum permitted in terms of the Contingency Fees Act 66 of 1997. Further allegations of impropriety led to a police investigation culminating in warrants of arrest being issued against the Bobroffs. Before the warrants could be executed, the Bobroffs departed for Australia. The South African Police Service (SAPS) caused a Red Notice to be circulated through Interpol.
+
+The South African authorities were alerted to the bank accounts referred to above when the Israeli police requested assistance in their investigation into suspected crimes of money laundering, which had allegedly been committed by the Bobroffs in Israel.
+
+Held that the first issue was whether the High Court had jurisdiction to grant a forfeiture order in terms of the Prevention of Organised Crime Act in respect of property held in Israel by the Bobroffs, who were currently resident in Australia. The determination of jurisdiction involves a two stage inquiry: it must first be established whether the court is competent to take cognisance of the particular case (that is, whether a recognised jurisdictional ground is present). Second, if a jurisdictional ground is established, it must be decided whether an effective judgment can be given. Taking into account the forfeiture provisions in the Act and the provisions of the International Co-operation in Criminal Matters Act 75 of 1996, the court held that enlisting international assistance in the enforcement of a forfeiture order in respect of property held in another country was catered for. Therefore, the first leg of the jurisdictional enquiry was determined in favour of the NDPP.
+
+As the mechanism for the enforcement of a forfeiture order in respect of property in a foreign State is provided for in section 19 of the International Co-operation in Criminal Matters Act, the second leg was also fulfilled.
+
+On the merits, the court was satisfied, on a balance of probabilities, that the offences alleged to have been committed by the Bobroffs, were established. Extensive evidence was adduced regarding the channelling of large sums of money from the Bobroffs’ firm to accounts in Israel. The source of that money was not explained. On a balance of probabilities, the funds deposited into the bank accounts were proceeds of the unlawful activities and the money had been laundered to disguise its origin and identity prior to their deposit in the Israeli bank accounts. Of the credits in the BD account, USD 256 217.84 and AUSD 284 785.32 were not shown to be proceeds of unlawful activity and were excluded from the ambit of the forfeiture order. Other than that, the appeal was dismissed.
+
+ 
+[2021] JOL 50282 (SCA) at 2
+
+
+
+
+EKSTEEN AJA:   
+
+[1]    Two issues arise in this appeal. First, whether the High Court, Pretoria (the High Court) had jurisdiction to make a forfeiture order in terms of section 50(1)(b) of the Prevention of Organised Crime Act 121 of 1998 (POCA) in respect of property situated outside the territory of South Africa and belonging to persons who are presently resident in Australia? If so, second, whether the respondent, the National Director of Public Prosecutions (NDPP), had established that the property forfeited was "proceeds of unlawful activities" as defined in the POCA.
+
+ 
+[2021] JOL 50282 (SCA) at 3
+
+[2]    On 28 July 2017 the High Court granted an ex parte application for a preservation order, in terms of section 38 of the POCA, in respect of credit balances and interest accrued and held in two accounts in Israel in the name of the first appellant, Mr Ronald Bobroff (Ronald Bobroff) at the Bank Discount (BD), and the second appellant, Mr Darren Bobroff (Darren Bobroff) at the Bank Mizrahi Tefahot (BMT), respectively.1 The NDPP contended that the credits held in these accounts were proceeds of unlawful activities as defined in the POCA. Both Ronald Bobroff and Darren Bobroff (the Bobroffs), who were temporarily resident in Australia, entered an appearance, in terms of section 39 of the POCA, to oppose the granting of a forfeiture order. They challenged the jurisdiction of the High Court and argued that the NDPP had failed to establish that the credit balances constituted proceeds of unlawful activities. An application for forfeiture followed on 20 August 2019, and the High Court granted an order declaring the credit balances and interest forfeit to the State, in terms of section 50 of the POCA. The appeal to this Court against the forfeiture order is with leave of the High Court.
+
+[3]    The Bobroffs had been prominent attorneys practising as directors of the firm Ronald Bobroff and Partners Incorporated (the firm) in Johannesburg. Ronald Bobroff had been a member of the Council of the Law Society for the Northern Provinces (the Law Society) for many years and was a chairperson of the Personal Injury Lawyers Association in South Africa. Darren Bobroff, Ronald Bobroff's son, was admitted as an attorney in South Africa in 2004 and became a director in the firm in 2006. The firm practised predominantly in the field of personal injury litigation, often acting on contingency. In 2010, allegations began to surface that the firm had, over the preceding three years, charged clients inflated fees exceeding the maximum permitted in terms of the Contingency Fees Act 66 of 1997 (the CFA). During 2011, a former client of  
+[2021] JOL 50282 (SCA) at 4
+the firm filed a complaint against Darren Bobroff with the Law Society alleging that he had been charged inflated fees. The Law Society commenced a disciplinary enquiry against the Bobroffs in February 2012. The enquiry was protracted and frustrated by the failure of the Bobroffs to co-operate. In the interim, in October 2012, Ms Bernadine van Wyk, a bookkeeper employed by the firm, deposed to an affidavit pursuant to the Protected Disclosures Act 26 of 2000, in which she made serious allegations of significant financial impropriety by the Bobroffs. This prompted an investigation by the South African Police Service (SAPS). Eventually, on 3 March 2016, the Law Society filed an application to strike the Bobroffs from the roll of legal practitioners.2 The application, which eventually led to the disbarment of the Bobroffs, was heard on 14 March 2016. This was the same day that the SAPS, as a result of their investigation, issued warrants of arrest for the Bobroffs. However, on 16 March 2016, before the warrants could be executed, Darren Bobroff departed for Australia, and Ronald Bobroff followed on 19 March 2016. Neither has returned since. As a result of their sudden departure, the SAPS caused a red notice to be circulated through Interpol.
+
+[4]    On 8 May 2017, the State Attorney in Israel sent a request for assistance in a criminal matter to the Department of Justice and Constitutional Development in South Africa. The request recorded that the police in Israel were conducting an investigation into suspected crimes of money laundering, which had allegedly been committed by the Bobroffs in Israel. The investigation, it said, had arisen out of a suspicious transaction which had been transmitted by a compliance officer in the BMT on 12 February 2017. The compliance officer had reported that Darren Bobroff, a non-resident of Israel, maintained a BMT account and had given an instruction to transfer USD3 million from his account at the BMT to an account in Australia. The transaction had appeared suspicious  
+[2021] JOL 50282 (SCA) at 5
+and the BMT accordingly declined to execute the transfer. Darren Bobroff responded with a request to withdraw the entire credit of approximately USD7 million, which he held in the BMT account at the time. This action prompted the compliance officer to contact the Israel National Police for instructions.
+
+[5]    On 1 March 2017, the Israel National Police had received a report from the compliance officer of BD regarding an attempt by Ronald Bobroff to withdraw an amount of USD830 000 from an account in his name at BD. The Israel National Police thereafter learnt of the Interpol Red Notice, hence their investigation. The accounts were then frozen at the instance of the Israel National Police and litigation followed as the Bobroffs sought the release of the funds. I shall revert to this litigation.
+
+[6]    The NDPP contends, as I have said, that the credit balances in these accounts represent proceeds of unlawful activities in South Africa, in particular theft, fraud, money laundering and transgressions of the South African tax legislation.
+
+[7]    I consider, first, the question of jurisdiction. The determination of jurisdiction involves a two-stage inquiry: it has, first, to be established whether the Court is, as a matter of principle, competent to take cognisance of the particular case (that is, whether a recognised jurisdictional ground is present); and second, if a jurisdictional ground is established, whether an effective judgment can be given.3
+
+[8]    Mr Subel, on behalf of the appellants, contended that neither of the requirements for jurisdiction had been established. In respect of the first leg, he referred to section 21 of the Superior Courts Act 10 of 2013 (the Courts Act), which  
+[2021] JOL 50282 (SCA) at 6
+provides for the jurisdiction of the High Courts in both civil and criminal matters. The material portion of section 21 provides:
+
+A Division has jurisdiction over all persons residing or being in, and in relation to all causes arising and all offences triable within, its area of jurisdiction and all other matters of which it may according to law take cognisance . . ."
+
+It has been said that these provisions of the Courts Act are couched in "indefinite wording", because the intention of the Legislature obviously was to interfere as little as possible with the common law.4 Mr Subel therefore contended that it is to the common law that we must look to determine whether a recognised jurisdictional ground is present. He referred us to Erasmus, Superior Court Practice,5 which records:
+
+"The jurisdictional connecting factors or rationes jurisdictionis recognised by the common law include residence, domicile, the situation of the subject matter of the action within the jurisdiction, cause of action which includes the conclusion or performance of a contract and the commission of a delict within the jurisdiction."
+
+[9]    Mr Labuschagne, on behalf of the NDPP, on the other hand, argued that the POCA itself provides for extraterritorial jurisdiction in forfeiture proceedings. He relied largely on the definition in the POCA of "proceeds of unlawful activities", which is defined to mean: "any property or any service, advantage, benefit or reward which was derived, received or retained, directly or indirectly, in the Republic or elsewhere, at any time before or after the commencement of this Act, in connection with or as a result of any unlawful activity carried on by any person, and includes any property representing property so derived".6
+
+[10]    Forfeiture proceedings under Chapter 6 of the POCA are not dependent on the institution of criminal proceedings. The focus in such proceedings is not on  
+[2021] JOL 50282 (SCA) at 7
+the wrongdoer, but on the property which had been used to commit an offence or which constitutes the proceeds of a crime.7 The proceedings are "in rem" and are civil proceedings.8 The property subject to forfeiture in this matter, being credit balances in a bank account, are incorporeal moveable assets and I accept, for purposes of this judgment, that at common law, jurisdiction for such an action is determined by the forum rei sitae, which is the place of residence of the debtor.9
+
+[11]    However, jurisdiction of South African courts is not determined solely by section 21 of the Courts Act. Generally, the jurisdiction of our courts has three sources; statutory, common law and inherent jurisdiction. Apart from the Courts Act, matters of jurisdiction are dealt with in numerous statutory provisions.10 Whether the POCA provides a statutory jurisdictional ground is a question which requires an interpretation of the POCA, and in particular Chapter 6 thereof. The interpretation of documents, including statutes, requires a consideration of the language used, in the light of the ordinary rules of grammar and syntax, in the context in which the provision appears. The apparent purpose to which it is directed should be considered in the light of all the material known to those responsible for its production. Finally, when more than one meaning is possible, each possibility must be weighed in the light of all the factors, and a sensible meaning is to be preferred to one that leads to insensible or unbusinesslike results.11
+
+ 
+[2021] JOL 50282 (SCA) at 8
+
+[12]    It has historically been a principle of public international law that the jurisdictional competence of a State is primarily territorial.12 In Kaunda at paragraph 3813, Chaskalson CJ accepted that:
+
+"It is a general rule of international law that the laws of a State ordinarily apply only within its own territory."
+
+However, this basic principle appears to be losing ground. Thus, the Constitutional Court stated in Basson14 at paragraph 223, in respect of criminal prosecutions:
+
+"We accept that as a general proposition our courts have declined to exercise jurisdiction over persons who commit crimes in other countries. This, as Dugard points out, is an aspect of sovereignty which has given rise to a presumption against the extraterritorial operation of criminal law."
+
+It proceeded, however, to note at paragraph 224:
+
+"It seems generally to be recognised, even by those countries which limit their jurisdiction to crimes committed within their territories, that there are exceptions to the territorial rule. . . . Exceptions are also made in respect of transnational crimes where more than one state may have an interest in holding the offender liable for the crime."
+
+[13]    Whilst forfeiture is a civil matter, it is alleged to arise, in this case, at least in part, from transnational money laundering. In modern society, internationalisation has become a feature of social and cultural life worldwide. Falling borders, better roads and means of transport, relaxed legislation in some places, and advanced electronic technology have all contributed to the escalation of transnational crimes. Electronic banking has made the transfer of money across borders uncomplicated and instantaneous, and currencies can be changed at the drop of a hat.15 Kruger16 suggests that international crime and terrorism have led to the separation between jurisdiction and the sovereignty of  
+[2021] JOL 50282 (SCA) at 9
+States. Rather, treaties are now used to establish suitable jurisdiction.17 With the increase in organised crime, there has been a growing perception, internationally, that conventional penalties are inadequate as measures of deterrence to crime. Thus, in National Director of Public Prosecutions and another v Mohamed NO and others,18Ackermann J said:
+
+"It is common cause that conventional criminal penalties are inadequate as measures of deterrence when organised crime leaders are able to retain the considerable gains derived from organised crime, even on those occasions when they are brought to justice. . . . Various international instruments deal with the problem of international crime in this regard and it is now widely accepted in the international community that criminals should be stripped of the proceeds of their crimes, the purpose being to remove the incentive for crime, not to punish them. This approach has similarly been adopted by our Legislature."
+
+[14]    It was against this background that the POCA was promulgated. The preamble to the POCA recognises the rapid growth of organised crime and money laundering, nationally and internationally. It records that "no person should benefit from the fruits of unlawful activities", and that legislation is necessary to provide for a civil remedy for the preservation, seizure and forfeiture of property which is derived from unlawful activities. Chapter 5, which applies where there has been a prosecution, and 6, which applies even where no prosecution is instituted, provide the mechanism for such forfeiture.
+
+[15]    Forfeiture under Chapter 6 of the POCA is a two-stage process. The first step is to obtain a preservation order as provided for in section 38 of the POCA.19 The section provides for the application to be made ex parte, and the High Court may make a preservation order if there are reasonable grounds to believe that the property concerned is "an instrumentality of an offence referred to in schedule  
+[2021] JOL 50282 (SCA) at 10
+1" or "the proceeds of unlawful activities".20 For present purposes I confine myself to "proceeds of unlawful activities".
+
+[16]    Notice to any interested party is required after the preservation order is made, and such party is afforded an opportunity to enter an appearance to resist the granting of a forfeiture order.21 The Bobroffs did so. While a preservation order is in force, the NDPP may bring an application for the property to be forfeited to the State.22 Section 50 empowers the High Court to make an order of forfeiture, subject to the provisions of section 52, provided that it finds on a balance of probabilities that the property concerned is "the proceeds of unlawful activities".
+
+[17]    The definition of "proceeds of unlawful activities" strikes at any property "derived, received or retained, directly or indirectly, in the Republic or elsewhere". "Property", is defined in the POCA to mean, "money or any other movable, immovable, corporeal or incorporeal thing and includes any rights, privileges, claims and securities and any interest therein and all proceeds thereof".23 The purpose of section 50(1) of the POCA, as read with the definition of "proceeds of unlawful activities", in the context of the known developments worldwide in relation to transnational crime, is to strip offenders of the proceeds of their crime wherever they may retain it. I am fortified in this conclusion by the provisions of the International Co-operation in Criminal Matters Act 75 of 1996 (the ICCM Act). The purpose of the ICCM Act, as recorded in the preamble to the Act, is, amongst others:
+
+"To facilitate . . . the confiscation and transfer of the proceeds of crime between the Republic and foreign States; and to provide for matters connected therewith." 
+[2021] JOL 50282 (SCA) at 11
+Section 19 of the ICCM Act provides for South Africa to request a foreign State to assist it in the enforcing of a confiscation order.24 The ICCM Act was promulgated approximately two years prior to the POCA, however, it is not insignificant that the definition of a "confiscation order" contained in the ICCM Act was amended in 1998, simultaneously with the promulgation of the POCA, to mean:
+
+"A confiscation or forfeiture order made under the Prevention of Organised Crime Act, 1998 (Act No 121 of 1998)."
+
+When section 50 and the definition of "proceeds of unlawful activities" in the POCA are viewed together with the amendment of the ICCM Act, the ineluctable conclusion to which I am driven is that they are directed at enlisting international assistance in the enforcement of a forfeiture order made under the POCA in respect of property held in another country. Therefore, the first leg of the jurisdictional enquiry must be determined in favour of the NDPP.
+
+[18]    As adumbrated earlier, Mr Subel argued that, even if the Court were able to take cognisance of the dispute, the NDPP failed on the second leg of the jurisdictional enquiry, because this Court is unable to give an effective judgment; that is, one which could be enforced at the instance of the Court. It has often been said that effectiveness is the basis of jurisdiction. Thus, in South Atlantic Islands Development Corporation Ltd25 Diemont J stated:
+
+"If the accent is to be laid on the question of relief it is because the Court is concerned with the effectiveness or otherwise of its judgment. Where the relief asked for is such that it will not be enforceable, the judgment becomes illusory and the Court should not undermine its authority by giving such a judgment. This no doubt is why it has been repeatedly stated that the principle of effectiveness is the basis of jurisdiction."
+
+ 
+[2021] JOL 50282 (SCA) at 12
+
+[19]    Traditionally, effectiveness would be achieved by an arrest ad fundandum jurisdictionis, or an attachment of property to found jurisdiction. The purpose of the attachment to found jurisdiction was, thereby, to enable the court to pronounce a not altogether ineffective judgment.26 An arrest to found jurisdiction has now been held to be unconstitutional and no longer finds application in South Africa.27 In respect of attachment, this Court in Bid Industrial stated with reference to effectiveness, at paragraph 57:
+
+"As to the principle of effectiveness, despite its having been described as 'the basic principle of jurisdiction in our law', it is clear that the importance and significance of attachment has been so eroded that the value of attached property has sometimes been 'trifling'."
+
+These comments have led some commentators to consider that it is doubtful whether the doctrine of effectiveness can survive scrutiny.28
+
+[20]    Considering the rationale for the principle of effectiveness as the basis for jurisdiction in Bid Industrial, this Court observed that the jurisdictional principles at issue originated, "because courts have always sought to avoid having to try cases when their judgments will, or at least could, prove hollow because of the absence of any possibility of meaningful execution in the plaintiff's jurisdiction".29 Whilst it may be that execution cannot be achieved within the jurisdiction of the court, this is not a case where there is no reasonable possibility of execution. Section 19 of the ICCM Act is specifically directed at achieving the effectiveness of a forfeiture order made in respect of assets abroad. Whilst it does not guarantee the satisfaction of the forfeiture order, it does provide a mechanism for the achievement thereof, which has a reasonable prospect of success. In the final analysis, as this Court remarked in Bid Industrial, "the responsibility for achieving effectiveness, absent attachment, is essentially that of the parties, and more especially the plaintiff.
+
+ 
+[2021] JOL 50282 (SCA) at 13
+
+Economic considerations will dictate whether a South African judgment has prospects of successful enforcement abroad . . .".30
+
+[21]    The High Court ordered that "authorised persons of Bank Mizrahi Tefahot, Israel and Bank Discount, Israel are directed to deposit the balance of the proceeds in the aforementioned accounts into the Criminal Assets Recovery Account" established under the POCA. In doing so, it purported to exercise jurisdiction over persons not resident under its jurisdiction and over whom it has no authority. As adumbrated earlier, the mechanism for the enforcement of a forfeiture order in respect of property in a foreign State is by section 19 of the ICCM Act. Accordingly, paragraph 3 of the High Court order requires amendment.
+
+[22]    I have alluded earlier to the litigation in Israel which may have an impact on the prospects of a successful execution, depending on the orders which may ultimately be made by the Israeli courts. The facts relating to that issue are not before us and I am unable to make any finding in that regard. I accordingly conclude that the High Court did have jurisdiction to entertain the application for forfeiture, for the reasons set out earlier.
+
+[23]    I turn to the merits of the application. The first inquiry is whether an offence has been committed. The NDPP relied on theft, fraud, money laundering and contraventions of the tax legislation. By virtue of the conclusion to which I have come, it is not necessary to consider the aspects relating to tax contraventions.
+
+[24]    The allegations of theft, fraud and money laundering arise from two sources of alleged misconduct. Firstly, the NDPP contended that the Bobroffs had been guilty of overreaching their clients through the abuse of contingency  
+[2021] JOL 50282 (SCA) at 14
+fee agreements from 2007 to 2016. Secondly, they relied on the affidavit of Ms van Wyk, referred to earlier. I shall revert to her affidavit.
+
+[25]    It is necessary, first, to set out the context in which the contingency fee agreements came to be concluded. As I have said, the Bobroffs practised predominantly in the field of personal injury litigation and often on a contingency basis. At common law a practitioner was entitled to charge a reasonable fee for work actually done. A contingency fee agreement between a litigant and his attorney, in terms of which the latter would take a percentage of the award made, was unlawful.31 In the 1990s, attorneys in South Africa expressed an interest to act on behalf of clients on a contingency basis, comparable to that utilised in the United States of America, where a percentage of the award would be taken in lieu of professional fees, and some thought that they might be entitled to do so at common law. Accordingly, in 1992, the Natal Law Society sought the guidance of the then Chief Justice Corbett. He responded:
+
+"I am prima facie of the view that any [contingency fee agreement] between an attorney and his client . . . would be unlawful at common law. I list some common law authorities which I have consulted in this regard and also some case law (I do not claim that my somewhat hurried research has been at all exhaustive): Voet 2.14.18; Kersteman-Woordenboek; SV Conditie van Triumphe; Grotius 3.1.41 and Schorer's Note CCIXXV; Van der Keessel Praelectiones 3.1.41; Van Leeuwen RD Law 5.4.2; Incorporated Law Society v Reid (1908) 25 (SC) 612; Goolam Mohamed v Janion (1908) 29 (NLR) 304; Hollard v Zietsman (1885) 6 (NLR) 93, a judgment of Connor CJ containing a full review of the common law authority; Campbell v Welverdiend Diamonds Limited 1930 (DPD) 287, where a number of the cases are [reviewed]. See also Christie, the Law of Contract (2ed), 420. It is true that the decision of Patz v Salzburg (1907) (TS) 526 appears to run counter to the general trend, but this did not concern an arrangement between an attorney and client."32
+
+Notwithstanding these observations, there was growing recognition that indigent persons, frequently victims who had sustained personal injury, were  
+[2021] JOL 50282 (SCA) at 15
+unable to generate sufficient funds to pay for litigation to recover compensation for their injuries. The CFA was accordingly promulgated in 1997. The CFA permits practitioners to charge up to double their usual rate, subject to a maximum of 25% of the award made, in accordance with a written agreement entered into prior to litigation.
+
+[26]    Notwithstanding the CFA, and the weight of the common-law authority, attorneys practising under the auspices of the Law Society obtained an opinion from counsel that attorneys were entitled to raise a fee, at common law, under a contingency fee agreement, which would not be limited to the 25% stipulation. In July 2002, the Law Society approved the opinion and endorsed the practice. Notwithstanding their endorsement, they understood that common-law contingency fee agreements were controversial and might yet be held to be unlawful. They accordingly advised their members to enter into additional fee agreements with their clients, either under the CFA or an agreement to charge a reasonable fee in terms of the common law. Whilst there is some dispute as to the frequency with which the Bobroffs used common-law contingency fee agreements between 2002 and 2014 to take more than 25% of an award made to their clients, they acknowledged that they did so. Ronald Bobroff explained that they entered into additional fee agreements with clients, as recommended by the Law Society, as a "fall back", in case the common-law contingency fee agreement might be declared invalid.
+
+[27]    In due course some clients, including Ms de la Guerre, challenged the lawfulness of the common-law contingency fee agreement. Her matter was pursued all the way to the Constitutional Court where, on 20 February 2014, the practice was declared to be unlawful and the agreement invalid.33 The Bobroffs contend that they never intentionally or fraudulently entered into such  
+[2021] JOL 50282 (SCA) at 16
+agreements, and did not do so after the judgment of the Constitutional Court. However, they did not repay their ill-gotten gains to their erstwhile clients after the final judgment. In S v Graham,34 it was held that if A, mistakenly thinking that an amount is due to B, gives B a cheque in payment of that amount and B, knowing that the amount was not due, deposits the cheque, B commits theft of money although he has not appropriated money in the corporeal sense. It is his claim to be entitled to be credited with the amount of the cheque that constitutes the theft.35 In Nissan, this Court explained:
+
+"The position can be no different where A, instead of paying by cheque, deposits the amount into the bank account of B. Just as B is not entitled to claim entitlement to be credited with the proceeds of a cheque mistakenly handed to him, he is not entitled to claim entitlement to a credit because of an amount mistakenly transferred to his bank account. Should he appropriate the amount so transferred, ie should he withdraw the amount so credited, not to repay it to the transferor but to use it for his own purposes, well knowing that it is not due to him, he is equally guilty of theft."36
+
+A fortiori, where money is paid to A, in terms of an agreement which A knows may be open to challenge, and A retains and appropriates such money to himself after the unlawfulness of the agreement is confirmed, he commits theft. The Bobroffs' overreaching, coupled with their decision to retain their gains and investing or reinvesting same for their own benefit, after 2014, knowing that they were not entitled to the money, constituted theft.
+
+[28]    The second pillar on which the NDPP's case rests is the affidavit of Ms van Wyk. She was an experienced legal bookkeeper employed by the firm on 16 September 2010. As adumbrated earlier, she attested to an affidavit as a "whistleblower". She made numerous damning allegations of financial impropriety, which she had observed, and of misappropriation of funds. In order to place the legal issues in context, it is necessary to set out the thrust of some of  
+[2021] JOL 50282 (SCA) at 17
+her observations in some detail. I record the material averments which she made and which are sufficient for present purposes. When she took up employment during September 2010, she said, the financial records of the firm were in chaos and she spent approximately five months doing credit reconciliations relating to the period prior to her employment.
+
+[29]    During October 2010, a dispute arose between Discovery Health Insurance (Discovery), on the one hand, and the firm, on the other, in respect of medical and hospital expenses recovered by the firm in litigation, on behalf of members of Discovery, which had allegedly not been paid over to Discovery. Ms van Wyk said that the issue at the heart of the dispute was that the firm had appropriated 40% of the damages recovered from the Road Accident Fund (RAF) with the result that Discovery, and the clients, received only 60% of the hospital and medical expenses, which had been paid to the firm by the RAF. When the issue arose, Ronald Bobroff requested her to identify the Discovery members who had been represented by the firm in the preceding three years (from 2008 to 2010). She was able to trace approximately 300 such clients. However, Discovery had only identified 70 cases and, accordingly, these 70 files had been retrieved from the archives. Ms van Wyk noticed that many of the files did not contain final accounts to clients, notwithstanding that they had been archived. She also observed that trust money was reflected on some files, which had not been used to settle outstanding creditors, and fees had not been debited. In some cases clients had not even been paid.
+
+[30]    Darren Bobroff, she said, took possession of the 70 files and set to work on them. He manufactured false final accounts to bring the files up to date and to hide the incorrect accounting on the files. In this regard, she noted that in many instances the firm had appropriated more than what they were entitled to as fees, and fictitious disbursements had been created and deducted. When  
+[2021] JOL 50282 (SCA) at 18
+Darren Bobroff had completed these fictitious financial accounts, he instructed Ms van Wyk to pass the relevant entries so that the ledger would correlate with the account. This, she stated, necessitated countless reversals of fictitious disbursements.
+
+[31]    Ms van Wyk declared that, quite apart from the Discovery issue, it was a standard instruction from Darren Bobroff to "take R15 000 to disbursements. No VAT" in respect of each file. When she queried the instruction, she was told by him that the auditor of the firm had "okayed it". These "disbursements" bore no relation to any actual expenses.
+
+[32]    Flowing from the dispute with Discovery, a formal complaint was laid with the Law Society during 2011 by one Matthew Graham, a former client of the firm, who alleged that he had been overreached. The complaint became the focus of Ronald Bobroff's attention at the time. Attorney George van Niekerk, of the firm Edward Nathan Sonnnenberg, represented Mr Graham and four other clients. He arranged to inspect the files of the firm in respect of these clients. At the time, Ronald Bobroff's personal assistant put together five files for inspection. The file notes evidencing time spent on various attendances, Ms van Wyk said, were fabricated and all financial information was removed from the files. Two control files, containing all the material which had been removed, were retained at the home of Ronald Bobroff, while the sanitised versions were presented to Mr van Niekerk for inspection.
+
+[33]    After inspecting the files Mr van Niekerk called for proof that value added tax (VAT) had in fact been raised, and paid, on the fee claimed in the Matthew Graham matter. Ronald Bobroff then instructed Ms van Wyk to pay VAT to the South African Revenue Service (SARS). He contended that the earlier failure had occurred due to an oversight by the previous bookkeeper. 
+
+ 
+[2021] JOL 50282 (SCA) at 19
+
+Thus, he suggested, the narrative on the ledger account should have read "interim fee" and "paid VAT". However, in fact, the account, in the records of the firm, revealed that the fee taken by the firm, although not formally raised, had been paid in full into a Bidvest account. She was not acquainted with the identity of the account holder, but did know that the money was never returned from the Bidvest account to the business account of the firm. She, accordingly, informed Ronald Bobroff that she could not carry out his instruction until the money had first come back into the trust account of the firm.
+
+[34]    The allegations by Ms van Wyk speak to specific instances of widespread theft and fraud involving the Bobroffs from approximately 2008 (in respect of the Discovery files) to 2012. In response, the Bobroffs attacked her character and contended that she was dishonest, had previously been convicted of fraud and had been recruited by third parties to spy on the firm and leak information. However, they failed to engage with the very pertinent allegations of financial impropriety. These allegations, accordingly, stood largely uncontested. The unsubstantiated attack upon the character of Ms van Wyk cannot create a dispute of fact. In Wightman,37 this Court, at paragraph 13, said:
+
+"A real, genuine and bona fide dispute of fact can exist only where the court is satisfied that the party who purports to raise the dispute has in his affidavit seriously and unambiguously addressed the fact said to be disputed. There will of course be instances where a bare denial meets the requirement because there is no other way open to the disputing party and nothing more can therefore be expected of him. But even that may not be sufficient if the fact averred lies purely within the knowledge of the averring party and no basis is laid for disputing the veracity or accuracy of the averment. When the facts averred are such that the disputing party must necessarily possess knowledge of them and be able to provide an answer (or countervailing evidence) if they be not true or accurate but, instead of doing so, rests his case on a bare or ambiguous denial the court will generally have difficulty in finding that the test is satisfied. I say 'generally' because factual averments seldom stand apart from a broader matrix of circumstances all of which needs to be borne in mind when arriving at a decision." 
+[2021] JOL 50282 (SCA) at 20
+These comments are particularly apt in the present case. The Bobroffs are, as I have said, experienced attorneys well acquainted with the demands of litigation, and they have chosen not to engage with the damaging allegations of dishonesty, theft and fraud levelled against them. I am therefore satisfied, on a balance of probabilities, that these offences were established.
+
+[35]    In respect of the alleged money laundering, Ms van Wyk became aware of what has been described as the "Zunelle account", in which substantial amounts of the firm's money had been deposited. It purported to be an investment account established in terms of section 78(2)(a) of the Attorneys Act 53 of 1979. However, the "Zunelle account" was not referred to anywhere in the books of the firm, nor was Zunelle a trust creditor of the firm. Ms van Wyk was not permitted to have access to the account, but, she said, she had "been advised" that there were multiple "Zunelle accounts" at Investec Bank and Standard Bank. These allegations are, of course, hearsay, but the Bobroff's response to them was not consistent.
+
+[36]    In the affidavit in terms of section 39 of the POCA, they explain that the shareholders of the firm, acting on the advice of its accountant, established a trust investment account with Investec Bank in the name of Zunelle, which is Hebrew for "sons", as it was intended to utilise those funds to purchase property to be owned by the sons of the shareholders and directors of the firm. The money deposited therein, so it was explained, constituted surplus post fee amounts which were due to the Bobroffs and Mr Bezuidenhout, their co-director. However, in the answering affidavit to the forfeiture application they said that the "business banker of the practice" advised that Stanlib offered the highest interest return on moneys invested with it, but subject to such moneys being identified as section 78(2)(a) investments. Amounts that could be invested in this manner would only have been amounts that constituted trust funds paid, by a client, into the trust account of an attorney, whereafter the interest that accrued  
+[2021] JOL 50282 (SCA) at 21
+thereon would have to be paid to the client concerned. This "Zunelle account" was opened at Stanlib and the Bobroffs admitted that an amount in excess of R32 million was deposited therein. They candidly acknowledged that the money did not constitute trust funds held on behalf a client. Of the "Zunelle account" at Investec there was no word. Ronald Bobroff alleged that the account at Stanlib was eventually disclosed to the SARS and closed. The money, he said, was returned to the practice account. However, he provided no banking records in support thereof, did not disclose when this allegedly occurred, and did not take the court into his confidence in respect of the amount of money which was returned to the business account of the firm.
+
+[37]    That brings me to a consideration of the money invested in the BMT. Darren Bobroff initially contended that these funds were primarily from money legitimately earned by him from the firm. I shall revert to this issue. However, significantly, he frankly affirmed that the money did not always flow directly to the BMT from the firm's business account, but rather, it flowed through other financial institutions, which were authorised to transfer funds from South African banking institutions, eventually to be received by the BMT. He proffered no explanation for this practice, nor did he reveal the accounts through which the funds were channelled.
+
+[38]    In a supplementary answering affidavit, filed at the 11th hour, the Bobroffs contended that they had over the years frequently travelled abroad, usually accompanied by their spouses, and that they had deposited their travel allowances in various banking accounts abroad. To this end, they had opened and closed numerous accounts for the reason that they had been advised by the banks that it was a simple matter for banking authorities in South Africa to determine whether the travellers' cheques had been deposited into international bank accounts, and to then take steps to attempt to attach the credit amounts. 
+
+ 
+[2021] JOL 50282 (SCA) at 22
+
+The purpose of the exercise was accordingly to disguise the origin and identity of the money. This practice bore all the hallmarks of money laundering.
+
+[39]    Mr Subel submitted that the NDPP had failed to establish that the amounts held in the BMT constituted proceeds of unlawful activities. The definition of "proceeds of unlawful activities", quoted earlier, relates to any property, benefits or reward which has been derived, received or retained, directly or indirectly, in connection with or as a result of any unlawful activity, and it includes any property representing property so derived. In order to bring property within the ambit of the definition, a link must be established, on the balance of probabilities, between the identified assets and the alleged offences. A benefit derived "directly" will include, for example, funds paid for a bribe, or amounts actually stolen by a thief. "Indirect" benefits do not accrue directly from the commission of the offence and would, it seems to me, include the appreciation in value of an asset stolen, interest accrued on embezzled funds held in a bank account, or a stock portfolio purchased with stolen funds. It would also include ancillary benefits that would not have accrued but for the commission of the offence. This Court stated in RO Cook Properties,38 at paragraph 66:
+
+"It is evident that the definition of 'proceeds of unlawful activities' is cast extremely wide, and the interpretative caution Miller JA expressed regarding 'in connection with' in Lipschitz NO v UDC Bank Ltd . . . applies. But with that adjustment made, we consider that the amplitude of the definition should be approached somewhat differently from that in the case of 'instrumentality of an offence'. This is because the risk of unconstitutional application is smaller."
+
+It proceeded, in paragraph 67, to state:
+
+"We therefore approach the definition on the basis that, subject to necessary attenuation of the linguistic scope of 'in connection with', it should be given its full ambit."
+
+ 
+[2021] JOL 50282 (SCA) at 23
+
+[40]    Where proceeds of crime have been laundered with the very purpose of disguising the origin and identity thereof, they may be mixed with other assets which may not be the proceeds of crime, and they may be converted into other forms of assets which technically are not direct proceeds of crime. In the case of money, this would typically be the case. The definition of the concept in section 1 of the POCA therefore includes "any property representing property so derived". In Botha,39 a corrupt relationship existed between Ms Botha, at the time the Head of the Northern Cape Department of Social Services and Population Development, and Trifecta Investment Holdings (Pty) Ltd (Trifecta). Trifecta executed and paid for renovations to Ms Botha's family home. The renovations cost R1 169 680,49. After Ms Botha had died, the NDPP sought to recover the value of the benefit as proceeds of crime from her estate, in terms of section 48(1) and section 50 of the POCA. The Constitutional Court held that the amount paid by Trifecta in respect of the renovations represented the proceeds of crime, in the hands of Ms Botha, and ordered, in terms of section 50(1)(b), that an amount equivalent to the benefit received be paid from Ms Botha's estate to the State.
+
+[41]    I revert to the credits held in the BMT. Initially, Darren Bobroff said that the amounts held in the BMT were sourced from:
+
+Dividends paid to him by the firm from time to time as a shareholder;
+Unutilised income from the firm arising from his employment as an attorney and a director of the firm;
+Amounts transferred from banking institutions in Australia; the amounts being from access bond facilities that were available to him from the banking institutions concerned in Australia, and which banking institutions held registered bonds against his immovable property in Sydney. The reason for the transfer of these funds to Israel, he said, was that he and Ronald Bobroff decided, towards the end of 2011, to invest in property in Israel; and 
+[2021] JOL 50282 (SCA) at 24
+(d) The credit amount in an account which had been held by his sister in Israel, and which had subsequently been closed. The money was then deposited into his account in the BMT. He accordingly asserted that he held this amount in trust on behalf of his sister in the sum of approximately AUSD118 563,99.
+
+[42]    Later, as I have said, he explained that on each occasion when he travelled abroad, he deposited his travel allowance into accounts at banking institutions in Israel. He revealed three banking accounts which he had held at Bank Leumi, five at the BD, one which had been held either at BD or Bank Leumi, and the BMT account, which is the subject of the forfeiture order. His explanations regarding the accounts are vague and unhelpful. He declared that on each occasion when the accounts were closed "to the best of [his] knowledge" the credit balances "would have been transferred into one or more of [his] Israeli bank accounts".
+
+[43]    Further, in the supplementary answering affidavit, he disavowed the earlier declaration that he held moneys in trust on behalf of his sister. He now suggested that it had been an error and that he had intended to refer to his daughter. Her age is not disclosed, nor did Darren Bobroff say from where she obtained the money, and she did not attest to an affidavit. Save for these generalisations, no explanation was provided for the source, in each instance, of the moneys deposited into the various accounts or the movement of money between accounts.
+
+[44]    Darren Bobroff graduated in 1999. He then emigrated to Australia where he was admitted to practise as a legal practitioner in 2001. His sojourn in Australia was, however, short-lived, and he returned to South Africa in March 2002. As I have said, he was admitted to practise here in 2004 and became a director of the firm in 2006. After just five years of practise he held an account  
+[2021] JOL 50282 (SCA) at 25
+with Bank Leumi in Israel. He said that he did not recall when the account was opened. The account had five different components; Australian Dollars (AUSD), Euros (EUR), Great British Pounds (GBP), United States Dollars (USD), and Israeli Shekels (ILS).
+
+[45]    During the period from 21 July 2010 and 2 November 2010, when the dispute with Discovery arose at the firm, and approximately a year before the alleged decision to invest in property in Israel, Darren Bobroff caused an amount of AUSD1 184 273,84 to be deposited into the account. No explanation for the source of these funds was advanced and the unsubstantiated suggestion that it represented the surplus earnings of a junior attorney does not commend itself to me. The account was characterised thereafter with regular, sometimes substantial, deposits of AUSD. The sums invested in the other components were substantially smaller, but the source thereof remained equally unexplained.
+
+[46]    In respect of the subsequent AUSD deposits, Darren Bobroff contended that while he was in Australia in 2001 he, and his partner, purchased a residential unit together for the purchase price of AUSD345 000, which was bonded in favour of the National Australian Bank. Their relationship failed in 2002 and upon their separation Darren Bobroff acquired her 50% interest in the property and assumed responsibility for the entire bond. The property in Australia, he said, was then let and the rental received exceeded his bond repayment. In this manner, his liability to the National Australian Bank, allegedly decreased over the years to the extent that he was able to access the loan account up to the maximum loan amount. In consequence of the decision to invest in property in Israel, Darren Bobroff transmitted the excess funds to the Bank Leumi in Israel. The amounts withdrawn from the bond account, he said, were first channelled to his savings account before being transferred to the Bank Leumi. He did not explain why this route was followed.
+
+ 
+[2021] JOL 50282 (SCA) at 26
+
+[47]    In January 2002, he purchased a second property in Australia for AUSD650 000. This, too, was let and he contends that his bond liability to HSBC Bank was depleted in the same manner from the rentals received. Thus, again, he had access to the full extent of his credit on the bond account. On 25 February 2013, just two weeks after the Full Court in Gauteng had declared the common-law contingency fee agreement with Ms de la Guerre invalid, he withdrew an amount of AUSD280 000 from his bond account, which was deposited in the account at Bank Leumi. Again, during August 2013, he alleged that, he withdrew an amount of AUSD170 000, which was so transferred to Bank Leumi. These sums are reflected in the bank statements provided. However, Darren Bobroff further contended that on 17 April 2015 an amount of AUSD160 000 was withdrawn from his bond account and transferred via his savings account to Bank Leumi. Whilst this withdrawal is reflected in his HSBC statements, the bank statements of Bank Leumi, reflect no deposit during April 2015.
+
+[48]    The source and movement of the funds in the various accounts fall within the exclusive knowledge of Darren Bobroff. His explanation, such as it is, falls woefully short in numerous respects of that which one might reasonably expect of him. No explanation was proffered for the very considerable amounts deposited into the account at Bank Leumi during 2010 to 2013, nor the substantial movement of funds from the account. This comes in the face of allegations of significant financial impropriety on his part at the firm during this period, which remained entirely unanswered, and the less than satisfactory explanations relating to the "Zunelle accounts". The withdrawal of AUSD160 000, which was not channelled to Bank Leumi, as alleged, suggests a further movement of funds which was not explained. Whilst some funds did pass through the bond account of Darren Bobroff at the National Australian  
+[2021] JOL 50282 (SCA) at 27
+Bank and the HSBC Bank, it could hardly provide an explanation for the source of the funds, particularly in the face of his admitted banking conduct, which, as I have said, bore all the hallmarks of money laundering. It is the source of the funds which is material. His suggestions of a lucrative rental market in Australia are not backed up by any proof of rental agreements, nor a set of full bank statements of his bond accounts reflecting instalments which fell due, nor affidavits of his bankers or rental agents.
+
+[49]    The second account which he revealed, was held jointly by the Bobroffs at Bank Leumi in four denominations (account number 60863/90). The statements provided by the Bobroffs for this account suggest that it was opened in 2009, in the period described by Ms van Wyk in respect of the Discovery files. Between 17 September 2009 and 2 October 2009, an amount of AUSD2 167 710,80 was transferred into this account, on 17 September 2009, USD1 050 000, and on 4 November 2009, GBP174 982,20. These payments, too, predate the alleged decision to invest in property in Israel and occurred at approximately the time of the impropriety described by Ms van Wyk. In the absence of a cogent explanation, which is clearly called for, I consider that the overwhelming probability is that these funds are the proceeds of the crimes relied on by the NDPP.
+
+[50]    These amounts were invested and reinvested over the intervening years and showed corresponding growth. Between 25 February 2016 and 13 June 2016, all these amounts were transferred to the BMT account. Mr Subel argued that, even if the NDPP did establish unlawful conduct, the interest earned on these investments could not be said to have been derived or retained "as a result of" unlawful activity, but instead resulted from the investments. He relied for this argument on RO Cook. The reliance is misplaced. In RO Cook, this Court found that the interest derived from the investment of money, which had been  
+[2021] JOL 50282 (SCA) at 28
+legitimately earned from lawful activity, did not constitute proceeds of unlawful activity. Once it is shown, however, on a balance of probabilities, that the funds had been derived from fraudulent activity, it follows, for the reasons set out earlier, that any appreciation thereof must also be proceeds of that activity. I am accordingly satisfied that a sufficient link was established between the credit balance in the BMT and the offences set out earlier.
+
+[51]    Ronald Bobroff provided a similar explanation to that of his son for the money in the BD. He identified eight banking accounts which he had conducted in Israel, America and the United Kingdom. Like Darren Bobroff, he too, was unable to recall when many of these accounts were opened or closed. He, too, provided vague, speculative explanations about the destinations of the credit balances when the accounts were closed.
+
+[52]    The BD account in issue in the forfeiture application was comprised of four denominational components being; 63 057,76 Canadian Dollars (CAD); AUSD284 785,32; USD437 547,84; and GBP99 544,23, in September 2016.
+
+[53]    The statements provided record the transfer of CAD61 000 into the BD account on 11 January 2010. No attempt has been made to explain the source of these funds. As for the GBP component, a single bank statement of an account at the BD held in the name of Darren Bobroff, opened on 5 May 2015, was provided, which reflects an opening payment in the amount of GBP99 396,20, recorded to be "COM payment order from abroad". Darren Bobroff explained that "in all likelihood, this transfer was from a bank account conducted by Ronald [Bobroff] at Bank Leumi UK". Ronald Bobroff disclosed his bank account at Bank Leumi UK PLC, which he contended was opened "in or about 2012 and was closed in or about 2015". When it was closed, he said, "the credit amounts, to the best of [his] knowledge, were deposited into an account  
+[2021] JOL 50282 (SCA) at 29
+conducted by [him] at one of those banks referred to herein or into a bank account conducted by Darren [Bobroff]".
+
+[54]    The amount of GBP99 220 was transferred on 4 August 2015 from the said account, in the name of Darren Bobroff, to the account of Ronald Bobroff at the BD.40 No explanation was advanced for depositing the amount in Darren Bobroff's account for a period of three months, only to return it to Ronald Bobroff.
+
+[55]    The origin of GBP99 220 remains unexplained, save that it may have been channelled via an account held by Ronald Bobroff in the UK, and its movement accords with Darren Bobroff's frank admission that money which flowed from South Africa passed through various financial institutions in different countries to Israel. I consider that, on a balance of probabilities, the CAD and GBP balances were the proceeds of unlawful activity.
+
+[56]    The remaining two components of the BD account are different. In respect of the AUSD investment and the USD investments, a relatively comprehensive set of bank statements have been provided. Ronald Bobroff contends that he opened an account with the BD in approximately 1981 and deposited various amounts therein. Bank statements commencing in 2005 have been annexed. In respect of the USD component, there was at the end of 2005 three separate investment amounts totalling USD11 972,06, USD55 292,08 and USD163 218,62. These amounts were periodically reinvested until the end of 2006. At this juncture a new account held jointly by the Bobroffs was opened and the three investment amounts transferred to the new account. No withdrawals were made from this account and, save as set out  
+[2021] JOL 50282 (SCA) at 30
+hereafter, no further deposits were made into this account. The three amounts were persistently reinvested together with interest thereon.
+
+[57]    The only deposit made into the account occurred on 4 August 2015 when an amount of USD180 770 was transferred into the account from Darren Bobroff. This sum was separately invested and at the time when the account was frozen the balance thereof was USD181 330. Predictably, the source of the money was not explained and the transfer occurred at a time when a flurry of money transfers took place, under Darren Bobroff's control. In my view, in the absence of an explanation, this amount, too, constitutes proceeds of unlawful activity.
+
+[58]    Save for this single deposit, however, the account in respect of the USD component predated the alleged offences and remained uncontaminated until 2016. The AUSD component may likewise be traced through the bank statements provided. It was comprised of two sums of money transferred from the original BD account to the Bobroff's joint account in 2007. These amounts were similarly periodically invested and reinvested attracting interest throughout the period. No additional amounts were deposited into this account and the investments appear to bear no relationship to the offences raised by the NDPP.
+
+[59]    Of the credits in the BD account, USD256 217,84 and AUSD284 785,32 have not been shown to be proceeds of unlawful activity. A forfeiture order involves a deprivation of property and must be consistent with the Constitution.41 The NDPP must accordingly demonstrate that the forfeiture which it seeks is proportional to the proceeds received.42 Ms van Wyk made  
+[2021] JOL 50282 (SCA) at 31
+telling allegations against both the Bobroffs which amount to fraud and theft. Whilst the precise extent of the theft may not be demonstrable on the papers, it may safely be said to exceed the amount in the BD and BMT accounts. As I have said, Ms van Wyk alluded to a standard instruction that all the files should be debited with R15 000 in lieu of postage and petties. The firm dealt with thousands of files per annum and Ronald Bobroff ventured an estimate of at least 6 000 matters in 2013 to 2015. The period of misconduct testified to by Ms van Wyk extended over a period of five years prior to 2012. A simple calculation reveals, on 6 000 files alone, that an amount of R90 million would have been illegitimately charged to unsuspecting clients on this basis. Very substantial sums thereof were moved into accounts of the Bobroffs in 2009 to 2010 upon which interest has accrued in the interim. The origin of the money is a matter exclusively within the knowledge of the Bobroffs and, save as I have said, they have made no attempt to explain it. The conclusion is therefore that the forfeiture order which I make is not disproportionate to the proceeds received from the unlawful activity proved.
+
+[60]    In the result, the following order is made:
+
+The order of the High Court is amended as follows:
+By the addition to paragraph 1.2, after the word "Bobroff" of the following:
+
+", save for the amounts of USD256 217,84 and AUSD284 785,32"; and
+
+Paragraph 3 is set aside and replaced with the following:
+
+"The balance of the proceeds in the accounts, as set out in paragraph 1 above, are to be paid into the Criminal Assets Recovery Account established under s 63 of the POCA, number [as per transcript this is part of redacted text – Ed], at the South African Reserve Bank, Vermeulen Street, Pretoria."
+
+Save to the extent set out in paragraph 1 above, the appeal is dismissed with costs, including the costs of two Counsel, where so employed.
+
+(Ponnan, Mbha, Molemela JJA; Weiner AJA concurred in the judgment of Eksteen AJA.)
+
+
+
+Footnotes
+1	At the time of the application the credit balances, which were held in various currencies, equated to approximately R99 million.
+2	The application was also directed at striking the name of the third director of the firm, Mr Stephen Derek Bezuidenhout, from the role of practitioners.
+3	Hugo v Wessels 1987 (3) SA 837 (A) [also reported at [1987] 2 All SA 290 (A) – Ed]; 4 Lawsa (3ed) para [26] and E Bertelsmann and DE van Loggerenberg Erasmus Superior Court Practice (2ed) 2015 at A2-102.
+4	Veneta Mineraria Spa v Carolina Collieries (Pty) Ltd (in liquidation) 1987 (4) SA 883 (A) [also reported at [1987] 2 All SA 447 (A) – Ed], in respect of s 19(1) of the Supreme Court Act 59 of 1959, which read in identical terms to s 21 of the Superior Courts Act.
+5	 E Bertelsmann and DE van Loggerenberg Erasmus Superior Court Practice (2ed) 2015 at A2-103-A2-104. (Latin terms omitted.).
+6	S 1 of the POCA.
+7	National Director of Public Prosecutions v RO Cook 2004 (2) SACR 208 (SCA) [also reported at [2004] 2 All SA 491 (SCA); 2004 (8) BCLR 844 (SCA) – Ed].
+8	 S 37 of the POCA.
+9	See Gallo Africa Ltd and others v Sting Music (Pty) Ltd and others [2010] ZASCA 96; 2010 (6) SA 329 (SCA) at 334A-B [also reported at [2010] JOL 26301 (SCA); [2011] 1 All SA 449 (SCA) – Ed] and MV Snow Delta Serva Ship Ltd v Discount Tonnage Ltd 2000 (4) SA 746 (SCA) paras [9]-[11] [also reported at [2000] 4 All SA 400 (A); [2000] JOL 7354 (A) – Ed].
+10	 See Erasmus at A2-89.
+11	See Natal Joint Municipal Pension Fund v Endumeni Municipality [2012] ZASCA 13; 2012 (4) SA 593 (SCA) para [18] [also reported at [2012] 2 All SA 262 (SCA); [2012] JOL 28621 (SCA) – Ed].
+12	See European Court of Human Rights, Bankovic and others v Belgium and others ECHR 2001-XII; [2001] ECHR 890 para [59], referred to with approval in Okah v S [2016] 4 All SA 775 (SCA).
+13	Kaunda and others v President of the Republic of South Africa and others 2004 (10) BCLR 1009 (CC); 2005 (4) SA 235 (CC).
+14	S v Basson 2005 (12) BCLR 1192 (CC); [2005] ZACC 10; 2007 (3) SA 582 (CC).
+15	See Albert Kruger Organised Crime and Proceeds of Crime Law in South Africa (2ed) 2008 at 3 para [1.4.1] and at 4 para [1.4.4].
+16	Kruger fn 13 above.
+17	Kruger fn 13 above at 176 fn 65.
+18	National Director of Public Prosecutions and another v Mohamed NO and others 2002 (2) SACR 196 (CC) para [15] [also reported at [2002] JOL 9896 (CC); 2002 (9) BCLR 970 (CC) – Ed].
+19	S 38(1) provides: "The National Director may by way of an ex parte application apply to a High Court for an order prohibiting any person, subject to such conditions and exceptions as may be specified in the order, from dealing in any manner with any property.".
+20	S 38(2) provides for the High Court to make a preservation order:
+  "If there are reasonable grounds to believe that the property concerned-
+ (a) is an instrumentality of an offence referred to in Schedule 1;
+ (b) is the proceeds of unlawful activities; or
+ (c) is property associated with terrorist and related activities.".
+21	S 39.
+22	S 48.
+23	S 1 of the POCA.
+24	S 19(1) of the ICCM Act provides: "When a court in the Republic makes a confiscation order, such court may on application to it issue a letter of request in which assistance in enforcing such order in a foreign State is sought if it appears to the court that a sufficient amount to satisfy the order cannot be realised in the Republic and that the person against whom the order has been made owns property in the foreign State concerned.".
+25	South Atlantic Islands Development Corporation Ltd v Buchan 1971 (1) SA 234 (C) at 240D-E [also reported at [1971] 1 All SA 203 (C) – Ed].
+26	See Thermo Radiant Oven Sales (Pty) Ltd v Nelspruit Bakeries (Pty) Ltd 1969 (2) SA 295 (A) at 306H-307A [also reported at [1969] 2 All SA 338 (A) – Ed].
+27	Bid Industrial Holdings (Pty) Ltd v Strang and others [2007] ZASCA 144; [2008] 2 All SA 373 (SCA) [also reported at [2008] 2 All SA 373 (SCA); [2008] JOL 21128 (SCA) – Ed].
+28	See 4 Lawsa (3ed) replacement; D Harms Civil Procedure in the Superior Courts para [27].
+29	Bid Industrial para [55].
+30	Bid Industrial para [55].
+31	See RH Christie Law of Contracts in South Africa (7ed) 2016 at 412.
+32	See De La Guerre v Ronald Bobroff and Partners Incorporated [2013] ZAGPPHC 33 para [13] [also reported at [2013] JOL 30002 (GNP) – Ed].
+33	Ronald Bobroff & Partners Incorporated v De La Guerre; South African Association of Personal Injury Lawyers v Minister of Justice and Constitutional Development [2014] ZACC 2; 2014 (3) SA 134 (CC) [also reported at 2014 (4) BCLR 430 (CC) – Ed].
+34	S v Graham 1975 (3) SA 569 (A) [also reported at [1975] 3 All SA 572 (A) – Ed].
+35	See Nissan South Africa (Pty) Ltd v Marnitz NO and others (Stand 186 Aeroport (Pty) Ltd intervening) [2004] ZASCA 98; [2006] 4 All SA 120 (SCA) at 127B-C [also reported at [2004] JOL 13001 (SCA) – Ed].
+36	Nissan para [25].
+37	Wightman t/a JW Construction v Headfour (Pty) Ltd and another [2008] ZASCA 6; [2008] 2 All SA 512 (SCA) [also reported at [2008] JOL 21447 (SCA) – Ed].
+38	National Director of Public Prosecutions v RO Cook Properties (Pty) Ltd 2004 (2) SACR 208 (SCA); National Director of Public Prosecutions v 37 Gillespie Street Durban (Pty) Ltd and another [2004] ZASCA 37 [also reported at [2004] 2 All SA 491 (SCA); 2004 (8) BCLR 844 (SCA) – Ed]; National Director of Public Prosecutions v Seevnarayan [2004] 2 All SA 491 (SCA) [also reported at 2004 (8) BCLR 844 (SCA) – Ed].
+39	National Director of Public Prosecutions v Botha NO and another [2020] ZACC 6; 2020 (1) SACR 599 (CC); 2020 (6) BCLR 693 (CC) [also reported at [2020] JOL 46846 (CC) – Ed].
+40	The account subject to the forfeiture order.
+41	National Credit Regulator v Opperman and others [2012] ZACC 29; 2013 (2) SA 1 (CC) [also reported at 2013 (2) BCLR 170 (CC); [2013] JOL 29746 (CC) – Ed].
+42	Prophet v National Director of Public Prosecution [2006] ZACC 17; 2007 (6) SA 169 (CC) [also reported at 2007 (2) BCLR 140 (CC) – Ed]; see also s 19 of the POCA in respect of the value of proceeds of unlawful activity.
+
+Appearance:
+A Subel SC, John Joseph Finlay Cameron, Lovius Block Incorporated (A); EC Labuschagne SC, S de Villiers, State Attorney
+
+
+End of Document

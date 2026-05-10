@@ -1,0 +1,807 @@
+
+
+
+
+Competition Commission of South Africa v Group Five Construction Limited [2022] JOL 56068 (CC)
+Judgments Online
+
+Division: Constitutional Court
+Case No: CCT 141 / 21
+Hearing Date(s): 03 / 05 / 2022
+Judgment Date(s): 27 / 10 / 2022
+Bench: NJ Kollapen, MM Madlanga, SA Majiedt, RS Mathopo, NZ Mhlantla, LV Theron, ZLL Tshiqi JJ; D Mlambo, DN Unterhalter AJJ
+
+
+Keywords
+
+
+Competition — Jurisdiction — Referral of complaint to Competition Tribunal — Review application — Exclusive jurisdiction provisions — Competition Act 89 of 1998, section 62
+
+Mini Summary
+
+
+At the heart of the dispute in this matter was the question of the review ambit of the Competition Tribunal in relation to matters arising out of the interpretation and application of chapters 2, 3 and 5 of the Competition Act 89 of 1998, which chapters are assigned for the Tribunal’s exclusive jurisdiction.
+
+The underlying factual dispute related to a complaint initiated by the Commission into collusion between construction companies in bidding for tenders to construct stadia for the 2010 Soccer World Cup. Group Five was alleged to have been one of the construction companies involved in the collusive conduct. Contending that the Commission’s referral of its complaint to the Tribunal was vexatious, Group Five launched a review application in the High Court, asserting that the matter fell to be determined by the High Court in terms of section 62(2)(a) read with section 62(3)(b) of the Act. In response to the review proceedings, the Commission lodged an application in the High Court in terms of rule 30 of the Uniform Rules of Court, to declare and set aside the proceedings on the basis that they constituted an irregular step insofar as the High Court lacked jurisdiction to adjudicate the matter. The Commission contended that the Tribunal had exclusive jurisdiction under the Act to consider the issues raised in the review, and that there was pending litigation before the Tribunal on the same cause of action and in respect of the same subject matter. The High Court found in favour of Group Five.
+
+The Commission sought leave to appeal the judgment of the Supreme Court of Appeal, upholding the High Court decision that it had jurisdiction to determine the review application. The issue raised related to the Tribunal’s exclusive jurisdiction in terms of section 62(1) of the Competition Act and the Rules for the conduct of proceedings in the Competition Tribunal.
+
+Held that the central question was whether, since initiation and referral were decisions of the Commission, a review would lie to the Tribunal and thereafter to the Competition Appeal Court, as the Commission contended or whether, as contended by Group Five, it could challenge the Commission’s decisions by approaching the High Court. The jurisdictional question involved an interpretation of the relevant provisions of the Act.
+
+Section 169 of the Constitution affords original jurisdiction to the High Court to resolve any dispute that is capable of being resolved by resort to law, unless that jurisdiction has been assigned to another court. It is well-established that ouster of the High Court’s jurisdiction must be in unambiguous terms and there is a strong presumption against it.
+
+Section 62 was at the heart of the issues in this case, and the interplay between sections 62(1) and (2) was crucial in the determination of this matter. Applying the rules of statutory interpretation, it was clear that matters that fall within section 62(1) fall within the exclusive competence of the Tribunal and the Competition Appeal Court. But matters that fall within the scope of section 62(2) fall within the jurisdiction of the Competition Appeal Court and not the Tribunal.
+
+The central issues in this matter were not competition law issues, but legality or vires issues, making it a matter over which the Competition Appeal Court had concurrent jurisdiction with the High Court, to the exclusion of the Tribunal.
+
+Leave to appeal was granted and the appeal dismissed.
+
+ 
+[2022] JOL 56068 (CC) at 2
+
+
+
+
+MLAMBO AJ:
+
+Introduction
+
+[1]    This matter can be likened to a turf war. On the one side is the applicant, the Competition Commission of South Africa ("the Commission"), representing the competition authorities,1 the Competition Tribunal ("the Tribunal"), to be specific. The contested turf is the review ambit of the Tribunal in relation to matters arising out of the interpretation and application of Chapters 2, 3 and 5 of the Competition Act2 ("the Act"), which are assigned for its exclusive jurisdiction. For want of appropriate phrasing, I refer to these chapters as the exclusive jurisdiction chapters. On the other side is the respondent, Group Five Construction Limited ("Group Five"), a company incorporated under the company laws of the Republic of South Africa, whose legal stance in the present dispute is backed by judgments of the High Court of South Africa, Gauteng Division, Pretoria ("the High Court") and Supreme Court of Appeal. Those courts held that the jurisdiction of the Tribunal is ousted in matters within the exclusive jurisdiction chapters, which have been carved out to give the High Court jurisdiction. Group Five asserts that this is one such matter in which the Tribunal is red-carded.
+
+[2]    The Commission, the regulatory body established in terms of section 19(1) of the Act, applies for leave to appeal the judgment and order of the Supreme Court of  
+[2022] JOL 56068 (CC) at 3
+Appeal.3 That court upheld a decision of the High Court, which found that it had jurisdiction to determine a review application brought by Group Five in respect of a referral to the Tribunal – of a complaint against it – by the Commission.4 The question before this Court is whether the Supreme Court of Appeal and the High Court wrongly pronounced on the scope of the competition authorities' exclusive jurisdiction, particularly that of the Tribunal, in terms of section 62(1) of the Act and the Rules for the conduct of proceedings in the Competition Tribunal5 ("the Tribunal Rules").
+
+[3]    Section 62 of the Act provides:
+
+The Competition Tribunal and Competition Appeal Court share exclusive jurisdiction in respect of the following matters:
+Interpretation and application of Chapters 2, 3 and 5, other than–
+a question or matter referred to in subsection (2); or
+a review of a certificate issued by the Minister of Finance in terms of section 18(2); and
+the functions referred to in sections 21(1), 27(1) and 37, other than a question or matter referred to in subsection (2).
+In addition to any other jurisdiction granted in this Act to the Competition Appeal Court, the Court has jurisdiction over–
+the question whether an action taken or proposed to be taken by the Competition Commission or the Competition Tribunal is within their respective jurisdictions in terms of this Act;
+any constitutional matter arising in terms of this Act; and 
+[2022] JOL 56068 (CC) at 4
+ (c) the question whether a matter falls within the exclusive jurisdiction granted under subsection (1).
+The jurisdiction of the Competition Appeal Court–
+is final over a matter within its exclusive jurisdiction in terms of subsection (1); and
+is neither exclusive nor final in respect of a matter within its jurisdiction in terms of subsection (2).
+An appeal from a decision of the Competition Appeal Court in respect of a matter within its jurisdiction in terms of subsection (2) lies to the Constitutional Court, subject to section 63 and its respective rules.
+For greater certainty, the Competition Tribunal and the Competition Appeal Court have no jurisdiction over the assessment of the amount, and awarding, of damages arising out of a prohibited practice" (own emphasis).
+
+Background
+
+[4]    The underlying factual dispute in this matter relates to a complaint initiated by the Commission into collusion between construction companies in the process of bidding for tenders to construct stadia for the 2010 Soccer World Cup. Group Five was alleged to have been one of the construction companies involved in the collusive conduct. On 12 November 2014, the Commission, acting in terms of sections 49B6 and 50(1)7 of the Act, referred a complaint to the Tribunal against Group Five and other construction companies for possible collusive conduct in  
+[2022] JOL 56068 (CC) at 5
+contravention of section 4(1)(b)(i)–(ii) of the Act. The allegation was that Group Five had engaged in pervasive anti-competitive conduct in the construction industry. It was alleged that Group Five, together with other members of an alleged cartel, had: 
+
+allocated projects for the construction of various World Cup stadia between themselves; 
+had submitted cover prices agreed amongst themselves; and 
+had recovered net profits of 17.5% per project.8
+
+[5]    Upon receipt of the complaint, Group Five sought and was granted information in terms of the Rules for the conduct of proceedings in the Competition Commission9 ("the Commission Rules"). Thereafter, instead of complying with rule 1610 of the Tribunal Rules, ie to file an answering affidavit within 20 days responding to the complaint, Group Five launched a review application in the High Court. Group Five initiated its review application in terms of the Promotion of Administrative Justice Act11 ("PAJA") and the principle of legality, asserting that the matter fell to be determined by the High Court in terms of section 62(2)(a) read with section 62(3)(b) of the Act. The basis for this assertion was that the Tribunal is not a court as defined in PAJA and as such has no jurisdiction to entertain the review. Group Five's underlying objection was that the Commission had previously granted it immunity from prosecution through its Corporate Leniency Policy. This policy is aimed at encouraging those involved in cartels to disclose prohibited practices to the Commission in order to combat offensive conduct. In Group Five's view, the about-face by the Commission to refer a complaint to the Tribunal and seek a penalty against it, was oppressive, vexatious and motivated by bad faith.
+
+ 
+[2022] JOL 56068 (CC) at 6
+
+Litigation history
+
+High Court
+
+[6]    Group Five launched the application in the High Court, on 7 November 2017, to review the Commission's referral of the complaint to the Tribunal. Group Five sought, inter alia, orders to:
+
+declare that the initiation of the complaint was unlawful;12
+declare that the Commission granted Group Five immunity from prosecution for contravening the Act; and
+review and set aside and declare invalid the Commission's decision to refer the complaint and/or seek an administrative penalty against Group Five.
+
+[7]    In response to the review proceedings, the Commission lodged an application in the High Court in terms of rule 30 of the Uniform Rules of Court,13 to declare and set aside the proceedings on the basis that they constituted an irregular step in so far as the High Court lacked jurisdiction to adjudicate the matter. The Commission  
+[2022] JOL 56068 (CC) at 7
+contended that the Tribunal had exclusive jurisdiction under the Act to consider the issues raised in the review, and that there was pending litigation before the Tribunal on the same cause of action and in respect of the same subject matter.
+
+[8]    Before considering Group Five's review application, the High Court had to consider the Commission's challenge to its jurisdiction to entertain Group Five's review application.14
+
+[9]    On this issue, the Commission based its argument on section 62(1)(a) of the Act, read with section 169(1)(a)(ii)15 of the Constitution. The Commission argued that based on section 62(1)(a), the High Court lacked jurisdiction because the matter fell within the provisions of Chapter 2 of the Act, which it contended fell within the exclusive jurisdiction of the Tribunal.
+
+[10]    The High Court disagreed, finding that while it is common cause that the High Court lacks jurisdiction in matters pertaining to the interpretation and application of Chapters 2, 3 and 5 of the Act, with respect to matters pertaining to section 62(2)(a), the Tribunal's jurisdiction is ousted. In short, the High Court reasoned that in matters concerning a challenge to the lawfulness and validity of a referral, the High Court, and not the Tribunal, has the requisite jurisdiction.16 Accordingly, the High Court held that there was no merit to the Commission's objection to the jurisdiction of the High Court.
+
+ 
+[2022] JOL 56068 (CC) at 8
+
+Supreme Court of Appeal
+
+[11]    The Commission subsequently appealed the High Court's judgment to the Supreme Court of Appeal, having been granted leave by the High Court. The question before the Supreme Court of Appeal was whether the High Court was correct in holding that it had jurisdiction to entertain the review application.
+
+[12]    The Commission persisted in arguing that the issues on review fell within the Tribunal's exclusive jurisdiction. It contended that the initiation and referral of a complaint in terms of sections 49B and 50 of the Act were matters which undoubtedly fell within the exclusive jurisdiction of the Commission, the Tribunal and the Competition Appeal Court. These sections provide for the Commissioner to initiate a complaint against an alleged prohibited practice17 and, at any time after initiating a complaint, for the Commission to refer the complaint to the Tribunal for adjudication.18 Group Five opposed the appeal, using the High Court's findings as the basis for its opposition.
+
+[13]    The Supreme Court of Appeal reasoned that section 62(1) excludes matters referred to in section 62(2)(a), which gives the Competition Appeal Court additional jurisdiction, but that such additional jurisdiction is, in terms of section 62(3)(b), neither exclusive nor final. Accordingly, the Supreme Court of Appeal reasoned that the High Court's jurisdiction is not ousted in matters falling under section 62(2)(a) and that it shares concurrent jurisdiction in those matters with the Competition Appeal Court.
+
+[14]    The Supreme Court of Appeal held that section 62(2)(a) and 62(3)(b) provide that, while the Competition Appeal Court has jurisdiction in respect of the matters listed under section 62(2)(a), the jurisdiction of the High Court to hear those matters is not excluded, since in the ordinary course the High Court would have jurisdiction over matters specified in section 62(2)(a), unless such jurisdiction was specifically  
+[2022] JOL 56068 (CC) at 9
+and expressly ousted in a "constitutionally compliant manner".19 However, the Supreme Court of Appeal found that, while the Competition Appeal Court has jurisdiction over the matters referred to in section 62(2), the same cannot be said of the Tribunal, for two reasons. First, the provision expressly refers to the Competition Appeal Court as the court with specific additional jurisdiction and, second, unlike the High Court and the Competition Appeal Court, which are designated as courts with similar status to that of the High Court,20 the Tribunal does not possess inherent powers to hear matters listed in section 62(2)(a).
+
+[15]    The Supreme Court of Appeal went on to find that it is clear that the Competition Appeal Court and the Tribunal had exclusive jurisdiction in relation to the interpretation and application of matters in Chapters 2, 3 and 5 of the Act. The court said these chapters of the Act all involve matters of a specialist nature requiring "technical expertise" which "lie at the complex intersection between law and economics" and, further, that the Act is very specific about assigning these functions to the institutions best equipped to deal with them.21 The Supreme Court of Appeal also remarked that the competition authorities have exclusive jurisdiction in adjudicating on the "matters dealing with the functions of the Commission, in terms of sections 21(1), 27(1) and 37 of the Act".22 The Supreme Court of Appeal also pointed out that in terms of the specific provisions of section 27(1)(c), the Tribunal "may hear appeals from, or review any decision of, the Competition Commission that may in terms of this Act be referred to it".23
+
+[16]    The Supreme Court of Appeal found that the issues raised by Group Five are not within the exclusive jurisdiction of the Tribunal and the Competition Appeal Court because they relate to the validity and lawfulness of the initiation and subsequent referral of a complaint to the Tribunal which are questions of vires or legality and  
+[2022] JOL 56068 (CC) at 10
+thus are quintessentially issues within the jurisdiction of the Superior Courts.24 The Supreme Court of Appeal further found that these are issues that fall within the purview of section 62(2)(a), as found in Agri Wire.25 The Supreme Court of Appeal referred to Agri Wire and its conclusions as authority regarding the ambit and inapplicability of the section 27(1)(c) review ambit of the Tribunal.26
+
+[17]    The Supreme Court of Appeal held that the legality of a public body's conduct is a constitutional matter27 and, in terms of section 62(3)(b), the competition authorities do not have exclusive jurisdiction over such matters. The Supreme Court of Appeal concluded that the issues raised on review by Group Five were not of a specialist nature which section 62(1) exclusively reserves for the Competition Appeal Court and the Tribunal. Instead, they related to questions of legality concerning the validity and lawfulness of the initiation and the referral of the Commission's complaint. The Supreme Court of Appeal thus rejected all of the Commission's arguments.
+
+[18]    Finally, the Supreme Court of Appeal found that the High Court was correct in its finding that the Commission's challenge of jurisdiction had no merit. It dismissed the appeal with costs.28
+
+In this Court
+
+Jurisdiction
+
+[19]    The Commission contends that the matter engages the constitutional jurisdiction of this Court as it is about the jurisdiction of the competition authorities. It contends that the matter requires this Court to interpret section 62 of the Act. It further contends that this Court is requested to determine the jurisdiction of the  
+[2022] JOL 56068 (CC) at 11
+Tribunal and Competition Appeal Court in so far as it refers to the power of the High Court to review the decisions and conduct of the Commission.
+
+[20]    Issues relating to the conduct and powers of the Commission and Tribunal concern the exercise of public power and are therefore constitutional issues. Clearly the matter engages this Court's constitutional jurisdiction. This Court has said as much in Senwes,29 Yara30 and Pickfords.31 In addition, it is important, as a point of law and as a matter of general public importance, for this Court to clarify the jurisdiction of the competition authorities vis-à-vis the civil courts, specifically where the issues at stake involve intertwined competition and constitutional law issues.
+
+Leave to appeal
+
+[21]    Having found that the matter engages this Court's jurisdiction, a further issue is whether, in terms of section 167(3)(b) of the Constitution, it is in the interests of justice to grant leave to appeal. Group Five's review application in the High Court was based on three issues. Those were the initiation and referral of a complaint by the Commission, the granting of and withdrawal of immunity, and the alleged oppressive prosecution initiated by the Commission against Group Five. The Commission squarely submitted that these are all matters falling under Chapters 2, 3 and 5 of the Act, in which the Tribunal and Competition Appeal Court had exclusive jurisdiction. In the Commission's view, these are matters that concern the "interpretation and application" of those chapters, which is within the exclusive jurisdiction of the competition authorities. It argued that the fact that these issues were part of a High Court review application brought in terms of PAJA and the principle of legality does not detract from their true nature, being exclusively competition law matters in respect of which the competition authorities had exclusive jurisdiction.
+
+ 
+[2022] JOL 56068 (CC) at 12
+
+[22]    This matter therefore raises issues of general public importance. It provides an opportunity for this Court to have its say regarding the Supreme Court of Appeal's finding that the review competence of the Tribunal is ousted in the issues involved in this application.
+
+[23]    Additionally, it is important for this Court to clarify the jurisdictional boundaries of the competition authorities, especially in relation to matters that are competition law issues but related to constitutional issues. In this matter, the issues involve questions of law and policy, related to whether the High Court has jurisdiction, to the exclusion of the Tribunal, to hear an application to review powers exercised and decisions taken by the Commission. The issue for this Court to determine, therefore, is to what extent the High Court's jurisdiction is ousted, if at all, in favour of the Tribunal, to review the decisions of the Commission. This Court has yet to express an authoritative view on this issue. Clearly, it is in the interests of justice to grant leave to appeal.
+
+Issues
+
+[24]    The crisp issue is whether the High Court has jurisdiction to review a decision taken by the Commission to initiate a complaint against Group Five. Put differently, the issue is whether this is a matter in which the competition authorities have exclusive jurisdiction, such that the High Court's jurisdiction is ousted.
+
+[25]    The Commission argues that the High Court's jurisdiction to hear the matter is ousted by virtue of section 27(1)(c) and/or section 62(1) of the Act. It further argues that the Tribunal has exclusive jurisdiction over the issues arising out of Group Five's review application in terms of section 62(1)(a). The Commission further submits that this interpretation is consistent with section 27(1)(c), which specifically provides for the exclusive jurisdiction of the Tribunal to hear "appeals from, or review any decision of" the Commission that "may in terms of the Act be referred to it". The Commission argues that this applies to matters relating to the interpretation and application of various chapters of the Act, as these relate directly to the "interpretation and application" of those chapters.
+
+ 
+[2022] JOL 56068 (CC) at 13
+
+[26]    Group Five accepts that the competition authorities have exclusive jurisdiction in matters relating to the functioning of various chapters of the Act. However, it argues that section 62(1) contains a carve out, which the Commission ignores, and which this review falls into. In terms of this carve out, the competition authorities have exclusive jurisdiction to hear matters relating to the interpretation and application of various chapters of the Act, "other than a question or matter referred to in subsection 2", being: first, questions about whether an action taken or proposed to be taken by the Commission or the Tribunal is within their respective jurisdictions in terms of this Act; second, constitutional matters arising in terms of the Act; and third, the question whether the matter falls within the exclusive jurisdiction granted under section 62(1).
+
+[27]    Group Five submits that the issues at stake in this matter are those carved out of the exclusive jurisdiction of the Tribunal in terms of section 62(2)(a). It submitted that those issues relate to the legality of the initiation of the complaint against it which falls to be determined under PAJA or the principle of legality. In its view, the Tribunal has no competence under PAJA to determine such matters hence its resort to the High Court whose jurisdiction is not ousted.
+
+[28]    The way I see things, a definitive view from this Court is required on the meaning of section 62(1) as to the exclusive jurisdiction of the Tribunal and what is carved out of that exclusive jurisdiction by section 62(2). This Court has previously stated that, where an objection to jurisdiction is taken at the outset, the pleadings, properly interpreted, should determine the question of jurisdiction.32 In Gcaba, this Court said:
+
+"In the event of the Court's jurisdiction being challenged at the outset (in limine), the applicant's pleadings are the determining factor. They contain the legal basis of the claim under which the applicant has chosen to invoke the court's competence . . . If, however, the pleadings, properly interpreted, establish that the applicant is asserting a claim under the LRA, one that is to  
+[2022] JOL 56068 (CC) at 14
+be determined exclusively by the Labour Court, the High Court would lack jurisdiction."33
+
+[29]    This approach was again endorsed in Baloyi34 where this Court engaged with the claim as pleaded, and concluded that on the correct interpretation, it was a claim based in public law and contract, rather than the Labour Relations Act.35
+
+[30]    An assessment of this Court's jurisdiction must thus be based on an applicant's pleadings, and the key question will be to determine what claim the pleadings, properly interpreted, reveal. Here then, the starting point is to consider what claims were asserted by the applicant in its pleadings.
+
+[31]    In its rule 30 notice and founding affidavit in the High Court, the Commission contended that the High Court did not have jurisdiction to adjudicate upon the matter because Group Five's claim related to the interpretation and application of Chapter 2 of the Act and, in terms of section 62(1)(a), the matter fell within the exclusive jurisdiction of the Tribunal. It is therefore necessary to consider, in detail, Group Five's review application, and determine whether the claims it asserted, ie whether the issues it required the High Court to determine, are issues contemplated in section 62(2)(a), or are competition law specific, or involve both constitutional and competition law issues.
+
+The meaning of section 62
+
+[32]    Before analysing the pleadings and determining the true nature of the issues raised by the parties in the High Court, it is necessary to determine the true meaning of section 62(1) of the Act, ie the power of the Tribunal to adjudicate matters relating to the interpretation and application of the exclusive jurisdiction chapters contemplated in the section. Section 27(1) is also an important provision which sets  
+[2022] JOL 56068 (CC) at 15
+out, in general terms, the functions of the Tribunal.36 I will consider the true ambit of section 27(1)(c), in particular, which deals with the review powers of the Tribunal. It is useful to consider these powers within the context of the Supreme Court of Appeal judgment, as that court considered these sections and pronounced its views regarding their ambit.
+
+[33]    The language of section 62(1)(a) is clear. It provides that the competition authorities have exclusive jurisdiction in respect of the interpretation and application of the exclusive jurisdiction chapters. Considered from the appellate nature and role of the Tribunal over the Commission as well as that of the Competition Appeal Court over the Tribunal, it is clear that the Tribunal's jurisdiction revolves around considering the conduct of the Commission in carrying out its functions and exercising its powers in terms of the Act pursuant to its obligations under the exclusive jurisdiction chapters.
+
+[34]    We know that, in this matter, the Commission initiated a complaint against Group Five in terms of section 49B of the Act. The basis of the complaint is Group Five's alleged involvement in prohibited practices, which are dealt with in section 4. The alleged conduct of Group Five was in contravention of the provisions contained in Chapters 2 and 5, which fall under the exclusive oversight jurisdiction of the Tribunal. Section 49B grants the Commission the power to initiate and refer complaints against errant companies. Separately, Group Five alleges that the Commission granted it leniency or immunity and then withdrew it. In terms of  
+[2022] JOL 56068 (CC) at 16
+section 21(1)(c)–(d), the Commission "is responsible to . . . investigate and evaluate alleged contraventions of chapter 2" and "grant or refuse applications for exemption in terms of chapter 2". Section 21(1)(gC) further provides that the Commission is responsible to "grant or refuse applications for leniency in terms of section 49E". Here too, what the Commission does in terms of this section, falls under the exclusive oversight jurisdiction of the Tribunal.
+
+[35]    The fact that the Commission performed these functions – initiating the complaint and referring it for the attention of the Tribunal – is not controversial. It is plain that, in initiating and referring the complaint, the Commission acted within extant powers. It also requires no debate that the power to grant or refuse immunity is that of the Commission. The exercise of these powers by the Commission falls squarely within the exclusive jurisdiction chapters.
+
+[36]    Where the controversy arises is the manner in which the Commission performed these functions. This is an issue of propriety, not vires. I accept that, because this matter concerns the exercise of power by the Commission as a public body, this will ultimately be a question of lawfulness. However, lawfulness is not to be conflated with ultra vires. The question of ultra vires is a subsect of lawfulness – they are not synonymous. For the Commission's decision to be considered ultra vires, it must have acted in excess or beyond the power conferred on it as a public body. The conduct of the Commission here is in terms of powers assigned to it in the Act and therefore within its jurisdiction. More on this later.
+
+[37]    The question whether the Commission exercised its powers properly concerns the interpretation and application of sections 21(1)(gC) and 49B. The power to adjudicate the Commission's exercise of these powers is assigned to the Tribunal. This means that, in terms of section 62(1), the determination of the meaning of these sections and their application is exclusively that of the Tribunal and the Competition Appeal Court.
+
+[38]    The Tribunal was specifically assigned exclusive jurisdiction over the Commission because it possesses technical expertise to oversee the Commission's  
+[2022] JOL 56068 (CC) at 17
+exercise of its functions and powers. The Supreme Court of Appeal, referring to this expertise, said:
+
+"It is not difficult to discern why exclusive jurisdiction would be granted to the [Competition Appeal Court] and the Tribunal in relation to interpretation and application of matters in Chapters 2, 3 and 5. These are matters related to the investigation, control and evaluation of alleged restrictive practices, the abuse of dominant positions and mergers. They involve matters of a specialist nature, which require technical expertise, and which lie at the complex intersection between law and economics. The Act has been very careful in assigning these functions to the institutions best equipped to deal with them."37
+
+[39]    Review is the device through which the exercise of public power is scrutinised. The assignment of the Tribunal's review function, under section 27(1)(c), over the Commission's exercise of its powers and functions, cannot be downplayed and restricted without clear provisions to that effect. That power was assigned in the Act with the clear knowledge that the Commission's conduct and decisions amounted to the exercise of public power, which is a constitutional matter. However, and as the Supreme Court of Appeal itself noted in Computicket, it is for this reason that the concept of a "constitutional matter" in section 62(2)(b) of the Act must be given a narrow meaning.38 That court said:
+
+"But I do not believe that the concept of a 'constitutional matter' can be afforded that wide meaning in s 62(2)(b). I say that because in that wide sense, most, if not all disputes can ultimately be traced back to the Constitution. It would for example, also include a rather mundane application to compel further particulars. At the same time, that would render the exclusive jurisdiction of the [Competition Appeal Court] in certain matters – which is the main theme of s 62 – illusory (cf S v Boesak [2000] ZACC 25; 
+[2022] JOL 56068 (CC) at 18
+2001 (1) SA 912 (CC) para 15). This means that 'constitutional matters' in s 62(2)(b) must be afforded a narrower meaning."39
+
+I agree with this view.
+
+[40]    The meaning sought to be given to section 62(2)(b) by Group Five, which I will discuss in more detail, cannot survive scrutiny as it would mean that almost all decisions of the Commission are in the section 62(2) carve out and would be subject to the additional jurisdiction of the Competition Appeal Court, as a court of first instance, and by the High Court, a non-specialist court. This is an approach that would take the heart out of the Tribunal's adjudicative and review powers over the Commission and is one that could never have been contemplated when sections 27(1)(c) and 62(1)(a) were crafted.
+
+[41]    The view I take on the ambit of the Tribunal's exclusive oversight role over the Commission, in terms of section 62(1), is that it is an expansive role that covers the conduct of the Commission in carrying out its functions and powers arising from the Act pursuant to its obligations under the exclusive jurisdiction chapters. We know, as I have stated, that in terms of section 27, the Tribunal has adjudicative, appellate and review jurisdiction over what the Commission does. Therefore, the oversight role of the Tribunal over the Commission cannot be constrained, unless the context and the Act justifies this. This is important as it buttresses the overarching purpose of the Act, which is: 
+
+"To provide for the establishment of a Competition Commission responsible for the investigation, control and evaluation of restrictive practices, abuse of dominant position, and mergers; and for the establishment of a Competition Tribunal responsible to adjudicate such matters . . ." (emphasis added).
+
+[42]    In interpreting section 62(1), we have also, on several occasions, been told by this Court that such interpretation should involve the statutory provision being properly contextualised when meaning is ascribed to the words used therein.40 While  
+[2022] JOL 56068 (CC) at 19
+holding that words in a statutory provision should generally be assigned their ordinary grammatical meaning, this Court has consistently held that a contextual and purposive approach must be applied to statutory interpretation.41
+
+[43]    This Court takes a comprehensive approach to contextualising legislative provisions having regard to both the internal and external context of a legislative provision when interpreting it.42 Regard to the internal context of a legislative provision requires that it be interpreted in light of the text of the legislation as a whole.43 In this regard, in Goedegelegen, this Court said "[w]e must understand the provision within the context of the grid, if any, of related provisions and of the statute as a whole including its underlying values".44 A regard to the external context of a particular legislative provision when ascribing meaning to it includes a consideration of, amongst others, the mischief which the legislation aims to address,45 and the social and historical background of the legislation.46
+
+[44]    The interpretation of section 62 must therefore take account of the context of the Act, which I have sketched in the preceding paragraphs. This context is important in considering whether the Supreme Court of Appeal and the High Court were correct in their pronouncement of the scope of the competition authorities' exclusive jurisdiction in terms of section 62(1) and the Tribunal Rules. This will also inevitably involve determining the true ambit of the carve out from the exclusive jurisdiction of the competition authorities.
+
+[45]    Having regard to the Supreme Court of Appeal's judgment, I agree with the finding that section 62(2) and (3)(b) of the Act do not oust the High Court's  
+[2022] JOL 56068 (CC) at 20
+jurisdiction in respect of a matter listed under section 62(2), since, in the ordinary course, the High Court would have jurisdiction over those matters, unless such jurisdiction is specifically and expressly ousted in a constitutionally compliant manner.47 The Supreme Court of Appeal found that the issues raised in Group Five's review application were concerned with the validity of the referral of the complaint to the Tribunal. It found that this was an issue covered in the carve out in section 62(2). The court said:
+
+"A question whether the referral by the Commission is valid or unlawful, or whether the Commission acted beyond the scope of the Act and accordingly ultra vires the powers conferred on it, is a jurisdictional question which falls within the purview of section 62(2)(a) as stated in Agri Wire."48
+
+[46]    The difficulty I have with this conclusion is, as I have alluded to above, the conflation of vires with lawfulness. Although issues of vires will always concern a question of lawfulness, not all issues of lawfulness will concern a question of vires. The finding of the Supreme Court of Appeal would be correct if the Commission acted beyond the powers given to it as a public authority, which would be a question of vires, ie doing something falling outside its jurisdiction.
+
+[47]    The Supreme Court of Appeal's reasoning is merely based on the characterisation of the issues by Group Five. This reasoning unfortunately ignores that an interpretation of the Act is necessary to resolve the issues arising from the Commission's handling of the complaint in terms of sections 49B and 50. This interpretive task is necessitated by the fact that those sections state what the Commission's role is in the circumstances. It necessitated that, after the interpretive function had been carried out, the application of those sections to the facts would then follow. It is only after these steps have been carried out that a view can be formed on whether the Commission's actions were within its competence in terms of the Act. The Tribunal is the entity that has exclusive jurisdiction to carry out this  
+[2022] JOL 56068 (CC) at 21
+adjudicative function regarding the conduct of the Commission at issue in this matter. This view is informed by the assignment of the powers of interpretation and application of the exclusive jurisdiction chapters to the Tribunal.
+
+[48]    The Supreme Court of Appeal's finding was also in response to an argument by the Commission that the issues raised in Group Five's review application were justiciable before the Tribunal in terms of section 27(1)(c). The Supreme Court of Appeal's reasoning relied on that court's decision in Agri Wire, which decided the ambit of the review power of the Tribunal. In that case, Agri Wire, one of the parties to an alleged cartel in the wire products industry, challenged a referral by the Commission to the Tribunal. Agri Wire argued that the Corporate Leniency Policy, which at that time permitted the Commission to grant immunity, was not sanctioned by the Act. Agri Wire accordingly contended that the evidence from one of the other parties to the cartel had been unlawfully obtained, with the result that the referral to the Tribunal was irregular and should be set aside.
+
+[49]    The Supreme Court of Appeal, in Agri Wire, first rejected a challenge to its jurisdiction brought by the Commission, which contended that exclusive powers of appeal and review are vested in the Tribunal. The Commission advanced this argument on the basis of section 27(1)(c). The Commission contended that this section conferred on the Tribunal a general power to review decisions of the Commission, but the Supreme Court of Appeal disagreed, saying that section 27(1)(c) exists for very specified decisions of the Commission, on the basis that, in the absence of the section, those reviews would ordinarily go to the High Court.49
+
+[50]    Those decisions are in section 10(2), which deals with the granting of exemptions by the Commission, section 13(5)(b), which deals with the approval or prohibition of small mergers, section 14(1)(b) which deals with the approval or prohibition of intermediate mergers, and section 15, which deals with the revocation of merger approvals.
+
+ 
+[2022] JOL 56068 (CC) at 22
+
+[51]    The Supreme Court of Appeal thus held that those are the only provisions that provide for the Commission to take decisions and therefore these are the only provisions falling within the review ambit of the Tribunal in terms of section 27(1)(c).
+
+[52]    The Supreme Court of Appeal further stated that the "it" in section 27(1)(c) refers to the Commission, and not the Tribunal. The Supreme Court of Appeal said that, because section 27(1)(c) is limited to the instances it had specified, this means that the section cannot be extended to a "challenge to the validity of a referral, because that is a question whether the referral is an action within the jurisdiction of the Commission".50 Finally, the Supreme Court of Appeal held that whether an act by the Commission is within the Tribunal's jurisdiction is a matter that falls within section 62(2)(a) of the Act. Therefore, it is not within the Tribunal's exclusive jurisdiction and falls under the carve out.
+
+[53]    I do not agree that section 27(1)(c), properly interpreted, limits the Tribunal's review powers to the four instances identified by the Supreme Court of Appeal in Agri Wire. In that matter, the Supreme Court of Appeal based its conclusion on the word "decision" in section 27(1)(c). The restriction of the review ambit of the Tribunal over the Commission cannot be justified when one considers the Commission's role, functions and powers in fulfilling the objects of the Act. It ignores the overarching role of the Commission in the context of its specially assigned functions and powers, which are in turn subject to the oversight role of the Tribunal. Section 21, which deals with the functions of the Commission, sets out a substantial number of functions. It is inconceivable that the Commission would not take any decisions or action arising out of any of those functions which could be challenged under the review jurisdiction of the Tribunal.
+
+[54]    Plainly understood, "it" in section 27(1)(c) refers to the Tribunal. This simply means that the Tribunal hears appeals (from the Commission) or reviews any  
+[2022] JOL 56068 (CC) at 23
+decision (of the Commission) that may, in terms of the Act, be referred to it (the Tribunal).
+
+[55]    If one also considers that the review power of the Tribunal was introduced some time after the Act came into operation, one cannot but conclude that this review power could never have been introduced to only deal with a very diminished area in the Act, as found in Agri Wire. It is instructive that the review power of the Tribunal was introduced in the same year as that of the Competition Appeal Court. The restriction of the review power of the Tribunal to those specified by the Supreme Court of Appeal in Agri Wire goes against the clear language of section 27(1)(c). In interpreting any statute, the plain meaning of the words must be understood within "the triad of text, context and purpose".51 As mentioned earlier, the court in Endumeni clarified that the "inevitable point of departure" is always the language of the provision itself.52
+
+[56]    Applying the principles of contextual statutory interpretation to section 27(1)(c), we must understand the provision to mean what it says, ie that the Tribunal can review any decision of the Commission referred to it. The Supreme Court of Appeal's judgment undermines the powers of the competition authorities and would encourage forum shopping of the kind we see in this matter. It would also enable parties to frustrate and delay the important work of the competition authorities, especially the Tribunal.
+
+[57]    Accepting that section 27(1)(c), properly interpreted, provides for the Tribunal to review any decision of the Commission – this is also informed by the fact that the Commission is perhaps the most important entity in the scheme of the Act. It is the entity that carries out the bulk of the work of the Act and in this role deals with a lot more than just the four instances specified by the Supreme Court of Appeal in Agri Wire. This must lead to a consideration of rule 42 of the Tribunal Rules, which provides for the initiation of any proceedings before the Tribunal not otherwise  
+[2022] JOL 56068 (CC) at 24
+provided for in the Rules. In terms of rule 42(3)(b), this specifically includes the appeal or review of a decision taken by the Commission. Clearly, the rule is to be understood as encompassing a wide ambit of likely issues that can be raised by any party which seeks the Tribunal to adjudicate on any matter.
+
+[58]    Section 27(1)(c) must be read together with section 21(1), as the latter sets out the decisions that are within the Commission's jurisdiction to make. In other words, the ordinary meaning of section 27(1)(c) must be that the Tribunal can review any decision made by the Commission within the exercise of its functions under section 21(1). These include the Commission's decision to initiate and refer a complaint to the Tribunal, as well as a decision on whether to grant or refuse immunity. In line with this Court's approach to statutory interpretation, these provisions must then be interpreted against the text of the Act as a whole, by understanding it within the grid of related provisions in the Act. It is at this point that section 62(1) becomes relevant, as it vests the Tribunal with exclusive jurisdiction in respect of the matters set out therein. As discussed, these matters include adjudication on the interpretation and application of the exclusive jurisdiction chapters, as well as adjudication on the functions of the Commission. The matters raised by Group Five, as I discuss below, require adjudication by way of a review of the manner in which they have been exercised. This adjudicatory exercise will require the interpretation and application of the exclusive jurisdiction chapters, and thus fall squarely within the categories reserved for the Tribunal under section 62(1).
+
+[59]    The Supreme Court of Appeal sought to distinguish Telkom53 by saying that, there, the court dealt with a scenario in which two different regulatory agencies had concurrent jurisdiction, and not with the concurrent jurisdiction of the Tribunal and the High Court. For all these reasons, the Supreme Court of Appeal held that the challenge to the High Court's jurisdiction was misconceived and should have been rejected by the High Court.
+
+ 
+[2022] JOL 56068 (CC) at 25
+
+[60]    I am sensitive to the fact that section 62(1) shares the exclusive jurisdiction in respect of the aforementioned matters between the Tribunal and the Competition Appeal Court. However, sections 27 and 37 of the Act, read together, display a clear legislative intent that reviews regarding matters under section 62(1) must be ventilated through the legislatively designed hierarchy of the competition authorities. In other words, it is not a matter of referring a review in relation to matters under section 62(1) to either the Tribunal or the Competition Appeal Court. Instead, such reviews must first be referred to the Tribunal and thereafter, if necessary, to the Competition Appeal Court. In this regard, it must be noted that section 37, which sets out the functions of the Competition Appeal Court, limits the Competition Appeal Court's review power to decisions of the Tribunal. It is not, in terms of this section, vested with a power of review in respect of decisions of the Commission. However, section 27, as discussed, plainly sets out that the Tribunal is vested with a power of review in respect of decisions made by the Commission pursuant to its functions under the Act.
+
+[61]    The question becomes: which forum does a party turn to in matters that entail a review in relation to the matters set out under section 62(1), if the Competition Appeal Court has clearly been legislatively ousted from acting as an adjudicatory body of first instance in this regard? Based on the ordinary meaning of the applicable legislative provisions, considered holistically, it is clear that the legislative design envisions a system whereby matters of the kind described, and which include Group Five's claims, must first be referred to the Tribunal to exercise its legislatively vested review powers. If this were not so, section 62(1) would be rendered nugatory, as neither the Tribunal nor the Competition Appeal Court would be able to exercise their exclusive jurisdiction of review in relation to the matters set out in section 62(1).
+
+[62]    If the Act is interpreted to mean that the Tribunal does not have the exclusive power of review in respect of the Commission's exercise of its functions and powers within the exclusive jurisdiction chapters, as an adjudicatory body of first instance, then it would ultimately mean that such matters will never reach the Competition Appeal Court. As these matters are clearly precluded from falling within the carve out under section 62(2) of the Act, the High Court cannot have jurisdiction to entertain them. Based on such interpretation, all cases that require a review in relation to  
+[2022] JOL 56068 (CC) at 26
+matters set out under section 62(1) would be left to float in a legal lacuna – remaining forever unresolved. The narrow interpretation of the Tribunal's review powers under section 27(1)(c), as set out in Agri Wire, would accordingly render the legislatively designed dispute resolution system under the auspices of the competition authorities entirely unworkable. The facts in this application show that Agri Wire was wrongly decided, in so far as the Supreme Court of Appeal set out a restrictive review ambit of the Tribunal in terms of section 27(1)(c) and its overall interpretation of section 27(1)(c).
+
+[63]    In line with this Court's internal contextual approach to statutory interpretation, these provisions, when read together, must be understood to mean that the power to review the decisions made by the Commission, within the jurisdiction of the functions bestowed on it in terms of the Act, vests exclusively with the Tribunal.
+
+[64]    By launching the review in the High Court, Group Five effectively bypassed the Tribunal and disrupted the natural progression of adjudication that the Constitution envisages through the enactment of the Act, which established the competition authorities. In doing so, it also robbed the appellate court in the competition law scheme, the Competition Appeal Court, from dealing with the complaint. If this is to be allowed, it will erode the effectiveness of the competition authorities and will aid parties involved in prohibited practices to avoid the scrutiny of the competition authorities. This is inimical to the objectives of the Act.
+
+[65]    The external context of the abovementioned legislative provisions, particularly section 21(1) of the Act, fortifies my view that the Legislature intended for the Tribunal to have an expansive, as opposed to a restricted, scope of review over the decisions made by the Commission within the jurisdiction of the functions vested with it under the Act. In this regard, it is instructive that, in terms of the Competition Amendment Act54 ("the Amendment Act"), which was passed seven years after the decision in Agri Wire, the Legislature saw it fit to amend section 21(1) of the Act 
+[2022] JOL 56068 (CC) at 27
+by adding section 21(1)(gC), and thereby expanding the Commission's functions to include decisions on whether to grant or refuse immunity.
+
+[66]    The preamble to the Amendment Act describes its purpose as being, amongst others, "to promote the administrative efficiency of the Competition Commission and Competition Tribunal". When this addition is considered against the backdrop of the decision in Agri Wire, it is clear that the legislative authorities recognised that the omission of the Commission's function to decide whether to grant or refuse immunity resulted in administrative inefficiency for both the Commission and the Tribunal. At the instance of the Commission, its ability to exercise its other functions in terms of the Act was clearly hampered by the omission. At the instance of the Tribunal, its efficiency was hampered due to the knock-on effect that the omission had by limiting the scope of its powers of review in respect of the Commission's functions (as evidenced in Agri Wire).
+
+The nature of the issues in Group Five's review application
+
+[67]    I now turn to consider the true nature of the issues raised in Group Five's review application before the High Court. Group Five framed its dispute as a review under the rubric of PAJA, alternatively legality, contending that the initiation of a complaint against it, and all steps taken pursuant thereto by the Commission, were unlawful and invalid. Group Five contends that these are fundamentally constitutional matters, which fall squarely within section 62(2) of the Act.
+
+[68]    The Commission acknowledges that it is a public body exercising public power. It further acknowledges that its decisions could "potentially implicate the constitutional right to just administrative action" and in turn "any challenge to the validity of the Commission's actions would implicate the Commission's jurisdiction to take such action". However, the Commission cautions courts not to "allow competition issues to be dressed up as constitutional issues".55 It submits that the test should simply be whether the dispute in substance flows from the Act or the  
+[2022] JOL 56068 (CC) at 28
+Constitution. Where resolution of the dispute involves the interpretation and application of the Act, it should be resolved firstly by the Tribunal and thereafter, if necessary, by the Competition Appeal Court. In relation to this matter, counsel for the Commission contended during oral argument that, at its core, this claim is about the following:
+
+The exercise by the Commission of a power under the Act to refer the complaint and whether that power was properly exercised.
+The granting and/or withdrawal of immunity by the Commission and whether the Commission acted vexatiously in initiating and referring the complaint to the Tribunal.
+
+[69]    These issues, the Commission submits, are all matters that fall under Chapters 2, 3 and 5 of the Act, and in terms of sections 27(1)(c) and 62(1)(a), the Tribunal has exclusive jurisdiction to deal with them.
+
+[70]    Having regard to the original formulation of the claims, as set out in Group Five's founding affidavit in the High Court, the first claim was that the Commission "failed to properly initiate a lawful investigation, in terms of the Competition Act".56 The second claim was that the Commission's decisions "were taken in breach of the undertaking and the grant of immunity to Group Five". Finally, Group Five claimed that the referral "is in any event oppressive, vexatious and motivated by bad faith". In my assessment, the substantive basis for these claims, viewed holistically, flows directly from the Act and the claims cannot be characterised as purely constitutional claims. In what follows, I will deal with each claim in turn and, thereafter, with the claim viewed holistically.
+
+The flawed initiation claim
+
+[71]    Group Five contends that the complaint and subsequent investigation launched was underpinned by a flawed initiation.57 This is based on Group Five's assertion that the Commission conducted a research project before initiating the  
+[2022] JOL 56068 (CC) at 29
+complaint. It argues that the Commission is not authorised to do this, as it amounts to an investigation, which, according to Group Five, can only be done after an initiation. At its core, this is an issue which requires the interpretation and application of the Act.
+
+[72]    The question is whether the Commission properly exercised its powers of initiation and referral, in terms of the Act. This is not a question of vires, it is a question of propriety. By definition, ultra vires means "beyond the power" – the phrase is used to describe acts which "purport to be done in virtue of a certain authority, but which are really in excess of such authority, or of acts which are otherwise unauthorised".58 In its review in the High Court, Group Five was in effect asking the High Court to interpret sections 49B and 21(1)(gC) of the Act. This the High Court cannot do, as the exclusive jurisdiction to conduct this interpretation, in terms of section 62(1), vests in the Tribunal and the Competition Appeal Court.
+
+[73]    It is not necessary to further belabour the point that the Act is clear on the powers conferred on the Commission. In my view, the real issue here is not one of substance but one of procedure. I say so for the following reasons.
+
+[74]    When the Commission referred the complaint to the Tribunal, the Commission had initiated the complaint. Even assuming that the initiation was flawed (due to the prior commissioning of a research project by the Commission, as alleged by Group Five), the Commission was still exercising a power granted to it in terms of the Act. The enquiry has to do with whether the commissioning of a research project, before initiating the complaint, constituted an improper exercise of power by the Commission, having regard to sections 49B and 50 of the Act. Here, it is important to distinguish between an act which is beyond or in excess of the legal powers of a public authority (which would properly be labelled as ultra vires), and the irregular or informal exercise of power (which does not amount to an act ultra vires). This distinction was drawn in RPM Bricks where the Supreme Court of Appeal held: 
+[2022] JOL 56068 (CC) at 30
+"It is important at the outset to distinguish between two separate, often interwoven, yet distinctly different 'categories' of cases. The distinction ought to be clear enough conceptually. And yet, as the present matter amply demonstrates, it is not always truly discerned. I am referring to the distinction between an act beyond or in excess of the legal powers of a public authority (the first category), on the one hand, and the irregular or informal exercise of power granted (the second category), on the other."59
+
+[75]    This distinction is also consistent with how this Court has interpreted ultra vires as meaning "going beyond the powers conferred". In Hugo, this Court stated that:
+
+"If the President acts in a manner inconsistent with the Constitution, eg without reference to the Executive Deputy Presidents or in conflict with the obligation not to discriminate unfairly, he/she both exceeds the relevant powers, bringing the ultra vires doctrine into play, and also triggers the nullification provision of s 4(1)"60 (emphasis added).
+
+[76]    Therefore, in instances where a claim concerns the irregular or informal exercise of power granted, as it does here, the challenge is not a true ultra vires challenge. It is a challenge about alleged improper conduct. In this case, it is also a challenge that can be squarely determined within the parameters of the Act and, in particular, section 49B of the Act. The flaw in Group Five's argument is that it regards lawfulness and vires as subsuming other forms of the exercise of the power. This cannot be correct as the facts here show.
+
+[77]    The issue is the manner in which the Commission exercised its powers. It is not a matter involving a determination of whether it is, in the first instance, within the jurisdiction of the Commission to exercise the power to initiate and refer a complaint  
+[2022] JOL 56068 (CC) at 31
+to the Tribunal. The issue is whether the power has been properly exercised by complying with the procedural requirements set out under the applicable exclusive jurisdiction provisions. This does not relate to whether a public body has been vested with the jurisdiction to exercise a power Both enquiries will ultimately result in a determination of lawfulness. However, one depends on considerations of vires, whereas the other depends on considerations of compliance with the procedural requirements set out under the applicable legislative instrument. In this instance, the relevant consideration would be the timing of the alleged pre-initiation investigation.
+
+[78]    The carve out in section 62(2)(a) is limited to matters considering whether an action taken by the Commission is within its jurisdiction and therefore is a question of vires. This does not extend the High Court's concurrent jurisdiction to matters of lawfulness regarding questions of whether an action taken by the Commission constitutes a proper exercise of power. The legislative framework under the Act has reserved determinations of whether the Commission properly exercised its powers for the competition authorities' determination under section 62(1)(a). This analysis illustrates that the initiation and referral of the complaint by the Commission does not involve asking whether what it did was within its jurisdiction. We know that what it did is within its jurisdiction.
+
+The grant of an immunity claim
+
+[79]    Group Five's second claim is that the Commission's decision to seek penalties against it in the referral proceedings flies in the face of the Commission's earlier decision to grant it immunity. Group Five contended in the High Court that the Commission's decision to pursue penalties is reviewable under PAJA, alternatively the doctrine of legality and the rule of law, on the basis that it is arbitrary and capricious, irrational and/or unreasonable, and because the Commission was functus officio once it had decided to grant it immunity.
+
+[80]    The power to grant immunity is found in section 21 of the Act, which deals with the functions of the Commission. Section 21(1)(gC) provides that the Commission is responsible to "grant or refuse applications for leniency in terms of section 49E". The first issue to be determined here is whether, in fact, immunity as prescribed in the Act, was granted as alleged by Group Five. Only the Tribunal has  
+[2022] JOL 56068 (CC) at 32
+the power to adjudicate and determine that. The issue is therefore about an existing power, which arises squarely under the Act, and whether that power was in fact properly exercised by the Commission as alleged by Group Five. The issue cannot properly be characterised as a vires issue within the meaning of section 62(2)(a) as submitted by Group Five. It involves the interpretation and application of Chapter 5 of the Act and, in terms of section 62(1)(a) of the Act, the Tribunal and Competition Appeal Court share exclusive jurisdiction to determine it. The granting of immunity is a classical issue requiring the technical expertise of the competition authorities, which the High Court lacks.
+
+[81]    It is also worth mentioning that Group Five's claim in this regard alludes to an argument that the Commission created a legitimate expectation on the part of Group Five that it would be protected against prosecution and penalties. The subsequent refusal of leniency and referral to the Tribunal, despite such expectation, arguably constitutes an unfair and thus improper exercise of its powers.
+
+[82]    Section 62(1)(b) of the Act provides that the Tribunal and Competition Appeal Court share exclusive jurisdiction in respect of, amongst others, the functions of the Commission referred to in section 21(1) of the Act. The Act plainly vests the function and concomitant power to grant or refuse leniency with the Commission in terms of sections 21(gC) and 49E. Group Five's claim, in this regard, requires a determination on the fairness of the manner in which the Commission exercised the function assigned to it in terms of section 21(1)(gC). This leg of Group Five's claim will further entail adjudication on the Commission's function of granting or refusing leniency as referred to in section 21(1)(gC). Here again, the conduct of the Commission, in granting or withdrawing immunity, does not involve the question of whether what it did is within its jurisdiction. We know that it is.
+
+The vexatious referral claim
+
+[83]    Group Five's third claim is that its good faith engagement and cooperation with the Commission in relation to collusion in the construction industry led it to believe that it would be protected against prosecution and penalties. In this context, while Group Five characterises the nature of this claim as an issue which arises under PAJA, alternatively the doctrine of legality and the rule of law, the issue is, in  
+[2022] JOL 56068 (CC) at 33
+my view, more accurately characterised as one that flows directly from the Act. The power to pursue a referral comes from section 50(1) and the power to pursue an administrative penalty against a party comes from section 59.61 This matter is therefore also a competition matter concerning whether the Commission exercised its powers properly in referring the complaint to the Tribunal. It involves the interpretation and application of Chapter 5 and, in terms of section 62(1)(a), the Tribunal and the Competition Appeal Court share exclusive jurisdiction to determine the claim.
+
+[84]    As with Group Five's claim regarding the alleged grant and withdrawal of immunity, this leg of Group Five's claim implicates the Commission's function of referring a complaint to the Tribunal in terms of section 21(1)(g). It will accordingly entail adjudication on the legality of the exercise of this function by the Commission, based on an interpretation and application of sections 50(1) and 59. In terms of section 62(1)(b), the Tribunal and Competition Appeal Court share exclusive jurisdiction to adjudicate on this function of the Commission.
+
+Holistic assessment of Group Five's claim
+
+[85]    I accept that Group Five's review application, at first blush, may be viewed as raising a constitutional matter. But as I have shown, this is not so. I am persuaded that the issues raised in Group Five's application, properly and holistically construed, are in essence competition law issues that involve the interpretation and application of Chapters 2, 3 and 5. The exercise, by the Commission, of functions and powers in these chapters is specifically subject to the review power of the Tribunal in terms of section 27(1)(c). The issue is whether the Commission properly exercised those  
+[2022] JOL 56068 (CC) at 34
+powers in terms of the Act. As the Supreme Court of Appeal said in Rustenburg Platinum Mines:
+
+"In a review, the question is not whether the decision is capable of being justified . . . but whether the decision-maker properly exercised the powers entrusted to him or her. The focus is on the process, and on the way in which the decision-maker came to the challenged decision."62
+
+[86]    In this context, and as explained in my analysis of the Supreme Court of Appeal judgment above,63 it is inconceivable that the review power of the Tribunal over the conduct and decisions of the Commission could be restricted to only the four issues mentioned in Agri Wire, with the consequence that the bulk of its conduct and decisions would be subject to the scrutiny of the High Court, a non-specialist court. No such restriction is apparent in the Act, and as I show in the discussion of Agri Wire, the approach taken there is not countenanced in the Act. It is an approach that seeks to subjugate the competition authorities and stifle the proper consideration and handling of competition law issues by the competition authorities.
+
+[87]    The Commission also made compelling policy-based arguments in their written submissions about the design of the competition law framework and how it was intended to create a specialised hierarchy for competition regulation and adjudication. If section 62(2) is construed to encompass reviews like the one in question, I am persuaded that this would undermine the intention of the Legislature to create a specialist competition review regime with technically competent authorities to ensure that the Act is efficiently and appropriately managed and applied.
+
+[88]    There is merit in the view expressed in TWK64 that the source of the competition authorities' review powers is in sections 27(1)(c) and 37(1)(c), and not in  
+[2022] JOL 56068 (CC) at 35
+section 62(2) such that "the attempt to locate the source of all review of the Commission's actions within section 62(2) of the Act requires a strained interpretation of this provision".65 I agree with the expression of the correct legal position stated there that sections 27(1)(c) and 37(1)(c), both introduced by way of amendment in 2000, were specifically intended to confer powers of review on both the Tribunal and the Competition Appeal Court where none existed before.
+
+[89]    The assignment of exclusive review powers to the Competition Appeal Court over the Tribunal in section 37(1) is the clearest indication that the competition authorities have exclusive jurisdiction over the matters in the relevant chapters. This Court said in Sidumo66 that "[n]othing in section 33 of the Constitution precludes specialised legislative regulation of administrative action." There, the court was referring to the labour law arena and by parity of reasoning, that comment finds equal application in the competition law arena as we find in sections 27(1)(c) and 37(1)(c) of the Act.
+
+[90]    In Yara, a majority of this Court held that an issue concerning the power of the Tribunal to grant or refuse an amendment in regard to complaints referred to it is a constitutional issue.67 The first concurring judgment held that the matter concerned the public power of the Commission and the Tribunal (a constitutional issue), and not the substance of their expert decisions in promoting competition.68 The second concurring judgment held that the constitutional issue relating to the public power of the Commission is inextricably bound to a court's view on the extent to which there should be deference to the determination of economic issues by the Tribunal.69
+
+[91]    In this matter, the constitutional issue relating to the public powers of competition authorities is not easily separated from the complex competition and  
+[2022] JOL 56068 (CC) at 36
+economic issues at play and as I suggest, should be determined by the competition authorities. As Froneman J noted in Yara, underlying any legal determination of the powers of the Commission and the Tribunal is some understanding of the role economics should play in the process.70 As I see it, this position is consistent with the overall design of section 62 of the Act. Section 62(2) provides a process for parties to institute proceedings with the Competition Appeal Court as a specialist body regarding, inter alia, the question whether an action taken by the Commission or Tribunal is within their jurisdiction as well as any constitutional matter arising in terms of the Act. This cannot be understood to cover issues which are eminently competition law orientated, as in this case, and which are justiciable in terms of the regulatory framework of the Act. Further, and in terms of section 62(4), parties still have the Constitutional Court at their disposal should they disagree with the decision of the Competition Appeal Court.
+
+[92]    Related to this, in Gcaba this Court emphasised that where the Legislature has created a specialist body or system, it is preferable to use that system. It held that:
+
+"Once a set of carefully-crafted rules and structures has been created for the effective and speedy resolution of disputes and protection of rights in a particular area of law, it is preferable to use that particular system."71
+
+[93]    The Supreme Court of Appeal expressed the same view in Telkom where it held that "[w]here structures have been designed for the effective and speedy resolution of particular disputes it is preferable to use that system".72 Bearing in mind that one of the purposes of the Act is to ensure an expeditious resolution of disputes, various courts have now expressed the view that "interlocutory applications, brought on what in the colloquial term is now called the 'Stalingrad' approach to  
+[2022] JOL 56068 (CC) at 37
+jurisprudence, subverts this object of the Act".73 This view was endorsed by this Court in Standard Bank, which held that a "legion of cases is not adjudicated on the merits due to these prolonged procedural challenges".74
+
+[94]    Consistent with this, the ability of the competition authorities should be approached with due deference to their expertise. As Davis J noted in TWK:
+
+"In addition, consideration would have to be given to the particular expertise of the Commission in competition matters of this nature. It is here that the principle of deference to the expertise of the Tribunal or the Commission would apply."75
+
+[95]    Over and above the importance of showing deference to the expertise of the competition authorities, there is one final reason why this matter should in the first instance be heard by the Tribunal: it is because, in terms of the principle of subsidiarity, where legislation has been enacted to give effect to a right, a litigant should first rely on that legislation enacted to give effect to the constitutional right before directly invoking the constitutional right.76 Therefore, it was appropriate in the circumstances to rely on the processes and institutions provided in the Act, rather than PAJA and the principle of legality in the High Court, which does not have the expertise to resolve competition law issues.
+
+Conclusion
+
+[96]    Group Five based its review application on PAJA and the principle of legality. The labelling of the review as a PAJA or legality review was Group Five's choice. This is a choice that takes advantage of the legislative arrangement of the Act, section 62(2)(a) to be precise. It is the carve out in that section that allows the  
+[2022] JOL 56068 (CC) at 38
+High Court entry into the competition law arena to resolve a non-competition law issue. As has been shown, the issues raised by Group Five are mired in competition law and require the attention of the competition authorities in the interpretation and application of the Act. These are issues that fall outside the section 62(2) carve out.
+
+[97]    Group Five says that the Tribunal is not mentioned in PAJA, meaning it has no competence to deal with the mischief it seeks to be reviewed and set aside. But is the issue at stake not a competition law matter? It clearly is – it is underpinned by a complaint regarding Group Five's involvement in prohibited practices, and concerns whether subsequent conduct of the Commission – in its initiation and referral of the complaint – was proper.
+
+[98]    The underlying premise of the Supreme Court of Appeal's reasoning regarding the ambit of section 62(1)(a) and section 62(2)(a) was, in my view, incorrect. This approach also misses the correct context of the adjudicative and review powers of the Tribunal.
+
+[99]    Group Five's review simply took the appearance of a PAJA and legality review because Group Five gave it that look. Is this not a classic case of emphasising form over substance? Such labelling has the unfortunate consequence of side-lining the competition authorities from considering the complaint. Does this accord with the scheme and objective of the Act? I think not. I would understand any justification and entitlement on Group Five's part to seek refuge in PAJA and legality if there was truly no review competence in the Tribunal. However, it is clear that in terms of sections 27(1)(c) and 62(1) of the Act, the Tribunal is fully clothed with jurisdiction. Is such review power incapable to enable the Tribunal to consider and deal with the issues Group Five has raised against the complaint referred to the Tribunal? It is eminently capable. Allowing companies implicated in complaints of complicity in prohibited practices to avoid answering to their conduct through a constitutionally ordained specialist legislative regime is inimical to the objectives of the Act.
+
+[100]    Accordingly, and for the reasons above, my view is that, in the present matter, the review clearly relates to the interpretation and application of Chapters 2 and 5  
+[2022] JOL 56068 (CC) at 39
+and does not fall within the carve out mentioned in section 62(2). Therefore, in terms of section 62(1), it is a matter over which the Tribunal and the Competition Appeal Court share exclusive jurisdiction.
+
+[101]    This must lead to the conclusion that the High Court and Supreme Court of Appeal erred in dismissing the Commission's jurisdictional challenge of the High Court and their orders must be set aside. The consequence of this conclusion is that the Tribunal should continue adjudicating the complaint referred to it by the Commission. Had I commanded the majority, I would have granted leave to appeal and upheld the appeal.
+
+MAJIEDT J:
+
+Introduction
+
+[102]    I have had the pleasure of reading the judgment of my Brother Mlambo AJ. I agree with his conclusions that this matter engages this Court's jurisdiction for the reasons eruditely and persuasively outlined by him, and that it is in the interests of justice that leave to appeal be granted. In respect of jurisdiction, I would merely add this Court's judgment in Media 2477 to the case law relied upon by Mlambo AJ. Over and above the cogent reasons advanced by my Brother as to why it is in the interests of justice for this Court to hear this matter, I briefly add the following.
+
+[103]    Group Five contends that the legal question before us is one which has already been considered by this Court in decisions which reject the idea that the Tribunal has exclusive jurisdiction over this type of review application. For that submission, Group Five relies on Mondi78 and Agri Wire.79 That contention is  
+[2022] JOL 56068 (CC) at 40
+fallacious. The type of conduct of the Commission said to be reviewable and liable to be set aside is different from that in both Mondi and Agri Wire. The issues in Mondi primarily concerned the disclosure of certain information and the applicability of rule 53 of the Uniform Rules of Court to those proceedings.80 They are far removed from the issues in the instant matter. The fact that this Court in Mondi dismissed an application for leave to appeal directly to it is not, as Group Five appears to suggest, dispositive of the public interest, prospects of success and interests of justice considerations which form part of the enquiry into leave to appeal. That is so, not only because Mondi is distinguishable, but also due to the subsequent amendment to the Act81 and the case law which has followed Mondi.82
+
+[104]    In Agri Wire, the question was whether the High Court has jurisdiction to decide whether the Act permits the Commission to refer a complaint to the Tribunal in respect of cartel behaviour without citing and seeking relief against all the members of the cartel.83 For reasons relating to the type of conduct complained of and the content of the referral, the Supreme Court of Appeal held that the jurisdiction of the High Court is not ousted.84 As I will show later, Agri Wire does find application in this case, but not on this particular point. Thus, both Mondi and Agri Wire do not have the effect that the High Court has jurisdiction to adjudicate review applications relating to the decisions of the Commission generally, as each case is to be decided on its own merits.
+
+[105]    In respect of the merits, I part ways with my Brother. In my view, the grounds upon which Group Five seeks to review the decision of the Commission plainly relate to the validity and lawfulness of the initiation and subsequent referral to the Tribunal. In short, as amplified below, these are questions of vires or legality, issues which  
+[2022] JOL 56068 (CC) at 41
+quintessentially fall within the ambit of the jurisdiction of the superior courts. I disagree that these are matters that fall within the exclusive jurisdiction of the Tribunal.
+
+[106]    I gratefully adopt my Brother's comprehensive exposition of the factual backdrop, litigation history and the relevant legislative provisions. Where necessary, I expand or repeat some of them for context or emphasis. It is important to remind ourselves of the central question in this case: whether the High Court is clothed with jurisdiction to decide the review that Group Five has brought under PAJA, alternatively under the doctrine of legality. The decisions sought to be reviewed are these: the initiation of a complaint against Group Five by the Commission in which Group Five sought declaratory relief, and the referral of the complaint by the Commission to the Tribunal. In essence, Group Five's review is a challenge to the jurisdiction of the Commission to act in the manner that it did and, accordingly, the jurisdiction of the Tribunal to adjudicate the complaint referral. As stated, these are matters concerning powers and legality that usually fall within the jurisdiction of superior courts.
+
+Merits
+
+Pleadings
+
+[107]    I start with the pleadings. It is important to have a proper understanding of Group Five's challenge on the pleadings. It raised three broad grounds of review. First, it contended that the initiation of the referral complaint was unlawful. Plainly, this is a challenge to the Commission's jurisdiction, on the basis that the Commission's conduct was ultra vires its powers and offended against the principle of legality. Second, Group Five averred that it was unlawful for the Commission to bring a complaint referral in terms of which it sought an administrative penalty against it after it had been granted immunity. Third, Group Five contended that the referral was vexatious, oppressive and taken in bad faith.
+
+[108]    According to Group Five, both the complaint and the referral were liable to be set aside in terms of PAJA or, alternatively, under the doctrine of legality, because it concerned the unlawful conduct of the Commission in referring the complaint to the Tribunal in the first place. That review challenge must be distinguished from the  
+[2022] JOL 56068 (CC) at 42
+merits of the allegations raised in the complaint referral against Group Five. The merits of the matter must be heard by the competition authorities – namely, the Tribunal and the Competition Appeal Court – in the event that the review challenge were to fail. Group Five concedes this.
+
+Jurisdiction of the High Court
+
+[109]    The statement in the first judgment that "lawfulness is not to be conflated with ultra vires . . . [t]he question of ultra vires is a subset of lawfulness – they are not synonymous",85 requires some qualification. An enquiry into the lawful exercise of power – a vires enquiry – asks whether the action is lawful (intra vires) or unlawful. The distinction, also vigorously advanced by the Commission during oral argument, has no merit in the context of the issue before us. Where a power in an Act exists but is exercised improperly or unlawfully or is exceeded, this is an ultra vires challenge.86 This understanding of ultra vires was accepted by the Supreme Court of Appeal in its judgment. The Supreme Court of Appeal held that:
+
+"[The] question whether the referral by the Commission is valid or unlawful, or whether the Commission acted beyond the scope of the Act and accordingly ultra vires the powers conferred on it, is a jurisdictional question which falls within the purview of s 62(2)(a) as stated in Agri Wire."87
+
+ 
+[2022] JOL 56068 (CC) at 43
+
+[110]    It is important to recognise that the term ultra vires has been historically used in two senses, one broad and one narrow. In the latter, ultra vires is a subset of lawfulness and, in the broad sense, the term is synonymous with lawfulness.88 In the present instance, the term ultra vires is used in the broader sense.
+
+[111]    In administrative law, legality challenges to a decision may take different forms. Thus, there may be: (a) a challenge that the decision falls outside the powers of the administrator; and (b) a challenge where the administrator acts within its power but in doing so has acted irrationally, unreasonably or unfairly. They are different challenges as to legality. The question before us is whether the statutory language of section 62(2)(a) of the Act, particularly the phrase "within their respective jurisdictions", warrants a narrow or broad interpretation. That is a separate question. On a narrow interpretation one would say that jurisdiction goes to the strict question of whether the Commission or the Tribunal have acted within their power. A wider interpretation would entail simply saying that an unlawful action by the Commission or the Tribunal is one outside their jurisdiction. My approach is the latter. But even on the narrower construction, the question of lawful administrative action would fall under "any constitutional matter" in section 62(2)(b).
+
+[112]    In its founding affidavit in this Court, the Commission straddles two chairs. On the one hand, it says that, on the merits, the question whether the Commission has  
+[2022] JOL 56068 (CC) at 44
+acted within its powers or exceeded them, does not raise a constitutional issue. Elsewhere in that same affidavit, however, the Commission contends, in respect of this Court's jurisdiction to entertain this matter, that the matter "is plainly within the jurisdiction of this Court [and that] it is squarely a constitutional matter".89 These are irreconcilable positions to adopt.
+
+[113]    The central question is whether, since initiation and referral are decisions of the Commission, a review would lie to the Tribunal and thereafter to the Competition Appeal Court, as the Commission contends or whether, as contended by Group Five, it may challenge the Commission's decisions by approaching the High Court. This jurisdictional question is to be answered, in the first place, by an interpretation of the relevant provisions of the Act. Some of these provisions were before the Supreme Court of Appeal in Agri Wire, followed by that court in this matter. The key legislative provision is section 62 of the Act. What bears consideration is: to what extent does section 62 oust the High Court's jurisdiction, in favour of the Tribunal, to review decisions of the Commission? The appropriate approach, as I see it, is that the Commission's decisions may be reviewed by the High Court in terms of PAJA or the principle of legality, unless the Act expressly, or by necessary implication, ousts both these two pathways to review or the High Court's jurisdiction to hear the review.
+
+[114]    The Commission seems to me to start the enquiry into the ouster of jurisdiction envisaged in section 62 from the wrong premise. It asks to what extent the Tribunal's exclusive jurisdiction is ousted. The correct question to ask is: to what extent is the High Court's original jurisdiction ousted by giving the Tribunal and the Competition Appeal Court exclusive jurisdiction? That question must be answered with regard to the provisions of PAJA. This is because, as will be explicated more fully later, the High Court has jurisdiction over all reviews arising from the Commission's exercise of its powers and, in particular, reviews brought in terms of PAJA, save for the limited extent that section 62(1) grants the Tribunal and the Competition Appeal Court exclusive jurisdiction.
+
+ 
+[2022] JOL 56068 (CC) at 45
+
+[115]    A useful place to start this discussion on jurisdiction is the constitutional provisions that establish the courts' judicial authority as outlined in Chapter 8. Section 166(c) of the Constitution establishes the High Court.90 Section 169 sets out the powers of the High Court.91 Section 169 is couched in wide terms – it affords original jurisdiction to the High Court to resolve any dispute that is capable of being resolved by resort to law, unless that jurisdiction has been assigned to another court. It is well-established that ouster of the High Court's jurisdiction must be in unambiguous terms and there is a strong presumption against it.92 Ouster must be either expressly excluded or must appear by necessary implication from the statute's provisions, and then only to the limited extent of that necessary implication. That is a high threshold for ouster.93 In Metcash, in deciding whether section 36(1) and subsections (2)(a) and (5) of section 40 of the Value-Added Tax Act 89 of 1991 ousted the jurisdiction of the High Court, this Court stated:
+
+"[T]here is nothing in section 36 to suggest that the inherent jurisdiction of a high court to grant appropriate other or ancillary relief is excluded. The section does not say so expressly nor is such an ouster necessarily implicit  
+[2022] JOL 56068 (CC) at 46
+in its terms, while it is trite that there is a strong presumption against such an implication"94 (emphasis added).
+
+[116]    Section 62 of the Act is at the heart of the issues in this case. The interplay between sections 62(1) and (2) is crucial in the determination of this matter. The jurisdiction of the Competition Appeal Court, that is neither exclusive nor final, includes jurisdiction over the matters set out in section 62(2)(a). Those concern whether actions of the Commission and Tribunal are ultra vires. It is true that to decide what is outside the scope of a power, the scope of the power must first be determined, and that determination is not entirely separate from some of the interpretational issues that arise under section 62(1). But this does not mean that questions that arise under section 62(2)(a) are the same as those under section 62(1).
+
+[117]    The approach to statutory interpretation is well-established:
+
+"A fundamental tenet of statutory interpretation is that the words in a statute must be given their ordinary grammatical meaning, unless to do so would result in an absurdity. There are three important interrelated riders to this general principle, namely:
+
+that statutory provisions should always be interpreted purposively;
+the relevant statutory provision must be properly contextualised; and
+all statutes must be construed consistently with the Constitution, that is, where reasonably possible, legislative provisions ought to be interpreted to preserve their constitutional validity. This proviso to the general principle is closely related to the purposive approach referred to in (a)."95
+
+[118]    Properly considered in its context and purpose, the meaning of the Act's unequivocal wording is plain, matters that fall within section 62(1) fall within the exclusive competence of the Tribunal and the Competition Appeal Court. But matters  
+[2022] JOL 56068 (CC) at 47
+that fall within the scope of section 62(2) fall within the jurisdiction of the Competition Appeal Court and not the Tribunal. Additionally, the jurisdiction of the Competition Appeal Court in respect of matters that fall within section 62(2), is neither final nor exclusive – that much is clear from section 62(3)(b). Section 62(1) simply means that where the Tribunal or the Competition Appeal Court has appellate jurisdiction it is exclusive, albeit not final in the case of the Tribunal. This recognises that an appeal from a decision of the Commission lies exclusively to the Tribunal and, in turn, an appeal from a decision of the Tribunal lies exclusively to the Competition Appeal Court. Thus understood, the Tribunal and the Competition Appeal Court do not share jurisdiction in a literal sense, and they enjoy appellate jurisdiction depending on the decision made and the right of appeal (or review, limited in nature in so far as the Tribunal is concerned). This does not afford plenary review jurisdiction to the Tribunal – that must be sought elsewhere in the Act.
+
+[119]    Section 62(1)(b) of the Act makes reference to section 27(1) of the Act:
+
+The Competition Tribunal and Competition Appeal Court share exclusive jurisdiction in respect of the following matters:
+
+. . .
+
+the functions referred to in sections 21(1), 27(1) and 37, other than a question or matter referred to in subsection (2)" (emphasis added).
+
+[120]    Section 27(1)(c) recognises the power of the Tribunal to hear appeals and reviews in respect of any decision of the Commission that may be referred to it in terms of the Act. Thus, the appeal and review jurisdiction of the Tribunal is limited in terms of the powers conferred upon it in the Act. Those powers are to "hear appeals from, or review any decision of, the Competition Commission that may in terms of this Act be referred to it".96
+
+ 
+[2022] JOL 56068 (CC) at 48
+
+[121]    An important consideration is section 169 of the Constitution read with sections 62(2)–(3) of the Act. Section 169(1)(a)(ii) makes plain that the High Court does not have jurisdiction over constitutional matters that fall within the statutorily assigned purview of specialised forums with similar status. It is well-established that review applications, whether brought under PAJA or the principle of legality, are constitutional matters.97 Taking section 169(2)(a)(ii) into account, it would appear that review applications that are within the realm of competition law fall within the jurisdictional bounds of specialised competition fora with High Court status. In the present instance, this is the Competition Appeal Court. However, this is not always the case.
+
+[122]    The word "assign" in section 169(1)(a)(ii) could be construed as referring to exclusivity. Thus, by necessary implication, if a constitutional matter has not been placed in the exclusive domain of a specialised forum, being the Competition Appeal Court, the High Court's jurisdiction is not ousted. That is where section 62(2)–(3) feature. Section 62(2)(a) provides that the Competition Appeal Court has jurisdiction over "the question whether an action taken or proposed to be taken by the Competition Commission or the Competition Tribunal is within their respective jurisdictions in terms of this Act", whereas section 62(3)(b) qualifies that this jurisdiction "is neither exclusive nor final". Those sections cannot, in my view, mean anything other than that a litigant seeking to bring a review application in competition law can do so in either the Competition Appeal Court or the High Court. No assignment of exclusive or final jurisdiction to the Competition Appeal Court can conceivably be read into these plain and unambiguous words contained in section 62(3)(b).
+
+ 
+[2022] JOL 56068 (CC) at 49
+
+[123]    It is plain that close regard to the structure of section 62 of the Act is required, including the interaction between section 62(1) and (2). Section 62(1) delineates the scope of matters that fall within the exclusive jurisdiction of the competition authorities. I have pointed out the limitation of its scope. Section 62 contains a carve-out of certain matters from the competition authorities' exclusive jurisdiction. The section specifically and expressly does not extend the exclusive jurisdiction to "a question or matter referred to in subsection (2)". It states that the exclusive jurisdiction is conferred "other than"98 in respect of a question or matter referred to in subsection (2). That aspect of non-exclusivity is made repeatedly in section 62(1)(a)(i), section 62(1)(b) and in section 62(3)(b). If jurisdiction is not exclusive over matters falling under section 62(2), some other court, forum or entity must have concurrent jurisdiction. Considering section 169 of the Constitution, that can only be the High Court. It bears emphasis that the words in section 62(1)(a)(i), "other than – (i) a question or matter referred to in subsection (2)"99 cannot be ignored, particularly where they appear repeatedly in the section. And yet, that is precisely what the Commission seeks to do in its interpretation of the section. That is also the fatal shortcoming in the first judgment.
+
+[124]    The question before us is whether the Commission or Tribunal acted outside of their powers, that is a review over which there is concurrent jurisdiction enjoyed by the Competition Appeal Court and the High Court. It may be that to determine such a question, some common ground is covered, but that does not change the jurisdictional dividing line. Thus, the ambit of the powers conferred in Chapter 5 of the Act may well be something that bears consideration by the Tribunal in order to assess whether it does have the requisite jurisdiction in respect of a matter referred to it. Where it does so, however, the view that it takes is not exclusive. Its conclusion is still subject to review by either the Competition Appeal Court or the High Court.
+
+[125]    The dividing line between section 62(1)–(2) is to permit the Tribunal and the Competition Appeal Court to carry out their functions with exclusive competence  
+[2022] JOL 56068 (CC) at 50
+to do so. But where the issue raised is not decided simply by the exercise of acknowledged power by the Commission or Tribunal, and their special expertise, but rather whether either body has such power at all, then the Competition Appeal Court's jurisdiction is neither exclusive nor final. Furthermore, the Competition Appeal Court's non-exclusive jurisdiction may extend beyond a strict ultra vires challenge. This legislative design is sensible because it is a court that must enjoy supervisory jurisdiction over whether the Tribunal has acted within its powers. The Tribunal cannot itself decide that matter. In its wisdom, Parliament decided that questions of that kind may be decided by the Competition Appeal Court and/or the High Court. The Tribunal cannot be characterised as a court, because its actions are subject to review. The specialist nature of the Tribunal and the Competition Appeal Court is important for the purposes of substantive analysis and decision-making, but that is not engaged in the same way when the question is one of the lawful exercise of power. That is true generally in reviews concerning ultra vires issues. For example, superior courts, like the High Court, the Supreme Court of Appeal and this Court do not require special expertise to decide questions of vires in diverse fields like telecommunications, information technology and fishing, to mention a few.
+
+[126]    Even if, as the first judgment points out,100 the concept of a "constitutional matter" in section 62(2)(b) of the Act is to be afforded a narrow meaning as the Supreme Court of Appeal held in Computicket,101 the position remains unchanged. Review applications in terms of PAJA can be entertained by the High Court as it retains its review powers by virtue of its constitutional status and powers. Those same review powers are enjoyed by the Competition Appeal Court by virtue of section 62(2) of the Act, and confirmed by PAJA, as a court of similar status to that of the High Court. The same is not true for the Tribunal.
+
+[127]    That brings me to a further flaw in the interpretation of section 62 by the first judgment, namely its failure to recognise that section 62(2)(a)–(c) expressly confers jurisdiction over the questions and matters referred to in that subsection on  
+[2022] JOL 56068 (CC) at 51
+the Competition Appeal Court and not on the Tribunal. Nowhere in the Act is there any conferral on the Tribunal of jurisdiction to deal with any of the matters in section 62(2), and deliberately so. The Commission's contentions to that effect are misconceived. And I respectfully disagree with the first judgment's reasoning and conclusion on this score. It is trite that the Tribunal, created in terms of section 26 of the Act, can exercise no powers other than those contained within the four corners of the Act.
+
+[128]    This trite proposition is borne out by the decision of the Competition Appeal Court in Johnnic.102 The case concerned a PAJA review application of the Commission's decision to reject the divestiture proposal of merger parties (Johnnic Holdings Investment Limited and Mercanto Investments (Proprietary) Limited) in a large merger. That merger was approved by the Commission subject to a divestiture condition and, when the parties were unable to fulfil that condition, they submitted a divestiture proposal to the Commission for approval. The primary grounds of the review challenge were that the Commission's decision was contrary to legality, rationality and was procedurally unfair.
+
+[129]    The Competition Appeal Court recognised that both it and the High Court were clothed with the requisite jurisdiction to hear review applications in terms of PAJA:
+
+"Section 6 of PAJA provides that an aggrieved party 'may institute proceedings in a court or a tribunal for the judicial review of an administrative action'. The words 'court' and 'tribunal' are both defined in PAJA. Neither definition includes the Competition Tribunal. The definition of 'court' includes 'a High Court or another court of similar status'. As stated hereinbefore, this Court is of similar status as a High Court. It therefore follows that this Court, and not the Tribunal, is cloaked with the requisite jurisdiction"103 (emphasis added).
+
+ 
+[2022] JOL 56068 (CC) at 52
+
+[130]    In Johnnic, the Competition Appeal Court explicated upon and distinguished its earlier decision in TWK.104 It pointed out that TWK concerned an application for review of the Commission's decision relating to merger proceedings – "a purely competition issue"105 – whereas in Johnnic, the application for review was based on constitutional grounds, and accordingly, the Tribunal did not have jurisdiction to hear such an application for review.106 In any event, in Agri Wire, the Supreme Court of Appeal pointed out the fallacy of the reasoning in TWK.107 The Commission's reliance on Johnnic and TWK for its contention that the Tribunal has jurisdiction to review decisions of the Commission under PAJA or the principle of legality does not bear scrutiny. And the first judgment's implicit approval of TWK that "sections 27(1)(c) and 37(1)(c), both introduced by way of amendment in 2000, were specifically intended to confer powers of review on both the Tribunal and the Competition Appeal Court where none existed before",108 is with respect also misconceived.
+
+[131]    A final nail in the coffin, in respect of the argument that the Tribunal has powers to review the lawful exercise of power, is the definitions of "tribunal" and "court" in PAJA. Section 6(1) of PAJA limits a party's rights to "institute proceedings in a court or a tribunal for the judicial review of an administrative action". Section 1 of PAJA, defines "tribunal" as "any independent and impartial tribunal established by national legislation for the purpose of judicially reviewing an administrative action in  
+[2022] JOL 56068 (CC) at 53
+terms of [PAJA]". This definition plainly excludes a statutory body like the Tribunal. Section 1 of PAJA then defines "court" as follows:
+
+"'court' means–
+
+the Constitutional Court acting in terms of section 167(6)(a) of the Constitution; or
+(i) a High Court or another court of similar status; or
+a Magistrate's Court for any district or for any regional division established by the Minister for the purposes of adjudicating civil disputes in terms of section 2 of the Magistrates' Courts Act No. 32 of 1944, either generally or in respect of a specified class of administrative actions, designated by the Minister by notice in the Gazette and presided over by a magistrate, an additional magistrate or a magistrate of a regional division established for the purposes of adjudicating civil disputes, as the case may be, designated in terms of section 9A, within whose area of jurisdiction the administrative action occurred or the administrator has his or her or its principal place of administration or the party whose rights have been affected is domiciled or ordinarily resident or the adverse effect of the administrative action was, is or will be experienced."
+
+[132]    For all these reasons, the Tribunal does not have jurisdiction to adjudicate a PAJA or legality review. Unlike the Tribunal, the Competition Appeal Court, which has "a status similar to that of the High Court",109 does have jurisdiction to hear PAJA and legality reviews in terms of two provisions of the Act. First, the Competition Appeal Court is expressly empowered to review any decision of the Tribunal110 – this power is limited to decisions of the Tribunal and does not include decisions of the Commission. Second, in addition to any other jurisdiction granted in the Act, it has jurisdiction over constitutional matters arising in terms of the Act.111 That includes the power to review the exercise of the Commission's public powers derived  
+[2022] JOL 56068 (CC) at 54
+from the Act. And, as stated, in terms of section 62(2)(a) of the Act, the Competition Appeal Court is also clothed with additional, concurrent jurisdiction over the "the question whether an action taken or proposed to be taken by the Competition Commission . . . is within [its] . . . jurisdiction . . . in terms of this Act".
+
+[133]    Next, I consider the decisions of the Supreme Court of Appeal in Agri Wire and in this matter. Agri Wire bears relevance to the issues in the instant matter. Agri Wire concerned whether the Corporate Leniency Policy ("the CLP") is lawful; and whether the Act permits the Commission to refer a complaint to the Tribunal in respect of cartel behaviour without seeking relief against all members of the cartel. It also concerned a comparable issue, the lawfulness of the Commission's initiation of a complaint. In my view, this is a constitutional matter. This, as in Agri Wire, is an issue that falls within section 62(2)(a), and, in terms of section 62(3)(b), the competition authorities have exclusive jurisdiction over it.
+
+[134]    In that matter, the Commission and Consolidated Wire Industries (Pty) Ltd, the third respondent and a "whistle-blower" that was granted immunity in terms of the CLP, both challenged the jurisdiction of the High Court. The Commission relied on section 62 of the Act to argue that appellate and review jurisdiction vests exclusively in the Tribunal. The Supreme Court of Appeal enumerated the decisions of the Commission that may give rise to a review by the Tribunal: section 10(2), under which the Commission grants exemptions; section 13(5)(b), the approval or prohibition of small mergers; section 14(1)(b), the approval or prohibition of intermediate mergers; and section 15, the revocation of merger approval. The list is limited under the Act and does not include the question as to whether the Commission has acted within its powers to initiate or refer a complaint. The Supreme Court of Appeal made short shrift of the Commission's reliance on section 62:
+
+"Whilst there would be no difficulty in recognising an exclusive jurisdiction vested in the Tribunal and the Competition Appeal Court if s 27(1)(c) is confined to the situations referred to in paragraph 13, supra, it becomes problematic when it is extended to a challenge to the validity of a referral, because that is a question whether the referral is an action within the jurisdiction of the Commission. Unlawful actions are not within its jurisdiction  
+[2022] JOL 56068 (CC) at 55
+and an unlawful referral would accordingly not be within its jurisdiction. But, whether an act by the Commission is within its jurisdiction is a matter within s 62(2)(a) of the Act and is therefore not within the exclusive jurisdiction conferred by s 62(1)(b) of the Act"112 (emphasis added).
+
+[135]    The Commission argued in Agri Wire, as it does in this matter, that the Tribunal had exclusive jurisdiction based on section 62(1)(a), which states that "the Competition Tribunal and the Competition Appeal Court share exclusive jurisdiction in respect of the . . . interpretation and application of Chapters 2, 3 and 5". The Supreme Court of Appeal pointed out that Agri Wire's objections were advanced on the basis that the Commission's powers are set out in Chapter 4 of the Act and, properly construed, those provisions do not permit the Commission to adopt the CLP in its present form.113 Naturally, as the complaint deals with Chapter 4, and not "Chapters 2, 3 and 5", it does not fall within section 62(1)(a) and no exclusive jurisdiction therefore exists.
+
+[136]    Regarding the Commission's argument in this matter that the High Court should defer to the Tribunal and allow the challenge to be dealt with by that body, the Supreme Court of Appeal declared that "our courts are not entitled to decline to hear cases properly brought before them in the exercise of their jurisdiction". For these reasons, the Supreme Court of Appeal held that "the challenge to the High Court's jurisdiction was misconceived and should have been rejected".114 Next for consideration is the Supreme Court of Appeal's unanimous judgment in this case.
+
+[137]    The Supreme Court of Appeal invoked this Court's judgment in Baloyi115 in fortification of its conclusions that:
+
+". . . the issues raised on review by Group Five are not of a specialist nature which s 62(1) exclusively reserves for the [Competition Appeal Court] and the  
+[2022] JOL 56068 (CC) at 56
+Tribunal. They do not pertain to the interpretation of issues in Chapters 2, 3 and 5 of the Act which are pending before the Tribunal. Instead, they relate to questions of legality concerning the validity and lawfulness of the initiation and the referral of the complaint . . . In the circumstances, the high court was correct in its finding that the challenge of jurisdiction had no merit."116
+
+[138]    The Supreme Court of Appeal drew parallels between the labour law and competition law frameworks, noting that in both respects, although specialised courts and forums have been established in terms of the respective legislation, that does not automatically oust the jurisdiction of the High Court.117 Its reasoning in this regard cannot be faulted. In drawing these parallels, the Supreme Court of Appeal pointed out that, similar to the Labour Court and Labour Appeal Court, the Tribunal and the Competition Appeal Court are designed to adjudicate on matters concerning competition law and the interpretation and application of the Act. The Supreme Court of Appeal explained that in certain circumstances, the Tribunal and the Competition Appeal Court would be vested with exclusive jurisdiction, as set out in section 62(1), because matters that fall within Chapters 2, 3 and 5 of the Act (where the Tribunal and the Competition Appeal Court enjoy exclusive jurisdiction) are purely competition law related matters that require the expertise of special tribunals. The court, however, noted that this is not one of those matters.
+
+[139]    The grounds upon which Group Five seeks to review the decision of the Commission relate to the validity and lawfulness of the initiation and subsequent referral, of the complaint to the Tribunal. These are questions of vires or legality, issues which typically fall within the ambit of the jurisdiction of the superior courts. Thus, although they arise out of a complaint referred and initiated under the Act, the issues on review are not pure competition law matters – that is, matters that, according to the Act, fall within the exclusive competence of the Tribunal and the Competition Appeal Court.
+
+ 
+[2022] JOL 56068 (CC) at 57
+
+[140]    The judgment of the Supreme Court of Appeal is unassailable. It correctly drew parallels between the labour law and competition law frameworks. It noted that in both frameworks, although specialised courts and forums have been established in terms of the respective legislation, that does not automatically oust the jurisdiction of the High Court.
+
+[141]    Before us, the Commission also relies on section 27(1)(c).118 The first judgment appears to be attracted by that argument. But section 27(1)(c) does not confer a power on the Tribunal to review decisions of the Commission in terms of PAJA or the legality principle. Section 27 generally sets out the functions of the Tribunal. Section 27(1)(c) must be viewed in this context. It does not expressly confer a right nor a remedy on a litigant. That must clearly be found elsewhere in the Act, hence the deliberate use of the words "may, in terms of this Act, be referred to it". Notably, the section refers to "appeal", as well as "review". The Commission does not contend, nor could it, that section 27(1)(c) confers a general appeal power on the Tribunal to hear appeals against any decision of the Commission. Thus, we must have regard to other provisions of the Act to determine the circumstances in which a decision of the Commission may be referred to the Tribunal for reconsideration, either by way of an appeal or a review. The answer plainly does not lie within the provisions of section 27(1)(c).
+
+[142]    The Act delineates instances of appeal and review that lie to the Tribunal. These are:
+
+Appeals:
+section 10(8): exemptions granted by the Commission;119 
+[2022] JOL 56068 (CC) at 58
+ (ii) section 43B(3A)(d): a determination by the Commission of the confidentiality of information received relating to a market inquiry conducted by it;120
+sections 43F(1), (2) and (6): appeals against decisions of the Commission made under that Chapter of the Act;121 and
+section 58(1)(a): orders made by the Tribunal.122 
+[2022] JOL 56068 (CC) at 59
+(b) Reviews: section 44(5)–(6): the Commission's determination of confidential information submitted to it.123
+
+[143]    The Supreme Court of Appeal was correct in Agri Wire in respect of the effect of that section:
+
+"Its language refers to appeals against and reviews of decisions by the Competition Commission. In determining the scope of this provision it is best to start with those provisions of the Act that, in terms, provide for the Commission to take decisions. These are s 10(2), under which the Commission grants exemptions; s 13(5)(b) dealing with the approval or prohibition of small mergers; section 14(1)(b) dealing with the approval or prohibition of intermediate mergers; and section 15 dealing with the revocation of merger approval. In the absence of a provision such as section 27(1)(c) any challenge to these decisions would have to be brought before the high court and not the Tribunal or the Competition Appeal Court. That is an unsatisfactory situation as it departs from the hierarchy of decision-making under the Act and removes matters that are appropriate for decision by those bodies from their purview. To make those decisions subject to appeal to, or review by, the Tribunal is therefore consistent with the general scheme of the Act."124
+
+ 
+[2022] JOL 56068 (CC) at 60
+
+[144]    It bears emphasis that section 27(1)(c) contemplates a limited review that does not oust the ordinary review remedies under PAJA and the principle of legality. Nor is there any other provision in the Act which ousts remedies available under PAJA or the principle of legality. High Courts have inherent jurisdiction, and the Tribunal does not – it is a creature of statute, limited in the exercise of its powers to those afforded to it within the four corners of the Act. Absent any express powers in the Act to do so, the Tribunal has no authority in law to review the lawful exercise of public power.
+
+[145]    The first judgment holds that section 27(1)(c) does not limit the Tribunal's review powers to the four instances identified by the Supreme Court of Appeal in Agri Wire,125 but rather:
+
+"[p]lainly understood, 'it' in section 27(1)(c) refers to the Tribunal. This simply means that the Tribunal hears appeals (from the Commission) or reviews any decision (of the Commission) that may, in terms of the Act, be referred to it (the Tribunal)."126
+
+For the reasons above, I must respectfully disagree with the first judgment. Section 27(1)(c) plainly does so limit the Tribunal's review powers.
+
+[146]    The interpretation by the Supreme Court of Appeal in Agri Wire is logical and sensible; moreover, it was correctly reaffirmed by the Supreme Court of Appeal in the present matter.
+
+Conclusion
+
+[147]    In conclusion, the central issues here are not competition law issues, but legality or vires issues. They fall squarely within the carve out in section 62(2)(a) – a question whether actions are ultra vires the Commission. In this determination one must have regard to the provisions of the Act, but that does not change the nature of  
+[2022] JOL 56068 (CC) at 61
+the review, which remains one of vires. And once the issue is one of vires, this is a matter over which the Competition Appeal Court has concurrent jurisdiction with the High Court, to the exclusion of the Tribunal.
+
+[148]    For these reasons, leave must be granted and the appeal ought to be dismissed. Usually, costs are not awarded against the Commission and there is no reason to depart from this principle in this case.127
+
+[149]    The following order is made:
+
+Leave to appeal is granted.
+The appeal is dismissed.
+
+(Kollapen, Madlanga, Mathopo, Mhlantla, Theron, Tshiqi JJ and Unterhalter AJ concurred in the judgment of Majiedt J)
+
+
+
+Footnotes
+1	 The Competition Tribunal and the Competition Appeal Court.
+2	 Act 89 of 1998.
+3	Competition Commission of South Africa v Group Five Construction Limited [2021] ZASCA 37, 2021 JDR 0613 (SCA) [also reported at [2021] JOL 50044 (SCA – Ed] ("the Supreme Court of Appeal judgment").
+4	Competition Commission of South Africa v Group Five Construction Limited, unreported judgment of the High Court of South Africa, North Gauteng Division, Case No. 74995/17 (28 October 2018) ("the High Court judgment").
+5	 Rules for the conduct of proceedings in the Competition Tribunal, GN 12 GG 22025, 1 February 2001.
+6	S 49B of the Act provides:
+ "(1) The Commissioner may initiate a complaint against an alleged prohibited practice.
+ (2) Any person may–
+ (a) submit information concerning an alleged prohibited practice to the Competition Commission, in any manner or form; or
+ (b) submit a complaint against an alleged prohibited practice to the Competition Commission, in the prescribed form.
+ (3) Upon initiating or receiving a complaint in terms of this section, the Commissioner must direct an inspector to investigate the complaint as quickly as practicable."
+7	S 50 of the Act provides:
+ "(1) At any time after initiating a complaint, the Competition Commission may refer the complaint to the Competition Tribunal."
+8	 Supreme Court of Appeal judgment above fn Error! Bookmark not defined. at para [7].
+9	 Rules for the conduct of proceedings in the Competition Commission GG 22025 1 February 2001.
+10	R 16(1) of the Tribunal Rules provides:
+ "(1) Within 20 business days after being served with a Complaint Referral filed by the Commission, a respondent who wishes to oppose the Complaint Referral must–
+ (a) serve a copy of their Answer on the Commission; and
+ (b) file the Answer with proof of service."
+11	 Act 3 of 2000.
+12	 The complaint had been preceded by a detailed "research project" and Group Five submits that the Supreme Court of Appeal, in Woodlands Dairy (Pty) Ltd and another v Competition Commission [2010] ZASCA 104, 2010 (6) SA 108 (SCA) [also reported at [2010] JOL 26108 (SCA), [2011] 3 All SA 192 (SCA) – Ed] ("Woodlands Dairy"), has determined that preliminary investigations prior to the initiation of a complaint will render the complaint unlawful.
+13	R 30 of the Uniform Rules of Court states:
+ "(1) A party to a cause in which an irregular step has been taken by any other party may apply to court to set it aside.
+ (2) An application in terms of subrule (1) shall be on notice to all parties specifying particulars of the irregularity or impropriety alleged, and may be made only if–
+ (a) the applicant has not himself taken a further step in the cause with knowledge of the irregularity;
+ (b) the applicant has, within ten days of becoming aware of the step, by written notice afforded his opponent an opportunity of removing the cause of complaint within ten days;
+ (c) the application is delivered within 15 days after the expiry of the second period mentioned in paragraph (b) of subrule (2).
+ (3) If at the hearing of such application the court is of opinion that the proceeding or step is irregular or improper it may set it aside in whole or in part, either as against all the parties or as against some of them, and grant leave to amend or make any such order as to it seems meet.
+ (4) Until a party has complied with any order of court made against him in terms of this rule, he shall not take any further step in the cause, save to apply for an extension of time within which to comply with such order."
+14	 A second issue which the High Court considered, which is not relevant for purposes of this appeal, was whether the rule 30 procedure adopted by the Commission was appropriate for raising its objection to Group Five's review application (see High Court judgment above fn Error! Bookmark not defined. at para [14]). On this issue, relying on Cochrane v City of Johannesburg [2010] ZAGPJHC 61, 2011 (1) SA 553 (GSJ) [also reported at [2010] JOL 25952 (GSJ) – Ed], the High Court held that while the Commission should have raised its objections by way of a special plea rather than in terms of rule 30, it could nevertheless determine the merits of the rule 30 application. The High Court found against the Commission on this issue.
+15	S 169(1)(a)(ii) of the Constitution provides that "[t]he High Court of South Africa may decide any constitutional matter except a matter that is assigned by an Act of Parliament to another court of a status similar to the High Court of South Africa".
+16	High Court judgment above fn Error! Bookmark not defined. at para [22].
+17	 S 49B(1) of the Act provides: "The Commissioner may initiate a complaint against an alleged prohibited practice."
+18	 S 50(1) of the Act provides: "At any time after initiating a complaint, the Competition Commission may refer the complaint to the Competition Tribunal."
+19	 Supreme Court of Appeal judgment above fn Error! Bookmark not defined. at para [17].
+20	Id.
+21	Competition Commission of South Africa v Media 24 (Pty) Limited [2019] ZACC 26, 2019 (5) SA 598 (CC), 2019 (9) BCLR 1049 (CC) [also reported at [2019] JOL 45025 (CC), [2019] 1 CPLR 27 (CC) – Ed] ("Media 24") at para [136].
+22	 Supreme Court of Appeal judgment above fn Error! Bookmark not defined. at para [16].
+23	Id.
+24	 Supreme Court of Appeal judgment above fn 3 at para [21]; see generally s 1 of Superior Courts Act 10 of 2013 which defines "Superior Courts" as "the Constitutional Court, the Supreme Court of Appeal, the High Court and any court of a status similar to the High Court".
+25	Agri Wire (Pty) Ltd and another v Commissioner of the Competition Commission and others [2012] ZASCA 134, 2013 (5) SA 484 (SCA) [also reported at [2012] JOL 29447 (SCA), [2012] 4 All SA 365 (SCA) – Ed].
+26	 Supreme Court of Appeal judgment above fn 3 at para [22].
+27	Id at para [24].
+28	Id at paras [27]–[8].
+29	Competition Commission of South Africa v Senwes Ltd [2012] ZACC 6, 2012 (7) BCLR 667 (CC).
+30	Competition Commission v Yara South Africa (Pty) Limited and others [2012] ZACC 14, 2012 JDR 1118 (CC), 2012 (9) BCLR 923 (CC).
+31	Competition Commission of South Africa v Pickfords Removals SA (Pty) Limited [2020] ZACC 14, 2021 (3) SA 1 (CC), 2020 (10) BCLR 1204 (CC) [also reported at [2020] JOL 47450 (CC), [2020] 1 CPLR 1 (CC) – Ed].
+32	Chirwa v Transnet Limited and others [2007] ZACC 23, 2008 (4) SA 367 (CC), 2008 (3) BCLR 251 (CC) [also reported at [2008] JOL 21166 (CC), [2008] 2 BLLR 97 (CC) – Ed] at paras [155] and [169].
+33	Gcaba v Minister for Safety and Security and others [2009] ZACC 26, 2010 (1) SA 238 (CC), 2010 (1) BCLR 35 (CC) [also reported at [2009] 12 BLLR 1145 (CC) – Ed] at para [75].
+34	Baloyi v Public Protector and others [2020] ZACC 27, 2022 (3) SA 321 (CC), 2021 (2) BCLR 101 (CC) [also reported at [2020] JOL 49101 (CC), [2021] 4 BLLR 325 (CC) – Ed] at paras [33]–[6] and [49]–[50].
+35	 Act 66 of 1995.
+36	 S 27(1) of the Act provides:
+ "(1) The Competition Tribunal may–
+ (a) adjudicate on any conduct prohibited in terms of Chapter 2, to determine whether prohibited conduct has occurred, and, if so, to impose any remedy provided for in this Act;
+ (b) adjudicate on any other matter that may, in terms of this Act, be considered by it, and make any order provided for in this Act;
+ (c) hear appeals from, or review any decision of, the Competition Commission that may in terms of this Act be referred to it; and
+ (d) make any ruling or order necessary or incidental to the performance of its functions in terms of this Act."
+37	 Supreme Court of Appeal judgment above fn Error! Bookmark not defined. at para [18].
+38	Competition Commission v Computicket (Pty) Ltd [2014] ZASCA 185, [2015] 1 CPLR 15 (SCA) [also reported at [2015] JOL 32579 (SCA) – Ed] at para [15].
+39	Id.
+40	Independent Institute of Education (Pty) Limited v Kwazulu-Natal Law Society and others [2019] ZACC 47, 2020 (2) SA 325 (CC), 2020 (4) BCLR 495 (CC) [also reported at [2019] JOL 46412 (CC) – Ed] at para [41].
+41	Road Traffic Management Corporation v Waymark (Pty) Limited [2019] ZACC 12, 2019 (5) SA 29 (CC), 2019 (6) BCLR 749 (CC) [also reported at [2019] JOL 41651 (CC) – Ed] at para [29] citing Natal Joint Municipal Pension Fund v Endumeni Municipality [2012] ZASCA 13, 2012 (4) SA 593 (SCA) [also reported at [2012] JOL 28621 (SCA), [2012] 2 All SA 262 (SCA) – Ed] at para [18]; see also Cool Ideas 1186 CC v Hubbard and another [2014] ZACC 16, 2014 (4) SA 474 (CC), 2014 (8) BCLR 869 (CC) [also reported at [2014] JOL 31868 (CC) – Ed] ("Cool Ideas") at para [28].
+42	Independent Institute of Education above fn Error! Bookmark not defined. at para [42].
+43	Id citing Department of Land Affairs and others v Goedgelegen Tropical Fruits (Pty) Ltd [2007] ZACC 12, 2007 (6) SA 199 (CC), 2007 (10) BCLR 1027 (CC) [also reported at [2007] JOL 20031 (CC) – Ed] at para [53].
+44	Goedgelegen id.
+45	Id.
+46	Id.
+47	 Supreme Court of Appeal judgment above fn Error! Bookmark not defined. at para [17].
+48	Id at para [24].
+49	Agri Wire above fn Error! Bookmark not defined. at para [12].
+50	 Id at para [17].
+51	Capitec Bank Holdings Ltd and another v Coral Lagoon Investments 194 (Pty) Ltd and others [2021] ZASCA 99, 2022 (1) SA 100 (SCA) [also reported at [2021] JOL 50742 (SCA), [2021] 3 All SA 647 (SCA) – Ed] at para [25].
+52	Endumeni above fn Error! Bookmark not defined. at para [18].
+53	Competition Commission of South Africa v Telkom SA Ltd and others [2009] ZASCA 155, 2009 JDR 1265 (SCA) [also reported at [2010] JOL 24643 (SCA), [2010] 2 All SA 433 (SCA) – Ed].
+54	 Act 18 of 2018.
+55	 See also Fraser v ABSA Bank Limited (National Director of Public Prosecutions as amicus curiae) [2006] ZACC 24, 2007 (3) SA 484 (CC), 2007 (3) BCLR 219 (CC) [also reported at [2007] JOL 18862 (CC) – Ed] where this Court held at para [40] that "an issue does not become a constitutional matter merely because an applicant calls it one".
+56	 Emphasis added.
+57	 The Supreme Court of Appeal, in Woodlands Dairy fn Error! Bookmark not defined. above held that preliminary investigations prior to the initiation of a complaint render the complaint unlawful.
+58	 Emphasis added. See Claassen RC Claassen's Dictionary of Legal Words and Phrases (LexisNexis, South Africa 2022) at 25.
+59	City of Tshwane Metropolitan Municipality v RPM Bricks (Pty) Ltd [2007] ZASCA 28, 2008 (3) SA 1 (SCA) [also reported at [2007] JOL 19532 (SCA) – Ed] at paras [11] and [13]; see also d'Oliveira "Administrative Justice" in LAWSA (3 ed) (2015) Vol 2.
+60	President of the Republic of South Africa and another v Hugo [1997] ZACC 4, 1997 (4) SA 1 (CC), 1997 (6) BCLR 708 (CC) [also reported at [1998] JOL 1543 (CC) – Ed] at para [65] fn 3.
+61	S 59 of the Act provides:
+ "(1) The Competition Tribunal may impose an administrative penalty only–
+ (a) for a prohibited practice in terms of section 4(1), 5(1) and (2), 8(1), 8(4), 9(1) or 9(1A);
+ (2) . . .
+ (3) When determining an appropriate penalty, the Competition Tribunal must consider the following factors: . . ."
+62	Rustenburg Platinum Mines Ltd (Rustenburg Section) v Commission for Conciliation, Mediation and Arbitration and others [2006] ZASCA 175, 2007 (1) SA 576 (SCA) [also reported at [2006] JOL 18359 (SCA) – Ed] at para [31].
+63	Id at para [53].
+64	TWK Agriculture Limited v Competition Commission and others [2007] JOL 20764 (CAC).
+65	Id at para [23].
+66	Sidumo and another v Rustenburg Platinum Mines Ltd and others [2007] ZACC 22, 2008 (2) SA 24 (CC), 2008 (2) BCLR 158 (CC) [also reported at [2008] JOL 20811 (CC), [2007] 12 BLLR 1097 (CC) – Ed] at para [91].
+67	Yara above fn Error! Bookmark not defined. at para [34].
+68	Id at para [72].
+69	Id at para [80].
+70	Id at para [81].
+71	Gcaba above fn Error! Bookmark not defined. at para [56].
+72	Telkom above fn Error! Bookmark not defined. at para [36].
+73	Senwes Ltd v Competition Commission of South Africa [2010] ZAWCHC 61, [2010] JOL 25499 (WCC) [also reported at [2009] 2 CPLR 285 (WCC) – Ed] at para [6].
+74	Competition Commission of South Africa v Standard Bank of South Africa Limited; Competition Commission of South Africa v Standard Bank of South Africa Limited; Competition Commission of South Africa v Waco Africa (Pty) Ltd and others [2020] ZACC 2, 2020 JDR 0685 (CC), 2020 (4) BCLR 429 (CC) [also reported at [2020] JOL 46680 (CC) – Ed] ("Standard Bank") at para [129].
+75	TWK above fn Error! Bookmark not defined. at para [32].
+76	My Vote Counts NPC v Speaker of the National Assembly and others [2015] ZACC 31, 2016 (1) SA 132 (CC), 2015 (12) BCLR 1407 (CC) [also reported at [2015] JOL 34164 (CC) – Ed].
+77	Media 24 above fn 21 at para [35].
+78	Competition Commission v Mondi Limited, Hathorn and Sappi Southern Africa Limited CCT 213/2014.
+79	Agri Wire above fn 25.
+80	 See Mondi above fn 78 at para [11]; see also Mondi Limited and another v Competition Commission and another [2014] ZAGPPHC 910 at para [11].
+81	 The Amendment Act introduced ss 21(1)(gC) and 49E into the Act.
+82	Standard Bank above fn 74.
+83	Agri Wire above fn 25 at para [11].
+84	Id at paras [12]–[20].
+85	 First judgment at para [36].
+86	 In Hugo above fn 60 at fn 82 [sic: at fn 3 – Ed], Kriegler J stated:
+  "If the President acts in a manner inconsistent with the Constitution, eg without reference to the Executive Deputy Presidents or in conflict with the obligation not to discriminate unfairly, he/she both exceeds the relevant powers, bringing the ultra vires doctrine into play, and also triggers the nullification provision of section 4(1)."
+  In Fedsure Life Assurance Ltd and others v Greater Johannesburg Transitional Metropolitan Council and others [1998] ZACC 17, 1999 (1) SA 374 (CC), 1998 (12) BCLR 1458 (CC) at para [54], this Court held that "where a local government acts ultra vires its empowering statute it acts unconstitutionally". Ultra vires in that narrower sense is a species of illegality. In Pharmaceutical Manufacturers Association of South Africa and another: In re Ex parte President of the Republic of South Africa and others [2000] ZACC 1, 2000 (2) SA 674 (CC), 2000 (3) BCLR 241 (CC) [also reported at [2000] JOL 6158 (CC) – Ed] at para [50], this Court held that "[w]hat would have been ultra vires under the common law by reason of a functionary exceeding a statutory power is invalid under the Constitution according to the doctrine of legality".
+87	 Supreme Court of Appeal judgment above fn 3 at para [24].
+88	 Klaaren and Penfold "Just Administrative Action" in Woolman et al (eds) Constitutional Law of South Africa (2 ed), Original Service (2013) at 63–76:
+  "Both components of the right to lawful administrative action overlap with the principle of legality in relation to administrative action. As noted above, this principle has been described as ensuring that the executive 'may exercise no power and perform no function beyond that conferred upon them by law'. The right to lawful administrative action therefore constitutionalises the fundamental rule of administrative law that a decision-maker must act within his or her powers and must not act ultra vires. It is clear that this right requires that an administrator must act in terms of, and in accordance with, the terms of an empowering statute or other law. This right therefore prohibits a decision-maker acting beyond the terms of the relevant empowering legislation and thus outlaws action which is ultra vires in the narrow sense. We believe, however, that the right to lawful administrative action goes further and applies to acts that are ultra vires in a broader sense of that term. As Lawrence Baxter and other writers have pointed out, the traditional grounds of common-law judicial review are founded on this broad ultra vires principle. Where a decision-maker acts, for example, for an ulterior purpose, in bad faith, takes into account irrelevant considerations or fails to take into account relevant considerations, or makes an error of law, he or she acts beyond his or her powers" (emphasis added).
+89	Id at para [17].
+90	 S 166 reads:
+  "The courts are–
+  . . .
+ (c) the High Court of South Africa, and any high court of appeal that may be established by an Act of Parliament to hear appeals from any court of a status similar to the High Court of South Africa."
+91	 S 169 reads:
+ "(1) The High Court of South Africa may decide–
+ (a) any constitutional matter except a matter that–
+ (i) the Constitutional Court has agreed to hear directly in terms of section 167(6)(a); or
+ (ii) is assigned by an Act of Parliament to another court of a status similar to the High Court of South Africa; and
+ (b) any other matter not assigned to another court by an Act of Parliament."
+92	Metcash Trading Ltd v Commissioner for the South African Revenue Service and another [2000] ZACC 21, 2001 (1) SA 1109 (CC), 2001 (1) BCLR 1 (CC) [also reported at [2001] JOL 7722 (CC) – Ed] ("Metcash") at para [43]; Standard Bank of South Africa Ltd and others v Mpongo and others [2021] ZASCA 92, 2021 (6) SA 403 (SCA) [also reported as Standard Bank and others v Mpongo and others and a related matter (South African Human Rights Commission and others as amici curiae) [2021] 3 All SA 812 (SCA) – Ed] ("Mpongo") at paras [68]–[70].
+93	Metcash id at para [43].
+94	Id at para [43]; see further, Makhanya v University of Zululand [2009] ZASCA 69, 2010 (1) SA 62 (SCA) [also reported at [2009] JOL 23690 (SCA), [2009] 4 All SA 146 (SCA), [2009] 8 BLLR 721 (SCA) – Ed] at para [24]; Mpongo above fn 92 at paras [68]–[70].
+95	Cool Ideas above fn 41 at para [28].
+96	S 27(1) of the Act.
+97	Harrielall v University of KwaZulu-Natal [2017] ZACC 38, 2018 (1) BCLR 12 (CC) at paras [17]–[8]; Justice Alliance of South Africa v Minister for Safety and Security and others [2013] ZACC 12, 2013 (7) BCLR 785 (CC) at para [10]; Trustees of the Simcha Trust v Da Cruz and others; City of Cape Town v Da Cruz and others [2019] ZACC 8, 2019 (3) SA 78 (CC), 2019 (5) BCLR 648 (CC) [also reported as Trustees of the Simcha Trust v Da Cruz and others and a related matter [2019] JOL 41124 (CC) – Ed] at para [19]; Buffalo City Metropolitan Municipality v Asla Construction (Pty) Ltd [2019] ZACC 15, 2019 (4) SA 331 (CC), 2019 (6) BCLR 661 (CC) [also reported at [2019] JOL 41747 (CC) – Ed] at paras [35]–[6]; Law Society of South Africa and others v President of the Republic of South Africa and others [2018] ZACC 51, 2019 (3) SA 30 (CC), 2019 (3) BCLR 329 (CC) [also reported at [2018] JOL 40668 (CC) – Ed]; State Information Technology Agency SOC Ltd v Gijima Holdings (Pty) Ltd [2017] ZACC 40, 2018 (2) SA 23 (CC), 2018 (2) BCLR 240 (CC) [also reported at [2017] JOL 39257 (CC) – Ed].
+98	 Emphasis added.
+99	 Emphasis added.
+100	 First judgment at para [39].
+101	Computicket above fn 38 at para [15].
+102	Johnnic Holdings Limited and another v Competition Tribunal and others In re: Mercanto (Pty) Ltd v Johnnic Holdings Ltd [2008] ZACAC 2.
+103	Id at para 37.2.
+104	TWK above fn 64. The Competition Appeal Court cited Hoexter Administrative Law in South Africa (Juta & Co, Cape Town 2007) at 114 in this regard.
+105	 Emphasis added.
+106	Johnnic above fn 102 at para 35.2.
+107	Agri Wire above fn 25 at para [15], wherein it was held that:
+  ". . . the approach of the high court, that it is permissible to look to the rules in order to ascertain the scope of s 27(1)(c), is not correct. Whilst, for definition purposes, 'the Act' is defined as including the rules made under the Act, that cannot mean that the Tribunal can, by promulgating rules, confer a jurisdiction on itself that is not to be found in the Act itself . . . The jurisdiction of the various statutory bodies set up under the Act is defined in the Act. It is not for them to determine their own jurisdiction by way of the rules under which they perform their statutory functions. That would be entirely inconsistent with the rule of law and the principle of legality that underpins our Constitution."
+108	 First judgment at para [88] (emphasis added).
+109	 S 36(1)(a) of the Act.
+110	 S 37(1)(a) of the Act.
+111	 S 62(2)(b) of the Act.
+112	Agri Wire above fn 25 at para [17].
+113	Id at para [18].
+114	Id at para [20].
+115	Baloyi above fn 34 at para [30].
+116	 Supreme Court of Appeal judgment above fn 3 at para [27].
+117	Id at paras [19]–[20].
+118	 S 27 reads:
+ "(1) The Competition Tribunal may–
+  . . .
+ (c) hear appeals from, or review any decision of, the Competition Commission that may, in terms of this Act, be referred to it."
+119	 S 10(8) states that:
+  "The firm concerned, or any other person with a substantial financial interest affected by a decision of the Competition Commission in terms of subsection (2), (4A) or (5), may appeal that decision to the Competition Tribunal, in the prescribed manner."
+120	 S 43B provides that:
+ "(3A) For purposes of this Chapter–
+  . . .
+ (d) any person aggrieved by the determination of the Competition Commission in terms of this subsection may within 15 business days of the determination, appeal against the determination to the Competition Tribunal."
+121	 S 43F provides that:
+ "(1) The Minister, or any person referred to in section 43G(1) who is materially and adversely affected by the determination of the Competition Commission in terms of section 43D, may, within the prescribed period, appeal against that determination to the Competition Tribunal in accordance with the Rules of the Competition Tribunal.
+ (2) In determining an appeal in terms of subsection (1), the Competition Tribunal may–
+ (a) confirm the determination of the Competition Commission;
+ (b) amend or set aside the determination, in whole or in part; or
+ (c) make any determination or order that is appropriate in the circumstances.
+  . . .
+ (6) Any person referred to in subsection (1) who is aggrieved by a determination or order of the Competition Tribunal in terms of subsection (2) may appeal against that determination or order to the Competition Appeal Court."
+122	 S 58(1)(a):
+ "(1) In addition to its other powers in terms of this Act, the Competition Tribunal may–
+ (a) make an appropriate order in relation to a prohibited practice or an appeal referred to in section 43F, including–
+ (i) interdicting any prohibited practice;
+ (ii) ordering a party to supply or distribute goods or services to another party on terms reasonably required to end a prohibited practice;
+ (iii) imposing an administrative penalty, in terms of section 59, with or without the addition of any other order in terms of this section;
+ (iv) ordering divestiture, subject to section 60;
+ (v) declaring conduct of a firm to be a prohibited practice in terms of this Act, for purposes of section 65;
+ (vi) declaring the whole or any part of an agreement to be void;
+ (vii) ordering access to an essential facility on terms reasonably required."
+123	 S 44 provides that:
+ "(5) A person contemplated in subsection (1) who is aggrieved by the determination of the Competition Commission in terms of subsection (3) may, within the prescribed period of the Commission's decision, refer the decision to the Competition Tribunal.
+ (6) The Competition Tribunal may confirm or substitute the Competition Commission's determination or substitute it with another appropriate ruling."
+124	Agri Wire above fn 25 at para [13].
+125	First judgment at para [53].
+126	First judgment at para [54].
+127	Competition Commission of South Africa v Pioneer Hi-Bred International Inc and others [2013] ZACC 50, 2014 (2) SA 480 (CC), 2014 (3) BCLR 251 (CC) [also reported at [2014] JOL 32485 (CC) – Ed] at para [24]:
+  "[W]hen the Commission is litigating in the course of fulfilling its statutory duties, it is undesirable for it to be inhibited in the bona fide fulfilment of its mandate by the threat of an adverse costs award. This flows from the need to encourage organs of state to make and to stand by honest and reasonable decisions, made in the public interest, without the threat of undue financial prejudice if the decision is challenged successfully."
+
+Appearance:
+Adv T Ngcukaitobi SC, Adv K Maputla, Adv I Kentridge, Cheadle Thompson and Haysom Incorporated (At); Adv R Bhana SC, Adv A Gotz SC, Adv C Avidon, Allen and Overy (R)
+
+
+End of Document

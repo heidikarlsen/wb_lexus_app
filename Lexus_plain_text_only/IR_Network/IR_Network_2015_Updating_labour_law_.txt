@@ -1,0 +1,84 @@
+
+
+
+
+Updating labour law?
+IR - Editorial
+
+Updating labour law?
+
+The judgment handed down by a United Kingdom Employment Tribunal in Aslam & others v Uber BV & others (Case Nos: 2202550/2015, 28 October 2015), ruling that London Uber drivers are ‘workers’ subject to employment law, has made waves not limited to the UK itself. Nor is it limited to the transport sector; business models comparable to Uber’s, whereby an ‘independent contractor’ provides services to customers via an online platform owned by a third party – such as Uber – have flourished in various sectors. 
+
+But, for some years, the question has loomed large: are those ‘independent contractors’ in fact independent, like accountants or doctors, or are they employees of the platform owner in all but name? If so, they would be entitled to the benefits and protection of labour law, making the platform owner liable for additional costs and potentially (as one commentator put it) “striking a death blow” at the business model itself.
+
+This latest judgment follows rulings by labour tribunals and courts in the United States that Uber drivers are ‘employed’ by Uber for various purposes.1 see Editorial 24 November 2015 It also follows the settlement agreement in a landmark class action by US Uber drivers claiming employee status, in which the drivers acknowledged that they were independent contractors.
+
+Aslam v Uber is even more interesting from a South African perspective because, in a sense, it is closer to home. The legal systems in the UK and South Africa have some common roots, and there is a long tradition in our courts of referring to UK case law in various fields (and, to some extent, vice versa). In labour law especially there are significant overlaps as well as significant differences. But the definition of ‘employee’ has long been an area of overlap, with the traditional tests for determining employment status derived from English case law.
+
+In Aslam & others, it was not the drivers’ ‘employee’ status but their status as ‘workers’ in terms of the Employment Rights Act of 1996 (ERA) that was at issue. According to some, ‘worker’ is a category in between ‘employee’ and ‘independent contractor’, enjoying some but not all the rights and protections extended to common law employees. To the South African eye, however, the definition of ‘worker’ is remarkably similar to that of ‘employee’ in South African legislation.
+
+Like ‘employee, it includes but is not confined to those who have entered into contracts of employment. But, unlike the very broad definition of ‘employee’ in the LRA and other labour statutes, 2 it defines ‘worker’ more specifically as an individual working under any contract other than an employment contract “whereby the individual undertakes to do or perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual” (s 230).
+
+If a worker falls within this definition, he or she will be entitled to all the rights conferred by the ERA, which resemble those set out in the BCEA but are far more detailed (including, for example, protection against unfair dismissal and victimisation). In the present case, the Uber drivers argued that their working arrangements brought them squarely within the scope of the definition. Based on this, they asserted their right to 
+
+• payment of the legal minimum wage,
+
+• provision of paid leave, and, in two cases,
+
+• protection against detrimental treatment for whistle-blowing.
+
+In deciding whether this claim was justified, the tribunal adopted a starting point that will be familiar to South African practitioners: it looked at the purpose of the extended definition of ‘worker’.  That purpose, the tribunal found, “can only have been to extend the benefits of protection to workers who are in the same need of that type of protection as employees”. The issue, thus, is not only the degree of control which the employer exercises, though that is part of the equation. The true distinction, it was held, 
+
+“must be between, on the one hand, workers whose degree of dependence is essentially the same as that of employees and, on the other, contractors who have a sufficiently arm's-length and independent position to be treated as being able to look after themselves in the relevant respects” (cited at para 75 of judgment). 
+
+So what is the degree of dependence of the London Uber driver vis-à-vis the company? Uber itself has always insisted that the drivers are genuine free agents who work when they wish to; the Uber app, they argue, serves only as a means for customers to “hail” drivers. In Britain as in South Africa, however, “disguised employment” is a reality, and contracts are not taken at face value. Rather, “[t]he question in every case is … what was the true agreement between the parties” (cited at para 78).
+
+The tribunal accepted that there is no obligation on an Uber driver to switch on the app; but, once he or she does so, the picture changes.  In reality, it was found, Uber was “running an enterprise at the heart of which is the function of carrying people in motor cars”. Requiring drivers and passengers to agree “as a matter of contract” that this was not so, in the tribunal’s view, “merits … a degree of scepticism” (para 87).
+
+This impression was further reinforced by the language used by Uber in describing its service. Examples abound of terms like “our drivers”, “we can provide a reliable service to everyone at all times” and that drivers are “paid a commission of 80% for every journey they undertake” (emphasis added). The tribunal did not agree with Uber that this was “mere sloppiness of language”. On the contrary, it was found, it would be “unreal to deny that Uber is in business as a supplier of transportation services” (para 89).
+
+Even so, it is possible to run a transportation business using independent contractors rather than employees. That, indeed, can be seen as the second leg of Uber’s case even after its main defence – its status as a mere provider of a technical service – had been breached. But here, too, the facts were against it. In an exercise reminiscent of South Africa’s ‘dominant impression’ test for distinguishing between an employee and an independent contractor, the tribunal noted 13 features of the relationship between Uber and “its” drivers pointing towards employee status. Amongst others:
+
+• While claiming to be no more than the drivers’ “agent”, Uber also has "sole and absolute discretion" to accept or decline bookings by customers;
+
+• Uber interviews and recruits drivers;
+
+• Uber controls key information, including the passenger's surname, contact details and intended destination;
+
+• Uber sets the fare and the driver cannot agree a higher sum with “her/his” customer; and
+
+• Drivers are subject to numerous conditions (such as choice of vehicle), instructed in how to do their work and controlled in performing their duties.
+
+There is much more of interest in the 40-page judgment. The outcome was that the drivers won their claim to receive the payments and benefits due to “workers”. Predictably, it isn’t the end of the matter; Uber is taking the judgment on appeal.
+
+But, assuming the judgment is upheld, it will not necessarily “strike a death blow” at the so-called “gig economy”. Inevitably, it has focused on the peculiarities of Uber and its relationships with drivers and customers. On a different factual mix, a different conclusion may be reached. Indeed, Uber itself could – at least in theory – iron out the “sloppiness” of its language in describing its business as well revising those aspects which are most obviously associated with employment.
+
+Or, to put it differently, there is no reason why own-account workers in the true sense of the word should not acquire electronic means, either independently or through an agent, to market their services. 
+
+This does not mean that a platform owner should desist from imposing any terms or conditions for the use of its platform by service providers or customers. As with franchises, a degree of quality control and conditions for protecting its reputation may go with the territory. But Uber, in the view of the Employment Tribunal, went further than was justified on the part of an agent.
+
+Would a similar claim by Uber drivers in South Africa lead to a similar outcome? Very possibly, assuming their conditions of service are comparable to those reflected in Aslam v Uber (above). However, there may be less likelihood of this happening, at least until clear benefits of employee status over their existing status become generally recognised among Uber drivers.
+
+Another factor is an apparently low level of interest in the issue within the labour movement. While Cosatu “opposes the Uber business model”, it does so for quite different reasons. In a statement on Uber’s expansion to the Western Cape, Cosatu explained its position as follows:
+
+“Cosatu opposes the attempts by Uber to try and take over the market by not complying with the required regulations. For Uber to want to enter the Cape Town market and undermine established business practices is unacceptable”.3 
+
+In addition, Cosatu insists that all cars must be driver-owned.
+
+But these concerns may already be moot. Not owning cars, but having them owned by the drivers, is actually one of Uber’s trademark features. Also on the regulatory front, it appears that Uber drivers are being issued with metered taxi licenses, so that basis for Cosatu’s opposition may have been removed. If concerns about drivers’ exclusion from employee protection formed part of it, that has not been made clear.
+
+So it remains work in progress. The “fourth industrial revolution”, of which the ‘gig economy’ is part, has brought us to a point where more and more workers dispose over the knowledge and resources to do work without being dependent on employers. The judgment in Aslam v Uber has been hailed as updating labour law by extending protection to workers in this brave new world. 
+
+This may overstate the case. It has asserted the traditional jurisdiction of labour law over workers who are found to be in disguised employment relationships, which is not a new phenomenon. Far more challenging will be the position of workers who cannot be fitted into traditional pigeonholes. Protecting their rights will make new demands on the law and, beyond the limits of the law, on the labour movement to find ways of organising them. Unless, of course, the workers form their own associations.
+
+
+
+
+
+Footnotes
+1	   See ‘A brave new world of work without workers?’ IRNetwork editorial 24 November 2015.
+2	   I.e., including “any other person who in any manner assists in carrying on or conducting the business of an employer”.
+3	   Gareth van Zyl “Cosatu ‘opposes’ Uber’s business model” Fin24Tech 9 July 2015.
+
+
+End of Document

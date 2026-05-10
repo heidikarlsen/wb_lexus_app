@@ -1,0 +1,208 @@
+
+
+
+
+Sasol South Africa (Pty) Ltd and others v Cramer [2023] JOL 58573 (FB)
+Judgments Online
+
+Division: Free State, Bloemfontein 
+Case No: 3338 / 2019
+Hearing Date(s): 23 / 03 / 2023
+Judgment Date(s): 11 / 04 / 2023
+Bench: JP Daffue J
+
+
+Keywords
+
+
+Civil Procedure — Separation of issues — Convenience
+
+Mini Summary
+
+
+In July 2019, the respondent (Mr Cramer) instituted action against his former employer(s) (“Sasol”), alleging that he had suffered damages in the amount of R7 008 963.29. He alleged that he was subjected to occupational detriment by several employees of Sasol during the course and scope of their employment. His cause of action was founded upon the Protected Disclosures Act 26 of 2000, in terms of which he sought compensation and damages. Sasol filed three special pleas, one pertaining to jurisdiction, the second pertaining to prescription and the third founded upon the provisions of section 35(1) of the Compensation for Occupational Injuries and Diseases Act 130 of 1993 (“COIDA”). It also pleaded over on the merits of the claim.
+
+Sasol brought an interlocutory application, seeking a separation of issues on the basis that the third special plea founded upon COIDA be separated from the merits of Mr Cramer’s claim.
+
+Held that Rule 33 of the Uniform Rules of Court regulates the separation of issues. The court must be satisfied in a pending action that it will be convenient to decide a question of fact or law separately before a separation order is granted in terms of sub-rule 33(4).
+
+The right to compensation, established in section 22, is subject to an exclusionary provision headed “Substitution of compensation for other legal remedies” in section 35. Sub-section 35(1) state. “No action shall lie by an employee or any dependant of an employee for the recovery of damages in respect of any occupational injury or disease resulting in the disablement or death of such employee against such employee's employer, and no liability for compensation on the part of such employer shall arise save under the provisions of this Act in respect of such disablement or death.” The purpose of the statutory compensation scheme is to grant employers immunity from claims by their employees or their dependents, but to provide compensation for workplace injuries and illnesses in situations where a co-employee, the employee or his/her employer is at fault. Therefore, although the employee’s common-law right to claim damages from his/her employer based on negligence has been abolished, COIDA provides relief to an employee if the legislative requirements are met. Mr Cramer’s case was not based on COIDA but on the Protected Disclosures Act. The court examined the manner in which the matter of separation of issues has been treated by the courts. The dispute in this case was one of law, but that could not be determined in the absence of agreed or proven facts. The third special plea could therefore not conveniently be decided separately. The application was accordingly dismissed.
+
+ 
+[2023] JOL 58573 (FB) at 2
+
+
+
+
+Introduction
+
+[1]    It is generally accepted that rule 33 of the Uniform Rules of Court is aimed at facilitating the expeditious disposal of litigation, but experience has taught us that the application of the rule often produces the opposite result. Subrule 33(1) provides that the parties to the dispute may agree upon a written statement of facts in the form of a special case for adjudication. In such a case the court is obliged to adjudicate the special case presented to it. Contrary to this subrule, the court must be satisfied in a pending action that it will be convenient to decide a question of fact or law separately before a separation order is granted in terms of subrule 33(4). In casu the defendants in a pending action require the court to grant an order in terms of subrule 33(4) which application is opposed by the plaintiff.
+
+The parties
+
+[2]    Mr Hilmar Cramer is the plaintiff in the main action. He instituted action against three Sasol companies, to wit Sasol South Africa (Pty) Ltd, Sasol Technology (Pty) Ltd and Sasol Ltd as first, second and third defendants respectively. He is the respondent  
+[2023] JOL 58573 (FB) at 3
+in the interlocutory application in terms of subrule 33(4). Adv C Ploos van Amstel SC appeared for Mr Cramer in the application.
+
+[3]    The three Sasol companies are the applicants in the interlocutory application. In order to prevent confusion, the applicants will be referred to in the singular as Sasol. Advv P Ellis SC and PG Leeuwner appeared for Sasol.
+
+The relief sought
+
+[4]    On 6 December 2021 Sasol issued this interlocutory application. They seek a separation of issues on the basis that the third special plea "founded upon the Compensation for Occupational Injuries and Diseases Act 130 of 1993 ("COIDA") be separated from the merits of the Plaintiff's claim".1
+
+[5]    The application was initially set down for hearing on 28 July 2022. On that day it could not proceed as Mr Cramer belatedly gave notice of intention to amend his particulars of claim. The matter was removed from the roll by agreement, the wasted costs having been reserved for later adjudication, if required. Mr Cramer did not proceed with the application to amend the particulars of claim and consequently, the matter was set down for hearing on 23 March 2023.
+
+Relevant background
+
+[6]    On 26 July 2019 Mr Cramer instituted action against his former employer(s), alleging that he had suffered damages in the amount of R7 008 963,29. It is his case that he was subjected to occupational detriment by several employees of his former employer(s) during the course and scope of their employment with the employer(s) over an extended period of time as a result of which the pressure and work-induced stress caused him "mental anguish which culminated in a mental disorder and psychiatric injury".2 His cause of action is squarely founded upon the  
+[2023] JOL 58573 (FB) at 4
+Protected Disclosures Act 26 of 2000 ("PDA"). Compensation and damages are sought in accordance with section 4(1B) of the PDA.
+
+[7]    Mr Cramer alleged that he had been employed by the first defendant, but stated that the third defendant's particulars appeared on his salary advices. The defendants pleaded that the second and third defendants did not have a direct and substantial interest in the dispute and should not have been joined. Notwithstanding their plea, all three defendants are cited as applicants in the present application. Save for this observation, this issue is irrelevant to the adjudication of the application.
+
+[8]    Sasol filed three special pleas, one pertaining to jurisdiction, the second pertaining to prescription and the third founded upon the provisions of subsection 35(1) of COIDA. It also pleaded over on the merits of the claim.3 The pleadings have been closed nearly two years ago. On 26 April 2021 the legal representatives held their pre-trial conference in accordance with rule 37(A).4 The same two senior counsel who appeared before me in the present application represented the parties at the pre-trial conference. They agreed to a separation of issues on the basis that the first special plea ("the jurisdiction issue") and the third special plea (founded upon COIDA) be separated for prior determination and all other issues to stand over if required.5 They agreed further that the separated issues could be dealt with by means of submissions on a stated case to be prepared and that one day would be sufficient for the hearing. A draft statement of facts was prepared on behalf of Sasol, but the parties could not reach an agreement as to the terms thereof. Clearly, the parties had an agreed statement of facts in mind at that stage. The failure to agree on a statement of facts triggered this application.
+
+Evaluation of the pleadings and legal submissions made by the parties' legal representatives
+
+[9]    In so far as Sasol's third special plea is founded on subsection 35(1) of COIDA and Mr Ellis has submitted forcefully that Mr Cramer's claim against Sasol is excluded by this  
+[2023] JOL 58573 (FB) at 5
+subsection, it is necessary to provide some background. The preamble of COIDA reads as follows:
+
+"To provide for compensation for disablement caused by occupational injuries or diseases sustained or contracted by employees in the course of their employment, or for death resulting from such injuries or diseases; and to provide for matters connected therewith."
+
+[10]    The following summary obtained from the judgment of the Supreme Court of Appeal in Compensation Commissioner and others v Compensation Solutions (Pty) Ltd (Case No. 997/2021) and Compensation Solutions (Pty) Ltd v Compensation Commissioner and others (Case No. 1175/2021)6 is apposite. A Compensation Commissioner is appointed by the Minister of Labour to assist the Director-General ("the DG") in the performance of the functions set out in section 4 of COIDA. The Commissioner's functions are set out in section 6A. A Compensation Fund has been established in terms of section 15, consisting, inter alia, of assessments paid by employers. Section 16 stipulates that the Fund shall be under the control of the DG and its moneys shall be applied, inter alia, for: 
+
+the payment of compensation, the cost of medical aid or other pecuniary benefits to or on behalf of or in respect of employees in terms of this Act where no other person is liable for such payment; . . ." 
+
+Section 22 deals with the right of an employee to compensation in the event of an accident resulting in the employee's disablement and in the event of the employee's death, their dependants shall, subject to the provisions of the Act, be entitled to the benefits provided for and described in the Act.
+
+[11]    In so far as the third special plea is based on subsection 35(1), it needs attention. The right to compensation, having been established in section 22, section 35 contains an exclusionary provision which is headed "Substitution of compensation for other legal remedies". Subsection 35(1) stipulates the following:
+
+No action shall lie by an employee or any dependant of an employee for the recovery of damages in respect of any occupational injury or disease resulting in the disablement or death of such employee against such employee's employer, and no liability for compensation on the part of such employer shall arise save under the provisions of this Act in respect of such disablement or death." 
+[2023] JOL 58573 (FB) at 6
+
+[12]    Provision for compensation to employees and their dependants provided for in COIDA is not a recent phenomenon. They have received statutory protection for at least the last nine decades. COIDA repealed the Workmen's Compensation Act 30 of 1941 which earlier repealed the Workmen's Compensation Act 59 of 1934. The purpose of this statutory compensation scheme is to grant employers immunity from claims by their employees or their dependants, but to provide compensation for workplace injuries and illnesses in situations where a co-employee, the employee or his/her employer is at fault. Therefore, although the employee's common-law right to claim damages from his/her employer based on negligence has been abolished, COIDA provides relief to an employee if the legislative requirements are met.
+
+[13]    The PDA's preamble reads as follows:
+
+"To make provision for procedures in terms of which employees and workers in both the private and the public sector may disclose information regarding unlawful or irregular conduct by their employers or other employees or workers in the employ of their employers; to provide for the protection of employees or workers who make a disclosure which is protected in terms of this Act; and to provide for matters connected therewith" (emphasis added).
+
+Section 4 of the PDA provides for remedies to an employee subjected to an occupational detriment in breach of section 3 of the PDA. The employee may approach any court having jurisdiction for appropriate relief. Subsection 4(1B), on which Mr Cramer relies, has been inserted with effect from 2 August 2017. Having referred to relevant provisions of COIDA and the PDA, I emphasise that it is not this Court's function to adjudicate at this stage whether Mr Cramer is entitled to relief in terms of the PDA. Therefore, the question is left open for the trial court to deal with the issue. It is reiterated that Mr Cramer has expressly elected to found his cause of action on the PDA and not COIDA.
+
+[14]    Mr Ellis referred to two judgments in support of his argument that this Court may grant separation, even in the absence of a stated case. The authorities relied upon are Imprefed (Pty) Ltd v National Transport Commission ("Imprefed")7 and Kriel v Hochstetter House (Edms) Bpk ("Kriel").8 These judgments are distinguishable from the facts in casu and is [sic] no authority for the approach adopted by Sasol. In Kriel the  
+[2023] JOL 58573 (FB) at 7
+defendant took a point in limine before any evidence was led at the trial. No prior notice was given. The defendant raised the point that the contract relied upon by the plaintiff was null and void. The plaintiff conceded that certain clauses thereof were vague and invalid, but submitted that those provisions were severable from the rest of the contract. The court a quo accepted the plaintiff's version and granted judgment only in respect of the arrear basic rental. The Full Bench upheld an appeal and dismissed the respondent's claim (the plaintiff in the court a quo). Stegmann J, who agreed with the majority, commented on the procedure. He was of the view that the point in limine was in essence an exception and should never have been taken as a point in limine at the trial. The learned Judge emphasised that the plaintiff elected not to lead evidence at the trial (and obviously consented to the procedure adopted by the defendant) and he had to blame himself for the predicament created.9
+
+[15]    In Imprefed the defendant brought an application in terms of subrule 33(4) at the outset of the trial. The plaintiff had no objection against the court disposing of the plea of prescription in respect of one of its claims, but resisted the application in respect of the exceptions. The following dictum gives context to the court's viewpoint:
+
+"With regard to whether the exceptions should be entertained at all in terms of Rule 33(4) I am mindful of what was said in Kriel v Hochstetter House (Edms) Bpk 1988 (1) SA 220 (T) at 230 and 231. In my view, however, the considerations mentioned in that case do not obtain here. Defendant's objections against the particulars of claim were set out in the plea and at the last pre-trial conference notice, albeit short notice, of the exceptions was given. As a matter of convenience it seems that claim A, B and C will proceed anyway. If the exceptions succeed it will have the effect of curtailing the duration of the trial. I am therefore prepared to approach the exceptions on the basis that they may properly be considered in terms of Rule 33(4)" (emphasis added).
+
+[16]    It is apposite to emphasise the case that Mr Cramer pleaded in his particulars of claim. Having had a legal duty as employee in terms of both the PDA and the Occupational Health and Safety Act 85 of 1993 ("the OHS") to report and disclose unlawful and irregular conduct by employers and fellow employees in the workplace and to report any situation which was unsafe or unhealthy to the employer, or to the health and safety representative for his workplace, he acted accordingly. Once he had reported unlawful and irregular conduct, he as whistle-blower was subjected to bullying  
+[2023] JOL 58573 (FB) at 8
+tactics and abuse by several co-employees. It is his case that he has been adversely affected on the basis as set out in detail in the particulars of claim on account of having made the disclosures in terms of the PDA. The occupational detriment to which he was subjected, was contrary to section 3 of the PDA and hence unlawful. His cause of action is squarely based on the PDA. Nowhere in the particulars of claim does one find any reference at all to COIDA.
+
+[17]    It is submitted on behalf of Sasol that the issue raised in the third special plea may finally dispose of Mr Cramer's action and thus curtail unnecessary litigation. Even if the third special plea is not upheld, a separation would not lead to a duplication of evidence. Mr Ellis submitted that no evidence would be required in order to adjudicate this special plea, the reason being that Sasol is prepared to assume only for purposes of adjudication of the plea that the facts pleaded in the particulars of claim are correct. However, if the special plea is dismissed, Mr Cramer would still have to testify in order to prove his case on the merits.
+
+[18]    Mr Ploos van Amstel made several submissions in order to show that separation as sought would not serve any purpose at all and that the issues could not conveniently be decided separately. He submitted that the case cannot be resolved on the papers and that Sasol's "correct remedy was a stated case on agreed facts; not an academic exercise based on incomplete and speculative 'assumptions'."
+
+[19]    In considering separation of issues I am mindful of the problems that have surfaced in the past and the criticism of the Supreme Court of Appeal pertaining to separation orders made in various matters by judges of the High Court. The following dictum in Denel (Edms) Bpk v Vorster10 must be considered by any court considering a separation of issues:
+
+"[3]  Before turning to the substance of the appeal, it is appropriate to make a few remarks about separating issues. Rule 33(4) of the Uniform Rules – which entitles a Court to try issues separately in appropriate circumstances – is aimed at facilitating the convenient and expeditious disposal of litigation. It should not be assumed that that result is always achieved by separating the issues. In many cases, once properly considered, the issues will be found to be inextricably linked, even though, at first sight,  
+[2023] JOL 58573 (FB) at 9
+they might appear to be discrete. And even where the issues are discrete, the expeditious disposal of the litigation is often best served by ventilating all the issues at one hearing, particularly where there is more than one issue that might be readily dispositive of the matter. It is only after careful thought has been given to the anticipated course of the litigation as a whole that it will be possible properly to determine whether it is convenient to try an issue separately. But, where the trial Court is satisfied that it is proper to make such an order – and, in all cases, it must be so satisfied before it does so – it is the duty of that Court to ensure that the issues to be tried are clearly circumscribed in its order so as to avoid confusion. The ambit of terms like the 'merits' and the 'quantum' is often thought by all the parties to be self-evident at the outset of a trial, but, in my experience, it is only in the simplest of cases that the initial consensus survives. Both when making rulings in terms of Rule 33(4) and when issuing its orders, a trial Court should ensure that the issues are circumscribed with clarity and precision. It is a matter to which I shall return later in this judgment" (emphasis added).
+
+[20]    In Transalloys the Supreme Court of Appeal was especially critical of the manner in which separation was ordered by the High Court. It concluded that the "indeterminate nature" of the order "led to much . . . confusion".11 In yet another judgment the Supreme Court of Appeal criticised an order for separation of issues in the absence of clarity. Gorven JA commented as follows in First National Bank v Clear Creek Trading 12 (Pty) Ltd and another:12
+
+"[13]  In my view, the procedure adopted in the court below was not competent under rule 33(4). The failure to make any order and the failure to specify an issue with clarity combined to render the approach incompetent. I do not say that in every case procedural shortcomings will have this result. At a certain point, however, procedural shortcomings cross the line and result in a procedure not being competent under the rule. It is not possible to specify in general terms where that line will be crossed. Each case must be judged on its own merits.
+
+[14]    This may be considered to be an unduly formalistic approach to adopt. In this case, however, the failure to address the matter properly under rule 33(4) led to an even more substantial difficulty. This impacted on the ability of the court to arrive at a proper conclusion on the issue.
+
+[15]    I refer in this regard to the manner in which the issue was ventilated in the court below. In doing so, the parties failed to place agreed facts before the court by way of rule 33(1) or to lead any evidence. This was clearly felt keenly by the court below which, in its judgment, set out supposed common cause facts. Some of these were challenged by FNB in its heads of argument on appeal. There is no indication in the record that any facts were accepted as being common cause. The facts set out by the court below appear to have been gleaned from parts of the pleadings and, principally, from the plea. The failure to present the court with agreed facts or with evidence means that no facts were placed before the court which bore on the issue. FNB submitted before us that this was not necessary because the issue involved the interpretation of an agreement and that accordingly no evidence was necessary.
+
+. . .
+
+ 
+[2023] JOL 58573 (FB) at 10
+
+[18]    In addition to the serious procedural shortcomings, therefore, it is my opinion that the issue could not have been properly decided on the basis on which it was dealt with in the court below. In the circumstances, the court below should have declined to grant any order on the issue placed before it and made the costs relating to the ventilation of that issue costs in the cause. All of this means that the appeal should succeed" (emphasis added).
+
+[21]    Mr Cramer relies on a psychiatric injury caused to him as a result of the conduct of his former co-employees. In order to bolster his argument, Mr Ellis submitted, relying on the recent judgment of the Supreme Court of Appeal in Komape and others v Minister of Basic Education and others,13 that such an injury has been equated with a bodily injury for purposes of delictual liability.
+
+[22]    Mr Ellis submitted that the court having to adjudicate the special plea, once a separation has been ordered as sought, will have to consider a legal argument, ie whether Mr Cramer could rely on the PDA for relief, or whether he is bound to claim from the Compensation Commissioner in terms of COIDA to the exclusion of any other remedies provided in the PDA. As mentioned, he relied on subsection 35(1) of COIDA.
+
+[23]    Mr Ellis conceded that although a psychiatric injury is not mentioned in the first column of Schedule 3 of COIDA and is therefore not an occupational disease as intended by subsection 65(1)(a), subsection 65(1)(b) makes provision for occupational diseases other than those mentioned in Schedule 3. Subsection 65(1)(b) reads as follows:
+
+". . . that an employee has contracted a disease other than an occupational disease and such disease has arisen out of and in the course of his employment."
+
+It is obvious from the proviso in subsection 65(1)(b) that the disease has to arise out of and in the course of the employee's employment.
+
+[24]    In so far as it has to be determined whether the psychiatric injury/illness of Mr Cramer was sustained as a result of an accident and/or whether it arose out of and in the course of his employment, Mr Ellis relied on the following dicta of the Supreme Court of Appeal in Churchill v Premier of Mpumalanga and another ("Churchill"):14
+
+ 
+[2023] JOL 58573 (FB) at 11
+
+"[13]  . . . This benevolent approach to the meaning of an accident and personal injury led courts in England to extend the concept of an accident to include illness derived from an accident. In addition they held that while an accident is frequently something external to the employee – such as an explosion or a fall from a ladder – it included internal injuries occasioned by performing the work of the employee, for example, a slipped disc when lifting something at work . . .
+
+[14]    The resulting position is that almost anything which unexpectedly causes an injury to, or illness or death of, an employee falls within the concept of an accident. The result is that the focus of the cases is less on the first element of an accident, because almost anything unexpected can be an accident, but on whether the accident arose out of and in the course of the employee's employment. The two expressions are not coterminous, so that an accident may arise in the course of, but not out of, the employee's employment. It is not necessary to consider whether the reverse is also true. Two judgments of this court set out the broad approach to be adopted to these expressions."
+
+[25]    It is accepted that there is a distinction between an occupational injury and an occupational disease. Occupational injury requires a prior accident, but an occupational disease does not. Mr Ellis submitted that Mr Cramer had suffered an occupational disease in terms of the provisions of COIDA even if a court may find that the unlawful conduct of the co-employees as alleged by Mr Cramer did not constitute an accident. He referred to the situation where an employee suffers from lung cancer after having gone up and down mineshafts for years whilst the employer failed to comply with safety and health regulations. Such employee is entitled to claim compensation in terms of COIDA, but may not claim damages from the employer. That may indeed be so, but a totally dissimilar situation presents itself in casu. Churchill is of no assistance to Sasol. In that case the employee was injured at her workplace during strike action. The court accepted that "that there is no bright line test and the enquiry is always whether the statutory requirement that the accident arose out of the person's employment, as well as in the course of that employment, is satisfied." It found that the assault on the employee did not arise out of her employment.15 I do not intend to deal with this issue any further as it should be left for adjudication by the trial court.
+
+[26]    Initially and upon reading the papers in order to prepare for the hearing, my prima facie view was that separation should be granted. I accepted that the dispute was one of law, ie which of the two Acts, COIDA, or the PDA, applied in casu. Sasol's reliance on an assumption of the correctness of certain pleaded facts does not impress 
+[2023] JOL 58573 (FB) at 12
+me. The dispute is one of law, but that cannot be determined in the absence of agreed or proven facts. My final conclusion would be different if there was a precise agreement in respect of the facts and these were properly recorded, either as provided for in subrule 33(6) or in the form of a stated case in accordance with subrule 33(1). I reiterate that the issues, including the facts agreed upon, should be circumscribed with clarity and precision.
+
+[27]    It is also important to consider Mr Cramer's opposition to the application for separation. He stated in his answering affidavit that he would have to lead evidence and could not merely rely on the pleadings and the discovered documentation.16 Although the relevant facts in the particulars of claim are denied in Sasol's plea, Mr Ellis indicated in the heads of argument and during oral argument that Sasol was prepared to assume the correctness of all facts alleged in the particulars of claim. In fact, he went so far to say at the onset of his oral argument that Sasol was prepared to assume as correct the particulars of claim from paragraph one to the last paragraph. He emphasised that this assumption would not apply to all the discovered documentation and expert reports. Therefore, according to him, Mr Cramer would not be required to prove any of the facts relied upon by him for the adjudication of the third special plea. In my view, Mr Ellis did not consider his submission carefully. The allegations in the particulars of claim cannot be interpreted to mean anything else than that the cause of action is founded on the PDA. If these are assumed to be correct, Sasol would be precluded from arguing the opposite if a separation is ordered on such basis. If it is Sasol's view that I misunderstood their counsel, then this is yet another reason why the application is doomed to fail. If Sasol is only prepared to assume that certain paragraphs relating to the treatment received by Mr Cramer from co-employees and the consequences thereof are correct, it should have said so. An order is sought in paragraph 1 of the notice of motion that the third special plea be separated from the merits of Mr Cramer's claim. What does merits mean in this context? This is vague in the extreme and could only lead to confusion if I was to grant relief in such terms. Mr Ploos van Amstel also submitted correctly, in my view, that the court should not act on assumptions. Sasol must either admit all relevant facts unconditionally in 
+[2023] JOL 58573 (FB) at 13
+order for a separation to be considered, or proceed on trial in respect of the case as a whole.
+
+[28]    Mr Ellis submitted that a separation will save Mr Cramer from a stressful appearance in court in order to testify and be subjected to cross-examination. According to Mr Ploos van Amstel, his client wants his day in court. He does not want a court to adjudicate the matter on the mere allegations in the particulars of claim, but having regard to his evidence in order for the court to be provided with a full and detailed picture. I agree that Mr Cramer is entitled to present evidence in support of his case. This may eventually favour him, or show that his cause of action does not fall within the ambit of the PDA, but so be it then.
+
+[29]    Mr Ellis submitted that the PDA did not create a new cause of action, but merely provided the courts with the power to create a remedy within the framework of the law. According to him, the Legislature is presumed to know the law and COIDA would have been in its mind when the PDA was enacted. Therefore, the PDA does not stipulate that COIDA shall not apply. PDA merely extends and/or broadens the existing remedy, so he submitted. In my view, Mr Ellis shot himself in the foot in making such a submission. Clearly, his argument entails that the PDA provides an extension and/or broadening of an employee's remedy in particular circumstances. Again, this is an issue for another court to decide, but I wish to make the following observation. Never in the history of this country was it deemed necessary to protect whistle-blowers, not even to speak of affording them remedies, inter alia, in the form of compensation. The PDA is recent legislation. It is concerned with unlawful and irregular conduct by employers and co-employees. This is a far cry from the fault of a co-employee or employer that causes harm for which COIDA caters. Mr Ellis is concerned that the PDA will ruin poor and small employers who will not be able to settle claims instituted against them, but so be it. Unlawful conduct must be rooted out.
+
+[30]    Mr Ellis correctly submitted that the Supreme Court of Appeal approved a ruling by the court a quo that a plea based on subsection 35(1) be adjudicated separately. In that case the plaintiff pleaded in her particulars of claim the incident which caused her harm. It was not necessary to hear evidence in this regard as the incident as pleaded 
+[2023] JOL 58573 (FB) at 14
+clearly fell within the definition of an "accident" as defined in COIDA.17 That case is distinguishable from the matter at hand.
+
+[31]    After having given careful thought to the matter as directed in Denel and the other authorities quoted, I am satisfied that the third special plea cannot conveniently be decided separately. The application should be dismissed.
+
+Costs
+
+[32]    The papers in this matter, ie the pleadings bundle, the application bundle, as well as the heads of argument, are voluminous. The issue in dispute is to an extent novel. Sasol employed a senior and junior counsel. As directed by the Supreme Court of Appeal, all applications of this nature should be carefully considered as the consequences may turn out to be totally different from those intended, causing in the process time wasting as well as unnecessary legal costs. I am satisfied that Mr Cramer as the successful litigant is entitled to his costs of opposition, including the costs of senior counsel.
+
+[33]    The costs of 28 July 2022 were reserved for later adjudication. The application was properly and timeously set down for hearing, but at the last moment Mr Cramer decided to file a notice of intention to amend his particulars of claim. This necessitated a postponement of the application by agreement. There is no reason why Sasol should be out of pocket in this regard. The wasted costs occasioned by the postponement should be paid by Mr Cramer, such costs to include the costs of two counsel where so employed. The parties failed to address the issue of the wasted costs during their argument. I corresponded with them per email the day before handing down the judgment and obtained written confirmation from Mr Ploos van Amstel for Mr Cramer and the defendant's attorney, Mr Du Plessis, that such wasted costs should be paid by Mr Cramer.
+
+ 
+[2023] JOL 58573 (FB) at 15
+
+Order
+
+[34]    The following order is issued:
+
+The application is dismissed with costs, excluding the wasted costs occasioned by the postponement on 28 July 2022, such costs to include the costs of senior counsel.
+The respondent shall pay the wasted costs occasioned by the postponement on 28 July 2022, including the fees of two counsel where so employed.
+
+
+Footnotes
+1	 t para 1 of the notice of motion.
+2	 Pleadings bundle, particulars of claim at 6–48 paras 12–3 and 15 in particular at 31–44.
+3	 Pleadings bundle at 63–86 and particularly at 67 pertaining to the third special plea.
+4	  The minute dated 11 May 2021 appears from 124–31 of the pleadings bundle.
+5	 Application bundle at 126–7 and 129 paras 5.1, 5.4 and 10.1 of the minutes.
+6	  [2022] ZASCA 165 (29 November 2022) [also reported as Compensation Commissioner and others v Compensation Solutions (Pty) Ltd and a related matter [2022] JOL 56357 (SCA) – Ed].
+7	  1990 (3) SA 324 (T) [also reported at [1990] 3 All SA 752 (T) – Ed].
+8	  1988 (1) SA 220 (T) [also reported at [1988] 3 All SA 287 (T) – Ed].
+9	 Kriel loc cit at 242H.
+10	  2004 (4) SA 481 (SCA) [also reported at [2004] JOL 12535 (SCA), [2005] 4 BLLR 313 (SCA) – Ed] at para [3]; and see also Transalloys v Mineral-Loy (Pty) Ltd (781/2016) [2017] ZASCA 95 (15 June 2017) ("Transalloys") at para [6].
+11	 Transalloys loc cit at para [7].
+12	 (1054/2013) [2015] ZASCA 6 (9 March 2015) [also reported at [2015] JOL 32957 (SCA) – Ed] at paras [13]–[5] and [18].
+13	 [2019] ZASCA 16, 2020 (2) SA 347 (SCA) [also reported at [2019] JOL 46462 (SCA) – Ed] at paras [25]–[7], relying on the well-known judgment of Bester v Commercial Union Versekeringsmaatskappy van SA Bpk 1973 (1) SA 769 (A) [also reported at [1973] 2 All SA 56 (A) – Ed] and more recent authority.
+14	 (889/2019) [2021] ZASCA 16, 2021 (4) SA 422 (SCA) [also reported at [2021] JOL 49829 (SCA), [2021] 2 All SA 323 (SCA), [2021] 6 BLLR 539 (SCA) – Ed] at paras [13]–[4].
+15	 Ibid at para [36].
+16	  Answering affidavit at 92–6 para 10.2.
+17	 MEC for Education, Western Cape Province v Strauss 2008 (2) SA 366 (SCA) [also reported at [2008] JOL 21215 (SCA) – Ed] at para [14].
+
+Appearance:
+Adv P Ellis SC, Adv PG Leeuwner, Symington and De Kok (At); Adv C Ploos van Amstel SC, Phatshoane Henney Incorporated (R)
+
+
+End of Document

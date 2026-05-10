@@ -1,0 +1,732 @@
+Moodley-Veera v CCMA and others [2024] JOL 63410 (LC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE LABOUR COURT OF SOUTH AFRICA, JOHANNESBURG
+Not Reportable Case no: JR 1200/2020
+In the matter between:
+
+DEVOSHUM MOODLEY-VEERA	Applicant
+
+and
+COMMISSION FOR CONCILIATION
+MEDIATION AND ARBITRATION	First Respondent
+ELSABE HARMSE N.O	Second Respondent GOVERNMENT EMPLOYEES
+MEDICAL SCHEME	Third Respondent
+
+Heard:	7 September 2023
+Delivered:	22 February 2024
+This judgment was handed down electronically by consent of the parties’ representatives by circulation to them via email. The date for hand-down is deemed to be on 22 February 2024.
+
+
+JUDGMENT
+
+
+
+PRINSLOO, J
+
+
+
+Introduction
+
+The Third Respondent (Respondent or GEMS) employed the Applicant in May 2019 as Senior Manager: Internal Forensic Investigation, whose position falls within the Respondent’s internal audit unit. She was suspended on 18 November 2019, pending an investigation into allegations of misconduct and on 29 January 2020, the Applicant received a notice to attend a disciplinary hearing scheduled for 10 February 2020.
+The Respondent proposed that a process as envisaged in section 188A of the Labour Relations Act1 (LRA) be followed, to which the Applicant agreed and the Second Respondent (arbitrator) was appointed to conduct the inquiry into the allegations of misconduct.
+The section 188A inquiry commenced on 12 March 2020 and was concluded on 30 June 2020. It was held over 15 days during the period from March to June 2020. The Respondent called five witnesses and the Applicant testified.
+The charges levelled against the Applicant were as follows:
+
+‘FIRST ALLEGATION OF MISCONDUCT:
+During August 2019 and / or during September 2019 you have allegedly unilaterally decided to refer a matter in relation to fraud and corruption of an erstwhile Executive of GEMS (that was an ongoing investigation in the HAWKS office under reference number CAS 244/04/2018) to the Special Investigations Unit ("SIU") after it was specifically agreed between you and your direct line-manager, the Chief Audit Executive ("CAE"), Mr. Molapo Masekoameng ("your line-manager"), that you should deal directly with the HAWKS as it related to this matter.
+Your above-mentioned engagement with the SIU was not communicated to or authorized by your line-manager. Your actions in this regard caused embarrassment to your line-manager when he was surprised to learn of the SIU's involvement in the matter during a telephone call with Colonel Thabo Motedi, especially because during
+
+
+1 Act 66 of 1995, as amended.
+
+
+
+the meeting held with you, Colonel Thabo Motedi and the CAE on 23 August 2019, you were instructed thereafter to write to Col Motedi's direct head to obtain information on why there was no progress on the matter which you did not do, and instead directed the matter to the SIU without obtaining consent from your line manager first.
+The telephone call held between Colonel Thabo Motedi and your line-manager was made in your presence.
+You persisted with communication and / or engagement with the SIU (only) after your line-manager specifically instructed you to write a letter to the HAWKS and to copy the SIU in the e-mail.
+Your e-mail, dated 10 September 2019 to your line-manager, illustrates that you defied his instructions and decisions by continuing to engage with the SIU contrary to an agreed approach on the matter made on 23 August 2019. You have failed to involve your line-manager in an important matter where a reporting line exists.
+Your alleged conduct displays disregard for your line-manager’s authority over you and the official matters assigned to you.
+Your alleged misconduct caused reputational harm to the employer in that the HAWKS was already engaged in the above matter through Colonel Thabo Motedi.
+Your conduct caused the employment relationship to deteriorate and breached the trust relationship.
+SECOND ALLEGATION OF MISCONDUCT:
+
+On 26 August 2019 you were requested in an e-mail from the Senior Manager: Compliance & Ethics to sit as a panellist in internal interviews for the position of Ethics Specialist.
+You requested via an email to your line-manager whether it would be appropriate for you to be part of the interviewing panel.
+
+
+
+You displayed insolent behaviour and disregard for your line manager's instruction, by confirming availability for the interviews, before obtaining a response from your-line manager;
+Your actions in this regard seriously undermined the authority of your line-manager and is an example of how you regularly make decisions outside your scope of work without the involvement of your line-manager. Your actions further constitute insolent behaviour towards your line-manager, Mr Masekoameng.
+When your line-manager, Mr. Masekoameng, responded to your e-mail, he confirmed that you should exclude yourself from becoming involved with the recruitment in another division that falls outside of your job responsibilities.
+THIRD ALLEGATION OF MISCONDUCT:
+
+It is further alleged that on numerous instances during the course of your employment, more specifically from July 2019 to October 2019, you disregarded the authority of your line-manager and directly communicated / raised issues with the Audit Committee Chairperson and/or the Institute of Internal Auditors of SA ("IIASA") whereas you are required to follow internal escalation processes. Your alleged conduct caused a deterioration in the employment relationship and an irretrievable breakdown in the trust relationship.
+On 19 August 2019, you received a clear instruction from your line-manager, Mr. Masekoameng, not to involve yourself with the External Quality Assurance Review interviews and as expressed to you, in the introduction meeting with the service provider of the External Quality Assurance Review ("EQAR") by your line manager, that you are responsible for Internal Forensic (Fraud) Investigations and thus played no role in the audit work under review. Despite this clear instruction and you being reasonably aware that you had no role in the Internal Audit Function of GEMS, you inserted yourself and you involved yourself with the said EQAR interviews by contacting the reviewer/s of the Institute of Internal Auditors ("IIA SA").
+
+
+
+In your e-mail dated 29 August 2019 and sent to Mr. Joe Lesejane ("the Audit Committee Chairperson") you wrote and confirmed the abovementioned: “...l held a meeting with the EQAR lady last week as I pushed my way into being interviewed...”
+As a result of your alleged conduct, you ignored your line-manager's instruction/ decision and exceeded your authority.
+In allegedly perpetrating the abovementioned misconduct you displayed disrespect to your line-manager and his official decision in this regard.
+Your alleged conduct evinces distrust in your line-manager and ultimately your employer.
+FOURTH ALLEGATION OF MISCONDUCT:
+It is further alleged that on numerous instances during the course of your employment, more specifically from July 2019 to October 2019, you disregarded the authority of your line-manager and directly communicated / raised issues with the Audit Committee Chairperson and/or the Institute of Internal Auditors of SA ("IIASA") whereas you are required to follow internal escalation processes. Your alleged conduct caused a deterioration in the employment relationship and an irretrievable breakdown in the trust relationship.
+
+You wrote in an e-mail on 29 August 2019 to the Audit Committee Chairperson, inter alia the following "...l was motivated and had a sense of an idea that my opinion of the work of internal audit was either "does not comply" or "partially conforms" with the IIA standards...",
+"...l know Molapo will not provide me with the report..."; and
+
+“...My personal view is that there was a deliberate attempt to procure the services of the llASA for the EQAR...I have not approached Molapo on this matter and I know that this will not be a positive outcome...l am not comfortable with a number of dealings that are currently occurring.”
+The content of your e-mail of 29 August 2019 and inter alia the above statements made therein to the Audit Committee Chairperson constitute
+
+
+
+speculation, opinions and questioning of the decisions and processes of GEMS and do not amount to facts.
+Your alleged misconduct in this regard are aimed at sowing discord in the workplace, tarnishing your line-manager's good reputation and caused distrust within the workplace.
+FIFTH ALLEGATION OF MISCONDUCT:
+On 10 September 2019, you have misrepresented your position within GEMS in an e-mail to Mr. Charles Net, the Acting Chief Executive Officer of the Institute of Internal Auditors of South Africa ("IIASA") by stating that you are a Senior Manager for “ Auditing..." and that you are an "internal auditor" whilst you are appointed as a Senior Manager for Internal Forensic Investigations within the Audit Unit.
+You have made this misrepresentation to Mr. Nel after he enquired into your authority to request reasons for the "Generally Conforms" outcome of the EQAR as well as other information pertaining to the EQAR-process.
+Your alleged misconduct in this regard is viewed as gross dishonesty.
+
+SIXTH ALLEGATION OF MISCONDUCT:
+
+Your e-mail communication addressed to employees of IIA SA, namely Unathi Mnyimba and Mr. Charles Nel on 28 and 29 August 2019 as well as 10 September 2019 constitutes serious misconduct in that you brought the Employer's name into disrepute by stating, without a factual basis, that “the Internal Audit unit, the unit would not have achieved a "GC" (Generally Conforms) however a "PC' (Partially Conforms)” as well as "there is a motive on why the organization was driving for a “GC”…”
+By sending the abovementioned e-mails, you did not act in the best interest of your Employer and displayed total disregard for the Employer's internal procedures and investigations undertaken by the Principal Officer and the Audit Committee at the time in respect of the EQAR-process.
+
+
+
+Your conduct further shows your defiance of your line-manager (the Chief Audit Executive ("CAE"), Mr. Molapo Masekoameng), in that you should have raised the issues with him first in terms of the Employer's line of authority. Your actions also caused your line-manager extreme embarrassment as evinced from the e-mail from Mr. Nel, dated 10 September 2019.
+You have raised concerns in respect of the EQAR without providing a factual basis therefor and requested reasons for the EQAR finding without having the necessary authority to do so.
+SEVENTH ALLEGATION OF MISCONDUCT:
+
+Your "complaint" to IIA SA relating to "Official EQAR procedures not followed..." on or about 11 September 2019 has reference. In your "complaint", you have allegedly committed gross misconduct by accusing your line-manager, inter alia of being unethical, unprofessional, acting with "personal gain" and having an ulterior motive” in reference to the EQAR-matter.
+Your allegations against Mr Masekoameng in the abovementioned "complaint" were made maliciously and the intent to discredit your line-manager.
+The complaints raised by you to the IIA SA are based on your own opinion and suspicion and not on facts. Your conduct in this regard seriously damaged the trust relationship between yourself and your employer, especially because you published your complaints within GEMS.
+EIGHTH ALLEGATION OF MISCONDUCT:
+
+During October 2019, you leaked confidential information to fellow employees in respect of a whistleblowing complaint and subsequent internal investigation (and /or assessment) in respect of alleged fraudulent qualifications of certain executives, inter alia Dr Sam Lewatle.
+You improperly, unprofessionally and contrary to your employer's policy and procedure, disclosed the identities of the persons (Drs. Moloabi and
+
+
+
+Lewatle) implicated in a whistleblowing complaint (and who may be investigated or are assessed to be investigated) to fellow employees.
+Moreover, you have falsely accused and spread the rumours that Dr Lewatle has been receiving an illegal performance salary bonus based on a fraudulent PHD-qualification.
+Your abovementioned leak of confidential information and false claims resulted in bald accusations and rumours of fraud amongst fellow employees, spread by you, in respect of inter alia Dr Sam Lewatle, Executive Corporate Services ("Lewatle").
+Your alleged conduct in this regard is defamatory and caused reputational and emotional harm to Dr Lewatle and has the potential of financial risk and disrepute to your employer.
+In allegedly committing the abovementioned misconduct, you have improperly insinuated the guilt of the person under investigation and prematurely expressed wrongdoing on the part of Dr Lewatle, before a proper process was concluded to determine his guilt.
+In the premises, you failed to protect the integrity of the forensic investigation function, failed to follow the employer's policy and procedures and caused a serious breach in the trust relationship with your employer.
+NINTH ALLEGATION OF MISCONDUCT:
+
+On 16 October 2019 you displayed a total disregard for the Employer's internal policies, procedures and protocol by sending an e-mail, dated 16 October 2019, to Ms. Jeannie Combrink (and copied Mr. Yashwin Singh therein) and affirming your relationship issue with your line-manager, Mr. Molapo Masekoameng, by questioning his decision to exclude your attendance at the Audit Committee meeting to be held on 17 October 2019.
+In the aforesaid e-mail, you also complain about Mr Masekoameng allegedly "hindering" your performance.
+
+
+
+In the aforesaid e-mail you intimate that Mr Masekoameng is hiding "governance issues" and accuse him of being responsible for certain "governance issues".
+Your conduct in this regard illustrates defiance, disrespect and distrust towards your line-manager and his authority.
+You should have raised the relevant complaints and / or issues against your line-manager in terms of the Employer's applicable Employee Relations Policy of which you are fully aware.
+You deliberately sent the aforesaid e-mail, under the guise of seeking "guidance", to discredit and create suspicion about your line-manager with fellow employees.
+You have also improperly attached correspondence from Mr Masekoameng addressed to you (only) to the abovementioned e-mail.
+Your alleged conduct in this regard illustrates that you do not trust your employer.
+TENTH ALLEGATION OF MISCONDUCT:
+As a result of your disgruntlement with your line-manager's decision to exclude your presence from the Internal Audit Committee meeting on 17 October 2019, as well as the history of your distrust in your line-manager, you went on a frolic of your own and trumped-up accusations
+/ complaints against your line manager, Mr. Masekoameng in an e-mail addressed to Audit Committee Chairperson, Mr. Joe Lesejane, as well as Ms. Carolynn Chalmers, dated 16 October 2019, inter alia as follows:
+You falsely accused Mr. Masekoameng of "drastically” changing the contents of the Internal Forensic Investigations Charter “...to avoid proper protocols.",
+You falsely accused Mr. Masekoameng of acting unethically and being biased by protecting three (3) GEMS Executives from being investigated by stating: “..l am sure the CAE will not provide you with the allegations /tip-offs that were reported
+
+
+
+through the whistleblowing hotline as these allegations deal with three (3) Gems Executives..."
+You falsely accused Mr. Masekoameng of making irregular changes to the GEMS Audit Committee Charters "...relating to protocol and reporting etc. which is not aligned to the IIA standards." It is specifically recorded that you failed to elaborate on what specific Institute of Internal Audit of SA standards and/or compliance is lacking, rendering your accusation without reasonable basis;
+Based on your own "concerns" (suspicions) and without any factual and
+/ or reasonable basis you cautioned the Audit Committee against your line-manager's decisions and reasoning in respect of changes he had made to the GEMS Audit Committee Charters.
+Your alleged "whistleblowing disclosure" of 16 October 2019 was made maliciously, in bad faith, without reasonable substance, constitute speculation, opinions and questioning of the decisions and processes of GEMS and do not amount to facts.
+Your words, "...please find below my concerns that I would have voiced in the Audit Committee should I have been given the opportunity to attend...", contained in the abovementioned e-mail confirms your insolent
+/ insubordinate [behaviour] in that you were specifically instructed by Masekoameng not to prematurely disclose investigations.
+You raised the issue of "whistleblowing" as an afterthought.
+Your alleged misconduct in this regard are aimed at sowing discord in the workplace, tarnishing your line-manager's good reputation and caused an irretrievable breakdown in the trust relationship with your employer.
+SUMMARY:
+In allegedly perpetrating the above misconduct you have, inter alia:
+Breached clauses 1.3.2 and/or; 1.3.2.1; and/or 1.3.2.2; and/or 1.3.2.3; and/or 1.3.2.6; and/or 1.3.2.7 of your employment contract, in respect of the performance and execution of your duties and functions as a GEMS-employee and in your capacity as Senior Manager: Internal Forensic Investigation Officer.
+Further breached clause 7 of your employment contract relating to confidentiality and non-disclosure of GEMS information.
+
+
+
+Contravened your duty of good faith as envisaged in clause 11.1 of employment contract.
+Acted in contravention of, inter alia clauses Cl, C3, C4 and C5 of the GEMS: Employee Code of Conduct.
+Acted contrary to the GEMS Whistleblowing Policy, 2019.
+Caused an irretrievable breakdown in the trust relationship between yourself and your employer. Your alleged misconduct set out in the above allegations sowed discord in the workplace and tarnished or potentially tarnished your line-manager's good reputation.’
+
+The arbitrator found that the Applicant contravened the Respondent’s rules and that she was guilty of the misconduct she was charged with and the Applicant was dismissed. The Applicant seeks to review and set aside the award so issued and she seeks that the award be substituted with an order that she did not commit the misconduct she was charged with and that she be reinstated retrospectively, alternatively for the matter to be remitted for a hearing de novo.
+The Third Respondent opposed the application for review.
+
+The evidence adduced
+
+In order to assess the arbitrator’s findings and the grounds for review raised by the Applicant, it is necessary to consider the evidence adduced at the section 188A inquiry.
+The Respondent’s case
+
+The Respondent’s first witness, Mr Masekoameng, testified that he is employed as the Respondent’s chief audit executive (CAE), based in the internal audit department. The internal audit and the forensic investigations units report to him. He explained that the Applicant’s responsibilities were internal forensic investigation and she did not form part of or perform any auditing work. She was the senior manager of the forensic investigation unit and she was responsible for assisting the CAE in the execution of his mandate as it related to the actioning of whistleblower tip-offs and any other investigation work to be done, which came from either a director, the principal officer, the audit committee or the board. The Applicant did not report to the audit committee and
+
+
+
+in terms of her employment contract, she reported to the CAE or a person designated for this purpose.
+The Applicant was responsible for inter alia the development of policies and procedures; overseeing and conducting investigations of fraud and financial abuse; preparing investigation reports and communicating such reports through the relevant channels; and recommending corrective action relating to internal control failures. She would interact with operational management, other investigators and law enforcement agencies to communicate investigative findings and to ensure that prompt and appropriate action is taken in response to reports of alleged fraud.
+Mr Masekoameng explained that it was clear from the advertisement for the position of Senior Manager: Internal Forensic Investigations, the Applicant’s contract of employment and her job description that she was not responsible for the duties relating to an audit function. He disputed the Applicant’s version that she was responsible for providing leadership to the internal audit function and the internal auditors, that she provided expert guidance on internal audit matters and forensic investigations, that she was part of the internal audit function, attended audit committee meetings and board meetings to discuss pertinent matter relating to forensics and audit and that she had unrestricted access to the board and the audit committee. The CAE made it clear that the Applicant had no audit function and that he was the one to attend audit committee meetings and to report to the said committee. He has the discretion to invite an official who was not ex officio entitled to attend an audit committee meeting.
+The Applicant was invited once, in July 2019, to attend an audit committee meeting with the CAE. She was invited to join as it was the first audit committee meeting held after the Applicant was employed by GEMS and she had to be introduced as the senior manager responsible for forensic investigations. Furthermore, Mr Masekoameng wanted to give her exposure to how GEMS committee meetings worked.
+
+
+
+If there was a complaint lodged against the CAE, the system was set up in such a manner that the complaint would not be sent to Mr Masekoameng, but would be sent to the principal officer, Mr Guni Goolab, and the chairperson of the audit committee.
+The Respondent has an employee relations policy, which was applicable to the Applicant. The said policy provides for a protocol to be followed in the event that the Applicant had an issue with her line manager and there are internal channels to be followed. If the Applicant had an issue with Mr Masekoameng, she could escalate the issue through the appropriate channels, up to the level of the principal officer, who remains responsible for the Respondent’s administration and ensures that the policies are complied with. It would be inappropriate for the Applicant to report issues in respect of the CAE externally.
+The audit committee’s role is inter alia to oversee matters relating to the Respondent’s financial reporting and they are responsible for the appointment of external auditors, who review the Respondent’s financial statements. The external auditors are appointed to sign off and review the annual financial statements issued by GEMS. The CAE reports to the audit committee.
+Mr Masekoameng explained that the audit committee charter and the internal audit charter are reviewed annually and the Respondent’s policies, such as the whistleblowing policy, are subjected to regular reviews.
+In respect of charge 10, Mr Masekoameng testified that the Applicant wrote an email to Mr Lesejane, the chairperson of the audit committee, and she copied Ms Chalmers, an external member of the audit committee, which email pertained to an alleged whistleblowing issue. He explained that the correct protocol to lodge a whistleblowing complaint would be to follow the whistleblowing policy and to raise the issue with the principal officer.
+In respect of charge 1, Mr Masekoameng testified that an investigation into tender irregularities within GEMS commenced late in 2016 and was concluded early in 2018. The board of trustees appointed an investigation firm (Ligwa Advisory Services) to investigate eight contracts of service providers and suppliers and the presentation of the final report took place during January
+
+
+
+2018. The board of trustees indicated that criminal charges be lodged with the SAPS and a case was opened during March or April 2018. Due to the nature of the case and the value involved, a disclosure had to be made to the Directorate for Priority Crimes Investigation (Hawks), whereafter the Hawks guided the Respondent through the process and from that point forward, the Hawks ran with the investigation. This happened prior to the Applicant’s employment with GEMS and subsequent to her appointment as the senior manager responsible for internal forensic investigations, some of the responsibilities were handed over to her.
+They had a meeting with the investigating officer from the Hawks on 23 August 2019, to get an update on the case and to convey the Respondent’s displeasure with the lack of progress on the investigation. In the meeting, it was decided that a letter should be addressed to the line manager of the investigating officer, as there was no progress and the Applicant was tasked to draft the letter.
+Mr Masekoameng subsequently enquired about the progress with the letter and the Applicant informed him that she struggled to get the details of the person to whom Colonel Mothedi indicated that the letter should be addressed. In the presence of the Applicant, Mr Masekoameng contacted Colonel Mothedi to get the contact details from him. During the call, Colonel Mothedi asked if the contact details were still necessary or relevant because the SIU had already been contacted. Mr Masekoameng ended the call with Colonel Mothedi and he testified that he was surprised and embarrassed because he was unaware that the SIU was involved and because it was not what was agreed to in the meeting with Colonel Mothedi in August 2019. The Applicant did not do what was agreed to and what she was instructed to do and according to Mr Masekoameng, if she did not agree with the action that was agreed on, she should have discussed it with him, instead of just writing a letter to the SIU. Her conduct caused embarrassment and reputational damage to the GEMS as it was not professional to agree on a course of action and to do something else.
+The CEA explained that the issue was that the Applicant was instructed to write to the Hawks, but contrary to the CEA’s decision and instruction, she decided to take a different route and to write to the SIU, because she believed that it
+
+
+
+would be better to follow that route, which was not aligned with the discussion they had or the decision that was taken. Mr Masekoameng testified that the Applicant had undermined his authority.
+In cross-examination it was put to Mr Masekoameng that she did not refer a matter to the SIU, she merely engaged with the SIU and what she did was within her mandate. Mr Masekoameng disputed the Applicant’s version and referred to the email that the Applicant had sent to the SIU, stating that “GEMS stance on this matter is that immediate intervention is required on this matter. GEMS therefore request assistance in referring this matter to the SIU in order for this case to reach some finalisation”.
+The Applicant’s version was further that it was part of her mandate to engage law enforcement agencies and in doing so, her conduct was not insubordinate. The CAE responded that “we agreed on one thing. Your client [the Applicant] did not agree with the way forward that I agreed with her. She decided to go and do something else” and “there is a difference between engaging and purporting to have an instruction or a mandate to appoint a law enforcement agency to deal with the matter…”
+The Applicant’s case was that her engagement with the SIU was done in terms of the meeting held as she was seeking alternatives in taking the matter forward, other than writing to the Hawks and that she had taken these steps in good faith and in an attempt to advance the prerogatives of the forensic investigations unit. Mr Masekoameng responded: “I dispute the outcome and the discussion of the meeting of the 4th of September because your client was never given any directive to go and engage the SIU on the matter… on the point of good faith, you don’t do things, make commitments on behalf of the Scheme and then make proposals or present alternatives after you have already acted. I would disagree with the point that this was done in good faith”.
+The Applicant’s version was further that during the meeting with Colonel Mothedi, she did not receive an instruction to write a letter, but that it was agreed upon that she would explore alternatives in taking the matter forward.
+
+
+
+Mr Masekoameng was adamant that “there was only one agreed way forward from the meeting with Colonel Mothedi and that was to write the letter”.
+The CAE testified that Ms Venter, the Respondent’s quality assurance manager, informed the team members with audit responsibilities that they would be subjected to an external quality assurance review (EQAR). The Institute for Internal Auditors (IIA) requires that internal audit divisions should be subjected to an EQAR at least every five years to assess whether the division is managed in line with the standards and whether the work is performed in accordance with the standards of the IIA. The employees who were required to take part in the EQAR were the ones having auditing responsibilities. That excluded the Applicant and she received a clear instruction from the CAE not to be involved in the EQAR.
+The third charge related to the fact that the Applicant was given clear instruction not to involve herself with the EQAR, but despite the instruction, she involved herself with the EQAR interviews by contacting the reviewer and the IIA. The Applicant was interviewed by the reviewer, Ms Sennelo, contrary to the CAE’s clear instruction. Ms Sennelo was appointed by IIA South Africa to conduct the EQAR.
+Mr Masekoameng explained that when the audit survey form was distributed to staff, the Applicant was included in the distribution list, but it was done just to keep her in the loop as to what was happening in the organisation. In cross-examination, he admitted that it was in fact a mistake to send the form to the Applicant, as she was not an internal audit manager. He sent the form to the Applicant by mistake, he did not invite her to take part in the survey.
+This aspect was raised in cross-examination, especially the fact that the survey was emailed to the Applicant wherein it was written “…colleagues. May I ask you to complete the attached survey and provide feedback as indicated below”. Mr Masekoameng responded that the first sentence of the email stated that “The attached survey is to be completed by all internal audit managers”. The Applicant was the Senior Manager: Internal Forensic Investigations and she was not an internal audit manager. The Applicant’s version was that she was
+
+
+
+an internal audit manager because she managed an internal auditor, therefore she was required to complete the survey. The CAE disputed this and stated that internal audit managers are so appointed, which the Applicant was not, she was not part of the internal audit function. He further clarified that the charge related to the Applicant pushing her way into being interviewed, not because she completed the survey.
+The Applicant was not on the list of employees to be interviewed as part of the EQAR.
+Charge four relates to the email, dated 29 August 2019, which the Applicant sent to Mr Lesejane and Ms Chalmers, with the subject “EQAR concerns”. The Applicant completed the internal audit survey, which is to be completed by the internal audit personnel. She was not supposed to complete the form as she is not in the internal audit division and she might not have sufficient information to respond to all the aspects.
+The Applicant disregarded Mr Masekoameng’s authority when she communicated directly with the audit committee chairperson, Mr Lesenjane, in her email of 29 August 2019. Mr Lesenjane responded to the Applicant’s email on 29 August 2019 and he indicated that the principal officer must be involved in the issues she had raised in her email and that the audit committee could not meddle in it. Mr Lesenjane advised the Applicant to raise her concerns with the CAE and if she intended to escalate it, she should escalate it to the principal officer and the audit committee chairperson, who could then confront the CAE with the principal officer.
+Mr Masekoameng explained that the Applicant’s complaint related inter alia to the procurement of the EQAR and if a complaint relates to procurement irregularities, it is a matter for the principal officer to deal with. The Applicant did not raise the issues with the principal officer.
+In cross-examination, it was the Applicant’s version that the purpose of her email was to inform the audit committee chairperson about certain aspects which she had identified in respect of the IIA’s conduct in the EQAR and to inform them that she had lodged a complaint with the IIA. Mr Masekoameng
+
+
+
+responded that there were issues raised relating to EQAR and the IIA, but there was also a statement to the effect that there was a deliberate attempt to procure the services of IIA South Africa for the EQAR, which referred to him.
+It was further the Applicant’s version that the internal audit charter gave her the authority to directly approach the audit committee or its chairperson when it relates to the functionality of the internal audit function. Mr Masekoameng agreed but qualified his response by stating that employees cannot ignore all internal protocols in terms of raising issues and that the Applicant’s conduct was not proper because her concerns related to his area of responsibility and she should have raised the issues with him – “the mere fact that I’m accountable to the audit committee does not mean my subordinates can just jump over my head and go to the audit committee with the matters that concern me”.
+In respect of charge five, Mr Masekoameng testified that the Applicant misrepresented her position within GEMS to Mr Nel, the acting chief executive officer of IIA South Africa, after Mr Nel enquired about the Applicant’s authority to request reasons for the outcome of and other information pertaining to the EQAR. The Applicant stated: “I am a senior manager for forensic investigations and auditing within the internal audit unit and reporting to the CAE… I am raising these matters as a concerned internal auditor…” The Applicant’s position was senior manager for internal forensic investigations.
+Mr Masekoameng testified that the Applicant’s response to Mr Nel was misleading and very concerning. He explained that the Applicant understood that if she did not indicate auditing responsibilities, her complaint with the IIA may have been put aside as she had no business with internal auditing matters. Furthermore, the Applicant had to exhaust all internal processes of reporting and escalating the issues before reporting it externally.
+In cross-examination, it was put to Mr Masekoameng that forensic investigation is not a separate function from internal auditing. The Applicant’s version was that internal auditing is an umbrella term and forensic investigation is a field that falls within internal auditing. Mr Masekoameng disagreed with the version and explained that forensic investigation is not a subset of internal auditing and that
+
+
+
+the applicable standards of internal auditing do not address forensic investigation standards. He reiterated that the Applicant was not part of the team appointed to perform internal audit work. Even though the Applicant is an internal auditor by profession, she was not employed by GEMS as an internal auditor.
+The Applicant’s version in cross-examination of the CEA was that she supervised an internal auditor, Ms Ndlovu, during the period August to September 2019, when the EQAR was conducted, and therefore she was involved in the internal audit function and participated directly in performing internal audit work and therefore she had business being involved in the EQAR. Mr Masekoameng disputed this version and explained that the Applicant was requested to manage Ms Ndlovu for a very specific reason. Ms Ndlovu had a conflict with her manager and the Applicant was requested to review Ms Ndlovu’s work at that point in time and it was a very specific and limited request. Ms Ndlovu’s work was not to be reviewed by the Applicant for purposes of the EQAR. The Applicant was well aware that this was not part of her ordinary responsibility and after a few weeks, she notified the CAE that “she’s no longer doing it. And, knowing that it’s not part of her responsibility, I obliged”.
+The CAE testified that the Applicant’s conduct in this regard was dishonest and that the position of Senior Manager: Internal Forensic Investigations requires a person of integrity. The Applicant was dishonest and cannot be trusted.
+In respect of charge six, Mr Masekoameng testified that the Applicant’s communication to IIA South Africa, stating: “…the internal audit unit would not have achieved a “GC” however a “PC”...” and that “ there is a motive on why the organisation was driving for a “GC”…” was damaging to the organisation. He testified that the Applicant had a duty of good faith towards her employer and she had not acted in good faith in making these statements to IIA South Africa.
+In February 2020, IIA South Africa issued a letter, commenting on the Respondent’s quality assessment review. It was confirmed by Mr Nel that GEMS had received a “generally conforms” rating to the international standards
+
+
+
+for the professional practice of internal auditing. Mr Masekoameng testified that he did not know what the ‘motive’ the organisation was driving for was, as alleged by the Applicant in her correspondence to IIA South Africa. The email was damaging to the reputation of the organisation and it was aimed to discredit GEMS.
+Mr Masekoameng testified that the statement “the organisation has a motive does not portray the organisation in a good light” and he disagreed with the Applicant’s version “that motive means just having a good rating”.
+Mr Masekoameng testified that the Applicant’s email to IIA South Africa indicated that she was malicious and on a mission to discredit him and the Respondent. In cross-examination, it was put to Mr Masekoameng that any person may lodge a complaint with IIA South Africa and that the Respondent’s case that the Applicant did not have authority to refer the matter to the IIA, was incorrect and not in accordance with the applicable standards. It was clarified that the Applicant was not charged for misconduct in that she referred her complaints to IIA South Africa, but rather that she had accused the CAE of being unethical, unprofessional and acting for personal gain, having an ulterior motive, acting maliciously and with the intent to discredit Mr Masekoameng.
+After the Applicant complained about procurement irregularities pertaining to the appointment of IIA South Africa to conduct the EQAR, the Respondent appointed Grant Thornton to investigate whether there were procurement irregularities. No irregularities were found in the procurement process and according to the CAE, it confirmed that the Applicant’s allegations were unsubstantiated. The conduct of the Applicant was malicious and it shows that she is not compatible with the role of a senior manager, as she raised complaints without any substance or objectivity. The CAE explained that the role of Senior Manager: Internal Forensic Investigations entails the receiving of complaints, assessing them objectively and making conclusions and recommendations, which the Applicant is unable to do as she lacks objectivity.
+Charge eight related to the leaking of confidential information in respect of an internal investigation into the vetting of qualifications of certain executives. The
+
+
+
+misconduct was a leak of information of a whistleblowing tip-off instruction that the Applicant was tasked to investigate. The CEA explained that a whistleblowing instruction constitutes confidential information. The Respondent’s whistleblowing policy provides that GEMS will keep all matters reported and investigated strictly confidential.
+Ms Nthinya complained to Mr Masekoameng that the Applicant discussed confidential information with persons that it should not be discussed with and about the fact that assumptions or conclusions were made or suggested, even before an assessment was done. Ms Letts also complained to the CAE about the information the Applicant requested from her about her boss. The confidential information related to Dr Lewatle.
+On 9 October 2019, Dr Lewatle addressed an email to Mr Masekoameng and the principal officer, wherein he expressed his unhappiness to hear from his subordinates that he was under investigation by the Applicant. He complained that his reputation, integrity and conduct had been questioned and his subordinates were coerced to cooperate against him to provide information to the Applicant. Dr Lewatle requested intervention to stop the Applicant from using devious methods and from spreading false information and to ensure that proper processes are followed.
+The Applicant tried to obtain information regarding Dr Lewatle via WhatsApp messages, which Mr Masekoameng testified was not the proper way to investigate a confidential matter. He testified that the Applicant breached the rule in respect of confidentiality and it showed that she could not be trusted to handle confidential information. She shared sensitive information with the subordinates of the subject and did not comply with the whistle-blowing policy.
+In cross-examination, it was the Applicant’s version that she consulted with Ms Cindy Letts, the human resources business partner, and Ms Neo Nthinya, the employee relations manager, and that she was permitted to consult with division personnel, such as employee relations, to ascertain the best course of action. Mr Masekoameng disputed this and explained that at the time the Applicant consulted with the employee relations officer, she was still
+
+
+
+investigating the matter and no conclusions were made. The Applicant’s version is flawed as there was no point in involving the employee relations officer to confirm the way forward, when the matter is still to be investigated and there was no outcome, for which a way forward was to be decided, more so as Ms Nthinya reported to Mr Lewatle – the Applicant should not have gone to Ms Nthinya to ask for a way forward as far as her boss was concerned, but should have approached the principal officer, as Mr Lewatle’s responsible line manager. It is not proper to go to a subordinate of Mr Lewatle to get the way forward on how the matter should be dealt with.
+In short, the Applicant’s version was that the information she had disclosed to Ms Nthinya, was confidential, but she disclosed it in a confidential meeting, within her powers to consult with Ms Nthinya.
+Charges nine and ten follow from Mr Masekoameng’s decision to exclude the Applicant from the audit committee meeting to be held on 17 October 2019. As a result of the CEA’s decision and the Applicant’s disgruntlement with it, she wrote an email to Mr Lesejane and Ms Chalmers, complaining about her line manager.
+The CEA indicated to the Applicant on 16 October 2019 that she was not required to attend the audit committee meeting of 17 October 2019. She subsequently addressed an email to Ms Combrink, the Respondent’s chief compliance officer, and Mr Singh, a senior manager reporting to Ms Combrink. The Applicant stated that she found her exclusion strange as she was a senior manager in the internal audit unit and alleged that Mr Masekoameng was hindering her performance to raise and obtain clarity in these meetings. She complained that she could not raise her issues as she was denied access to the audit committee meeting and the Applicant sought guidance from Ms Combrink.
+Mr Masekoameng testified that it was not proper for the Applicant to raise complaints with Ms Combrink about him hindering her performance, as Ms Combrink is his peer and Mr Singh his junior. It was improper to refer the CAE’s decisions to his peers and another senior manager in another division. This was
+
+
+
+not the proper channel for the Applicant to raise a relationship issue with her line manager. The issues should have been raised through the employee relations policy or directly with the principal officer.
+Ms Combrink responded to the Applicant and advised her that the CAE’s decision in relation to her attendance of the meeting was in line with the GEMS Governance policy, as senior managers attend these meetings only by special arrangement. The Applicant was invited to alert Ms Combrink to any conflicting provisions in other governance documents that she might be aware of. The Applicant was specifically advised that “should you disagree with the decision of the CAE, the disagreement and/or dispute may be managed in keeping with paragraph 13 of the GEMS employee relations policy”.
+The Applicant responded to Ms Combrink by stating that “section 9 of the internal audit charter further outlines that the internal audit function has direct and unrestricted access to the audit committee at all times”. She further informed Ms Combrink that she had reported the matter to the audit committee chairperson and Ms Chalmers.
+The Applicant did not heed Ms Combrink’s guidance, instead, she raised the issues directly with Mr Lesejane and Ms Chalmers. Mr Masekoameng testified that he was humiliated and embarrassed by the Applicant’s conduct and it constituted a breakdown in the relationship of trust. The CAE expected that the Applicant, if she had legitimate issues, would raise them, following the formal and applicable process.
+In cross-examination, the Applicant’s version with respect to disregarding protocol was that she regarded her exclusion from the audit committee meeting as an ethical matter and therefore she took it up with the ethics department. Mr Masekoameng disputed this and testified that he made a decision that the Applicant would not be attending audit committee meetings and he communicated his reasons with the Applicant. His reasons were that, based on the complaint from Mr Lewatle that confidential information had been discussed beyond what should have been the borders, he was not comfortable taking her to the audit committee because he could not trust her with confidential
+
+
+
+information. He testified that “she’s now not happy with that decision. She’s questioning my decision. The mere fact that she’s not liking my decisions and she’s questioning my decision, does not make it an ethical issue”. He further explained that the Applicant did not accept his instructions or decisions, which is why she saw it necessary to approach Ms Combrink and Mr Singh to check if his decision was correct.
+Mr Masekoameng did not agree with the Applicant’s version that she was merely seeking guidance from Ms Combrink and Mr Singh about her attendance of the audit committee meeting, as she also stated in her correspondence to them that Mr Masekoameng was hindering her performance. He testified that the aforesaid statement was clear – the Applicant was not seeking guidance as to whether or not she could attend the audit committee meeting, as she also raised a number of governance issues with Ms Combrink and Mr Singh. Ms Combrink provided her with a response and as it was not the response she wanted, the Applicant proceeded to the chairperson of the audit committee.
+The Applicant raised issues with the audit committee and in her email, she made serious accusations and complaints in respect of the CAE, as was recorded in the wording of charge ten. She alleged inter alia that she was ‘stonewalled’ by the CAE to perform her investigative functions.
+Mr Masekoameng disputed that the complaints the Applicant raised with Mr Lesejane and Ms Chalmers constituted whistleblowing, as contemplated in the GEMS whistleblowing policy or the Protected Disclosures Act2 (PDA). He explained that the Applicant’s complaints related to her line manager and should have been dealt with in terms of the employee relations policy. The complaints were not raised in good faith and were not matters to be dealt with in terms of the whistleblowing policy, as the said policy does not apply to personal grievances or other aspects of a working relationship. The whistleblowing policy provides that complaints raised in terms of the policy must be raised without malice, must be made in good faith and must not be based
+
+
+2 Act 26 of 2000.
+
+
+
+on gossip, rumour or for personal gain. The policy provides for reporting on an irregularity or criminal act, not for a mere request to review certain aspects of a decision etcetera.
+The Applicant’s complaints raised with the audit committee, which she alleged was whistleblowing, were investigated and considered by the audit committee and the principal officer. The outcome was provided to the Applicant on 1 November 2019 and it found that the CAE was not stonewalling the Applicant, that the issues she raised related to the CAE’s management style and that the Applicant was not conducting herself towards the CAE in a manner which was required. The complaints raised were found to be unfounded and made in an attempt to discredit the CAE, they were unsubstantiated and based on the Applicant’s own opinions and did not constitute a whistle blowing complaint.
+It is evident from the transcribed record that the Applicant’s representative posed a substantial number of irrelevant questions to Mr Masekoameng and he dealt extensively with issues that had no bearing on the issues the arbitrator had to decide and which took the Applicant’s case no further. Also, it is apparent that the Applicant’s representative stood the proceedings down on a number of occasions to take instructions and some propositions were withdrawn after instructions were taken. The cross-examination was problematic and evidently, the Applicant’s representative had great difficulty in putting her version to Mr Masekoameng.
+In my view, Mr Masekoameng summarised the gist of the issue in his evidence when he said that “it’s about your client, when she thinks she’s doing the right thing, she just goes on and act [sic] without authority”.
+It is evident from the questions posed in cross-examination that the Applicant’s conduct was informed or motivated by her own opinions or her own impressions of what the situation was, which was not necessarily informed by or supported by facts. In my view, the Applicant acted with undue haste, without ascertaining what the true position was and she acted when her subjective impression was that something was wrong or irregular, when it was not necessarily the case. Statements made during cross-examination support this impression. To
+
+
+
+illustrate: statements such as “…the information I’m referring to relates specifically to my client’s statement that it is her view that there was a deliberate attempt to procure the services of the IIASA…” “..she had a look at the reports and some of the other information contained in the shared folder and she reached what she calls a sense of an idea of her opinion…”
+The evidence of Mr Masekoameng was recorded in 612 typed pages of the transcribed record.
+The Respondent’s second witness was Ms Combrink, its chief compliance officer. She explained that she is responsible inter alia for compliance and ethics, risk management and integrated reporting.
+Ms Combrink explained that the internal forensics unit was established to deal with whistleblower complaints and the Board resolved that it should be placed within the internal audit division and that the CAE would be responsible for building up capacity for the internal forensics unit and for appointing the necessary people to perform the function. The reporting line was that the internal forensics unit would report to the CAE, who in turn reports to the audit committee, which is responsible to the Board. The Applicant was not supposed to report directly to the audit committee or Mr Lesenjane, she reported directly to the CAE.
+Ms Combrink interacted with the Applicant during the period May 2019, when she was appointed, and November 2019, when she was suspended. She was introduced by Mr Masekoameng, as part of her induction or orientation process, she saw the Applicant at a meeting of the audit committee and they had monthly engagements as part of developing the ethics function to get an overview of the type of issues that are reported on the hotline, with the aim of improving the ethics risk register. Ms Combrink did not require or need to know the identities of the individuals who were implicated in a whistleblowing complaint, she just needed information as to the type of issues that were reported. They needed an understanding of whether the employees were using the whistleblowing hotline or not and what type of issues were being reported. The information
+
+
+
+received on the hotline was confidential and Ms Combrink was only interested in the trends and not the specifics of the information.
+Mr Singh was appointed as the senior manager compliance and ethics in June 2019.
+In respect of charge eight, Ms Combrink testified that it was not proper for the Applicant to go about an investigation of a whistleblower tip-off by means of WhatsApp communication, as it is not a formal communication mechanism. It is further problematic that the Applicant approached Mr Lewatle’s subordinates during her investigation and that she disclosed his identity. The information should not be made public until an investigation is concluded and there is a real case. The Applicant’s approach caused harm and undermined the investigation.
+In cross-examination, it was put to Ms Combrink that the Applicant had not broken any rule when she sent the WhatsApp messages. Ms Combrink responded that “I think I’ve stressed to you in a previous question how important sound judgment is. So, I would ask myself whether I would conduct such serious and scheme business that can have big consequences, whether I would conduct that on a social media platform”.
+Ms Combrink explained that the internal forensics unit was specifically established to deal with whistleblowing and to do so confidentially and properly and that “if employees are not going to feel safe to submit or to report matters to this unit, then it means that we’ve actually wasted a lot of time and money in setting this up”.
+During September 2019, the Applicant requested a meeting with Ms Combrink. She informed Ms Combrink that Mr Masekoameng acted unethically. Ms Combrink was very concerned, as the Applicant’s unit was very new, and there was a possibility that employees could be coming forward with complaints against Mr Masekoameng or that during the course of investigations, such information came to the fore. She asked the Applicant for more information.
+
+
+
+Ms Combrink testified that nothing concrete was forthcoming, apart from allegations about lifestyle audits and the EQAR. When she raised the issues with the CFO and the CAE, she was told that an investigation was already underway as the Applicant had filed a complaint with IIA South Africa and with the chairperson of the audit committee.
+Ms Combrink testified that there is an employee relations policy, which employees are required to follow to resolve issues between individuals and it provides for an escalation process. She explained that if there is a serious matter, such as corruption, and if an employee has nowhere else to go, it is her duty to assist as she has to protect the GEMS, and she would find it acceptable for an employee to schedule a meeting with her. If the issue is however a difference of opinion or not getting along with one’s line manager, such a meeting would not be appropriate and she would be very uncomfortable with a senior manager in her division going to another executive manager to have such a conversation.
+In respect of charge ten, Ms Combrink testified that she received an email from the Applicant on 16 October 2019 and her impression was that this is a matter which relates to an “individual employee to employee matter and that it’s not appropriate for me, it’s not something that the ethics function is supposed to resolve… it looked like a grievance to me”. Her unit can give advice but cannot interfere in a relationship between two employees. She testified that it was not appropriate to send the email to her or to Mr Singh, who reports to her. Ms Combrink disputed the Applicant’s version that she wrote the email to Ms Combrink merely to seek guidance and she explained that the email made allegations against Mr Masekoameng, which were ultimately human resource issues.
+Ms Combrink advised the Applicant about the GEMS governance policy and the employee relations policy in order for her to seek guidance from the said policies, but instead, the Applicant reported her complaints to the audit committee. Ms Combrink found this to be very concerning, as there is “a right way and a wrong way to do things and I believe that she simply took the wrong way her. Then secondly, I think the scheme is harmed by all of this”.
+
+
+
+Ms Combrink explained that the standard invitees to the audit committee are set out in the audit committee charter and it includes the principal officer, the CFO, the CAE, and the Chief Compliance officer and there is provision for the audit committee to invite employees who are not standing invitees. She made it clear that the Applicant was interviewed for and appointed as Senior Manager Forensic Investigations and she is not employed as an internal auditor. The role and responsibilities of the Senior Manager Internal Forensics do not involve any auditing work.
+In cross-examination, it was put to Ms Combrink in respect of reporting lines that the Applicant has a line manager, but the audit committee has an ultimate responsibility regarding the internal audit functions and that as a forensic specialist, she is within the audit function, and therefore she is entitled to approach the audit committee with functional issues. Ms Combrink disputed this and explained that the audit committee would first engage with the Applicant’s divisional head, there is structure and order in what the Respondent does and it would be a completely disorganised system if any forensic specialist could simply approach the audit committee.
+She testified that she would not be able to continue working with the Applicant, considering the position the Applicant was employed for “I would worry that the information will not be kept confidential and the investigations would be derailed because of it”.
+The third witness called by the Respondent was Mr Lesejane, the chairperson of the audit committee. Mr Lesejane is not an employee of the GEMS. He explained that the audit committee charter gets approved by the Board. He confirmed that the amended charter was approved.
+Mr Lesejane confirmed that the audit committee has standing invitees, which included the principal officer, the chief operating officer, the CFO, the chief compliance officer, the chief information officer and the CAE. Executive managers can request that their subordinates attend the audit committee, but that is usually for a specific reason as they do not really want the staff at the audit committee meeting, because it is for the executives to account.
+
+
+
+Mr Lesejane explained that the audit committee is an advisory body to the Board. The audit committee has a functional part, where it makes recommendations, which the Board has to approve. It also provides assurance to the Board that internal control processes, risk management, information technology and financial reporting processes are working effectively. The administrative function of the audit committee entails reporting to the principal officer and dealing with issues such as the appointment of the CAE. The audit committee has no administrative role in the GEMS, as the principal officer is the one who has the delegated function to deal with administrative matters. The only person the audit committee deals with is the CAE, through the principal officer, who ultimately accounts to the Board and they do not get involved in staff-related matters. Those are dealt with by the human resources department and ultimately, the principal officer.
+In clause 9 of the internal audit charter, mention is made of unrestricted access for the staff of the internal audit function to the chairperson and members of the audit committee. It was the Applicant’s version that in terms of the provisions of the said charter, she had unrestricted access to the chairperson of the audit committee. Mr Lesejane explained that the Applicant was employed as a Senior Manager Forensic Investigations, within the internal audit unit, reporting to the CAE. He explained that the internal audit and forensic investigation functions are separated, notwithstanding the fact that they are within the same department and reporting to the same person. The expertise is completely different.
+Mr Lesejane further explained that unrestricted access is always subject to internal protocols and there are reporting lines to be followed.
+He testified that the Applicant attended one audit committee meeting after she was appointed in order for the audit committee to meet her.
+Mr Lesejane testified about the complaint the Applicant had raised with him and Ms Chalmers on 16 October 2019. The audit committee meeting was held on 17 October 2019 and on 1 November 2019, the outcome of the complaints raised was communicated to the Applicant. It was stated that the Applicant’s
+
+
+
+complaints were investigated before Mr Lesejane reached his decision in respect thereof. The Applicant’s complaint, that she was stonewalled or marginalised when she was not invited to the audit committee meeting of 17 October 2019, was found to be without merit and that the Applicant was rather raising issues with the CAE’s management style. The disclosures made were found to be unfounded and an attempt to discredit the CAE. It was reiterated that the Applicant was previously informed to approach the principal officer if she wished to raise grievances against the CAE and that the correct process is not to address it with the chairperson of the audit committee. The disclosures made were unsubstantiated and based on the Applicant’s own opinions and were in some instances premature and did not constitute a whistleblowing complaint. The Applicant’s complaints were dismissed.
+In respect of the email the Applicant sent to Mr Lesejane in August 2019 to raise issues about the EQAR process, he testified that the issues raised related to her personal working relationship with the CAE and other procurement issues. She was advised that the audit committee does not deal with those issues, as they are ultimately dealt with by the principal officer. He testified that he was disappointed and concerned that the Applicant “could be sending such sensitive and critical matters where she is putting her supervisor in a bad light...” to him as the chairperson of the audit committee.
+On 26 September 2019, the Applicant requested a discussion with the chairperson of the audit committee. Mr Lesejane responded on 27 September 2019 and he copied the principal officer and the CAE in his response. Mr Lesejane indicated that he was willing to meet with the Applicant, but there “is process and protocol that we need to respect. You previously made very serious allegations and I have taken these with both Molapo, your supervisor and Guni Goolab, the principal officer. The principal officer is overseeing an independent investigation of the administrative related allegations. I am told the report is ready but they are awaiting the report [from] the IIASA. Administrative matters are in the ambit of the principal officer and as the audit committee, we will allow him to do his part. You previously made allegations of irregularities on the GEMS procurement processes for the independent external reviewer. You
+
+
+
+also made allegations on human resource related matters. If you recall, I asked you to address these matters with Molapo as your immediate supervisor, failing which you can escalate to the principal officer. The principal officer has also expressed concern that you are raising procurement and HR matters with the audit committee and not escalating these internally first…”
+Mr Lesejane testified that he had on at least four occasions reminded the Applicant of proper protocol and processes to be followed and he repeated himself as it was clear to him that the Applicant was not willing to report to or deal with her immediate supervisor, the CAE, or to escalate matters to the principal officer. The Applicant undermined their authority and she came across as someone who does not follow protocol or authority.
+Mr Lesejane explained that the Applicant was badmouthing Mr Masekoameng and his view was that her complaints were not made in good faith but instead that there was an element of malice because “this person is a senior person. She has been in this profession for quite a while, she should know how this profession is working. She is not new. If it was a junior, a junior internal auditor fresh from university, I would pardon that person, that they don’t have practical experience. But we are talking about somebody who has been in the profession…”
+Ms Neo Nthinya, the employee relations specialist testified that she is responsible for all employee relations, ranging from grievances, disciplinary hearings and representing GEMS at the CCMA, interactions with trade unions and any other issues that relate to employee relations. She explained that she can assist a fellow employee with an investigation into another employee’s misconduct relating to fraud in circumstances where the Respondent wants to determine whether to take action in correcting the behaviour. In such a case, an employee would have to report wrongdoing or a transgression in terms of the employee relations policy, whereafter it is investigated and the necessary process would unfold. She is not able to assist when it relates to a whistleblowing complaint as the audit department is responsible for that.
+
+
+
+On 3 October 2019, the Applicant addressed an email to Ms Nthinya, pertaining to a meeting that was scheduled for 7 October 2019 regarding the GEMS whistleblowing policy. The purpose of the meeting was to discuss Ms Nthinya’s input on the whistleblowing policy from an employee relations perspective. The Applicant subsequently contacted her via email stating that “I need to see you urgently on a matter regarding investigations”. Ms Nthinya did not know what it was about and she went to the Applicant’s office.
+When Ms Nthinya arrived at the Applicant’s office, they did not discuss the whistleblowing policy, instead, the Applicant informed her that there was a whistleblowing complaint received on the official hotline relating to executives receiving monies for qualifications they claimed they obtained, but which were fraudulent. The Applicant indicated that she was investigating the matter, which was related to fraudulent activities. At that time, the Applicant just mentioned ‘executives’ and she did not mention any names.
+Ms Nthinya testified that the Applicant did not confirm the confidentiality of the meeting with her and she did not tell her that the information was confidential. Ms Nthinya informed the Applicant that discipline is a function of line management and if the issue relates to executives, there was nothing she could do if she was not mandated by the line manager, who would be the principal officer. Ms Nthinya indicated that the Applicant should take the issue to the relevant person, as she could not assist her without a proper mandate. At that point, the Applicant indicated that she was investigating Mr Lewatle for his PhD which was obtained from a university that does not exist and that he was receiving money from the Respondent for that.
+The Applicant indicated that it was a serious matter, so serious that the Hawks were investigating it and that Mr Lewatle would be arrested soon. She told the Applicant to go to the principal officer and let the principal officer instruct her (Ms Nthinya) if they want her to assist with the investigation. Ms Nthinya explained that the way the Applicant expressed herself, it was as if it was a foregone conclusion that Mr Lewatle was indeed guilty and that consequences would follow.
+
+
+
+Ms Nthinya testified that she was shocked about the information the Applicant had shared with her about Mr Lewatle, who was the head of her division. She went back to her office and told Ms Cindy Letts that something strange was happening and that she felt uncomfortable about it. She was not sure what the Applicant expected from her, but she felt uncomfortable, more so since Mr Lewatle was her line manager and she worked closely with him. Ms Letts’ advice was that she should bring the Applicant’s conduct to the attention of her line manager. She subsequently called Mr Masekoameng and she told him that she had a “very uncomfortable, disturbing discussion with one of his subordinates and I am not sure what it is that I am supposed to do about this”.
+She explained that the manner in which the Applicant had approached her and the things she told her were not in accordance with any known procedure for investigations at GEMS. She was given statements and conclusions and she did not know what they sought to achieve and to her, it was weird and uncomfortable and she did not know what she was supposed to do with the information. She told the Applicant that she could not assist her.
+Subsequently, she attended a training course in Sandton with Ms Letts and as they were having coffee, Ms Letts received a WhatsApp message from the Applicant. She showed Ms Nthinya the messages she had received from the Applicant and they discussed how uncomfortable it made them feel. The message from the Applicant enquired whether Mr Lewatle received an increment based on his doctorate. Ms Nthinya said that the Applicant had not treated the whistleblowing tip-off in a confidential manner.
+Ms Nthinya testified that the Applicant should have asked who had received an increment based on their educational qualifications. It was unnecessary to ask Ms Letts to confirm whether Mr Lewatle had received an increment based on his doctorate.
+On 9 October 2019, Mr Lewatle raised a complaint in an email addressed to the CAE and the principal officer to express his unhappiness about the fact that had he heard from his subordinates that he was being investigated by the Applicant.
+
+
+
+Ms Nthinya said that the Applicant’s conduct made her not trust the Respondent’s whistleblowing system as a lot of rumours went around and the system was flawed and tainted.
+Ms Nthinya testified that the information communicated to her by the Applicant made her to doubt Mr Lewatle as well as the Respondent, her employer.
+The Respondent’s last witness was Mr Mojapi, a senior manager external forensic investigation. He is employed by the GEMS and his position is within the risk management and compliance department and he reports to the chief compliance officer, Ms Combrink.
+The Applicant’s case
+
+The Applicant testified about how she viewed her position within GEMS – “I see myself in the internal audit function under the chief audit executive. It’s not a sub-unit… It’s a function under the internal audit unit, so it’s a specialist skill… a specialist in the internal audit function”. The Applicant explained that she regarded herself as a specialist in forensic investigations or forensic auditing and according to her, forensic auditing and forensic investigation are exactly the same thing.
+It is evident from the transcribed record that the Applicant, in her testimony, presented versions which were not put to the Respondent’s witnesses during their cross-examination.
+The Applicant testified in respect of charge eight that she disagreed with the charge. She received the whistleblower’s report about Mr Lewatle from Mr Masekoameng and she had to investigate the matter. The report stated that Mr Lewatle’s profile on LinkedIn showed him with the fraudulent certificate and further that he was not registered with SAQA. She disputed the charge because the information regarding the allegation that Mr Lewatle had a fraudulent qualification, was already in the public domain and it was therefore not confidential information. She did not leak confidential information as Mr Lewatle’s qualifications were not confidential.
+
+
+
+The whistleblower also alleged that Mr Lewatle had been receiving performance bonuses based on his qualifications, which resulted in a salary increment. This information was confidential and the Applicant was required to investigate the allegation by obtaining his personnel files, which were kept in the human resources storeroom. She contacted Ms Letts via WhatsApp and enquired whether she would qualify for a salary increment if she obtained a higher qualification. She later enquired on whether Mr Lewatle received a salary increment based on his doctorate. The Applicant explained that at this point she was busy with her investigation on Mr Lewatle and she wanted to confirm whether he had received a salary increment.
+The Applicant explained that she had requested this information from Ms Letts as she was the human resources manager and the files containing the information were in her office and she was the one to provide the information the Applicant needed. This was part of her role and consistent with all her investigations through the whistleblowing hotline by asking the relevant unit for the information needed. Her job description provided that she should “consult with division personnel” in sourcing information.
+The Applicant disputed that it was inappropriate to request the information via WhatsApp as WhatsApp is regarded as a channel for work-related matters and she had used it on various occasions to discuss investigations with Mr Masekoameng. This version was not put to him during cross-examination.
+She testified that she had a discussion with Ms Nthinya to seek advice as to what the process would be if an executive was suspected of alleged fraudulent activity. Ms Nthinya advised her that normally a letter to the person under investigation would be sent from the human resources department and such a letter is signed by Mr Lewatle. Initially, she did not mention Mr Lewatle’s name, but due to the fact that Ms Nthinya was the subordinate of Mr Lewatle and the letter was supposed to come from the human resources executive, she had to disclose to Ms Nthinya that the person involved in the suspected misconduct was Mr Lewatle. Ms Nthinya thereafter advised that Mr Lewatle’s line manager, the principal officer, be involved.
+
+
+
+The Applicant said that Ms Nthinya, as an employee relations specialist, should know that when dealing with an investigation, it should be confidential and not be communicated to other individuals outside of the meeting or the relevant forum.
+The Respondent’s ‘Standard Operating Procedure Manual’ (SOP) on whistleblower tip-offs made provision for a pre-assessment process. The Applicant testified that she disagreed with the pre-assessment and that she conveyed to Mr Masekoameng that the SOP had to be revisited as pre-assessment is not a step in the methodology for investigation of whistleblower complaints and it was not compliant with the PDA. Furthermore, it was part of her duties to develop and establish processes relating to investigation, only to find that they were developed prior to her appointment.
+The Applicant disputed that she falsely accused and spread rumours that Mr Lewatle had been receiving an illegal performance salary or bonus. She explained that it was said in the hotline whistleblower report, which report she had filed herself.
+In respect of Mr Lewatle’s email to Mr Masekoameng, he informed the Applicant that he would do a pre-assessment of the matter, discuss it with the audit committee and would get back to her to confirm how he would handle the matter going forward. The Applicant testified that after she received the email from Mr Masekoameng, it was evident to her that “it was so obvious that he was suppressing these investigations, that he did not want investigations to happen when it came to executives and that he already made a determination from receiving Sam’s email that there was a breach of confidential information, without even having a discussion with me, he already made that assumption.
+..I further went on to raise another email where I highlight to him what is my position as senior manager”.
+During further correspondence with Mr Masekoameng, the Applicant testified that “I was just dismayed with him, to be honest with him, I reached a stage that his behaviour throughout the whole six months that I have been there, there was suppression, not doing the right thing, because that’s what we want to do
+
+
+
+is do the right thing in the organisation and he refused to do the right thing”. She disputed that her concerns related to a grievance, as she was not aggrieved and “my whole point of raising issues with Molapo, of raising issues with the audit committee chairperson, raising issues with the ethic function, is because we are required to report these matters lawfully. We need to be able to protect the forensic investigations and this is not my own feelings or emotions that were involved, it was... I was appointed to do a particular function for GEMS, the best interest of GEMS and if anything happens where the unit is victimised because the work was being withheld, means that this matter is a functional matter, it’s a governance matter. So I believe it’s not a grievance…”
+In respect of charge one, the Applicant testified that one of her responsibilities was to deal with fraud and corruption cases, including the case that was reported to the Hawks in 2018. She requested a meeting with Colonel Motedi, who was the investigating officer from the Hawks. The meeting was arranged for 23 August 2019 and the reason for the meeting was that the case was outstanding for a long time. Colonel Motedi highlighted that he had capacity issues and no work has been done in respect of the case. Subsequent to the meeting, a meeting was held with the principal officer on 4 September 2019 to give him feedback on all investigations. During this meeting, the issue of progress relating to the Hawks was raised. The principal officer recommended that as a measure to expedite the process, they should speak to the head of the SIU.
+The Applicant’s version is that she was only instructed to write a letter to the Hawks after she had a meeting with the SIU, to find out if they could assist GEMS. The SIU confirmed that they have the capacity and resources available to assist with the case and only after this, Mr Masekoameng instructed her to address a letter to Colonel Motedi and his manager. The said letter was signed by the CAE on 13 September 2019. This version was not put to any of the Respondent’s witnesses.
+The Applicant testified that she did not agree with Mr Masekoameng’s version of the events that transpired. She submitted that she was instructed to take the matter forward, under the supervision of the CAE and the principal officer.
+
+
+
+In respect of charge five, the Applicant testified that she did not misrepresent her position with the Respondent because she was a Senior Manager Internal Forensic Investigation at the time and managing an internal auditor in the internal audit function, therefore she had the title of senior internal audit forensic investigations and auditing.
+Mr Nel, the CEO of IIA South Africa asked in his email to the Applicant on what or whose authority within the organisation, as she was not the CAE, was she submitting her request to IIA South Africa. She was not surprised to be asked about her authority and her impression of the question being posed by Mr Nel was that it was for her “to basically give a recommendation on which authority did I have as either a member of the IIA or a member of the organisation… I’m regarded as a very esteemed member of the IIA, so he basically wanted to find out whether I was CAE or a member”. Her response to Mr Nel, which the Respondent took issue with, was to highlight to him that she had moved from her previous organisation and that she was a very senior manager in a new environment. She did not misrepresent her position.
+The Applicant testified that she had the authority to have a copy of the EQAR as she was part of the interviews, she submitted surveys and the senior manager forensics plays a very key role in EQAR. She was concerned when the CAE called a meeting on 28 August 2019 to inform the staff that he had received the draft EQAR report and that they had received a ‘GC’, because she had not received the draft report. She then approached Unathi at IIA South Africa to raise her concerns as she was aware of a number of concerns and was of the view that a number of findings were covered up. Unathi advised the Applicant that she does not deal with EQAR matters and that she should contact Mr Nel, which the Applicant subsequently did.
+The Applicant disputed that she was dishonest and insisted that as a member of IIA, she had the authority to report a particular matter and to seek advice.
+In respect of charge six, the Applicant testified that she reported the matter to IIA South Africa for investigation because she had all the facts in her
+
+
+
+possession and had the necessary authority to report any unethical conduct. She explained that it was unusual for any organisation to receive a ‘GC’.
+The Applicant’s version was that in sending her email communication to IIA South Africa, she “acted within the best interest of my employer. We all, with regards to best interest, we want the organisation to be driving for ethical leadership, for proper governance processes to fight against fraud and corruption”.
+She disputed that she displayed a total disregard for the Respondent’s internal procedures in sending the emails to IIA South Africa because “I disagree with internal procedures for investigation because the IIA has a jurisdiction for unethical conduct of internal auditors. I have done that by reporting the unethical conduct of three individuals in my complaints who are members of the IIA, one being Molapo, two being Yolanda Venter who was the internal quality assurance assessor and three, Diana Sennelo, who was the individual who performed the EQAR. So, this matter deals with unethical conduct of members and the jurisdiction for this is not GEMS, it’s the IIA and that GEMS should be able to allow and respect the processes of another jurisdiction”.
+In cross-examination, it was put to the Applicant that her version in respect of charge six was not put to Mr Masekoameng in cross-examination when he testified. The Respondent’s representative dealt with the aspects of the Applicant’s evidence in chief which was not dealt with in cross-examination of the Respondent’s witnesses in detail and it is not necessary to repeat it in this judgment.
+In cross-examination, the Applicant for the first time testified that she had no issue with the fact that Mr Masekoameng excluded her from the audit committee meetings. This version too was not put to any of the Respondent’s witnesses and it contradicted her own earlier evidence and version put to the Respondent’s witnesses.
+It is evident from the transcribed record that substantial and material parts of the Applicant’s evidence were not dealt with in the cross-examination of the Respondent’s witnesses. It was not put to the witnesses and they had no
+
+
+
+opportunity to respond to material parts of the Applicant’s version, as was presented for the first time in her evidence in chief.
+The transcribed record further shows that the Applicant did not respond to questions being posed, but testified on issues she wanted to introduce and not responding to what she was asked.
+In cross-examination, the Applicant reiterated that she had an issue with the SOP manual, as, according to her, it was in breach of a law and a regulation and therefore she did not adhere to it. The Applicant was of the view that she did not have to report to the CAE during the course and scope of performing her duties as a forensic investigator, she only provided feedback to him as she reported to the CAE only administratively. Functionally she reported to the audit committee.
+The Applicant was referred to her contract of employment wherein it was recorded that she shall report directly to the CAE. It was put to her that her line of report is through the CAE, who in turn reports to the audit committee, which was spelt out in her contract of employment and the SOP and had been confirmed in the testimony of the CAE, Ms Combrink and the audit committee chairperson, Mr Lesejane, and yet the Applicant insisted to dispute it. The Applicant was unable to show even one instance where and when she had reported to the audit committee in the course and scope of performing her duties.
+In respect of charge seven, the Applicant testified that she made the assertions to IIA South Africa regarding Mr Masekoameng because “I advocate for good governance. As a professional internal auditor, I want the best for the profession. We have had several issues in the media where internal auditors were involved and external auditors were involved in misrepresentation in reports etc, bringing the profession into disrepute. And my motive to submit this complaints to the IIA South Africa was to say to the IIASA you need to get your ducks in a row or else we are going to have another scandal like the state capture scandal, like the Steinhoff scandal, like the Tongaat-Hulett scandal and the Eskom scandal where internal auditors and external auditors were used as
+
+
+
+mechanisms to defraud an organisation and I merely brought this to the attention of the IIASA to deal with the unethical conduct should there be instances of”.
+The Applicant disagreed that the complaint was made maliciously and with the intent to discredit Mr Masekoameng. She explained that her motive was always to ensure that “we uphold our standard wherever we are as internal auditors and my intentions are good intentions to improve the value that internal auditors bring to South Africa”.
+In respect of charge nine, the Applicant’s testimony, on receiving the pack for the audit committee meeting, was not put to Mr Masekoameng. Her version differed materially from the version presented by Mr Masekoameng and she made numerous accusations pertaining to Mr Masekoameng, which were not put to him in cross-examination.
+The Applicant testified that when she received the email from Mr Masekoameng on 16 October 2019, informing her that she was not to attend the audit committee meeting of 17 October 2019, she regarded it as “another suppression of speaking out on issues to the audit committee who were in charge of the governance of investigations… I regarded it as the fact that Molapo has been unethical in dealing with the investigations in the organisation and is not addressing these investigations for the best interest of the organisation. And due to the fact that it’s the functionality issue with the audit committee chairperson and the audit committee, I felt it appropriate to ensure that the audit committee chairperson and members know of this mission”. She did not regard the issues as a personal grievance, but rather a functional issue and an ethical issue to be reported to the audit committee. The Applicant insisted that the issue was not an employee relations matter but that it was a “…governance matter. This is a functional matter that is required through the ethics policy of the organisation, to report these matters via the process…which is to the ethics executive and to the audit committee”.
+The Applicant testified that she sent the email to Ms Combrink and Mr Singh because Ms Combrink advised her that any issues relating to investigations and
+
+
+
+Mr Masekoameng should be in writing and that she must also keep Mr Singh informed. She thus acted on Ms Combrink’s advice, a version that was not put to Ms Combrink in cross-examination. She further testified that she raised the issues with Ms Combrink as they were ethical issues and governance issues, which fell within Ms Combrink’s mandate.
+The Applicant disputed that she had sent the email to discredit and create suspicion about Mr Masekoameng and she explained that she was merely seeking guidance or advice. Ms Combrink advised her to follow paragraph 13 of the GEMS employee relations policy, which advice she did not follow because she did not regard the issue as an employee relations issue.
+She testified that she was not aware of the existence or provisions of the Respondent’s governance policy until she was made aware of it by Ms Combrink on 16 October 2019.
+In respect of charge three, the Applicant testified that she had received an invitation to the opening meeting between the CAE, Ms Sennelo, who conducted the EQAR and the three internal audit managers on 19 August 2019. Her understanding was that by being invited to the opening meeting, she was part and parcel of the EQAR and that she would play a role in the EQAR. The purpose of the meeting was to introduce Ms Sennelo to the team. Furthermore, Ms Venter, the internal quality assurance manager, copied her in on an email wherein she was preparing the staff for the EQAR. The CAE sent her the survey to be completed for the EQAR on 19 August 2019 and he asked that the survey be completed by all internal audit managers. At the time, she was managing Ms Ndlovhu and was regarded as an internal audit manager.
+When she received the aforesaid email from the CAE, she expected to be part of the EQAR and that she was part of the internal audit function. She explained that “I know that I would be part of that EQAR is also due to the fact that I am the expert in fraud investigations, expert in fraud risk and would be advisory in that regard”.
+The Applicant completed the survey that was emailed to her and she indicated that she was willing to participate in a follow-up interview with the assessment
+
+
+
+team. She sent the survey to Ms Sennelo on 21 August 2019 and asked her to indicate when she would like to meet with the Applicant. Ms Sennelo responded “can we meet at 14:30 today” and they agreed to meet as proposed. The Applicant explained that she had not inserted herself in the EQAR, but instead “I was given the opportunity to be part of the EQAR, due processes were followed. And the EAQR lady was the responsible person to ensure who is interviewed, who is not interviewed, how the processes were supposed to be followed”.
+On 29 August 2019, the Applicant addressed an email to Mr Lesejane and stated that “I held a meeting with the EQAR lady last week, as I pushed my way into being interviewed”. She explained that when she mentioned ‘pushed’, it was because she was upset by the behaviour of the CAE when it came to certain matters “so to me it was an emotional word that was put in the email”. She was upset due to the issues she encountered at the time when she wrote the email and she used ‘pushed’ in the incorrect context. This is yet another version which did not feature in the cross-examination of the Respondent’s witnesses.
+The Applicant testified that there is no difference between internal forensic investigations and forensic auditing, “it is the same thing. It is just different titles that are used”.
+The Applicant testified that she did not ignore her line manager’s instruction because there was no instruction not to participate in the EQAR and she disputed that she exceeded her authority by participating in the EQAR because she was invited to the opening meeting, she was invited to complete the survey and it was within her authority to deal with it.
+In respect of charge four, the Applicant testified that she wrote to the audit committee chairperson because, according to the GEMS whistleblowing policy and procedure for reporting internal matters, the internal audit charter and the audit committee charter, provision is made for reporting processes. The audit committee and its chairperson take overall accountability for the EQAR process. According to the Applicant, it was the correct procedure to follow.
+
+
+
+In respect of charge ten, the Applicant disputed that she wrote the email on 16 October 2019 as a result of her disgruntlement with her line manager’s decision to exclude her from the internal audit committee meeting. She explained that she merely voiced her concerns and it was part of the reporting process. “The instruction was not to attend the meeting. But the instruction was not to voice my concerns”.
+The Applicant’s evidence comprised more than 700 pages.
+
+Analysis of the arbitrator’s findings and the grounds for review
+
+The test on review
+
+I have to deal with the grounds for review within the context of the test that this Court must apply in deciding whether the arbitrator's decision is reviewable. The test has been set out in Sidumo and Another v Rustenburg Platinum Mines Ltd and Others3 (Sidumo) as whether the decision reached by the commissioner is one that a reasonable decision maker could not reach. The Constitutional Court held that the arbitrator's conclusion must fall within a range of decisions that a reasonable decision maker could make.
+The Labour Appeal Court (LAC) in Gold Fields Mining SA (Pty) Ltd (Kloof Gold Mine) v Commission for Conciliation, Mediation and Arbitration and others4 affirmed the test to be applied in review proceedings and held that:
+‘In short: A reviewing court must ascertain whether the arbitrator considered the principal issue before him/her; evaluated the facts presented at the hearing and came to a conclusion that is reasonable.’
+The applicant in a review application is not to take a microscopic view and dissect every finding of the arbitrator but has to show that holistically, the award is unreasonable or that the arbitrator’s findings led to an unreasonable outcome.
+
+
+
+
+
+3 [2007] ZACC 22; (2007) 28 ILJ 2405 (CC) at para 110.
+4 [2013] ZALAC 28; (2014) 35 ILJ 943 (LAC) (Gold Fields)
+
+
+
+In considering the Applicant’s grounds for review, this Court should not lose sight of the limited scope within which a review application is to be decided.
+In Head of the Department of Education v Mofokeng5 (Mofokeng), the LAC provided the following exposition of the review test:
+‘Irregularities or errors in relation to the facts or issues, therefore, may or may not produce an unreasonable outcome or provide a compelling indication that the arbitrator misconceived the inquiry. In the final analysis, it will depend on the materiality of the error or irregularity and its relation to the result. Whether the irregularity or error is material must be assessed and determined with reference to the distorting effect it may or may not have had upon the arbitrator’s conception of the inquiry, the delimitation of the issues to be determined and the ultimate outcome. If but for an error or irregularity a different outcome would have resulted, it will ex hypothesi be material to the determination of the dispute. A material error of this order would point to at least a prima facie unreasonable result. The reviewing judge must then have regard to the general nature of the decision in issue; the range of relevant factors informing the decision; the nature of the competing interests impacted upon by the decision; and then ask whether a reasonable equilibrium has been struck in accordance with the objects of the LRA. Provided the right question was asked and answered by the arbitrator, a wrong answer will not necessarily be unreasonable. By the same token, an irregularity or error material to the determination of the dispute may constitute a misconception of the nature of the enquiry so as to lead to no fair trial of the issues, with the result that the award may be set aside on that ground alone. The arbitrator however must be shown to have diverted from the correct path in the conduct of the arbitration and as a result failed to address the question raised for determination.’
+The review Court is not required to take into account every factor individually, consider how the arbitrator treated and dealt with each of those factors and then determine whether a failure by the arbitrator to deal with it is sufficient to set the award aside. This piecemeal approach of dealing with the award is improper as the reviewing Court must consider the totality of the evidence and
+
+
+
+5 [2014] ZALAC 50; [2015] 1 BLLR 50 (LAC) at para 33.
+
+
+
+then decide whether the decision made by the arbitrator is one that a reasonable decision maker could make.6
+In Quest Flexible Staffing Solutions v Legobate7, the LAC confirmed the test to be applied on review:
+‘[12] The test that the Labour Court is required to apply in a review of an arbitrator’s award is this: “Is the decision reached by the commissioner one that a reasonable decision-maker could not reach?” Our courts have repeatedly stated that in order to maintain the distinction between review and appeal, an award of an arbitrator will only be set aside if both the reasons and the result are unreasonable. In determining whether the result of an arbitrator’s award is unreasonable, the Labour Court must broadly evaluate the merits of the dispute and consider whether, if the arbitrator’s reasoning is found to be unreasonable, the result is nevertheless capable of justification for reasons other than those given by the arbitrator. The result will, however, be unreasonable if it is entirely disconnected with the evidence, unsupported by any evidence and involves speculation by the arbitrator.
+[13]  An award will no doubt be considered to be reasonable when there is a material connection between the evidence and the result or, put differently, when the result is reasonably supported by some evidence. Unreasonableness is, thus, the threshold for interference with an arbitrator’s award on review.’
+The review test to be applied in casu is a stringent and conservative test of reasonableness. The Applicant must show that the arbitrator arrived at an unreasonable result.
+It is within the context of this test that I have to decide this application for review.
+
+
+
+
+
+
+
+
+
+6 Gold Fields supra at paras 18 - 19.
+7 [2014] ZALAC 136; (2015) 36 ILJ 968 (LAC) at paras 12 - 13.
+
+
+
+The arbitrator’s findings
+
+The arbitrator had to determine whether the Applicant breached workplace rules, as alluded to in the charges levelled against her, and if so, to determine an appropriate sanction.
+In her analysis of the evidence, the arbitrator recorded that the crux of the matter was whether the Applicant was guilty of the misconduct she was charged with. The Applicant denied any wrongdoing but argued that, in the event that an adverse finding is made against her, her conduct did not attract a sanction of dismissal.
+In deciding the issues and being faced with two conflicting versions, the arbitrator referred to the principles set out in Stellenbosch Farmers’ Winery Group Ltd and another v Martell et Cie and others8.
+The arbitrator found that there was a common thread in all the allegations levelled against the Applicant, namely that she did not follow the Respondent’s reporting protocols, policies and procedures, disobeyed instructions and disregarded the authority of her line manager, Mr Masekoameng and that she breached confidentiality in that she disclosed confidential information relating to a whistleblowing tip-off.
+The arbitrator found that the Respondent has led extensive evidence, corroborated by documentary evidence, where the Applicant disregarded reporting lines and protocols in voicing her issues and concerns. The Applicant on the other hand failed to adduce any evidence to show that she indeed followed the internal protocols in reporting her concerns.
+The Respondent’s witnesses testified that the Applicant did not have a direct reporting line to the audit committee and that they had advised her on the proper procedures to follow, which advice she disregarded.
+The arbitrator further found that the Applicant never afforded her employer an opportunity to remedy or investigate her complaints, instead, she raised it
+
+8 [2002] ZASCA 98; 2003 (1) SA 11 (SCA).
+
+
+
+directly	with	IIA	South	Africa,	which	caused	the	Respondent	huge embarrassment and reputational harm.
+The arbitrator found that the Applicant presented multiple versions during the inquiry, she did not put most of her version to any of the Respondent’s witnesses during their cross-examination despite being warned of the consequences, her evidence was riddled with inconsistencies and contradictions, she was evasive, combative and did not answer questions during her cross-examination. The arbitrator further found that the Applicant tailored her evidence and that she was not a credible witness.
+The bulk of the Applicant’s testimony centred around Mr Masekoameng’s unethical conduct, but which the Applicant was unable to provide any proof of – her response was that all her evidence was with IIA South Africa, as they have exclusive jurisdiction to deal with the matter. The majority of the issues that the Applicant had with the EQAR, was what Ms Sennelo had told her and as Ms Sennelo was not called as a witness, the evidence on this aspect remained hearsay evidence.
+The arbitrator recorded that the Applicant was a very skilled and senior person, who holds various qualifications and has extensive experience. The evidence showed that she did not agree with the Respondent’s policies, procedures and protocols and that she was therefore justified to ignore them. The Applicant, being such a qualified and senior person, should understand the consequences of her actions and that she had to abide by her employer’s policies, procedures and protocols. The arbitrator rejected the Applicant’s argument that she was not aware of the Respondent’s policies or that she did not receive training and that the Respondent should have counselled her. A senior employee who made it a point to inform the inquiry of her capabilities, skills and experience would not need training or counselling. The evidence showed that in the instances where the Applicant was advised, she did not follow the advice.
+The arbitrator recorded that the Respondent’s witnesses testified that due to the Applicant’s conduct, her multiple baseless and defamatory complaints, remarks and issues raised externally, the trust relationship had completely
+
+
+
+broken down and a future working relationship was not possible. The Applicant showed no remorse and she came across as disrespectful.
+The arbitrator concluded that the main requirement of an employment relationship is for the employee to serve the employer’s best interest and to act in good faith because the relationship is based on trust. The Respondent, on a balance of probabilities, established a case of misconduct and the Applicant failed to provide a credible explanation for her actions. The arbitrator found that the Applicant contravened the rules and that she was guilty of the misconduct she was charged with. Considering a number of relevant factors, the arbitrator found dismissal to be an appropriate sanction.
+The grounds for review
+
+Before I deal with the merits of this case, I have to say something about the documents placed before this Court. The pleadings alone comprised 732 pages, of which 660 pages were the Applicant’s founding and supplementary affidavits. The transcribed record was almost 2000 pages and the total record comprised 3 018 pages. The pleadings and record were lengthy and it took a substantial period for this Court to peruse and consider the documents filed in this application.
+The Applicant has raised three grounds for review, which I will deal with in turn.
+
+The gist of the first ground for review is the way the arbitrator dealt with the evidence and sought to attack the findings of the arbitrator, based on her assessment of the evidence and her failure to consider relevant evidence. Considering the test to be applied in an application for review, there is an obvious difficulty with the Applicant’s case in that she seeks to attack the findings of the arbitrator on every piece of evidence. The Applicant has taken a microscopic approach and has dissected and set out every piece of evidence and fact that she believes were either not considered or properly assessed by the arbitrator.
+I already alluded to the exposition of the review test in Mofokeng in relation to errors of facts or issues and the analysis of the question of whether the
+
+
+
+irregularity or error is material, which must be assessed and determined with reference to the distorting effect it may or may not have had upon the arbitrator’s conception of the inquiry, the delimitation of the issues to be determined and the ultimate outcome.
+The question this Court must ask on review is whether the way the arbitrator dealt with the evidence, constituted an irregularity or error which was material, whether it impacted the determination of the question of whether the Applicant was guilty of the misconduct she was charged with and whether it distorted the arbitrator’s ultimate decision.
+The test on review and the context within which it is to be applied is that the review Court is not required to take into account every factor individually but must consider the totality of the evidence and then decide whether the decision made by the arbitrator is one that a reasonable decision maker could make based on the facts placed before him/her.9
+The LAC has confirmed that to do it differently or to evaluate every factor individually and independently is to defeat the very requirement of section 138 of the LRA which requires the arbitrator to deal with the substantial merits of the case and to do so expeditiously and fairly.
+In Bestel v Astral Operations Ltd and others10, the LAC considered the limited scope possessed by this Court to review an arbitration award and accepted that an arbitrator’s finding will be unreasonable if the finding is unsupported by any evidence, if it is based on speculation by the arbitrator, if it is disconnected from the evidence, if it is supported by evidence that is insufficiently reasonable to justify the decision or if it was made in ignorance of evidence that was not contradicted. The LAC held that:
+‘…the ultimate principle upon which a review is based is justification for the decision as opposed to it being considered to be correct by the reviewing court; that is whatever this Court might consider to be a better decision is irrelevant to review proceedings as opposed to an appeal. Thus, great care must be taken
+
+9 See Gold Fields supra at paras 18 - 19.
+10 [2010] ZALAC 19; [2011] 2 BLLR 129 (LAC) at para 18.
+
+
+
+to ensure that this distinction, however difficult it is to always maintain, is respected.’
+Let it be clear: this is an application for review and not an appeal. This is a difference which this Court must maintain. An award will only be set aside on review if both the findings and the result are unreasonable. Even where the arbitrator’s findings or reasoning may be unreasonable, the result could nevertheless be capable of justification, and therefore be reasonable and not be interfered with on review.
+An arbitrator has to determine a dispute fairly and quickly and deal with the substantive merits of the case. The arbitrator is not expected to produce an arbitration award to the standard of a Constitutional Court judgment. Section 138(7)(a) of the LRA requires an arbitrator to provide ‘brief reasons’, which serves to distinguish awards from judgments of courts. Arbitrators are not expected to provide reasons dealing with each and every aspect of the case11 but must deal with the substantive merits of the case and the reasons provided, must support the conclusion.
+The fact that the arbitrator did not deal with every piece of evidence, does not mean that she had ignored the evidence or that she had failed to apply her mind to it nor does it per se render the award reviewable. More is required to succeed with an application for review. It has to be emphasized that the review test to be applied in casu is a stringent and conservative test of reasonableness. The question is whether holistically viewed, the decision taken by the arbitrator was reasonable based on the evidence placed before her.
+The reasons in the arbitration award must state the arbitrator’s material findings of fact and the decision must be made on the basis of the evidence.
+The Applicant must show that the arbitrator arrived at an unreasonable result. In fact, the Applicant must show that the decision is one that a reasonable decision maker could not make, based on the evidence presented. The test is
+
+
+
+
+11 Mansoor v CCMA and others [2000] 1 BLLR 79 (LC).
+
+
+
+not whether the arbitrator came to the best decision or a decision acceptable to the Applicant. A review is not an appeal.
+I have to consider the grounds for review within the context of the test this Court must apply in deciding whether the arbitrator's decision is reviewable. The ultimate question is whether, holistically viewed, the decision taken by the arbitrator was reasonable based on the evidence placed before her. To consider each piece of evidence separately, will constitute a piecemeal approach which is an approach this Court has to avoid.
+This Court has to consider the totality of the evidence placed before the arbitrator and cannot embark on a process whereby every minute detail of the arbitration award is assessed and analysed.
+I have considered the question of whether, holistically viewed, the decision taken by the arbitrator was reasonable based on the evidence placed before her, after perusal of the transcribed record, the arbitration award and the purported grounds for review raised by the Applicant.
+Considering the evidence before the arbitrator, it is my view the arbitrator’s findings are not disconnected from the evidence, but in fact, are based on the evidence presented. The arbitrator’s findings fall within a band of reasonableness based on the evidence that was placed before her. The arbitrator did not misconceive the enquiry but indeed determined the principal issues she was required to determine.
+There is no merit in the first ground for review.
+
+Appropriateness of the sanction
+
+The Applicant’s second ground for review is that the arbitrator committed a gross irregularity in failing to consider the mitigating factors “in ordering that I contravened the first to tenth allegation of misconduct charged against me by GEMS”.
+In my view this ground for review is misplaced as the consideration of mitigating factors would not play a role in finding an employee guilty or not of misconduct.
+
+
+
+Only once the employee is found guilty of misconduct, the consideration of mitigating factors would become relevant in determining an appropriate sanction.
+Be that as it may, the Applicant submitted that the arbitrator did not consider that there was no progressive application of discipline in the workplace, alternatively, if it was found that the Applicant overstepped, it was done in good faith and with the most ethical of intentions. This should have been considered by the arbitrator.
+In short, the Applicant’s argument is that the allegations of misconduct do not warrant a sanction of dismissal. The arbitrator was irrational in issuing a sanction of dismissal because she did not consider that the Applicant had no ulterior motives, and had acted in good faith and with the most ethical intention when she reported her manager’s unethical conduct.
+In my view, there is no merit in this ground for review.
+
+The evidence adduced does not support this ground for review as it showed that the Applicant did not act with the most ethical intention and without an ulterior motive when she reported Mr Masekoameng’s alleged unethical conduct. On the contrary, the evidence showed that the Applicant viewed herself as superior, as a very senior, qualified and experienced expert whilst she viewed her line manager as someone who was not qualified to manage her, who was not able to understand the technical nature of her job and she was willing to take steps to discredit him and she was keen to be managed by someone else, who she regarded as worthy and qualified.
+The Applicant could not adduce any evidence to substantiate her allegations of unethical conduct and it is evident from the transcribed record, that the Applicant was still new in the organisation, that she acted without having all the facts and that she was willing to make allegations and raise concerns without concrete proof but based on her own perceptions, assumptions and opinions.
+It is evident from the transcript that the Applicant did not agree with the Respondent’s policies, procedures and protocols and that her case was that
+
+
+
+because she was not in agreement, she was therefore justified to ignore them. The Applicant, being such a qualified and senior person, should understand the consequences of her actions and that she had to abide by her employer’s policies, procedures and protocols. The attitude adopted by the Applicant is not one which displays remorse and an acknowledgement of wrongdoing, which would generally signal the possibility of rehabilitation and future compliance, but it was rather a persistence that her views are correct and that she would do as she thinks best.
+The Constitutional Court (CC) in Sidumo12 has set out the factors to be considered in determining the appropriateness of the sanction. The CC held that the arbitrator must take into consideration the totality of circumstances, including the importance of the rule that had been breached and held that:
+‘There are other factors that will require consideration. For example, the harm caused by the employee's conduct, whether additional training and instruction may result in the employee not repeating the misconduct, the effect of dismissal on the employee and his or her long-service record. This is not an exhaustive list.’
+The CC emphasized that the arbitrator has to consider all the relevant factors and circumstances.
+In casu, the Applicant was employed for a period of six months before she was suspended and eventually dismissed during the following year.
+The arbitrator considered the fact that the Respondent’s witnesses testified that, due to the Applicant’s conduct, her multiple baseless and defamatory complaints, remarks and issues raised externally, the trust relationship had completely broken down and a future working relationship was not possible. The Applicant showed no remorse and she came across as disrespectful.
+The arbitrator further considered that the Applicant was a very skilled and senior person, who holds various qualifications and has extensive experience. The advice that was given to the Applicant was ignored and the arbitrator rejected
+
+12 Sidumo at paras 78 - 79.
+
+
+
+the Applicant’s argument that she was not aware of the Respondent’s policies or that she did not receive training and that the Respondent should have counselled her. A senior employee who made it a point to inform the inquiry of her capabilities, skills and experience would not need training or counselling.
+The arbitrator considered the factors in mitigation, but ultimately found dismissal to be appropriate considering the impact her conduct had on the Respondent and Mr Masekoameng, the senior position held by the Applicant, the serious nature of the allegations all viewed together and the lack of remorse.
+It is evident that the arbitrator considered all the relevant factors and circumstances to decide whether dismissal was an appropriate and fair sanction, as she was required to do.
+Exceeding powers
+
+The third ground for review is that the arbitrator exceeded her powers in relation to the duties of an arbitrator.
+There is no merit in this ground for review and there are two difficulties with this ground for review.
+Firstly, there are two broad categories of excess of power – the absence of jurisdiction and excess of powers within jurisdiction. The first is where an arbitrator acts in the absence of jurisdiction, that is where the necessary jurisdictional facts are not in existence, such as the existence of an employment relationship or a dismissal. The second category is where an arbitrator, having jurisdiction, exceeds the limits of his/her powers, for example where an arbitrator orders reinstatement of an employee whose dismissal was found only to be procedurally unfair, or grants more than the maximum permissible compensation or decided an issue which the parties have not placed in dispute.13
+The Applicant submitted that the arbitrator exceeded her duties by taking issue with the extent to which her version was put to the Respondent’s witnesses and
+
+13 A Myburgh, C Myburgh, ‘Reviews in the Labour Courts’, LexisNexis at pp 107 – 117.
+
+
+
+by showing bias towards GEMS throughout the proceedings. These averments or grounds do not support the exceeding of powers by the arbitrator and this ground for review is ill-advised.
+Be that as it may, the criticism against the arbitrator regarding her refusal to recall the CAE as a witness because the Applicant’s legal representative failed to put versions to him during cross-examination, is without merit.
+After a witness has given his or her evidence in chief, the other party is given the opportunity to cross-examine the witness. The intended purpose of cross-examination is inter alia to reveal weaknesses in the evidence adduced, to challenge the truth or accuracy of the witness’s version, to bring to light facts reinforcing the cross-examiner’s case, to elicit favourable facts, to place a defence on record and to put the version of the cross-examining party.
+A party has a duty to cross-examine on aspects which he or she disputes. The rationale of the duty to cross-examine is that the witness should be cross-examined to afford him or her an opportunity to answer points supposedly unfavourable to him.
+The failure to cross-examine a witness about an aspect of his or her evidence may have the result that the evidence may not be called into question later. The cross-examiner who disputes what the witness says has a duty to give the witness an opportunity to explain his or her evidence, to qualify it or to reveal its basis. Failure to do so has been dubbed extremely unfair and improper.14 Apart from the injustice to the witness, failure to cross-examine may indicate acceptance, comparable with admission by silence.15 From this point of view, such evidence will carry more weight than evidence disputed by means of cross-examination and the failure to cross-examine, will be a factor increasing evidential value.16
+A failure to cross-examine a witness on any aspect is generally considered to be an indication that the party who had the opportunity to cross-examine, did
+
+
+14 Small v Smith 1954 (3) SA 434 (SWA); Barry v Mxaisa 1977 (4) SA 786 (O).
+15 S v Boesak 2000 (3) SA 381 (SCA).
+16 CWH Schmidt, H Rademeyer, ‘Law of Evidence’, LexisNexis at 9-54 – 9-72.
+
+
+
+not wish to dispute the version or aspects of the version of the particular witness who was available for cross-examination.17 A cross-examiner is duty bound to put his or her defence or version on each and every aspect he or she wishes to place in issue, to the witness.
+In Masilela v Leonard Dingler (Pty) Ltd18, the Court was faced with a scenario where a version was not put to a witness in cross-examination and held that:
+‘The problem that I have with the applicant's version where it differs from that of Masina is that none of it was put to Masina while he was testifying. This court has been denied the benefit of Masina's response. It is trite that if a party wishes to lead evidence to contradict an opposing witness, he should first cross-examine him upon the facts that he intends to prove in contradiction, to give the witness an opportunity for explanation. Similarly if the court is to be asked to disbelieve a witness, he should be cross-examined upon the matters that it will be alleged make his evidence unworthy of credit. In Small v Smith 1954 (3) SA 434 (SWA) Claassen J said at 438:
+“It is, in my opinion, elementary and standard practice for a party to put to each opposing witness so much of his own case or defence as concerns that witness, and if need be, to inform him, if he has not been given notice thereof, that other witnesses will contradict him, so as to give him fair warning and an opportunity of explaining the contradiction and defending his own character. It is grossly unfair and improper to let a witness's evidence go unchallenged in cross-examination and afterwards argue that he must be disbelieved.”’
+In casu, the transcribed record shows that the arbitrator throughout pleaded with the Applicant’s attorney to put her version to the Respondent’s witnesses and she warned him about the consequences of not doing so. The Applicant explained that she is an expert who has a law degree and advises SASLAW on legal matters, she was represented by an attorney, yet she effectively complains that the arbitrator did not treat her as an unrepresented layperson, who did not know that it was required to put versions to witnesses and who
+
+
+17 See: President of the Republic of South Africa and others v South African Rugby Football Union and others [1999] ZACC 11; 2000 (1) SA 1 (CC).
+18 (2004) 25 ILJ 544 (LC) at para 28.
+
+
+
+requested to recall a witness for that purpose, because he or she did not know of any better. The Applicant was represented by an attorney, who failed to put her versions to the Respondent’s witnesses, notwithstanding the fact that it is a basic principle of the law of evidence and that the arbitrator constantly urged him to do so. She cannot blame the arbitrator for the consequences of her attorney’s failure to put her version to the witnesses, alternatively for her own failure to provide her attorney with proper instructions.
+The arbitrator was biased
+
+Bias in the context of a review application is regarded as a patent gross irregularity.
+The principles related to the concept of bias have been set out by the Courts and a brief overview of those principles is necessary.
+In Turnbull-Jackson v Hibiscus Coast Municipality and others (Ethekwini Municipality as amicus curiae)19, the Court dealt with unfounded allegations of impropriety made against public officers, and held:
+‘Allegations of bias, the antithesis of fairness, are serious. If made with a sufficient degree of regularity, they have the potential to be deleterious to the confidence reposed by the public in administrators. The reactive bias claim stems from unsubstantiated allegations of corruption and incompetence. These are serious allegations, especially the one of corruption. Yes, if public officials are corrupt, they must be exposed for what they are: an unwelcome, cancerous scourge in the public administration. But accusations of corruption against the innocent may visit them with the most debilitating public opprobrium. Gratuitous claims of bias like the present are deserving of the strongest possible censure.’
+In Sepheka v Du Point Pioneer (Pty) Ltd20, the Court threw caution as follows in respect of allegations of bias:
+
+
+
+
+
+
+19 [2014] ZACC 24; 2014 (11) BCLR 1310 (CC) at para 35.
+20 [2018] ZALCJHB 336; (2019) 40 ILJ 613 (LC) at para 16.
+
+
+
+‘Any allegation of bias, especially on the part of a Judge of this Court, must be substantiated by a proper factual basis, must not be based on mere speculation and conjecture, and must be proved by the party alleging bias.’
+It is a trite principle of law that in order to succeed with a claim of bias, more than mere conjecture must be shown. It happens that, in the normal course of events, litigants could harbour a sense of apprehension against those administering justice. This of course does not mean that, any time a litigant is not happy with the proceedings or that the judgment or outcome is not in that party’s favour, a claim of bias would suffice.
+The Courts have time and time again warned against litigants making unfounded allegations of bias on the part of presiding officers tasked to decide disputes, without cogent proof to substantiate the allegation.21
+It is a natural result of adversary litigation that one party would be successful and that the other party would fail. The mere fact that the outcome went in favour of the other party, does not render the presiding officer or decision maker biased. More is needed.
+In casu, the Applicant claims that the arbitrator was biased. To succeed with this ground for review, the Applicant has to prove bias and has to substantiate this claim with a proper factual basis.
+The Applicant’s case is that the arbitrator showed bias towards GEMS throughout the proceedings, which is clear from her attitude towards the Applicant and her legal representative. The Applicant referred to specific portions of the transcribed record which, according to her, showed the arbitrator’s bias. She further stated that the arbitrator pointed out in bold letters in the award every time the Applicant had contradicted herself in cross-examination.
+In my view, there is no merit in this ground for review.
+
+
+
+
+21 See for example Sappi Kraft (Pty) Ltd t/a Tugela Mill v Majake NO and others (1998) 19 ILJ 1240 (LC) at para 48; SMCWU v Party Design CC [2001] 6 BLLR 667 (LC) at para 12.
+
+
+
+The LRA sought to introduce a dispute resolution system that would resolve labour disputes expeditiously, informally and inexpensively. Section 138(1) of the LRA promotes this purpose and in relation to the conduct of arbitration hearings under the auspices of the CCMA, provides the following:
+‘The commissioner may conduct the arbitration in a manner that the commissioner considers appropriate in order to determine the dispute fairly and quickly, but must deal with the substantial merits of the dispute with the minimum of legal formalities.’
+The LRA (in section 138) spells out the nature and content of the right to a fair hearing in CCMA arbitration proceedings. A commissioner is required to conduct the arbitration in a manner that the commissioner considers appropriate in order to determine the dispute fairly and quickly, but must deal with the substantial merits of the dispute with the minimum of legal formalities. Subject to the discretion of the commissioner, as to the appropriate form of the proceedings, a party to the dispute may give evidence, call witnesses, question the witnesses of any other party, and address concluding arguments to the commissioner.
+In CUSA v Tao Ying Metal Industries and others22, the CC placed the following gloss on section 138:
+‘Consistent with the objectives of the LRA, commissioners are required to “deal with the substantial merits of the dispute with the minimum of legal formalities”. This requires commissioners to deal with the substance of a dispute between the parties. They must cut through all the claims and counter-claims and reach for the real dispute between the parties. In order to perform this task effectively, commissioners must be allowed a significant measure of latitude in the performance of their functions. Thus the LRA permits commissioners to “conduct the arbitration in a manner that the commissioner considers appropriate”. But in doing so, commissioners must be guided by at least three considerations. The first is that they must resolve the real dispute between the parties. Second, they must do so expeditiously. And, in resolving the labour dispute, they must act fairly to all the parties as the LRA enjoins them to do.’
+
+
+22 [2008] ZACC 15; [2009] 1 BLLR 1 (CC) at para 65.
+
+
+
+The true role of a presiding commissioner in arbitration proceedings is not necessarily that of a ‘silent umpire’, but he/she must studiously avoid any form of intervention which is calculated to create the impression that he/she is descending into the arena which is ordinarily reserved for the litigants.
+It is evident from the transcribed record that the arbitrator adopted a more inquisitorial approach, as she was entitled to do, that she asked questions for clarity and to confirm her own understanding of the evidence and that where necessary, she apologised for comments she made. The Applicant’s complaints regarding the questions asked by the arbitrator and the comments she made, do not justify a finding that the arbitrator was biased and that the Applicant was deprived of a fair hearing. The threshold to establish bias is higher than what the Applicant is able to meet.
+The fact that the arbitrator, in her summary of the evidence in the award, used bold letters to highlight versions not put or contradictions in the Applicant’s version, cannot constitute bias and did not deprive the Applicant of a fair hearing. It is a matter of style in writing up the award and had no impact on the conduct of the hearing.
+In my view, the arbitrator’s findings fall within a band of reasonableness based on the evidence that was placed before her and there is no basis for this Court to interfere with it on review. In casu, the Applicant was unable to make out a case for review, applying the test of reasonableness.
+Costs
+
+This Court has a wide discretion in respect of costs, considering the requirements of law and fairness.
+In her notice of motion, the Applicant sought a cost order against any one of the Respondents who opposed the application. In argument, Mr Chowan submitted that the Applicant is entitled to punitive costs as the Respondent’s conduct will send a message that it is acceptable to abuse whistleblowers.
+
+
+
+Mr Bekker for the Respondent submitted that this is a matter where a cost order would be appropriate as the application is an abuse of process. The Applicant attached documents to her founding affidavit which are in the record and she is effectively pursuing an appeal. He argued that the review application should be dismissed with costs. Effectively, both parties were seeking an order as to costs against the other.
+In Zungu v Premier of the Province of KwaZulu-Natal and others23, the CC confirmed that the rule that costs follow the result does not apply in labour matters. The Court should seek to strike a fair balance between unduly discouraging parties from approaching the Labour Court to have their disputes dealt with and, on the other hand, allowing those parties to bring to this Court (or oppose) cases that should not have been brought to Court (or opposed) in the first place.
+The generally accepted purpose of awarding costs is to indemnify the successful litigant for the expense he or she has been put through by having been unjustly compelled to initiate or defend litigation.
+In Public Servants Association of SA on behalf of Khan v Tsabadi NO and Others24, it was emphasized that:
+‘…unless there are sound reasons which dictate a different approach, it is fair that the successful party should be awarded her costs. The successful party has been compelled to engage in litigation and incur legal costs. An appropriate award of costs is one method of ensuring that much earnest thought and consideration goes into decisions to litigate in the Labour Court, whether as applicant in launching proceedings or as respondent opposing proceedings.’
+This is a case where the Court has to strike a balance.
+
+In my view, this is a case where it is appropriate to make a cost order. A cost order is a method of ensuring that decisions to litigate in this Court are taken with due consideration of the law and the prospects of success. The Applicant
+
+
+23 [2018[ ZACC 1; (2018) 39 ILJ 523 (CC) at para 24.
+24 [2012] ZALCJHB 17; (2012) 33 ILJ 2117 (LC) at para 176.
+
+
+
+has filed a review application which had no merit. This application compelled the Respondent to oppose it and the Respondent is entitled to the cost incurred in doing so.
+This Court is ordinarily reluctant to make orders for costs against individual litigants, for whom the prospect of an adverse costs order may serve to inhibit the exercise of what they perceive as their rights. This is however not an immutable or inflexible rule.
+Fairness dictates that the Respondent cannot be expected to endure enormous costs defending meritless litigation. I am alive to the fact that the Applicant is an individual, but I cannot ignore the fact that she ultimately initiated a review application without any merit and that she was legally represented throughout the proceedings.
+In the present circumstances, the interests of justice require that the Applicant pays at least a portion of the Respondent’s costs. In my view, a sum equivalent to 25% of the Respondent’s costs will best serve those interests.
+In the premises, I make the following order: Order
+The application for review is dismissed;
+
+The Applicant is to pay the Third Respondent’s costs, limited to 25% of the taxed costs.
+
+
+
+
+
+Connie Prinsloo Judge of the Labour Court of South Africa
+
+
+
+Appearances:
+For the Applicant:	Advocate A Chowan
+Instructed by:	Webber Wentzel Attorneys
+
+
+For the Third Respondent:	Advocate W Bekker
+Instructed by:	Gildenhuys Malatji Inc Attorneys

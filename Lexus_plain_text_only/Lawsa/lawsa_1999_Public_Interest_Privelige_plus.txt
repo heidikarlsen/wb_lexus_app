@@ -1,0 +1,49 @@
+
+
+
+
+133 Public interest privilege
+The Law of South Africa (LAWSA)
+
+
+LAWSA  >  The Law of South Africa (LAWSA)  >  Delict  >  Defences: Grounds Of Justification
+
+133  Public interest privilege  Despite the important role that the media play in a properly-functioning democratic society, courts have consistently rejected any attempt to give the media wider freedom of expression than that afforded to ordinary citizens.1 In Neethling v Du Preez; Neethling v The Weekly Mail 2 the Appellate Division rejected any suggestion that public interest alone, without proving the truth of material, could constitute a defence in our law. The court a quo had accepted the view expressed in an earlier decision, Zillie v Johnson,3 that a newspaper is entitled to publish defamatory matter in circumstances where the public has a right to be informed of the facts. The Appellate Division noted that the notion of newspaper privilege is unknown in our law, and that newspapers do not occupy a special position.4 The Supreme Court of Appeal appears now to have relaxed that approach in National Media Ltd v Bogoshi,5 although it was at pains to emphasise that standards applicable to media have not been lowered or watered down and that media do not have carte blanche to publish whatever they like.6 The attitudinal change is the result of a change in focus: Neethling was concerned with the defence of truth and public benefit – for which truth is an essential requirement – while in Bogoshi the emphasis was on the publication of untrue statements. Although it did not expressly say so, the Supreme Court of Appeal seems to have viewed the issue as one of media, or public interest, privilege.7
+  The Bogoshi judgment establishes the following rule: Publication in the press of false defamatory material in which the public has an interest will not be unlawful if, upon a consideration of all the circumstances of the case, it is found to have been reasonable to publish the particular facts in the particular way and at the particular time.8 The inquiry is firmly located in the concept of objective reasonableness, based upon society’s legal convictions.9 And this, it is suggested, makes public interest a crucial factor – either, in respect of the material itself, or in the act of publication.10 Other aspects to consider, amongst others,11 are the nature, extent and tone of the allegations; the nature and reliability of the information upon which the allegations were based; the steps taken to verify them;12 and the urgency or need to publish the allegations before positively establishing the truth.13
+  This form of privilege, it is suggested, should be available to all defendants, not only the media. It is trite that the occasion, not the person, is privileged, and any restriction of the rule would result in what the courts have tried to avoid, namely, affording media special treatment not available to others. Surely a false statement made by an ordinary citizen – a rate-payer at a municipal meeting, for example – should be similarly treated?
+  Recognition of a public interest privilege, either independently, or as an additional sub-category of the standard defence of privileged occasion, would be a welcome development. Freedom of expression now enjoys more prominence than in the past, and the role of the media in ensuring adherence to democratic values, such as openness, accountability and the right to information, is similarly enshrined.14 Media have a constitutional obligation in relation to freedom of expression. They should foster it, provide a platform for the exchange of ideas, and ensure that ordinary citizens have sufficient information to be responsible and effective members of society.15 Public interest should of course not be circumscribed, but this particular form of privileged occasion should especially be available to defendants where the defamatory material relates to public figures or refers to public duties or political or governmental activity, or where the press exercises its function to ferret out corruption, dishonesty and graft.16 or to protect genuine whistle-blowers.
+  It is suggested that requirements for the defence of privileged occasion could easily be adapted to accommodate the factors mentioned in Bogoshi and that the following requirements should be present for this defence to succeed: Where defamatory material is published, a defendant may put up a defence that the material, irrespective of its truth, was published bona fide and without malice in the public interest and in circumstances in which it was reasonable to do so.17
+  The defendant should then be able to rebut the presumption of unlawfulness by proving that the plaintiff participated in political activity, or was entrusted with public duties; that, in the circumstances, the defendant had a duty to inform society. Put differently: That publication of the material was in the public interest and promoted an open and democratic society; and that the material was relevant and germane to the issue. It would then still be open to the plaintiff to show malice, that the defendant had no reasonable grounds for believing the truth of the material, that no foundation for the publication existed in the circumstances,18 or that the information published in the material was obtained by unlawful means.19
+  In all, the defendant should be given a privilege similar to that enjoyed by persons who report on proceedings of courts, Parliament and other public bodies, to report or comment on matters of public interest.20
+  The onus should be on the defendant to prove the defence on a balance of probabilities.21
+
+
+Footnotes
+1	See, eg, Holomisa v Argus Newspapers Ltd 1996 1 All SA 478 (W); 1996 6 BCLR 836 (W) 856; 1996 2 SA 588 (W) 610; Van Zyl v Jonathan Ball Publishers (Pty) Ltd 1999 JOL 5234 (W); 1999 4 SA 571 (W) 595.
+2	1994 3 All SA 479 (A); 1994 1 SA 708 (A) 775 776.
+3	1984 2 SA 186 (W).
+4	   4   Neethling v Du Preez; Neethling v The Weekly Mail supra 776 777.
+5	   5   1998 4 All SA 347 (SCA); 1999 1 BCLR 1 (SCA); 1998 4 SA 1196 (SCA).
+6	361–362 (All SA); 1212–1213 (SA). See also Mthembi-Mahanyele v Mail & Guardian 2004 3 All SA 511 (SCA); 2004 11 BCLR 1182 (SCA); 2004 6 SA 329 (SCA).
+7	The issues raised in the foreign material that was reviewed were similar to those applicable to the defence of privileged occasion. See National Media Ltd v Bogoshi supra 360–361 (All SA); 1211–1212 (SA).
+8	361 (All SA); 1212 (SA).
+9	The general criterion is whether public policy justifies the publication and whether, if the test of reasonableness is applied, it should be considered lawful: Zillie v Johnson supra 195; Holomisa v Argus Newspapers Ltd supra 863–864 (BCLR); 617–618 (SA).
+10	The actual words in National Media Ltd v Bogoshi supra (361 (All SA); 1212 (SA)) – “protection is only afforded to the publication of material in which the public has an interest ie which it is in the interest to make known as distinct from material which is interesting to the public” – are susceptible to this wider interpretation.
+11	The court did not intend to provide an exhaustive list. For a detailed list of the factors which might influence a decision regarding unreasonableness, see Midgley 1999 SALJ 211 218–219.
+12	National Media Ltd v Bogoshi supra 361 (All SA); 1212 (SA).
+13	362 (All SA); 1213 (SA). The court, following a view expressed in Lange v Australian Broadcasting Corporation (1997) 189 CLR 520 (HC) 574, suggested that another factor might be whether or not the person concerned was given an opportunity to respond. However, this suggestion should be treated with some caution. A right of reply, even if it is placed, eg, in the same publication or article containing the false allegation, should not affect the lawfulness of the defamatory material, although it might mitigate damages.
+14	Constitution of the Republic of SA, 1996 ss 16 33. See Khumalo v Holomisa 2002 8 BCLR 771 (CC) par 23; 2002 5 SA 401 (CC); Holomisa v Argus Newspapers Ltd supra 854–859 (BCLR); 608–613 (SA); Hall v Welz 1996 4 SA 1070 (C) 1072. See also Zillie v Johnson supra 195; Sage Holdings Ltd v Financial Mail (Pty) Ltd 1991 3 All SA 676 (W); 1991 2 SA 117 (W) 134.
+15	   15   Khumalo v Holomisa supra pars 22 24.
+16	   16   Government of the RSA v “Sunday Times” Newspaper 1995 2 All SA 160 (T); 1995 2 BCLR 182 (T); 1995 2 SA 221 (T) 227–228. See also Khumalo v Holomisa supra par 23.
+17	This formulation of the defence differs from that suggested in Holomisa v Argus Newspapers Ltd supra 864 (BCLR); 618 (SA), although there is substantial overlap.
+18	Eg, that the material was false, although falsity should not by itself defeat the defence.
+19	Financial Mail (Pty) Ltd v Sage Holdings Ltd 1993 2 All SA 109 (A); 1993 2 SA 451 (A).
+20	See also Neethling Persoonlikheidsreg 252–257.
+21	Neethling v Du Preez; Neethling v The Weekly Mail supra 770. But cf Holomisa v Argus Newspapers Ltd supra. See also par 110 ante.
+
+
+End of Document
+133 Public interest privilege
+Page 2 of 3
+
+

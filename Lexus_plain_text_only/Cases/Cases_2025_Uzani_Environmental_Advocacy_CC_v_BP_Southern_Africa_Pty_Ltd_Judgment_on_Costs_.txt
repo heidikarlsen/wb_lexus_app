@@ -1,0 +1,378 @@
+
+
+
+
+Uzani Environmental Advocacy CC v BP Southern Africa (Pty) Ltd (Judgment on Costs) [2025] JOL 68816 (GP)
+Judgments Online
+
+Division: Gauteng, Pretoria
+Case No: CC 82 / 2017
+Hearing Date(s): None Indicated
+Judgment Date(s): 20 / 03 / 2025
+Bench: Spilg J
+
+
+Keywords
+
+
+Civil Procedure — Private prosecution — Entitlement to costs — Scale of costs
+
+Mini Summary
+
+
+The accused (“BP”) was convicted in a prosecution conducted by the private prosecutor (“Uzani”) of contraventions of section 29(4) of the Environmental Conservation Act 73 of 1989 (“ECA”) for failing to obtain the required written environmental authorisation required under section 22(1) of that Act. In sentencing, fines exceeding R59 million were imposed. The present judgment concerned cost orders sought by Uzani.
+
+Held that the questions were whether Uzani was entitled to an order for costs under section 34B of the National Environmental Management Act 107 of 1998 (NEMA); was entitled to be covered in advance for the costs of appeal under section 33(3) of NEMA; and was entitled to attorney and client costs and, if not, the applicability of Rule 67A of the Uniform Rules of Court.
+
+Section 33(3) provides that “The court may order a person convicted upon a private prosecution brought under subsection (1) to pay the costs and expenses of the prosecution, including the costs of any appeal against such conviction or any sentence”. If the legislature intended that a private prosecutor was entitled to an award under section 34B, then it would be expected to find wording which added that a private prosecutor was also entitled to an award under its provisions. It was concluded that section 34B was confined to informants and did not extend to private prosecutors, whose costs were dealt with in section 33(3).
+
+Regarding costs payable in advance, section 33(1) was not intended to provide the prosecution with costs upfront to engage counsel in opposing an application for leave to appeal or to oppose the appeal itself. The application to be provided in advance with the costs of opposing the appeal therefore failed.
+
+The next issue was that of Uzani’s entitlement to attorney and client costs. The prosecution should not be out of pocket for a successful prosecution, nor should it be confined to ordinary party and party costs if regard is had to the nature and purpose of the legislation and the way in which it enables the prompt engagement of private prosecutions if the State had failed to fulfill its responsibilities in that regard. In the present case therefore, the prosecution was entitled to attorney and client costs. It was agreed between the parties that R67A of the Uniform Rules of Court did not apply to an award of attorney and client costs. Had the court found that Uzani was only entitled to party and party costs, it would have granted the costs on scale C, regard being had to the considerations set out in R67A(3)(b), that is the complexity of the matter and the value of the claim or importance of the relief sought, and subject to the other considerations set out in R67A(2).
+
+ 
+[2025] JOL 68816 (GP) at 1
+
+SPILG J:   
+
+Introduction 
+[2025] JOL 68816 (GP) at 2
+
+[1]    This judgment concerns the cost orders sought by the private prosecutor, Uzani Environmental Advocacy CC, pursuant to the successful conviction of BP Southern Africa (Pty) Ltd ("BP") in relation to contraventions of section 29(4) of the Environmental Conservation Act 73 of 1989 ("ECA") for failing to obtain the required written environmental authorisation required under section 22(1) of that Act. The judgment is identified as Uzani (1).
+
+Subsequently the court held an enquiry under section 34(3)(g) of the National Environmental Management Act 107 of 1998 ("NEMA") after which it heard the parties on sentencing and on 6 September 2024 BP was sentenced for the contraventions under the following penal provisions of NEMA and ECA:
+
+In respect of the counts under section 34(3) of NEMA, a fine of R6 245 424
+In respect of the counts under section 29(4) of ECA, an initial fine of R6 187 650
+In respect of the additional fine under section 29(4) of ECA, an amount of R47 112 970.
+
+The section 34(3)(g) judgment is noted as Uzani (2) and the judgment on sentence is Uzani (3).
+
+The costs issue
+
+[2]    The costs issue relates to whether Uzani;
+
+is entitled to an order for costs under section 34B of NEMA
+is entitled to be covered in advance for the costs of appeal under section 33(3) of NEMA.
+is entitled to attorney and client costs and, if not, the applicability of rule 67A of the Uniform Rules of Court. This includes whether Uzani should be deprived of costs in respect of certain respects. 
+[2025] JOL 68816 (GP) at 3
+
+The section 34b award for costs under NEMA
+
+[3]    Section 34B provides that:
+
+"Award of part of fine recovered to informant
+
+A court which imposes a fine for an offence in terms of this Act or a specific environmental management Act may order that a sum of not more than one fourth of the fine be paid to the person whose evidence led to the conviction or who assisted in bringing the offender to justice.
+A person in the service of an organ of State or engaged in the implementation of this Act or a specific environmental management Act is not entitled to such an award."
+
+[4]    Mr Roux representing BP takes the point of retrospectivity in that sections 34A–34G only came into effect from 1 May 2005; ie only after the offences were committed. He argues that the amendments are of a substantive law nature and not procedural which, he submits, means that they cannot apply to the present case.
+
+He also argues that section 34B(1) only applies to a person whose evidence led to a conviction and, to the extent that it refers to a person who assisted in bringing an environmental offender to justice, is to be interpreted as a whistleblower provision. Counsel contends that this in fact is the Department of Forestry, Fisheries and the Environment's understanding of the provision as contained in its draft National Waste Management Strategy document of 2010, which refers to the provision as a whistleblower provision. This is also consistent with the Department of Justice's invitation for public comment on proposed reforms to the whistleblower protection regime in South Africa.
+
+[5]    A further argument advanced by BP is that the amount cannot constitute an award for prosecutors since the concept of prosecuting for reward does not form part of our law. Prosecutors are constitutionally enjoined to perform their functions without fear, favour or prejudice. In addition the defence argued that  
+[2025] JOL 68816 (GP) at 4
+section 34B(2) excludes any person in the service of an Organ of State, such as the National Prosecuting Authority, from receiving such an award. The argument goes that at best a successful private prosecutor may only be awarded its costs under either section 33(3) of NEMA or section 15 of the Criminal Procedure Act 51 of 1977 but cannot share in the proceeds of fines.
+
+[6]    The final argument, which is a development of the previous one, is that the incentive would be a perverse one because it would have the real potential of bringing prosecutors into conflict with their statutory duties and to incentivise private prosecutions for reward. This could lead to a flood of speculative litigation.
+
+[7]    If its arguments are not upheld, then BP submits that under section 34B the court has a discretion to order payment of a quarter of the fine and that, as a matter of policy, it should not make a costs order which incentivises private prosecutions for financial reward rather than to advance the interests of justice.
+
+[8]    Mr Erasmus, on the other hand, asks the court to consider section 34 from the perspective of encouraging civil society institutions to bring environmental offenders to justice when the prosecutorial authority does not do so.
+
+[9]    The starting point is the accepted rules of interpretation of statute which hold that it is a unitary examination1 which has regard to the ordinary words used in their context and by reference to the Act as a whole as well as to the admissible surrounding circumstances informed primarily by constitutional values which may apply and by the ordinary aides to interpretation such as surplusage is not intended and that headings (at least in Statutes) are relevant aids.2
+
+[10]    With these considerations in mind, the heading to section 34B is clear and precise. It reads: 
+[2025] JOL 68816 (GP) at 5
+"Award of part of fine recovered to informant"
+
+And this is, on an ordinary reading of subsection (1), what the provision in fact deals with.
+
+[11]    One cannot wish away the word "informant". It is used in the context of limiting who is entitled to the award. While the subject matter may be the making of an award, the recipient remains the informant.
+
+[12]    If the Legislature had intended that persons other than an informant, as that term is ordinarily understood, should participate in an award then the words "to informant" would be unnecessary. This then brings into reckoning the ordinary aid to interpretation that surplusage is not intended.3
+
+[13]    Case law reminds us that the court cannot look at words in isolation. I agree with Mr Roux that in the context of section 34B, the ordinary wording of subsection (1) would require that the words "whose evidence led to the conviction or who assisted in bringing the offender to justice" be given a strained meaning if the intention had been to include a private prosecutor. If it was so intended, then it was simple enough for the Legislature to have said so by adding in section 34B (1) the words "or a person referred to in s 33(1)".
+
+In this regard it will be recalled that section 33 is a self-contained section concerned with private prosecutions.
+
+[14]    Taking the interpretational enquiry further to a consideration of the provisions of the Act as a whole, section 33 appears to deal exhaustively with the costs of private prosecutions.
+
+ 
+[2025] JOL 68816 (GP) at 6
+
+[15]    Section 33(3) provides that:
+
+"The court may order a person convicted upon a private prosecution brought under subsection (1) to pay the costs and expenses of the prosecution, including the costs of any appeal against such conviction or any sentence"
+
+[16]    If the Legislature intended that a private prosecutor was entitled to an award under section 34B, then one would expect to find wording which adds that a private prosecutor is also entitled to an award under its provisions.
+
+[17]    Since neither section 33(3) nor section 34B makes express provision for an award under section 34B to be paid to a private prosecutor but only refers to the costs usually associated with private prosecutions, then the only caveat to finding that private prosecutors cannot participate in a section 34(3) award is if it can be shown that the mischief which the Legislature sought to remedy was the prejudice occasioned to a private prosecutor (by engaging in such litigation for the public benefit where the prosecuting authority should have done so).
+
+But the ordinary meaning of the words taken in the context of sections 33 and 34B must be given effect and they do not extend that far. I therefore agree with Mr Roux that the situation sought to be addressed in section 34 related to encouraging whistleblowers to come forward.
+
+[18]    However one engages in the interpretational exercise, I believe the outcome will remain the same; section 34B is confined to informants and did not extend to private prosecutors whose costs are dealt with in section 33(3).
+
+Advance provision for costs
+
+[19]    The wording of 33(1) of NEMA has been set out earlier.
+
+[20]    In my view it is advisable to start by having regard to the subject matter of the provision. It is "to pay the costs and expenses of the prosecution".
+
+ 
+[2025] JOL 68816 (GP) at 7
+
+[21]    If the first part of section 33(1) deals with the costs and expenses incurred by the prosecution in the court of first instance then it is clear that the private prosecutor cannot seek a cost order up front and before proceedings have commenced in that court. The wording of the section in so far as it relates to the costs in the court of first instance is that they are only claimable on completion of the trial
+
+[22]    The question then, is whether the second part to section 33(1) extends this concept and understanding of when costs are claimable in the case of an appeal.
+
+[23]    In my view the wording is clear. It is couched in explanatory or clarifying terms to extend the costs that are claimable to include those on appeal. It does not change the nature of when such costs may be claimed; it simply clarifies that the costs incurred by a private prosecutor will include not only the costs before the trial court but also the costs of any appeal.
+
+[24]    I should add that the wording of section 33(1) was uplifted word for word from the enabling part of section 15(2) of the CPA. By reason of section 33(2) of NEMA, which expressly makes sections 9–17 of the CPA applicable to it, like provisions in two statutes dealing with the same subject matter should ordinarily complement one another save to the extent provided for expressly or by necessary implication 4. It has never been suggested that section 15(2) of the CPA permits a private prosector under that Act to obtain costs of appeal in advance. Such a contention would be problematic considering that private prosecutions can be instituted against relatively indigent individuals.
+
+[25]    Once again, if it were otherwise then provision would have to be made with regard to the court before whom such an application can be competently brought, bearing in mind that the appeal court has a discretion ("may") to grant or refuse such costs. I believe Mr Roux is correct in submitting that the effect of the prosecutor's argument would amount to the High Court usurping the jurisdiction of an appellate court.
+
+ 
+[2025] JOL 68816 (GP) at 8
+
+This could lead to problematic situations where a High Court order in regard to costs on appeal has been taxed and paid to the prosecutor before the case comes before the appellate court but later on appeal that court declines to grant costs. The costs and disbursements, which would include counsel's fees, would have been paid out even before the merits of an application for leave to appeal were considered by the trial court. This would leave the accused having to recover such costs after they have already been expended.
+
+The most that court procedures have allowed is the provision of security for costs of appeal in civil litigation (where the freedom of the individual does not arise) and no similar provisions are found in NEMA.5
+
+[26]    I am satisfied that section 33(1) is not intended to provide the prosecution with costs upfront to engage counsel in opposing an application for leave to appeal or to oppose the appeal itself. If the Legislature intended to protect prosecutors by providing equality of arms through the provision of an upfront costs order then I am afraid it will have to make its positioned clearer.
+
+While it is understandable that such a provision might prevent overreaching, it appears that an appeal court, particularly where constitutional issues are raised in matters of this nature, would be able to ensure that the position of the prosecution is adequately represented through an amicus if the private prosecutor was unable to cover the expenses or could not obtain counsel on a contingency fee basis, all of which possibilities remain open.
+
+[27]    Accordingly the application to be provided in advance with the costs of opposing an appeal must fail.
+
+Scale of costs
+
+Awarding attorney and client costs
+
+ 
+[2025] JOL 68816 (GP) at 9
+
+[28]    I do not believe that an application of section 33(1) is intended to result in a private prosecutor ordinarily being out of pocket for a successful prosecution, irrespective of the conduct of the accused.6
+
+The prosecution should not be out of pocket for a successful prosecution, nor should it be confined to ordinary party and party costs if regard is had to the nature and purpose of the legislation and the way in which it enables the prompt engagement of private prosecutions if the State has failed to fulfil its responsibilities in that regard.
+
+[29]    Here I refer to the fact that a nolle prosequi is not required, only that the prosecuting authority has remained silent when notified that a private prosecution for environmental degradation is intended to be instituted. 7
+
+The right to enjoy an environment that is not harmful to health or well-being is a constitutional right for the benefit of present and future generations as provided for in section 24 of the Constitution.8
+
+It is not insignificant that a private prosecution can yield fines for the benefits of the State. A private prosecutor should not end up doing so on a party and party scale, particularly where the offender has deep pockets.
+
+[30]    The only way in which the provisions to enable private prosecutions can be given proper effect when the State remains silent, is to ensure that those taking up the cudgels are not out of pocket where there is a successful prosecution. Otherwise those who the Act calls on to protect the environment where the State fails to do  
+[2025] JOL 68816 (GP) at 10
+so will be discouraged as philanthropic funding is unlikely to be readily available for such causes.9
+
+[31]    I would also add that Mr Erasmus' skill and knowledge were indispensable to the successful prosecution. This is readily apparent from what he was able to extract in his cross-examination of Mr R whose answers are unlikely to have been interrogated further by someone not as immersed and knowledgeable in the industry as Mr Erasmus.
+
+[32]    Mr R effectively misled the court and if I am wrong about the basis of awarding attorney and client costs then Mr R's conduct is enough to warrant such an order because he was called by BP and clearly sought to protect its interests in defending the criminal charges brought against it – and BP did not disassociate itself from his statements at the time. 10
+
+[33]    The court therefore finds that the prosecution is entitled to attorney and client costs.
+
+It is agreed between the parties that R67A of the Uniform Rules of Court does not apply to an award of attorney and client costs. See Mashavha v Enaex Africa (Pty) Ltd [2024] ZAGPJHC 387; 2025 (1) SA 466 (GJ) at paragraph 5.
+
+Excluded costs
+
+[34]    BP however contends that there are a number of costs for which it should not be held liable. Mr Erasmus has challenged most of these submissions.
+
+[35]    The first set of costs relates to the postponements occasioned on 20 March 2018, 19 February 2019, 25 March 2019 and 18 March 2022. These postponements are attributable to the court and BP should not be obliged to bear them.
+
+ 
+[2025] JOL 68816 (GP) at 11
+
+[36]    The second set of costs refers to the postponement on 4 September 2017 which BP contends was occasioned by reason of the prosecutor's failure to put competent charges to it. While that may have been one of the issues dealt with, the hearing on that date was the first appearance and would have taken place irrespective of the competency of the charges. The court therefore declines to disallow those costs.
+
+[37]    The third set of costs relates to an application brought by BP to compel the production of the section 24G reports from the prosecution. These documents were provided subsequent to BP launching its application. In the circumstances BP should not be obliged to pay for the costs of its application in November 2017 which it was entitled to bring.
+
+[38]    The final set of costs which BP argues should be disallowed are all those associated with the fraud charges, which were among the charges brought by the prosecution but which Uzani later withdrew. Mr Erasmus accepted that BP should not be responsible for these costs.
+
+Considerations if attorney and client costs were not to be awarded
+
+[39]    This Court should have dealt with the scale of cost it would have awarded if the attorney and client costs order is incorrect. I do so now.
+
+[40]    In Mashavha, Wilson J dealt with the considerations which should weigh with the court when exercising its discretion in determining the appropriate scale of party and party costs to award and at paragraph 11 summarised the position as follows:
+
+"It seems to me, therefore, that the approach to setting a scale of costs under Rule 67A(3) should be, first, to identify the appropriate scale ('A', 'B' or 'C') in light of the importance, value and complexity of the case, and then consider whether, because of inartful or unethical conduct of the nature identified in Rule 67A(2), that scale should be reduced, such that the successful party should not be able to recover counsel's costs to the extent that they would otherwise have been entitled."
+
+ 
+[2025] JOL 68816 (GP) at 12
+
+[41]    Save to raise the following concern it is unnecessary to consider whether the test to be applied is subjective (as was the case pre- the introduction of R67A) or objective as determined in Mashavha. 11
+
+Subjective v objective importance of the case
+
+[42]    In Khanye v Minister of Police [2024] ZAFSHC 285 at paragraph 11 van Zyl J considered that the decision in Mashavha was not free from certain difficulties which are identified in the judgment and referred to issues raised by Erasmus' Superior Court Practice in the section on R67A. In this Division, Vivian AJ also expressed some reservations in Ghubhelabm (Pty) Ltd and another v RAW Truck Trading CC and another (B3217/2023) [2024] ZAGPPHC 416 at paragraph 26.
+
+[43]    More recently Prof AC Cilliers' Law of Costs at paragraph 13.19A raised some further issues. The one of relevance for present purposes is that each scale sets its maximum limit suggesting that the Taxing Master retains his or her existing discretion; it is only that the court sets the upper limit of counsel's fees (including that of an attorney with a right of appearance) which can be taxed on the party and party scale.
+
+[44]    In my respectful view, the new rule does not appear to change the methodology to be employed, only the identity of the decision maker in respect of the scale to be applied (scale A, B or C). If that is so, then pre-existing case law ought to apply to the nature of the judicial discretion which is exercised at this initial parameter determining phase.
+
+[45]    Once the scale is determined by the court then the discretion exercised by the Taxing Master would appear to be the same as before, since R67A does not purport to change the existing law on the function of the Taxing Master and the discretion which he or she exercises.12
+
+ 
+[2025] JOL 68816 (GP) at 13
+
+Such discretion has however been based on a subjective consideration of the importance of the case – not an objective one: This still appears to be so because, in the case of the Taxing Master who has until now been obliged to make the exclusive determination, the exercise of the discretion can only be reviewed if such determination was "clearly wrong" or was "so materially different from that of the court as to vitiate the ruling". See President of the Republic of South Africa and others v Gauteng Lions Rugby Union and another 2002 (2) SA 64 (CC); 2002 (1) BCLR 1 at paragraph 13 [also reported at [2001] JOL 9195 (CC) – Ed] and De Beer Game Lodge CC v Waterbok Bosveld Plaas CC and another 2010 (5) BCLR 451 (CC) at paragraph 8 (against the letter (f)). See more recently Camps Bay Ratepayers' and Residents' Association and another v Harrison and another 2012 (11) BCLR 1143 (CC) at paragraph 4 and Trollip v Taxing Mistress, High Court 2018 (6) SA 292 (ECG) at paragraph 16 [also reported at [2018] JOL 40139 (ECG) – Ed] where the Full Bench reaffirmed that the test is subjective and a court must find that the Taxing Master was clearly wrong. See also Law of Costs at paragraph 13-03.
+
+[46]    Had this Court found that Uzani is only entitled to party and party costs, it would have granted the costs on scale C, regard being had to the considerations set out in R67A (3)(b) which are the complexity of the matter and the value of the claim or importance of the relief sought, and subject to the other considerations set out in R67A(2).
+
+[47]    The case was complex, required the engagement of senior counsel by both parties, albeit that the prosecution utilised senior counsel only for the main trial, required specialised knowledge and expertise in the field of environmental law (which, as set out earlier, Mr Erasmus possesses), and is the only case so far to deal with such a prosecution or the appropriate sentence, including penalties, to be imposed. An additional factor is that the case brought by Uzani advances the public interest by protecting the rights of all to a healthy environment under section 24 of the Constitution. None of the limiting considerations set out in R67A(2), and which have not already been taken into account earlier when disallowing some of the costs, can alter this outcome.
+
+Retrospectivity and R67A
+
+ 
+[2025] JOL 68816 (GP) at 14
+
+[48]    In Mashavha the court considered that because R67A had substantive effect it should, on the application of accepted principles, not apply retrospectively. This part of the judgment has been followed in the Gauteng Division in the case of Ndarangwa v Marivate Attorneys Incorporated [2024] ZAGPPHC 471 at paragraph 80. It was also followed by the Western Cape Bench in Prosec Guards CC v Department of Public Works and Infrastructure and others [2024] ZAWCHC 139 at paragraph 74.
+
+[49]    The conclusion drawn in Mashavha is that all costs incurred prior to R67A coming into effect, which was on 12 April 2024, are to be taxed under the pre-existing regime; R67A only becoming effective in respect of costs incurred as from that date. Cost incurred after that date are however subject to the new rule.13
+
+[50]    An application of Mashavha could therefore result in conflicting determinations by a Taxing Master and a judge because the latter would already have decided when giving judgement on the appropriate scale under rule 67 in respect post- 12 April 2024 fees which can be claimed in a bill of costs, yet this will not bind the Taxing Master when deciding on the appropriate scale for the pre- 12 April 2024 part of a bill of costs because he or she is entitled to exercise a subjective discretion (as per Gauteng Lions and De Beer, supra).
+
+This may result in further reviews or appeals, including those on the basis that the Taxing Master could not have exercised an independent subjective discretion since he or she would have been impermissibly influenced by the judge's decision which, sequentially, had to occur first. It is unlikely that the Legislature intended this having regard to the objective of R67A.
+
+[51]    If attorney and client costs had not been awarded in the present case, I would have had some difficulty in concluding that the issue raised in R67A is one of retrospectivity or, if it is, that substantive rights are impugned.
+
+ 
+[2025] JOL 68816 (GP) at 15
+
+[52]    It would appear that the introduction of R67A affects the issue of who may make the initial decision regarding the upper scales of cost to be awarded and the highest amount that a Taxing Master is permitted to award.
+
+[53]    Furthermore, at face value R67A(3)(a) requires the court to make an order identifying the scale of costs that are to be taxed at the end of the hearing when an order on the issue placed before it is made (unless costs are reserved or are made in the cause).
+
+[54]    Only once the Taxing Master is seized with the bill of costs pursuant to a notice of taxation can effect be given to the costs order made under R67A. the Taxing Master is only entitled to do so after the court has made its R67A determination as to the appropriate scale (or has decided that the costs are governed by the pre- R67A position). To this extent the rule only operates prospectively since the right to claim party and party costs is dependent on the court making a R67A order. taxation (or an agreement between the parties). Accordingly a successful party's right to recover party and party costs from the other vests no earlier than when the court makes its costs order, while the entitlement to payment will becomes due, owing and payable later on taxation.14
+
+[55]    There is therefore no vested right to obtain payment from the losing party of any amount reflected in a party and party bill of costs until the court makes its costs order. Indeed the identity of the party who must bear the costs is only known then.
+
+[56]    It would then follow that prior to the order being made by the court there is only a spes, or at best a legitimate expectation, on the part of a party provided further that he or she is successful, to recover from the other party the amount which the attorney anticipates will be awarded, however tenuous that expectation may be. Similarly, if the party is unsuccessful, in relation to the costs which may have to be paid to the other party whether it be on the attorney and client or ordinary party and party scale.
+
+ 
+[2025] JOL 68816 (GP) at 16
+
+[57]    In my view the introduction of who now is to determine the scale to be applied does not affect any accrued right or perceived entitlement. It replaces one decision maker with another in order to achieve a fairer allocation of the costs burden incurred by the successful litigant which the unsuccessful party is required to bear. This is more in the nature of adjectival than substantive law considerations
+
+Accordingly I do not see this as taking away any right, legitimate advantage or otherwise which either party had to a fair taxation. The fairness of the taxation process remains the constant.
+
+[58]    That leaves the question of whether or not the upper limit introduced for the highest scale of a cost award (ie scale C) is lower or higher than the limit provided for under the pre-existing tariff. If it is no different, then no pre-existing right or entitlement has been affected.
+
+[59]    The highest amount which can be taxed on a party and party scale under the new R67A regime is R4 500 per hour (ie R1 125 per quarter hour15).
+
+The highest amount which could be taxed for party and party costs under the old tariff was also R4 500.
+
+[60]    There is therefore no increase or reduction in the maximum hourly rate which may be allowed on taxation. Accordingly this part of R67A (which must be read with R69) does not alter any substantive law right to a greater or lesser fee than the maximum allowed under the replaced provision.
+
+That being so it seems that the considerations set out in the following paragraphs ought to apply.
+
+[61]    Firstly, in Veldman v Director of Public Prosecutions, Witwatersrand Local Division 2007 (3) SA 210 (CC); 2007 (9) BCLR 929 (CC) at paragraph 28 [also reported at [2006] JOL 18198 (CC) – Ed] Mokgoro JA consolidated the position as follows: 
+[2025] JOL 68816 (GP) at 17
+"The distinction between procedural and substantive provisions cannot always be decisive in the operation of the presumption against retrospectivity. As Marais JA recognised in Minister of Public Works v Hafejee NO:
+
+'[I]t does not follow that once an amending statute is characterized as regulating procedure it will always be interpreted as having retrospective effect. It will depend upon its impact upon existing substantive rights and obligations. If these substantive rights and obligations remain unimpaired and capable of enforcement by the invocation of the newly prescribed procedure, there is no reason to conclude that the new procedure was not intended to apply.'"
+
+[62]    Sections 11 and 13 of the Interpretation Act 33 of 1957 require consideration because they deal with the amendment of laws and their repeal or re-enactment.16
+
+[63]    In Nkabinde and another v Judicial Service Commission and others 2014 (12) BCLR 1477 (GJ) at paragraph 84 [also reported at [2014] 4 All SA 637 (GJ); [2014] JOL 32425 (GJ) – Ed] Mayat J referred to Veldman and in addition to the following passage in Du Toit v Minister of Safety and Security 2010 (1) SACR 1 (CC) [also reported at [2009] JOL 24357 (CC); 2009 (12) BCLR 1171 (CC) – Ed]:
+
+"The principle against interference with vested rights is a component of the presumption against retrospectivity. No statute is to be construed as having retrospective operation, which would have the effect of altering rights acquired and transactions completed under existing laws, unless the legislature clearly intended the statute to have that effect. This stems from the belief that at some point the state and third parties are entitled to rely on the common understanding of the nature of rights acquired or transactions completed."
+
+[64]    These passages appear to be an acceptance of Kentridge AJ's separate concurring judgment in S v Mhlungu and others 1995 (2) SACR 277 (CC); 1995 (7) BCLR 793 (CC) where he said the following at paragraph 66 in relation to  
+[2025] JOL 68816 (GP) at 18
+attempting to categorise a changed provision as purely procedural or whether it also affects substantive right:
+
+"Rather than categorising new provisions in this way, it has been suggested, one should simply ask whether or not they would affect vested rights if applied retrospectively"
+
+(Emphasis added)
+
+[65]    Earlier I concluded that only adjectival law is affected by the change in R67A regarding who decides the fairness of the appropriate scale (not the actual tariff to be allowed within each scale) and that the maximum amount that can be recovered on the highest party and party scale (scale C) has not changed; the minimum in each case being a disallowance in whole or in part.
+
+[66]    However this begs the question as to whether the implementation of R67A in fact has retrospective effect and whether it is necessary to engage in an enquiry as to whether substantive or procedural rights are affected.
+
+[67]    For the reasons set out earlier, it does not appear that any substantive rights would have arisen prior to the court order in respect of costs – they only arise when the costs order is made if the test is determined by reference to vested rights, albeit only enforceable on taxation.
+
+At best, prior to the court pronouncement there may be a legitimate expectation which, even if translating into a substantive right, does not alter the "rights acquired and transactions completed under existing laws" (adopting the phrase applied in Veldman (supra).
+
+Accordingly, no substantive right appears to have been implicated by R67A.
+
+[68]    Turning to the adjectival rights affected by R67A: Where the change affects procedural right then Unitrans Passenger (Pty) Ltd t/a Greyhound Coach Lines v Chairman, National Transport Commission and others 1999 (4) SA 1 (SCA) [also reported at [1999] 3 All SA 365 (A); [1999] JOL 5031 (A) – Ed] holds that regard must be had to whether the amendment took effect before or after the procedural steps had already been initiated. It is this crucial moment  
+[2025] JOL 68816 (GP) at 19
+(event) which determines the implementation of the amendment or new law to pending matters. Olivier JA said at paragraphs 16 and 17:
+
+Even accepting that the matter under discussion relates to procedure, a useful and necessary distinction is that between the case where a statute amending existing procedures comes into effect before the procedure has been initiated, and the case where the amending statute comes into effect after the procedure has been initiated and is pending.
+In the first type of case, it has usually been held that the new procedure applies to any action instituted or application initiated after the date on which the amending statute takes effect unless a contrary intention appears from the legislation. The ratio of this rule is understandable. By the time the action is instituted or the application initiated, the old procedure is not part of the law any more. Even if the old procedure existed when the cause of action or it would be the cause of the application arose, that in itself does not create a right to rely on procedure which no longer exists. Minister of Public Works v Haffejee NO (supra, at 755B–E) makes that clear."
+
+Considered in this light, the relevant step is when the court is asked to determine the appropriate scale for costs.
+
+[69]    Accordingly, R67A does not appear to affect any substantive right as understood by Veldman and other authorities, and its procedural implications in terms of Unitrans is that the old procedural regime no longer existed when the new procedural step took effect. 17
+
+[70]    Finally, aside from there being no discernible hardship for the reasons already given, the mischief which R67A attempts to remedy is the unfairness that has  
+[2025] JOL 68816 (GP) at 20
+permeated the application of the taxation rules18. It has attempted to do so without fettering the discretion of the Taxing Master as to the application of the tariff within the parameters of the appropriate scale and, conversely, without judges usurping the Taxing Master's technical function of determining the correct tariff within that scale per line item in a bill of costs.
+
+[71]    I therefore respectfully believe that the concerns expressed in Mashavha do not necessarily arise.
+
+In summary; the mischief which R67A was intended to remedy is dealt with more fairly by leaving it to the trial judge, who already has the most intimate knowledge of the matter for purposes of determining the appropriate scale, and who would be able to cut to the chase more efficiently and expeditiously while leaving it to the Taxing Master to engage the cost consultants and apply the tariff within the scale determined by the judge.
+
+Moreover, the concern that there would be a retrospective revaluing of the legal services purchased, even if it is under a different dispensation or structure of expectations, ought not to arise. The reason is that no rights have either vested or accrued, while the hope of a lenient Taxing Master (from the successful party's perspective) does not seem to amount to a legitimate expectation, let alone the higher threshold which the Constitutional Court appeared to have set in Veldman and Du Toit.
+
+The legal services which have been purchased are only those by the litigant from his or her own attorney at the attorney and client rate.
+
+[72]    It would therefore be necessary to find that both parties have an enforceable legitimate expectation, that the amount likely to be recovered or paid out on the party and party scale will materially differ under the two regimes if, and this I believe is an essential rider, the scale is being considered by a person who possesses full knowledge of the circumstance which must be taken into account. 
+
+ 
+[2025] JOL 68816 (GP) at 21
+
+The Legislature has seen fit to consider that the Presiding Judge, who is steeped in the matter, is in a better position, in the interests of both litigants, to make not only the fairest call but also do so in the most efficient manner.
+
+[73]    Accordingly, if the order of attorney client costs is upset, then I would have ordered that the prosecution is entitled to costs which are to be taxed on scale C as from the inception of the case.
+
+Order
+
+[74]    The prosecution is therefore entitled to costs under section 33(1) of NEMA which in its terms also implicates section 15 of the CPA. The following order is therefore made:
+
+BP shall pay the costs of the prosecution including the section 34(3)(g) enquiry on the attorney and client scale, save that it shall not be liable for the following costs;
+all costs associated with the application to compel of 10 November 2017
+all costs associated with the fraud charges which were subsequently withdrawn
+The postponements occasioned on 20 March 2018, 19 February 2019, 25 March 2019 and 18 March 2022
+the aforesaid costs payable by BP shall include
+The qualifying fees of Professor Kobus van der Walt and Mr Karl Steyn
+The costs attendant on the engagement of senior Counsel and if applicable junior Counsel as well.
+
+
+Footnotes
+1	  See Bothma-Batho Transport (Edms) Bpk v S Bothma & Seun Transport (Edms) Bpk 2014 (2) SA 494 (SCA) at para [12] [also reported at [2014] 1 All SA 517 (SCA); [2014] JOL 31199 (SCA) – Ed].
+2	 President of the Republic of South Africa and another v Hugo 1997 (4) SA 1 (CC) (1997 (1) SACR 567; 1997 (6) BCLR 708) at para [12] fn 13 [also reported at [1998] JOL 1543 (CC) – Ed]. See also Viking Pony Africa Pumps (Pty) Ltd t/a Tricom Africa v Hidro-Tech Systems (Pty) Ltd 2010 (3) SA 365 (SCA) at para [33] [also reported at [2010] 4 All SA 80 (SCA) – Ed] and the cited cases.
+3	  See Wellworths Bazaars Ltd v Chandlers Ltd and another 1947 (2) SA 37 (A) at 43 [also reported at [1947] 2 All SA 233 (A) – Ed] which approved the following passage from the Privy Council judgment in Ditcher v Denison (11 Moore PC 325, at 357)
+  "It is a good general rule in jurisprudence that one who reads a legal document whether public or private, should not be prompt to ascribe – should not, without necessity or some sound reason, impute – to its language tautology or superfluity, and should be rather at the outset inclined to suppose every word intended to have some effect or be of some use".
+4	  The opening portion of s 15(2) reads:
+  "The court may order a person convicted upon a private prosecution to pay the costs and expenses of the prosecution, including the costs of any appeal against such conviction or any sentence.".
+5	 S 33(2) of NEMA provides that ss 9–17 of the CPA shall apply.
+6	 Ss 33(1)(a) and (b) are gatekeeper provisions which only permits a private prosecution to be brought if it is done in the public interest or in the interest of the protection of the environment.
+7	 S 34B of NEMA also appears to override the provisions of s 8 of the CPA.
+8	 S 24 of the Constitution provides:
+  "Environment– Everyone has the right–
+ (a) to an environment that is not harmful to their health or well-being; and
+ (b) to have the environment protected, for the benefit of present and future generations, through reasonable legislative and other measures that–
+ (i) prevent pollution and ecological degradation;
+ (ii) promote conservation; and
+ (iii) secure ecologically sustainable development and use of natural resources while promoting justifiable economic and social development.".
+9	  It is evident that NEMA provides for private prosecutions, with a more streamlined process of putting the State on terms to itself prosecute. This arises because of the perceived inability, whether from a resource or other perspective, of the State to itself pursue NEMA offenders despite the offences infringing the constitutionally protected rights now and for the benefit of future generations.
+10	  See especially paras [91], [92], [96]–[103] and [138] of Uzani (3). I should also have added that BP failed in its duty to provide relevant documents despite being required to produce them. This is mentioned in paras [89], [96], [103] and [142] of Uzani (3).
+11	 S 17(2) of the CPA provides that costs in respect of a private prosecution are to be taxed under the civil tariff. This section is incorporated into NEMA through s 33(2) of that Act.
+12	  This is also an accepted aid to interpret legislation.
+13	  At paras [12] and [13].
+14	  See Kentridge AJ in S v Mhlungu and others who adopts the term "vested rights". This is dealt with more fully in para [63] infra.
+15	 See r 69(7).
+16	  S 1 of the Act itself provides that the provisions shall apply "unless there is something in the language or context of the law, by-law, rule, regulation or order repugnant to such provisions or unless the contrary intention appears therein".
+17	  In Unitrans at para [15] the SCA drew attention to the difficulty of distinguishing substantive matters from procedural ones and considered that: "This distinction cannot be decisive, because many amending statutes may appear to be procedural in nature but in fact impact on substantive rights.".
+18	  See especially Camps Bay Ratepayers and Residents Association v Harrison 2012 (11) BCLR 1143 (CC) at para [10] and the continued upward spiral of counsel’s costs to which Wilson J makes reference in Mashavha at paras [25]–[27].
+
+Appearance:
+G Erasmus, FVS Attorneys (P);
+
+Adv B Roux SC, Adv AC McKenzie, Warburton Attorneys (A)
+
+
+End of Document

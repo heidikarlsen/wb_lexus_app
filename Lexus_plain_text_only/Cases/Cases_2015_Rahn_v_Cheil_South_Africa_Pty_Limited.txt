@@ -1,0 +1,144 @@
+
+
+
+
+Rahn v Cheil South Africa (Pty) Limited [2015] JOL 34463 (LC) 
+Judgments Online
+
+Division: Johannesburg
+Case No: JS 752 / 2013
+Hearing Date(s): 05 / 06 / 2015
+Judgment Date(s): 12 / 06 / 2015
+Bench: A Steenkamp J
+
+
+Keywords
+
+
+Labour law — Practice and procedure — Jurisdiction — Special pleas
+
+Mini Summary
+
+
+The applicant alleged that she had been was dismissed by the respondent because she had made a protected disclosure and exercised her rights in terms of the Labour Relations Act 66 of 1995 (“the Act”). She contended that her dismissal was therefore automatically unfair in terms of section 187(1)(d) and 187(1)(h) of the Act. In the alternative, she claimed that the dismissal was in any event unfair.
+
+The respondent raised three special pleas in limine challenging the court’s jurisdiction on the main and alternative claims. According to the respondent, the applicant was dismissed for misconduct, and ordinarily, a dispute of that nature would be referred to the CCMA or a bargaining council for arbitration.
+
+Held that the applicant had referred a dispute to the CCMA but the respondent had successfully raised a preliminary point of lis pendens in that forum. The applicant was therefore left with the dilemma that should she be unsuccessful in her main claim, she could be non-suited in pursuing her unfair dismissal claim in the ordinary course. Section 158(2)(b) of the of the Act makes provision for such a situation, allowing a court, on realising that the dispute ought to have been referred to arbitration, to continue with the proceedings provided that it only makes an order which a commissioner or arbitrator would have been entitled to make. The first special plea was thus dismissed.
+
+Regarding the second special plea, which focused on jurisdiction with respect to the main claim, the respondent argued that, for the employee to sustain her cause of action, she had to plead sufficient facts to establish a causal connection between the lodging of the grievance and the dismissal. The Court held that that was a matter for evidence which could not be determined at present. The second special plea was dismissed.
+
+The Court also dismissed the third special plea, which stated that the Court lacked jurisdiction as the applicant had not proved that her dismissal was automatically unfair, in that she had used a document in previous CCMA proceedings, which she had no right to have in her possession. The Court held that parties at conciliation must be able to speak freely and refer to documents without a residual fear that they could be disciplined as a result thereof.
+
+The special pleas were dismissed with costs.
+
+ 
+[2015] JOL 34463 (LC)  at 1
+
+
+
+
+Introduction
+
+[1]    The applicant, Ms Nicole Rahn, was dismissed by the respondent. She says that she was dismissed because she made a protected disclosure  
+[2015] JOL 34463 (LC)  at 2
+and exercised her rights in terms of the LRA;1 and that, therefore, it was an automatically unfair dismissal in terms of section 187(1)(d) and section 187(1)(h) of that Act. In the alternative, she claims that the dismissal was in any event unfair.
+
+[2]    The matter has not yet gone to trial. The respondent raised three special pleas in limine challenging the court's jurisdiction on the main and alternative claims.
+
+Background facts
+
+[3]    The applicant lodged a grievance concerning her working conditions. It was unresolved. She referred an unfair labour practice dispute to the CCMA. During conciliation she referred to the respondent's "Annual Review and Incentive Proposal". On her return to work, the respondent demanded to know how she got hold of the document. The respondent seized her laptop. She was called to a disciplinary hearing and found to have committed misconduct by disclosing confidential information in the form of the report at the CCMA. She was dismissed. She referred the current dispute to the CCMA and, when conciliation failed, to this Court. Her referral to arbitration to determine an unfair dismissal dispute was dismissed for lack of jurisdiction as that dispute is before this Court in the form of her alternative claim and thus the arbitrator ruled that it was lis pendens.
+
+Evaluation/analysis
+
+[4]    The respondent raises three special pleas:
+
+Lack of jurisdiction on the alternative claim.
+Jurisdiction with respect to the main claim under section 187(1)(d) of the LRA – lodging a grievance.
+Jurisdiction/lack of cause of action under section 187(1)(h) – reliance on document produced at conciliation. 
+[2015] JOL 34463 (LC)  at 3
+
+First special plea: jurisdiction over alternative claim
+
+[5]    The applicant's main claim is that her dismissal was automatically unfair in terms of section 187(1)(d) and section 187(1)(h) of the LRA. This Court has jurisdiction to hear that claim. But she submits in the alternative, should this Court not uphold her claim of unfair dismissal, the court should in any event find that her dismissal was unfair.
+
+[6]    The employer says that the applicant was dismissed for misconduct. Ordinarily, a dispute of that nature would be referred to the CCMA or a bargaining council for arbitration.2 That is what the applicant did in this case; but the respondent successfully raised a preliminary point of lis pendens in that forum. The applicant is left in a quandary: Should she be unsuccessful in her main claim, would she be non-suited to pursue her unfair dismissal claim in the ordinary course?
+
+[7]    This type of situation is foreshadowed in section 158(2)(b) of the LRA. It provides:3
+
+If at any stage after a dispute has been referred to the Labour Court, it becomes apparent that the dispute ought to have been referred to arbitration, the Court may–
+stay the proceedings and refer the dispute to arbitration; or
+if it is expedient to do so, continue with the proceedings, in which case the Court may only make any order that a commissioner or arbitrator would have been entitled to make: Provided that in relation to the question of costs, the provisions of s 162(2)(a) are applicable."
+
+[8]    In this case, should the employee be unsuccessful with her claim of automatically unfair dismissal, it would certainly be "expedient" for the court to consider her alternative claim. The special plea was premised on the wording of the subsection prior to the recent amendment. In terms of the previous wording, the court could only continue with the proceedings "with the consent of the parties". Those words were removed by the  
+[2015] JOL 34463 (LC)  at 4
+Amendment Act that came into operation on 1 January 2015.4 Hence the employer's consent is no longer needed.
+
+[9]    After the amendment, the fact that Cheil SA has not consented to the court hearing the unfair dismissal dispute becomes irrelevant. Should the court at that stage, and if the employee is unsuccessful with her main claim, consider it expedient to hear the alternative claim, it will have jurisdiction to do so.
+
+[10]    The first special plea is dismissed.
+
+Second special plea: jurisdiction with respect to the main claim under section 187(1)(d) [lodging of grievance]
+
+[11]    The applicant contends in her statement of claim that her dismissal was automatically unfair as envisaged in section 187(1)(d) of the LRA as she was dismissed by virtue of having exercised her rights conferred by the Act or participating in any proceedings in terms of the Act. The basis for that claim is that she filed a grievance and enforced her rights in terms of the LRA.
+
+[12]    It has been held in De Klerk v Cape Union Mart International (Pty) Ltd5 that this Court does have jurisdiction to hear such a claim. In that case, the employer's exception was dismissed.
+
+[13]    The respondent in this case argues that, for the employee to sustain this cause of action, it is necessary for her to plead sufficient facts to establish a causal connection between the lodging of the grievance and the dismissal.
+
+[14]    This is a matter for evidence which cannot be determined at this juncture. The second special plea is dismissed.
+
+Third special plea: jurisdiction/lack of cause of action under subsections 187(1)(d) and (h)
+
+[15]    The respondent contends that the controversy between the parties arose when the applicant used its 2012 Annual Review and Incentive Proposal  
+[2015] JOL 34463 (LC)  at 5
+at the CCMA conciliation proceedings. It says that the document is confidential and that the employee did not have permission to use it.
+
+[16]    The employee contends that she was dismissed for having made a protected disclosure, ie by disclosing the document at CCMA conciliation. She says that her dismissal was automatically unfair in terms of section 187(1)(h) of the LRA.
+
+[17]    The respondent argues that, as a matter of law, the applicant has not established that she was entitled to be in possession of the document or that she obtained it lawfully. Mr Boda argued that her use of the document at conciliation could not amount to a protected disclosure nor was it lawful.
+
+[18]    Whether or not the disclosure was a protected one as defined in the Protected Disclosures Act6 is best determined after hearing evidence at trial. Mr Lennox, for the applicant, suggested that the disclosure of the document at conciliation was, quite simply, shielded by rule 16 of the CCMA Rules. I agree. That rule reads as follows:
+
+Conciliation proceedings are private and confidential and are conducted on a without prejudice basis. No person may refer to anything said at conciliation proceedings during any subsequent proceedings, unless the parties agree in writing.
+No person, including a commissioner, may be called as a witness during any subsequent proceedings in the Commission or in any court to give evidence about what transpired during conciliation."
+
+[19]    The intention of the rule was confirmed in Hofmeyr v Network Healthcare Holdings (Pty) Ltd.7 And in Van Metzinger v Conservation Corporation8 the court held that rule 16 does not permit reference to any discussions held during conciliation in subsequent proceedings and evidence relating to such discussions must therefore be rejected. As Van Niekerk J pointed out in Gold Fields Mining SA (Pty) Ltd (Kloof Gold Mine) v CCMA:9
+
+ 
+[2015] JOL 34463 (LC)  at 6
+
+"The dispute resolution system established by the LRA places a premium on conciliation."
+
+[20]    Part of this premium must be that the parties at conciliation can speak freely and refer to documents without a residual fear that they could be disciplined as a result thereof. As the learned authors note in Labour Relations Law: A Comprehensive Guide,10 the term "said" in CCMA rule 16 probably includes documents disclosed during conciliation.
+
+[21]    The third special plea is dismissed.
+
+Costs
+
+[22]    None of the respondent's special pleas has succeeded. Both parties asked for costs. I see no reason in law or fairness to interfere.
+
+Order
+
+The special pleas raised by the respondent are dismissed with costs.
+
+
+
+Footnotes
+1	  Labour Relations Act 66 of 1995.
+2	  LRA s 191(5)(a)(i).
+3	  The subsection has been substituted by s 26(c) of the Labour Relations Amendment Act 6 of 2014. As the learned authors in Du Toit et al Labour Relations Law: A Comprehensive Guide (6 ed, 2015 LexisNexis at 189) point out, such an order by the Labour Court is open only to appeal and not to review. The contrary view would be untenable.
+4	  Proclamation R87, 2014 (Government Gazette 38317, 19 December 2014).
+5	  (2012) 33 ILJ 2887 (LC) at paras [29] – [38].
+6	  Act 26 of 2000.
+7	  [2004] 3 BLLR 232 (LC) [also reported at  [2004] 3 BLLR 232 (LC) – Ed] at paras [5]–[6].
+8	  (2013) 34 ILJ 1309 (LC). See also Langa v Skyline Logistics (2014) 35 ILJ 1584 (LC) at para [39].
+9	  [2009] 12 BLLR 1214 (LC) [also reported at [2009] JOL 23897 (LC) – Ed] at para [11].
+10	  Du Toit et al Labour Relations Law: A Comprehensive Guide (6 ed, 2015 LexisNexis) at 142 fn 175.
+
+Appearance:
+Adv MA Lennox, Stewart-Garden Attorneys (At); Adv FA Boda, Adv S Tilly, Kramer Villion Norris (R)
+
+
+End of Document

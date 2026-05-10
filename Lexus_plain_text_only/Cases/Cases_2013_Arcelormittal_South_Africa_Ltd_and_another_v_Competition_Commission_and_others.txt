@@ -1,0 +1,353 @@
+
+
+
+
+Arcelormittal South Africa Ltd and another v Competition Commission and others [2013] JOL 30105 (CAC)
+Judgments Online
+
+Division: Cape Town
+Case No: 103/CAC/Sep10
+Hearing Date(s): None Indicated
+Judgment Date(s): 20 / 04 / 2012
+Bench: Davis JP, Mailula, Dambuza JJA
+
+
+Keywords
+
+
+Competition law — Practice and procedure — Leniency application — Access to documents
+
+Mini Summary
+
+
+In April 2008, the Competition Commission initiated a complaint against various steel producers in South Africa regarding the fixing of trade conditions and prices in respect of certain steel products. Both appellants were respondents in the complaint referral proceedings.
+
+After the first respondent delivered its founding affidavit in the complaint referral, the first appellant requested access to documents, invoking the Commission’s rules (‘the CC rules’) in particular rule 15 read together with rule 14 and the Uniform Rules of the High Court; in particular rules 35(12) and (14). Access to the majority of the documents was refused, as a result of which the first appellant applied to the Competition Tribunal for the necessary access. The Tribunal granted access to three further documents but dismissed with costs the application for access to the other documents which had been requested. The first appellant now appealed against that decision. The first appellant also sought to review the Tribunal’s decision. It contended that, if the Court found that it had jurisdiction to hear and uphold the appeal, the review would not be necessary.
+
+The sole basis upon which the Tribunal refused access to the Commission’s record was in terms of the provisions section 37(1) (b) of the Promotion of Access to Information Act as they were adopted by Competition Commission rule 14(1)(e). Accordingly, the Tribunal found the entire record to be restricted information. It was held that the Commission had exercised a discretion to withhold the documents in terms of the discretion afforded to it by section 37(1)(b) of the Promotion of Access to Information Act 2 of 2000 and had done so on reasonable grounds, thus making them restricted information.
+
+Held that a party who submits confidential information to the Commission must identify the information which it claims to be confidential, and the Commission is bound by such a claim. A person who seeks access to information, that is subject to a claim that is confidential, may apply to the Tribunal in prescribed manner and form. The Tribunal may determine whether the information is confidential, and if it is, make an appropriate order concerning to access of information. Pending the resolution of any dispute, the Commission must continue to treat the information as confidential.
+
+The present complaint dealt specifically with whether a party is entitled to documents which form part of a leniency application and which are clearly referred to by the Commission in its complaint. To the extent that the second respondent claimed confidentiality in respect of documents in its leniency application to the Commission, the position was governed by sections 44 and 45 of the Act. Therefore, until such time as the appellants made a proper application in terms of section 45 for access to the documents, the claim of confidentiality had to be respected.
+
+The present Court could only remit the matter to the Tribunal to decide the issues relating to the confidentiality claim in terms of which the Tribunal would be able to take account of all relevant facts in so assessing an application in terms of section 45(1).
+
+ 
+[2013] JOL 30105 (CAC) at 2
+
+
+
+
+Introduction
+
+[1]    The two appellants in this case sought the production of certain documents from second respondent ("the Commission"). Both appellants are respondents in complaint referral proceedings which have been brought against them and three other parties by first respondent in which it is alleged that they, together with other firms, contravened section 4(1)(b)(i) and/or (iii) of the Competition Act 89 of 1998 ("the Act") by engaging in various forms of price fixing, information sharing and market division in respect of certain long steel and flat steel products.
+
+[2]    Of particular relevance to these proceedings are paragraphs 8.7 to 8.10 of the referral affidavit which provide thus:
+
+On 21 July 2008 Scaw applied for leniency in terms of the Commission's CLP for price fixing and market allocation in relation to rebar, wire rod, sections (including rounds, squares, angles and profiles).
+Scaw confirmed in the application for leniency that there has been a long standing culture of cooperation amongst the steel mills regarding the prices to be charged, and discounts to be offered, for their steel products such as rebar, wire rod, sections (including  
+[2013] JOL 30105 (CAC) at 3
+rounds and squares, angles and profiles). The cooperation extended to arrangements on market division.
+In addition to information submitted by Scaw in its leniency application, the Commission conducted its own investigations which largely confirmed the allegations made by Scaw and provided further evidence of anticompetitive practices in contravention of section 4(1)(b) of the Act – involving both price fixing and market division.
+It is a consequence of information contained in the Scaw application for leniency and that obtained from the Commission's investigations that this referral is made."
+
+[3]    It appears that, after first respondent delivered its founding affidavit in this complaint referral, first appellant requested access to documents, invoking the Commission's rules ("the CC rules") in particular CC rule 15 read together with rule 14 and the uniform rules of the High Court; in particular rules 35(12) and (14). Access to the majority of these documents was refused, as a result of which first appellant applied to the Tribunal for the necessary access. The Tribunal granted first appellant access to three further documents but dismissed  
+[2013] JOL 30105 (CAC) at 4
+with costs its application for access to the other documents which it had so requested. It is against this decision that first appellant now appeals.
+
+[4]    First appellant has also sought to review the Tribunal's decision. It contends that, if this Court finds that it has jurisdiction to hear and uphold the appeal, the review will not be necessary. First appellant contends that the Tribunal erred in its interpretation application of CC rule 15(1), CC rule 14(1)(c)(i) read together with CC rule 14(1)(e) and with section 37(1)(b) of the Promotion of Access to Administrative Justice Act 3 of 2000 ("PAJA").
+
+[5]    Second appellant applied for an order compelling first respondent to make discovery of those documents which comprised the leniency application of second respondent ("Scaw"). In making this application, second appellant relied on narrower grounds than had been invoked by first appellant namely, it relied solely upon the principles which underpin rule 35(12) of the uniform rules of the High Court, namely that any document to which reference is made in an opponent's pleadings must, if requested, be produced for inspection and copying. This application was also dismissed by the Tribunal, as a result of which, second appellant has appealed to this Court against the decision of the Tribunal.
+
+ 
+[2013] JOL 30105 (CAC) at 5
+
+Factual background
+
+[6]    On 22 April 2008, the Commission initiated a complaint in terms of section 49B(1) of the Act against various South African producers of long and flat steel products. At this stage, it was not alleged that there had been a possible contravention of section 4(1)(b) of the Act by the producers of long steel products.
+
+[7]    Paragraph 3 of the initiation statement contained a description of the conduct which first respondent intended to investigate:
+
+"STATEMENT OF CONDUCT
+
+The information set out in paragraph 2.1 above establishes reason to believe that Trident, MacSteel, Robor, Pro-Roof and Kulungile might be engaged in fixing of trading conditions and prices of carbon steel products (i.e. HRC, HDC and CRC) through inter alia the following conduct:
+
+Agreeing and/or arranging to maintain high margins for carbon steel products such as HRC, HDG and CRC;
+
+The information set out in paragraph 2.1 above establishes reason to believe that Trident, MacSteel, Robor, Pro-Roof and Kulungile might be engaged in fixing of prices of structural steel product through inter alia the following conduct: 
+[2013] JOL 30105 (CAC) at 6
+Agreeing and/or arranging to increase/maintain high prices for structural steel products such as reinforcement steel or rebar;
+
+The information set out in paragraph 2.2 above establishes reason to believe that the five steel mills, Mittal, Scaw, Highveld, Cape Gate and CISCO might be involved in exclusive dealing with the steel merchants; Trident, MacSteel, Robor and Kulungile in contravention of section 5(1) of the Act, through inter alia the following conduct:
+
+Concluding and implementing an exclusive agreement that has the effect of substantially preventing or lessening competition in the steel traders market, in that it prevents steel merchants from importing steel and results in consumers paying higher prices for carbon steel products.
+
+I therefore initiate a complaint in terms of section 49(B)(1) of the Act, against Mittal, Highveld, Scaw, Cape Gate, trident, MacSteel, Robor, Pro-Roof and Kulungile."
+
+[8]    From this initiation statement it appears that the central allegation concerned contraventions of section 4(1)(b) by various steel merchants, namely  
+[2013] JOL 30105 (CAC) at 7
+Trident, Macsteel, Robor, Pro-Roof and Kulungile. In paragraph 2.1 of the initiation statement, first respondent avers as follows:
+
+"The First to Fifth Respondents are steel merchants competing in the national market for the processing, distributing and trading in carbon steel plate and sheet products and heavy , medium and light structural carbon steel ('the steel traders market'). The steel producers also sell to end consumers directly in competition with the steel traders. The Commission suspects that the steel traders may be involved in fixing of trading conditions and prices of carbon steel products and structural carbon steel products in contravention of section 4(1)(b)(i) of the Act in that:"
+
+Thus, the Commission's investigation at this stage of the process concentrated on the steel traders, as opposed to the steel producers.
+
+[9]    On 5 June 2008, a further form CC 1 was generated by first respondent, the purpose of which was to include the South African Iron and Steel Institute ("SAISI") as a respondent in the investigation. On 19 June 2008, the Commission, acting in terms of section 46 of the Act, raided the premises of Highveld Steel and Vanadium Corporation Limited, Cisco and SAISI.
+
+ 
+[2013] JOL 30105 (CAC) at 8
+
+[10]    On 27 June 2008, SCAW "submitted a marker application" in terms of the Commission's Corporate Leniency Policy ("CLP") in relation to alleged agreements in contravention of section 4(1)(i) and (ii) of the Act concluded between it, Cape Gate, Mittal and Cisco. On 9 July 2008, SCAW filed a formal application for leniency under the CLP and was granted conditional leniency on 17 July 2008.
+
+[11]    On 1 September 2009 first respondent filed a complaint referral in terms of section 50(1) of the Act which cited first and second appellants together with fourth respondents and seventh and eight respondents. In the complaint referral, the Commission alleged that the producers of long steel products had entered into various agreements and/or arrangements involving the fixing of prices of long steel products as well as a division of markets in contravention of section 4(1)(b)(i) and (ii) of the Act. On 10 September 2009, Cape Gate filed a notice, couched in the form of the rule 35(12) of the uniform rules of the High Court, in terms of which it called upon the Commission to make the leniency application, including annexures to the application, available for inspection and copying. On 18 September 2009, first appellant's attorneys requested the Commission to provide it with the record in its possession, this application being based in terms of CC rules 14 and 15.
+
+ 
+[2013] JOL 30105 (CAC) at 9
+
+[12]    On 5 October 2009 the Commission replied to first appellant, rejecting the former's view that rule 35(12) and (14) of the uniform rules of the High Court "assisted your client". The letter concluded:
+
+Kindly indicate when your client's answering affidavit will be filed.
+The Commission reserves all its rights to amplify what is stated in this letter should it become necessary to do so."
+
+In respect of the request by second appellant, the Commission's reply on 5 October 2009 stated, inter alia, that the leniency application was subject to litigation privilege. Notwithstanding further correspondence, first respondent insisted that the documents sought by the appellants could not be so provided.
+
+[13]    Before proceeding to analyse the arguments which were raised on appeal, it is necessary to describe the documents which have been sought by the two appellants, as the two requests differ.
+
+[14]    First appellant seeks documents which were listed in AM1 to its rule 35(12) and (14) notice. It persists only in respect of the following documents:
+
+ 
+[2013] JOL 30105 (CAC) at 10
+ 
+[2013] JOL 30105 (CAC) at 11
+
+In its view, each of these documents was referred to by the Commission in the referral affidavit.
+
+[15]    The Commission concedes that it referred to item 2, that is, the marker application and the leniency application, but does not admit that it referred to the other documents as described. First appellant contends that, on a review of each of the paragraphs in the list, the Commission referred to specific documents in its possession and these are documents that the Commission can so identify.
+
+[16]    Second appellant's case is expressed in simple terms. It refers to its notice of motion, which it contends, contained but a single prayer, that is, it asked the Tribunal to grant an order directing first respondent to make "the third respondent's (Scaw) corporate leniency application available for inspection and copying".
+
+[17]    Accordingly, it is second appellant's case that what it requires is the documents submitted to first respondent, in which leniency was sought by Scaw; that is all documents including letters, faxes, emails and other forms of correspondence, notes, tape recordings electronic data as well as minutes of  
+[2013] JOL 30105 (CAC) at 12
+meetings that were annexed to the leniency application and/or submitted by Scaw in support of its request for leniency.
+
+The appeal
+
+[18]    The sole basis upon which the Tribunal refused access to the Commission's record was in terms of the provisions of section 37(1)(b) of PAIA as they were adopted by CC rule 14(1)(e). Accordingly, the Tribunal found the entire record to be restricted information.
+
+[19]    The relevant portions of CC rule 14(1), for the purpose of this dispute, provide:
+
+"For the purpose of this part, the following five classes of information are restricted –
+
+Information –
+that has been determined to be confidential information. . .
+that, in terms of s 45(3), must be treated as confidential information;
+. . . 
+[2013] JOL 30105 (CAC) at 13
+Information that has been received by the Commission in a particular matter, other than that referred to in paragraphs (a) and (b), as follows:
+the Description of Conduct attached to a complaint, and any other information received by the Commission during its investigation of the complaint, is restricted information until Competition Commission issues a referral or notice of non-referral. . .
+
+. . .
+
+an application and any information received by the Commission during its consideration of the application, or revocation of an exemption granted to the applicant, is restricted information only to the extent that is restricted in terms of paragraph (a).
+. . .
+Any other document to which a public body would be required or entitled to restrict access in terms of PAIA."
+
+[20]    Section 37(1)(b) of PAIA provides:
+
+"Subject to subsection (2), the information officer of a public body –
+
+may refuse a request for access to a record of the body if the record consists of information that was supplied in confidence by a third party – 
+[2013] JOL 30105 (CAC) at 14
+ (i) the disclosure of which could reasonably be expected to prejudice the future supply of similar information, or information from the same source; and
+if it is in the public interest that similar information or information from the same source should continue to be supplied."
+
+[21]    Following upon these provisions, the Tribunal held that the documents sought by both appellants 'remain susceptible to being claimed as restricted information in terms of rule 14(1)(e) of the Commission's rules. The Commission exercised a discretion to withhold these documents in terms of the discretion afforded to it by section 37(1)(b) of PAIA and has done so on reasonable grounds, thus making them restricted information. In the circumstances, AMSA's application for the documents to be disclosed in terms of Commission rule 50(1) is dismissed.
+
+[22]    Mr Van der Nest, who appeared together with Mr Turner on behalf of first appellants, submitted that the problem with this form of reasoning was that the use of the word "other" in CC rule 14(1)(e) distinguished documents contemplated under this rule from the categories of information which are set out  
+[2013] JOL 30105 (CAC) at 15
+in subparagraph (a)–(d). Where a document falls within one of these categories, rule 14(1)(e) does not apply. Section 14(1)(c)(ii) contemplates an application, such as an application for leniency. It confirms that the restriction on such an application is limited to a claim of confidentiality. In Mr Van der Nest's view, it is not necessary or appropriate for a second layer of restriction to be applied in terms of rule 14(1)(e). Furthermore, when the request for the record was made, second respondent did not rely on section 37(1)(b) of PAIA. No allegation was made on the papers that any steps were so taken by the Information Officer of the Commission, who is the Competition Commissioner. For these reasons, first appellant contends that the jurisdictional facts necessary to rely on the section were missing on the papers and, accordingly, the Tribunal should not have enforced this provision.
+
+[23]    In order for this section to be invoked, the Commission was required to establish, on the probabilities that, if the information was so disclosed, prejudice could reasonably be expected to occur. In Transnet Ltd and another v SA Metal Machinery Co (Pty) Ltd 2006 (6) SA (285) (SCA) at paragraphs 38–41 [also reported at [2006] 1 All SA 352 (SCA); [2005] JOL 16170 (SCA); 2006 (4) BCLR 473 (SCA) – Ed], Howie P examined, albeit within the context of section 36 of PAIA, the meaning of the words "could reasonably be expected". He concluded that "what can be expected is accordingly the contemplation of something that will, not might, happen. If we say we are expecting someone this evening we mean that we think that person will be coming, not merely might be". Accordingly, to invoke section 37(1)(b) PAIA, it  
+[2013] JOL 30105 (CAC) at 16
+followed that first respondent was required to establish, on a balance of probabilities, that, if the requested information was disclosed, prejudice to a future supply of information would probably occur.
+
+[24]    Mr Maenetje, who appeared with Mr Jele on behalf of the Commission, submitted that there were a number of considerations which justified why an applicant for immunity under the CLP ought not to be exposed to the risk of premature disclosure of its full and frank communications with the Commission during the CLP process. In his view, the very purpose of CLP is to provide an incentive for a member of a cartel to come forward and expose the existence of the cartel, particularly in situations where the Commission could not have been aware of the existence of the cartel, or had insufficient information for an investigation to have been initiated. The process is thus undertaken on a confidential basis. Disclosure of any information submitted by an applicant, prior to immunity being granted, but during the process can be made with the consent of the applicant, provided that the consent will not unreasonably be withheld by the applicant. Thus premature disclosure would act as a deterrent to a party to come forward and participate in the CLP process.
+
+ 
+[2013] JOL 30105 (CAC) at 17
+
+[25]    In support of this submission Mr Maenetje referred to the position in the European Union as outlined by Richard Whish Competition Law (6ed) at 278:
+
+"The Commission acknowledges in the introduction to the Leniency Notice that the making of corporate statements ought not to expose undertakings to risks in civil litigation not experienced by undertakings that do not cooperate with it. . . .
+
+The Leniency Notice discussed how corporate statements may be made, and makes specific provision for such statements to be oral rather than written. The reason for this is the fear that, if a corporate were to make a written corporate statement, this might be discoverable in the event of a treble damages action in the US: this might deter the undertaking from blowing the whistle at all, in which case the cartel might go undetected. As it is not a document of the whistle-blower it cannot be discovered from it; and any attempt by a US Court to demand that the Commission should hand its own document over would probably fail on public interest grounds."
+
+[26]    An answer to these justifications is that a leniency applicant cannot expect that any of the information or evidence or documents submitted to the Commission will continue to remain secret and protected from disclosure to  
+[2013] JOL 30105 (CAC) at 18
+respondents in a cartel complaint. Indeed, Scaw confirmed in its answering affidavit to these proceedings, that it was told and understood that it would be required to disclose all of this material:
+
+"Leniency is premised on compliance by the applicant with a number of obligations including 'the applicant must honestly provide the Commission with complete and truthful disclosure of all evidence, information and documents in its possession or under its control relating to any cartel activity' and 'the applicant must offer full and expeditious co-operation to the Commission concerning the reported cartel activity. Such co-operation should be continuously offered until the Commission's investigations are finalised and the subsequent proceedings in the Tribunal or Appeal Court are completed'".
+
+The question which thus stands to be determined in the present dispute is whether, if the information requested is disclosed, it would create the reasonable expectation envisaged in section 37 of PAIA. It is thus necessary to interrogate appellant's requests.
+
+What first appellant requires to be disclosed?
+
+[27]    In first appellant's founding affidavit in support of its application to inspect documents in the possession of the Commission, Mr Benedict Chite, the internal legal counsel of first appellant, set out first appellant's case thus: 
+[2013] JOL 30105 (CAC) at 19
+"AMSA wishes to deal properly and pertinently with the allegations made against it in the referral affidavit. At the moment, without proper particularity of any alleged prohibited practice after April or June 2005, AMSA is not in a position to do so. One way in which particularity may be obtained is to obtain the documents referred to by the Commission and relied upon by it in the referral affidavit."
+
+[28]    Somewhat later in his affidavit, Mr Chite claims the following:
+
+"The documents specified in the schedule attached marked 'AM1', are documents referred to in the founding affidavit and annexures thereto, alternatively documents that must have been available to the Commission when the referral affidavit was prepared."
+
+This passage of the affidavit appears to extend the application for disclosure beyond the referral affidavit and the annexures thereto. In other words, if first appellant wishes to deal properly and pertinently with the allegations made against it in the referral affidavit, first appellant contends that it stands to reason that it may well require not only the referral affidavit but all the documents which have also been referred to in the Commission's referral affidavit and those that must have been so available. In brief, it contends that the very purpose of this application is to enable first appellant to formulate a proper response to the  
+[2013] JOL 30105 (CAC) at 20
+allegations made in the referral affidavit. To the extent that it requires the referral affidavit and the annexures thereto, documents, which were relied upon by the Commission in its referral as is evident from the referral affidavit, first appellant is entitled thereto, in the light that no case has been made out beyond speculation which would show, on the probabilities, as to why disclosure falls within section 37 of PAIA.
+
+Second appellant's case
+
+[29]    Second appellant requires the document submitted to the Commission in which leniency was sought by Scaw and all documents that were annexed to that leniency application and/or submitted by Scaw in support of its request for leniency. In other words, what second appellant required were the constituent elements of a single corporate leniency application that Scaw had submitted to the Commission. Its case was that the corporate leniency application of Scaw was not a single document but a set of documents, which made up the total leniency application
+
+[30]    Second respondent relied for its request on High Court rule 35(12) which provides as follows: 
+[2013] JOL 30105 (CAC) at 21
+"Any party to any proceeding may at any time before the hearing thereof deliver a notice as near as may be in accordance with Form 15 in the First Schedule to any other party in whose pleadings or affidavits reference is made to any document or tape recording to produce such document or tape recording for his inspection and to permit him to make a copy or transcription thereof. Any party failing to comply with such notice shall not, save with the leave of the Court, use such document or tape recording in such proceeding provided that any other party may use such document or tape recording." (Emphasis added)
+
+[31]    The purpose of this rule has been confirmed in a number of judgments. See, for example, Erasmus v Slomowitz (2) 1938 TPD 242 at 248, where it was held that a party is entitled to the production of documents referred to in the pleadings or affidavits with the specific purpose of considering its position. See also Unilever plc v Polagric (Pty) Ltd 2001 (2) SA 392 (C) at 336.
+
+[32]    In Allens Meshco and others v the Competition Commission (Case number: 63/CR/Sep09) at paragraph 8 the Tribunal set out two principles in relation to the provision of documents in the case such as the present one. In particular, it held that "where a document is relied on to support a relevant allegation in the  
+[2013] JOL 30105 (CAC) at 22
+pleadings, it should be provided, usually by way of attachment as an annexure to the pleading although for practical purposes this may not always be possible. Typically if one quotes from a document it should be provided. However a document may also be provided without being expressly quoted, and in these circumstances it should be provided as well". (at paragraph 8)
+
+[33]    The second principle which the Tribunal set out was "the inference of the existence of a document is not sufficient to create an obligation to disclose such a document". Later in its determination the Tribunal appeared to have suggested a third principle, namely, the document issued should/must be required by the applicant in order to plead to the allegations.
+
+[34]    Mr Campbell, who appeared together with Mr Gotz on behalf of the second appellant, cited the case of Erasmus, supra, at 244 to the effect that rule 35(12) did not require that a document be quoted or summarised in the pleadings. All that was required was a reference by an opponent in her pleading or affidavit to the document whereof such production is required, "but the terms of the Rule do not require a detailed or descriptive reference to such documents". Erasmus v Slomowitz at 244.
+
+ 
+[2013] JOL 30105 (CAC) at 23
+
+[35]    Second appellant contends that the Commission's referral affidavit clearly referred to Scaw's corporate leniency application and that accordingly, in terms of rule 35(12) it was entitled to the documents which formed part of that application. The relevant portion of this affidavit reads thus:
+
+On 21 July 2008 Scaw applied for leniency in terms of the Commission's CLP for price fixing and market allocation in relation to rebar, wire rod, sections (including rounds, squares, angles and profiles).
+Scaw confirmed in the application for leniency that there has been a long standing culture of cooperation amongst the steel mills regarding the prices to be charged, and discounts to be offered, for their steel products such as rebar, wire rod, sections (including rounds and squares, angles and profiles.) The cooperation extended to arrangements on market division.
+In addition to information submitted by Scaw in its leniency application, the Commission conducted its own investigations which largely confirmed the allegations made by Scaw and provided further evidence of anticompetitive practices in contravention of section 4(1)(b) of the Act – involving both price fixing and market division. 
+[2013] JOL 30105 (CAC) at 24
+It is as a consequence of information contained in the Scaw application for leniency and that obtained from the Commission's investigations that this referral is made."
+
+This portion of the referral affidavit clearly refers not only to the formal leniency application form but to documentation which formed part of that application. Accordingly, the Tribunal ought to have accepted that, once a reference was made in the referral affidavit to these documents, nothing more was required to be shown by an applicant in order to have that document made available for the purposes of a response to the allegations set out in the referral affidavit.
+
+[36]    In my view, second appellant has made out a case that it requires the documents to assess its position and understand the case made out against it before delivering its answering affidavit within the framework of rule 35(12) and the interpretation thereof as set out in the decisions cited in this judgment.
+
+[37]    That, however, is not the end of the matter. The Commission also raised the question of litigation privilege and Scaw has also raised the question of confidentiality in terms of sections 44 and 45 of the Act. I therefore turn to deal first with the question of litigation privilege.
+
+ 
+[2013] JOL 30105 (CAC) at 25
+
+Litigation privilege
+
+[38]    The Commission contended that the documents required by appellants fell within the scope of litigation privilege. In particular, it argued that it had met the requirements that litigation privilege should apply to these documents because the documents were generated in contemplation of litigation. The leniency application documents were compiled for the dominant purpose of litigation before the Tribunal in contested complaint proceedings and to place it before its legal advisors for advice in respect of such litigation.
+
+[39]    The Commission contended further that litigation arises when litigation is "in prospect or pending". The CLP was established for the purpose of gathering information from cartel participants in order to prosecute the remaining members of the cartel in exchange for immunity from prosecution for the applicant. Accordingly, this whole purpose of the system was that of litigation before the Tribunal. Regardless of whether the Commission has already commenced an investigation prior to an application for leniency, information from a CLP is always furnished in a context when litigation is in prospect or anticipated. Whatever the motive of the leniency applicant, its intention was to provide the Commission with evidence which could be used to litigate against the remaining cartel members.
+
+ 
+[2013] JOL 30105 (CAC) at 26
+
+[40]    By contrast, appellants contended that while any communications between the Commission and its legal advisors in relation to the complaint referral would be privileged, the present dispute did not involve these communications. It involved rather a document that was brought into existence by or on behalf of Scaw, an independent third party and provided to the Commission for the purpose of obtaining leniency.
+
+[41]    In United Tobacco Companies (South) Ltd v International Tobacco Company of South Africa Limited 1953 (1) SA 66 (T) at 68E [also reported at [1953] 1 All SA 200 (T) – Ed], Clayden J citing Ross The Law of Discovery at 221 held that where communications passed not between a party and his or her lawyers but between a party and a third party, they were not privileged unless made:
+
+For the purpose of litigation existing or contemplated; and
+In answer to enquiries made by the party as the agent for or at the request or suggestion of his legal advisor, and though there have been no requests for the purpose of being laid before the legal advisor with the view to obtaining his/her advice or to enable him or her to conduct the action; that is to prepare the brief. 
+[2013] JOL 30105 (CAC) at 27
+
+[42]    Zeffertt and Paizes The South African Law of Evidence (2ed) at 682 contend on the basis of this judgment that there is a clear difference between two forms of privilege; that is privilege between a party and a legal advisor and privilege in respect of communications from independent third parties, in which case the scope of the privileged is narrower. Although, as Mr Campbell correctly observed, these passages in Zeffertt and Paizes are not entirely clear, there is clarity to the extent that the information for which privilege is claimed must have been made in contemplation of litigation.
+
+[43]    In this case, the leniency application was prepared by Scaw to secure leniency in terms of the CLP. It was, in other words, an application contemplated in terms of CC rule 14(1)(c)(ii). Accordingly, Scaw acted as an independent third party seeking leniency under the policy. The leniency application which had been prepared had not been submitted to a legal advisor in order to enable the latter to advise Scaw. It was made expressly and exclusively for the purposes of applying for leniency, knowing that at some point the Commission could use the material for purposes of litigation.
+
+[44]    The different requirements for litigation privilege concerning documents generated by a third party include: 
+[2013] JOL 30105 (CAC) at 28
+"First, that the information had to be obtained for the purpose of submission to a legal advisor for legal advice and, second, that litigation had to be pending or contemplated. These requirements, taken from the English law, apply without difficulty to the standard situations relating to communications from non-professional agents and to independent third parties (that is to so–called witness statements) made for the purpose of submission to a legal adviser." Zeffert and Paizes at 674
+
+Murphy On Evidence (12ed) at 498 brings greater clarity to the meaning of "for the purposes of litigation" within the context of third party documents. He writes as follows:
+
+"At common law, communications passing between lawyer and client and materials prepared for the purpose of litigation are privileged. The term 'legal professional privilege', which is not entirely satisfactory, is used to describe two distinct rules. The first is the rule that communications between lawyer and client, made in the course of seeking and giving advice within the normal scope of legal practice, are privileged in all cases, at the instance of the client. The second is the rule that communications passing between a client or his legal adviser and third parties in contemplation of actual litigation are privileged, provided that use for the purpose of litigation is at least the dominant purpose of the communications; in this case too, the privileged is that of the client. In both cases, it is immaterial whether the communication is with advisers or  
+[2013] JOL 30105 (CAC) at 29
+third parties in England or elsewhere, or whether the contemplated litigation may take place in England or elsewhere."
+
+Regarding communications with third parties, Murphy submits at 506:
+
+"Communications made between a party (or his legal adviser on his behalf) and a third party are privileged at the instance of the party if, but only if, they are made for the specific purpose of pending or contemplated litigation.
+
+The requirement that the communication be made for the purpose of pending or contemplated litigation is one which limits very considerably the material which is so privilege, and represents an important distinction between this and the case of communications between client and legal adviser."
+
+[45]    When the CLP was completed on 9 July 2008, there was no litigation which was pending or anticipated. Appellants therefore contend that litigation only commenced in the Tribunal when the complaint referral was filed. The fact that the Commission may have requested that Scaw file an application for leniency by 9 July 2008 did not mean that the Commission had requested the application for the purposes of litigation. In its answering affidavit, the Commission states: 
+[2013] JOL 30105 (CAC) at 30
+"When it made the initiation the Commission as a corporate body and as an investigator knew at the outset that litigation before the Tribunal would result in investigation."
+
+However, this averment does not accord with the background to the documents prepared by Scaw and the express purpose of Scaw when it completed these documents. When the Commission issued its initiation statement, there was, as has been noted above, no allegation of a contravention of section 4(1)(b) of the Act against producers of long steel products. Paragraph 3 of this statement shows that the Commission was not in fact investigating allegations of a contravention of section 4(1)(b) of the Act against Mittal, Scaw, Cape Gate and Cisco. The initiation statement only contained allegations of possible contraventions of section 4(1)(b) by the steel merchants. On 22 April 2008 with the initiation of the complaint by the Commission, there could not be said to be a probability or likelihood that Scaw would be involved in litigation. By 27 June 2008, when Scaw submitted its marker application and after the aCC1 form had been issued for SAISA, the possibility of litigation may have arisen. However, only after the leniency application was submitted, could it be said that litigation was probable, in that the Commission was now appraised of the necessary information to initiate the relevant litigation. In any event, the leniency application was not submitted to the Commission for the purpose of the latter commencing litigation against Scaw.
+
+ 
+[2013] JOL 30105 (CAC) at 31
+
+[46]    For these reasons, appellants have raised persuasive arguments that the concept of litigation privilege, as developed in South African law, may not extend to documents which were provided by Scaw as part of its interaction with the Commission to secure leniency in terms of CLP, and only after which a probability of the complaint referral against appellant arose. However, for reasons that follow, the resolution of this specific issue is strictly unnecessary in order to adjudicate this particular case.
+
+The claim of confidentiality
+
+[47]    Mr Butler, who appeared together with Ms Hofmeyr, on behalf of Scaw contended that documents submitted by Scaw had been made subject to claims of confidentiality. Accordingly, the Commission was bound to treat the information as confidential in terms of section 44(2) of the Act and appellants ought to have applied to the Tribunal in terms of section 45(1) of the Act, read with Tribunal rule 13, for access to these documents. No such application had been made, in particular by first appellant. Therefore the Commission was bound to treat these documents as confidential and to refuse appellant's access thereto.
+
+[48]    In short, Scaw's submission was that first appellant's application in terms of rules 14 and 15 was premature and it ought to have sought a ruling by the  
+[2013] JOL 30105 (CAC) at 32
+Tribunal in respect of the confidentiality of these documents. Furthermore, Scaw contended in respect of second appellant's case that it did not follow that rule 35 of the rules of the High Court trumped sections 44 and 45 of the Act. It therefore follows that if Scaw's argument is correct, appellants cannot obtain access to the requested documents, until they have successfully applied to the Tribunal in terms of section 45(1) of the Act.
+
+[49]    The careful crafting of section 44 sets out a procedure which required the following steps to be followed.
+
+A party [that – Ed] submits confidential information to the Commission must identify the information which it claims to be confidential.
+The Commission is bound by such a claim.
+A person who seeks access to information, that is subject to a claim that is confidential, may apply to the Tribunal in prescribed manner and form.
+The Tribunal may determine whether the information is confidential, and if it is make an appropriate order concerning to access of information.
+Pending the resolution of any dispute, the Commission must continue to treat the information as confidential. 
+[2013] JOL 30105 (CAC) at 33
+
+[50]    By contrast, rule 35 required a party, without more, to make documents available to its opponent save for certain restricted exceptions. Once documents are discovered they are used in court and therefore can form part of a public record. Accordingly, there were clear inconsistencies between the regime set out in sections 44 and 45 of the Act and that provided for in rule 35. In the light of such a conflict, a rule could not supplant the express provision of the Act which is set out in procedure for accessing documents which had been claimed as confidential.
+
+[51]    First appellant complained that Scaw had not attached a copy of the CC7 form which it claimed confidentiality of the documents submitted to the Commissioner on 9 July 2008. This was finally made available to appellant's representatives at the hearing. It does appear, however, that, whatever the nature and merits of this complaint, a form was submitted with the leniency application on 9 July 2008 in which confidentiality was claimed.
+
+[52]    Correctly Mr Van der Nest acknowledged in a further note, which was produced at the request of this Court, that, when the Tribunal dismissed the application which resulted in this appeal, it denied access to the documents without determining the confidentiality of any documents. The basis of its refusal was that the documents were subjected to legal privilege and restricted from disclosure by reason of CC rule 14(1)(e) read together with section 37(1)(d) of PAIA. 
+
+ 
+[2013] JOL 30105 (CAC) at 34
+
+In other words, the Tribunal did not decide on the issue of confidentiality pursuant to section 45(1) of the Act. Thus this issue was not on appeal before this Court.
+
+[53]    It must be accepted that in the notice of motion before the Tribunal there was a prayer that, if the Tribunal determined any information to be confidential, that information should be provided subject to conditions and restrictions regarding access. But the issue of confidentiality, certainly in terms of section 45, was not dealt with by the Tribunal. Aware of these difficulties, first appellant submits that a sensible and practical approach would be to accept that the documents claimed by Scaw remain confidential in terms of section 44(2) but to permit access along restricted lines. See in this connection the summary of the law relating to access as capital in Sutherland et al Competition Law of South Africa at paragraph 11.7.3.
+
+[54]    The difficulty with this proposal is that it overlooks the specific provision of section 45(1) and the prescribed procedure, namely that a person who seeks access to confidential information must apply to the Tribunal. It is at the Tribunal that a range of arguments relating to confidentiality can be best considered and, if necessary, the Tribunal is empowered to provide such information, subject to conditions that it deems meet. It does not follow that this Court has original power in, terms of the provisions of the Act in general, and section 45 in particular, and thereby "short circuit" the process as set out in the Act.
+
+ 
+[2013] JOL 30105 (CAC) at 35
+
+Conclusion
+
+[55]    To summarise, it is important to emphasise the narrow scope of this case. It deals specifically with whether a party is entitled to documents which form part of a leniency application and which are clearly referred to by the Commission in its complaint. This Court has found that there is no merit in the finding of the Tribunal that documents that were provided by Scaw pursuant to the CLP are restricted from disclosure by reason of CC rule 14(1)(e), read together with section 37(1)(b) PAIA. In addition, the Tribunal failed to appreciate the principles underpinning High Court rule 35, in particular rule 35(12) and its application, namely that once the Commission had referred to the leniency application of Scaw, which by implication would include all the documents that formed part of that leniency application, second appellant was entitled in terms of rule 35(12) of the High Court rules to insist that such documents, to which reference had been made must, if requested, be produced for inspection and copying. Further, unlike rule 35(1) this entitlement did not arise only after the close of pleadings in a trial action or after both answering and replying affidavits had been filed in motion proceedings, but arose as soon as reference was made to the document in the pleading and affidavit in issue. See Protea Assurance Co Ltd and another v Waverley Agencies CC and others 1994 (3) SA 247 (C) at 249 [also reported at [1994] 1 All SA 113 (C) – Ed]. The Court also finds that, although appellants' arguments concerning legal privilege appear to have merit, it is unnecessary to make a definitive finding thereon. Irrespective of the merit of these claims, they would be trumped by a successful application brought by applicants in terms of section 45(1) of the Act.
+
+ 
+[2013] JOL 30105 (CAC) at 36
+
+[56]    Thus, to the extent that Scaw claimed confidentiality in respect of documents in its leniency application to the Commission, the position is governed by sections 44 and 45 of the Act. It follows that, until such time as the appellants make a proper application in terms of section 45 for access to these documents, the claim of confidentiality must be respected.
+
+[57]    Accordingly, the only option which is available to this Court is to remit the matter to the Tribunal to decide the issues relating to the confidentiality claim in terms of which the Tribunal will be able to take account of all relevant facts in so assessing an application in terms of section 45(1). To the extent that this issue was only raised by Scaw, the latter should be awarded its costs, it being accepted that it raised the issue timeously and properly.
+
+The order
+
+The order of the Competition Tribunal of 3 September 2010 CT case number: 61/CR/Sep06 is set aside and replaced with the following order:
+The information claimed to be confidential by Scaw as set out in form CC7 dated 9 July 2008 is remitted to the Competition Tribunal for a determination as to whether or not the information is confidential information as defined and, further, if the Tribunal so  
+[2013] JOL 30105 (CAC) at 37
+determines that the information is confidential, to consider making any appropriate order concerning access to that confidential information.
+First and second appellant jointly and severally, the one paying the other to be absolved, are ordered to pay the costs of Scaw, including the costs of two counsel.
+
+(Mailula and Dambuza JJA concurred in the judgment of Davis JP).
+
+Appearance:
+None Indicated
+
+
+End of Document

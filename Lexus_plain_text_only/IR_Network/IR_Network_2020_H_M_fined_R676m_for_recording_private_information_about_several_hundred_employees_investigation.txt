@@ -1,0 +1,48 @@
+
+
+
+
+H&M fined R676m for recording private information about 'several hundred employees,’ investigation found
+IR - News Watch
+
+H&M fined R676m for recording private information about 'several hundred employees,’ investigation found
+
+Reported on: 5 October 2020
+
+H&M has been fined $41.1 million (R676 million) after monitoring "several hundred employees," including recording extensive information about family issues, religious beliefs, and illnesses.
+
+This is the second-largest fine levied against a single company over data breaches after the EU introduced new General Data Protection Regulation laws in 2018. The largest was against Google in France in 2019 when it was fined R968 million over how it collected and handled user data for the purpose of personalizing ads.
+
+A German watchdog issued the fine for data protection violations on Thursday after a year-long investigation into what it called a "particularly intensive encroachment on employees' civil rights" at the company's service center in Nuremberg.
+
+Since at least 2014, the Swedish fashion retailer, Europe's second-largest after Spain's Inditex, has recorded details about employees, the Hamburg Commissioner for Data Protection and Freedom of Information (HmbBfDI), where the company's German headquarters sits, reported.
+
+This includes extensive information held when staff had time off work, including notes on vacation details and medical symptoms and diagnoses.
+
+Some supervisors also kept notes on employees' private lives that they had heard through workplace conversations, including family issues and religious beliefs. Supervisors stored some of these details online – making them partly readable by up to 50 other managers, the HmbBfDI found in its investigations. Some of these notes were highly detailed, and supervisors updated them as the issues developed.
+
+As well as evaluating work performance, managers also used the data to make decisions about employment, the HmbBfDI said.
+
+The data collection only became public knowledge after a configuration error in October 2019 made the data accessible company-wide for several hours.
+
+H&M immediately froze the network drive and handed over around 60 gigabytes of data to the HmbBfDI following orders from the watchdog. The HmbBfDI analyzed the data and interrogated witnesses who confirmed the practices.
+
+The case showed a "serious disregard for employee data protection," Prof. Dr. Johannes Caspar, the commissioner at the HmbBfDI, said.
+
+The fine will deter other companies from violating the privacy of their employees, he added.
+
+H&M reported R93.7 billion in revenue for the three months ended in August.
+
+H&M has since apologized to affected staff and paid them considerable compensation, which the HmbBfDI described as an "unprecedented acknowledgement of corporate responsibility" after a data protection incident.
+
+H&M has also appointed a data protection coordinator, improved IT systems, and provided data privacy training to staff. It will issue monthly data protection updates and communicate whistleblower protection better, which the HmbBfDI said will make the company more transparent.
+
+"H&M Group wants to emphasize its commitment to GDPR compliance and reassure its customers and employees that the company takes privacy and the protection of all personal data as top priority," it said in a statement. "The H&M Group strictly adheres to laws and regulations stipulated by the relevant data protection authorities, as well as the company's own high standards."
+
+BUSINESS INSIDER
+
+SOUTH AFRICA
+
+
+
+End of Document

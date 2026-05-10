@@ -1,0 +1,618 @@
+
+
+
+
+Passenger Rail Agency of South Africa v Swifambo Rail Agency (Pty) Limited [2017] JOL 38136 (GJ) 
+Judgments Online
+
+Division: Gauteng Local, Johannesburg
+Case No: 2015 / 42219
+Hearing Date(s): 01–02 / 06 / 2017
+Judgment Date(s): 03 / 07 / 2017
+Bench: EJ Francis J
+
+
+Keywords
+
+
+Civil procedure — Affidavits — Founding affidavit — The general rule is that a party must make out its case in the founding affidavit but such rule is not absolute — The test is whether all the facts pertaining to the matter have been placed before the court — If there is any prejudice, that prejudice must be brought to the attention of the court — A party that is prejudiced should be allowed to file a further affidavit that deals with that
+Evidence — Hearsay evidence — Rule that hearsay evidence is generally not permitted in affidavits is not absolute — Section 3(1) of the Law of Evidence Amendment Act sets out the circumstances in which hearsay evidence will be permitted — The test for whether or not hearsay evidence should be admitted would be whether or not in a particular case before the court that it would be in the interest of justice that such evidence is admitted
+Constitutional law and Administrative law — Judicial review — Time limits — Section 7 of the Promotion of Administrative Justice Act 3 of 2000 requires that any proceedings for judicial review in terms of section 6(1) must be instituted without any unreasonable delay and not later than 180 days on which the person became aware of the action and the reasons — Section 9 of that Act permits the period of 90 days to be extended on application where the interest of justice so require
+Civil procedure — Judicial review — Time frames — Section 7 of the Promotion of Administrative Justice Act 3 of 2000 requires that any proceedings for judicial review in terms of section 6(1) must be instituted without any unreasonable delay and not later than 180 days on which the person became aware of the action and the reasons — Section 9 of that Act permits the period of 90 days to be extended on application where the interest of justice so require
+
+Mini Summary
+
+
+A tender for the purchase and supply of locomotives for use on the South African rail network ended with the applicant (PRASA) awarding the contract to the respondent (Swifambo). PRASA subsequently brought an application to review and set aside its decision to award the contract to Swifambo. In the alternative, PRASA sought a declaratory order that the contract had lapsed and was of no force and effect as a result of a failure to satisfy the suspensive conditions within the period specified in the contract. 
+
+The founding papers suggested that there were several irregularities in the procurement process, including the procurement strategy, the preparation of the request for proposals (RFP) and the scoring of bids.
+
+The application was opposed by Swifambo on three grounds. The first was that the application fell to be dismissed on account of PRASA's undue and unreasonable delay in launching the application. Secondly, it was contended that PRASA's excessive reliance on inadmissible hearsay evidence was fatal to its application and all hearsay evidence in the founding affidavit fell to be disregarded. Finally, it was contended that it was not appropriate, just and equitable in the circumstances to set aside the tender with full retrospective effect since Swifambo was an innocent tenderer and would be prejudiced if the contract was set aside.
+
+Held that before dealing with the main issues, the Court had to address some other issues raised during the proceedings. The first issue was the averment that PRASA did not make out its case in its founding affidavit. The general rule is that a party must make out its case in the founding affidavit. It cannot do so in reply. That is not an absolute rule. Courts have been cautioned not to be overtly technical in such matters. Court rules are there for the courts and not the courts for the rules. A common sense approach should be used when dealing with such matters. The true test is whether all the facts pertaining to the matter have been placed before the court. If there is any prejudice, that prejudice must be brought to the attention of the court. A party that is prejudiced should be allowed to file a further affidavit that deals with that. In this case, a further affidavit filed by Swifambo took care of any prejudice that it might have suffered.
+
+It was further contended on behalf of Swifambo that the founding and replying affidavits were impermissibly based upon hearsay evidence. Swifambo contended that no attempt was made to bring the hearsay evidence within the ambit of the Law of Evidence Amendment Act 45 of 1988. Hearsay evidence is generally not permitted in affidavits. Once again this is not an absolute rule and there are exceptions to it. Section 3(1) of the Law of Evidence Amendment Act sets out the circumstances in which hearsay evidence will be permitted. A court has a wide discretion in terms of section 3(1) of the Evidence Amendment Act to admit hearsay evidence. The test for whether or not hearsay evidence should be admitted would be whether or not in a particular case before the court that it would be in the interest of justice that such evidence is admitted. The factors that the court should take into account are those set out in section 3(l)(c)(i) to (vii) of the Act. Taking into account the seven factors mentioned in section 3(1), the court found that the admission of hearsay evidence in this case was justified. 
+
+Swifambo also relied on undue delay on the part of PRASA in seeking review. Section 7 of the Promotion of Administrative Justice Act 3 of 2000 requires that any proceedings for judicial review in terms of section 6(1) must be instituted without any unreasonable delay and not later than 180 days on which the person became aware of the action and the reasons. Section 9 of that Act permits the period of 90 days to be extended on application where the interest of justice so require. The application by PRASA was 793 days late. That was a lengthy delay and good cause for such a delay had to be shown. When hearing an application for an extension of the time periods, the court had to have regard to the circumstances of the case. The date when the party became aware of the irregularity would be a factor that must be taken into account in deciding whether to extend the time period. The court will also have to consider the question of prospects of success. Ultimately, the most important factor that a court will have to consider is whether it will be in the interest of justice to grant such an extension. Due to the serious irregularities which occurred in the tender process, the prospects of success were overwhelming in this case. The Court highlighted the various irregularities. PRASA's case as far as the irregularities that took place before and during the tender was unanswerable since Swifambo had elected not to engage in the merits of the review. The Court was satisfied that a proper case had been made for the extension of the time limits to bring this application and the delay was condoned. 
+
+The Court then had to decide the merits of the review application and the remedy. As stated above, the merits were not challenged. Consequently, the decision to award the contract was declared unlawful and invalid.
+
+The only just remedy was found to be the setting aside of the contract with retrospective effect. 
+
+ 
+[2017] JOL 38136 (GJ)  at 1
+
+
+
+
+Cases
+
+Smith v Kwanonqubela Town Council [1999] JOL 5303 (A), 1999 (4) SA 947 (SCA) – Referred to
+
+Anglo Operations Ltd v Sandhurst Estates (Pty) Ltd [2006] JOL 18756 (SCA), 2007 (2) SA 363 (SCA) – Referred to
+
+Lagoon Beach Hotel (Pty) Ltd v Lehane NO and Others [2016] JOL 35103 (SCA), 2016 (3) SA 143 (SCA) – Referred to
+
+City of Cape Town v Aurecon South Africa (Pty) Limited [2017] JOL 37463 (CC), [2017] ZACC 5 (28 February 2017) – Referred to
+
+Dr JS Moroka Municipality and others v Betram (Pty) Ltd and another [2014] JOL 31209 (SCA), [2014] 1 ALL SA 545 (SCA) – Referred to
+
+Aurecon South Africa (Pty) Ltd v The City of Cape Town [2016] JOL 34914 (SCA), (20382/2014) [2015] ZASCA 209 (9 December 2015) – Referred to
+
+Glenister v President of the Republic of South Africa and Others [2011] JOL 26915 (CC), 2011 (3) SA 347 (CC) – Referred to
+
+Tswelopele Non-Profit Organisation and Others vs City of Tshwane Metropolitan Municipality [2007] JOL 20003 (SCA), 2007 (6) SA 511 (SCA) – Referred to
+
+All Pay Consolidated Investment Holdings (Pty) Ltd and Others v Chief Executive Officer of the South African Social Security Agency and Others (No 2) 2014 (6) BCLR 641 (CC), 2014 (4) SA 179 (CC) – Referred to
+
+Steenkamp NO v Provincial Tender Board, Eastern Cape [2006] JOL 18364 (CC), 2007 (3) SA 121 CC – Referred to
+
+Millenium Waste Management (Pty) v Chairperson of the Tender Board: Limpopo Province and Others [2008] JOL 21170 (SCA), 2008(2) SA 481 (SCA) – Referred to
+
+Esorfranki Pipelines (Pty) Ltd and Another v Mopani District Municipality and Others [2014] JOL 31708 (SCA), [2014] 2 All SA 493 (SCA) – Referred to
+
+[1]    The applicant – the Passenger Rail Agency of South Africa ("PRASA") brought an application against the respondent – Swifambo Rail Agency (Pty) Limited ("Swifambo") for the following relief:
+
+That the arbitration agreement contained in clause 36 of contract number HO/SCM/223/11/2011 ("the contract"), for the sale and purchase of locomotives agreement, dated 25 March 2013 be reviewed and set side; and
+To review and set aside its decision to award the contract to Swifambo,  
+[2017] JOL 38136 (GJ)  at 2
+as well as its decision, taken on 25 March 2013, to conclude the contract with Swifambo.
+In the alternative, PRASA seeks a declaratory order that the contract has lapsed and is of no force and effect as a result of a failure to satisfy the suspensive conditions within the period specified in the contract.
+
+[2]    The decisions concern a tender for the purchase and supply of locomotives for use on the South African rail network.
+
+[3]    At the commencement of the proceedings, I heard an application brought by Lucky Montana ("Montana"), who used to be the group chief executive officer ("the GCEO") of PRASA, to be admitted as a friend of the court. That application was dismissed with costs and reasons were provided in a separate judgment.
+
+[4]    The applicant's late filing of its heads of argument was condoned after I was satisfied that a proper case was made for the late filing. The applicant's application to amend its notice of motion to include a prayer for the extension of the time limits in terms of the Promotion of Administrative Justice Act 3 of 2000 ("PAJA") was also granted.
+
+[5]    After judgment in the review application was reserved, Swifambo on 26 June 2017 brought an application on an urgent basis for leave to adduce further evidence which I heard on 29 June 2017. The further evidence which is what is contained in PRASA's answering affidavit marked as annexure AA1 was  
+[2017] JOL 38136 (GJ)  at 3
+allowed since I was of the view that it would be in the interest of justice to do so. I indicated to the parties that I would decide the issue of costs of that application in this judgment.
+
+[6]    The allegations in the founding affidavit of this review application relate almost entirely to conduct by or on behalf of PRASA. The founding papers suggest that there were several irregularities in the procurement process, including the procurement strategy, the preparation of the request for proposals ("RFP") and the scoring of bids. Swifambo stated that it has no knowledge of those allegations and was taken completely by surprise when it received the application. It stated that it has no knowledge of the internal procurement processes followed by PRASA and could accordingly neither confirm nor deny most of the allegations in the founding papers. It was hamstrung in advancing evidence opposing the application on the merits and was therefore unable to defend the validity of the decision. It did not oppose the setting aside of the arbitration agreement.
+
+[7]    The application was however opposed by Swifambo on three grounds:
+
+The application falls to be dismissed on account of PRASA's undue and unreasonable delay in launching the application.
+PRASA's excessive reliance on inadmissible hearsay evidence was fatal to its application and all hearsay evidence in the founding affidavit fell to be disregarded.
+It was not appropriate, just and equitable in the circumstances to set  
+[2017] JOL 38136 (GJ)  at 4
+aside the tender with full retrospective effect since it was an innocent tenderer and would be prejudiced if the contract was set aside.
+
+[8]    The irregularities that took place before and when the contract was awarded to Swifambo are undisputed save for what was raised in the application to admit evidence. I will deal with some of the irregularities when considering whether the time limits should be extended in terms of section 9 of PAJA.
+
+[9]    During closing arguments respondent's counsel informed the court that there were no signed confirmatory affidavits that were referred to in the answering affidavit. Counsel is wrong since there are three signed confirmatory affidavits that were signed before a notary.
+
+Other preliminary issues
+
+[10]    Before dealing with the main issues raised in this application I deem it appropriate to deal with some other issues raised during the proceedings. The first issue was that the applicant did not make out its case in its founding affidavit in so far as it related to what is contained in the replying affidavit which was linked to the question whether PRASA has made out a proper case for an extension of the time limits in terms of section 9 of PAJA. PRASA had initially contended that the application was brought within a reasonable period. This was disputed in the answering affidavit. PRASA in its replying affidavit dealt with the issue of condonation in much more greater detail. The second issue was the allegation of fraud which so it was contended was also a  
+[2017] JOL 38136 (GJ)  at 5
+new matter. Despite all of this the respondent filed a further affidavit dealing with what they contended were new matters.
+
+[11]    I accept that the general rule is that a party must make out its case in the founding affidavit. It cannot do so in reply. This is not an absolute rule. Courts have been cautioned not to be overtly technical in such matters. The following was said about the approach to be adopted by our courts in Smith v Kwanonqubela Town Council 1999 (4) SA 947 (SCA) at 954 paragraph [15] [also reported at [1999] JOL 5303 (A) – Ed]:
+
+"In South African Milling (at 436F–437C) the matter was also approached from a procedural point, namely that a party is not entitled to make out a case in reply and that a ratification relied upon in reply infringes this rule. This part of the ratio is strictly speaking not apposite to the present case because the issue here was decided upon a stated case which did not raise this point. It remains, however, in view of persistent difficulties in this regard, necessary to emphasise that this Court in Moosa and Cassim NNO has clearly adopted as correct the refutation in Baeck & Co (at 114E–119B) of the approach and to state that I fully subscribe to that view. The rule against new matter in reply is not absolute (cf Juta & Co Ltd and Others v De Koker and Others 1994 (3) SA 499 (T) at 511F) and should be applied with a fair measure of common sense. For instance, in the present case, the point provided no material or substantial advantage to Smith – at least, counsel could not point to any – and it simply at great cost postponed the day of possible reckoning (cf Merlin Gerin at 660I–J; National Co-op Dairies Ltd v Smith 1996 (2) SA 717 (N) at 719E–F)."
+
+[12]    The following was said in Anglo Operations Limited v Sandhurst Estates (Pty) Limited 2007 (2) SA 363 (SCA) [also reported at [2006] JOL 18756 (SCA) – Ed] at paragraph [32]:
+
+"I am not entirely sure what is meant by the description of the application as 'totally irregular'. If it is intended to convey that the application amounted to a deviation from the Uniform Court Rules, the answer is, in my view, that, as has often been said, the rules are there for the Court, and not the Court for the rules. The Court a quo obviously has a discretion to allow the affidavit. In exercising this discretion, the overriding factor that ought to have been considered was the question of prejudice. The perceived prejudice that the respondent would suffer if the application were to be upheld, is not explained.
+
+ 
+[2017] JOL 38136 (GJ)  at 6
+
+Apart from being deprived of the opportunity to raise technical objections, I can see no prejudice that the respondent would have suffered at all. At the time of the substantive application the respondent had already responded – in its rejoining affidavit – to the matter sought to be included in the founding affidavit. The procedure which the appellant proposed would have cured the technical defects of which respondent complained. The respondent could not both complain that certain matter was objectionable and at the same time resist steps to remove the basis of the complaint. The appellant's only alternative would have been to withdraw its application, pay the wasted costs and bring it again supplemented by the new matter. This would merely result in a pointless waste of time and costs. For these reasons the applicant's substantive application to supplement its founding affidavit should, in my view, have succeeded."
+
+[13]    The following was also said in Lagoon Beach Hotel (Pty) Limited v Lehane NO and others 2016 (3) SA 143 (SCA) [also reported at [2016] JOL 35103 (SCA) – Ed] at paragraph [16]:
+
+"Then there is the fact that a voluminous replying affidavit containing a great deal of evidential material relevant to the issues at hand had been filed. Relying upon authorities such as Sooliman, the appellant argued that it was 'axiomatic . . . that a reply is not a place to amplify the applicant's case' and that the new matter had been impermissibly raised by Lehane in reply, that it was evidential material to which the appellant had not been able to respond, and that it fell to be ignored. However, again, practical common sense must be used, and it is not without significance that many of the hearsay allegations complained of were admitted by the appellant in its answering affidavit. And although Lehane had been appointed the official assignee to Dunne's estate some 13 months before the application was launched in the court a quo, and the information set out in reply could therefore have been contained in the founding affidavits, sight must not be lost of the fact that the application was initially launched by Lehane's deputy official, Mr D Ryan, in the absence of Lehane who was abroad at the time and unable to depose to an affidavit. The detailed allegations made by Lehane speak of he, and not Mr Ryan, having been more au fait with the facts and circumstances of the matter. Moreover, the initial application was moved as a matter of urgency, and the courts are commonly sympathetic to an applicant in those circumstances, and often allow papers to be amplified in reply as a result, subject of course to the right of a respondent to file further answering papers. Regard should also be had to the intricacy of Mr Dunne's dealings that required intensive and ongoing investigations. Furthermore, the appellant, as respondent a quo, did not seek to avail itself of the opportunity to deal with the additional matter Lehane set out in reply, and I see no reason why these allegations should therefore be ignored."
+
+[14]    Auswell Mashaba ("Mashaba"), the chairperson of Swifambo, deposed to the further affidavit. He had identified the new issues that were raised in the  
+[2017] JOL 38136 (GJ)  at 7
+replying affidavit and stated that Swifambo would be prejudiced if it was not permitted to respond to those allegations. He stated that his affidavit was filed in answer to the new allegations in the replying affidavit. He requested leave to be granted to Swifambo to file his additional affidavit and that the granting of the affidavit would plainly be in the interests of justice and would facilitate the determination of this application fairly, on the basis of correct facts.
+
+[15]    It is clear from the aforegoing that the court rules are there for the courts and not the courts for the rules. A common sense approach should be used when dealing with such matters. The true test is whether all the facts pertaining to the matter have been placed before the court. If there is any prejudice, that prejudice must be brought to the attention of the court. A party that is prejudiced should be allowed to file a further affidavit that deals with that. The respondent has filed a further affidavit which took care of any prejudice that the respondent may have suffered. It cannot complain later after they were afforded an opportunity to respond to any new matters.
+
+Impermissible reliance on hearsay
+
+[16]    It was further contended on behalf of Swifambo that the founding and replying affidavits are self-consciously based upon hearsay evidence. Further that the reliance on confidentiality is of no avail since the courts have adequate mechanisms to protect confidentiality. The only confirmatory affidavit accompanying the main affidavits are that of Mr Moonsamy; Mr Mareka both in relation to the allegedly fraudulent appointment of Mr Mthimkulu and  
+[2017] JOL 38136 (GJ)  at 8
+Mr Stow who confirmed the events of the bid evaluation committee ("the BEC") meeting on 22 March 2012. Further that the various committees involved in the tender process are all identified by name: the BEC; the corporate tender and procurement committee; the finance capital investment and tender committee; and the PRASA board. No indication was given about who comprised the bid adjudicating committee ("the BAC"). Two members of the previous board were common to the present board.
+
+[17]    It was further contended by Swifambo that these problems cannot be cured in reply. Nonetheless, in the replying affidavit there are confirmatory affidavits from Mr Mamabolo in relation to Montana's activities impeding the investigation by the Business Intelligence Unit. Mr Mphailane regarding his attempts to raise concerns after the tender was awarded about technical specifications. Mr Potgieter concerning the safety of the locomotives. Ms Mtlala confirming a meeting with Mr Molefe and Mr Mashaba in which the latter allegedly attempted to make the investigation go away. Mr RM Sacks concerning the financial disclosures made by Swifambo's auditors. Mr Mofi confirming the correspondence between Mr Mthimkulu and Swifambo concerning the heights of the locomotives. Mr Dingiswayo confirming the aspects of the preparations of the third addendum to the contract. Mr Ngoye confirming the allegations of bullying by Montana.
+
+[18]    It was contended by the respondent that in the founding affidavit no attempt was made to bring the hearsay evidence within the ambit of the  
+[2017] JOL 38136 (GJ)  at 9
+Law of Evidence Amendment Act 45 of 1988 ("the Evidence Amendment Act") and in reply it was simply asserted that the hearsay evidence should be admitted on the basis that it was in the interest of justice to do so and that submissions in that regard would be made at the hearing.
+
+[19]    Mr Molefe stated in his founding affidavit that he commenced working at PRASA in August 2014 and that many of the facts set out in his affidavit are not within his personal knowledge. He stated further that he was aware of the facts because of an investigation the board had caused to be conducted into the conduct of the applicant's business prior to his involvement. He stated further that the facts have been presented to him by the investigators and are mainly derived from the documents attached as annexures. The attached documents are contemporaneous documents and form part of the applicant's records under his control. He said that he could not think of any reason to doubt the reliability of those documents. He stated further that the task was exacerbated by resignations, dismissals and a generally un-cooperative attitude from certain employees within the organisation. In some instances PRASA's records were concealed, spirited away or destroyed and it was only through the interaction and assistance of the investigators that the facts set out in his affidavit were discovered. The facts specific to this case were discovered and only revealed through the broader investigation into a number of relationships and activities that the board suspected were generally corrupt. He submitted that the unconfirmed facts were consistent with and corroborated by the documents and he believed that the facts were both true and correct.
+
+ 
+[2017] JOL 38136 (GJ)  at 10
+
+[20]    The applicant contended that the admission of the hearsay evidence is justified in terms of section 3(1) of the Evidence Amendment Act and that it was not necessary to set this out in the affidavit since it is legal in nature.
+
+[21]    Hearsay evidence is generally not permitted in affidavits. Once again this is not an absolute rule and there are exceptions to it. Where a deponent stated that he is informed and verily believes certain facts on which he relies for the relief, he is required to set out in full the facts upon which he bases his grounds for belief and how he had obtained that information, the court will be inclined to accept such hearsay evidence. The basis of his knowledge and belief must be disclosed and where the general rule is sought to be avoided reasons therefor must be given. Where the source and ground for the information and belief is not stated, a court may decline to accept such evidence.
+
+[22]    Section 3(1) of the Evidence Amendment Act provides as follows:
+
+Hearsay evidence
+Subject to the provisions of any other law, hearsay evidence shall not be admitted as evidence in criminal or civil proceedings, unless–
+each party against whom the evidence is to be adduced agrees to the admission thereof as evidence at such proceedings;
+the person upon whose credibility the probative value of such evidence depends, himself testifies at such proceedings; or
+the court, having regard to–
+the nature of the proceedings;
+the nature of the evidence; 
+[2017] JOL 38136 (GJ)  at 11
+ (iii) the purpose for which the evidence is tendered;
+the probative value of the evidence.
+the reason why the evidence is not given by the person upon whose credibility the probative value of such evidence depends;
+any prejudice to a party which the admission of such evidence might entail; and
+any other factor which should in the opinion of the court be taken into account,
+
+is of the opinion that such evidence should be admitted in the interests of justice."
+
+[23]    A court has a wide discretion in terms of section 3(1) of the Evidence Amendment Act to admit hearsay evidence. The Legislature had enacted the provisions of section 3 to create a better and more acceptable dispensation in our law relating to the reception of hearsay evidence. The wording of section 3 makes it clear that the point of departure is that hearsay evidence is inadmissible in criminal and civil proceedings. However, because the Legislature was conscious of various difficulties associated with the reception of hearsay evidence in our courts, it brought a better dispensation and created a mechanism to determine the circumstances when it would be acceptable to admit hearsay evidence.
+
+[24]    The Legislature also decided that the test whether or not hearsay evidence should be admitted would be whether or not in a particular case before the court that it would be in the interest of justice that such evidence is admitted. The factors that the court should take into account are those set out in section 3(1)(c)(i)–(vii) of the Evidence Amendment Act which includes any other  
+[2017] JOL 38136 (GJ)  at 12
+factor which in the opinion of the court should be taken into account.
+
+[25]    When the seven factors mentioned in section 3(1) of the Evidence Amendment Act are taken into account, the admission of hearsay evidence in this case is justified for the following reasons:
+
+The nature of the evidence is reliable. The facts were mainly derived from contemporaneous documents. Copies of those contemporaneous documents which form part of PRASA's records and are under the control of Molefe were attached as annexures to the founding and replying affidavits.
+There is no reason to doubt the reliability of the evidence that emerges from the documents, which are in many instances official documents and form part of PRASA's records. This is particularly so where the facts and documents were discovered by independent investigators in the course of a broader investigation into a number of relationships and activities that the board suspected were generally corrupt.
+Since these are civil proceedings the courts are more reluctant to admit hearsay evidence in criminal proceedings, where the operation of the presumption of innocence applies. The lower standard of proof in civil proceedings makes it more easier to hearsay in such proceedings. Hearsay evidence will generally be more readily admitted in application proceedings than in trial proceedings. This general proposition applies more so in review proceedings where the litigant has no procedural election and must bring the review by way of  
+[2017] JOL 38136 (GJ)  at 13
+application. It is common in tender review proceedings that the members of the public authority who feature in the record of the proceedings may not be before the court and may not depose to confirmatory affidavits. It cannot be suggested that all the information in the record relating to the decision falls to be disregarded because it is hearsay.
+PRASA has provided a good reason why the evidence was not given by the particular persons or the persons who created the documents. The evidence is merely derived from contemporaneous documents and PRASA's official records. Molefe's statement under oath is entirely satisfactory and has stated that the documents form part of PRASA's official records. They were provided to him by independent investigators and the veracity of those documents can be tested by an examination of the documents that were annexed to the founding and replying affidavits.
+There are additional facts justifying why individuals have not deposed to confirmatory affidavits. This is due to resignations, dismissals and a generally un-cooperative attitude from certain employees within PRASA. In some instances PRASA's records were concealed, spirited away or destroyed and it was only through the interaction and assistance of the investigators that the facts set out in this application were discovered.
+Swifambo alleges that because PRASA has relied on hearsay evidence, it has been disabled from conducting any investigation of the  
+[2017] JOL 38136 (GJ)  at 14
+allegations or assessing the accuracy or otherwise of that evidence. It was therefore not possible in many cases for them to either confirm or deny the allegations in the founding affidavit. This is not correct. The documents annexed to the papers provide Swifambo with ample opportunity to investigate the reliability of the evidence and demonstrate that the documents are in some respects inaccurate, and that Swifambo has a factual basis to dispute the allegations or it does not. The lack of prejudice to Swifambo is demonstrated by its constant refrain that it has no knowledge of the internal procurement processes that PRASA followed or that it is simply unable to place in issue most of the allegations in the founding affidavit. The suggested confirmatory affidavits would not have provided Swifambo with any further means to investigate the allegations to assess the accuracy or otherwise of that evidence, and either confirm or deny the allegations in the founding affidavit.
+It is clear that this application deals with subject-matter that is manifestly of significant public interest.
+The admission of hearsay evidence must be considered in the light of the other evidence before me which include public documents that have not been challenged and about which there can be little dispute (a report by the Public Protector, a report by the Auditor-General) and the official record of the tender decision.
+Swifambo would accordingly suffer no prejudice with the admission of the hearsay evidence and any prejudice is outweighed by the public  
+[2017] JOL 38136 (GJ)  at 15
+interest in proper justification of the decisions.
+
+[26]    I am satisfied that the evidence is admissible in terms of section 3(1) of the Evidence Amendment Act.
+
+The undue delay
+
+[27]    PRASA had 10 days prior to the hearing of the application brought an application to amend its notice of motion to include a prayer for the extension of the time limits in terms of section 9(1)(b) of PAJA. The application to amend was unopposed which I granted. What was opposed was whether a proper case had been made out for the extension of the 180-day period.
+
+[28]    Section 7 of PAJA require[s] that any proceedings for judicial review in terms of section 6(1) must be instituted without any unreasonable delay and not later than 180 days on which the person became aware of the action and the reasons. Section 9 of PAJA permits the period of 90 days to be extended on application where the interest[s] of justice so require.
+
+[29]    The applicant had initially contended that the review application was brought within a reasonable period. It had proceeded on the basis that the 180-day period referred to in PAJA commenced running from the date when it became aware of the irregularity. This is not the case. The time period starts running from the date when the decision was made. In this case the conclusion of the sale and purchase of locomotives agreement under the contract was on  
+[2017] JOL 38136 (GJ)  at 16
+25 March 2013. This was an administrative action that can be reviewed in terms of PAJA. The 180-day timeframe for PRASA to have launched the present application, as provided for in terms of section 7(1) of PRASA, expired on 24 September 2013. The application was filed on 27 November 2015 which was 793 days late. This is a lengthy delay and good cause for such a delay must be shown. An application brought under PAJA or legality must still be brought within a reasonable period.
+
+[30]    It is trite that an application for an extension of the 180-day period must be brought by way of a substantive application which can also be heard on the same day as the review application. The explanation must cover the entire duration. Whether or not the present review is in terms of the principle of legality or PAJA matters not. The delay rule applies to both types of review. In this regard see City of Cape Town v Aurecon South Africa (Pty) Limited [2017] ZACC 5 (28 February 2017) [also reported at [2017] JOL 37463 (CC) – Ed] at paragraphs [37]–[37] [sic]).
+
+[31]    It was contended by Swifambo (the respondent) that PRASA had failed to bring a substantive application for extension at the earliest opportunity and had failed to explain the entire period of delay. The following periods of delay were not sufficiently explained or are unexplained: 25 March to August 2014 (18 months); August 2014 to 15 March 2015 (seven months); and March 2015 to 27 November 2015 (18 months). Further that it had failed to make out its case in the founding papers and not all the time periods for the delay was [sic] explained. The respondent relied on the judgment of Sutherland J in the  
+[2017] JOL 38136 (GJ)  at 17
+unreported matter of PRASA v Siyagena and others under Case No. 2016/7839 delivered on 3 May 2016. In that matter the court had found that the period prescribed by section 7(1) of PAJA was not calculated from the date upon which an applicant for a review became aware of an impropriety attaching to the decision sought to be reviewed, but from the date that it was aware of the decision and the reasons therefor. That court had found that the review application was not brought within the 180-day period because the relevant dates, for the purposes of section 7(1) of PAJA, occurred between 2011 and 2014, and the application was launched in 2016. Since there was no application before the court as contemplated by section 9 of PAJA, the court found that it did not have the authority to entertain the review application. The review application was dismissed on that basis.
+
+[32]    I have already dealt with what the court's approach should be when an applicant deals with new matters in reply. This was about the application for an extension. The respondent has filed a further affidavit that dealt with it. The Siyangena matter is distinguishable from the present matter. In this case, there is a substantive application that was made for an extension of the time limits. In the Siyangena matter it was brought on the morning when the matter was heard.
+
+[33]    I am enjoined when hearing an application for an extension of the time periods to have regard to the circumstances of the case. The date when the party became aware of the irregularity would be a factor that must be taken into  
+[2017] JOL 38136 (GJ)  at 18
+account in deciding whether to extend the time period. This will be so in cases where employees of an applicant had hidden the irregularities from the applicant and where those irregularities only came to light at a later stage. The court will also have to consider the question of prospects of success. At the end of the day the most important factor that a court will have to consider is whether it will be in the interest of justice to grant such an extension.
+
+[34]    I now proceed to consider the explanation for the failure to bring the application within the prescribed 180-day period and whether a proper case has been made out for the time period to be extended.
+
+[35]    The following explanation was given in paragraph 2 of the founding affidavit:
+
+"The applicant's business is both substantial and technically complex, and it took significant effort and a considerable amount of time for the reconstituted board to familiarise itself with the intricacies of PRASA's business. The task was exacerbated by resignations, dismissals and a generally un-cooperative attitude from certain employees within the organisation. In some instances, PRASA's records were concealed, spirited away or destroyed and it was only through the interaction and assistance of investigators that the facts set out in this application were discovered. The facts specific to this case were discovered and only revealed through the broader investigation into a number of relationships and activities that the board suspected were generally corrupt. Having regard to all the steps that were reasonably required prior to and in order to initiate these review proceedings, I respectfully submit that the application has been brought within a reasonable time."
+
+[36]    The applicant has set out the delay in its founding and answering affidavit. I will only refer to some of the explanation which was the following:
+
+The previous management of PRASA (some of whom are implicated in the unlawful conduct) ignored concerns and irregularities about the award of the tender and instead demonstrated a single-minded and  
+[2017] JOL 38136 (GJ)  at 19
+devoted determination to proceed with the process that had resulted in the award of the tender to Swifambo, and to mislead the board about the nature and gravity of the irregular conduct of PRASA. PRASA's management at the time simply failed to disclose the impropriety.
+The discovery of the corruption was also impeded by the tyrannical manner in which PRASA was controlled by Montana. As a result PRASA was characterised by a culture of conscious ignorance of any wrongdoing and a deliberate avoidance of controversy.
+The reconstituted board faced remarkable enmity and extraordinary resistance, including attempts to obstruct the unearthing of facts relating to activities and relationships that the board suspected were corrupt or irregular. The Public Protector too was constrained to record her displeasure at the immense difficulty that her investigation team encountered in piecing together the truth as information had to be clawed out of PRASA's management. The Public Protector summarised the attempts to frustrate her investigation in the derailed [sic] report on page 20 as follows:
+
+"(xviii)  I must record that the investigation team and I had immense difficulty piecing together the truth as information had to be clawed out of PRASA management. When information was eventually provided, it came in drips and drabs and was incomplete. Despite the fact that the means used to obtain information included a subpoena issued in terms of section 7(4) of the Public Protector Act, many of the documents and information requested are still outstanding."
+
+PRASA was accordingly compelled to employ exceptional measures in order to expose the facts that were material to the application.
+
+ 
+[2017] JOL 38136 (GJ)  at 20
+In addition, there were various resignations of relevant PRASA staff, and employees were reluctant to cooperate and, in some cases, actively frustrated the investigations.
+The reconstituted board required time to understand the nature of PRASA's business, the various areas in which the business was deficient, and the investigations into PRASA by the Public Protector and the Auditor-General. PRASA, which comprises of five divisions and employs over 25 000 people, was an organisation in distress and disarray. The Public Protector was investigating approximately 40 complaints or maladministration at PRASA.
+Once the reasons for the impugned decisions were known to the reconstituted board, PRASA acted with due expedition, to bring this application.
+Mamabolo, the assistant manager of special operations at PRASA and a member of the business intelligence unit, investigated allegations of unethical and criminal conduct within PRASA and presented Molefe with a report in July 2015.
+The Auditor-General's report was presented to the reconstituted board by the audit committee on 21 July 2015. The Auditor-General's report detailed irregular and unlawful activity concerning PRASA's procurement processes.
+The severity and magnitude of the problem overwhelmed the capacity of the new board. The board took the unusual step of appointing forensic investigators. PRASA's attorneys were mandated to  
+[2017] JOL 38136 (GJ)  at 21
+commence the investigation on 5 August 2015. The investigators sourced approximately 1,2 billion documents. These needed to be stored electronically, sorted and reviewed in hard copy. Some documents had to be sourced from PRASA's employees. A number of people were not only uncooperative, but actively hampered the investigation by removing hard copies of the documents from PRASA's premises and deleting electronic copies from their computers.
+
+[37]    It clear from the facts of this case that at the time when the contract was awarded to Swifambo that there was a board in existence. A board was reconstituted in 2014. It is unclear why this happened. Complaints were laid against Montana and PRASA with the Public Protector in March 2012. Certain questions were raised by some members of the board which was misled by employees of PRASA. The Public Protector's final report was only published in August 2015, three-and-a-half years after the complaints were laid. The reconstituted board was unaware that the Public Protector had furnished a draft report dated 6 February 2015 to Montana. The investigators went through 1,2 billion documents.
+
+[38]    I have already indicated that the application was not brought within a reasonable period. There are some delays that were not adequately explained. However it is clear from the explanation given that many documents were concealed, spirited or destroyed. Montana, who was implicated in the  
+[2017] JOL 38136 (GJ)  at 22
+irregular and unlawful decision to award the tender for the locomotives to Swifambo, managed to frustrate the dissemination and communication of relevant information while he was at PRASA. Even after he had left PRASA, he managed to obstruct the distribution of relevant information through a network of associates who were collaborating with him. Employees who did not follow were victimised or unfairly dismissed.
+
+[39]    The fact that some of the delays were not explained is not fatal. This is but one factor that must be taken into account in deciding whether the time period should be extended. The prospects of success are overwhelming in this case. I have already pointed that the respondent is not opposing the merits of this application. The applicant has highlighted a number of irregularities that took place. These are material irregularities that go to the heart of the issue before me. I will now deal with some of those irregularities.
+
+The change of the bid from a lease to a purchase
+
+[40]    The RFP in this case envisaged a procurement strategy by means of a lease of locomotives to PRASA by the successful bidder. There were two options. Option 1 was to provide locomotives on a five-year renewable lease. Option 2 was to provide locomotives on a 15-year lease with an option of buying. There was no indication in the RFP that bidders were invited to consider and submit bids with an option that included an outright sale of locomotives to PRASA.
+
+ 
+[2017] JOL 38136 (GJ)  at 23
+
+[41]    In the application that I heard on 29 June 2017 to adduce further evidence about a third option that the bid was change[d] from a lease to a purchase, I granted the application. Gcobisa Sibango ("Sibango"), an admitted attorney, deposed to the founding affidavit and stated that she is the chief legal officer at Swifambo. She had joined Swifambo on 16 February 2015. She stated that after the matter was argued on 1 and 2 June 2017 certain investigations were conducted on this issue that Swifambo had included the option of an outright sale of the locomotives in its bid and the other bidders were not afforded the same opportunity. Swifambo had sought permission to admit as evidence the documents that were marked as annexure GS1 in its founding affidavit but consented that annexure AA1 in the answering affidavit be admitted. This was an e-mail, briefing notes and powerpoint presentations that were used on 9 December 2011 at a compulsory bidder briefing when the presentation was done.
+
+[42]    Sibango stated that PRASA's contention that the other bidders were not afforded an opportunity like Swifambo was to include an option of an outright sale of the locomotives was incorrect. PRASA had invited bids that included purchase options for the locomotives with which the contract is concerned and at least two other bidders (aside from Swifambo) included a purchase option in their bids. She requested this evidence to be allowed in the interest of justice so that the main application could be determined on the basis of correct facts.
+
+[43]    Sibango stated further that all bidders were notified of the permissibility of the  
+[2017] JOL 38136 (GJ)  at 24
+inclusion of a purchase option and other bidders also included a purchase option in their bid submissions. PRASA's own documents bear this out. She stated that on 9 December 2011, a compulsorily Bidder Briefing was held. At the briefing, a powerpoint presentation containing information about the bidding process was presented by PRASA to all bidders, which was attached and marked as GS1. She said that the presentation demonstrates that PRASA gave all bidders (and not just Swifambo) notice that the submission of the bids for the purchase of locomotives (as opposed to solely to the lease of locomotives) would be acceptable. This she said appeared from pages 2 and 3 of the presentation.
+
+[44]    Sibango stated further that at page 2 under the heading "The RFP's Purpose" it is expressly recorded that PRASA should "request Bidders to submit Proposals for the provision of Locomotives on either sale or lease basis". At page 3, the presentation explicitly states that bidders 'will supply: PRASA with locomotives "on the basis" of "one of the following options"':
+
+A "5 year lease with Full Maintenance";
+A "15 year lease" with "Full Maintenance";
+A "Buy [option]" for PRASA, together with "Partial Maintenance".
+
+[45]    Sibango stated that inexplicably and improperly, PRASA failed to include this document in the rule 53 record. This evidence was thus known to PRASA and PRASA could not be taken by surprise about its existence, nor can it be prejudiced by its inclusion. Any contention that Swifambo's inclusion of a  
+[2017] JOL 38136 (GJ)  at 25
+purchase option demonstrates unlawful conduct, or collusion, corruption or other turpitude for which Swifambo was responsible for has no merit. If it did, then the same would have to apply to GE and Harvdap. In its founding affidavit at paragraph 24.3 at page 81, PRASA itself effectively accepted that the latter two bidders included the same options.
+
+[46]    Sibango stated that in its papers and at the hearing of the main application, PRASA seized upon the aspect of Swifambo's bid and submitted that it demonstrated turpitude on Swifambo's part. It was not only self-serving for PRASA to have done so, it was also incorrect. PRASA clearly informed all bidders that a purchase option was acceptable and, what's more, it was clear that at least two other bidders acted in accordance with that information.
+
+[47]    Sibango stated that she accepts that the information was also furnished to Swifambo at the time of the Bidders Briefing presentation. However, the presentation was made to bidders in 2011, and those previous staff who attended the briefing on Swifambo's behalf have since left the organisation without providing Swifambo's current staff with a complete set of documentation related to the contract. The fact that PRASA explicitly invited a purchase option from an early stage was only brought to the current staff's attention after the hearing, and even then only by happenstance.
+
+[48]    Sibango stated that subsequent to the hearing of the main application, she proceeded to have a casual telephonic discussion about the hearing with a  
+[2017] JOL 38136 (GJ)  at 26
+person who had knowledge of the transaction (who has requested to remain unidentified). During such discussion, she mentioned that the absence of a purchase option in the RFP was raised sharply in argument and for the first time. The person recalled a compulsory briefing session where the RFP was effectively amended to include a third option, that is an outright purchase option. According to that person, annexure GS1 had the effect of amending the RFP to include an outright purchase option in addition to the two options already provided therein.
+
+[49]    Sibango stated that she thereafter enquired about whether any other person at Swifambo had knowledge of that. None of the current staff had such knowledge including Mashaba, the director and chairperson of Swifambo. She further instructed their IT personnel to search for the document but it could not be located. She enquired further from Montana about the amendment of the RFP by annexure GS1. Montana recollected the RFP being amended by annexure GS1 to include a purchase option. He then searched for the presentation and sent it to her.
+
+[50]    The application was opposed by PRASA on several grounds. PRASA stated that the only material facts of which the deponent had personal knowledge that Montana presented her with a document that was not before the court when the main application was heard and she now wished to place that document before the court as a new matter. PRASA denied that the admission of the document was important for a fair and just resolution of the case. The  
+[2017] JOL 38136 (GJ)  at 27
+document sought to be placed before the court does not cure the irregularity. Swifambo was wrong to say that two other bidders aside from Swifambo included a purchase option in their bids. The only other bidder was General Electric. PRASA denied that the invitation to tender invited bids that included a purchase option. The invitation to tender is contained in the tender document which made no mention of such an option. The tender advertisement also made no mention of such an option. Any potential bidder who read the tender document or the advertisement was informed that bids were being invited on a lease basis only. The purported alteration of the invitation to tender in a closed meeting was impermissible. The decisions were tainted by numerous other irregularities. The document sought to be placed before court does not render the process regular and does not alter the fact that potential bidders who collected the tender document or read the tender advertisement were not afforded an opportunity to bid on an outright purchase. The document does state that bidders could submit bids on a sale basis. Swifambo did not mention the document or its content in its affidavits in the main application nor did Montana mention it or its contents in his application to intervene.
+
+[51]    Molefe stated that he was unaware of its existence and it was not amongst the documents relating to the tender process. However in response to the application, the investigators performed an electronic search of PRASA's documents and found the document attached to an e-mail from Brenda Malongete which was attached marked "AA1". It is not referred to in the  
+[2017] JOL 38136 (GJ)  at 28
+briefing notes prepared for the meeting. The document appeared to have been prepared by Brenda Malongete and was obtained from Montana. Their connection to and involvement in the process was set out in the main application. The deponent does not state who attended the meeting or identify the current staff who allegedly had no knowledge of the meeting or explain why no attempt was made to ascertain what occurred at the meeting prior to the filing of the affidavits in the main application. She also did not take the court into her confidence by stating when she had the alleged telephone conversation or identified the person who had knowledge of the transaction or explained why the person has not provided an affidavit. The unidentified person does not state that the invitation to tender was amended. It was wrong to contend that the invitation to tender was amended by what purported to have occurred at the meeting. It was contended that it was inconceivable that no one at Swifambo, including Mashaba who signed the bid and the relevant documents, was unaware [sic] of the reasons why Swifambo included an outright purchase in its bid and the court should infer that the Swifambo was not candid with the court.
+
+[52]    There are major gaps in the version given by Sibango. She did not state who the person was that she got the information from. Whether he was an employee of PRASA or Swifambo and why he chose not to be identified. She did not state when or how she directed the enquiries to Montana. There is also no indication that Montana attended the compulsory meeting or was aware of what occurred at the meeting. He did not mention the purported amendment  
+[2017] JOL 38136 (GJ)  at 29
+in his application to intervene or the document that he has now produced nearly a month after the matter was argued. There is simply no explanation why this did not happen yet when he was approached immediately knew about it.
+
+[53]    It is clear that the said document emanates from PRASA and it is unclear why it was not disclosed during the review application. The applicant's case was that the lease agreement was converted into a sale option. This document appears to contradict that version and I would have expected it to have been disclosed whether the RFP which contained two options was changed to include a third option. If it was, this Court can then exclude the basis of the irregularity. Swifambo had admitted in reply that the bid by Harvdap was for a 120-month rental lease agreement and under which ownership would be transferred to PRASA when payment in full was completed but said that in substance and effect it constituted an agreement for the outright purchase of locomotives. This is not so. It was for a lease for 120 months when ownership would be transferred when the amount was paid in full. It was not an outright option to purchase. There were therefore only one bidder and Swifambo who bidded for the purchase of the locomotives.
+
+[54]    There is simply no evidence placed before me that the bid was changed to include a third option. The starting point is to reflect what the RFP said about amending the terms of the RFP. None of the persons who had effected the amendment to the RFP filed affidavits to testify how the amendment took  
+[2017] JOL 38136 (GJ)  at 30
+place. The briefing note which is annexure AA1 indicated what had to be amended and it had nothing to do with the two options to include a third option. There is simply nothing before me that the RFP was validly changed to reflect the third option. The amendment of the RFP to have included a third option was irregular since none of the procedures that had to be followed to effect an amendment was followed.
+
+[55]    Swifambo included in its bid an option to PRASA to purchase the 88 locomotives. It is clear that PRASA had changed the procurement strategy to accord with the bid submitted by Swifambo and the BAC recommended that the appointment be based on the outright purchase option. The others bidders save for General Electric were not provided an opportunity to bid for an outright purchase. The failure to provide those competing bidders with an opportunity to do so was procedurally unfair and irregular. In this regard it was held in Metro Projects CC and another v Klerksdorp Local Municipality and others 2004 (1) SA 16 (SCA) [also reported at [2003] JOL 11590 (SCA) – Ed] at paragraph [14] that an essential element of fairness was equal evaluation of tenders.
+
+The tax clearance certificate
+
+[56]    Clause 18.8 of the RFP which was issued on 2 December 2011 which is at page 292 of the founding affidavit deals with a tax clearance certificate. It reads as follows:
+
+"The Bidders to the RFP must provide a valid Tax Clearance Certificate obtained from the offices of the South African Revenue Services for each Bidder members. Failure by any of the Bidder members to submit a valid tax clearance certificate shall result in automatic disqualification of the Bidder.
+
+ 
+[2017] JOL 38136 (GJ)  at 31
+
+Where the Bidder or Bidder member is not yet operating in South Africa, it must submit proof of 'good standing' with the relevant taxation authority in its country of origin."
+
+[57]    Swifambo dealt with this as follows at paragraphs 123–124 of the answering affidavit:
+
+"I deny that Swifambo's bid did not comply with the requirements as set out in the RFP in any material respects. Vossloh is the supplier to Swifambo. The intention was for Vossloh to supply the locomotives to Swifambo for purposes either of leasing or selling to PRASA. There was accordingly no need for Vossloh to submit a tax clearance certificate when the bid was submitted. Vossloh was not a 'bidder' as defined in the RFP – I was, instead, a supplier in respect of Swifambo's bid.
+
+The SARS practice at the time of submission of the bid by Swifambo to PRASA required that a company should be trading in order to have a VAT number. Swifambo was not trading at the time, and therefore could not have been in a position to secure a VAT number. The VAT number was subsequently secured when Swifambo started trading."
+
+[58]    No tax clearance certificate was submitted for Vossloh as a member of an association, party to a consortium, partner in a joint venture or subcontractor to Swifambo in terms of clauses 4.7 and 18.8 of the RFP, read with clause 1.1.1 of Form B. No proof of good standing was submitted on behalf of Vossloh from its country of origin. The tax clearance certificate submitted by Swifambo did not contain a VAT number. It therefore did not have a valid clearance certificate.
+
+[59]    A similar issue arose in the matter of Dr JS Moroka Municipality and others v Betram (Pty) Limited and another [2014] 1 All SA 545 (SCA) [also reported at [2014] JOL 31209 (SCA) – Ed] where the following was said at paragraph [16]:
+
+"In these circumstances, it is clear that there was no discretion to condone a failure to comply with the prescribed minimum prerequisite of a valid and  
+[2017] JOL 38136 (GJ)  at 32
+original tax clearance certificate. That being so, the tender submitted by the first respondent was not an 'acceptable tender' as envisaged by the Procurement Act and did not pass the so-called 'threshold requirement' to allow it to be considered and evaluated. Indeed, its acceptance would have been invalid and liable to be set aside – as was held by this Court in Sapela Electronics. On this basis, the appellants were perfectly entitled to disqualify the first respondent's tender as they did."
+
+[60]    Clause 18.8 of the RFP is clear and obvious. It is couched in peremptory terms. A bidder who fails to provide a valid tax clearance certificate from SARS will result in an automatic disqualification of the bidder. There is no discretion to condone a bid that does not qualify with clause 18.8. Swifambo should have been automatically disqualified and should not have been allowed to take part in the bid and [a]warded the tender.
+
+The tailored specification and manipulated scoring
+
+[61]    In terms of the procurement policy, specifications should have been designed by the Cross Functional Sourcing Committee ("the CFSC"). Instead the specifications were prepared by Mr Mtimkhulu, who was masquerading as an engineer with a doctorate. He did not have such qualifications. The specifications ought to have been drafted to promote the broadest possible competition, to be based on relevant characteristics or performance requirements, and to avoid brand names or similar classifications.
+
+[62]    Mtimkhulu adopted precisely the opposite approach to the benefit of Swifambo. In numerous instances items appeared to have been included in the specifications to ensure that Swifambo was awarded more technical points in the technical evaluation phase of the procurement process.
+
+ 
+[2017] JOL 38136 (GJ)  at 33
+
+[63]    A few examples would suffice:
+
+The specification stipulated the number of engine cylinders at a V12. The number of cylinders is irrelevant. Vossloh's locomotive had a V12.
+The bore and stroke specified was 230,19mm x 279.4mm. The bore and stroke is irrelevant. The specified bore and stroke figures were a precise match for Vossloh's locomotive.
+The engine speed of 904 rpm was specified. The engine speed is irrelevant. The engine speed of 904 rpm was a precise match for Vossloh's locomotive.
+The locomotive weight was specified as 88 tons. This was a precise match with Vossloh's locomotive.
+A track gauge of 1065mm was specified. Vossloh's track gauge was 1067mm.
+The traction effort was specified as 305KN. This was a precise match with Vossloh's locomotive.
+A multi-traction control with 27 pins was specified. The number of pins is irrelevant. Vossloh's locomotive had 27 pins.
+A monocoque structure was specified. Monocoque structures are more difficult to service as access to components for maintenance is made more difficult. Vossloh's locomotive has a monocoque structure.
+The specification repeatedly stipulated the UIC standard, which is a standard method of measurement published by the International Union of Railways and applied in Europe. In South Africa, the Association of  
+[2017] JOL 38136 (GJ)  at 34
+American Railroads standards are applied, not the UIC standard.
+
+[64]    The inclusion of irrelevant considerations meant that a manufacturer with different figures would receive far fewer points in the technical evaluation than Swifambo. The inclusion of the above items materially affected the award of the tender. If those items were excluded the tender would have been awarded to another bidder: GE South African Technology.
+
+[65]    The uncanny consistency between irrelevant specifications and the locomotives supplied by Vossloh caused some members of the BEC to suspect that the tender had been rigged.
+
+[66]    The inference is therefore irresistible that the specifications were tailored to benefit Swifambo. Swifambo did not attempt to provide an alternative explanation. The tailoring of the specification was insufficient for Swifambo to achieve the required 70% technical compliance threshold. Further manipulation of the scoring bids by members of the BEC was required. Without that intervention Swifambo would have been disqualified. The impact of the tailoring and intervention was so marked that Swifambo was the only bidder to achieve the technical threshold of 70%.
+
+[67]    It is my finding that the methodology adopted in the scoring process was irrational and/or unreasonable. The items contained in the specification were weighted according to their technical importance. The very purpose of the  
+[2017] JOL 38136 (GJ)  at 35
+weighting is to discriminate between more and less important items. The weighting is critical to the proper assessment of the bids. The scoring was not done according to the allocated weights given to each item. The failure to do so contravenes paragraph 9.9 of the SCM procurement policy which expressly states that the evaluation of bids should be in terms of the evaluation criteria and the weightings. The scoring of diesel locomotives and hybrid locomotives on the same score sheet and combining and averaging the scores resulted in an illogical evaluation.
+
+The non-compliance with various prerequisites
+
+[68]    The process failed to comply with the provisions of the Public Finance Management Act 1 of 1999 ("the PFMA"), the shareholders compact between PRASA and the government, PRASA's internal procurement policy and the delegation of authority. PRASA's internal procurement policy required a proper needs assessment which was not performed to determine PRASA's operational requirements prior to the tender process. This failure resulted in dramatic difference in the number of locomotives sought to be acquired.
+
+[69]    The BAC indicated that approximately 60 diesel-electric locomotives were required. The capital procurement committee recommended a separate tender process for 25 diesel-electric locomotives. PRASA eventually acquired 20 diesel-electric locomotives. In addition, there was uncertainty about the purpose for which the locomotives were required and particularly whether hybrid or diesel locomotives were preferred which again confirms  
+[2017] JOL 38136 (GJ)  at 36
+that there was no or an inadequate assessment of PRASA's needs as required under PRASA's procurement policy.
+
+[70]    PRASA also failed to obtain approvals required under the PFMA prior to awarding the contract. In terms of section 54(2) of the PFMA (read with paragraph 1.1 of the delegation authority) PRASA's board was required to obtain the prior approval of the Minister of Transport for the acquisition of a significant asset or a large capital investment. In terms of section 54(2) of the PFMA, the Board also needed to send a written submission to National Treasury informing the Treasury of the relevant particulars relating to the acquisition of a significant asset. The PFMA required that both of these steps take place before the transaction was concluded. None of those approvals was obtained. There is also no evidence that National Treasury received written submission. The inference to be draw[n] is that there was no such approval or written submission.
+
+The contract materially deviated from the approved bid
+
+[71]    The locomotives acquired under the contract was [sic] not evaluated by the committee responsible for the technical evaluation. A direct results of this is that, inter alia, the diesel-electronic locomotives that were required exceeded the maximum height specified.
+
+[72]    The scope of negotiations after the award of a contract by an organ of State is considered in an instructive article by P Bolton in "Scope for Negotiating  
+[2017] JOL 38136 (GJ)  at 37
+and/or Varying the Terms of Government Contracts Awarded by Way of a Tender Process" (2006) 17 Stellenbosch LR 266, whose analysis is as follows:
+
+As a general rule, an organ of State and the preferred tenderer are prohibited from negotiating the terms of the contract after the award of the tender.
+In consequence of section 217(1) of the Constitution, an organ of State and the selected contractor are not, and cannot be, at liberty to negotiate the terms of the contract to be concluded after the award of a tender, because the principles in section 217(1), in particular the principles of fairness, competitiveness and transparency, limit the scope of the negotiations. Those principles, inter alia, require organs of State to disclose the criteria that will be applied in evaluating and selecting a winning contractor, and they require organs of State to abide by the criteria specified in tender documentation.
+The actual terms of the contract that is concluded must, as far as possible, conform to the criteria laid down in the tender documentation.
+An organ of State may not award or conclude a contract that is materially or substantially different from the one provided in its call for tenders. The negotiations between the organ of State and the preferred tenderer for the conclusion of a contract must take place in good faith, and the terms of the contract concluded must fall within the parameters of the specifications laid down in the organ of State's call for tenders. 
+[2017] JOL 38136 (GJ)  at 38
+
+[73]    The deviation from that which was offered in Swifambo's bid renders the provision of locomotives unlawful.
+
+[74]    I am satisfied that although not all the delays were explained, the importance of this case as well as prospects of success makes up for that. In my view, State institutions should not be discouraged from ferreting out and prosecuting corruption because of delay, particularly not where there has been obfuscation and interference by individuals within the institution. A tolerance for delay where corruption is found was recognised in Aurecon South Africa (Pty) Limited v The City of Cape Town (20382/2014) [2015] ZASCA 209 (9 December 2015) [also reported at [2016] JOL 34914 (SCA) – Ed] ("Aurecon"), where the Constitutional Court observed at paragraph [50] that:
+
+"if the irregularities raised in the report had unearthed manifestations of corruption, collusion or fraud in the tender process, this Court might look less askance in condoning the delay. The interests of clean governance would require judicial intervention."
+
+[75]    In Glenister v President of the Republic of South Africa and others 2011 (3) SA 347 (CC) [also reported at [2011] JOL 26915 (CC) – Ed] ("Glenister II") at paragraphs [49]–[50] the Constitutional Court held that:
+
+"The explanation furnished for the delay is utterly unsatisfactory. Ordinarily, this should lead to the refusal of the application for condonation. However, what weighs heavily in favour of granting condonation is the nature of the constitutional issues sought to be argued in the intended appeal, as well as the prospects of success. This case concerns the constitutional authority of Parliament to establish an anti-corruption unit, in particular the nature and the scope of its constitutional obligation, if any, to establish an independent anti-corruption unit. These are constitutional issues of considerable importance . . .
+
+It is, therefore, in the interests of justice to grant condonation."
+
+[76]    This case raises issues of fundamental public importance. This case concerns  
+[2017] JOL 38136 (GJ)  at 39
+corruption by a public body concerning a tender that will affect the public for decades to come. This case is not merely a case about the public purse being used to acquire assets that will be used by the State or public officials. The public will make use of these locomotives for a considerable period of time and be directly affected by the benefits of harm arising from the decision to acquire them from Swifambo.
+
+[77]    This case also involves issues in relation to the delay in bringing review applications, and whether and to what extent the court should more readily condone such delay where a public body seeks to review its own decision, where the evidence before the court points to corruption and the public body has overwhelming prospects of success.
+
+[78]    This case concerns the issue of an appropriate remedy where a contract that was concluded as a result of a corrupt tender process has already been partly implemented and whether a mere declaration of unlawfulness is sufficient in order to hold the relevant decision-makers accountable and to discourage public administrators from engaging in similar conduct. The importance of this deterrent role of review proceedings should be viewed through the prism set out by the Constitutional Court, that corruption if allowed to go unchecked and unpunished will pose a serious threat to our democratic State.
+
+[79]    In my view, to hold State institutions too strictly to the prescribed period, and thereby to shield the perpetrators, encourages the commission and  
+[2017] JOL 38136 (GJ)  at 40
+concealment of egregious conduct of the nature found in this matter and would discourage prosecution by State institutions. It would also negatively impact on the administration of justice. There is no prejudice to the respondent if the application is heard. The consequences of refusing to hear the application and, as a result, allowing the invalid decision to stand will be borne by the public at large for many future generations. In my view, the hearing of the application will advance the principle of legality and the interests of justice. This is an appropriate case where the time period to have brought the application is extended and should be condoned.
+
+[80]    PRASA's case as far as the irregularities that took place before and during the tender is unanswerable since Swifambo has elected not to engage in the merits of the review. I am satisfied that a proper case has been made for the extension of the time limits to bring this application and the delay should be condoned.
+
+[81]    Since I have condoned and extended the time limits within which the applicant had to bring the review application I must now decide the merits of the review application and the remedy. As stated earlier the respondent had decided not to defend the merits of the decision to conclude the contract on the grounds that the alleged invalidity arose from PRASA's own internal errors.
+
+[82]    It is trite that administrative action that does not satisfy the requirements of section 33 of the Constitution or PAJA is unlawful and must be declared  
+[2017] JOL 38136 (GJ)  at 41
+invalid. The decision to award the contract was unlawful and is declared to be invalid.
+
+Just and equitable remedy
+
+[83]    I am now enjoined to consider an appropriate, effective remedy in terms of section 8 of PAJA and section 172 of the Constitution that will be just and equitable under the circumstances. Section 8 of PAJA empowers this Court with a generous discretion in granting any order that is just and equitable. In doing so, a court should bear in mind that the primary focus of judicial review is the correction and reversal of unlawful administrative action.
+
+[84]    Before doing so, if I take into account all the irregularities and the various steps that were taken by some employees of PRASA to hide those irregularities, this let Swifambo to gain a dishonest advantage which in this case was financial over other bidders and is tantamount to fraud. Fraud is defined as an act or course of deception, an intentional concealment, omission or perversion of truth to gain and unlawful or unfair advantage. The irregularities raised in this case have unearthed manifestation of corruption, collusion or fraud in this tender process. There is simply no explanation why Swifambo was preferred to other bidders.
+
+[85]    In Tswelopele Non-Profit Organisation and others v City of Tshwane Metropolitan Municipality and others 2007 (6) SA 511 (SCA) [also reported at [2007] JOL 20003 (SCA) – Ed] at paragraph [17] it was explained as follows: 
+[2017] JOL 38136 (GJ)  at 42
+"This places intense focus on the question of remedy, for though the Constitution speaks through its norms and principles, it acts through the relief granted under it. And if the Constitution is to be more than merely rhetoric, cases such as this demand and effective remedy, since (in the oft-cited words of Ackermann J in Fose v Minister of Safety and Security) 'without effective remedies for breach, the values underlying and the right entrenched in the Constitution cannot properly be upheld or enhanced':
+
+'Particularly in a country where so few have the means to enforce their rights through the Courts, it is essential that on those occasions when the legal process does establish that an infringement of an entrenched right has occurred, it be effectively vindicated.'"
+
+[86]    The Constitutional Court made the same point in the remedial decision in the Allpay Consolidated Investment Holdings (Pty) Limited and others v Chief Executive Officer, South African Social Security Agency and others (No 2) 2014 (4) SA 179 (CC) [also reported at 2014 (6) BCLR 641 (CC) – Ed] at paragraph [29]. In doing so the court relied on its decision in Steenkamp NO v Provincial Tender Board, Eastern Cape 2007 (3) SA 121 (CC) [also reported at [2006] JOL 18364 (CC) – Ed] at paragraph [29] where it was held that:
+
+"It goes without saying that every improper performance of an administrative function would implicate the Constitution and entitle the aggrieved party to appropriate relief. In each case the remedy must fit the injury. The remedy must be fair to those affected by it and yet vindicate effectively the right violated. It must be just and equitable in the light of the facts, the implicated constitutional principles, if any, and the controlling law. It is nonetheless appropriate to note that ordinarily a breach of administrative justice attracts public-law remedies and not private-law remedies. The purpose of a public-law remedy is to pre-empt or correct or reverse an improper administrative function . . . Ultimately the purpose of a public remedy is to afford the prejudiced party administrative justice, to advance efficient and effective public administration, compelled by constitutional precepts and at a broader level, to entrench the rule of law."
+
+[87]    The question of what is just and equitable is a question that will always be informed by the circumstances of each case. In Millennium Waste Management (Pty) Limited v Chairperson, Tender Board: Limpopo Province and others 2008 (2) SA 481 (SCA) [also reported at [2008] JOL 21170 (SCA) – Ed] 
+[2017] JOL 38136 (GJ)  at 43
+the court held at paragraph [23] as follows:
+
+"To set aside the decision to accept the tender, with the effect that the contract is rendered void from the outset, can have catastrophic consequences for an innocent tenderer, and adverse consequences for the public at large in whose interest the administrative . . . official purported to act. Those interests must be carefully weighed against those of the disappointed tenderer if an order is to be made that is just and equitable."
+
+[88]    The issue of what an appropriate remedy is [is] one of the most difficult decision[s] that a court must make in review applications that are tainted with material irregularities and corruption like in the present matter. It is akin to sentencing in criminal proceedings. In criminal proceedings the court would have regard, inter alia, to the interest of an accused, the interest of the State, mitigating and aggravating circumstances, regard to whether there are any minimum sentence laws applicable, any remorse shown by the accused etc. There are various sentencing options that a criminal court has when deciding what an appropriate sentence would be. Similarly in review applications the court must take into account various factors. The court must look at the public interest, the nature of the irregularities that took place, any explanation for that, whether the person concerned is an innocent tenderer, what message the court will be sending out when it grants a certain remedy etc. If the respondent is an innocent tenderer it follows that this will be an important factor that the court should take into account in deciding a just and equitable remedy. A review court can either set aside the decision ab initio or set aside with prospective effect.
+
+[89]    It was contended on behalf of the Swifambo that should this Court find that the  
+[2017] JOL 38136 (GJ)  at 44
+unlawfulness of the PRASA decision was established the court should decline to set aside the contract, or, alternatively, grant an order that sets aside the contract with prospective effect as opposed to setting PRASA's decision ab initio. The following facts were used in support of such a remedy:
+
+Swifambo is an innocent tenderer;
+Given, inter alia, that 25 locomotives have already been delivered, the remaining 45 locomotives are already at an intermediate stage of completion, the contract has already substantially been performed;
+An order setting aside the contract ab initio would render Swifambo commercially insolvent which would cause PRASA itself, as one Swifambo's creditors, to suffer irrecoverable losses, to the tune of R3,9 billion;
+PRASA has purchased the locomotives at what independent experts have concluded are advantageous prices; received value for the money in terms of the contract; and will continue to do so in the event that a declaration of invalidity was suspended; and
+A remedial order of the nature Swifambo seeks would be in the public interest.
+
+[90]    PRASA disputed that the respondent was an innocent tenderer. They contended that Swifambo's innocence (or lack thereof) would be relevant when this Court considers what a just and equitable remedy will be in the circumstances of this case. It is just one factor in the test about a just and equitable remedy. On the facts of the case they contended that they have  
+[2017] JOL 38136 (GJ)  at 45
+demonstrated that Swifambo was not an innocent tenderer. They had cast considerable doubt on Swifambo's claim to innocence. Any weight attached to Swifambo's innocence should be considerably reduced when the court balances the various factors in determining a just and equitable remedy.
+
+[91]    PRASA contended that Swifambo was not an innocent tenderer for the following reasons:
+
+Fronting. It was contended that the contractual arrangement between Swifambo and Vossloh constitutes fronting because: 
+the requirements of the definition of a fronting practice in section 1 of the Broad-Based Black Economic Empowerment Act 53 of 2003 ("the B-BBEE Act") are satisfied, in particular because the arrangement undermines the objectives of the Act, 
+the definition does not require the misleading or exploitation of the parties to the arrangement, 
+economic empowerment means substantive empowerment, and 
+the mere payment of money for the use of a black person's status is insufficient in the context of this matter.
+Illicit payments made by Swifambo Rail Holdings to the ruling party. It was contended that the chairperson of Swifambo admitted that he had made several payments to the African National Congress and that it was common cause that one of the payments to the ruling party was made directly out of the account of Swifambo Rail Holdings.
+Swifambo's trains are not fit for purposes. The locomotives fail to comply with the mandatory requirements. In particular, Swifambo  
+[2017] JOL 38136 (GJ)  at 46
+failed to comply with the vehicle structure gauge. The vehicle gauge prescribes the maximum dimensions permissible in the manufacture of rolling stock of the locomotives. The purpose of a vehicle structure is to ensure that the rolling stock fits under and through the infrastructure and can safely pass by each other on the adjacent tracks. The structure gauge prescribes a maximum height of a locomotive structure as 3,965mm. The locomotives delivered by Swifambo are 4,140mm.
+
+[92]    Swifambo denied that it was not an innocent tenderer. It denied that it was involved in any fronting. There was no direct evidence of any involvement by Swifambo in fraud and corruption linked to the award of the contract. It denied that it made an "illicit payment" to the ruling party, and was guilty.
+
+[93]    An innocent tenderer would, in my view, be a tenderer who was not involved in any of the irregularities that were committed when the award was granted to it. When deciding this issue I must remind myself that persons who are involved in illicit deals would always cover their tracks for obvious reasons. The court would then have to examine all the facts that were placed before it and ask itself how it came about that a specific person or organisation was awarded the tender despite all of the irregularities that took place.
+
+[94]    It is unnecessary for me to make any finding whether Swifambo had made an illicit payment to the ruling party. Many organisations do make payments to political parties which they do not disclose. This is not crucial in determining  
+[2017] JOL 38136 (GJ)  at 47
+whether Swifambo was or was not an innocent tenderer.
+
+[95]    There is sufficient evidence placed before me that proves on a balance of probabilities that the arrangement between Swifambo and Vossloh constituted fronting. It is clear that Swifambo under the agreement with Vossloh was merely a token participant that received monetary compensation in exchange for the use of its B-BBEE rating. The B-BBEE points were the only aspect that Vossloh could not satisfy. Vossloh could not bid on its own. Instead it concluded an agreement with Swifambo in which its B-BBEE points were exchanged for money. Vossloh maintains complete control over the operations of the business and Swifambo's role is constrained to minor administrative activities. There is no substantive empowerment evident under the agreement between Vossloh and Swifambo. There is no transfer of skills during the agreement or after.
+
+[96]    The public has a clear interest in the social and economic rights sought to be give[n] effect to in the B-BBEE Act. At the core of B-BBEE is viable, effective participation in the economy through the ownership of productive assets and the development of advanced skills. The B-BBEE Act criminalises conduct that retards the objectives of the Act. Section 130 of the B-BBEE Act creates an offence where any person knowingly engages in a fronting practice.
+
+[97]    Section 1 of B-BBEE Act defines the term "fronting practice" as follows:
+
+"[A] transaction, arrangement or other act or conduct that directly or indirectly undermines or frustrates the achievement of the objectives of this  
+[2017] JOL 38136 (GJ)  at 48
+Act or the implementation of any of the provisions of this Act, including but not limited to practices in connection with a B-BBEE initiative–
+
+. . .
+
+involving the conclusion of an agreement with another enterprise in order to achieve or enhance broad-based black economic empowerment status in circumstances in which–
+there are significant limitations, whether implicit or explicit, on the identity of suppliers, service providers, clients or customers;
+the maintenance of business operations is reasonably considered to be improbable, having regard to the resources available;
+the terms and conditions were not negotiated at arm's length and on a fair and reasonable basis."
+
+[98]    It is clear from a proper analysis of the agreement between Swifambo and Vossloh [that it] amounts to fronting since the relationship meets the broader definition under the B-BBEE Act and the relationship satisfies the criteria under paragraph (d)(i) and (ii) of the B-BBEE Act. It reveals that Swifambo's obligations under the contract are mainly administrative as borne out by clause 9.2 of the contract. Swifambo is obliged to accept delivery, and procure that PRASA accepts delivery of the locomotives in accordance with the delivery schedule; to procure that PRASA transports the locomotives from Cape Town Port up to the delivery point free of charge for Vossloh and to provide Vossloh with written confirmation that PRASA, together with documentary evidence including the approval letter issued by the Department of Transport, for the approval of the transaction as contemplated in the Sale and Purchase Agreement in terms of section 54 of the PFMA, within six months after the signature date. In contrast Vossloh has complete control over every aspect of the contract including the appointment of the members of the steering  
+[2017] JOL 38136 (GJ)  at 49
+committee.
+
+[99]    There are various examples of the clauses in the agreement between Swifambo and Vossloh that points to what the true nature of the agreement was, namely, that it amounts to fronting which undermines and frustrates substantive empowerment.
+
+[100]    The agreement between Swifambo and Vossloh also frustrates and undermines the implementation of the provisions of the B-BBEE Act. Section 9 of the Empowerment Act empowers the Minister through notice in the Government Gazette to issue codes of good practice in black economic empowerment that may include, inter alia, indicators to measure broad-based black economic empowerment.
+
+[101]    Statement 103 entitled "The Recognition of Equity Equivalents for Multinationals", issued under section 9 of the B-BBEE Act, was introduced in February 2007, under the Codes of Good Practice on Black Economic Empowerment. The statement provides a regime for the recognition of Equity Equivalent Points where a multinational company is unable to comply with the ordinary B-BBEE. The statement provides that the Minister may approve certain Equity Equivalent Programmes and in paragraph 3.4 that such programmes may involve programmes that support Accelerated and Share Growth Initiative for South Africa; the Joint Initiative for Priority Skills; the National Skills Development Strategy. It should also provide programmes  
+[2017] JOL 38136 (GJ)  at 50
+that promote enterprise creation in respect of cooperatives that are more than 50% owned by black people; or more than 30% owned by black women; or more than 50% owned by members of black designated groups. It also provides for any other programmes that promote socio-economic advancement or contribute to the overall socio-development of the Republic of South Africa. Importantly, the statement provides that a foreign business needs to invest a substantial amount of money into empowerment initiatives in order to qualify for B-BBEE equivalent programmes.
+
+[102]    To interpret the B-BBEE Act in a way that excludes from the definition of fronting practice a relationship such as that which exists between Swifambo and Vossloh, would permit foreign companies that do not comply with the requirements of B-BBEE Act to frustrate its implementation by evading the obligation to invest a substantial amount of money in empowerment.
+
+[103]    The agreement between Vossloh and Swifambo falls squarely within the ambit of paragraph (d) of the definition, which is satisfied where an agreement is concluded in order to achieve or enhance broad-based black economic empowerment status in circumstances in which there are significant limitations, whether implicit or explicit, on the identity of suppliers, service providers, clients or customers, or the maintenance of business operations is reasonably considered to be improbable, having regard to the resources available.
+
+ 
+[2017] JOL 38136 (GJ)  at 51
+
+[104]    There is an inherent limitation on the identity of suppliers, service providers, clients or customers under paragraph (d)(i) of the definition of fronting practice in the arrangement between Swifambo and Vossloh, where Vossloh is performing 100% of the work in a foreign jurisdiction, and Swifambo has no knowledge of or access to any of Vossloh's suppliers, service providers, clients or customers.
+
+[105]    Under the contract Swifambo is obliged to return to destroy any of Vossloh's, "confidential information", after the contract. Confidential information includes information regarding Vossloh's business activities, products, services, customers and clients, as well as its technical knowledge and trade secrets.
+
+[106]    In regard to (d)(ii), but for Swifambo's B-BBEE rating, Vossloh would not have entered into the contract with Swifambo. Swifambo had absolutely nothing to offer Vossloh other than its B-BBEE status. The obtaining and maintaining of compliance with PRASA's B-BBEE policy was one of the few obligations placed on Swifambo in clause 34 of the contract which provides as follows:
+
+The Parties record that, in addition to [Swifambo's] general obligations regarding Black Economic Empowerment in terms of PRASA's BEE policy, [Swifambo] shall be required to attain the B-BBEE targets specified in RFP, by the dates specified in the said RFP.
+[Swifambo] shall be obliged to maintain its compliance with the aforesaid B-BBEE targets in the RFP for the duration of this Agreement and the Sale and Purchase Agreement." 
+[2017] JOL 38136 (GJ)  at 52
+
+[107]    This illustrates that the maintenance of business operations is reasonable considered to be improbable given the extremely limited resources that Swifambo had available.
+
+[108]    The definition of fronting practice does not require the misrepresentation of the true nature of the arrangement to the organ of State or public entity concerned and should not be interpreted in a manner that reads such an element.
+
+[109]    It is trite that the public has an interest in the award of public tenders and that the tender process being [sic] free from corruption and fraud, and that public money does not land up in the pockets of corrupt officials and business people through, inter alia, fronting practices. The public also has an interest in economic empowerment, the attainment of which is retarded by such conduct. An interpretation that requires there to be misrepresentation to the organ of State or public entity concerned, would not give effect to those interests. Those interests are given effect to by an interpretation that recognises that fronting practices also exist where organs of State and public entities or individuals within their ranks conspire or collude in such conduct.
+
+[110]    This was recognised in Esorfranki Pipelines (Pty) Limited and another v Mopani District Municipality and others [2014] 2 All SA 493 (SCA) [also reported at [2014] JOL 31708 (SCA) – Ed] where fronting was described as a "fraud on those who are meant to be the beneficiaries of legislative measures put in place to enhance the objective of economic  
+[2017] JOL 38136 (GJ)  at 53
+empowerment". The practice of fronting would constitute a fraud on the public where organs of State and public entities or individuals within their ranks conspire and collude to award tenders to a front under the disguise of economic empowerment.
+
+[111]    A fronting practice may be found where organs of State and public entities or individuals within their ranks are complicit in the arrangement and in the absence of a misrepresentation to them.
+
+[112]    The true relationship between Swifambo and Vossloh was obfuscated in the bid. It had indicated that it would rely on the experience and technical capabilities of Vossloh. However at the time the bid was submitted Vossloh was not a co-bidder as defined in the RFP and there was no legal relationship between Swifambo and Vossloh whatsoever. There was no indication that Swifambo would be able to perform. There are portions of the bid which mention the establishment of a joint venture with Swifambo Rail Holdings and/or its subsidiaries, and Vossloh as well as other entities. Swifambo only concluded a contract on 4 July 2013 which was 16 months after the bid was submitted. The tender documents expressly required that the joint venture must already have been in place when they submitted their bid.
+
+[113]    In other parts of the bid Swifambo indicated that there would be no joint venture arrangement. Instead Vossloh would be a subcontractor doing 100% of the work or its supply partner or a supplier.
+
+ 
+[2017] JOL 38136 (GJ)  at 54
+
+[114]    Exploitation is not a requirement. The definition only requires an arrangement that undermines or frustrates the achievement of the objectives of the B-BBEE Act or the implementation of its provisions. The relationship that exists between Swifambo and Vossloh amounts to exploitation of the intended beneficiaries, being black people as defined in the B-BBEE Act.
+
+[115]    Swifambo's contention that the present case is not a scenario wherein a third party is using a black individual to gain an opportunity to the black individual's prejudice and is not consistent with the provisions of the B-BBEE Act. The contractual arrangement between Swifambo and Vossloh amounts to a fronting practice and is a criminal offence under the B-BBEE Act. Swifambo's involvement in a fronting act also justifies the setting aside of the contract.
+
+[116]    It is clear from the replying affidavit and the further affidavit filed by both Molefe and Mashaba that Molefe was informed by Mamabolo that Mashaba wanted to meet him. Mamabolo and an unknown person met Mashaba who told Mamabolo that he was worried that his involvement in the Swifambo tender would negatively affect his other businesses. Mashaba suspected that people were investigating him and he wanted the investigation to stop. He wanted Mamabolo to arrange a meeting with Molefe to discuss those issues. Mashaba explained to Mamabolo that he had initially been approached by a Makhensa Mabunda ("Mabunda") who convinced him to get involved with a tender to supply locomotives to PRASA. Mabunda told Mashaba that he was  
+[2017] JOL 38136 (GJ)  at 55
+friends with Montana who was working at PRASA. The requested meeting took place on 31 August 2015 between Molefe, Mamabolo, Mashilla Mtlala and Mashaba. Mashaba once again explained that he had been approached by Mabunda who had asked him to participate in a tender to supply PRASA with locomotives. Mashaba said that before being approached by Mabunda he had no previous business relationship with Mabunda. (This according to Molefe indicated that both Mashaba and Mabunda had no any experiences in supplying locomotives.) Mashaba told them that he knew that the Swifambo tender was under investigation and did not want his association with the tender to negatively affect his other businesses. He wanted an assurance from Molefe that his businesses would not be affected by the investigation. Molefe explained to him that he could not give him any assurance or indemnify him in any way. Mashaba did not deny all of this except to deny that Mabundla told him that he was friends with Montana. He also denied that he had no experience in supplying locomotives. He said that he had three years' experience in the rail industry at that time. Swifambo's goal was to become a whole-owned leading black industrialist company in the rail sector.
+
+[117]    I have raised the above to deal with the notion that Swifambo was an innocent tenderer. This was a strange submission to make when all the facts are taken into account. He clearly was not and had said that he was initially approached by Mabunda who convinced him to get involved with a tender to supply locomotives to PRASA. He had intended to become an industrialist. He was aware of the investigation and did not want his association with the tender  
+[2017] JOL 38136 (GJ)  at 56
+to negatively affect his other business. He wanted an assurance that his other businesses would not be affected by the investigation. This does not support his contention that he was an innocent tenderer. He also did not deny that he had told Mamabolo that he wanted the investigation to stop. There was no need for the investigation to stop if he was innocent. The inference to be drawn from what I have stated above is that Swifambo had no interest in the bid but was prompted to do so by Mabunda who was Montana's friend.
+
+[118]    It is clear from the facts of this case that Swifambo was shown not to be an innocent tenderer. The tender that was put out was for the lease of locomotives and not the sale of them. The respondent knew this but had despite this knowledge bid for the sale of locomotives. In doing so, it brought this harm upon itself. They obviously benefitted from the award of the tender. They should not have been given the tender in the first place. There were so many irregularities that took place in the award of the tender that the inescapable conclusion is that they were not innocent.
+
+[119]    Swifambo submitted that the locomotives were fit for purpose. It did so with reference to reports issued by Transnet and the Railway Safety Regulator, as well as a report compiled by an expert, which demonstrated that the locomotives delivered to PRASA were fit for purpose for which they were designed. PRASA on the other hand contended that the trains were not fit for the purpose. It also relies on various expert reports to disprove the fitness of the trains for its purpose.
+
+ 
+[2017] JOL 38136 (GJ)  at 57
+
+[120]    I do not deem it necessary to resolve this issue on paper since it is clear that there is a material dispute of fact. I am sitting as a review court and am required to determine whether there were any irregularities committed when the tender was awarded. If the goods that were received does [sic] not meet the specifications that is a separate cause of action.
+
+[121]    There were other issues raised about the additional payment made by PRASA to Swifambo that is approximately R335 million and over-invoicing. I do not have to decide these issues in a review application. These might be issues that will have to be dealt with in another forum and it will be inappropriate for me to make any pronouncement on it.
+
+[122]    It is clear from the facts placed before me that there is still an approximately one billion rands of public funds that has [sic] not been paid to Swifambo under the contract. This is a crucial factor in favour of setting aside the contract. The investment of those funds in a detrimental appointment to the exclusive benefit of Swifambo cannot be justified in the public interest. Swifambo simply has no right to those benefits. Swifambo has only delivered 13 locomotives out of the revised total of 70 locomotives which would be delivered to PRASA which is a crucial consideration in favour of setting aside the award.
+
+[123]    I accept that Swifambo will suffer some financial hardship if the tender is set aside. They simply brought this upon themselves when they had no right to  
+[2017] JOL 38136 (GJ)  at 58
+have been awarded the tender in the first place and they cannot benefit from an unlawful tender. I do not deem it appropriate to consider what alternative remedy that Swifambo has.
+
+[124]    It is clear that Swifambo was disqualified from the onset and this relates to the issue of the tax clearance certificate. They simply did not have one and should never have been allowed to bid. This was overlooked by the BAC.
+
+[125]    Corruption is a cancer that is slowing eating at the fabric of our society. If it is left unchecked it will devour our entire society. Chemotherapy is needed to curb it. The chemotherapy in this instance is an effective remedy that will nip the cancer in its bud. The remedy that the respondent is proposing will be making a mockery against the fight against unlawful tenders. It will send out a message that it pays to be involved in unlawful tenders and crime does pay. This is not the society that we fought for and should live in. There is simply no reason why the respondent should benefit from an unlawful award that was peppered with so many irregularities.
+
+[126]    In considering the question of remedial correction, the Constitutional Court in the Allpay Remedy judgment at paragraph [32] emphasised that in the context of public procurement matters generally, priority should be given to the public good.
+
+[127]    The primary reason that Swifambo provides for not setting aside the decision  
+[2017] JOL 38136 (GJ)  at 59
+is the financial prejudice it will suffer if the tender is set aside retrospectively. It submitted that by the time that the application was launched its expenses in terms of the contract had exceeded R2,5 billion.
+
+[128]    Any prejudice to Swifambo must be viewed in the context of several keys facts: Swifambo is a start-up, it has virtually no employees, business, customers and suppliers, and is a wholly-owned subsidiary of Swifambo Rail Holdings. Any prejudice to Swifambo, and particularly Swifambo Rail Holdings who devised the scheme, is immaterial in comparison to the prejudice to the public interest. The public interest and not the successful tender is the guiding interest when a court is determining the appropriate remedy.
+
+[129]    In determining an appropriate remedy, I should be mindful of the purposes of public procurement legislation and the constitutional imperatives of section 217. The defects in the award of the bid in the present case are egregious and allowing the respondent to continue with the contract would serve no remedial function and cannot therefore constitute "just and equitable relief", within the meaning of that requirement in section 172 of the Constitution.
+
+[130]    Harm has been done in this case to the principle that corruption should not be allowed to triumph. Harm will be done to the laudable objectives of our hard fought freedom if I was not to set aside the award. Harm will be done to all the hardworking and honest people of our land who refrain from staining themselves with corruption. Harm will been done were I to allow an  
+[2017] JOL 38136 (GJ)  at 60
+unlawful tender to remain intact. Harm will be done to the whistle blowers who were able to blow a whistle to members of the reconstituted board. Harm will be done if the benefactors of the tender were allowed to reap the benefits of their spoils. Harm will be done to the administration of justice if this award is not set aside from the onset. Corruption will triumph if this Court does not set aside the tender.
+
+[131]    The only just remedy is to set [aside] the contract with retrospective effect.
+
+[132]    It becomes unnecessary to consider the alternative relief.
+
+[133]    Both parties agreed that this application warranted the employment of three counsel. I agree.
+
+[134]    In the circumstances I make the following order:
+
+The time period within which the applicant had to institute these proceeding in terms of section 7(1) of PAJA is extended to 27 November 2015.
+The arbitration agreement contained in clause 36 of contract number HO/SCM/223/11/2011 ("the contract"), for the sale and purchase of locomotives agreement, dated 25 March 2013 is reviewed and set side. 
+[2017] JOL 38136 (GJ)  at 61
+PRASA's decision to award the contract to Swifambo, as well as its decision, taken on 25 March 2013, to conclude the contract with Swifambo is reviewed and set aside.
+The respondent is to pay the costs of the application which costs include the employment of three counsel.
+The respondent is to pay the opposed reserved costs of the application that was brought for further evidence.
+Appearance:
+Adv A Subel SC, Adv Q Leech SC, Adv P Ngcongo, Adv S Scott, Werksmans Attorneys (At); Adv G Marcus SC, Adv N Ferreira, Adv M Stubbs , Edward Nathan Sonnenbergs (R)
+
+
+End of Document

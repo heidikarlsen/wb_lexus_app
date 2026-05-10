@@ -1,0 +1,125 @@
+
+
+
+
+Independent Municipal and Allied Trade Union obo Bezuidenhout v Witzenberg Municipality and others [2014] 5 BLLR 443 (LC)
+Labour Law Reports
+
+Division: Labour Court, Cape Town
+Case No: C484/2012
+Date: 22/01/2014
+Before: Rabkin-Naicker Judge
+Keywords
+
+
+Application in terms of section 145 of the LRA
+Bargaining councils — Jurisdiction — Councils lacking jurisdiction to arbitrate disputes concerning alleged unfair labour practices relating to occupational detriments as contemplated in Protected Disclosures Act — Such disputes to be adjudicated by Labour or High Courts.
+Unfair labour practices — Disputes concerning unfair labour practices arising from alleged occupational detriments to be referred for adjudication by Labour Court or High Court.
+Sections of the LRA considered:
+Section 186(2)(d)
+Section 191(5)
+
+Editor’s Summary
+
+
+The applicant referred a dispute concerning an “occupational detriment” allegedly suffered by its member to the relevant bargaining council, which ruled that the council lacked jurisdiction to entertain the dispute. The applicant contended that this ruling should be set aside.
+
+The Court noted that the LRA includes as a form of unfair labour practice “an occupational detriment, other than a dismissal . . . on account of an employee having made a protected disclosure” as defined in the Protected Disclosures Act 26 of 2000. The issue here was whether such disputes could be referred for arbitration under the LRA. Disputes concerning unfair labour practices are dealt with in section 191, which provides, inter alia, that an employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court “if the employee has alleged that the employee has been subjected to an occupational detriment” as defined in the PDA. The Court held that the proper approach to interpreting statutes is to have regard to the plain meaning of the words, read in context, and with the purpose of the legislation in mind. Unfair labour practices relating to occupational detriments were added to the LRA by way of an amendment. The PDA provides that employees subjected to occupational detriments may approach “any court having jurisdiction”, including the Labour Court for appropriate relief. The LRA also provides that disputes about unfair labour practices contemplated by that Act which are not resolved by conciliation “may be referred to the Labour Court for adjudication”. The Court held that the clear purpose of these provisions was to ensure that any dispute concerning an alleged unfair labour practice may be referred for arbitration, while disputes concerning alleged occupational detriments must be referred for adjudication. 
+
+ 
+[2014] 5 BLLR 443 (LC) at 444
+
+The applicant’s pleas that a “constitutionally sensitive” approach should be adopted to the interpretation of these provisions could not override the consequence of a purposive construction.
+
+The application was dismissed, with no order as to costs.
+
+____________________________________________________________________________________
+
+Rabkin-Naicker J:
+
+The review before me concerns the following question: does the LRA afford a party an election between a referral to the Bargaining Council/CCMA and the Labour Court when that party alleges an unfair labour practice concerning an “occupational detriment” other than dismissal. The third respondent found that the bargaining council lacked the requisite jurisdiction to entertain such a dispute. The application was brought substantially late. Because it is important that the questions raised by the review are pertinently dealt with by this Court, I grant condonation for the matter to be heard.
+Given that this is a review of a jurisdictional ruling it is trite that this Court must simply decide whether the arbitrator was correct or not. She found contrary to the applicants argument before her that: “it has not been the practice to interpret section 191(13)(a) to mean that an employee has a choice between referring such matters to arbitration or adjudication.”
+Section 186 of the LRA includes the following in its definition of an unfair labour practice:
+“(6) an occupational detriment, other than dismissal, in contravention of the Protected Disclosures Act, 2000 (Act 26 of 2000), on account of the employee having made a protected disclosure defined in that Act.”
+Section 191 of the LRA deals with disputes about unfair dismissals and unfair labour practices. The applicant relies on the following subsections to found its argument:
+“(5) If a council or a commissioner has certified that the dispute remains unresolved, or if 30 days have expired since the council or the Commission received the referral and the dispute remains unresolved –
+the council or the Commission must arbitrate the dispute at the request of the employee if –
+
+. . .
+
+the dispute concerns an unfair labour practice; or
+the employee may refer the dispute to the Labour Court for adjudication if the employee has alleged that the reason for dismissal is-
+
+ (i) automatically unfair;
+
+ (ii) based on the employer’s operational requirements;
+
+ (iii) the employee’s participation in a strike that does not comply with the provisions of Chapter IV; or
+
+ (iv) because the employee refused to join, was refused membership of or was expelled from a trade union party to a closed shop agreement.
+
+  . . . 
+
+ 
+[2014] 5 BLLR 443 (LC) at 445
+
+ (13) (a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+
+A referral in terms of paragraph (a) is deemed to be made in terms of subsection (5)(b).”
+
+On a reading of the above sections the applicant submits that in terms of section 191(5)(a)(iv) a bargaining council or the CCMA must arbitrate (in the peremptory sense) an unfair labour practice dispute if so requested by an employee. It further argues that the LRA does not state that an unfair labour practice in section 186(2)(d) is excluded from the above section and neither is section 191(5)(a)(iv) qualified. In addition, whilst section 191(5)(a)(iv) is couched in peremptory language, section 191(13)(a) simply states that an employee “may” refer a dispute concerning a section 186(2)(d) unfair labour practice dispute to the Labour Court for adjudication.
+Following from the above Mr Niehaus for the applicant submits that:
+
+“With respect, there cannot be any question that based on the plain wording of the LRA an employee has an election to refer an unfair labour practice dispute concerning an alleged occupational detriment other than dismissal to either the Labour Court or arbitration.”
+
+In a unanimous judgment of the Supreme Court of Appeal1 Wallis JA recently summarised the current approach to statutory interpretation as follows:
+
+“The present state of the law can be expressed as follows: Interpretation is the process of attributing meaning to the words used in a document, be it legislation, some other statutory instrument, or contract, having regard to the context provided by reading the particular provision or provisions in the light of the document as a whole and the circumstances attendant upon its coming into existence. Whatever the nature of the document, consideration must be given to the language used in the light of the ordinary rules of grammar and syntax; the context in which the provision appears; the apparent purpose to which it is directed and the material known to those responsible for its production. Where more than one meaning is possible each possibility must be weighed in the light of all these factors. The process is objective, not subjective. A sensible meaning is to be preferred to one that leads to insensible or unbusiness-like results or undermines the apparent purpose of the document. Judges must be alert to, and guard against, the temptation to substitute what they regard as reasonable, sensible or businesslike for the words actually used. To do so in regard to a statute or statutory instrument is to cross the divide between interpretation and legislation; in a contractual context it is to make a contract for the parties other than the one they in fact made. The ‘inevitable point of departure is the language of the provision itself’, read in context and having regard to the purpose of the provision and the background to the preparation and production of the document.”
+
+ 
+[2014] 5 BLLR 443 (LC) at 446
+Taking the above approach into account I note as follows:
+section 195(a)(iv) deals with an obligation on the CCMA to arbitrate a dispute if certain conditions are met;
+section 191(13)(a) deals with the right of an employee to refer a dispute to the labour court after it has been conciliated or 30 days have passed since the referral to the CCMA. As submitted on behalf of the first respondent the word “may” in this context means that an employee has a choice whether to refer the matter or not;
+where the LRA deals with the right of an employee to refer a dispute it uses the word ‘may’ because evidently it would be ludicrous if a statute obliged employees to refer all labour disputes to tribunals or to this court.2
+
+“4 Remedies
+
+Any employee who has been subjected, is subject or may be subjected, to an occupational detriment in breach of section 3, may –
+
+ (a) approach any court having jurisdiction, including the Labour Court established by section 151 of the Labour Relations Act, 1995 (Act 66 of 1995), for appropriate relief; or
+
+ (b) pursue any other process allowed or prescribed by any law.
+
+For the purposes of the Labour Relations Act, 1995, including the consideration of any matter emanating from this Act by the Labour Court –
+
+ (a) any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal as contemplated in section 187 of that Act, and the dispute about such a dismissal must follow the procedure set out in Chapter VIII of that Act; and
+
+ (b) any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in Part B of Schedule 7 to that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part: Provided that if the matter fails to be resolved through conciliation, it may be referred to the Labour Court for adjudication.” (My emphasis.)
+
+it is clear from the above that the PDA contemplates a distinction between the unfair labour practices which were contained in Schedule 7 and now, subsequent to the 2002 amendments are provided for in section 186(2)(a), (b) and (c) of the LRA – the distinction being that an unfair labour practice in terms of 
+
+section 186(2)(d) may be referred to the labour court while the original ULP disputes may be referred to arbitration.
+
+Given all of the above, and in addition that section 191(13) of the LRA contains a deeming provision3 ie that a referral in its terms is deemed to be one made in terms of section 191(5)(b) – the provision dealing with disputes in which the labour court has jurisdiction and not the CCMA or a bargaining council, I am left in no doubt that the application in this matter must fail. Applicant’s submissions that a purposive constitutionally sensitive interpretation be given to the provisions in question, (while laudable, in that the purpose being that this would assist indigent litigants), cannot be sustained. The LRA reserves certain matters for adjudication in the labour court including and these deal with matters where constitutionally enshrined rights come into play. I do not believe this is a matter where a costs order should be granted.
+I, therefore, make the following order:
+The application for condonation is granted.
+The review application is dismissed.
+There is no order as to costs.
+
+The following case was referred to in the above judgment:
+
+
+Footnotes
+1	 Natal Joint Municipal Pension Fund v Endumeni Municipality 2012 (4) SA 593 (SCA) [also reported at [2012] 2 All SA 262 (SCA) – Ed].
+2	See ss 191(1)(a); (2)(a) and (12) which provides: (12) If an employee is dismissed by reason of the employer’s operational requirements following a consultation procedure in terms of s 189 that applied to that employee only, the employee may elect to refer the dispute either to arbitration or to the Labour Court.
+3	  “(a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of s 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+  (b) A referral in terms of paragraph (a) is deemed to be made in terms of ss (5)(b).”
+
+For the applicant:
+M Niehaus of Minaar Niehaus Attorneys 
+For the respondent:
+A de Wet instructed by Marieke van Rooyen Attorney 
+
+
+End of Document

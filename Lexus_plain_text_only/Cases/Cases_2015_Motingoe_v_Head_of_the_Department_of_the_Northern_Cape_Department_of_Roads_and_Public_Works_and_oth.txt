@@ -1,0 +1,309 @@
+
+
+
+
+Motingoe v Head of the Department of the Northern Cape Department of Roads and Public Works and others [2015] JOL 32734 (LC) 
+Judgments Online
+
+Division: Cape Town
+Case No: C18 / 2014
+Hearing Date(s): 21 / 02 / 2014
+Judgment Date(s): 04 / 03 / 2014
+Bench: Rabkin-Naiker J
+
+
+Keywords
+
+
+Labour law — Protected disclosure — Disciplinary proceedings — Application for suspension — Interim relief — Requirements
+
+Mini Summary
+
+
+The applicant sought the suspension of disciplinary proceedings pending the final determination of unfair labour practice disputes which he had referred to the bargaining council.
+
+Held that the Court had to decide whether the interim relief sought in the application should be granted. In an application such as this, the applicant must establish a prima facie right, even though open to some doubt; a well-grounded apprehension of irreparable harm if the interim relief is not granted; the absence of an alternative remedy; and a balance of convenience in favour of granting the interim relief.
+
+The Court found that the applicant had established a prima facie right, in that it appeared that he was being disciplined in circumstances which brought the provisions of the Protected Disclosures Act of 2000 into play. The Court also found the remaining requirements for interim relief to have been established by the applicant.
+
+The relief sought was accordingly granted.
+
+ 
+[2015] JOL 32734 (LC)  at 2
+
+RABKIN-NAICKER J:
+
+[1]    The applicant who is the Director and Head of Legal Services of the Northern Cape Department of Roads and Public Works (the Department), seeks the following relief:
+
+"That the disciplinary proceedings scheduled for 20 and 24 January 2014 be and are hereby suspended pending the final determination of the unfair labour practice disputes by means of the process contemplated by the General Public Service Sectoral Bargaining Council and/or by the Labour Court."
+
+[2]    The applicant has referred three disputes to the Bargaining Council two of which allege that his suspension by the first respondent and the holding of a disciplinary hearing amount to occupational detriments in terms of the Protected Disclosures Act, 2000 (the PDA). At the date of hearing of the application there had already been a consolidated conciliation process and the parties were awaiting the certificate of outcome of non-resolution of the disputes.
+
+Background
+
+[3]    The applicant avers that his responsibilities include the performance of functions relating to the Department's supply chain management. Importantly one function known as legal vetting, is derived from a National Treasury instruction aimed at enhancing compliance monitoring and improving transparency and accountability in supply chain management. The breadth of the instruction is disputed by the respondents. It reads as follows:
+
+Legal vetting of formal contracts or service level agreements
+Prior to signing a formal contract or service level agreement with a contractor, accounting officers and authorities must ensure that such contracts or agreements are legally sound to avoid potential litigation and to minimize possible fraud and corruption. This must include legal vetting by at least the Legal Services of the institution."
+
+[4]    According to the applicant, legal vetting was institutionalised in the Department, under its previous head. It is evident from the papers that the  
+[2015] JOL 32734 (LC)  at 3
+applicant played a large part in developing the oversight mechanism. The process involves a legal review of the entire process of procurement starting with the invitation to tender though the evaluation and adjudication of bids. More than 90% of the Department's services rely heavily on procurement and it oversees multi-million rand projects. The applicant alleges that after first respondent's appointment, legal vetting was implemented sporadically, if at all. There were several discussions between applicant and first respondent with regard to this situation. Applicant alleges there was unease and unhappiness in first respondent's office regarding the process.
+
+[5]    The tender process that preceded this application related to the procurement of professional engineering services for the repair of slip downshutes and drainage at Theekloof Pass, one of the key mountain passes linking the province with the Western Cape. The applicant alleges that the tender evaluation report and minutes of both the bid and bid adjudication committees, which are annexed to his papers contain the gravamen of irregularities he reported to the Department's Chief Financial Officer (CFO) in a memo dated 29 May 2013 (the memorandum). It is this memorandum that applicant avers is a protected disclosure under the PDA.
+
+[6]    According to the applicant, the tender evaluation report departs from a flawed evaluation premise and produces an equally flawed result. The bid evaluation committee failed to subject the report to any discernible scrutiny and the bid adjudication committee, while appearing to accept the scores in the evaluation report, reflects scores that are different from the final scores given in the report without explaining this. His memorandum regarding this bid states as follows:
+
+NC 272/2013: PROFESSIONAL ENGINEERING SERVICES: THE REPAIR OF SLIP DOWNCHUTES AND DRAINAGE AT TEEKLOOF PASS NEAR FRASERBURG
+
+According to the information obtained from the documents submitted, this was a close tender, where only specific companies were requested to submit proposals. I have not been advised of the reasons for this approach and what process was  
+[2015] JOL 32734 (LC)  at 4
+followed to identify the companies. According to the memo prepared by Mr Bulane requesting a deviation from the normal procurement process, which was supplied to me later, he requests a deviation 'because of the speciality of the works and capacity needed to repair the slip, the request is to deviate from the normal procurement system of appointing through roster system and the contractor through advertising'. This still does not explain how the three companies were arrived at. In any event, the recommended bidder, Bagale, is not on the roster, and has demonstrated no experience.
+
+The documents submitted are accompanied by an anonymous document titled 'Tender Evaluation Report' whose author is not identified. I will largely focus on this document as it appears to have determined the outcome of the evaluation and adjudication process.
+
+In this document it is alleged that the evaluation of the bids was done according to the procedures established in the CIDB Best Practice Guideline# A3 in respect of method 4. Whenever guideline# A3 is used it must be read with Guideline # A4, which describes the process for evaluating quality in tender submissions. CIDB guideline# A3 cautions that written reasons may have to be furnished to tenderers for administrative actions taken. This makes a detailed analysis of the document all the more crucial to ensure that there has been adherence to the legally recognized procedures.
+
+The document correctly states that Method 4 envisages the evaluation of the financial offer, quality and preferences. It also proceeds to state that 'quality shall be scored independently by not less than three evaluators in accordance with the following schedules. . ..' However, the identity of the evaluators has not been disclosed, neither are the individual scores allocated. The scores that have been given to the bidders are not attributed to any ascertainable procedure, thus there is no explanation as to how the scores were arrived at. This compromises the objectivity and transparency that is mandated by the Guidelines and the legal framework.
+
+The document starts by stating that the 90/10 preference points system will be used. Legally the 90 points represent the financial offer in every case, yet bizarrely, the document proceeds to eliminate price and replace it with quality in the entire evaluation exercise. In fact this approach is confirmed in a letter dated  
+[2015] JOL 32734 (LC)  at 5
+10 April 2013 in which Mr Bulane advises the bidders that 'price must be replaced with quality on page T2, 16' which the bidders then proceeded to do. This approach is not legally justifiable as quality must be evaluated separately in a two-envelope system and cannot be used as a substitute for price. The approach adopted here is in conflict with the CIDB Guidelines which recognize quality only as part of the preference package, and not as a possible substitute for price.
+
+The evaluation used here implies the conflation of what would normally be a two-envelope approach into a one-envelope system, with one notable anomaly: the total elimination of price or financial offer from the equation. The evaluation of quality is nothing more than the evaluation of functionality that should be done in a two-envelope system. This document makes bold to state that 'the method of tendering used is one envelope method where it will be Technically proposal and no financials needed for this tender as all fees are gazetted'. This cannot fly as the financial offer in situations such as this could involve the evaluation of the discounts given.
+
+In a two envelope system quality is evaluated in the first envelope and only those bids that pass the determined threshold proceed to be evaluated on a 90/10 point system for price and preference in the second envelope.
+
+In this case what should have happened is this: the bids should first have been evaluated on functionality (technical offer). Thereafter their discounts and preference claims would be evaluated as their financial offer and preference claims.
+
+The CIDB Method 4 does not recognize a method that excludes financial offer from the evaluation process.
+
+What is also not clear is how the points allocated for quality were arrived at. The members of the committee that did the evaluation and the scores they allocated to the bidders are not revealed in the document. CIDB Best Practice Guideline # A3 prescribes a process and format that must be followed. These do not appear to have been adhered to in this case.
+
+What makes the point-allocation even more suspect is that while the recommended bidder, Bagale, has submitted no or very, very little evidence in relation to its experience relevant to the service required.
+
+The BEC and BAC accepted without any interrogation the score for quality as stated in the document.
+
+ 
+[2015] JOL 32734 (LC)  at 6
+
+In short, the entire procurement process is irregular and cannot support any legitimate award.
+
+In any event, the recommended bidder, Bagale, would have been non-responsive for failure to make an honesty disclosure in its declaration of interest. I have provided the profile of its directorship structure and also the interests attached to its directors."
+
+[7]    According to the applicant his expectation was that unless his findings in the said memo were founded on a factual misdirection, which would be discussed with him, no legitimate award would be made in the face of the serious irregularities.
+
+[8]    It is applicant's case that in the wake of the memorandum he became aware of the unusually close relationship between his subordinates and the office of the Head of Department. He states that there was a collapse of discipline in his unit and every time he tried to enforce it, his staff would go to first respondent to complain. In July 2013, first respondent appointed a legal advisor in his office without notifying applicant of the development. In August 2013, certain of his subordinates were appointed to bid committees without any consultation with applicant which had never happened before. In October 2013, a Mr Osman was appointed to "investigate management issues in Legal Services". The applicant refers to all these developments as "a pattern of harassment".
+
+[9]    Applicant informed Osman that he believed the investigation was a thinly disguised ploy to divert attention "from the corruption in which the first respondent was involved" and that he was using his subordinates to undermine the authority in his unit. He advised Osman "that any investigation would have to involve the open examination of the complaints of my subordinates and that I also wish to put certain questions to the First Respondent".
+
+[10]    In August 2013 applicant became aware that in spite of the "identified irregularities", the first respondent had gone ahead and appointed Bagale Consulting to the Theekloof Pass contract. He then alleges he made several attempts to bring the matter to the attention of the second respondent and when he could not secure an appointment with him, he informed a certain Mr  
+[2015] JOL 32734 (LC)  at 7
+Mohamed Sulliman, a senior official in his office, about the alleged irregularities and confirmed this in later correspondence to second respondent.
+
+[11]    The applicant then sought an appointment with the chairperson of the department's audit committee, Mr Chineme Ogu who holds an office identified in the Department's whistle-blowing policy as being one to which protected disclosure may be made. Mr Ogu advised him to brief the Department's Senior Internal Auditors which he did. Applicant also informed Mr Ogu that he had since become aware that some tenders where awarded contrary to the findings of the legal vetting process and in some cases contacts were awarded without the benefit of a legal vetting.
+
+[12]    On 1 November 2013, applicant sent an email to the second respondent to try and secure a meeting with him and he avers that: "I made him aware of the existence of irregularities in which the first respondent was implicated. I also informed him that I had provided information in this regard to the audit committee and that I had discussed the irregularities with Mr Sulliman".
+
+[13]    There followed a meeting on 21 November called by the first respondent and also attended by the Chief Director of Corporate Services of the Department Mr Slingers. The meeting was clearly heated as is apparent from the different versions recorded by applicant and first respondent. What is common cause is that the first respondent told applicant that he, applicant, was trying to blackmail him in relation to the allegations of tender irregularities. On the 22 November 2013 the applicant was suspended in terms of paragraph 2.7(2)(a) of the SMS Handbook for the Public Service. The reason given for the suspension was that he was "suspected of serious misconduct in that you are disclosing confidential information from the department to third parties". The suspension letter was signed by the second respondent. It is noteworthy that there is no affidavit filed of record by the second respondent.
+
+[14]    On 26 November 2013, applicant was served with a notice to appear before a disciplinary Tribunal. The charges proffered did not relate to the disclosure of confidential information. They read as follows:
+
+"COUNT 1: 
+[2015] JOL 32734 (LC)  at 8
+On or about the 22nd March 2011, The Member of Executive Council (MEC), the Honourable David Rooi, issued instruction under his hand that no instruction to attorneys shall be issued, without prior consultation of the Head of Department, subsequent to this instructions by the MEC. You issued various instructions to attorneys, without prior consultation with the Head of Department, consequently you made yourself guilty of gross insubordination.
+
+COUNT 2:
+
+On or about the 21st November 2013, you were offensively contemptuous towards the Head of Department, in that you treated the HOD with disdain, and threatened the HOD, and as such made yourself of the misconduct of insolence.
+
+COUNT 3:
+
+On or about 20 May 2008, you declared in your Z83 application form the following:
+
+'I declare that all the information provided (including any attachments) is complete and correct to the best of my knowledge. I understand that any false information supplied could lead to my application being disqualified or discharged if I am appointed.'
+
+You know that the information you supplied was not complete and correctly, as you failed to disclose in your Z83, or accompanying documentation that you have been struck of the Roll of attorneys, consequently you have committed the misconduct of fraudulent misrepresentation, by omitting to declare this crucial fact to your employer.
+
+COUNT 4:
+
+During your tenure as Head Legal Services, you treated your subordinates with disdain, and you victimized your subordinates, and made the employment intolerable for your subordinates, as such as you failed and/or neglected your duties to ensure employment justice at the workplace, resulting in inefficiency at your workplace."
+
+[15]    It is evident from first respondent's answering papers that he disagrees with applicant on the function of legal vetting as provided for in the treasury directive. Referring to clause 3.6.1 of the treasury directive he avers that:
+
+"It is clear that legal vetting related specifically to 'formal contract or service level agreements', and his duty of Legal Vetting is limited: '{to} ensure that such contracts or agreements are legally sound to avoid potential litigation and to minimize possible fraud and corruption'. 
+
+ 
+[2015] JOL 32734 (LC)  at 9
+
+Nowhere is this Treasury Note does it state that the Applicant should be legally vetting the tender process. This process, I believe has sufficient stop fail measures.
+
+In addition I hold the view that the Supply Chain process is better managed by Supply Chain fundis/technocrats. This view is wholly supported by the Treasury Note, and an opinion of Treasury, wherein, Treasury stated that if you are not a member of the Bid Evaluation Committee or Bid Adjudication Committees you are not entitled to have access to any of the documentation, see annexure 'A'.
+
+In the Department there was an absolute flaunting of Supply Chain Process, as the Applicant was privy, to information; Applicant was not entitled to, under the guise of Legal Vetting."
+
+[16]    The opinion contained in the said annexure "A" is a letter to the first respondent dated 14 January 2014 by the General Manager of Assets and Liabilities of the Northern Cape Provincial Treasury. It states in answer to a request from first respondent for an outline of the procurement process in terms of supply management guidelines that: "it should be emphasized that the vetting of the recommended supplier is performed by a supplier chain practitioner as per the instructions of the bid adjudication committee. A person who is not a member of the bid adjudication committee may not participate in the vetting process as this could compromise the confidentiality of the bid evaluation and adjudication process".
+
+[17]    It is important to record the first respondent's answer to the memorandum as set out in paragraphs 29–35 of the answering papers:
+
+In relation to the so called 'Theekloof Pass' tenders, which the Applicant alleges was improperly awarded I wish to state as follows:
+That the process was properly evaluated by a technical committee, of engineers who produced a Tender Evaluation Report, see annexure 'MSM5' 
+[2015] JOL 32734 (LC)  at 10
+ 29.2 The Technical Committee overstepped its powers, when it steered into the domain of the Bid Evaluation Committee when it provided points for BEC and BAC. This function is for Supply Chain exercise.
+The process of Supply Chain Management is always vetted by the relevant experts, who advise the other committee. What is peculiar is this instance was the interests of the Applicant had in this particular tender, to an extent of contradicting the experts, and trying to mislead the CFO, by stating that Bagale, does not have the necessary expertise. I am not sure what the interests of the Applicant is in this particular matter. In fact in the past the Applicant never used to interfere with technical reports, as he has done in this instance.
+The Tender was considered by the Bid Evaluation Committee and adjustment in the form of 8 points was made in relation to this issue of BBBEE Certificate, the comment state:
+
+'Bidder does not qualify for preference as he submitted an uncertified copy of BBBEE" this was in relation to Jeffares and Green.'
+
+Thereafter it went to the Bid Adjudication Committee, this in any event falls outside the legal vetting, and as such any so called legal vetting was irregular.
+I need to draw it to this Honourable Courts' attention that the allegation that Bagale was not technically competent to carry out the project is a fallacy at worst, if it was not made with the intention of malice.
+Bagale Consulting (Pty) Ltd, which is the contentious bidder, according to Applicant, was in the process of repairing flood damage on the Theekloof Pass, when another part of the Theekloof Pass, collapsed due to flood damage. The Department decided to enlist the services of Bagale Consulting (Pty) Ltd once they have completed repairs on the side were they were busy.(sic)
+Bagale did the designs and the scoping of the work to be done, on the side that collapsed. The Department decided to enlist the services of Bagale to do the repairs, but realized the price to do the repairs, would have resulted in the contravention of the Supply Chain Management  
+[2015] JOL 32734 (LC)  at 11
+Relations. It was then decided to go out on tender, but it should be noted that the Department was already spending an amount in excess of R160 000.00 ( Hundred and Sixty Thousand Rand), per month on traffic control at the site in Theekloof Pass, to direct traffic, so as to ensure the safe passage of motorists.
+It was therefore an urgent situation that required immediate action by the Department. In addition to the fact that Bagale just completed repairs on one side of Theekloof Pass, meaning that they were aware pitfalls of the project. The Department held the view that it would be prudent to enlist the services of Bagale, as they have already done the designs, scoping and as such it will avoid fruitless and wasteful expenditure. If a new company's services has to be enlisted, as they surely will want to do the designs first. In fact this would have delayed the repairs, and it would have been high risk to the motoring public. It should also be drawn to the Courts attention that the pricing structure of the entire consultants are gazetted.
+These allegations of irregularities or corruption is grounded on the fallacy that the Applicant is the paragon of correctness, where it comes to tenders. In such as much as, I have shown herein that the Applicant in the first place should never have been involved to the extent that he has been in the Supply Chain Management, as his function of legal vetting does not entail adjudication and awarding tenders, which appears to be the bone of contention behind the corruption allegations."
+
+[18]    In reply to the above explanation, the applicant states, inter alia, the decision to tender to Bagale long before the tender was advertised made the process a sham explaining the anomalies he had recorded in his memorandum. He alleges the invitation of the other companies to bid was then a poorly disguised attempt at giving the process a veneer of legitimacy. Furthermore, the problems at the pass had been there for more than a year and any urgency was self-created. Moreover applicant asserts that Bagale did not have the required expertise to do  
+[2015] JOL 32734 (LC)  at 12
+the work which was a quite different project from that on the other side of the pass.
+
+Evaluation
+
+[19]    The court has to decide whether the interim relief sought in this application should be granted. It is trite that in an application such as this the applicant must establish the following:
+
+A prima facie right, even though open to some doubt;
+a well-grounded apprehension of irreparable harm if the interim relief is not granted;
+absence of an alternative remedy;
+a balance of convenience in favour of granting the interim relief.
+
+[20]    Where the applicant cannot show a clear right, and more particularly where there are disputes of fact, the court's approach in determining whether the applicant's right is prima facie established, though open to some doubt, is to take the facts as set out by the applicant, together with any facts set out by the respondent which the applicant cannot dispute, and to consider whether, having regard to the inherent probabilities, the applicant should on those facts obtain final relief at the trial of the main action.1
+
+[21]    In Palace Group Investments (Pty) Limited and another versus Mackie2the Labour Appeal Court dealing with a similar application stated with regards to the first pre-requisite above that:
+
+". . .it is necessary to assess whether an applicant has, prima facie, established a right capable of protection. In the context of this particular matter, this calls for a determination of whether the information disclosed by the respondent prima facie falls within the definition of a protected disclosure;  
+[2015] JOL 32734 (LC)  at 13
+put differently, whether such information prima facie qualifies as a protected disclosure.
+
+The question is whether the respondent had put sufficient information at the disposal of the Court a quo to enable it to determine where had had shown a prima facie right to entitlement to the protection afforded by the PDA. This inevitably calls for an assessment and analysis of the information disclosed . . ..in the founding affidavit . . ..to determine whether it amounts to a disclosure. If it constitutes a disclosure, the next question would be whether such disclosure is protected. If the disclosure amounts to a protected disclosure, the next consideration would be whether the respondent was subjected to an occupational detriment."3
+
+[22]    The PDA defines a disclosure as follows:
+
+"disclosure' means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+That a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+that a miscarriage of justice has occurred, is occurring or is likely to occur;
+that the health or safety of an individual has been, is being or is likely to be endangered;
+that the environment has been, is being or is likely to be damaged;"
+unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000); or 
+[2015] JOL 32734 (LC)  at 14
+has been, is being or is likely to be deliberately concealed;"
+
+[23]    The memorandum in question falls within the category of a disclosure in terms of the PDA, in that it tends to show that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject. Considering the founding and answering affidavits, it is apparent that first respondent's version of the tender process itself confirms that the procurement process was not conducted according to the requisite prescripts. These are contained in the Public Finance Management Act, 1999, and the prescripts of the Constructional Industry Development Board (CIDBA), inter alia.
+
+[24]    The next issue to consider is whether there are prospects of success in the main action establishing that the disclosure is protected. A protected disclosure is defined as follows:
+
+"'protected disclosure' means a disclosure made to-
+
+a legal adviser in accordance with section 5;
+an employer in accordance with section 6;
+a member of Cabinet or of the Executive Council of a province in accordance with section 7;
+a person or body in accordance with section 8; or
+any other person or body in accordance with section 9,
+
+but does not include a disclosure-
+
+in respect of which the employee concerned commits an offence by making that disclosure; or
+made by a legal adviser to whom the information concerned was disclosed in the course of obtaining legal advice in accordance with section 5;"
+
+[25]    In casu the disclosure was made to the applicant's employer (the CIO, inter alia), the Chairman of the Audit Committee in accordance with the Department's  
+[2015] JOL 32734 (LC)  at 15
+whistle-blowing policy, and to the second respondent. Sections 6 and 7 of the PDA provide:
+
+Protected disclosure to employer
+Any disclosure made in good faith-
+and substantially in accordance with any procedure prescribed, or authorised by the employee's employer for reporting or otherwise remedying the impropriety concerned; or
+to the employer of the employee, where there is no procedure as contemplated in paragraph (a),
+
+  is a protected disclosure.
+
+Any employee who, in accordance with a procedure authorised by his or her employer, makes a disclosure to a person other than his or her employer, is deemed, for the purposes of this Act, to be making the disclosure to his or her employer.
+Protected disclosure to member of Cabinet or Executive Council
+
+  Any disclosure made in good faith to a member of Cabinet or of the Executive Council of a province is a protected disclosure if the employee's employer is-
+
+an individual appointed in terms of legislation by a member of Cabinet or of the Executive Council of a province;
+a body, the members of which are appointed in terms of legislation by a member of Cabinet or of the Executive Council of a province; or
+an organ of state falling within the area of responsibility of the member concerned."
+
+[26]    The issue in dispute between the parties in this part of the enquiry is whether the disclosures were made in good faith. I must consider the inherent probabilities – does the applicant have an agenda to exercise more power than he is due in the Department, as contended by the first respondent. As the first respondent puts it, does he wish to wag the tail of the dog? Or is he primarily motivated by his fiduciary duty to ensure that steps are taken to prevent irregularities and corruption in the tender processes, which he sees as  
+[2015] JOL 32734 (LC)  at 16
+his function in terms of the relevant treasury instruction. In my judgment, on the papers before me, it is more inherently probable that the latter motivation should be ascribed to the applicant. This is a matter that will be properly ventilated when oral evidence is heard and the dispute finally determined.
+
+[27]    The next question to ask is whether prima facie the disciplinary steps of suspension and charges against the applicant are an occupational detriment. The PDA defines an occupational detriment as:
+
+"'occupational detriment', in relation to the working environment of an employee, means-
+
+being subjected to any disciplinary action;
+being dismissed, suspended, demoted, harassed or intimidated;
+being transferred against his or her will;
+being refused transfer or promotion;
+being subjected to a term or condition of employment or retirement which is altered or kept altered to his or her disadvantage;
+being refused a reference, or being provided with an adverse reference, from his or her employer;
+being denied appointment to any employment, profession or office;
+being threatened with any of the actions referred to paragraphs (a) to (g) above; or
+being otherwise adversely affected in respect of his or her employment, profession or office, including employment opportunities and work security;"
+
+[28]    Given the content of the letter of suspension written by the second respondent (who has chosen not to depose to an affidavit in these proceedings) I accept that a nexus between the disclosure and the subsequent disciplinary steps has been established to the level of proof required by these proceedings. It is not necessary for this Court to examine the nature of the charges that followed on the suspension, save to note that the "disclosure of confidential  
+[2015] JOL 32734 (LC)  at 17
+information", the professed reason for the suspension, does not feature in them.
+
+[29]    Having found that the applicant has met the requirement of a prima facie right, I consider whether the balance of convenience favours the relief sought and whether a hearing in due course in this Court (after the disciplinary hearing takes place) is to be considered a suitable alternative remedy in this case. The applicant requested the Department to postpone the disciplinary proceedings pending the finalisation of the whistle-blowing disputes. This they refused to do. In my judgment the prejudice to the applicant should the disciplinary charges go ahead before the PDA dispute is adjudicated is to be considered greater than the financial prejudice to the Department of keeping applicant on paid suspension.
+
+[30]    Moreover, there must be public interest considerations involved in exercising the discretion to suspend disciplinary proceedings where it has been shown that an applicant has established a prima facie right, although open to some doubt, that an occupational detriment has been committed. It is apposite to note that the preamble to the PDA provides that:
+
+"Preamble
+
+Recognising that-
+
+the Bill of Rights in the Constitution of the Republic of South Africa, 1996, enshrines the rights of all people in the Republic and affirms the democratic values of human dignity, equality and freedom;
+section 8 of the Bill of Rights provides for the horizontal application of the rights in the Bill of Rights, taking into account the nature of the right and the nature of any duty imposed by the right;
+criminal and other irregular conduct in organs of state and private bodies are detrimental to good, effective, accountable and transparent governance in organs of state and open and good corporate governance in private bodies and can endanger the economic stability of the Republic and have the potential to cause social damage;
+
+And bearing in mind that- 
+[2015] JOL 32734 (LC)  at 18
+ • neither the South African common law nor statutory law makes provision for mechanisms or procedures in terms of which employees may, without fear of reprisals, disclose information relating to suspected or alleged criminal or other irregular conduct by their employers, whether in the private or the public sector;
+
+every employer and employee has a responsibility to disclose criminal and any other irregular conduct in the workplace;
+every employer has a responsibility to take all necessary steps to ensure that employees who disclose such information are protected from any reprisals as a result of such disclosure;
+
+And in order to-
+
+create a culture which will facilitate the disclosure of information by employees relating to criminal and other irregular conduct in the workplace in a responsible manner by providing comprehensive statutory guidelines for the disclosure of such information and protection against any reprisals as a result of such disclosures;
+promote the eradication of criminal and other irregular conduct in organs of state and private bodies,
+
+BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:-"
+
+[31]    The question as to whether an alternative remedy exists must be examined recognising that the PDA's definition of occupational detriment is very wide. In Booysen v Minister of Safety & Security and others4 the Labour Appeal Court found that the Labour Court has jurisdiction to interdict any unfair conduct including disciplinary action. However it held that such an intervention should be exercised in exceptional cases. It was not appropriate to set out the test, and it had to be left to the discretion of the Labour Court to exercise its powers having regard to the facts of each case. Amongst the factors to be considered would be whether failure to intervene would lead to grave injustice or whether justice might be attained by other means. In my judgment the test  
+[2015] JOL 32734 (LC)  at 19
+for intervening in disciplinary proceedings by means of the relief sought in the type matter before me cannot be simply equated to a cause of action that is not based on the PDA such as the matter in Booysen. Therefore I do not consider that the "exceptional" principle should be applied in casu, and a court may be more inclined to exercise its discretion to interdict disciplinary proceedings in a PDA matter. This approach takes into consideration both the ambit of the definition of occupational detriment in the PDA, and the public interest considerations which the PDA enjoins the court to consider.
+
+[32]    In all the above circumstances, I consider it to be in the interests of justice that the interim relief applied for is granted. The applicant represented himself in these proceedings and I will not make a costs order:
+
+Order:
+
+The disciplinary proceedings which were scheduled for 20 and 24 January 2014 are hereby suspended pending the adjudication of the disputes between the parties referred to the GPSSBC alleging occupational detriments in contravention of the Protected Disclosures Act, 2000.
+
+
+Footnotes
+1	  See Gool v Minister of Justice and another, 1955 (2) SA 682 (C) at 687–8 [also reported at [1955] 3 All SA 115 (C) – Ed]; Pietermaritzburg City Council v Local Road Transportation Board, 1959 (2) SA 758 (N) at 772 [also reported at [1959] 2 All SA 566 (N) – Ed].
+2	 JA52 / 12 heard on 28 May 2013.
+3	 At paras [19] and [20].
+4	  (2011) 32 ILJ 112 (LAC) [also reported at [2011] 1 BLLR 83 (LAC); [2010] JOL 26450 (LAC) – Ed].
+
+Appearance:
+Mathloko Stephen Motingoe (At); Advocate TC Tshavhungwa, Mijila and Partners (R)
+
+
+End of Document

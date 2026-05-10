@@ -1,0 +1,174 @@
+
+
+
+
+State Information Technology Agency (Pty) Ltd v Pasela Johannes Sekgobela [2017] JOL 39581 (LAC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JA 53 / 2008
+Hearing Date(s): 23 / 02 / 2011
+Judgment Date(s): 06 / 06 / 2012
+Bench: Mlambo JP, Jappie J, Molemela AJA,
+
+
+Keywords
+
+
+Labour and Employment — Dismissal — Burden on employee — Burden on employer to show fairness of such dismissal
+Labour and Employment  - Dismissal — Based on making a disclosure — Burden on employee to show that disclosure was protected — Dismissal automatically unfair.
+
+Mini Summary
+
+
+The respondent an employee of the appellant, made a complaint to the CEO of the appellant about irregularities in the internal management of the appellant, including breaches of codes under the PFMA. Two months later, by which time the respondent had not received any evidence that his allegations were being acted upon, reported the anomalies to the Public Protector and filed a complaint with the South African Police Service. The respondent was subsequently dismissed by the appellant and the respondent referred the matter to the Labour Court, which decided the matter in his favour.
+
+Held in dismissing the appeal,  that section 192 of the Labour Relations Act 66 of 1995 (“the LRA”) ordained a two-stage process whereby (a) an employee who alleges that he has been dismissed must prove such dismissal (b) once the dismissal is proven, the onus then shifts to the employer to prove that such dismissal was fair or for a legitimate purpose or reason. In cases where it is alleged that the dismissal was automatically unfair the situation was much the same save that the evidentiary burden to produce evidence that is sufficient to raise a credible possibility that an automatically unfair dismissal has taken place rests on the applicant (employee). If the applicant succeeds in discharging this evidentiary burden to show that the reason for the dismissal did not fall within the circumstances envisaged by section 187 (1) of the LRA rests with the employer. A mere allegation will not suffice, but the employee must produce evidence that is sufficient to raise a credible possibility. It is trite that the facts on which the reason for dismissal is based must be established objectively and the onus rests on the employer. It is also clear that the fairness of the dismissal rests on the employer to show that the assessment of such fairness depends on the factors proved and canvassed in evidence. On the facts, it is common cause that the respondent was dismissed. In addition, he gave evidence that his dismissal was not for the reasons stated in the letter of dismissal, but that he was dismissed for blowing the whistle on what he perceived as irregular and non-compliance issues on the part of the appellant. The evidence of the respondent, which was uncontradicted, satisfactorily permitted the inference that he was dismissed for whistle-blowing, and that such a dismissal is automatically unfair.
+
+ 
+[2017] JOL 39581 (LAC) at 1
+
+
+
+
+[1]    This appeal is concerned with the fairness of the dismissal of the respondent. The Labour Court (Basson J) found that he was unfairly dismissed and granted him relief. The appeal is against that order with the leave of the Labour Court.
+
+ 
+[2017] JOL 39581 (LAC) at 2
+
+[2]    The appellant is a company registered under the Companies Act1 and was established in terms of the State of Information Technology Act.2 The appellant will henceforth be referred to in this judgment as SITA. The respondent was employed by the appellant on 1 September 2002 as a Programme Manager in the SITA D section of the appellant's Projects Division.
+
+[3]    On 18 December 2003, the respondent presented to the CEO of the appellant with a document in which he raised a grievance regarding his performance review done on 23 October that year. The other issue he raised related to what he perceived to be irregularities and non-compliance with the procurement policies of the appellant. His concerns related to what I shall refer to as the CALMIS implementation Project, the OSIS project and Tender 0199. (I do not deem it necessary, for purposes of this judgment, to detail what these projects entailed.) The respondent testified that his understanding was that he reached agreement with the CEO that his grievance regarding his performance review would be attended to by his supervisor and that the CEO would attend to the CALMIS matter.
+
+[4]    On 9 February 2004, the respondent submitted a letter, headed "Matters of concern at State Information Technology Agency", to which he attached a bundle of documents, comprising some 75 pages, to the Public Protector regarding the issues he had raised with the CEO. This was based on his view that the CEO had done nothing in response to the complaint he had referred to the latter. He testified that by so doing he was making a disclosure to the Public Protector about conduct he perceived to amount to irregularities occurring within the appellant. He also made a referral of the same issues to the South African Police Services. During August 2004, the Office of the Public Protector referred the letter to the appellant requesting the latter to investigate the allegations made by the respondent. During the same month the appellant subjected the respondent to disciplinary action and  
+[2017] JOL 39581 (LAC) at 3
+subsequent to being found guilty he was issued with a warning but this was overturned on appeal.
+
+[5]    Thereafter a series of events took place between the appellant and the respondent which attests to the souring of the relationship between the parties. For instance, the respondent's responsibilities were removed from him and he responded with a grievance and an unfair labour practice referral to the Conciliation Mediation and Arbitration of South Africa (CCMA). His responsibilities were subsequently reinstated but on 26 January 2005, the respondent was suspended and was given a notice to attend an incompatibility hearing.
+
+[6]    The notice basically stated that the respondent was incompatible with the appellant and its management. This allegation was based on a number of charges ranging from refusal to cooperate with line management; a failure to attend an investigatory disciplinary hearing and failure to attend internal management meetings. The note also alluded to the fact that the respondent had referred a complaint to the protector arising out of use grievance, which was still being investigated internally, as well as a charge that he had laid a criminal complaint of alleged corruption by line management with the South African police services. The notice also made mention of the fact that in the process of laying the criminal complaint with the South African police services, the respondent had copied classified documents and provided them to the South African Police Services without prior permission from the appellant and that this had resulted in a risk that restricted information was disclosed without the consent of the appellant or its management.
+
+[7]    The hearing was held on 8 February 2005 and the respondent was in attendance. From the record, it appears that this hearing was not concluded and meant to continue on 6 April 2005 but the respondent was absent. The respondent testified that he was unaware that the hearing was to continue on that day. The respondent subsequently received a letter from the appellant on 4 May 2005, informing him that  
+[2017] JOL 39581 (LAC) at 4
+he had been found guilty and was dismissed. The respondent contested the fairness of his dismissal he referred a dispute to the CCMA for conciliation. The respondent alleged that' his dismissal was automatically unfair in terms of section 187(1)(h)3 of the Labour Relations Act.4 This was based on his view that the dismissal was an occupational detriment5 in contravention of the Public Disclosure Act6 (PDA).
+
+[8]    The CCMA was however unable to resolve the dispute through conciliation and the respondent referred the matter to the Labour court for adjudication. In his application to the Labour Court, the respondent alleged that he had suffered an occupational detriment and prayed for appropriate relief. The matter was eventually heard by the Labour Court on 3 February 2008. During the trial the respondent gave evidence in support of his claim of being unfairly dismissed on account of having made a protected disclosure within the contemplation of the PDA. In the trial that ensued in the Labour Court, the respondent gave evidence detailing the background leading to his dismissal as well as regarding his allegations of wrongdoing within the appellant leading to him making the disclosure to the Public Protector.
+
+[9]    After the appellant's legal representatives concluded his cross-examination, they moved an application for absolution from the instance. The application was refused and the appellant thereafter closed its case without adducing any evidence. The Labour Court found that he had indeed been the victim of an occupational detriment and upheld his claim. The Labour Court concluded that his dismissal  
+[2017] JOL 39581 (LAC) at 5
+was automatically unfair and awarded him compensation equalling to 24 months remuneration.
+
+[10]    In coming to its conclusion, the Labour Court exhaustively analysed the evidence adduced by the respondent as well as the PDA. The Labour Court essentially found that the respondent had made a disclosure within the contemplation of the PDA and that he had suffered an occupational detriment by being dismissed on account thereof. This finding was based on the Labour Court's view that the appellant was a public entity and as such was subject to the Public Finance Management Act7 (PFMA). In this regard, the Labour Court's view was that the appellant's SITA Procurement Policy and Procedures (the SPPP), referred to by the respondent, was a policy required by the PFMA in terms of which the appellant is bound regarding procurement transactions done on its behalf. The Labour Court found that the disclosure made by the respondent to the office of the Public Protector was based on the respondent's view that there was an attempt by officials of the appellant to enter into certain tender transactions as referred to above without compliance with the SPPP.
+
+[11]    The appellant's case before us is essentially that the respondent bore the burden to show that he was dismissed as alleged by him. This boils down to the question whether he had shown that he had made a disclosure that is protected within the contemplation of the PDA. In this regard, it was argued that he had not discharged such burden and that he had in fact made no protectable disclosure. On this basis, it was argued that the Labour Court heard erred in upholding his claim and in awarding him compensation which it was contended was excessive.
+
+[12]    Perhaps the point of departure in scrutinising this appeal is section 192 of the LRA. This section provides:
+
+In any proceedings concerning any dismissal, the employee must establish the existence of the dismissal.
+If the existence of the dismissal is established, the employer must prove that the dismissal is fair.' 
+[2017] JOL 39581 (LAC) at 6
+
+[13]    It is clear that section 192 provides for a two stage process in dismissal disputes. First the employee who alleges that he/she was dismissed must prove that there was in fact dismissal and once the existence of the dismissal is established then the employer must prove that the dismissal was fair. It is clear therefore that the onus to prove the existence of the dismissal lies first on the employee. The word "must" in section 192 means that the provisions of the section are peremptory.8 The employee must set out the facts and legal issues which substantiate his assertion that a dismissal occurred. Once the employee has proved that dismissal did take place, the onus is shifted to the employer who must prove that the dismissal was for a fair reason such as for instance misconduct.
+
+[14]    In Kroukam v SA Airlink (Pty) Ltd,9 this Court held that it is not for an employee to prove the reason for dismissal but to produce evidence sufficient to raise the issue and once this evidentiary burden is discharged, the onus shifts to the employer to prove that the dismissal was for a fair reason. See also Stocks Civil Engineering (Pty) Ltd v Rip NO and another,10 a case where the employer contended that the employee had not been dismissed but that the contract of employment was terminated by mutual consent, the court at paragraph 15 held that the arbitrator erred in not considering that there was an onus on the employee to prove that he had been dismissed before there rested an onus on the employer to prove that the dismissal was fair.
+
+[15]    In cases where it is alleged that the dismissal is automatically unfair, the situation is not much different save that the 'the evidentiary burden to produce evidence that is sufficient to raise a credible possibility that an automatically unfair dismissal has taken place rests on the applicant [employee]. If the applicant succeeds in discharging his evidentiary burden then the burden to show that the reason for the dismissal did  
+[2017] JOL 39581 (LAC) at 7
+not fall within the circumstances envisaged by section 187(1) of the LRA rests with UNISA [employer].'11 It is evident therefore that a mere allegation that there is dismissal is not sufficient but the employee must produce evidence that is sufficient to raise a credible possibility that there was an automatically unfair dismissal.
+
+[16]    In JD Group Ltd v De Beer,12 where the employee was dismissed for unauthorised possession of company monies, the court held that the facts on which the reason for dismissal was based must be established objectively and the onus rests on the employer. The court further held that since the employee was accused of theft, it is incumbent on employer to establish that the employer-employee relationship had broken down to the extent that the continuation thereof is not tenable. Furthermore, it is clear that the fairness of the dismissal rests on the employer to show that the assessment of such fairness depends on the factors proved and canvassed in evidence. See SACWU and others v Afrox Ltd,13 a case involving the dismissal of employees for operational reasons during a strike. The court at paragraph 25 held that in the case of an alleged automatically unfair dismissal, the employer must prove that the dismissal was not contrary to section 5 of the LRA (which prohibits discrimination against an employee for exercising any right conferred under the LRA) and any reasons set out in section 187(1)(a)–(f).
+
+[17]    Before one considers whether the appellant has in fact proven that the respondent's dismissal was for a fair reason, one should also consider the impact, on the burden of proof, of section 187 upon which the respondent's claim was based. This section provides that '(1) A dismissal is automatically unfair if . . . the reason for the dismissal is . . . (h) a contravention of the Protected Disclosures Act 2000, by the employer on account of an employee having made a protected disclosure defined in that act.' The meaning of this section is uncontroversial in that for an employee to succeed in his claim that he  
+[2017] JOL 39581 (LAC) at 8
+was dismissed as is alleged in this case for making a disclosure, there is an evidentiary burden on the employee to show that he indeed made a disclosure as defined by the PDA and that that was the reason for his dismissal. What this section means is that for an employee who makes such an allegation to succeed, the court considering the claim must satisfy itself that the disclosure alleged comes within the confines of the PDA.
+
+[18]    Whether sufficient evidence has been adduced either way is for a court to determine. The essential question is that after the court has heard all the evidence, it must determine which party has discharged the onus resting on it. Clearly, therefore, evidence plays a key role in this context and a failure to produce any or sufficient evidence is a risky option to take.
+
+[19]    Returning to the facts of this case, it is common cause that the respondent was dismissed. That is the first leg of the enquiry in terms of section 192. He has also given evidence to support his assertion that his dismissal was not for the reasons stated in his letter of dismissal. His case, pleaded in his statement of case and backed by the evidence he gave under oath, is that he was dismissed for blowing the whistle on what he viewed as irregular and non-compliance issues on the part of the appellant and its employees. The issue therefore is whether the appellant has discharged its burden of showing that the respondent was dismissed, not as he has alleged but for a fair reason as alleged by it in its statement of defence.
+
+[20]    It is to that statement of defence that I should first look for the reason advanced by the appellant for the respondent's dismissal. In that pleading, the appellant pleaded that the reasons for dismissing the respondent were as alluded in paragraph 6 above. Furthermore the appellant pleaded as follows in paragraph 32.2 of its statement of defence: 'The charge sheet only contained the allegations levelled against the Applicant [respondent]. The reasons for dismissal were clearly spelt out in a letter dated April 2005 and they were amongst others, a break  
+[2017] JOL 39581 (LAC) at 9
+down in the employment relationship.' And further in paragraph 33.2 'It is clear as per the charge sheet and the notice of dismissal that Applicant [respondent] was found guilty and dismissed on various charges of misconduct. Applicant's [respondent's] conduct displayed a gross insubordination and clear disregard of the Respondent's [appellant's] policies and interests. 33.3 The Applicant [Respondent] deliberately failed to comply with his conditions of employment and/or work policies of the Respondent [Appellant] which makes his conduct unacceptable.' Based on these assertions by the appellant that it indeed dismissed the respondent it was incumbent upon the appellant, in keeping with the dictates of section 192, to discharge the burden that it dismissed the respondent for a fair reason.
+
+[21]    The appellant never participated in the CCMA nor was any evidence tendered in support of its case. It is also notable that the appellant did not produce, for inclusion in the record, the transcript of the disciplinary enquiry at which the respondent was found guilty and dismissed. This left the Labour Court with the material at its disposal to determine if indeed the respondent was dismissed for a fair reason. The other side of the coin is that the Labour Court also had to determine if the respondent had shown that "there was a credible possibility" that his dismissal was automatically unfair on account of him having made a disclosure that is protected in terms of the PDA. This was also the argument advanced on behalf of the appellant, it being argued that he made no protectable disclosure.
+
+[22]    The material at the disposal of the Labour Court comprised the pleadings, the discovered documents as well as the respondent's evidence. I have already stated that the respondent adduced extensive evidence regarding the background leading to his dismissal as well as the dismissal itself. I have already stated that in upholding the respondent's claim, the Labour Court accepted the respondent's version. It is clear from the record that in doing so the Labour Court took into account the evidence produced by the respondent as well as  
+[2017] JOL 39581 (LAC) at 10
+the fact that the appellant produced no evidence to contradict what the respondent had testified about.
+
+[23]    A brief examination of the evidence tendered by the respondent in the Labour Court shows that his view was that the charges proffered against him were a smokescreen for his dismissal. According to him, the reason for the dismissal was for having made the disclosure. Insofar as the disclosure itself is concerned, his evidence was that the appellant is a public entity falling within the regulatory framework of the PFMA. He testified in this regard that the appellant procurement policy, the SPPP was a document sanctioned by the PFMA and as such was to be complied with in any procurement transactions concluded by the appellant.
+
+[24]    The respondent testified that in his view the appellant's line management in dealing with the three projects already referred to above14 were deviating from the SPPP and that this is what prompted him to refer a grievance firstly to the CEO and thereafter to the office of the Public Protector. Even though the respondent was cross-examined on the evidence he presented, he was not seriously challenged on the conclusions he made based on the transactions he observed and which he testified motivated him to make the disclosure to the office of the Public protector.
+
+[25]    After considering the material before it, the Labour Court was satisfied that the respondent had been dismissed 'for an impermissible reason'.
+
+It stated, with regard to the reasons that were put up, as having been the basis for the respondent's dismissal, that the appellant had produced no evidence to contradict the respondents claim. The Labour Court also found that the chairperson of the disciplinary enquiry, who had presided over the enquiry initiated against the respondent, had not been called to testify to explain and back up the decision to find the respondent guilty. The court further found that it had not been provided with a transcript of that disciplinary enquiry which would have provided  
+[2017] JOL 39581 (LAC) at 11
+it with the evidence that led the chairperson of that enquiry to find the respondent guilty on the charges proffered against him. The ineluctable conclusion the Labour Court came to was that the appellant had, by not tendering evidence, failed to prove its allegations that the respondent was dismissed for a fair reason. The Labour Court found, as alluded to earlier, that the disclosure made by the respondent was protected in terms and that he had therefore suffered an occupational detriment within the contemplation of the PDA and further that the dismissal was therefore automatically unfair.
+
+[26]    The appellant has attacked the reasoning and conclusions of the Labour Court on two essential bases. The first one is that the court failed to consider the disclosure made by the respondent to the South African Police Services and whether the respondent had justified that disclosure. The other basis is that the disclosure made to the Public Protector was neither information nor a disclosure as contemplated in the PDA. The disclosure to the police did not feature in the deliberations of the Labour Court. The reason is that the respondent has not based his claim on that disclosure but to the one made to the Public Protector. It is therefore ill conceived to seek to upset the judgment and order of the Labour Court based on the disclosure to the police.
+
+[27]    It is the disclosure to the public Protector that must be scrutinised. That disclosure falls to be scrutinised in terms of section 8 of the PDA which provides:
+
+Protected disclosure to certain persons or bodies
+Any disclosure made in good faith to–
+the Public Protector;
+the Auditor-General; or
+a person or body prescribed for purposes of this section; and  
+[2017] JOL 39581 (LAC) at 12
+in respect of which the employee concerned reasonably believes that–
+the relevant impropriety falls within any description of matters
+which, in the ordinary course are dealt with by the person or body concerned; and
+the information disclosed, and any allegation contained in it, are substantially true, is a protected disclosure.
+A person or body referred to in, or prescribed in terms of, subsection (1) who is of the opinion that the matter would be more appropriately dealt with by another person or body referred to in, or prescribed in terms of, that subsection, must render such assistance to the employee as is necessary to enable that employee to comply with this section.'
+
+[28]    What has to be determined is whether the disclosure was made in good faith by the respondent, that he reasonably believed that the wrongdoing he disclosed fell within matters which, in the ordinary course are dealt with by the appellant and that the information he disclosed is substantially true. An affirmative answer to these questions means that disclosure was protected.
+
+[29]    It is apparent from the case made out by the respondent that he disclosed information about conduct that he considered to be deviant and not in compliance with the SPPP. The SPPP is the appellant's policy and there is no evidence to contradict the respondent's evidence that it is sanctioned by the PFMA and as such was meant to be complied with by the appellant in its transactions. The respondent went further and explained why he considered the conduct of the appellant's line management to be deviant to the SPPP. Objectively speaking, the respondent's view in this regard has not been contradicted by countervailing evidence and the Labour Court was clearly correct in making this finding,
+
+[30]    There is, furthermore, nothing to indicate that the respondent did not act in good faith and that that he did not have reason to believe that  
+[2017] JOL 39581 (LAC) at 13
+there was wrongdoing. The Labour court had the benefit of the evidence of the respondent and none from the appellant. The court was therefore well-placed to consider the disclosure made in this case. It is correct that the respondent did not dwell much on his disclosure to the South African Police Service but this does not detract from the justice of his conduct. That disclosure is the same as the one made to the office of the Public Protector and the effect that the South African Police Service, may have elected not to take that disclosure seriously does not detract from the justification of the disclosure in itself.
+
+[31]    The legitimacy of any disclosure does not depend on how it is treated by whoever it is made to. The test remains whether the person making disclosure is acting in good faith and whether that person reasonably believes that there is an impropriety. The respondent in this case reasonably believes that the information he disclosed to the office of the Public Protector is true and he had not been contradicted in that regard. The only criticism levelled at his disclosure was that it is confusing so as to be no disclosure within the contemplation of the PDA. I do not agree.
+
+[32]    Whether the belief held by a whistleblower is reasonable is a question of fact and a court must make a finding in that regard. In Street v Derbyshire Unemployed Workers' Centre,15 it was held that a court must assess on a broad and common sense basis whether the disclosure meets the requirements of the Act and whether the disclosure was indeed made in good faith and not with an ulterior motive such as personal antagonism which might have been the predominant purpose for making the disclosure. See also Darnton v University of Surrey,16 where it was held that for a disclosure to qualify for protection, it must show that the employee reasonably believed that the information disclosed and any allegation contained in it was  
+[2017] JOL 39581 (LAC) at 14
+substantially true. The PDA does not, however, require the employee to prove the truth of the information disclosed.17
+
+[33]    I can therefore find no basis on which to fault the Labour Court in coming to the conclusion it did. The Labour Court was also correct in making the conclusions it arrived at based on the evidence before it. The respondent had indeed made a disclosure that is protected in terms of the PDA and that his dismissal subsequential of him making such a disclosure amounted to an occupational detriment as defined in the LRA and as such was automatically unfair. This conclusion cannot be faulted.
+
+[34]    Insofar as the relief is concerned, the appellant has argued that this was excessive. I do not agree. The PDA is a piece of legislation that addresses a critical area in the sphere of public finance and accountability. It is apiece of legislation that addresses the important constitutional objectives of clean government and service delivery. Public entities have to be scrutinised strictly in terms of their dealings to ensure that they deliver to the general public in terms of the mandate.
+
+[35]    In all the circumstances of this case, the appeal must fail. An order is granted that:
+
+The appeal is dismissed with costs.
+
+(Jappie JA and Molemela AJA concurred in the judgment of Mlambo JP.)
+
+
+
+Footnotes
+1	  Act 61 of 1973, as amended.
+2	  Act 88 of 1998 as amended.
+3	  Section 187(1)(h)(1) A dismissal is automatically unfair if the employer, in dismissing the employee, acts contrary to section 5 or, if the reason for the dismissal is – a contravention of the Protected Disclosures Act, 2000, by the employer, on account of an employee having made a protected disclosure defined in that Act.
+4	  Act 66 of 1995.
+5	  An occupational detriment is defined in section 1 by reference to a number of instances that could occur in the employment environment arising from the making of a disclosure by an employee such as subjecting an employee to any disciplinary action; dismissing, suspending, demoting, harassing or intimidating an employee.
+6	  Act 26 of 2000.
+7	  Act 1 of 1999.
+8	  CWU v Johnson and Johnson (Pty) Ltd [1997] 9 BLLR 1186 (LC) as cited by D du Toit et al Labour Law Through the Cases (2011, Lexis Nexis Durban) at 8–103; see also De Beers Consolidated Mines Ltd v CCMA and others [2000] 9 BLLR 995 (LAC) [also reported at [2000] JOL 6467 (LAC) – Ed] at para 50.
+9	  [2005] 12 BLLR 1172 (LAC) [also reported at [2006] JOL 15771 (LAC) – Ed] at paras 27 and 28 as per Davis AJA.
+10	  (2002) 23 ILJ 358 (LAC) [also reported at [2002] JOL 9318 (LAC) – Ed].
+11	  Maimela v UNISA [2009] ZALC 52 [also reported at [2009] JOL 23722 (LC) – Ed] at para 32.
+12	  (1996) 17 ILJ 1103 (LAC) at 1115 H.
+13	  [1999] 10 BLLR 1005 (LAC) at para 25.
+14	  At para 10.
+15	  [2004] EWCA Civ 964; [2005] ICR 97; [2004] 4 ALL ER 839.
+16	  [2003] IRLR 133 (EAT).
+17	  Communications Workers Union v Mobile Telephone Networks (Pty) Ltd (2003) 24 ILJ 1670 (LC) [also reported at [2003] JOL 11147 (LC) – Ed] at para 21.
+
+Appearance:
+Advocate GI Hulley, Maserumule Inc (At); Mr NP Voyi, Ndumiso P Voyi Attorneys (R)
+
+
+End of Document

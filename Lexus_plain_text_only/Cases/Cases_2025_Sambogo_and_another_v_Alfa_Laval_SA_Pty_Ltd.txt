@@ -1,0 +1,143 @@
+
+
+
+
+Sambogo and another v Alfa Laval SA (Pty) Ltd [2025] JOL 68990 (EqC)
+Judgments Online
+
+Division: Johannesburg 
+Case No: 2024 / 031166; EQ 12 / 2024
+Hearing Date(s): 24 / 10 / 2024
+Judgment Date(s): 02 / 01 / 2025
+Bench: D Fisher J
+
+
+Keywords
+
+
+Civil Procedure — Workplace harassment and victimisation — Complaint to Equality Court — Jurisdiction — Labour Court
+
+Mini Summary
+
+
+Two former employees of the respondent (“AL”) brought complaints alleging that they had suffered harassment and victimisation at the hands of employees of AL during their employment. The first claimant alleged that she had suffered sexual harassment by other employees and had not been afforded the necessary protections and accommodations which were owed to her as employee. The second claimant alleged that, as a result of him making protected disclosures to AL of information relating to the harassment being suffered by the first claimant, he was victimised. They each sought damages.
+
+AL raised a challenge to the jurisdiction of the present court sitting as an Equality Court.
+
+Held that section 20(3)(a) of the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (PEPUDA) obliges the Equality Court before which a complaint is lodged to decide whether the matter is to be heard in the Equality Court or whether it should be referred to another appropriate forum which, in the presiding officer's opinion, could deal more appropriately with the matter based on the forum's powers and functions. AL contended that the matter fell within the scope of the Employment Equity Act of 1998 (EEA) and that the jurisdiction of the Equality Court was consequently excluded. In terms of section 49 of the EEA, the Labour Court has exclusive jurisdiction to determine any dispute about the interpretation or application of the EEA, except where the EEA provides otherwise. As the complaints were properly dealt with according to the provisions of the Labour Relations Act of 1995, they were removed from the Equality Court.
+
+ 
+[2025] JOL 68990 (EqC) at 1
+
+
+
+
+FISHER J: 
+
+Introduction 
+[2025] JOL 68990 (EqC) at 2
+
+[1]    This case involves the consideration of a challenge by the respondent, Alfa Laval SA (Pty) Ltd ("AL") to the jurisdiction of this Court sitting as an Equality Court.
+
+[2]    The complaints were lodged by the complainants, Ms Sambogo and Mr Gama. They are both previous employees of the respondent. They allege that they suffered harassment and victimisation at the hands of employees of AL whilst so employed.
+
+Nature of the claims
+
+[3]    Sambogo relies on allegations relating to her sexual harassment by other employees; She alleges that she was not afforded the necessary protections and accommodations which were owed to her as employee in this context.
+
+[4]    Mr Gama alleges that, as a result of him making protected disclosures to AL of information relating to the harassment being suffered by Sambogo, he was victimised.
+
+[5]    Both applicants allege that they suffered occupational detriment which resulted in them being suspended, made subject to a disciplinary process and ultimately dismissed.
+
+[6]    The applicants seek, as estimated damages in the case of Sambogo an amount of R10 286 500 and in the case of Gama, R15 219 507.
+
+Applicable legal principles
+
+[7]    Section 16(1) of the Promotion of Equality and Prevention of Unfair Discrimination Act 4 of 2000 ("PEPUDA") provides for a High Court to be an Equality Court and for the appointment of a Judge as a Presiding Officer.
+
+ 
+[2025] JOL 68990 (EqC) at 3
+
+[8]    Section 20(3)(a), obliges the Equality Court before which a complaint is lodged to: 
+
+". . . decide whether the matter is to be heard in the equality court or whether it should be referred to another appropriate institution, body, court, tribunal or other forum (hereafter referred to as an alternative forum) which, in the presiding officer's opinion, can deal more appropriately with the matter in terms of that alternative forum's powers and functions."
+
+[9]    Thus, before considering whether this Equality Court has or lacks jurisdiction the first mandatory inquiry is for me, as Presiding Officer, to consider whether there is another forum which, in my opinion, can deal more appropriately with the matter in terms of that alternative forum's powers and functions.1
+
+[10]    This first inquiry does not necessarily engage questions of jurisdiction. It specifically envisages a situation where there may be concurrent jurisdiction with another forum.
+
+[11]    It stands to reason that, if an alternative forum having jurisdiction recommends itself as being more appropriate than the Equality Court, it is unnecessary for a determination to be made as to whether the Equality Court has jurisdiction or not.
+
+[12]    AL contends in its attack on jurisdiction that PEPUDA, properly construed, does not afford the Equality Court jurisdiction.
+
+[13]    It relies for this contention primarily on section 5 of PEPUDA which deals with the application of that Act.
+
+[14]    Section 5(3) reads:
+
+"This Act does not apply to any person to whom and to the extent to which the Employment Equity Act, 1998 (Act No. 55 of 1998) [EEA] applies."
+
+[15]    The argument of AL goes that the dispute raised falls squarely within the EEA and thus that the jurisdiction of the Equality Court is excluded.
+
+ 
+[2025] JOL 68990 (EqC) at 4
+
+[16]    It is countered on behalf of the claimants that section 5(3) of PEPUDA does not serve to oust the jurisdiction of this Court. Essentially, the argument is to the effect that the complaint has a wider reach than that accommodated by the EEA.
+
+[17]    The arguments relating to the application of PEPUDA with reference to the scope of the EEA require resort to interpretive measures relating to both Acts. This seems not to be disputed.
+
+[18]    In terms of section 49 of the EEA, the Labour Court has exclusive jurisdiction to determine any dispute about the interpretation or application of the EEA, except where the EEA provides otherwise.
+
+[19]    This precludes a determination by this Court of the scope of the PEPUDA in this context which, of necessity, implicates an interpretation of the EEA as to application. Thus, this Court cannot competently decide the jurisdictional challenge.
+
+[20]    This limitation is, however, of no consequence in light of my conclusions reached in relation to the first inquiry – being whether the Labour Court or the Equality Court is the more appropriate forum.
+
+Labour Court v Equality Court
+
+[21]    For centuries lawmakers have grappled with the forging of rules and principles which are universal but germane to the particular relationship between employer and employee. Such rules are geared towards the recognition of the special hierarchical relationships which have, at their centre, the monetising of labour, skills and services in a profit driven economy.
+
+ 
+[2025] JOL 68990 (EqC) at 5
+
+[22]    Employment law the world over recognises the positions of dominance and subservience which generally adhere in these relationships. It seeks to create, in so far as this is possible, an equal playing field, where the employee's fundamental rights are protected from arbitrary and abusive conduct by the wielder of the purse.
+
+[23]    The employee/employer relationship is recognised as distinct and special and requiring special accommodations.
+
+[24]    Thus, the Legislature, mindful of these unique circumstances and the constitutional protections which are required in the labour environment, has enacted an extensive body of legislation which deals with the rights of employees including rights precluding unfair discrimination in the context of this special relationship. This includes the Labour Relations Act 66 of 1995 ("the LRA"), the Basic Conditions of Employment Act 75 of 1997 ("the BCEA") and the Employment Equity Act 55 of 1998 ("the EEA").
+
+[25]    The Labour Court, which is the specialist seat of labour relations, is endowed with unique rules and processes which are especially designed to accommodate disputes originating in the employment environment. This includes the availability of alternatives to litigation such as conciliation, mediation and arbitration.
+
+[26]    I do not understand it to be argued seriously on behalf of the claimants that the Labour Court lacks jurisdiction.
+
+[27]    As the matter stands the relief claimed is damages.
+
+[28]    There was an attempt made on behalf of the claimants, at the hearing, to broaden this relief. This attempt was not properly made and was, in any event, objectionable. It seems this may have been a last-ditch attempt on the part of the claimants to suggest that there was relief now claimed which would not be available under the LRA.
+
+ 
+[2025] JOL 68990 (EqC) at 6
+
+[29]    Even taking into account this attempt at broadening the relief, the Labour Court has the power to make any appropriate order.2 This specifically includes an order directing the performance of any particular act; a declaratory order; an award of compensation; an award of damages; an order that there be compliance with any employment law (which includes the EEA); a request for an investigation and report; and the general jurisdiction to deal with all matters necessary or incidental to performing by the Labour Court of its functions in terms of the LRA or any other law.
+
+Conclusion
+
+[30]    Thus, the relief claimed even on the proposed amended basis would be available in some form under the LRA. What is more, the Labour Court processes are specialist and superior to those offered in the Equality Court given the employment context.
+
+[31]    There is no basis on which my election as to the appropriate forum should attract costs on either side.
+
+Order
+
+[32]    I make the following order:
+
+It is declared that these complaints are properly dealt with according to the provisions of the Labour Relations Act and they are accordingly removed from the Equality Court.
+
+
+
+Footnotes
+1	 Minister of Environmental Affairs and Tourism v George and others 2007 (3) SA 62 (SCA) [also reported at [2006] JOL 17418 (SCA) – Ed] at para [5].
+
+Appearance:
+T Ramasehla, Thibedi Ramasehla Attorneys (At);
+
+Adv L Frahm-Arp, Fasken Incorporated (R)
+
+
+End of Document

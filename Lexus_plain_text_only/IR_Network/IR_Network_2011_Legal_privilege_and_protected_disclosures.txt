@@ -1,0 +1,66 @@
+
+
+
+
+Legal privilege and protected disclosures
+IR - Editorial
+
+Legal privilege and protected disclosures
+
+While Labour Court decisions relating to protected disclosures are still exceptional, we do know, from those that have been handed down, that the Courts will take a relatively strict view of the employer’s actions if these are indeed found to have been in reprisal to an employee’s protected disclosure. Whistleblowers are given as much protection as the law offers, and that protection, at least in principle, is considerable. They are protected against dismissals as a result of their disclosures (such a dismissal would be an automatically unfair dismissal) and the unfair labour practice protects those who have made protected disclosures against other reprisals not constituting a dismissal. 
+
+On a purely practical level, of course, we need to realise that, in most cases, the relationship between an employee who has made a protected disclosure and his or her employer may be beyond repair. There is a sense that no-one really likes a whistleblower – even though we may say that we admire their courage in speaking out against corruption or other crimes or misdeeds in the workplace. After an employee has made a protected disclosure, the personal relationships in the workplace may deteriorate, very simply perhaps because the employee who has made the disclosure is seen as disloyal, as breaking ranks, as talking about the employee’s affairs in public. 
+
+The issue of legal privilege, however, is not so well explored in our cases. Section 16 of the Labour Relations Act (LRA), which provides for the disclosure of information to a trade union (or a shop steward) in the context of consultations, collective bargaining or disciplinary processes, also says that the employer is not obliged to disclose legally privileged information. But what is legally privileged information? Does this encompass any exchange between an attorney and its client? Are all the documents and letters and memoranda exchanged between an attorney and its client covered by legal privilege? 
+
+Manager: legal affairs
+
+Many companies employ legally trained specialists to deal with their legal affairs. Government departments invariably have their own legal section to perform the same functions. As the regulatory environment in which many companies and organisations operate has become more and more complex, companies now find that without legally trained employees, they are not in a position to make sense of all the legal obligations that they are subject to. The employer’s legal section may deal with all kinds of issues, such as ensuring that the employer complies with company legislation, that it complies with environmental standards and regulations and that the company’s activities remain well within the legal framework that governs its business activities. 
+
+The decision of the Labour Court in Randles v Chemical Specialities Ltd (2011) 20 LC 1.2.1 looks at what happens if an admitted attorney, employed as a manager of the employer’s internal legal function, makes certain disclosures – are these protected disclosures covered by legal privilege? 
+
+In January 2010 the Labour Court granted the employee an interdict prohibiting the employer from proceeding with any disciplinary action or enquiry against the employee. Unfortunately the Court’s decision does not tell us what these charges were. But the background facts are summarised. The employee was an executive director, responsible for the worldwide legal affairs of the employer and managing other aspects, such as corporate governance, ethics and compliance. The employee had been a practising attorney for many years. 
+
+In August 2009 the employee made a report to the employer’s auditing committee and the board of directors – saying that the employer was contravening the law and its own code of ethics and standards of good practice on corporate governance (the King II report). The employer responded to the report, but the employee felt that the employer’s response was inadequate or that the employer was dealing appropriately with the issues and concerns he had raised. Then the employee submitted a more detailed report to the Johannesburg Stock Exchange and to the employer’s managing director. 
+
+The employee’s report listed a number of serious transgressions, including contraventions of the Companies Act, the inappropriate use of company funds, increases to the pay of certain directors, failure by directors to disclose other financial interests and inappropriate transfer of shares, amongst others. The matter was complicated by the fact that there was a dispute between the employee and the managing director as to the shares in the company to which the employee was entitled. 
+
+The employee claimed that the disciplinary proceedings constituted an occupational detriment as a result of his having made a protected disclosure. The employer’s view was that what the employee had done was not a protected disclosure at all. 
+
+Protected disclosures and onus
+
+Who bears the onus to prove that there was a protected disclosure? When it comes to a dismissal allegedly as a result of the protected disclosure, the LRA steps in and provides that the onus rests on the employer to prove that the dismissal was fair – see section 192(2) of the LRA. The LRA is silent on who must prove what when it comes to an unfair labour practice, however. The general rule is that the employee, the party alleging that there was an unfair labour practice, bears the onus of proving that allegation. 
+
+The same principles applies when it comes to protected disclosures: the employee must prove that he or she is entitled to the protection offered by the Protected Disclosures Act (PDA). The employee must first prove that the disclosure was indeed protected by the PDA – then the employee must prove that he or she was subjected to an occupational detriment. This is so even though the question of onus is not regulated in the PDA itself. 
+
+In this case the parties agreed that the employee bore the onus of proving that he enjoyed protection under the PDA. The real dispute between the parties was whether or not the employee had to prove something else – that the disclosure he had made was not legally privileged. 
+
+Lawyers and protected disclosures
+
+The legislative foundation of this case is section 5 of the PDA. The PDA refers to legal advisors in two situations. A disclosure made to a legal advisor may be protected in terms of section 5 of the PDA may be protected. Provision is also made for disclosures by a legal advisor. But the Labour Court found that the PDA does not protect a disclosure made by a lawyer of the information he obtained in the course of the employee’s obtaining legal advice. This means that the PDA’s protection does not apply to, first, the person who is giving the legal advice, and, secondly, if the attorney receices the disclosed information from a whistleblower who disclosed the information with the object and in the course of obtaining legal advice. 
+
+Another way of putting this principle: the PDA does not protect information disclosed to a legal advisor if that information normally falls within the scope of “legal privilege”. And it is in this context that the dispute arose as to who must prove what. Must the whistleblower prove that the PDA’s exclusion does not apply? Or is the employer in fact raising a defence – that the PDA does not apply because of the exclusion contained in section 5? 
+
+Legal privilege – who must prove that it applies?
+
+Legal privilege is a principle that communications and exchanges of information between a legal advisor and his or her client are protected by the law as being confidential. Generally, neither the legal advisor nor the client need disclose that information. The Labour Court sets out the context of the principle of privilege as follows: 
+
+“[27] The principle of legal privilege is firmly entrenched in our common law and refers to the professional privilege that attached to information disclosed to a legal advisor for the purpose of obtaining legal advice. It is recognised that it is necessary that members of the public (and other legal entities such as companies) may, and should in good faith, seek legal advice from a legal advisor with the confidence that such questions asked by and information provided to the legal advisor during this process would not be disclosed….”
+
+Another way of putting it is as follows: The principle of legal privilege is based on the view that confidentiality is necessary for the functioning of the legal system – it does not only cover advice in respect of actual, current litigation. 
+
+The principle of legal privilege, the Court says, extends beyond communications between attorney and client for the purpose of litigation in a court – it also covers communications made for the purpose of giving or receiving legal advice. It applies to both external legal advisors (such as a firm of attorneys that advised and deals with litigation on behalf of a client) and internal legal advisors (in-house lawyers). 
+
+In respect of onus of proof, the general rule is that a party who claims that communications are legally privileged also bears the onus of proving that the circumstances justify the application of the privilege principle. This leaves the question whether section 5of the PDA changes this common law position? Does section 5 of the PDA mean that it is now up to the whistleblower to prove that the information disclosed is not privileged? Or is it up to the employer to prove that the information is indeed privileged? 
+
+The Labour Court held that a plain reading of section 5 of the PDA affirms the common law position relating to information disclosed to a legal advisor for the purpose of obtaining legal advice. In other words, in this case, the onus rested on the employer to prove that the information was privileged. It could not have been the intention of the legislature, said the Court, to place an onus on the whistleblower to prove a negative. The privilege contained in section 5of the PDA may be raised by the employer as a defence or as an exception to the protection offered by the PDA. 
+
+This duty on the employer (to prove that the disclosure was of legally privileged information) also includes the duty to begin. The employer must therefore begin the proceedings by presenting its case first – the employer must present evidence that the motivation of the person who conveyed the information to the legal advisor did so for the purpose of obtaining legal advice. 
+
+Carl Mischke
+
+October 2011
+
+
+
+End of Document

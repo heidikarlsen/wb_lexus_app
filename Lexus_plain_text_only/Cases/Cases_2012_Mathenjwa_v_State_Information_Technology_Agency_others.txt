@@ -1,0 +1,240 @@
+
+
+
+
+Mathenjwa v State Information Technology Agency & others [2012] JOL 28739 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JS 801 / 2010
+Hearing Date(s): 19 / 08 / 2011
+Judgment Date(s): 07 / 03 / 2012
+Bench: R Lagrange J
+
+
+Keywords
+
+
+Labour law — Practice and procedure — Exceptions to claim
+
+Mini Summary
+
+
+The applicant had brought an unfair dismissal case, claiming also that the first respondent had breached his contract of employment in respect of the payment of a contractual incentive bonus and in respect of the non-payment of a 13th cheque.
+
+In support of his allegation that his was an automatically unfair dismissal, the applicant stated that he was dismissed for having challenged the board and executive management decision on issues of mutual interest, including the establishment of a trade union and an intended protected strike by the employees. The applicant also alleged that he had made a protected disclosure to the first respondent in terms of section 6 of the Protected Disclosures Act 26 of 2000.
+
+The first respondent raised certain exceptions to the applicant’s claims. It contended that the applicant’s statement of claim lacked averments which were necessary to sustain a cause of action, and in addition also filed an exception to the statement of case as vague and embarrassing in certain respects.
+
+Held that the averment that the applicant’s claim did not disclose a cause of action was not sustainable. It was sufficiently clear that the applicant did believe that a reason for his dismissal was his role in intending to participate in a protected strike in relation to performance bonus demands. That was sufficient to bring his claim within the ambit of section 187(1) (a) of the Labour Relations Act 66 of 1995. The exception in that regard failed.
+
+The Court then turned to consider the exception that the statement of claim was vague and embarrassing. The protection afforded by section 187(1)(a) is only available in the case of protected industrial action, and as the applicant had failed to alleged the facts on which the protected status of the intended strike action was based, the exception in that regard was partially successful.
+
+The exception also succeeded insofar as the applicant had failed to plead the facts on which he claimed he qualified to receive the incentive bonus each year and failed to attach to his statement of claim the written contract on which he relied. The applicant was ordered to remedy the above defects by filing an amended statement of claim within 10 days of the date of this judgment.
+
+ 
+[2012] JOL 28739 (LC) at 2
+
+
+
+
+Introduction
+
+[1]    This is a ruling on exception applications brought by the first respondent in the main matter ("the excipient"). It contends that the applicant's statement of claim lacks averments which are necessary to sustain a cause of action, and in addition also filed an exception to the statement of case as vague and embarrassing in certain respects. The excipient also, incorrectly, includes a special plea of prescription in its notice of exception.
+
+[2]    In response to the notice of exception, the applicant filed a "counter-application" claiming that the excipient had not filed an answering statement in terms of rule 6(3) of the Rules of the Labour Court, nor had it applied for condonation for the late filing thereof.
+
+Background
+
+[3]    The applicant had launched a case in which he initially claimed an alleged unfair dismissal in terms of section 187(1)(a), (d) and (h) of the Labour Relations Act 66 of 1995 ("the LRA"). He further claims that the excipient was in breach of clause 3.3 of his contract of employment (the payment of a contractual incentive bonus) and clause 3.5 thereof (the non-payment of a 13th cheque) which should have been paid every November since 2004 according to the applicant.
+
+[4]    The respective dismissal claims relied upon by the applicant and section 187(1)(a), (d) and (h) are all forms of automatically unfair dismissal. For ease of reference the relevant subsections read as follows:
+
+"187 Automatically unfair dismissals
+A dismissal is automatically unfair if the employer, in dismissing the employee, acts contrary to section 5 or, if the reason for the dismissal is–
+that the employee participated in or supported, or indicated an intention to participate in  
+[2012] JOL 28739 (LC) at 3
+or support, a strike or protest action that complies with the provisions of Chapter IV;
+
+. . .
+
+that the employee took action, or indicated an intention to take action, against the employer by–
+exercising any right conferred by this Act; or
+participating in any proceedings in terms of this Act;
+
+. . .
+
+a contravention of the Protected Disclosures Act, 2000, by the employer, on account of an employee having made a protected disclosure defined in that Act."
+
+[5]    In respect of the applicant's claim that he made a protected disclosure in terms of section 6 of the Protected Disclosures Act 26 of 2000 ("the PDA"), he alleges that in late October 2007 he sent an e-mail to the excipient's "Ethics line" e-mail address. Essentially, the applicant says he raised questions about an alleged conflict of interest involving the third respondent, Ms N Isaacs-Mpulo, who had been the former chief of business operations of the excipient and was then appointed as the CEO of the second respondent, Lefatshe Technologies (Pty) Ltd. The alleged conflict of interest arose in relation to a Gauteng Shared Services Centre Disaster Recovery Solution Project ("the project"). The applicant claimed that instead of the excipient taking action to prevent the second and third respondents benefiting from the project, he was suspended, charged and dismissed by the third respondent in contravention of section 187(1)(f) of  
+[2012] JOL 28739 (LC) at 4
+the LRA.1 The reference to the latter subsection appears to have been an erroneous reference, whereas the applicant meant to refer to section 187(1)(h).
+
+[6]    The applicant goes on to say that on 30 June 2008 he exercised his right not to be subjected to an unfair labour practice relating to the provision of benefits in terms of section 186(2)(a) of the LRA by referring a dispute to the CCMA concerning the excipient's alleged refusal to pay an annual contractual incentive bonus of 20% each year from March 2005 until March 2009, inclusive.
+
+[7]    The applicant further alleges that at the beginning of August 2008 the excipient's board decided not to pay employees performance bonuses. In his capacity as a member of a consultative forum, he challenged management's decision calling on it to retract it or face a protected strike. In his statement of claim the applicant states that the employees "took the issue as a matter of mutual interest". He then says that the board reversed its decision not to pay the performance bonuses but only paid 20% of the amounts "due to the employees".
+
+[8]    He was charged with breaching the applicant's delegations of authority, damaging the image of the applicant, and gross insubordination. He was dismissed on 10 March 2009 for gross insubordination for failing to respond to a request from the applicant's provincial manager about correspondence he had sent to the Gauteng provincial government in early September 2008, as well as for other unspecified acts of failing to obey lawful instructions and submitting to authority. The applicant links the formulation of the third charge to a meeting held on 12 September 2008 with the excipient, in which he was allegedly intimidated by other  
+[2012] JOL 28739 (LC) at 5
+management figures with the threat of disciplinary action if he continued organising the threatened strike action.
+
+[9]    In summary, the applicant refers to the events described in paragraphs [6]–[8] above, together with the "disguised reason" for which he was dismissed, as demonstrating that he was dismissed for having challenged the board and executive management decision "on issues of mutual interest, including the establishment of the trade union and the intended protected strike by the employees". These are the material facts he claims to rely on to establish that he has a claim for automatically unfair dismissal in terms of section 187(1)(a) of the LRA.
+
+[10]    In paragraphs 7.1 and 7.2 of his statement of claim where he deals with the facts on which he relies to establish a claim of automatically unfair dismissal in terms of section 187(1)(d) of the LRA, he links his claim for a contractual incentive bonus and his challenge to the board on performance bonuses together with referring an unfair labour practice claim in relation to the contractual incentive bonus as the reasons why he was suspended and subsequently dismissed. In a somewhat roundabout way, the applicant contends that he was suspended and charged for exercising its rights in terms of the LRA. In this regard, it would appear that the applicant is referring both to the exercise of his right to refer the unfair labour practice dispute and/or alternatively, voicing the grievances of employees over the performance bonus.
+
+[11]    On the question of the protected disclosure claim, the applicant says he made a protected disclosure to the excipient in terms of the procedure for reporting corruption, which had been published in the excipient's newsmagazine of April 2005. The disclosure concerned queries about questionable conduct entailing a conflict of interest allegedly committed by the third respondent in relation to the project described above. The applicant says he followed up on the protected disclosure at a meeting in January 2008 in which he requested a forensic audit on the project in the light of what he describes as the ". . . glaring conflict of interest and criminal conduct the transaction has manifested as was set out in the Protected Disclosure Document." 
+[2012] JOL 28739 (LC) at 6
+The failure to disclose a course of action
+
+[12]    The excipient contends that the claim that he was dismissed for reasons of challenging the board and executive management decision on matters of mutual interest cannot constitute a claim in terms of section 187(1)(a) of the LRA. In order to succeed an excipient has the duty to persuade the court that upon every interpretation which the pleading in question, and in particular the document on which it is based, can reasonably bear, no cause of action or defence is disclosed; failing this, the exception ought not to be upheld.
+
+[13]    I appreciate that paragraph 6.1 of the applicant's statement of claim is somewhat compendious and appears to embrace more than one reason for dismissal within its scope. Nonetheless, it is sufficiently clear that the applicant does believe that a reason for his dismissal was his role in intending to participate in a protected strike in relation to the performance bonus demands. In my view, this is sufficient to bring his claim within the ambit of section 187(1)(a) of the LRA.
+
+[14]    Accordingly, this exception must fail.
+
+Vague and embarrassing averments
+
+[15]    The exception that the statement of claim is vague and embarrassing is more extensive. The excipient gave the applicant the opportunity to remove the causes of complaint, but the applicant did not take the opportunity to do so, which led to the exception application being filed in keeping with the practice set out in rule 23(1) of the High Court Rules.2 Each of the complaints is dealt with below.
+
+ 
+[2012] JOL 28739 (LC) at 7
+
+The nature of the strike action
+
+[16]    In so far as the applicant claims that he was unfairly dismissed in terms of section 187(1)(a), the excipient notes that the applicant has failed to plead sufficient facts to illustrate that the intended industrial action would have been protected. In particular, it claims that he ought to have clarified whether the Electronic Communication Workers Association of South Africa ("ECWASU") was a registered union and whether the dispute had been referred to conciliation prior to industrial action being contemplated.
+
+[17]    The first criticism is misplaced, as there is no requirement that a strike may only be called or initiated by a registered trade union in terms of section 64 of the LRA. The second criticism is more justified since the protection afforded by section 187(1)(a) is only available in the case of protected industrial action, and the applicant has failed to allege the facts on which the protected status of the intended strike action was based.
+
+[18]    Accordingly, this exception is partly successful.
+
+The claim under section 187(1)(d)
+
+[19]    The excipient claims that on the one hand the applicant is claiming that the bonus dispute is a rights dispute governed by the unfair labour practice provisions of the LRA, and on the other hand, that it is an interest dispute which was the subject of intended industrial action.
+
+[20]    Reading paragraph 7 of the statement of case, it seems that the applicant is claiming that his referral of the unfair labour practice dispute in respect  
+[2012] JOL 28739 (LC) at 8
+of the incentive bonus, as well as his pursuit of the interest dispute in respect of the performance bonus, were reasons for his dismissal. I understand him to be saying that, in essence, he was victimised for taking up either or both of these issues.
+
+[21]    I accept that there is some confusion as to whether the applicant is still pursuing an unfair labour practice claim over the incentive bonus dispute, which he claims to have referred to the CCMA, whereas he is clearly asserting a contractual entitlement to the incentive bonus in his statement of case. Nevertheless, the possible effect of the applicant pursuing overlapping remedies in relation to the incentive bonus is not something that is best addressed in an exception application. The thrust of the excipient's complaint in regard to the rights or interest nature of the bonus disputes, does not detract from the fact that the claim of unfair dismissal under section 187(1)(d) rests on the claim that the dismissal was on account of the applicant pursuing his claims to those bonuses, irrespective of whether they were based on interests or rights.
+
+[22]    Accordingly, this exception must fail.
+
+Protected disclosure claim
+
+[23]    The excipient's difficulty with this claim is one that it says the disclosure made by the applicant was supposedly made in 2007 whereas he was only suspended and charged for misconduct in January 2009. It submits that this long gap between the disclosure and the disciplinary action demonstrates that the applicant has failed to show that there is a causal nexus between the two events.
+
+[24]    There appears to be a factual dispute implicit in this objection because the applicant said that he was suspended on 30 September 2008. For the purposes of this application, it is not necessary to try and determine which version is true than to identify whether there is a flaw in the applicant's case as pleaded.
+
+[25]    From the applicant's account of events subsequent to the alleged disclosure, it appears that he believes that it was his persistence in following up on the protected disclosure which eventually culminated in his  
+[2012] JOL 28739 (LC) at 9
+suspension and dismissal. I agree with the excipient that a time lag of nearly a year between the alleged protected disclosure in October 2007 and the applicant's suspension in September the following year does raise questions about whether the applicant might ultimately succeed in establishing the causal nexus between the events. However, that is a matter which will ultimately be determined on the evidence. From the perspective of the cogency of the pleadings, I think it is sufficient that the applicant has asserted that the one event culminated in the other. I do not believe that the lack of detail prevents the excipient from answering the allegation that it was the alleged protected disclosure which led to the applicant's suspension and dismissal. The excipient's alleged reason for dismissing the applicant must be known to it and it ought to be able to respond to a case which says otherwise.
+
+[26]    Accordingly, this exception must also fail.
+
+Bonus dispute
+
+[27]    In claiming that the applicant's pleadings on the bonus dispute are deficient, it appears that to some extent the excipient has conflated the incentive bonus dispute with the performance bonus dispute. From the applicant's statement of case it appears that these are two separate claims, the former being an entitlement as of right and the second being a demand to be paid a performance bonus.
+
+[28]    Despite the confusion mentioned, if one has regard to the incentive bonus dispute, it does seem that certain important details are lacking in the statement of case. Firstly, the applicant is relying on a written contract, which he claims ought to have been attached to his statement of case, but the excipient says was not. Further, the excipient points out that the applicant has not said whether he had performed the obligations that would have entitled him to the incentive bonus in each of the years since 2004 to 2009.
+
+[29]    Regarding the first question, it is necessary to digress on events which took place subsequent to the hearing of this matter. The applicant's union representative, Mr Sebola, approached the court immediately after the  
+[2012] JOL 28739 (LC) at 10
+matter had been argued and sought to include annexures to the statement of claim, which he said were previously attached to his statement of claim, but were no longer in the court file. The applicant's representative should have tried to have these documents included in the record during the court proceedings, before argument was concluded. If he had done this then, the question of their inclusion as annexures to the statement of claim could have been properly aired and decided.
+
+[30]    Further, there is no evidence in the court file that the applicant subsequently tried to obtain the excipient's agreement to include the documents after Mr Sebola had been advised that he could not unilaterally add documents to the record after the hearing. There is certainly no evidence of any service of the documents on the excipient together with a request for the excipient to agree that the documents should be included as annexures to the statement of case. Consequently, I cannot have regard to the documents which were submitted under cover of a letter from the South African Association of Trade Union Officials ("SAATUO") to the honourable Judge President, Mlambo JA, on 19 August 2011.
+
+[31]    In any event, the only deficiency which the documents could have remedied in the statement of case would have been the absence of the written contract, which the applicant relies on to establish his right to an incentive bonus. It appears such a contract was not part of the documents which the applicant sought to include as appendages to his statement of case. What was attached to the letter to the Judge President, also did not include a copy of the contract but a schedule of documents, supposedly served on the excipient's previous attorneys, which merely lists the contract of employment as one of those documents.
+
+[32]    Further, even though the applicant's statement of case does refer to three annexures in the text, none of the annexures referred to was a contract of employment, so it seems unlikely that it was in fact attached to the statement of case. Nevertheless, it is something the applicant should have been able to rectify easily when the absence of the contract was raised in this exception.
+
+ 
+[2012] JOL 28739 (LC) at 11
+
+[33]    In conclusion, the applicant's failure to plead the facts on which he claims he qualified to receive the incentive bonus each year and his failure to attach the written contract on which he relies in his statement of claim, are material defects in his pleadings on the incentive bonus claim rendering them vague and embarrassing. Therefore, this exception must be upheld.
+
+The "counter-application"
+
+[34]    If I understand the heart of this claim by the applicant correctly, the applicant contends that the excipient ought to have applied for condonation both for its failure to file an answering statement within the time limits set down in rule 6 of the Labour Court Rules and/or alternatively, its failure to file the exception notices within the time permitted for filing an answering statement of case. Section 23 of the High Court Rules, referred to above, stipulates that a notice of exception that a statement of claim fails to reveal a cause of action ought to be filed within the time allowed for filing a subsequent pleading.
+
+[35]    In this instance, the excipient filed its first notices of exception on 22 September 2010, some 3 days after the expiry of the 10 court days for within which it should have filed a statement of response. On the same day it called upon the applicant to cure its second complaint that the claim was vague and embarrassing and gave him 15 days to remove the causes of its complaint. On 14 October 2010 the excipient then filed its further notice of exception on these latter grounds. In the High Court, if the applicant wishes to compel the filing of a response, it does so by way of a notice of bar. Rule 23(2) of the Labour Court Rules provides for a similar procedure.
+
+[36]    Rule 23 of the Labour Court Rules states:
+
+The court may extend or abridge any period prescribed by these rules on application, and on good cause shown, unless the court is precluded from doing so by an Act.
+If a party fails to comply with any notice or direction given in terms of these rules, any interested party may apply on notice for an order that the notice or direction be complied with within  
+[2012] JOL 28739 (LC) at 12
+
+a period that may be specified, and that failing compliance with the order, the party in default will not be entitled to any relief in the proceedings.
+The court may, on good cause shown, condone non-compliance with any period prescribed by these rules" (emphasis added).
+
+[37]    Rules 23(1) and 23(3) correspond to rules 27(1) and 27(3) of the Uniform Rules of the High Court,3 and rule 23(2) was clearly modelled on rule 30A of the High Court Rules.4
+
+[38]    In this instance the excipient did not bring an application for condonation as such, but it was tendered from the bar that its current attorneys of record, Cliffe Dekker Hofmeyer, had not been able to get the file from the previous attorneys soon enough to file the exception earlier. It appears that the current attorneys only became the attorneys of record on 17 September 2010, five days before the notice of exception was filed.
+
+[39]    If one or more of the excipient's exceptions are successful, it would necessitate the amendment of the applicant's statement of case. Under such circumstances, it would be potentially unnecessary to plead over,  
+[2012] JOL 28739 (LC) at 13
+since a later amendment might change the nature of the case and factual averments the excipient would be expected to answer. Nonetheless the notice of exception and the notice calling on the applicant to cure the alleged defects in the statement of case ought to have been filed within 10 days of receiving the statement of case. The key consideration in such cases in condoning non-compliance is the prejudice to the applicant party of the late response. Thus, in a recent application of the principle, Tshabalala JP held in Dass & others NNO v Lowewest Trading (Pty) Ltd 2011 (1) SA 48 (KZD) that:
+
+"[15]  It is trite law that, where it is possible, the rules of court must be complied with. It is important to take heed of what was stated by Addleson J in Charsley v Avbob (Begrafnisdiens) Bpk 1975 (1) SA 891 (E) at 893C–D:
+
+'(I)f there is a material defect in any of the formalities required by the Rules of Court, the court should not readily grant summary judgment. On the other hand, where it is clear that the Rules have substantially been complied with and there is no prejudice to the defendant, I think that the court should condone a failure to comply with a technical requirement of the Rules.'
+
+Similarly, in Trans-African Insurance v Maluleka 1956 (2) SA 273 (A), Schreiner JA stated at 278F–G:
+
+'No doubt parties and their legal advisers should not be encouraged to become slack in the observance of the Rules, which are an important element in the machinery for the administration of justice. But on the other hand technical objections to less than perfect procedural steps should not be permitted, in the absence of prejudice, to interfere with the expeditious and, if possible, inexpensive decision of cases on their real merits.'
+
+[16]    This Court is empowered to condone the non-compliance with rule 18(6). The defendant could have relied on the provisions of rule 35(12) and rule 35(14), both of which entitle a litigant to call for such documents, as may be referred to in a pleading, before pleading (see Nxumalo v First Link Insurance Brokers (Pty) Ltd 2003 (2) SA 620 (T) para 9). The defendant has not shown that it has suffered any prejudice by the non-compliance. Plaintiffs' non-compliance with rule 18(6) is therefore condoned."
+
+See also the dictum of Van Winsen AJA in Federated Trust v Botha 1978 (3) SA 645 (A), viz:
+
+"The court does not encourage formalism in the application of the Rules. The rules are not an end in themselves to be observed for  
+[2012] JOL 28739 (LC) at 14
+their own sake. They are provided to secure the inexpensive and expeditious completion of litigation before the courts. See, eg, Hudson v Hudson and Another 1927 AD 259 at 267; LF Boshoff Investments (Pty) Ltd v Cape Town Municipality (2) 1971 (4) SA 532 (C) at 535 (last paragraph); Viljoen v Federated Trust Ltd 1971 (1) SA 750 (O) at 754D–E; Vitorakis v Wolf 1973 (3) SA 928 (W) at 932F–G. Where one or other of the parties has failed to comply with requirements of the Rules or an order made in terms thereof and prejudice has thereby been caused to his opponent, it should be the court's endeavour to remedy such prejudice in a manner appropriate to the circumstances, always bearing in mind the object for which the Rules were designed. See in this regard the remarks of SCHREINER JA in Trans-African Insurance Co Ltd v Maluleka 1956 (2) SA 273 (A) at 278F–G. Rule 60(3) confers a discretion on a magistrate where the order made by the court has not been fully or timeously complied with, either to give judgment against the defaulting party or to grant an extension of time within which the defaulter will be allowed to comply with the order. The former course is clearly the more drastic of the two and in the case where the plaintiff is the defaulter the dismissal of his action will result both in delay from the necessity to start the action de novo as well as in wasted costs. Regard being had to the course taken up to the present by the litigation in issue both the delay and wasted costs will be appreciable. These are important factors to which regard must be had in the exercise of a discretion under Rule 60(3)"5 (emphasis added).
+
+[40]    In this instance, the delay was a matter of a few days. There was no material prejudice to the applicant and if the applicant had been more receptive to those complaints in the notices of exception that were well founded, time might have been saved in advancing this litigation. In the  
+[2012] JOL 28739 (LC) at 15
+circumstances, I believe the late filing of the notices of exception should be condoned in terms of rule 23(3) of the Labour Court Rules.
+
+Conclusion
+
+[41]    The excipient has been partly successful in the application, but in a number of respects the exception failed. Accordingly, it is not appropriate in my view to award costs in the matter.
+
+[42]    The applicant must remedy the defects by filing an amendment to his statement of claim and the respondents must file answering statements as set out below.
+
+Order
+
+[43]    Accordingly, the applicant's statement of claim is vague and embarrassing in the following respects:
+
+The applicant has failed to allege the facts on which the protected status of the intended strike action was based.
+The applicant has failed to plead the facts on which he claims he qualified to receive the incentive bonus each year and has failed to attach the written contract on which he relies to his statement of claim.
+
+[44]    The applicant is ordered to remedy the above defects by filing an amended statement of claim within 10 days of the date of this judgment.
+
+[45]    The respondents are directed to file any answering statement of claim within 10 days of receipt of the applicant's amended statement of claim.
+
+[46]    No order is made as to costs. 
+
+
+
+Footnotes
+1	  This subsection deals with dismissal where the reason for the dismissal is that:
+  ". . . the employer unfairly discriminated against an employee, directly or indirectly, on any arbitrary ground, including, but not limited to race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, political opinion, culture, language, marital status or family responsibility; . . ."
+2	  "23 Exceptions and Applications to Strike Out
+ (1) Where any pleading is vague and embarrassing or lacks averments which are necessary to sustain an action or defence, as the case may be, the opposing party may, within the period allowed for filing any subsequent pleading, deliver an exception thereto and may set it down for hearing in terms of paragraph (f) of subrule (5) of rule (6): Provided that where a party intends to take an exception that a pleading is vague and embarrassing he shall within the period allowed as aforesaid by notice afford his opponent an opportunity of removing the cause of complaint within 15 days: Provided further that the party excepting shall within ten days from the date on which a reply to such notice is received or from the date on which such reply is due, deliver his exception.
+ (2) Where any pleading contains averments which are scandalous, vexatious, or irrelevant, the opposite party may, within the period allowed for filing any subsequent pleading, apply for the striking out of the matter aforesaid, and may set such application down for hearing in terms of paragraph (f) of subrule (5) of rule 6, but the court shall not grant the same unless it is satisfied that the applicant will be prejudiced in the conduct of his claim or defence if it be not granted.
+ (3) Wherever an exception is taken to any pleading, the grounds upon which the exception is founded shall be clearly and concisely stated.
+ (4) Wherever any exception is taken to any pleading or an application to strike out is made, no plea, replication or other pleading over shall be necessary."
+3	  "27 Extension of Time and Removal of Bar and Condonation
+ (1) In the absence of agreement between the parties, the court may upon application on notice and on good cause shown, make an order extending or abridging any time prescribed by these rules or by an order of court or fixed by an order extending or abridging any time for doing any act or taking any step in connection with any proceedings of any nature whatsoever upon such terms as to it seems meet.
+ (2) Any such extension may be ordered although the application therefor is not made until after expiry of the time prescribed or fixed, and the court ordering any such extension may make such order as to it seems meet as to the recalling, varying or cancelling of the results of the expiry of any time so prescribed or fixed, whether such results flow from the terms of any order or from these rules.
+ (3) The court may, on good cause shown, condone any non-compliance with these rules."
+4	  "30A Non-compliance with rules
+ (1) Where a party fails to comply with these rules or with a request made or notice given pursuant thereto, any other party may notify the defaulting party that he or she intends, after the lapse of 10 days, to apply for an order that such rule, notice or request be complied with or that the claim or defence be struck out.
+ (2) Failing compliance within 10 days, application may on notice be made to the court and the court may make such order thereon as to it seems meet."
+5	  At 654D–H.
+
+Appearance:
+Mr MS Sebola, SAATUO (At); S Raja, Cliffe Dekker Hofmeyer (1R)
+
+
+End of Document

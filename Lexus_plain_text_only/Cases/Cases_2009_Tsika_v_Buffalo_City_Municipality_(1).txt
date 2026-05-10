@@ -1,0 +1,448 @@
+
+
+
+
+Tsika v Buffalo City Municipality [2009] JOL 22997 (E)
+Judgments Online
+
+Division: East London Circuit Local
+Case No: ECD 151 / 07
+Hearing Date(s): 19 / 11 / 2008
+Judgment Date(s): 03/ 12 /2008
+Bench: JG Grogan AJ
+
+
+Keywords
+
+
+Labour law — Claim by employee — Jurisdiction
+
+Mini Summary
+
+
+The plaintiff was dismissed from his employment with the respondent on charges of misconduct. In the present action, the plaintiff claimed payment of R271 359, 23, which he alleged was unlawfully deducted from two preservation fund policies into which part of the his salary had been paid, and a further amount of R1 800 000 which he claimed was owing to him by virtue of a clause in his contract of employment entitling him to an ex gratia payment equivalent to 18 months of his gross salary as at the date of termination.
+
+On the date of the hearing, the defendant filed a notice of its intention to raise a point in limine. It contended that in light of recent decision in Chirwa v Transnet Limited & Others 2008 (3) BCLR 251 CC the court should determine, before the leading of evidence, whether the high court has substantive jurisdiction to determine the dispute. According to the defendant, all matters which pertain predominantly to employment or labour must be dealt with under applicable labour legislation, over which the high court lacks jurisdiction.
+
+Held that the plaintiff’s claim concerned legal entitlement to post-dismissal benefits and to an amount of money he claims should have been released to him after his dismissal, and not the fairness of his dismissal.
+
+The court summarised the legal position on the issue in dispute as follows. All matters in which the cause of action is covered by the Labour Relations Act 66 of 1995 and for which that Act provides a remedy fall within the exclusive jurisdiction of the Labour Court and hence outside the jurisdiction of the high court. Employees of statutory institutions may not bring actions in the high court under the Promotion of Administrative Justice Act or by way of application for common law review in respect of matters covered by the Labour Relations Act. Employees may not bypass the Labour Relations Act dispute resolution procedure and approach the high court with claims based on their constitutional right to fair labour practices. The high court and other civil courts retain their common law jurisdiction to entertain claims for damages arising from alleged breaches of contracts of employment and the acts or omission of either party after the termination of employment, and the Labour Court has concurrent jurisdiction to determine such matters.
+
+The point in limine was dismissed.
+
+ 
+[2009] JOL 22997 (E) at 1
+
+
+
+
+[1]    This is the judgment and ruling on a point in limine brought by the defendant in respect of both the plaintiff's claim and its own counterclaim, as detailed below.
+
+Background
+
+[2]    The plaintiff was formerly municipal manager of the defendant municipality. His services in that capacity were terminated on 24 April 2006 after he was found guilty in absentia on a number of charges of misconduct.
+
+[3]    The plaintiff now claims payment to him by the defendant of the sum of  
+[2009] JOL 22997 (E) at 2
+R2 071 359,23, with interest. According to the particulars of claim, this sum is comprised of an amount of R271 359,23, which the defendant allegedly unlawfully deducted from two preservation fund policies into which part of the plaintiff's salary had been paid, and a further amount of R1 800 000, which he claims is owing to him by virtue of a clause (2.3) in his contract of employment. That clause appears on the face of it to entitle him to an ex gratia payment equivalent to 18 months of his gross salary as at the date of termination.
+
+[4]    The defendant resists both claims. It avers that it owned the policies by virtue of a cession agreement concluded with the plaintiff, and that before it ceded them back to the plaintiff after his dismissal, an amount was withdrawn to cover certain costs allegedly incurred as a result of or connected with the plaintiff's alleged misconduct, which include acts and omissions additional to those for which he was dismissed. The defendant's response to the plaintiff's claim for payment of an amount equivalent to 18 months' remuneration was that it was a "tacit alternatively an implied term" of the relevant provision of the contract that the payment would be made on termination "as a favour and without admission of liability", that such payment would be made only if and when the defendant completed his five-year term as municipal manager, and that it would not be paid if the plaintiff's employment was terminated for "serious misconduct".
+
+ 
+[2009] JOL 22997 (E) at 3
+
+[5]    The defendant was not content with merely opposing the plaintiff's claim. It has also filed a counterclaim in which it seeks: 
+
+rectification of clause 2.3 of the employment contract if it is incapable of yielding the implied or tacit terms for which it contends in the plea; 
+payment to it by the plaintiff of the sum of R1 039 919,72, comprising various sums allegedly incurred by the defendant in consequence of the plaintiff's alleged misconduct.
+
+The point in limine
+
+[6]    Some seven months after the close of pleadings, the defendant filed a notice of intention to amend its plea by incorporating a special plea, the essence of which is the averment that the plaintiff's claims "rise (sic) out of employment relations" and that his claims are "not justiciable in the High Court", which accordingly lacked jurisdiction to determine the plaintiff's claims. However, the special plea was withdrawn after the plaintiff filed a notice of objection. That objection was based on the averments that the special plea was bad in law and that it was not open to the defendant to object to the jurisdiction of this Court after litis contestatio had been reached.
+
+[7]    On the morning of the hearing of this matter, the defendant's counsel, Mr Quinn SC, handed me in chambers a copy of a notice of motion signifying the defendant's intention to apply for the court to entertain a point in limine 
+[2009] JOL 22997 (E) at 4
+and to determine whether it has jurisdiction to entertain either the claim or the counterclaim. Annexed to the notice is an affidavit by the defendant's attorney of record stating, inter alia:
+
+"I submit that in the light of recent decision of the High Court, the Supreme Court of Appeals (sic) and more particularly the Constitutional Court in Chirwa v Transnet Limited & Others 2008(3) BCLR 251 CC it is convenient and proper for this Honourable Court to determine, before the leading of evidence, whether the High Court has substantive jurisdiction to determine both the Plaintiff's claim in convention and the Defendant's claim in reconvention."
+
+[8]    Mr De la Harpe, who appears for the plaintiff, persisted with the contentions that, whether raised as a special plea or as a point in limine, the submission that the court lacks jurisdiction is without merit and cannot properly be raised after litis contestatio has been reached. Counsel were in agreement that the jurisdictional point should be argued and that, whether or not the court reserved judgment, the matter could not proceed on the merits on that day. This judgment accordingly deals solely with the jurisdictional challenge.
+
+The parties' submissions
+
+[9]    The thrust of Mr Quinn's submission is that, in the light of Chirwa, all matters which, as he put it, pertain predominantly to employment or labour  
+[2009] JOL 22997 (E) at 5
+must now be dealt with under applicable labour legislation, over which he contends the High Court lacks jurisdiction. Mr De la Harpe, for his part, argues that Chirwa has no application in this matter because the claim is for breach of contract simpliciter and for payment of a sum of money of which the plaintiff avers he was unlawfully deprived. Mr De la Harpe also submits that whether or not the claim in reconvention falls within this Court's jurisdiction is beside the point because the defendant cannot non-suit the plaintiff by bringing a counterclaim which may fall outside the court's jurisdiction. Finally, Mr De la Harpe submits that the defendant cannot raise a jurisdictional challenge after litis contestatio has been reached. I turn first to the final point.
+
+The belated raising of the point in limine
+
+[10]    It may be unusual for a defendant to raise a jurisdictional point after itself launching a counterclaim and expressly abandoning such a point. However, I accept that this is understandable in the light of the Constitutional Court's judgment in Chirwa,1 adverted to in the founding affidavit filed for purposes of this in limine application, and the aftermath of that judgment. Chirwa was handed down after the special plea was withdrawn, and much ink has since been used in this Division and others  
+[2009] JOL 22997 (E) at 6
+debating, not always harmoniously, the impact of that judgment on the High Court's jurisdiction in "labour" and "employment" matters.2
+
+[11]    It is so, as Mr De la Harpe submits, that a litigant is not normally entitled to challenge the jurisdiction of a court after close of pleadings. However, the authorities on which he relies3 are, in my view, distinguishable from the present matter. All these judgments involved matters where the courts in which the plea was raised had what has been referred to as "material jurisdiction".4 Moreover, it appears to be accepted that a jurisdictional challenge may be raised after litis contestatio where the party raising it provides compelling reasons for not doing so earlier.5 In this case, the challenge goes beyond mere territorial jurisdiction. The allegation is that the Legislature has deprived this Court of jurisdiction. I accept, as Mr Quinn submits, that a court cannot assume jurisdiction of which the Legislature  
+[2009] JOL 22997 (E) at 7
+has chosen to deprive it, even with the parties' consent or where the parties do not place the court's jurisdiction at issue. It is noteworthy, for example, that in Nonzamo Cleaning Services6 a Full Bench of this Division upheld a jurisdictional challenge on appeal, even though the appellant had abandoned that point and revived it only after Chirwa was handed down.7 However, in view of the conclusion I have reached in respect of the jurisdictional point itself, it is unnecessary for me to make a firm ruling in this regard. I therefore turn to that issue.
+
+The jurisdictional point
+
+[12]    In my view, the defendant's submission oversimplifies jurisdictional issues that Chirwa neither dealt with nor resolved. Likewise, I do not believe that this matter can be decided solely on the basis of the plaintiff's submission that the jurisdictional point falls to be dismissed merely because the cause of action does not flow from an existing employment relationship. I am accordingly compelled to enter the murky waters stirred up by the debate over Chirwa.
+
+ 
+[2009] JOL 22997 (E) at 8
+
+The Chirwa judgment
+
+[13]    Before so doing, I believe it necessary to restate the issues dealt with in Chirwa. The only way to do this is to summarise the three separate and compendious contributions which make up the judgment.
+
+[14]    Ms Chirwa was a senior employee of the Transnet Pension Fund. She was charged with incompetence and "poor employee relations" after falling out with her immediate superior. After she objected to that same superior chairing the disciplinary hearing, she declined to attend and was dismissed in absentia. Ms Chirwa then referred a dispute to the Commission for Conciliation, Mediation & Arbitration ("CCMA") in terms of the Labour Relations Act 66 of 1995 ("the LRA"). In terms of that Act, the commissioner certified that the matter had not been resolved and indicated that the dispute should be referred for arbitration. Instead of doing so, Ms Chirwa approached the High Court for orders setting aside the disciplinary proceedings on the grounds that the presiding officer was biased and that she had not been afforded an opportunity to obtain legal representation. The High Court found that the employer had breached Ms Chirwa's right to natural justice, declared her dismissal a nullity, and ordered the employer to reinstate her.
+
+ 
+[2009] JOL 22997 (E) at 9
+
+[15]    In Transnet Limited v Chirwa & others 2007 (2) SA 198 (SCA) a divided Supreme Court of Appeal upheld the employer's appeal against the High Court's judgment; two judges8 on the basis that the dismissal did not constitute administrative action, and one9 on the basis that the High Court lacked jurisdiction to entertain the matter.10 Ms Chirwa then applied for leave to appeal to the Constitutional Court, claiming that she was entitled to bring her action in the High Court under the PAJA because her dismissal constituted unfair administrative action.
+
+[16]    In one of two judgments concurred in by the majority, Skweyiya J11 noted that Ms Chirwa's principal contention was that the matter was reviewable under the PAJA because Transnet had failed to comply with the relevant provisions of the Code of Good Practice: Dismissal. That being so, her case was based squarely on the provisions of section 188 of the LRA. For Skweyiya J, the main question was whether the Legislature had conferred exclusive jurisdiction to decide such issues on the labour court and the other forums established under the LRA.12 The learned Judge also noted that the question of jurisdiction arose because dismissals of public  
+[2009] JOL 22997 (E) at 10
+servants seemed to involve two constitutional rights – those relating to fair labour practices and those relating to administrative justice. However, Skweyiya J held that the purpose of administrative law is to regulate dealings between the administration and members of the public, while the purpose of labour law as embodied in the LRA is to provide a comprehensive dispute-resolution system for employment and labour matters. By providing in section 210 of the LRA that that Act prevails over all conflicting legislation, save the Constitution, the Legislature had made it plain that the LRA is the pre-eminent legislation in labour matters. According to the learned Judge, section 157 of the LRA, which governs the jurisdiction of the labour court, must be understood in this light. The concurrent jurisdiction of the high court and the labour court created by section 157(2) was intended to extend the jurisdiction of the Labour Court to employment matters involving constitutional rights.13
+
+[17]    Skweyiya J then noted that Ms Chirwa's complaint was that her employer had failed to comply with the mandatory provisions of the LRA. By so pleading, she had relied on the provisions of that Act which deal with unfair dismissals, but had yet sought to vindicate her rights under the PAJA. However, Ms Chirwa's claim that her dismissal was not effected in accordance with a fair procedure was a matter falling under section 191 of the LRA, which provides a procedure for the resolution of such disputes, including conciliation, arbitration and review by the labour court. The  
+[2009] JOL 22997 (E) at 11
+dispute was accordingly one over which the labour court had exclusive jurisdiction, and in respect of which the High Court accordingly lacked jurisdiction.
+
+[18]    In a separate majority judgment14 Ngcobo J observed that he would have dismissed the appeal on the basis that Ms Chirwa had switched forums after electing to commence her action in the CCMA.15 However, given the importance of the matter the learned Judge deemed it desirable to consider two further issues: (i) the scope of section 157(2) of the LRA; (ii) whether Ms Chirwa had two causes of action, one flowing from the LRA, the other from her constitutional right to just administrative action. According to Ngcobo J, sections 157(1) and 157(2) of the LRA can be reconciled if regard is had to the primary objectives of that Act. The LRA was intended to consolidate the multiplicity of laws governing employment and labour disputes, to eliminate overlapping and competing jurisdictions, to create a comprehensive body of law to govern employment and labour issues, and to establish specialised forums to interpret and apply those laws. Section 157(2) was not intended to confirm the High Court's continuing jurisdiction in labour matters, but to confer limited constitutional jurisdiction on the labour court. This was necessary under the interim Constitution Act 200 of 1993 because, at that stage, constitutional  
+[2009] JOL 22997 (E) at 12
+jurisdiction was not conferred on any courts other than the High Court. The present Constitution confers limited constitutional jurisdiction on matters assigned by legislation to courts of status equivalent to the High Court. The labour court has status equivalent to that of the High Court. Ngcobo J concluded that it was clear from the Constitution that the High Court lacks jurisdiction to determine matters assigned by the LRA to the labour court. By extending the labour court's jurisdiction to enable it to deal with alleged violations in the employment context of all rights entrenched in the Bill of Rights, section 157(2) enhances the labour court's ability to discharge its responsibility to develop a coherent jurisprudence concerning employment and labour relations. Section 157(2) was accordingly designed, not to confer jurisdiction on the High Court to determine labour and employment disputes, but rather to empower the labour court to deal with causes of action founded on the provisions of the Bill of Rights arising from employment and labour relations.16 The learned Judge also observed that the word "concurrent" in section 157(2) is calculated to sow confusion, and could well have been omitted.
+
+[19]    Ngcobo J also held that where employees allege non-compliance with the LRA, they must seek their remedies under that Act. In such cases, an employee may not avoid the dispute resolution procedures provided for in the LRA by alleging the violation of a constitutional right.17 To permit this  
+[2009] JOL 22997 (E) at 13
+would be to frustrate the primary object of the LRA and to allow astute litigants to bypass the Act. This would give rise to the kind of forum shopping illustrated by the course of Ms Chirwa's litigation. Ngcobo J accordingly concluded that a dispute concerning alleged non-compliance with the provisions of the LRA is a matter which, in terms of the LRA, falls within the exclusive jurisdiction of the labour court.
+
+[20]    As to whether Ms Chirwa had more than one cause of action – one flowing from the LRA and the other flowing from the PAJA – Ngcobo J noted that the mere fact that Transnet is a public body does not mean that all its actions are administrative in nature, as contemplated by section 33 of the Constitution. Ms Chirwa's dispute with Transnet concerned the fairness of the termination of her employment. Even though dismissals in the public sector may involve the exercise of public power, the source of the power to terminate Ms Chirwa's services was the employment contract. By dismissing her, the employer had exercised contractual power. It followed that Ms Chirwa's dismissal did not constitute administrative action.
+
+[21]    The minority (per Langa CJ; Mokgoro and O'Regan JJ concurring) held that the High Court had jurisdiction to entertain the matter because the Constitutional Court had already so decided in Fredericks & others v MEC for Education & Training, Eastern Cape & others 2002 (2) SA 693 (CC) [also reported at [2001] JOL 9225 (CC)–Ed].
+
+ 
+[2009] JOL 22997 (E) at 14
+
+The Chief Justice also pointed out that Ms Chirwa's application was framed in terms of the PAJA and that, read literally, section 157(2) confers jurisdiction on the High Court to entertain such claims. However, the minority agreed that Ms Chirwa's dismissal was an exercise of contractual power, and that the appeal had to fail on that ground.
+
+The aftermath of Chirwa
+
+[22]    I will not burden this judgment with an excursus on the various points raised in the judicial debate over the scope and import of the Chirwa judgment. Suffice it to state for present purposes that much of that debate (including that in Makambi, supra, the only contribution so far by the SCA) has centred on the relationship between the Chirwa and Fredericks judgments. On first reading, these judgments appear to reach conflicting conclusions on a particular point,18 namely, whether the "concurrent jurisdiction" conferred on the high court by section 157(2) of the LRA in respect of particular labour matters is ousted when the dispute at issue must be referred for arbitration in terms of the LRA. In Fredericks, the court decided that the high court's jurisdiction is ousted only when in terms of section 157(1) a matter falls within the exclusive jurisdiction of the labour court, but not when the Act requires the dispute to be referred for arbitration. In Chirwa, the majority found, at least implicitly, that it is of no moment that matters must be referred for arbitration rather than  
+[2009] JOL 22997 (E) at 15
+adjudication by the labour court, and that the high court's jurisdiction is ousted if the cause of action falls within the scope of the LRA and the party initiating the action has a remedy under that Act.19
+
+[23]    The relationship between Chirwa and Fredericks and their respective weights as precedent has been discussed in most of the post-Chirwa judgments cited above. However that issue does not arise in this matter. This is because Fredericks does not provide direct authority for the point now being considered.20 The dispute in Fredericks concerned a matter which could have been referred for arbitration under the LRA. As will appear below, the dispute in casu is not one which could have been referred for arbitration. Whether Fredericks has been overruled or merely distinguished by Chirwa therefore has no relevance to the present matter.
+
+[24]    There is another feature common to all the cases in which Chirwa has been raised, either successfully or unsuccessfully, to challenge the jurisdiction of the high court in labour and employment matters. This is  
+[2009] JOL 22997 (E) at 16
+that all these cases (including De Villiers v Minister of Education, Western Cape Province, upon which Mr Quinn relied almost exclusively in argument), involved applications for review of the actions of employers vis-à-vis their employees under the Constitution, the PAJA, the common law, or all three. The same applies to Mbashe Local Municipality & others v Nyubuse,21 a copy of which was forwarded to me by the defendant's attorney after the matter was argued. In that case, the respondent claimed payment of his salary, which the appellant had withheld after he absented himself from work. The action was based on an alleged breach of the respondent's "constitutional right to fair administrative action". After noting that the Constitutional Court had found in Chirwa that the dismissal at issue constituted an exercise of contractual power, not an administrative act, the court in Nyubuse found on appeal that the non-payment of the respondent's salary "was directly linked to his poor work record and akin to a dismissal", and therefore did not constitute administrative action subject to review. The main action was dismissed on that basis.
+
+[25]    In the present case, the plaintiff neither relies on the PAJA nor requests the court to invoke its inherent review jurisdiction. The plaintiff approaches this Court by way of action with a claim for payment of sums of money arising from an alleged breach of contract and the defendant's alleged unlawful appropriation of monies allegedly belonging to him, and the defendant counterclaims for rectification of the contract, if needs be, and  
+[2009] JOL 22997 (E) at 17
+for expenses incurred as a result of alleged failure by the plaintiff to discharge contractual and statutory obligations. This matter is therefore distinguishable from all the post-Chirwa judgments to which I have been referred, and those additional cases I have been able to find.
+
+[26]    None of these judgments accordingly provides direct authority for the determination of this matter. But the question remains whether Chirwa applies to actions in this Court for the recovery of damages.
+
+Is Chirwa applicable in casu?
+
+[27]    In Chirwa, the conclusion that the high court lacked jurisdiction rests on two main findings. The first was that the matter fell within the exclusive jurisdiction of the labour court, and thus within the terms of section 157(1) of the LRA, and that the high court's jurisdiction was excluded notwithstanding the fact that it apparently has concurrent jurisdiction with the labour court by virtue of section 157(2) in respect of "any alleged or threatened violation of any fundamental right entrenched in Chapter 2 of the Constitution . . . and arising from [inter alia] employment and from labour relations".22 The second point on which Chirwa was grounded was that the dismissal at issue did not constitute administrative action, but was rather the exercise of a contractual power. From these premises, the court reached the conclusion that Ms Chirwa's application was a "quintessential  
+[2009] JOL 22997 (E) at 18
+labour matter"23 of a type the Legislature plainly intended to be resolved under the dispute-resolution procedure created by the LRA.
+
+[28]    The pivotal finding in the Chirwa majority judgments was, then, that the jurisdiction of the high court was excluded because the cause of action (Ms Chirwa's alleged procedurally unfair dismissal) fell within the exclusive jurisdiction of the labour court and hence, by virtue of section 157(1) of the LRA, outside the jurisdiction of the high court. The main point that divided the court was the meaning to be attributed to section 157(2).
+
+[29]    It is necessary to consider in a little more detail how the Chirwa majority analysed section 157 of the LRA, the material sections of which read (emphasis supplied):
+
+"Jurisdiction of Labour Court.–
+
+Subject to the Constitution and section 173, and except where this Act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters that elsewhere in terms of this Act or in terms of any other law are to be determined by the Labour Court.
+The Labour Court has concurrent jurisdiction with the High Court in respect of any alleged or threatened violation of any fundamental right entrenched in Chapter 2 of the Constitution of the Republic of South Africa, 1996, and arising from–
+employment and from labour relations; 
+[2009] JOL 22997 (E) at 19
+ (b) any dispute over the constitutionality of any executive or administrative act or conduct, or any threatened executive or administrative act or conduct, by the State in its capacity as an employer; and
+the application of any law for the administration of which the Minister is responsible."
+
+[30]    Prior to Chirwa, the courts were divided on whether the phrase "concurrent jurisdiction" in subsection (2) of section 157 means what it says – ie that the labour court and the high court each had overlapping and equivalent jurisdiction to deal with the matters specified therein24 – or whether the phrase has a different meaning.25 This issue was addressed in both majority judgments in Chirwa. Skweyiya J observed:26
+
+"The authorities that have attempted to grapple with this provision have come to conflicting interpretations. Keeping in mind the aim of the LRA to be a one-stop shop dispute resolution structure in the employment sphere, it is not difficult to see that the concurrent jurisdiction provided for in section 157(2) of the LRA is meant to  
+[2009] JOL 22997 (E) at 20
+extend the jurisdiction of the Labour Court to employment matters that implicate constitutional rights."
+
+[31]    In his concurring judgment, Ngcobo J adopted a similar view of section 157(2). The learned Judge wrote:27
+
+"Viewed in this context, the primary purpose of section 157(2) was not so much to confer jurisdiction on the High Court to deal with labour and employment relations disputes, but rather to empower the Labour Court to deal with causes of action that are founded on the provisions of the Bill of Rights but which arise from employment and labour relations. The constitutional authority of the Legislature to confer that power on the Labour Court is found in section 169(a)(ii) of the Constitution. That provision authorises Parliament to assign any constitutional matter 'to another court of a status similar to a High Court' and to deprive the High Court of the jurisdiction in respect of a matter assigned to another court."
+
+[32]    Read this way, section 157(2) is intended, not to confirm or retain the high court's jurisdiction in the labour matters listed there, but to confer on the labour court jurisdiction it would otherwise have lacked.
+
+Is this an "LRA matter"?
+
+[33]    Mr Quinn submits that this matter belongs under section 157(1) of the LRA. The difficulty I have with this submission is that, unlike in Ms Chirwa's case,  
+[2009] JOL 22997 (E) at 21
+there is no express provision in the LRA which would give either the plaintiff or the defendant direct access to the labour court to pursue their respective claims and counterclaim, or which expressly empowers the labour court to grant the relief sought.28
+
+[34]    The closest the LRA comes to conferring on employees the right to claim contractual damages, as opposed to statutory compensation, is to be found in section 195 of that Act. This provides:
+
+"An order or award of compensation made in terms of this Chapter is in addition to, and not a substitute for, any other amount to which the employee is entitled in terms of any law, collective agreement or contract of employment."
+
+ 
+[2009] JOL 22997 (E) at 22
+
+[35]    While it may be that section 195 empowers the labour court or statutory arbitrators to award, in addition to statutory compensation,29 contractual damages to employees who have been unfairly dismissed,30 neither that court nor arbitrators appointed under the LRA may do so unless the employee has referred the dispute under section 191(5). That can only be done when the employee disputes the fairness of the dismissal or a labour practice.31 In this matter, the plaintiff does not dispute the fairness of his dismissal. He merely claims a sum of money he alleges is owing to him as a consequence of the termination of his employment or, to put it in contractual terms, in consequence of the breach by the defendant of an obligation arising from his contract, and a further sum he claims to have been unlawfully deducted from his policies.
+
+[36]    The same applies to the main counterclaim: there is no provision in the LRA which permits employers to pursue claims against their employees or former employees. Had the defendant sought to advance a claim for recovery of damages against the plaintiff in the labour court, it would have been non-suited on that ground.32 While the defendant's prayer for  
+[2009] JOL 22997 (E) at 23
+rectification of the contract may fall within the jurisdiction of the labour court,33 that court cannot be approached for such relief under the LRA. This is accordingly not a matter which, to borrow the phraseology used by Farlam JA in Makambi,34 falls on the LRA side of the line of distinction drawn in the Chirwa case.
+
+[37]    It accordingly follows that, even if Chirwa is to be read as broadly as Mr Quinn says it should be read, the finding in that judgment that where employees can vindicate claims under the LRA, they must use the forums created by that Act, and not the high court, does not apply in casu.
+
+The effect of Chirwa on the interpretation of the Basic Conditions of Employment Act 75 of 1997 ("the BCEA")
+
+[38]    But that is not the end of the inquiry. Section 157(1) of the LRA gives the labour court "exclusive jurisdiction in respect of all matters that elsewhere in terms of this Act or in terms of any other law are to be determined by the labour court". The next question, then, is whether the labour court has exclusive jurisdiction to entertain the present matter by virtue of any  
+[2009] JOL 22997 (E) at 24
+other law. In this matter, save for the common law,35 the only "other law" possibly applicable in this matter is the BCEA.
+
+[39]    Although section 157(1) of the LRA refers to "any other law", the BCEA contains its own jurisdictional provision. It would be convenient to quote section 77 of the BCEA in full at this point. It reads (emphasis supplied):
+
+"Jurisdiction of Labour Court.–
+
+Subject to the Constitution and the jurisdiction of the Labour Appeal Court, and except where this Act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters in terms of this Act, except in respect of an offence specified in sections 43, 44, 46, 48, 90 and 92.
+The Labour Court may review the performance or purported performance of any function provided for in this Act or any act or omission of any person in terms of this Act on any grounds that are permissible in law.
+The Labour Court has concurrent jurisdiction with the civil courts to hear and determine any matter concerning a contract of employment, irrespective of whether any basic condition of employment constitutes a term of that contract.
+Subsection (1) does not prevent any person relying upon a provision of this Act to establish that a basic condition of employment constitutes a term of a contract of employment in any proceedings in a civil court or an arbitration held in terms of an agreement. 
+[2009] JOL 22997 (E) at 25
+If proceedings concerning any matter contemplated in terms of subsection (1) are instituted in a court that does not have jurisdiction in respect of that matter, that court may at any stage during proceedings refer that matter to the Labour Court."
+
+[40]    The resemblance between subsections (1) and (3) of this section to subsections (1) and (2) of section 157 of the LRA is obvious. Does this mean that, on the authority of Chirwa, they must be interpreted in the same way?
+
+[41]    In Chirwa, the majority reasoned essentially that, if a matter falls within the exclusive jurisdiction of the labour court, the high court cannot claim concurrent jurisdiction by virtue of section 157(2). Section 157(1) of the LRA gives the labour court exclusive jurisdiction "in respect of all matters that elsewhere in terms of this Act or any other law are to be determined by the Labour Court". Section 77(1) of the BCEA, a less happy example of legal drafting,36 gives the Labour Court exclusive jurisdiction "in respect of all matters in terms of this Act". To avoid the obvious absurdity to which meaningless statutory provisions give rise, I assume this to be shorthand for the fuller version expressed in the LRA.
+
+[42]    In Chirwa, the majority appears to have extended the meaning of the term "Labour Court" to embrace the other dispute resolution forums established by the LRA (ie the CCMA and bargaining councils), which  
+[2009] JOL 22997 (E) at 26
+the unanimous Court declined to do in Fredericks. However, that consideration does not apply in respect of the BCEA because, save for two provisions (section 41, which relates to disputes over statutory severance pay and section 80, which relates to victimisation for exercising rights under the Act, neither of which is applicable in casu), the CCMA and bargaining councils have no jurisdiction in respect of matters arising under that Act.37
+
+[43]    Under the LRA, disputes to be adjudicated or arbitrated by the labour court or statutory arbitration tribunals are clearly and specifically identified.38 The only matters specifically reserved in the BCEA for the labour court are those concerning contraventions of the BCEA if they are consolidated with dismissal disputes referred in terms of the LRA,39 disputes about the interpretation or application of Part C of Chapter 10 of the BCEA concerning victimisation,40 and reviews of functions performed under the Act.41 For the rest, the BCEA sets out minimum conditions of employment applicable to all employees and employers and provides a specific procedure for their enforcement, beginning with compliance orders issued by the Department of Labour and ending with their  
+[2009] JOL 22997 (E) at 27
+enforcement by order of the labour court.42 These are matters clearly falling within the labour court's exclusive jurisdiction.
+
+[44]    The only reference to that court's role in contractual disputes to be found in the BCEA is in section 77A(e). This provides that among the "appropriate orders" the labour court may make, "subject to the provisions of this Act", are determinations:
+
+". . . that it considers reasonable on any matter concerning a contract of employment in terms of section 77(3), which determination may include an order for specific performance, an award of damages or an award of compensation."
+
+[45]    I have no doubt that in terms of this provision the labour court would have jurisdiction to entertain the plaintiff's claim for payment of the severance gratuity and assume, for purposes of the present discussion, that it also has jurisdiction over the claim for payment of the pension monies withheld by the defendant.43 But does this mean that the high court's jurisdiction is then axiomatically excluded?
+
+ 
+[2009] JOL 22997 (E) at 28
+
+[46]    It seems to me that, following Chirwa, the answer depends on whether the BCEA must be interpreted in such a way as to find that any matter falling within the jurisdiction of the labour court automatically falls outside the jurisdiction of the high court. This depends in turn on whether section 77 of the BCEA must be given the same interpretation as the majority in Chirwa gave to section 157 of LRA.
+
+[47]    Can it be said that conferral on the labour court of power to adjudicate matters concerning contracts of employment is sufficient to bring such matters within its exclusive jurisdiction? While I am aware that empowering provisions may have jurisdictional import,44 I doubt whether the interpretation in Chirwa of the relationship between sections 157(1) and 157(2) of the LRA can simply be transposed to section 77 of the LRA without first properly analysing the context and purpose of the latter provision and isolating the differences between sections 77 of the BCEA and 157 of the LRA.
+
+[48]    The first point to be noted is that section 77A(e), which gives the labour court power to determine contractual matters, limits that power to matters to be determined "in terms of section 77(3)". On a literal reading, this means that, to the extent that section 77A(e) may have jurisdictional  
+[2009] JOL 22997 (E) at 29
+implications, the power it confers is "concurrent" with that of the civil courts. Section 77A(e) therefore takes the matter no further. Another difference between the LRA and the BCEA is that the provision conferring exclusive jurisdiction on the labour court in the latter Act is expressly qualified by subsection (4) of section 77, which permits litigants in the civil courts to establish that "a basic condition of employment constitutes a term of a contract of employment". There would seemingly be little point to that provision if a litigant who does so in a civil court would be non-suited in consequence.
+
+[49]    Thirdly, the reasons given by the Constitutional Court for construing the word "concurrent" in the manner it did in Chirwa do not seem to apply to the interpretation of that word as it is used in the BCEA. I refer in this regard particularly to the court's concern that, to give public servants a choice between pursuing actions under the PAJA or the LRA would place them in a "preferential position" vis-à-vis private sector employees.45 No such problem arises if disputes concerning contracts of employment may be adjudicated by both the labour courts and civil courts. Nor, I believe, does the Constitutional Court's desire to avoid conflicting jurisprudence apply in matters concerning the interpretation or application of contracts of employment. Unlike collective agreements,46 the normal principles of  
+[2009] JOL 22997 (E) at 30
+interpreting any contracts apply to the interpretation of contracts of employment. Those principles are routinely applied by the civil courts.
+
+[50]    Fourthly, and perhaps most pertinently, if the Legislature wished to give the labour court exclusive jurisdiction in matters concerning contracts of employment, it could simply have used the word "exclusive" before "jurisdiction" in section 77(3) and omitted the phrase "with the civil courts". The Constitutional Court may have the authority to rely on public policy issues and the need to avoid "forum shopping" to justify giving the word "concurrent" an unusual meaning in section 157(2) of the LRA. I doubt, however, whether this Court can properly rely on such considerations to ignore the literal meaning of section 77(3) of the BCEA.47
+
+[51]    Finally, I note that, albeit before Chirwa, the Labour Appeal Court, by the judgments of which this Court is bound, itself dismissed a challenge to the jurisdiction of the labour court to adjudicate a dispute involving the interpretation of an employment contract with this observation:
+
+"The dispute therefore concerns a contract of employment any breach of which would vest the civil courts with jurisdiction to  
+[2009] JOL 22997 (E) at 31
+adjudicate it and, as the statute provides, so does the Labour Court concurrently have jurisdiction."48
+
+[52]    I have considered the relevance, if any, of the finding in Chirwa that the dismissal was an exercise of contractual power. However, the import of that finding seems to have been that, being the exercise of a right flowing from contract, the dismissal did not constitute an administrative act, and for that reason was not reviewable under the PAJA. Chirwa does not seem to yield the proposition that all matters arising from the exercise by employers of their contractual powers necessarily fall under labour legislation.
+
+[53]    In my view, the Constitutional Court's interpretation of section 157(2) of the LRA yields a precedent too tenuous to permit this Court effectively to redraft section 77(3) of the BCEA by substituting the word "exclusive" for the word "concurrent" in section 77(3) and by giving no effect to the phrase "with the civil courts". As Langa CJ pointed out in Chirwa, a court cannot normally rely on policy considerations alone to give a statutory provision a meaning removed from that suggested by the ordinary  
+[2009] JOL 22997 (E) at 32
+meaning of the words in which it is expressed.49 That can only be done by legislative amendment.
+
+Other binding authorities
+
+[54]    There is a further consideration which, in my view, militates against a finding by this Court that the labour court has exclusive jurisdiction to adjudicate all matters concerning contracts of employment. This is the growing list of authorities to the contrary that have been handed down by the Supreme Court of Appeal, starting with Fedlife Assurance Ltd v Wolfaardt (2001) 22 ILJ 2407 (SCA) [also reported at [2001] JOL 8759 (SCA)–Ed]. In that matter, the respondent had claimed damages in the high court resulting from the premature termination of his fixed-term contract of service. The appellant claimed that the high court lacked jurisdiction because the matter could, and should have been referred as an unfair dismissal dispute to the labour court. The following passage is to be found in the majority judgment:50
+
+"In my view Chapter VIII of the [LRA] is not exhaustive of the rights and remedies that accrue to an employee upon the termination of a contract of employment. Whether approached from the perspective of the constitutional dispensation and the common-law or merely from a construction of the 1995 Act itself I do not think the respondent has been deprived of the common-law right that he now  
+[2009] JOL 22997 (E) at 33
+seeks to enforce. A contract of employment for a fixed term is enforceable in accordance with its terms and an employer is liable for damages if it is breached on ordinary principles of the common law."
+
+[55]    Fedlife may arguably be distinguishable from the present matter on two grounds. The first is that the cause of action in that matter arose before the promulgation of the BCEA, and the issue was accordingly whether the LRA ousted the high court's inherent jurisdiction to entertain claims based on alleged breaches of employment contracts. In my view, this does not render the ratio of Fedlife inapplicable in casu. The second ground on which Fedlife may be distinguished is that it specifically concerned the premature termination of a fixed-term contract of employment. However, the import of the judgment is that employees have a choice between suing in the civil courts for damages for breach of any contract of employment, whatever its terms, or contesting the fairness of their employers' acts or omissions in the appropriate statutory forum. As I have already noted, before Fedlife was decided, the Labour Appeal Court had already ruled that employees claiming that their dismissals were unlawful, as opposed to unfair, could seek relief in either the high court or the labour court.51
+
+[56]    The Fedlife judgment has since been endorsed and extended by the Supreme Court of Appeal in two recent (albeit pre-Chirwa) judgments, Old Mutual Life Assurance Co SA Ltd v Gumbi 2007 (5) SA 552 (SCA) [also reported at [2007] JOL 19895 (SCA)–Ed] and  
+[2009] JOL 22997 (E) at 34
+Boxer Superstores Mthatha & another v Mbenya 2007 (5) SCA 450 (SCA) [also reported at [2007] JOL 20009 (SCA)–Ed], both appeals from decisions of the high court and both decided after promulgation of the BCEA. The former and earlier case did not involve a challenge to the high court's jurisdiction.52 But, relying on the principles developed by labour tribunals, the court ruled that all common-law contracts of employment now contain an implied provision entitling the employee to a fair pre-dismissal procedure. Adverting to a number of earlier judgments53 as well as to Gumbi, the court observed in Boxer Superstores:54
+
+"In these cases, the exclusive jurisdiction of the Labour Court does not preclude the employee's recourse to the High Court. This case pushes the boundary a little further. The novel question it raises is whether an employee may sue in the High Court for relief on the basis that the disciplinary proceedings and the dismissal were 'unlawful', without alleging any loss apart from salary. In my view, the answer can only be: 'Yes'. This Court has recently held that the common law contract of employment has been developed in accordance with the Constitution to include the right to a pre-dismissal hearing (Old Mutual Life Assurance Co SA Ltd v Gumbi). This means that every employee now has a common law contractual claim – not merely a statutory unfair labour practice right – to a pre-dismissal hearing. Contractual claims are cognisable in the High Court. The fact that they may also be  
+[2009] JOL 22997 (E) at 35
+cognisable in the Labour Court, through that court's unfair labour practice jurisdiction, does not detract from the High Court's jurisdiction."
+
+[57]    If Mr Quinn's argument is to be accepted, I would have to find that Boxer Superstores has been overruled by Chirwa. While there may be room for arguing that it may have been impliedly overruled,55 a close scrutiny of the majority judgments in Chirwa indicates the contrary.
+
+[58]    Skweyiya J quoted from Fedlife with apparent approval in this passage of his judgment (at paragraph [60]):
+
+"It is apparent from the provisions of section 157(1) that it does not confer 'exclusive jurisdiction upon the labour court generally in relation to matters concerning the relationship between employer and employee'. It seems implicit from the provisions of this section that the jurisdiction of the High Court is not ousted simply because a dispute is one that falls within the overall sphere of employment relations."
+
+[59]    In his judgment, Ngcobo J quoted in extenso from Boxer Superstores,56 in which Cameron JA set out certain "well established" propositions regarding how the exclusive jurisdiction of the labour court had been, in  
+[2009] JOL 22997 (E) at 36
+his words, "carefully circumscribed".57 These were enumerated as follows in the SCA judgment:58
+
+[S]ection 157 does not purport to confer exclusive jurisdiction on the Labour Court generally in relation to matters concerning the relationship between the employer and employee (Fedlife Assurance Ltd v Wolfaardt), and since the LRA affords the Labour Court no general jurisdiction in employment matters, the jurisdiction of the High Court is not ousted by section 157(1) simply because a dispute is one that falls within the overall sphere of employment relations (Fredericks & others v MEC for Education and Training, Eastern Cape & others);
+the LRA's remedies against conduct that may constitute an unfair labour practice are not exhaustive of the remedies that might be available to employees in the course of the employment relationship – particular conduct may not only constitute an unfair labour practice (against which the LRA gives a specific remedy), but may give rise to other rights of action: provided the employee's claim as formulated does not purport to be one that falls within the exclusive jurisdiction of the Labour Court, the High Court has jurisdiction even if the claim could also have been formulated as an unfair labour practice (United National Public Servants Association of SA v Digomo NO & others);59 
+[2009] JOL 22997 (E) at 37
+an employee may therefore sue in the High Court for a dismissal that constitutes a breach of contract giving rise to a claim for damages (as in Fedlife);
+similarly, an employee may sue in the High Court for damages for a dismissal in breach of the employer's own disciplinary code which forms part of the contract of employment between the parties (Denel (Edms) Bpk v Vorster)."60
+
+[60]    After considering these propositions and juxtaposing the contrary views expressed in Jones & another v Telkom SA Ltd & others [2006] 5 BLLR 513 (T) [also reported at [2005] JOL 16326 (T)–Ed] (at 515E–H) Ngcobo J commented:61
+
+"However, in Boxer Superstores, the Supreme Court of Appeal expressed a different view. There it was contended that what matters is not the form of the employee's complaint but the substance of the complaint. The Supreme Court of Appeal held that the focus on the substance of the dispute leaves out of account the fact that jurisdictional limitations often involve questions of form. It noted that the employee in that case 'formulated her claim carefully to exclude any recourse to fairness, relying solely on contractual unlawfulness'. This illustrates the difficulty of relying on form rather than substance to which I alluded earlier. This would enable an astute litigant simply to by-pass the whole conciliation and dispute resolution machinery created by the LRA and rob the Labour Courts of their need to exist. But is this what the Legislature intended when it enacted the provisions of section 157(2)?"
+
+ 
+[2009] JOL 22997 (E) at 38
+
+[61]    This passage may reflect scant enthusiasm for the approach adopted in Boxer Superstores. But although Ngcobo J went on to answer in the negative the rhetorical question with which it concludes, at no stage in his judgment did the learned Judge expressly state that all the propositions enunciated in Boxer Superstores were wrong or that they have been overtaken. The judgment of Ngcobo J deals solely with whether the dismissal of a public servant constitutes administrative action and is thus open to review (to which the answer is no), and whether dismissed public servants have two causes of action, one under the PAJA and the other under the LRA (again no) – both issues which, as indicated above, have no direct relevance to the present matter. It may be inferred from the judgment of Ngcobo J that proposition (ii) has been overruled to the extent that an employee may no longer formulate a claim under the PAJA where the cause of action is covered by the LRA. It can also be inferred that the learned Judge is of the view that the same applies to claims for damages for breach of contract by dismissed employees. However, the passage in which that view is expressed is obiter. In my view, that dictum cannot serve as a basis upon which this Court can properly disregard three judgments of the Supreme Court of Appeal which each confirms that the high court retains jurisdiction to entertain disputes in which dismissed  
+[2009] JOL 22997 (E) at 39
+employees choose to sue for breach of contract.62 And, it seems to me, those authorities are all the more apposite, and the authority of Chirwa more remote, in a case such as this, when the employee does not challenge the lawfulness of the dismissal, but merely claims an amount he avers is owing in terms of the contract, irrespective of the lawfulness or fairness of the dismissal. I am accordingly unable to infer from Chirwa that Fedlife, Boxer Superstores and Gumbi have been overruled. If those judgments are indeed wrong, only the Constitutional Court can so decide. This Court is bound by those judgments.
+
+[62]    I merely add that a Full Bench of this Division took the same view in Nonzamo Cleaning Services,63 in which it was held that the high court lacked jurisdiction to entertain a claim for reinstatement by expelled members of a co-operative. The ratio of that judgment was that the matter fell within the exclusive jurisdiction of the labour court because the members were employees of the co-operative and because their complaint related to the fairness of their dismissal. Having reached the conclusion that, on the authority of Chirwa, the high court lacked jurisdiction, the court applied the law to the respondent's claim and ruled, inter alia:64
+
+ 
+[2009] JOL 22997 (E) at 40
+
+"The respondents base their cause of action on the alleged unfair procedure adopted by the appellant in their expulsion from the co-operative, thereby terminating their employment. This brings their dispute within the ambit of section 191(1) read with section 185 of the LRA, and the authority of Chirwa places it beyond the jurisdiction of the High Court. However, the grounds of review (see paragraph 5.1.4 thereof), as amplified by the averments of the first respondent, suggest that the respondents rely also on wrongful dismissal in breach of their contract of employment found in the provisions of the Co-operatives Act and the appellant's statute. On the authority of Fedlife, the High Court would have jurisdiction in such a dispute. This raises the unhappy spectre that the respondents' claim falls partly within the jurisdiction of the Labour Court and partly within that of the High Court."
+
+[63]    The court dispelled that spectre by finding that in substance the employees' cause of action fell within section 191(1) of the LRA. Disregarding the counterclaim, no such unhappy spectre arises in this case. The plaintiff's main claim rests squarely on his contract, and his second claim arises from the alleged unlawfulness of the deduction of a sum of money. I have accepted, without deciding, that the labour court probably has jurisdiction over the second claim,65 but have held that this Court has jurisdiction over both. The cause of action is not therefore split between two courts, each with exclusive jurisdiction over parts thereof. As  
+[2009] JOL 22997 (E) at 41
+it happens, the defendant's counterclaim, which standing alone falls outside the jurisdiction of the labour court, serves to confirm that this Court is the appropriate forum to determine the present dispute.
+
+Statutory arbitration
+
+[64]    There is a further aspect of this matter upon which Mr Quinn relies. He contends that if this Court were to determine the merits of the claim in convention it would be drawn into judging whether the plaintiff was indeed guilty of misconduct, a task which he contends is reserved for a statutory arbitrator. There are several answers to this submission. First, the plaintiff could avoid that issue by not placing it in dispute, and could still pursue his claim that the contract has been breached.66 But even if, as the papers indicate, the plaintiff is not prepared to make that concession and it is indeed necessary to determine whether the plaintiff was guilty of misconduct, I cannot accept that this Court would be straying into the exclusive domain of statutory arbitration by determining facts collateral to the breach of contract claim. This would be akin to arguing that this Court cannot adjudicate a defamation action instituted by an employee against his employer for levelling allegedly false and mala fide accusations of misconduct against him if the employer were to raise the defence of truth  
+[2009] JOL 22997 (E) at 42
+and public benefit. Such an argument could self-evidently never prevail. This Court has already accepted that it must inquire into the fairness of a dismissal in the context of a contractual dispute if the contract requires the employer to follow the prescripts of the LRA before dismissing an employee (see Carter v Value Truck Rental (Pty) Ltd (2005) 26 ILJ 711, [2005] 1 BLLR 88 (SE) [also reported at [2004] JOL 13163 (SE)–Ed]). I am not persuaded that that judgment has been overruled by Chirwa. In any event, for so long as it remains a binding authority Old Mutual Life Assurance Co SA Ltd v Gumbi67 confirms that all common-law contracts of employment contain an implied term that employees are entitled to a fair hearing before being dismissed. A necessary corollary is that civil courts entertaining contractual claims by employees may determine the procedural fairness of dismissals and, by further implication, whether there was a fair reason for a dismissal.68 Still less can I accept that the plaintiff should be non-suited because the defendant relies on allegations of misconduct in the counterclaim. Finally, even if the dispute is of a kind reserved for arbitration under the LRA, the statute provides that the jurisdiction of the labour court is excluded, not that of the high court.69
+
+ 
+[2009] JOL 22997 (E) at 43
+
+[65]    Furthermore, and in any event, I reiterate that the present claim does not concern the fairness of the plaintiff's dismissal. It concerns, rather, his legal entitlement to post-dismissal benefits and to an amount of money he claims should have been released to him after his dismissal. The counterclaim is simply for damages.
+
+Summary of the state of the law after Chirwa
+
+[66]    I conclude, then, that the law as it now stands on the jurisdiction of the high court in labour and employment matters can be summarised as follows:
+
+All matters in which the cause of action is covered by the LRA and for which the LRA provides a remedy fall within the exclusive jurisdiction of the labour court and hence outside the jurisdiction of this Court.
+Employees of statutory institutions may not bring actions in this Court under the PAJA or by way of application for common-law review in respect of matters covered by the LRA. 
+[2009] JOL 22997 (E) at 44
+Employees may not bypass the LRA dispute resolution procedure and approach the high court with claims based on their constitutional right to fair labour practices.
+This Court and other civil courts retain their common-law jurisdiction to entertain claims for damages arising from alleged breaches of contracts of employment and the acts or omission of either party after the termination of employment, and the labour court has concurrent jurisdiction to determine such matters.
+
+Application of the law to the claim and counterclaim
+
+[67]    The plaintiff's main claim arises from an alleged breach of contract by the defendant. He has approached this Court by way of action. There is no suggestion in the pleadings that the plaintiff disputes the fairness or unlawfulness of his dismissal or that either claim is in anyway connected thereto. This is accordingly not an "LRA matter" over which the labour court has exclusive jurisdiction in terms of section 157(1) of that Act, but is a matter which falls under the BCEA and/or the common law. That Act confirms the jurisdiction of the civil courts, and this Court, to entertain the claim.
+
+ 
+[2009] JOL 22997 (E) at 45
+
+[68]    The only reliance placed by the plaintiff on labour legislation is a claim that the deductions from his policies constitute a contravention of section 34 of the BCEA. Although the amounts paid into the policies over time were deducted from the plaintiff's salary, it is debatable whether the accumulated capital can be regarded as remuneration, as contemplated by that provision.70 If it does not, this Court is empowered by virtue of its inherent jurisdiction to entertain that claim; if it does, this Court has jurisdiction to adjudicate that dispute by virtue of section 77(3) of the BCEA.
+
+[69]    The plaintiff's entitlement to approach this Court is not affected by the counterclaim. But even if it were affected, the counterclaim certainly does not fall within the jurisdiction, let alone the exclusive jurisdiction, of the labour court. It follows that the plaintiff's causes of action and the counterclaim fall entirely within the jurisdiction of this Court.
+
+Conclusion
+
+[70]    For the above reasons I find, and rule, that this Court has jurisdiction to entertain both the claim and the counterclaim. It follows that the defendant's point in limine must fail.
+
+ 
+[2009] JOL 22997 (E) at 46
+
+Costs
+
+[71]    Counsel agreed that the costs of the in limine application should follow the result.
+
+Order
+
+[72]    The following order is accordingly issued:
+
+The defendant's point in limine is dismissed.
+This Court is declared to have jurisdiction to determine both the claim in convention and the claim in reconvention.
+The defendant is to pay the costs of the in limine application and any wasted costs occasioned thereby.
+
+
+Footnotes
+1	  The judgment is also reported in [2008] 2 BLLR 97 (CC) and ((2008) 29 ILJ 73 (CC)) [also reported at [2008] JOL 21166 (CC)–Ed].
+2	  See Nakin v MEC, Department of Education, Eastern Cape Province & another (2008) 19 ILJ 1426 (Ck), [2008] 5 BLLR 489 (Ck) [also reported at [2008] JOL 21482 (Ck)–Ed]; Nonzamo Cleaning Services Cooperative v Appie & others (2008) 29 ILJ 2168 (Ck), [2008] 9 BLLR 901 (Ck) [also reported at [2008] JOL 22260 (Ck)–Ed]; Mkumatela v Nelson Mandela Metropolitan Municipality SECLD case 2314/2006, unreported [reported at [2008] JOL 21686 (SE)–Ed]; Makambi v MEC for Education, Eastern Cape (2008) 5 SA 449 (SCA) [also reported at [2008] JOL 21798 (SCA)–Ed]; De Villiers v Minister of Education, Western Cape Province & another CPD case 18733/2007 dated 29 October 2008, unreported; Mbashe Local Municipality & another v Nyubuse (2008) 29 ILJ 2147 (E Mthatha Division); MEC, Department of Education, Eastern Cape Province & another v Bolani: In re Bolani v MEC, Department of Education, Eastern Cape Province & another (2008) 29 ILJ 2160 (Tk); Police & Prisons Civil Rights Union & another v Minister of Safety & Security & others (2008) 29 ILJ 2185 (EC); Kotze v National Commissioner, SA Police Service & another (2008) 29 ILJ 1869 (T); Mlokoti v Amathole District Municipality & another EC case 18733 dated 6 November 2006, unreported. These are the only judgments I was able to locate in the time available.
+3	 Inter alia, Dusheiko v Milburn 1964 (4) SA 648 (AD); William Spilhaus & Co (MB) (Pty) Ltd v Marx 1963 (4) SA 944 (C); Purser v Sales; Purser & another v Sales & another 2001 (3) SA 445 (SCA) [also reported at [2000] JOL 7448 (SCA)–Ed].
+4	  By Theron J in William Spilhaus at 1000H.
+5	  See judgment of Van Winsen J op cit at 999D–E.
+6	 Supra, n 2.
+7	  At para [9].
+8	  Mthiyana and Jafta JJA.
+9	  Conradie JA.
+10	  Mpati DJP and Cameron JA held that the High Court had jurisdiction.
+11	  Moseneke DCJ, Madala, Ngcobo, Nkabinde, Sachs, Van der Westhuizen JJ and Navsa AJ concurring.
+12	  These are, apart from the CCMA, also accredited bargaining councils and statutory councils, and accredited agencies.
+13	  This aspect of the judgment is explained in more detail at paras [29]–[32] below.
+14	  In which Moseneke DCJ, Madala, Nkabinde, Sachs, Van der Westhuizen JJ and Navsa AJ concurred.
+15	  Compare Xoli v PERMAC/ECMAC & others (2005) 16 ILJ 1969 (SE), [2005] 12 BLLR 1284 (SE) [also reported at [2005] JOL 15634 (SE)–Ed].
+16	  See further at paras [29]–[32] below.
+17	  See para [123] of his judgment, citing SANDU v Minister of Defence & others 2007 (5) SA 400 (CC) [also reported at [2007] JOL 19879 (CC)–Ed].
+18	  See Nakin, Mkumatela, Nonzamo & Makambi, supra, n 2.
+19	  In Nonzamo, supra, n 2, the court concluded that the conflict on this point between Chirwa and Fredericks was so transparent that the former judgment must be held to have at least impliedly overruled the latter. However it seems that this finding does not survive the SCA judgment in Makambi, in which the SCA accepted that the Chirwa court distinguished Fredericks on another basis.
+20	 Fredericks concerned an application to the High Court under s 23 of the Constitution. The court found that the High Court had jurisdiction because the dispute concerned the application and interpretation of a collective agreement, an issue reserved by the LRA for arbitration by the CCMA (see s 24). According to Fredericks, the fact that a matter falls within the exclusive jurisdiction of the CCMA does not bring the matter within the terms of s 157(1) of the LRA, which confers exclusive jurisdiction on the Labour Court in certain matters, and because the CCMA is not a court of law. The unanimous court accordingly held that the High Court had jurisdiction.
+21	 Supra, n 2.
+22	  These provisions are quoted in full at para [29] below.
+23	  The expression used by Conradie JA in Chirwa (SCA) at para [30]. His judgment was approved in toto by the Constitutional Court (see judgment of Skweyiya J at para [36]).
+24	  See, for example, Mbayeka & another v MEC for Welfare, Eastern Cape [2001] 1 All SA 567 (Tk); Ndzamela v Eastern Cape Development Corporation Ltd [2003] 6 BLLR 619 (Tk) [also reported at [2003] JOL 11003 (Tk)–Ed]; Runeli v Minister of Home Affairs 2000 (2) SA 314 (Tk) [also reported at [2000] JOL 7415 (Tk)–Ed]; Mhlambi v Matjhabang Municipality & another 2003 (5) SA 89 (O); Ntabeni v MEC for Education, Eastern Cape 2002 (3) SA 103 (Tk) [also reported at [2001] JOL 8296 (Tk)–Ed]; NAPTOSA & others v Minister of Education, Western Cape & others 2001 (2) SA 112 (C) [also reported at [2001] JOL 7648 (C)–Ed]; Esak NO & another v Commission of Gender Equality 2001 (1) SA 1299 (W) [also reported at [2000] JOL 6581 (W)–Ed]; Claase v Transnet Bpk en 'n ander 1999 (3) SA 1012 (T) [also reported at [1999] JOL 4870 (T)–Ed].
+25	  See, inter alia, Manyathi v MEC for Transport, KwaZulu-Natal & another 2002 (2) SA 262 (N); Bensingh v Minister of Education & Culture: Province of KwaZulu-Natal & others [2003] 6 BLLR 598 (D) [also reported at [2003] JOL 10450 (D)–Ed]; Mgijima v Eastern Cape Appropriate Technology Unit & another 2000 (2) SA 291 (Tk); SA Police Union & another v National Commissioner of the SA Police Service & another (2005) 26 ILJ 2403 (LC) [also reported at [2005] JOL 16030 (LC)–Ed]; Public Servants Association obo Haschke v MEC for Agriculture & others (2004) 25 ILJ 1750 (LC) [also reported at [2004] JOL 12805 (LC)–Ed].
+26	  At para [54], my underlining.
+27	  At para [120], emphasis supplied.
+28	  The disputes over which the Labour Court is expressly given jurisdiction are those over "automatically unfair" dismissals (s 191(5)(b)(i)); dismissals based on operational requirements, unprotected strikes and closed shop agreements (s 191(5)(b)(ii)–(iv)); dismissals falling within the jurisdiction of the CCMA which the CCMA director considers appropriate to refer to the court (s 191(6)); unfair labour practice disputes involving alleged discrimination or occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act 26 of 2000 for having made a protected disclosure (s 191(13)); the exercise of rights of freedom of association (s 7); disputes about freedom of association and victimisation (s 9(4)); appeals against awards concerning agency fees or the use of closed shop fees (s 24(7)); the failure or refusal to admit a registered union as party to a closed shop agreement (s 26(14)) read with (10) and (11); interpretation or application of parts A, C and F of Chapter III of the LRA (s 63(4)); admission, winding up and cancellation of bargaining councils (ss 56(6) and 59–61); breach of picketing rules (s 69(11)); interdicts and claims for compensation in respect of an unprocedural strike or lock-out (s 68); secondary strikes (s 66(5), (6) read with s 66(2)(c)); recovery of the value of payments in kind made to striking or locked-out workers (s 67(3)); interdicts and declaratory orders in respect of socio-economic protest action (s 77(2) read with s 77(4)); declaratory orders about the effect of arbitration awards on the fiduciary duties of employer representatives on social benefit schemes (s 86(8)); disputes between  registered unions or employers' organisations and their members about non-compliance with the organisation's constitution (s 158(1)(e)); winding-up of trade unions and employers' organisations by reason of voluntary dissolution, inability to function or insolvency (ss 103, 104); appeals against decisions of the Registrar of Labour Relations (s 111(3)); cancellation of registration of a registered trade union because it is no longer independent (s 105). See Du Toit et al Labour Relations Law: a Comprehensive Guide (Lexis Nexis Butterworths 5 ed 2006) at 156–7.
+29	  As set out in s 194 of the LRA.
+30	 Fedlife, supra, at para [18]; Parry v Astral Operations (Pty) Ltd [2005] 10 BLLR 989 (LC) [also reported at [2005] JOL 14962 (LC)–Ed] at para [93] (overruled on appeal, but on different grounds): See n 48 infra. See also Kroukam v SA Airlink (Pty) Ltd (2005) 26 ILJ 2153 (LAC), [2005] 12 BLLR 1172 (LAC) [also reported at [2006] JOL 15771 (LAC)–Ed] at para [127].
+31	 Vide s 191(1).
+32	  See, for example, NEWU v CCMA & others [2007] 7 BLLR 623 (LAC) [also reported at [2007] JOL 19617 (LAC)–Ed].
+33	  See Annendale Building Materials (Pty) Ltd t/a Altocrete Brick Works & another v National Union of Mineworkers (2003) 24 ILJ 528 (LC) and further at paras [44]–[45] below.
+34	  At para [17].
+35	  The Labour Court, being a creature of statute, has no jurisdiction by virtue of the common law, even though it has status and inherent powers equivalent to that of the High Court over matters falling within its jurisdiction: LRA, s 151(2).
+36	  See the remarks of Van Dijkhorst AJA in University of the North v Franks & others [2002] 8 BLLR 701 (LAC) [also reported at [2002] JOL 9841 (LAC)–Ed] at para [28].
+37	  This is why I have observed above that Fredericks has no application in the present matter.
+38	  See n 23 above.
+39	  S 74(2).
+40	  S 80.
+41	  S 77(2).
+42	  See ss 63–73.
+43	  The plaintiff relies in this regard on s 34 of the BCEA, which, inter alia, prohibits deductions from employees' remuneration, except on certain specified grounds and without affording the employee a hearing. S 34A, which regulates contributions to benefit funds, contain no such prohibition on deductions. This suggests that the intention was to leave intact employees' common law and other statutory remedies for the recovery of unlawful deductions.
+44	  See the discussion of s 158 of the LRA in Brassey Commentary on the Labour Relations Act (Juta 1999) at A7 102 et seq. Also the remarks of Conradie JA in his minority judgment in Transnet Limited & others v Chirwa 2007 (2) SA 198 (SCA), (2006) 27 ILJ 2294 (SCA), [2007] 1 BLLR 10 (SCA) at para [34]. The Constitutional Court effectively adopted his approach on the jurisdictional issue: see the judgment of Skweyiya J at para [36].
+45	  See judgment of Skweyiya J at para [66]. Although the problem of "forum shopping" might apply, this is not, in my view, a consideration that this Court can properly take into account interpreting s 77(3).
+46	  See North East Cape Forests v SA Agricultural & Plantation Workers Union & others (1997) 18 ILJ 971 (LAC).
+47	  See the remarks of Langa CJ in his minority judgment (at para [174]).
+48	 University of the North v Franks & others, supra, n 36 (my underlining). See also Langeveldt v Vryburg Transitional Local Council (2001) 22 ILJ 1116) (LAC) [also reported at [2001] JOL 8010 (LAC)–Ed] at para [48]. The Labour Appeal Court still holds this view after Chirwa. See Astral Operations Ltd v Parry (Labour Appeal Court case CA8/05 dated 4 September 2008, unreported).
+49	  See at para [174] of his judgment, and also the remarks of Nugent JA in Makambi at paras [37]–[39].
+50	  At para [22].
+51	 Langeveldt v Vryburg Transitional Local Council & others, supra, n 48 at para [47].  
+52	  The point having been abandoned on appeal.
+53	  See para [59] below.
+54	  At para [6], footnote omitted, emphasis supplied.
+55	  See Employment Law (2008) 24 (2) at 14–20.
+56	  At para [90] of his judgment.
+57	  At para [5] of that judgment.
+58	 Ibid, footnotes omitted, and references supplied.
+59	 United National Public Servants Association of SA v Digomo NO & others [2005] 12 BLLR 1169 (SCA), (2005) 26 ILJ 1957 (SCA) [also reported at [2005] JOL 15383 (SCA)–Ed].
+60	  (????) 25 ILJ 659 (SCA).
+61	  At para [95], footnotes omitted and underlining supplied.
+62	  As an aside, the concern expressed by Ngcobo J that the approach in Boxer Superstores creates the danger of litigants bypassing conciliation does not apply to matters brought under the BCEA. That Act does not provide for conciliation of contractual disputes.
+63	 Supra, n 2.
+64	  At para [42], emphasis supplied.
+65	  See para [45] n 43 above.
+66	  See Fedlife at para [21]: "In the present case a clearly identifiable and recognisable common-law claim for damages has been pleaded. The disclosure of the employer's professed reason for repudiating the contract is mere surplusage and did not signal a resort to a claim under Chapter VIII [of the LRA]."
+67	 Supra, at para [56].
+68	  Otherwise, there would be little point to establishing whether there was a fair procedure.
+69	  See s 157(5), which reads: "Except as provided in section 158 (2), the Labour Court does not have jurisdiction to adjudicate an unresolved dispute if this Act requires the dispute to be resolved through arbitration." The meaning and import of this provision was not considered in Chirwa.
+70	  See n 43 above.
+
+Appearance:
+Adv D de la Harpe, Cooper Conroy Bell & Richards (P); Adv R Quinn SC, Smith Tabata (D)
+
+
+End of Document

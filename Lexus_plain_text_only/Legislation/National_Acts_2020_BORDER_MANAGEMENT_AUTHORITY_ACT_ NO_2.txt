@@ -1,0 +1,634 @@
+
+
+
+
+(ZA) BORDER MANAGEMENT AUTHORITY ACT, NO. 2 OF 2020
+South Africa National Acts
+[ASSENTED TO 16 JULY, 2020]
+[DATE OF COMMENCEMENT: 1 JANUARY, 2021]
+Updated to Government Gazette 46723 dated 15 August, 2022.
+
+
+National Acts  >  ZA Principal Acts  >  B  >  Border Management Authority Act, No. 2 of 2020
+
+[View Regulation]
+(Unless otherwise indicated)
+(English text signed by the President)
+
+This Act has been updated to Government Gazette 46723 dated 15 August, 2022.ACT
+
+To provide for the establishment, organisation, regulation, functions and control of the Border Management Authority; to provide for the appointment, terms of office, conditions of service and functions of the Commissioner and Deputy Commissioners; to provide for the appointment and terms and conditions of employment of officials; to provide for the duties, functions and powers of officers; to provide for the establishment of an Inter-Ministerial Consultative Committee, Border Technical Committee and advisory committees; to provide for delegations; to provide for the review or appeal of decisions of officers; to provide for certain offences and penalties; to provide for annual reporting; to provide for the Minister to make regulations with regard to certain matters; and to provide for matters connected therewith.
+
+PREAMBLE
+
+RECOGNISING that border management is exercised by multiple organs of state with the purpose of securing the borders of the Republic and protecting national interest;
+
+RECOGNISING FURTHER that there is a need for integrated and co-ordinated border management in accordance with the Constitution, international and domestic law, in order to—
+
+ • contribute to the socio-economic development of the Republic;
+
+ • ensure effective and efficient border law enforcement functions at ports of entry and the border;
+
+ • contribute to the facilitation of legitimate trade and secure travel;
+
+ • contribute to the prevention of smuggling and trafficking of human beings and goods;
+
+ • prevent illegal cross-border movement;
+
+ • contribute to the protection of the Republic’s environmental and natural resources; and
+
+ • protect the Republic from harmful and infectious diseases, pests and substances;
+
+ACKNOWLEDGING that the circumstances of modern travel and trade require a single Authority to be responsible for ports of entry and the control of the borders of the Republic and the need to balance the facilitation of legitimate trade and travel with security; and
+
+ACKNOWLEDGING FURTHER the constitutional responsibility of the South African National Defence Force to defend and protect the Republic, its territorial integrity and its people,
+BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:—
+ARRANGEMENT OFSECTIONS
+CHAPTER 1 DEFINITIONS, APPLICATION AND OBJECT OFACT
+1. Definitions
+2. Application of Act
+3. Object of Act
+CHAPTER 2 BORDER MANAGEMENTAUTHORITY
+4. Establishment of Border Management Authority
+5. Functions of Authority
+6. Composition of Authority
+CHAPTER 3 COMMISSIONER AND DEPUTY COMMISSIONERS
+7. Appointment of Commissioner and Deputy Commissioners
+8. Terms of office of Commissioner and Deputy Commissioners
+9. Removal of Commissioner and Deputy Commissioners from office
+10. Conditions of service and remuneration of Commissioner and Deputy Commissioners
+11. Functions of Commissioner and Deputy Commissioners
+12. Delegation by Commissioner
+CHAPTER 4 APPOINTMENTAND FUNCTIONS OF OFFICIALS
+13. Appointment of officials
+14. Commissioned officers
+15. Duties, functions and powers of officers of border guard
+CHAPTER 5 EMPLOYMENT TERMS AND CONDITIONS OF OFFICIALS
+16. Terms and conditions of employment
+17. Limitation of rights
+CHAPTER 6 POWERS OF ENTRY, SEARCH, SEIZURE, ARREST AND DETENTION
+18. Powers of entry, search, seizure, arrest and detention
+19. Routine searches and seizures
+20. Powers relating to vessels within maritime borders
+21. Arrested or detained persons and seized goods
+CHAPTER 7 FUNDS AND IMMOVABLE PROPERTY
+22. Funds of Authority
+23. Immovable property
+CHAPTER 8 COMMITTEESAND IMPLEMENTATION PROTOCOLS
+24. Inter-Ministerial Consultative Committee
+25. Border Technical Committee
+26. Advisory committees
+27. Implementation protocols
+CHAPTER 9 GENERAL
+28. Delegation by Minister
+29. Review or appeal of decisions
+30. Ports, points or places of entry or exit with approval of Minister
+31. Annual report
+32. Exemption from payment of fees or tolls
+33. Confidentiality
+34. Liability
+35. Offences and penalties
+36. Regulations
+CHAPTER 10 TRANSITIONAL PROVISIONS
+37. Transfer of employees from organ of state to Authority
+38. Assets, liabilities and funds
+39. Ports, points and places of entry or exit
+40. Recognised trade unions
+CHAPTER 11 SHORT TITLEAND COMMENCEMENT
+41. Short title and commencement
+
+CHAPTER 1   DEFINITIONS, APPLICATION AND OBJECT OFACT  
+1.     Definitions.  
+(1)    In this Act, unless the context indicates otherwise—
+“airspace”    means the area enclosed by the outer limit of the internationally recognised airspace of the Republic;
+“Authority”    means the Border Management Authority established by section 4 of this Act;
+“border guard”    means the border guard referred to in section 6 (1) (c);
+“border law enforcement area”    means, in respect of—
+(a)   the land border, a distance of 10 kilometres or any reasonable distance inside the internationally recognised borders of the Republic; and
+(b)   the maritime borders, a distance of 10 kilometres or any reasonable distance on the landward side of the baselines extending seaward to the outer limit of the Exclusive Economic Zone as defined in the Maritime Zones Act, 1994 (Act No. 15 of 1994);
+“border law enforcement functions”    means functions conferred on the Authority by law and in terms of this Act;
+“border management”    means the execution of border law enforcement functions and includes co-operation with the Defence Force on the implementation of border protection functions;
+“border protection functions”    means the functions performed exclusively by the Defence Force in terms of section 200 (2) of the Constitution;
+“Border Technical Committee”    means the Committee established by section 25;
+“commissioned officer”    means a person referred to in section 14 (1);
+“Commissioner”    means the person appointed in terms of section 7 (1) of this Act;
+“Constitution”    means the Constitution of the Republic of South Africa, 1996;
+“customs related functions”    means the functions performed exclusively by the South African Revenue Service under—
+(a)   customs and excise legislation; and
+(b)   any tax Act,
+
+as defined in the Tax Administration Act, 2011 (Act No. 28 of 2011);
+“Defence Force”    has the meaning ascribed to it in section 1 of the Defence Act, 2002 (Act No. 42 of 2002);
+“Deputy Commissioner”    means a person appointed in terms of section 7 (2) of this Act;
+“goods”    includes any wares, supplies, merchandise, articles, products, commodities, currencies, documents, substances, animals, plants and their products, genetic materials, vehicles, waste, human remains, containers of such goods or any other thing capable of being transported;
+“Inter-Ministerial Consultative Committee”    means the Committee established by section 24;
+“Labour Relations Act”    means the Labour Relations Act, 1995 (Act No. 66 of 1995);
+“Minister”    means the Minister of Home Affairs;
+“officer”    means a person appointed in terms of section 13 (1) (b) (i) and includes commissioned officers;
+“officials”    means officers and support staff of the Authority;
+“port of entry”    means a port of entry designated by the Minister in terms of section 9A of the Immigration Act, 2002 (Act No. 13 of 2002), and includes any port, point or place of entry or exit determined under any other legislation or any other port, point or place of entry or exit approved by the Minister in terms of section 30 of this Act;
+“prescribed”    means prescribed by regulation;
+“Public Finance Management Act”    means the Public Finance Management Act, 1999 (Act No. 1 of 1999);
+“regulation”    means any regulation made under this Act;
+“South African Revenue Service”    means the South African Revenue Service established by section 2 of the South African Revenue Service Act, 1997 (Act No. 34 of 1997);
+“support staff”    means a person appointed in terms of section 13 (1) (b) (ii);
+“this Act”    includes regulations; and
+“vehicle”    includes any vessel, aircraft, locomotive, railway carriage, conveyance, container or receptacle or any other means of transport, whether or not used for the purpose of transporting goods or persons.
+
+(Date of commencement of s. 1: 15 August, 2022.)
+2.     Application of Act.  
+(1)    This Act applies to the exercise by the Authority of its border law enforcement functions within the border law enforcement area and at ports of entry.
+(2)    This Act applies outside the territory of the Republic in accordance with any binding international agreement entered into in terms of section 231 of the Constitution.
+(3)    Except where the Act otherwise provides, this Act does not apply to—
+(a)   the border protection functions performed by the Defence Force, including those performed in respect of the airspace of the Republic;
+(b)   postal services as defined in section 1 of the Postal Services Act, 1998 (Act No. 124 of 1998); and
+(c)   the customs related functions performed by the South African Revenue Service.
+
+(Date of commencement of s. 2: 15 August, 2022.)
+3.     Object of Act.  
+
+The object of this Act is to establish and empower the Authority to achieve—
+(a)   integrated border law enforcement within the border law enforcement area and at ports of entry; and
+(b)   co-operation on and co-ordination of border management matters in general.
+
+(Date of commencement of s. 3: 15 August, 2022.)
+CHAPTER 2   BORDER MANAGEMENTAUTHORITY  
+4.     Establishment of Border Management Authority.  
+(1)    The Border Management Authority is hereby established as a national public entity, as contemplated in Part A of Schedule 3 of the Public Finance Management Act, outside of the public service, and is an armed service established in terms of section 199 (3) of the Constitution.
+(2)    The border law enforcement functions within the border law enforcement area and at ports of entry must be performed exclusively by the officers of the Authority.
+
+(Date of commencement of s. 4: 15 August, 2022.)
+5.     Functions of Authority.  
+
+The functions of the Authority are to—
+(a)   facilitate and manage the legitimate movement of persons within the border law enforcement area and at ports of entry;
+(b)   facilitate and manage the legitimate movement of goods within the border law enforcement area and at ports of entry; and
+(c)   co-operate and co-ordinate its border law enforcement functions with other organs of state, border communities or any other persons.
+
+(Date of commencement of s. 5: 15 August, 2022.)
+6.     Composition of Authority.  
+(1)    The Authority is composed of—
+(a)   a Commissioner;
+(b)   Deputy Commissioners;
+(c)   a border guard comprising officers and commissioned officers; and
+(d)   support staff.
+(2)    The Minister must, after consultation with the Commissioner, determine the staff establishment and organisational structure of the Authority in a manner that promotes the object of this Act.
+
+(Date of commencement of s. 6: 15 August, 2022.)
+CHAPTER 3   COMMISSIONER AND DEPUTY COMMISSIONERS  
+7.     Appointment of Commissioner and Deputy Commissioners.  
+(1)    The President must appoint a Commissioner who—
+(a)   is a fit and proper person;
+(b)   possesses tertiary qualifications appropriate to the post;
+(c)   holds a minimum of 10 years’ appropriate senior management experience;
+(d)   is a South African citizen;
+(e)   has not been convicted and imprisoned without the option of a fine, except for a criminal offence for which the person has been granted amnesty in terms of the Promotion of National Unity and Reconciliation Act, 1995 (Act No. 34 of 1995);
+(f)   has a trustworthy and exemplary character; and
+(g)   is a commissioned officer or must, subsequent to his or her appointment—
+(i)   successfully complete the appropriate prescribed training;
+(ii)   comply with the prescribed security grading requirements; and
+(iii)   successfully undergo an appropriate security clearance process, to be appointed as a commissioned officer.
+(2)    The President must, after consultation with the Minister, appoint no more than two Deputy Commissioners who meet the criteria set out in subsection (1).
+(3)    If the Commissioner is absent or unable to perform the functions of office or the office of the Commissioner is vacant, the Minister may designate a Deputy Commissioner as the acting Commissioner.
+
+(Date of commencement of s. 7: 1 January, 2021.)
+8.     Terms of office of Commissioner and Deputy Commissioners.  
+(1)    The Commissioner and a Deputy Commissioner hold office for an agreed term not exceeding five years: Provided that the term of office may be extended only once at the expiry of such period for a further period not exceeding five years.
+(2)    The President must notify the Commissioner or a Deputy Commissioner, in writing, at least six calendar months before the expiry of the term referred to in subsection (1), or any subsequent period, whether the President intends extending the Commissioner’s or a Deputy Commissioner’s term of office and, if so, for what period.
+(3)    Subject to subsection (5), the Commissioner or a Deputy Commissioner must vacate his or her office on attaining the age of 65 years.
+(4)    If the Commissioner or a Deputy Commissioner attains the age of 65 years after the first day of any month, he or she must be deemed to attain that age on the first day of the next succeeding month.
+(5)    If the President is of the opinion that it is in the public interest to retain the Commissioner or a Deputy Commissioner in his or her office beyond the age of 65 years, and—
+(a)   the Commissioner or a Deputy Commissioner wishes to continue to serve in such office; and
+(b)   the mental and physical health of the person concerned enable him or her so to continue,
+
+the President may from time to time direct that the Commissioner or a Deputy Commissioner be so retained, but not for a period which exceeds, or periods which in the aggregate exceed, two years: Provided that the Commissioner’s or a Deputy Commissioner’s term of office shall not exceed 10 years.
+
+(Date of commencement of s. 8: 1 January, 2021.)
+9.     Removal of Commissioner and Deputy Commissioners from office.  
+(1)    Subject to the Promotion of Administrative Justice Act, 2000 (Act No. 3 of 2000), the President may remove the Commissioner or a Deputy Commissioner from his or her office—
+(a)   for misconduct;
+(b)   on account of continued ill-health;
+(c)   on account of incapacity to carry out his or her duties of office effectively and efficiently;
+(d)   on account that he or she is no longer a fit and proper person to hold the office concerned; or
+(e)   on account of a loss of confidence in the Commissioner or a Deputy Commissioner.
+(2)    The President may suspend the Commissioner or a Deputy Commissioner pending an investigation into the circumstances referred to in subsection (1), which investigation must be instituted and finalised within 60 days of the suspension or as soon as reasonably possible thereafter.
+(3)    If the Commissioner or a Deputy Commissioner is suspended in terms of subsection (2), he or she must continue to receive his or her remuneration, allowances and any other benefits that he or she is entitled to receive as if he or she was not suspended, pending the outcome of any investigation or inquiry.
+(4)    
+(a)    The President may allow the Commissioner or a Deputy Commissioner, at the Commissioner’s or a Deputy Commissioner’s request, to vacate his or her office.
+(b)    A request referred to in paragraph (a) must be addressed to the President at least six calendar months prior to the date on which the Commissioner or a Deputy Commissioner wishes to vacate his or her office, unless the President grants a shorter period in a specific case.
+(c)    If the Commissioner or a Deputy Commissioner vacates his or her office in terms of paragraph (a), the Commissioner or a Deputy Commissioner is entitled to such pension as he or she would have been entitled to under the pension law applicable to him or her.
+
+(Date of commencement of s. 9: 1 January, 2021.)
+10.     Conditions of service and remuneration of Commissioner and Deputy Commissioners.  
+(1)    The President must, after consultation with the Minister, determine the conditions of service of the Commissioner and Deputy Commissioners.
+(2)    The President must, after consultation with the Minister and the Minister of Finance, determine the remuneration, allowances and other benefits of the Commissioner and Deputy Commissioners.
+
+(Date of commencement of s. 10: 1 January, 2021.)
+11.     Functions of Commissioner and Deputy Commissioners.  
+(1)    The Commissioner must exercise control over and manage the Authority in accordance with this Act and the directions of the Minister.
+(2)    The Commissioner is the Chief Executive Officer of the Authority and is responsible and accountable for—
+(a)   the efficient and effective performance of the Authority’s functions, including the determination of service standards and the publication thereof in the Gazette;
+(b)   the day-to-day running of the Authority;
+(c)   the formation and development of an efficient administration;
+(d)   the development of a strategic plan setting out the priorities and objectives of the Authority, as required in terms of the Public Finance Management Act;
+(e)   establishing and maintaining bureaus, depots, quarters, workshops or any other institution of any nature whatsoever, subject to applicable legislation, which may be expedient for the general management, control and maintenance of the Authority;
+(f)   establishing and maintaining an effectively functioning border risk management and targeting centre in the prescribed manner;
+(g)   establishing and maintaining a training institution in accordance with any applicable legislation;
+(h)   managing labour relations including—
+(i)   the control of officials;
+(ii)   maintaining discipline and determining disciplinary measures;
+(iii)   the training of officials; and
+(iv)   determining the qualifications and competency standards for officials in accordance with the prescribed requirements;
+(i)   considering a review or appeal in terms of section 29 (3); and
+(j)   reporting to the Minister on a quarterly basis, or at the request of the Minister, on the performance of the Authority.
+(3)    The Commissioner is the accounting authority for the Authority and is responsible and accountable for—
+(a)   the income and expenditure of the Authority;
+(b)   all assets and the discharge of liabilities of the Authority;
+(c)   the proper and diligent implementation of the Public Finance Management Act; and
+(d)   reporting to the Minister on the financial matters of the Authority, which report must be included in the report referred to in subsection (2) (j).
+(4)    The Commissioner is the commander of the border guard and is responsible for the management, command and control of the border guard.
+(5)    A Deputy Commissioner shall have such duties, functions and powers as delegated to him or her by—
+(a)   the Minister, after consultation with the Commissioner; or
+(b)   the Commissioner.
+
+(Date of commencement of s. 11: 1 January, 2021.)
+12.     Delegation by Commissioner.  
+(1)    The Commissioner may delegate to a Deputy Commissioner or any official of the Authority any function or power conferred, or duty imposed, on the Authority or the Commissioner by this Act or any other legislation.
+(2)    Any delegation in terms of subsection (1)—
+(a)   is subject to the conditions that the Commissioner may determine;
+(b)   must be in writing;
+(c)   does not prevent the Commissioner from exercising that power or performing that duty; and
+(d)   may at any time be withdrawn in writing by the Commissioner.
+
+(Date of commencement of s. 12: 1 January, 2021.)
+CHAPTER 4   APPOINTMENTAND FUNCTIONS OF OFFICIALS  
+13.     Appointment of officials.  
+(1)    The Commissioner must—
+(a)   determine and implement a uniform recruitment procedure for the appointment of officials; and
+(b)   appoint—
+(i)   officers who must be members of the border guard; and
+(ii)   support staff.
+(2)    The filling of any post on the staff establishment, whether by appointment, promotion or transfer, must be done in accordance with the Constitution, labour legislation and this Act.
+(3)   Every person to be appointed as an official must, prior to appointment, successfully have undergone an appropriate security clearance process.
+(4)    An official who refuses to subject himself or herself to an appropriate security clearance process, or who fails such process, must be subjected to such disciplinary measures as determined by the Commissioner in terms of section 11 (2) (h) (ii).
+(5)    The Commissioner must ensure that officers undergo adequate and appropriate training that would enable them to perform the functions of the border guard effectively.
+(6)    An identification card in the prescribed form—
+(a)   must be issued to each officer;
+(b)   must be produced on demand in the performance of border law enforcement functions; and
+(c)   constitutes prima facie proof of appointment as an officer.
+(7)    An identification card referred to in subsection (6) must be returned to the Commissioner upon termination of employment of an officer or when an officer is suspended.
+
+(Date of commencement of s. 13: 15 August, 2022.)
+14.     Commissioned officers.  
+(1)    The Minister may confer a temporary or permanent commission on the Commissioner, a Deputy Commissioner and any officer of the Authority.
+(2)    A commissioned officer must be issued with a Deed of Commission bearing the signature of the Minister.
+(3)    In order to qualify as a commissioned officer, a person referred to in subsection (1) must—
+(a)   swear or declare allegiance to the Republic;
+(b)   be a South African citizen;
+(c)   have served successfully on probation as an acting officer with a temporary commission for a prescribed period;
+(d)   have successfully completed any prescribed training;
+(e)   not have been convicted and imprisoned without the option of a fine, except for a criminal offence for which the person has been granted amnesty in terms of the Promotion of National Unity and Reconciliation Act, 1995 (Act No. 34 of 1995);
+(f)   be a fit and proper person to serve and must have a trustworthy and exemplary character; and
+(g)   comply with prescribed security grading requirements.
+(4)    The Minister may only cancel a commission after notifying the commissioned officer concerned of a complaint or charge made and after allowing the commissioned officer an opportunity to respond to the complaint or charge.
+(5)    The Minister may, in respect of officers, confer a commission in terms of subsection (1) or cancel a commission in terms of subsection (4) only after consultation with the Commissioner.
+
+(Date of commencement of s. 14: 15 August, 2022.)
+15.     Duties, functions and powers of officers of border guard.  
+(1)    An officer must perform his or her border law enforcement functions in terms of this Act.
+(2)    An officer may exercise any power that may be conferred on him or her in a declaration as a peace officer, referred to in section 334 (1) (a) of the Criminal Procedure Act, 1977 (Act No. 51 of 1977).
+(3)    When performing any border law enforcement function, an officer must exercise his or her powers in a manner that takes due regard of the fundamental rights of persons, as guaranteed under Chapter 2 of the Constitution, and public international law obligations of the Republic, with proper consideration of the rights and interests of vulnerable groups, including victims of trafficking, refugees and asylum seekers.
+(4)    The Commissioner must follow the procedures set out in section 71 of the Labour Relations Act in relation to the designation of duties, functions and powers of officers of the Authority as an essential service.
+
+(Date of commencement of s. 15: 15 August, 2022.)
+CHAPTER 5   EMPLOYMENT TERMS AND CONDITIONS OF OFFICIALS  
+16.     Terms and conditions of employment.  
+(1)    Notwithstanding the provisions of section 4, officials are employed subject to the terms and conditions of employment determined by the Minister—
+(a)   in consultation with the Minister of Finance; and
+(b)   in accordance with any collective agreement concluded in the Public Service Co-ordinating Bargaining Council.
+(2)    Subject to the Government Employees Pension Law, 1996 (Proclamation No. 21 of 1996), a person appointed as an official becomes a member of the Government Employees Pension Fund referred to in section 2 of the Government Employees Pension Law, 1996 (Proclamation No. 21 of 1996).
+(3)    The Commissioner may, after consultation with the Minister, prescribe a framework for the compensation of officials and their dependants when injured or killed in the line of duty, which may include matters such as medical incapacity, disability pension, a disability regime and compulsory life insurance.
+
+(Date of commencement of s. 16: 15 August, 2022.)
+17.     Limitation of rights.  
+
+Subject to the Constitution, officers may, from time to time and to the extent necessary for purposes of border law enforcement and the safety of such officers, be subjected to—
+(a)   searches and inspections;
+(b)   security clearances;
+(c)   screening of communications between officers and any other person within or outside of the Authority; and
+(d)   shared accommodation or privation in accordance with the exigencies of training and operations related to border law enforcement functions.
+
+(Date of commencement of s. 17: 15 August, 2022.)
+CHAPTER 6   POWERS OF ENTRY, SEARCH, SEIZURE, ARREST AND DETENTION  
+18.     Powers of entry, search, seizure, arrest and detention.  
+(1)    An officer may, with or without a warrant, within the border law enforcement area or at a port of entry—
+(a)   enter any premises;
+(b)   search any person, goods, premises or vehicle;
+(c)   inspect any goods, documents, premises or vehicle;
+(d)   seize anything found in that search or inspection that may be lawfully seized;
+(e)   question any person about any matter related to the passage of persons, goods or vehicles through a port of entry or across the border law enforcement area and confirm their responses in a written declaration; and
+(f)   arrest or detain any person reasonably suspected of contravening any provision of this Act.
+(2)    An officer may, without a warrant, exercise any power in terms of subsection (1) if—
+(a)   a person who is competent to do so consents to the entry, search, inspection or seizure; or
+(b)   the officer on reasonable grounds believes that—
+(i)   a warrant will be issued if applied for; and
+(ii)   the delay in obtaining the warrant is likely to defeat the object of such warrant.
+
+(Date of commencement of s. 18: 15 August, 2022.)
+19.     Routine searches and seizures.  
+(1)    An officer may, without a warrant, conduct a roadblock or set up a checkpoint within the border law enforcement area or at a port of entry with the written approval of the Commissioner.
+(2)    An officer may, without a warrant—
+(a)   conduct a routine inspection or search of any person, goods, documents, premises, or vehicle within the border law enforcement area or at a port of entry for the purpose of ascertaining compliance with the provisions of this Act; and
+(b)   during such an inspection or search—
+(i)   order any driver of a vehicle to stop;
+(ii)   seize or detain anything found that may be lawfully seized or detained;
+(iii)   question any person about any matter related to the passage of persons or goods, documents, vehicles through a port of entry or in the border law enforcement area; and
+(iv)   detain or arrest any person reasonably suspected of contravening any provision of this Act.
+
+(Date of commencement of s. 19: 15 August, 2022.)
+20.     Powers relating to vessels within maritime borders.  
+
+An officer may, without a warrant—
+(a)   order any vessel within the maritime borders of the border law enforcement area to stop;
+(b)   require the master of a vessel to facilitate the boarding of a vessel by that officer by all appropriate means;
+(c)   board a vessel accompanied by such other persons whose assistance is reasonably required in the execution of the officer’s functions and powers;
+(d)   muster the crew of a vessel;
+(e)   require the master to produce for examination and make copies of a certificate of registry, licence, permit, log book or official documents, relating to—
+(i)   the import or export of goods and the entry or exit of persons into or out of the Republic; or
+(ii)   a vessel and to the crew or any member thereof or to any person on board the vessel, which is in their respective possession or control on board the vessel;
+(f)   require the master to appear, in person, and give an explanation concerning a vessel, the crew, any person or goods on board the vessel or document referred to in paragraph (e);
+(g)   enquire into whether any provision of this Act has been contravened;
+(h)   make an entry dated and signed in a vessel’s log book;
+(i)   if there are reasonable grounds to believe that an offence under this Act relating to the import or export of goods or the entry or exit of any person has been or is being committed, require the master to take a vessel to any place, port or harbour in the territory of the Republic for the purpose of carrying out any search, examination or enquiry; or
+(j)   give directions to the master and any crew member of any vessel stopped, boarded or searched as may be necessary or reasonably expedient for any purpose specified in this Act or for the compliance by the vessel, master or any crew member with any condition of a licence.
+
+(Date of commencement of s. 20: 15 August, 2022.)
+21.     Arrested or detained persons and seized goods.  
+(1)    If an officer arrests or detains a person with or without a warrant, that officer must, as soon as reasonably possible, subject to section 35 of the Constitution, bring that person to a police station under the control of the South African Police Service or, if a warrant expressly stipulates another place, bring the person to that place.
+(2)    If an officer seizes anything found in a search conducted in terms of this Act, that officer must, as soon as possible—
+(a)   inform the relevant organ of state of the seizure; and
+(b)   deliver the object seized in a manner, and to a place or relevant organ of state, as required by the relevant legislation.
+
+(Date of commencement of s. 21: 15 August, 2022.)
+CHAPTER 7   FUNDS AND IMMOVABLE PROPERTY  
+22.     Funds of Authority.  
+
+The funds of the Authority consist of—
+(a)   monies appropriated annually by Parliament;
+(b)   any government grants made to it; and
+(c)   any other monies legally acquired by it, subject to Treasury regulations and instructions made in terms of the Public Finance Management Act.
+
+(Date of commencement of s. 22: 15 August, 2022.)
+23.     Immovable property.  
+(1)    The Commissioner may, in consultation with the Minister, acquire, maintain and dispose of immovable property for the purpose of fulfilling the objects of this Act.
+(2)    The Minister must, in accordance with the Public Finance Management Act, determine the policy and procedure for the Authority on the acquisition, maintenance and disposal of immovable property.
+(3)    Any organ of state that owns immovable property that hosts a port of entry must provide and maintain reasonable accommodation for the Authority, as determined by the Minister, to effectively and efficiently perform its functions: Provided that the Authority is liable for any associated service fees and costs.
+(4)    The Minister must determine reasonable accommodation referred to in subsection (3) with due regard to this Act or any other legislation.
+
+(Date of commencement of s. 23: 15 August, 2022.)
+CHAPTER 8   COMMITTEESAND IMPLEMENTATION PROTOCOLS  
+24.     Inter-Ministerial Consultative Committee.  
+(1)    The Inter-Ministerial Consultative Committee is hereby established to—
+(a)   consult on—
+(i)   the designation, determination, appointment or prescription, and withdrawal or cancellation of a port of entry;
+(ii)   the proposed amendment of any legislation that may affect border management;
+(iii)   any international agreement or protocol that affects the Authority;
+(iv)   the advice and reports of the Border Technical Committee referred to in section 25 (3) and (4); and
+(v)   any other matter referred to it by any of the Cabinet members referred to in subsection (3) (b) or (c); and
+(b)   consider and discuss the Commissioner’s reports on the performance of the Authority in terms of section 11 (2) (j).
+(2)    The Minister is the chairperson of the Inter-Ministerial Consultative Committee and the President must designate the deputy chairperson of the Committee.
+(3)    The Inter-Ministerial Consultative Committee consists of—
+(a)   the Minister;
+(b)   the Cabinet members responsible for—
+(i)   Agriculture, Forestry and Fisheries;
+(ii)   Defence and Military Veterans;
+(iii)   Environmental Affairs;
+(iv)   Finance;
+(v)   Health;
+(vi)   Police;
+(vii)   State Security;
+(viii)   Trade and Industry; and
+(ix)   Transport; and
+(c)   any other Cabinet member appointed by the President.
+(4)    A Cabinet member referred to in subsection (3) (b) or (c) may be removed by the President if the President considers it necessary to do so.
+(5)    The meetings of the Inter-Ministerial Consultative Committee—
+(a)   are convened by the chairperson; and
+(b)   are held quarterly or as regularly as may be necessary to perform its functions.
+(6)    The quorum for a meeting of the Inter-Ministerial Consultative Committee is the majority of its members.
+(7)    The Inter-Ministerial Consultative Committee may, whenever necessary, invite any Cabinet member, organ of state or any person to attend its meetings.
+(8)    The Inter-Ministerial Consultative Committee may determine its own rules and procedures.
+
+(Date of commencement of s. 24: 15 July, 2021.)
+25.     Border Technical Committee.  
+(1)    The Border Technical Committee is hereby established.
+(2)    The Border Technical Committee consists of the Commissioner and the heads of prescribed organs of state or their duly delegated representatives: Provided that a duly delegated representative must be a member of the senior management services of the organ of state.
+(3)    The Border Technical Committee must advise the Inter-Ministerial Consultative Committee on—
+(a)   the implementation of legislation, policies and protocols related to border management;
+(b)   the application, outcomes and operational effectiveness of legislation, policies, protocols, structures, standards, procedures and strategy related to border management; and
+(c)   any matter referred to it by the Inter-Ministerial Consultative Committee, the Commissioner or any member of the Border Technical Committee.
+(4)    The Border Technical Committee must report quarterly to the Inter-Ministerial Consultative Committee.
+(5)    The Commissioner is the chairperson of the Border Technical Committee and the Minister must designate the deputy chairperson of the Committee.
+(6)    The Border Technical Committee must determine its own rules and procedures that must not be in conflict with the Act or any other legislation.
+(7)    The Border Technical Committee must refer any dispute that arises at its meetings to the Inter-Ministerial Consultative Committee for resolution.
+
+(Date of commencement of s. 25: 15 July, 2021.)
+26.     Advisory committees.  
+(1)    The Minister may, as and when the need arises, appoint one or more advisory committees to advise the Minister and the Commissioner on any matter concerning border management and the functioning of the Authority, including resource utilisation, asset management, human resources and information technology.
+(2)    The Minister—
+(a)   must determine the terms of reference of an advisory committee appointed in terms of subsection (1);
+(b)   must appoint as members of an advisory committee persons—
+(i)   who are fit and proper;
+(ii)   with the requisite expertise and experience; and
+(iii)   who have the ability to perform effectively;
+(c)   may appoint persons as members of an advisory committee on such conditions as the Minister may determine; and
+(d)   may appoint as members of an advisory committee persons independent of the Authority.
+
+(Date of commencement of s. 26: 15 July, 2021.)
+27.     Implementation protocols.  
+(1)    For the purpose of this section, “implementation protocol” means an implementation protocol concluded in accordance with section 35 of the Intergovernmental Relations Framework Act, 2005 (Act No. 13 of 2005).
+(2)    Where the implementation of a policy, the exercise of a statutory power, the performance of a statutory function or the provision of a service relating to border law enforcement functions by the Authority depends on the participation of other organs of state, the Authority and those organs of state must, within a reasonable time after the commencement of the Act, co-ordinate their respective functions in such a manner as may be appropriate or required in the circumstances by entering into an implementation protocol.
+(3)    The organs of state referred to in subsection (2) must, within a reasonable time after the commencement of the Act, enter into implementation protocols with the Authority to collaborate on and ensure the alignment of technological, electronic, information and communication systems and procedures necessary to ensure the efficient sharing of relevant information with the Authority.
+(4)    The Minister may initiate the process for the conclusion of implementation protocols contemplated in subsections (2) and (3) in the Inter-Ministerial Consultative Committee.
+(5)    
+(a)    The Authority must, within six months after the commencement of this section, conclude implementation protocols with—
+(i)   the Defence Force;
+(ii)   the South African Police Service; and
+(iii)   the South African Revenue Service,
+
+for the mandatory co-ordination of their respective functions within the border law enforcement area and at ports of entry.
+(b)    If any of the implementation protocols contemplated in paragraph (a) are not concluded, the Minister and the Cabinet member responsible for Defence and Military Veterans, Police or Finance, as the case may be, must determine the relevant implementation protocol.
+(6)    The implementation of implementation protocols concluded in terms of this section must be co-ordinated by the Inter-Ministerial Consultative Committee.
+
+(Date of commencement of s. 27: 15 July, 2021.)
+CHAPTER 9   GENERAL  
+28.     Delegation by Minister.  
+(1)    The Minister may delegate to the Commissioner, a Deputy Commissioner or any official any function or power conferred, or duty imposed, on the Minister that is permitted to be delegated: Provided that any delegation to a Deputy Commissioner or any official must be made after consultation with the Commissioner.
+(2)    The Minister may not delegate a power referred to in sections 14 (1), 14 (4), 23 (2), 26, 27 (4), 27 (5) (b), 30, 31 (b), 36, 38 (2) and 39 (2).
+(3)    Any delegation in terms of subsection (1)—
+(a)   is subject to the conditions that the Minister may determine;
+(b)   must be in writing;
+(c)   does not prevent the Minister from exercising that power or performing that duty; and
+(d)   may at any time be withdrawn in writing by the Minister.
+
+(Date of commencement of s. 28: 15 August, 2022.)
+29.     Review or appeal of decisions.  
+(1)    Any decision made by an officer in terms of this Act that materially and adversely affects the rights of any person must be communicated to that person in the prescribed manner and must be accompanied by written reasons.
+(2)    Any person aggrieved by a decision referred to in subsection (1) may, within the prescribed period, make an application in the prescribed manner to the Commissioner for the review or appeal of that decision.
+(3)    The Commissioner must consider the application referred to in subsection (2), whereafter the Commissioner must confirm, set aside or modify that decision and communicate his or her decision in writing to the aggrieved person within the prescribed period.
+(4)    Any person aggrieved by the decision of the Commissioner referred to in subsection (3) may, within the prescribed period, make an application in the prescribed manner to the Minister for the review or appeal of that decision.
+(5)    The Minister must consider the application referred to in subsection (4), whereafter the Minister must confirm, set aside or modify the Commissioner’s decision and communicate his or her decision in writing to the aggrieved person within the prescribed period.
+
+(Date of commencement of s. 29: 15 August, 2022.)
+30.     Ports, points or places of entry or exit with approval of Minister.  
+(1)    Notwithstanding any other legislation, the power to designate, determine, appoint or prescribe any port, point or place of entry or exit for—
+(a)   the movement of goods; or
+(b)   the movement of persons,
+
+in and out of the Republic may only be made with the approval of the Minister.
+(2)    Any withdrawal or cancellation of a designation, determination, appointment or prescription referred to in subsection (1) of any port, point or place of entry or exit, may only be done with the approval of the Minister.
+(3)    The Minister must, prior to an approval in terms of subsection (1) or (2), publish a notice in the Gazette for public comments for a period of not less than 30 days.
+
+(Date of commencement of s. 30: 15 August, 2022.)
+31.     Annual report.  
+
+Subject to the Public Finance Management Act—
+(a)   the Commissioner must prepare and submit an annual report, financial statements and the report of the auditors on those statements to the Minister; and
+(b)   the Minister must table the reports and statements referred to in paragraph (a) in Parliament.
+
+(Date of commencement of s. 31: 15 August, 2022.)
+32.     Exemption from payment of fees or tolls.  
+
+When performing any function or exercising any power in terms of this Act, an officer, including the vehicle in which the officer is being transported and any person accompanying the officer, is exempted from the payment of any fee or toll to enter or use any public or private premises, thoroughfare or ferry.
+
+(Date of commencement of s. 32: 15 August, 2022.)
+33.     Confidentiality.  
+
+Subject to the Protected Disclosures Act, 2000 (Act No. 26 of 2000), an official may not disclose any confidential or personal information acquired in the performance of the Authority’s functions to any person, except—
+(a)   to an authorised official;
+(b)   to a person designated by the Commissioner or the Minister to receive such information;
+(c)   to a person authorised to receive such information in terms of the relevant legislation; or
+(d)   when required or authorised to do so by a court or any law.
+
+(Date of commencement of s. 33: 15 August, 2022.)
+34.     Liability.  
+(1)    Subject to subsection (2), the Minister, the Commissioner, the Authority or its officials are not liable for any damage or loss caused by—
+(a)   the exercise of any power or the performance of any duty in terms of this Act; or
+(b)   the failure to exercise a power or perform a duty under this Act.
+(2)    Subsection (1) does not apply in respect of unlawful conduct that is committed negligently or intentionally.
+
+(Date of commencement of s. 34: 15 August, 2022.)
+35.     Offences and penalties.  
+(1)    It is an offence for any person—
+(a)   to induce any official by giving or promising a reward to contravene this Act or any relevant legislation or to breach that official’s duties under those laws;
+(b)   to compel any official through threats to contravene this Act or any relevant legislation or to breach that official’s duties under those laws;
+(c)   to pretend to be, or impersonate, an official;
+(d)   to resist, hinder or obstruct an official in the performance of his or her duties, functions and powers under this Act or any relevant legislation; or
+(e)   to intentionally furnish information that is false or misleading to an official.
+(2)    It is an offence for an official to solicit or accept an inducement to perform or not perform a duty or function or contravene this Act or any relevant legislation or to breach any duties imposed under this Act or any relevant legislation.
+(3)    It is an offence for any person to demand a toll or fee or subject any officer, who has identified himself or herself as an officer, to unreasonable delay or detention in respect of the entry into or use of the property or facilities referred to in section 23 (3).
+(4)    It is an offence for—
+(a)   an official to contravene section 33; and
+(b)   an officer to commit a breach of the prescribed disciplinary code related to the border law enforcement functions of an officer.
+(5)    If a person is convicted of an offence referred to in—
+(a)   subsection (1) or (2), that person is liable to a fine or a period of imprisonment not exceeding 10 years or to both a fine and such imprisonment;
+(b)   subsection (3) or (4) (a), that person is liable to a fine or a period of imprisonment not exceeding two years or to both a fine and such imprisonment; and
+(c)   subsection (4) (b), that person is liable to a penalty, as prescribed in terms of section 36 (4).
+
+(Date of commencement of s. 35: 15 August, 2022.)
+36.     Regulations.  
+(1)    The Minister may, after consultation with the Commissioner, make regulations regarding—
+(a)   the terms and conditions of appointment of officials;
+(b)   the qualifications and competency standards for officials;
+(c)   the structure and functioning of the border guard;
+(d)   the commissioning of officers;
+(e)   the grading and rank of officers;
+(f)   the training and arming of officers;
+(g)   a disciplinary code of conduct for officers;
+(h)   the rules for the conduct of meetings and procedures of advisory committees;
+(i)   the handling and resolution of complaints and grievances affecting the work of the Authority;
+(j)   any matter which is required or permitted by this Act to be prescribed; and
+(k)   any administrative or procedural matter necessary or expedient for the implementation of this Act.
+(2)    A regulation made under subsection (1) may prescribe a fine or a period of imprisonment for a maximum of five years for any contravention thereof or failure to comply therewith.
+(3)    The Minister may only make a regulation referred to in subsection (1) (g) after consultation with the recognised trade unions.
+(4)    The Minister may make regulations that prescribe different penalties for different degrees of misconduct of officers in breach of the disciplinary code of conduct for officers.
+(5)    The Minister must, before making regulations under this Act, publish the draft regulations in the Gazette for public comments for a period of not less than 30 days.
+(6)    The Minister must, prior to the promulgation of any regulations referred to in subsection (5), table the draft regulations in Parliament for comments for a period of not less than 30 days, while Parliament is in session.
+
+(Date of commencement of s. 36: 15 August, 2022.)
+CHAPTER 10   TRANSITIONAL PROVISIONS  
+37.     Transfer of employees from organ of state to Authority.  
+(1)    If an employee is transferred from an organ of state to the Authority—
+(a)   the transfer does not interrupt the employee’s continuity of service;
+(b)   the employee may not, upon transfer, suffer any reduction in remuneration, pension and retirement benefits or amendment of conditions of service;
+(c)   the transfer does not affect any disciplinary proceedings pending against that employee and must be finalised as if the transfer had not occurred; and
+(d)   the transfer must be effected in accordance with fair labour practices.
+(2)    For purposes of the Income Tax Act, 1962 (Act No. 58 of 1962), the Labour Relations Act and the Public Administration Management Act, 2014 (Act No. 11 of 2014), no change of employer must be regarded as having taken place by virtue of the transfer referred to in subsection (1).
+(3)    If there is any dispute arising from the interpretation or application of this section, that dispute must be referred to the Labour Court for determination.
+
+(Date of commencement of s. 37: 15 August, 2022.)
+38.     Assets, liabilities and funds.  
+(1)    The transfer of assets, liabilities and funds to the Authority will be managed in accordance with the Public Finance Management Act.
+(2)    The Minister must, in conjunction with the executive authority of an organ of state concerned, and with the approval of the Minister of Finance, and in the spirit of co-operative government envisaged in Chapter 3 of the Constitution, enter into an agreement with such organ of state to ensure that the assets, rights, obligations and liabilities, including the unexpended balance of appropriations, authorisations, allocations and other funds employed, held or used in connection with the management and administration of border law enforcement, are transferred to the Authority.
+(3)    The Registrar of Deeds must make the necessary entries or endorsements for the transfer of any property in terms of subsection (1), and no office fee or other charge is payable in respect of that entry or endorsement.
+(4)    Any litigation resulting from any cause of action in relation to the assets, rights, obligations or liabilities transferred to the Authority, which arose—
+(a)   before the transfer date, must be conducted by or against the relevant organ of state concerned; and
+(b)   on or after the transfer date, must be conducted by or against the Authority.
+
+(Date of commencement of s. 38: 15 August, 2022.)
+39.     Ports, points and places of entry or exit.  
+(1)    The ports, points and places of entry or exit at the commencement of this Act are—
+(a)   those designated by the Minister in terms of section 9A of the Immigration Act, 2002 (Act No. 13 of 2002);
+(b)   those appointed or prescribed by the Commissioner of the South African Revenue Service in terms of section 6 of the Customs and Excise Act, 1964 (Act No. 91 of 1964); and
+(c)   those determined by the Minister responsible for Agriculture in terms of the Agricultural Pests Act, 1983 (Act No. 36 of 1983), the Agricultural Product Standards Act, 1990 (Act No.119 of 1990), the Animal Diseases Act, 1984 (Act No. 35 of 1984) and the Animal Health Act, 2002 (Act No. 7 of 2002).
+(2)    Subject to section 30 (3) and in order to ensure consistency and integration of the different functions, the Minister may withdraw or cancel a designation, determination, appointment or prescription of a port, point or place of entry or exit under—
+(a)   subsection (1) (b), in consultation with the Commissioner of the South African Revenue Service; or
+(b)   subsection (1) (c), after consultation with the Minister of Agriculture,
+
+as the case may be.
+
+(Date of commencement of s. 39: 15 August, 2022.)
+40.     Recognised trade unions.  
+
+Any reference to trade unions recognised by the Authority in this Act must be read as a reference to the trade unions that are recognised by, or parties to, collective bargaining arrangements with other organs of state.
+
+(Date of commencement of s. 40: 15 August, 2022.)
+CHAPTER 11   SHORT TITLE AND COMMENCEMENT  
+41.     Short title and commencement.  
+(1)    This Act is called the Border Management Authority Act, 2020.
+(2)    The President may, by proclamation, determine different dates in respect of—
+(a)   the commencement of different provisions of this Act; or
+(b)   the application of this Act to different parts of the border law enforcement area or different ports of entry.
+
+(Date of commencement of s. 41: 15 August, 2022.)
+COMMENCEMENT OF THIS ACT  
+
+Date of commencement
+The whole Act/ Sections
+General Notice No.
+Government Gazette
+Date of Government Gazette
+1 January, 2021
+ss. 7 to 12
+Proc 41 
+44038
+24 December, 2020
+15 July, 2021
+ss. 24 to 27
+Proc 22 
+44823
+9 July, 2021
+15 August, 2022
+ss. 1 to 6, ss. 13 to 23 and ss. 28 to 41
+Proc 86
+46723
+15 August, 2022
+This Act was published in Government Gazette 43536 dated 21 July, 2020.
+
+____________
+
+
+End of Document
+(ZA) BORDER MANAGEMENT AUTHORITY ACT, NO. 2 OF 2020
+Page 23 of 23
+
+

@@ -1,0 +1,36 @@
+
+
+
+
+Protected disclosures and Parliament as the employer
+IR - Weekly Comment
+
+Protected disclosures and Parliament as the employer
+
+The Labour Court decision in Charlton v Parliament of RSA (2007) 16 LC 8.29.3 is a first in many respects. It is the first Labour Court case where the South African Parliament is cited as the employer. It is the first (and probably last) decision to consider whether the Protected Disclosures Act 26 of 2000 (PDA) applies to members of Parliament and it also looks at the question of whether members of Parliament (MPs) are “employees” for the purposes of the PDA. Finally, it also, in passing, considers what the “business” of Parliament is. 
+
+Arising in the context of what is now commonly called “Travelgate” this specific dispute arose when the employee, Parliament’s Chief Financial Officer was dismissed after making certain disclosures as regards improper travel benefits claimed by MPs. The disclosures were made to Parliament’s Secretary, the Speaker of the National Assembly and the Chairperson of the National Council of Provinces. Having made the disclosures, the employee was charged with misconduct and dismissed. He approached the Labour Court on the basis of his allegation that his dismissal was automatically unfair because it was the result of his making a protected disclosure. 
+
+As employer, Parliament took exception to the employee’s claim. For the purposes of this decision, two of these exceptions were relevant. First, the employer argued that the employee’s claim did not disclose a cause of action and, secondly, that the Labour Court had no jurisdiction to hear the dispute relating to the employee’s conduct. 
+
+In the course of making a ruling on these issues, the Labour Court had to answer a number of ancillary questions. The basis for the employer’s first exception was that the employee’s disclosures were not protected disclosures. This argument was based on the view that MPs (about whom the disclosures were made) are not employees of Parliament. Similarly, the MPs are not the employers of the Parliamentary staff. The employee’s counter-argument was that employees are a bit of both: they are both employers and employees. Seen collectively, the MPs constitute an employer for the purposes of the PDA. 
+
+The Labour Court found that Parliament does indeed have a “business” — its business is to legislate for the country. This links up to the second part of the definition of an employee in the PDA: any other person who in any manner assists in the carrying on or conducting the business of an employer. MPs assist in the making of laws (which is the business of Parliament) — there is no requirement, in the second part of the PDA’s definition of  an employee, that remuneration must be paid; even so, held the Labour Court, the payments made to MPs is a reward for the services rendered to Parliament. And so, at least for the purposes of the PDA, the Court found that MPs are employees. 
+
+But are they also employers? Again the Labour Court starts off by looking at the definition of an employer in the PDA: any person who permits any other person in any manner to assist in the carrying on or conducting of his or her business. Now the argument goes as follows: the parliamentary staff (of whom the applicant employee was one) support the operations of Parliament and the National Council of Provinces. The parliamentary staff does the work of the MPs (well, this is how the Court put it at [26] — perhaps both MPs and the parliamentary staff will be surprised to hear this). If there are no MPs, the staff would have nothing to do. It therefore follows, said the Labour Court, that the MPs provide work to the parliamentary staff; in the words of the PDA’s definition of an employer: they permit the staff to assist in the carrying on of their business. There was no acceptable reason, found the Labour Court, for excluding MPs from the definition of an employer in terms of the PDA. 
+
+Another question was whether the PDA applies to MPs. Here again the Labour Court found no reason why MPs would be excluded from the operation of the PDA especially if a purposive approach to the interpretation of the PDA is taken and the purpose of the PDA being to root out corruption. The Labour Court concluded that the applicant employee was entitled to disclose irregularities in terms of his job description as well as the PDA. Because he was an employee of Parliament, he deserved the protection offered by the PDA. 
+
+Parliament’s challenge to the Labour Court’s jurisdiction was based on the argument that the matter should have been referred to the CCMA — the matter should have been referred to arbitration under the auspices of the CCMA instead. And here the entire question of when a dismissal is unfair or automatically unfair again surfaces (the Labour Appeal Court’s decision in Wardlaw v Supreme Moulding (Pty) Ltd (2007) 16 LAC 1.11.16 was not taken into account). Here the Labour Court simply said that it cannot dismiss the dispute at this point in time when the dispute is coupled with an allegation that the dismissal was automatically unfair. The true reason for the dismissal could only be established by means of evidence; only after the evidence had been heard would the Labour Court be in a position to decide if the unfair dismissal dispute should be referred to the CCMA for arbitration. 
+
+An interesting decision, raising some interesting questions. Few of these questions will arise in practice on a regular basis, of course. And there can be little doubt that not everyone would agree with parts of the Labour Court’s reasoning. That Members of Parliament are both employers and employees at the same time may strike one as strange. A closing thought:
+
+ “[46] The Parliament is the employer of the applicant. In terms of the Preamble to the Protected Disclosures Act 26 of 2000, the employer has a responsibility to take all necessary steps to ensure that employees who disclose information are protected from any refusal [sic] as a result of such disclosure. It is the same Parliament which denies the protection. It does not make sense that the members made law that does nor or was not intended to apply to them. This, in my view, makes a mockery to [sic] the whole legislation.”
+
+‘Till next week
+
+Carl Mischke
+
+
+
+End of Document

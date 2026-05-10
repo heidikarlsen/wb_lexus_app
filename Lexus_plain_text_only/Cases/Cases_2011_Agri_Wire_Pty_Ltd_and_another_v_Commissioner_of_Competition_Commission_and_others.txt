@@ -1,0 +1,135 @@
+
+
+
+
+Agri Wire (Pty) Ltd and another v Commissioner of Competition Commission and others [2011] 1 CPLR 175 (CT)
+Competition Law Reports
+
+Division: Competition Tribunal Of South Africa
+Case No: 63/CR/Sep09
+Date: 28 March 2011
+Before: T Madima TM, M Madlanga TM and A Wessels TM
+Keywords
+
+
+[1] Competition law — Procedure — Application successful.
+[2] Competition law — Procedure — Application to stay complaint proceedings in the Competition Tribunal pending the outcome of review proceedings instituted in the South Gauteng High Court in accordance with the Promotion of Administrative Justice Act 3 of 2000 — Jurisdiction of Competition Tribunal to hear review proceedings.
+
+Editor’s Summary
+
+
+This is an application by the respondents in a complaint referral to stay the complaint proceedings which were instituted by Agri Wire (Pty) Limited and Agri Wire Upington (Pty) Limited (collectively the “applicants”). In the complaint referral it was alleged that the respondents had engaged in certain cartel conduct in breach of section 4(1)(b) of the Competition Act 89 of 1998 (the “Act”).
+
+The respondents sought a stay of the Competition Tribunal’s (the “Tribunal”) proceedings pending the outcome of a review application brought by them in the South Gauteng High Court (the “high court”). The review application challenges the Competition Commission’s (the “Commission’s”) Corporate Leniency Policy (the “CLP”) and the Commission’s grant of immunity in terms thereof to the 12th respondent, Associated Wire Industries (Proprietary) Limited trading as Meshrite (“CWI”).
+
+By way of background, on 29 July 2008, CWI submitted an application to the Commission in terms of the CLP in terms of which it confessed to certain cartel conduct and simultaneously implicated certain of the respondents. Conditional immunity was extended to CWI by the Commission on 28 August 2008 and the Commission subsequently referred the matter, on the basis of evidence procured from the application for immunity, to the Competition Tribunal on 7 September 2009.
+
+On 5 February 2010, the respondents launched review proceedings in the high court in accordance with the Promotion of Administrative Justice Act 3 of 2000 (“PAJA”): (1) reviewing and setting aside the grant by the Commission of conditional immunity to CWI; (2) declaring that the grant of conditional immunity to CWI is not authorised by law and is unlawful; (3) declaring that the evidence obtained by the Commission as a result of the CWI Application was obtained unlawfully and (4) declaring that the Commission may not use, either directly or indirectly, any evidence obtained from CWI’s immunity application in the complaint referral to the Tribunal and that such evidence should be struck out.
+
+The respondents argued that the Act does not empower the Commission to offer or implement the CLP and thus the Commission has acted ultra vires and outside its authority in terms of the Act and continues to do so when it invokes the provisions of the CLP.
+
+ 
+[2011] 1 CPLR 175 (CT) at 176
+
+Also at issue was whether it is the high court or the Tribunal that has jurisdiction to hear and decide on the issues raised by the respondents in the high court review. More specifically, (1) the Commission’s authority to grant conditional immunity to CWI and (2) the status and admissibility of evidence acquired during the leniency application of CWI.
+
+Held that section 27(1)(c) of the Act must be interpreted to include the Rules for the Conduct of Proceedings in the Competition Tribunal, which envisages that the Tribunal can review any decision made by the Commission.
+
+Held further that however, it is already common cause that the actions of the competition authorities (including the decision to grant conditional immunity) are administrative in nature and are reviewable under PAJA. The Tribunal does not have the jurisdiction to hear a review brought under the authority of PAJA.
+
+Held further that owing to the fact that there is a dispute between the Commission and the respondents as regards jurisdiction, it is likely that the matter will be referred by the high court to the Tribunal for a decision in any event. As such, to avoid an untenable situation where the high court and the Tribunal reach differing views, the Tribunal refused to make a ruling on these issues.
+
+Held further that the proceedings before the Tribunal are stayed pending the outcome of the review application currently before the high court.
+
+____________________________________________________________________________________
+
+
+
+
+
+Introduction
+This is an application to stay the complaint proceedings instituted by the applicant (“the Commission”) with the Competition Tribunal (“the Tribunal”) against the second to 11th respondents (“the respondents”) for alleged cartel conduct. The respondents in the cartel matter are in fact the applicants before the Tribunal in this stay application, while the Commission is the respondent. The respondents contend that the complaint proceedings before the Tribunal, should be stayed pending a review application brought by them and currently serving before the South Gauteng High Court (“the high court”). In the high court application, the respondents are challenging the Commission’s Corporate Leniency Policy (“the CLP”) and the grant of immunity in terms of the CLP to the 12th respondent, Associated Wire Industries (Pty) Ltd, trading as Meshrite (“CWI”).
+
+Background
+The Commission’s CLP has been in existence since February 20041. The CLP offers total or partial immunity to cartel members who assist the authorities in identifying and successfully prosecuting cartels.
+On 29 July 2008, and acting in terms of the CLP, CWI submitted an application to the Commission in which it confessed to cartel conduct and  
+[2011] 1 CPLR 175 (CT) at 177
+  implicated fellow cartel members including the respondents. After assessing this application, the Commission granted CWI conditional immunity on 28 August 2008 in accordance with the CLP.
+On 7 September 2009, and upon conclusion of its investigation, the Commission referred a complaint against the respondents in terms of section 50(1) of the Competition Act 89 of 1998 (“the Act”), including CWI, to the Tribunal. The Commission promised full immunity to CWI in exchange for its cooperation and evidence in the prosecution of the other respondents in the cartel matter. Although CWI was cited as a respondent in the complaint referral, no relief was sought against it.2
+The Commission’s referral of the complaint against the respondents was based, inter alia, on the evidence that was obtained by it as a consequence of CWI’s application for immunity under the CLP3.
+Some four months later on 5 February 2010, under case number 7585/2010, the respondents launched review proceedings in the high court and sought the following relief against the Commission4:
+reviewing and setting aside the granting by the Commission of conditional immunity;
+declaring that the granting of the conditional immunity to CWI is not authorised by any law and is unlawful; 
+declaring that the evidence obtained by the Commission from CWI in exchange for the grant of conditional immunity was obtained unlawfully; and
+declaring that the Commission may not use, directly or indirectly, any evidence obtained as a result of the grant of conditional immunity in the complaint referral to the Tribunal against the respondent and that such evidence should be regarded as having been struck out.
+The respondents proffer the following grounds in support of the stay application before the Tribunal:
+the application in the high court is brought in terms of the Promotion of Administrative Justice Act 3 of 2000 (“PAJA”). The Tribunal does not have the jurisdiction to hear the review on which the admissibility of the evidence and the lawfulness of the referral depend; and
+the CLP has been implemented in a number of previous referrals by the Commission, including settlements with whistleblowers incorporating immunity from prosecution and no sanctions against them. This policy and practice of the Commission has been implemented by the Tribunal with apparent approval, which is confirmed by the Commission in paragraph 57 of the answering affidavit in the review application5. 
+[2011] 1 CPLR 175 (CT) at 178
+The respondents argued before the Tribunal that the Act does not make provision for such promises of conditional or full immunity in terms of its CLP. Put differently, the Commission has acted ultra vires and outside its authority in terms of the Act and continues to do so when it invokes the provisions of the CLP.
+
+Common cause issues
+The respondents submitted that the following, inter alia, issues are not in dispute between the parties, although the Commission concedes and then disputes somewhere in its papers whether its actions with regard to the CLP and others in terms of the Act are indeed administrative in nature and thereby reviewable under PAJA. The common cause issues are that:
+the Commission is an organ of state as defined in the Constitution6 and the PAJA;7
+the Commission is an institution exercising a public power or performs a public function in terms of the Act;
+the Commission is a creature of statute whose powers are limited to those contained in the Act; and
+the granting of conditional immunity to CWI is an administrative action.
+The respondents argued that all actions of the Commission that are exercised in accordance with the Act must be administrative in nature. The reason for this assertion being that they are decisions made in the exercise of public power or in the performance of a public function under the Act.
+We are required to determine whether (a) the Tribunal has jurisdiction to determine the review application and (b) the admissibility of the evidence acquired through the CLP by the grant of conditional immunity and the lawfulness of the referral in the event that we decide not to stay the complaint proceedings.
+The Commission contends that the respondents have failed to make out a case for a stay for the following reasons:
+there are no reasonable prospects of success in the South Gauteng High Court review application and the balance of convenience do not favour the respondents;
+section 27(1)(c) of the Act gives the Tribunal the power to review any decision of the Commission, including a decision to grant conditional immunity to CWI;
+the adoption of the CLP by the Commission, and the grant of conditional immunity to CWI, were lawful acts on the part of the Commission. The complaint referral is not unlawful by reason of the fact that it was based on evidence obtained through the CLP. Even if the evidence was obtained unlawfully, it does not follow automatically that it should be struck out or excluded from the complaint proceedings.8 
+[2011] 1 CPLR 175 (CT) at 179
+
+The power of the Tribunal to review the Commission’s decisions
+Section 27(1)(c) of the Act provides that:
+The Competition Tribunal may -
+(a)  . . .
+(b)  . . .
+(c) Hear appeals from, or review any decision of, the Competition Commission that may, in terms of this Act, be referred to it;. . .” (own emphasis.)
+The Commission argued further that the words “this Act” as used in section 27(1)(c) is defined to include the regulations and schedules. This position was articulated most elegantly by the Competition Appeal Court9 when it was confirmed that the words “in terms of this Act” in section 27(1)(c) must be interpreted to include the rules for the conduct of proceedings in the Competition Tribunal (“the Tribunal Rules”).
+Tribunal rule 42(3)(b)(i) provides that:
+A notice of motion in terms of this rule must –
+(a) indicate the basis of the application; or
+(b) depending on the context-
+set out the commission’s decision that is being appealed or reviewed.”
+The above subsection of the Tribunal Rules, envisages the possible review by the Tribunal of a Commission decision. That this is the case, does not appear to be in dispute between the parties.
+
+Disputed issues
+The following issues, inter alia, are in dispute between the respondents and the Commission:
+whether it is the high court or the Tribunal that has jurisdiction to hear and decide on the issues raised by the respondents in the high court review application, more specifically;
+the Commission’s authority to grant conditional immunity to CWI; and
+the status and admissibility of the evidence obtained by the Commission during the leniency application of CWI.
+As already stated above, the respondents are currently in the high court seeking to review the Commission’s decision based on the CLP in terms of PAJA. It is also common cause that the Tribunal does not have the jurisdiction to hear a PAJA review. It is similarly common cause that the Tribunal has the jurisdiction to review any decision of the Commission in terms of section 27(1)(c).
+The stay application raises certain novel points of law not previously decided by the Tribunal. There is a dispute between the applicants in the stay application and the Commission with regard to jurisdiction. There is therefore the possibility that this very matter may be referred by the high  
+[2011] 1 CPLR 175 (CT) at 180
+  court for a decision by the Tribunal. We find that it will be inappropriate for us to express a view on these issues in the context of a stay application. Also it is not inconceivable that the view ultimately taken by the high court may differ from the one we take and that may lead to an untenable situation.
+We find it prudent that the Tribunal not make any finding and decision in this regard given the imminent application in the high court10.
+In the circumstances, we make the following order:
+that the proceedings before the Tribunal be stayed pending the outcome of the review application currently before the South Gauteng High Court; and
+that there be no order as to costs.
+
+(Madlanga TM and Wessels TM concurred in the judgment of Madima TM.)
+
+The following case was referred to in the above judgment:
+
+
+
+
+
+
+Footnotes
+1	  The CLP was established in terms of s 79(1) of the Competition Act 89 of 1998, as amended. The CLP was published in the Government Gazette notice 195 of 2004 in Gazette number 25963.
+2	 Commission’s heads of argument, para 4 at 2.
+3	  Founding affidavit, para 42 at 19 and answering affidavit, para 74 at 142.
+4	  See Commission’s heads of argument, para 5 at 3.
+5	Commission’s heads of argument in the stay application, paras 6.1–6.2.
+6	  of Act 108 of 1996.
+7	  of Act 3 of 2000.
+8	Ibid, paras 8.1–8.3.
+9	 TWK Agriculture Ltd v Competition Commission and others [2007] JOL 20764 (CAC).
+10	  This matter was in fact heard in the South Gauteng High Court on 7 February 2011 and judgment was reserved.
+
+
+End of Document

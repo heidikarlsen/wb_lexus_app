@@ -1,0 +1,565 @@
+
+
+
+
+Nortje v University of KwaZulu-Natal [2016] JOL 36584 (LC)
+Judgments Online
+
+Division: Durban 
+Case No: D 858 / 10
+Hearing Date(s): 26–30 / 08 / 2013; 06 / 08 / 2014
+Judgment Date(s): 01 / 06 / 2016
+Bench: R Lagrange J
+
+
+Keywords
+
+
+Labour law — Dismissal — Fairness — Alleged automatically unfair dismissal — Alleged protected disclosures
+
+Mini Summary
+
+
+The applicant had been employed as an administrative assistant in the law faculty of the respondent university. She claimed that she was dismissed on 9 October 2009 for making certain protected disclosures and that accordingly, her dismissal was automatically unfair by virtue of section 4(2)(a) of the Protected Disclosures Act 26 of 2000 read with section 187(1)(h) of the Labour Relations Act 66 of 1995.
+
+The disciplinary proceedings against the applicant were instituted in relation to her having made a number of allegations about the running of the faculty. She alleged that various irregularities or improprieties existed in that regard. The applicant argued that university failed to discharge the onus, which she claimed it bore, of proving that she did not have reason to believe that the information she disclosed showed impropriety and that she did not make the disclosures in good faith.
+
+Held that in order to qualify for the protection and remedies available to an employee under the Protected Disclosures Act 26 of 2000, an employee must satisfy the Court that they have met the requirements of the Act. The applicant had to establish that the communications made were protected disclosures in the sense that the communication qualified as a disclosure in terms of the definition of a disclosure in section 1 of the Act. The disclosure must have been made in good faith.
+
+The Court could not find that any of the applicant’s allegations of impropriety satisfied the requirements of constituting protected disclosures. Consequently, her dismissal could not in principle have been related to such allegations.
+
+The Court went on to find that the applicant’s dismissal for misconduct was substantively and procedurally fair.
+
+Her claim was therefore dismissed.
+
+ 
+[2016] JOL 36584 (LC) at 1
+
+
+
+
+Introduction
+
+[1]    The applicant in this matter, Ms P Nortje ("Nortje") who had been employed as an administrative assistant in the Law faculty of the respondent ("the University"), claims that she was dismissed on 9 October 2009 for making certain protected disclosures and that accordingly, her dismissal was automatically unfair by virtue of section 4(2)(a) of the Protected Disclosures Act 26 of 2000 ("the PDA") read with section 187(1)(h) of the Labour Relations Act 66 of 1995 ("the LRA"). Alternatively, she claims that  
+[2016] JOL 36584 (LC) at 2
+her dismissal was substantively and procedurally unfair. Nortje was found guilty on all but one of the six charges against her and was dismissed. The disciplinary enquiry was conducted by an external chairperson. Her appeal also to an independent chairperson was unsuccessful. Both hearings in which Nortje was represented appear to have been comprehensive and the chairpersons of both hearings gave detailed reasons for their findings. Prior to the commencement of her disciplinary proceedings, Nortje was suspended with effect from 14 August 2008.
+
+[2]    In her statement of claim the applicant sought reinstatement with backpay, but it was argued that the court could also entertain a claim for compensation in the alternative.
+
+[3]    Apart from giving evidence herself, Nortje called Ms L Noel ("Noel"), who was employed as the director of Student Academic Administration at the time, and Dr C Lumina, a former senior lecturer in the law faculty ("Lumina"). The university's witnesses were: Professor M Kidd, former deputy dean in the Law faculty ("Kidd"); Mr R Pennyfather, former senior lecturer, dean's assistant and Proctor of the University in 2008 ("Pennyfather"); Mr M Nene ("Nene"), at the time the chairperson of the Law Students Council of the University ("the LSC"); Ms Z Ngema ("Ngema"), another LSC member; and the Registrar at the time, Ms J Meyerowitz.
+
+[4]    In passing it should be mentioned that the pre-trial minute was a perfunctory document. An example of the poor preparation reflected in the document is a statement such as the following: 
+
+"The parties are ad idem that the issues in the Labour Court proceedings are as follows: the factual issues, as defined in the pleadings as to what allegations/disclosures made by the applicant and to whom." 
+
+Such a statement adds nothing to the pleadings and requires the court to make up its own mind what the points of consensus are and entails unnecessary work on the part of the court. The parties did not even bother to set out facts in dispute and facts that were common cause. Such a pre-trial minute is of no help whatsoever to a judge and defeats the object of preparing such a document. Further, neither party made any effort in the heads of argument to refer to the transcript of the record despite it being available. 
+
+ 
+[2016] JOL 36584 (LC) at 3
+
+[5]    After argument was heard, there was a suggestion apparently made to the Registrar of the Court in Durban by the applicant that the transcript which had been filed was incomplete in one or other respect and it was left to the parties to see if there was any agreement about a missing portion of the transcript. A transcript up to and including the evidence of Nene had been provided to the court by the time argument was heard and only the evidence of Ngema and Meyerowitz had not been transcribed by that stage. Despite a long elapse of time, this query was not pursued and the matter was never formally raised with the court, nor was any reconstructed version of the supposed missing evidence filed. It is also the case that no transcript of Ngema and Meyerowitz's evidence was provided. However, in respect of the testimony of the last-mentioned witnesses, the absence of a verbatim transcript of their evidence did not present any difficulties in evaluating their evidence.
+
+The relevant facts
+
+[6]    I do not intend to canvass the evidence in detail but only to deal with parts of it which are pertinent to determining the matter.
+
+The charges for which the applicant was dismissed
+
+[7]    The charges Nortje was found guilty of read as follows:
+
+In or about April or May 2007, you handed to the registrar, Dr Edith Mneney, a document also by himself in which you made the following unsubstantiated allegations including:
+that there were problems in the faculty of Law's aegrotat system for tests and assignments, including that 'system has proved to be unfair' and that decisions are based on favouritism;
+that the assignment/tutorial system in the faculty is 'unacceptable';
+that Mrs Juanita Anthony has committed acts of 'blatant cheating' during the course of her LLB studies; and 
+[2016] JOL 36584 (LC) at 4
+ 1.4 that Mrs Razia Amod, in Howard College, 'has access to examination processes and is studying for her LLB in this faculty'.
+On or about 22 February 2008, you made the following unsubstantiated allegations to Ms. Zoliswa Ngema, a member of the Law Students' Council, including that:
+students were unhappy with the appointment of Ms Juanita Easthorpe as a lecturer for the part-time International Law module;
+Ms Easthorpe had not yet obtained her LLB degree;
+The Dean (Professor Michael Cowling) and Deputy-Dean (Prof Michael Kidd) were implicated in misconduct relating to the appointment of Ms Easthorpe; and
+The appointment of Ms Easthorpe was 'corrupt'.
+On or about 29 February 2008, you made the following unsubstantiated allegations to Mxolisi Nene (the President of the Law Students' Council) including that:
+the appointment of Ms Easthorpe to the position of lecturer for the part-time International Law module was irregular;
+the International Law part-time students were unhappy with this appointment; and
+the Deputy-Dean, Prof Kidd, was 'implicated in irregular conduct' relating to this appointment.
+
+. . .
+
+On or about 27 February 2008, you made unsubstantiated allegations by email to Mr Themba Emmanuel Mbongwe, the Faculty Manager of the Faculty of Law, including that 'recent academic appointments in the Faculty were irregular'.
+You communicated concerns that you had regarding Faculty matters, as set out in charges 1–5 above, without raising the issues in accordance with the proper reporting structures, which had the effect of undermining the management of the  
+[2016] JOL 36584 (LC) at 5
+faculty of law and tarnishing the reputation of professors Cowling and Kidd, the Dean & Deputy-Dean of the Faculty."
+
+[8]    The applicant had been warned prior to her transfer to the Law Department in 2001 for making unfounded allegations and/or statements prejudicial to or undermining the University having the potential to do so. When questioned about this, the applicant claimed that the allegations had been made by the union and not herself, but could not dispute that the warning had been issued to her and had not been successfully challenged. The warning expressly stated that if she engaged in the same or similar conduct in the future, she might be dismissed from the University. It was the events which culminated in this warning which led to her transfer to the law department. It was apparent that one of the concerns raised at that juncture was the time spent on non-work activities by Nortje during working hours. The applicant was employed by the University in 1990 in the Department of Botany. She then moved to the Department of Microbiology and Plant Pathology ("Microbiology") in 1993 until she was "redeployed" to the Law Faculty in 2001. During her time at microbiology she claims that whilst serving on the University's employment equity committee she blew the whistle on appointments in the Department and a process was initiated against her resulting in her moving to the Law Faculty. She claimed that at the time she was transferred to the Law Faculty she had been asked by defendant to sign a document agreeing that she would no longer participate in union work and would no longer serve on university committees. After a meeting between her union at the time ("NEHWAWU") and the Vice Chancellor Prof Makgoba, she was allowed to continue with her other activities.
+
+[9]    When she worked in the Law Faculty at the Pietermaritzburg campus as one of three assistant administration officers, Nortje was also Vice President of the Combined Staff Association ("COMSA"), a trade union. At the same time she was a member of the Senate, a member of the Law Faculty's Employment Equity Subcommittee and a member of the Faculty Board by virtue of her trade union office. Nortje was elected by the administrative staff in the Faculty of Law and Management Studies to sit on the Senate and the Faculty Board. As a member of the Senate, she  
+[2016] JOL 36584 (LC) at 6
+had an opportunity to make an input into the whistleblowing policy, which the Senate approved. There was also a law student's council ("LSC") which sent representatives to the Faculty Board.
+
+The main contentions of the parties
+
+[10]    Nortje claimed that the dismissal was automatically unfair because the University used her disclosures to institute a disciplinary enquiry, which is precisely the kind of retaliatory action the PDA is designed to prevent. Moreover, if only one of the disclosures she made constituted a protected one in terms of the PDA, then her dismissal was still automatically unfair because section 3 of the PDA protects an employee against dismissal even if the dismissal was only "partly on account, of having made a protected disclosure". In particular, Nortje contends that two of the disclosures she made were protected because in one instance she was acting in a representative capacity for a union and in the other she made the disclosure to someone she reasonably believed was her line manager, namely, Mr E Mbongwe.
+
+[11]    In her testimony, Nortje maintained that she had always acted in the best interests of the University as an employee in accordance with its policies and procedures and out of a "heartfelt concern" and passion for her work.
+
+[12]    In relation to the second and third charges, Nortje concedes that if these statements were made to the two student representatives, they would not constitute protected disclosures but she disputes the factual allegations on which those charges were based.
+
+[13]    She further argues that the University failed to discharge the onus, which she claims it bore, of proving that she did not have reason to believe that the information she disclosed showed or tended to show impropriety and that she did not make the disclosures in good faith. Lastly, Nortje claimed that she had been dismissed by the Law Faculty and not the University, but Professor Kidd was adamant that it was the human resources and legal services of the University which had initiated and conducted the disciplinary process which led to her dismissal.
+
+ 
+[2016] JOL 36584 (LC) at 7
+
+[14]    Lastly, Nortje submitted that the University had acted in breach of clause 6 of its PDA policy by investigating her actions instead of investigating the impropriety she believed the disclosure revealed and that the Registrar should not have passed on the documents given to her in confidence to Professor Cowley, but should have referred the matter to the Senate, the Deputy Vice Chancellor and Council.
+
+[15]    The University argues that even if the allegations were supposedly made in terms of the PDA, it was entitled to investigate them and if the allegations turned out to have been made in bad faith it was entitled to take steps against Nortje. Secondly, it contends that the purported disclosures made by Nortje were malicious and intended to harm the reputation of certain staff members. It also argues that there was no reasonable basis for Nortje making the statements she did and she was reckless in making them without inquiring if there was a basis for her suspicions. Further, she failed to follow the University procedure for whistleblowing and, in any event, could not rely on the provisions of section 9 of the PDA, which set out circumstances in which a disclosure will still be protected.
+
+The existence of a procedure for making a protected disclosure
+
+[16]    Section 6 of the PDA provides that:
+
+Protected disclosure to employer.–(1) Any disclosure made in good faith–
+and substantially in accordance with any procedure prescribed, or authorised by the employee's employer for reporting or otherwise remedying the impropriety concerned; or
+to the employer of the employee, where there is no procedure as contemplated in paragraph (a),
+
+is a protected disclosure."
+
+[17]    At the time of the events relating to first charge about what she conveyed to the Registrar in 2007, there was no University procedure for whistleblowing claims, but there was an anonymous fraud line service for  
+[2016] JOL 36584 (LC) at 8
+reporting irregularities or criminal conduct. However, it was common cause that by 15 February 2008 the University had a whistleblowing policy which provided a procedure for employees and students to raise concerns. Nortje was familiar with it as she had been a party to discussions in the Senate which adopted it.
+
+[18]    In terms of paragraph 5.2 of that policy an employee or student was required to approach their immediate supervisor or faculty management unless that person was the subject of the complaint in which case they ought to approach the Vice Chancellor or Chairperson of the Audit and Risk Committee. If the complaint was found to be substantiated by the person it was referred to, that person would consult with the relevant senior managers on whether the matter should be investigated internally or by external forensic investigators or referred to the appropriate external body such as the SAPS.
+
+[19]    Clause 4.1 of the policy read:
+
+"Harassment or Victimisation
+
+4.1  UKZN acknowledges the fact that the decision to report a concern can be a difficult one to make, not least because of the fear of reprisal from those responsible for the irregularity. UKZN said will not tolerate harassment or victimisation arising from the making of a report and will take action to protect employees when they raise a concern in good faith. Any act of harassment or victimisation should be reported to the Vice Chancellor. This does not mean that if an employee is already the subject of disciplinary or other action, that action will be halted as a result of their whistleblowing."
+
+[20]    Clause 4.4 of the policy also cautioned that:
+
+"Allegations which are false and made with malicious intent are discouraged. Where such malicious, vexatious, or false allegations are discovered, the person who made the allegations will be subject to firm disciplinary action, or other appropriate action in the case of external parties." 
+[2016] JOL 36584 (LC) at 9
+Nortje agreed that it meant that if disclosures she made were false the University would be entitled to take disciplinary action against her.
+
+Synopsis of material evidence
+
+Some background events:
+
+[21]    The applicant's first witness was Dr C Lumina ("Lumina"), who was an HR Consultant to the Human Rights Council of the United Nations since his appointment in March 2008. He resigned from the University in 2009.
+
+[22]    He had been a senior lecturer at the University between 2003 and the end of June 2009 when he resigned. In 2004 he was nominated to serve on the School of Law Howard College Executive Committee. He met the applicant some time in 2005 or 2006 because at that time she was serving on the faculty board. In 2004 he applied for two positions. One was as an assistant professor as part of an annual process during which all academics can apply for consideration for a higher position subject to meeting certain thresholds and being endorsed by the relevant line management. Secondly, he applied for an advertised post for the same position.
+
+[23]    Lumina claimed that he had been unfairly denied promotion in 2004, when a senior lecturer, who did not have a Ph.D, was appointed despite Lumina and another candidate being better qualified. Lumina and the other unsuccessful candidate both challenged their non-appointment. He was informed by Professor Cowling, the Dean of the Law Faculty, that he had been unsuccessful because the other candidate was South African, whereas he was not. In this regard, it should be mentioned Lumina was a Zambian national residing in the country on a work permit.
+
+[24]    In the course of subsequent litigation initiated by Lumina, the authenticity of his qualifications were challenged by the University. This prompted him to investigate the qualifications of Professor Cowling and he unearthed evidence that the latter did not have an LLM or D.Phil degree from Cambridge, contrary to what appeared in the faculty handbook and on the University's website. Eventually the truth came out and Professor Cowling took early retirement.
+
+ 
+[2016] JOL 36584 (LC) at 10
+
+[25]    Lumina pressed for charges to be laid against Cowling in terms of section 66 of the Higher Education Act 107 of 1997 ("the HEA"), for allegedly misrepresenting his qualifications. Lumina was advised in November 2008 by the Director of Employee Relations, Mr P Finden ("Finden"), that Finden had been instructed to initiate such charges. However, by the time Lumina resigned in June 2009 it appeared that nothing had been done and he believed that this was because Finden and Cowling were friends. Lumina said he left because he could no longer work in an oppressive environment where he was subject to intimidation such as being denied benefits by Professor Cowling. Later in the proceedings it was correctly conceded by the applicant that there was evidence that the University had in fact referred the matter to the police and a docket had been opened but appeared to have been archived.
+
+[26]    For the purpose of demonstrating what he perceived to be the oppressive environment which existed while Cowling was the dean, he also testified in general terms about a complaint by two black students about being unfairly excluded from a moot contest. According to him they were threatened with disciplinary action if they did not withdraw the case but when a group of white students had complained about him anonymously no steps were taken against them. He interpreted the failure of two members of the promotion committee that had considered his application to testify in his CCMA proceedings concerning his alleged unfair treatment as indicative of the fact that they were terrified of being victimised if they testified on his behalf.
+
+[27]    What is relevant to this matter is that Lumina claimed that he got the information about Cowling's qualifications from Nortje and that this fact was known and he believed this was the reason why she was "victimised". He conceded though that the information about the qualifications was only received from Cambridge some weeks after Nortje had already been suspended.
+
+[28]    Nortje testified that in 2004 she had assisted Cowling to prepare his CV for an application for appointment as a senior dean. During the course of this preparation she had advised him of the need to provide certified copies  
+[2016] JOL 36584 (LC) at 11
+of his qualifications. He had claimed that they had been lost during a move. Initially, Nortje had been nominated to serve on the dean and deputy dean's selection process, but had been replaced by the person who nominated her allegedly on the instructions of Cowling and a Professor Grant. She claimed that after the selection process her life at the faculty became very difficult. Under cross-examination she explained that she was referring to close monitoring of her work by the dean and complaints that she was spending too much time on the phone on personal matters or non-work related issues.
+
+[29]    During 2005, Nortje went through a very difficult time owing to the loss of a son. She testified that she got no support from the faculty and that Cowling and Kidd were extremely nasty to her. At some stage Cowling shouted at her for her work relating to running lecture course evaluations and she broke down emotionally and was booked off ill. Subsequent to that she was threatened by Finden during a counselling process in 2006 about her absenteeism that she had better "toe the line" and that unlike what happened in Microbiology, they would get rid of her. She lodged a grievance about this treatment but it went nowhere.
+
+[30]    Later, under re-examination, the applicant said that her relationship with Cowling and Kidd had been a good one until 2004. After that, although she did not really have a problem with Cowling, her relationship with Kidd changed for the worse.
+
+[31]    Kidd testified that he only was appointed a deputy dean in 2005 but it was around 2004 that problems with the applicant's work developed. In particular, she began to feel that certain tasks were beneath her and that she should be given more responsible administrative work. He said that her work performance was inconsistent and sometimes she would not do things because of other responsibilities she had which she felt were more important. When she returned to work after the death of her son she and Prof Cowling had an altercation as a result of which she was booked off ill for some time. Because her absence and selective approach to her responsibilities was creating a problem for the Law School, Kidd complained to the Human Resources section and on her return she was  
+[2016] JOL 36584 (LC) at 12
+counselled and advised that she had to follow lawful instructions issued by himself and Prof Cowling. He denied being ill-disposed towards her on the basis of the circumstances under which she came to be transferred to the Law Faculty, but conceded that when problems started to emerge there was a concern that she might be repeating the kind of conduct which had led to her transfer. He also maintained that his complaints had been independently motivated by himself and had nothing to do with the fact that the applicant had been instrumental in exposing Cowling's academic credentials.
+
+Nortje's line manager:
+
+[32]    Nortje claimed that her immediate line manager was Mr E Mbongwe, the faculty manager, though she also said that she reported to Cowling and subsequent to the merger of the universities, she reported to Kidd, the deputy dean. Noel described Mbongwe as the person who took care of HR issues within the Law School. Kidd testified that Mbongwe was appointed in 2007 to handle certain HR issues in the faculty, but he had always been Nortje's line manager and she understood that as evidenced by the fact that she would engage with him about issues such as her absence from the office and the like. An extract from the Ijumba report dealing with how the allegations considered by Prof Ijumba would be addressed read:
+
+"Others [allegations] can be dealt with administratively, for example, the issue of communication seems to have been addressed by the appointment of a faculty manager who has direct reporting responsibility for the academic support staff."
+
+Kidd was adamant that even though Mbongwe had certain responsibilities in terms of managing human resources in the faculty and certain issues relating to support staff, there was never any indication that the line management functions had changed after his appointment. To the extent that the Ijumba report found otherwise that was simply incorrect. For example, Kidd was still the person who approved Nortje's leave applications or who granted permission for her to attend union meetings. He did not know what was intended by the phrase "direct reporting  
+[2016] JOL 36584 (LC) at 13
+responsibility" in the above extract from the report, but rejected the suggestion that his responsibility in relation to Nortje ended with day-to-day issues but that did not make him her line manager.
+
+[33]    In any event, Kidd pointed out that the Ijumba report was only issued after the events relating to the contentious e-mails and could not have been the basis for Nortje believing that Mbongwe was her line manager. He was also referred to an extract from the transcript of Nortje's disciplinary proceedings in which another staff member, Ms Govender, testified that if Mbongwe was Nortje's line manager then she would have been correct to raise a grievance with him. Govender then stated that Mbongwe was the line manager and that ". . . if we have a gripe we would report the matter to him if it is an admin matter." Kidd's response to this was that Govender was part of the faculty office staff rather than Law School staff as Nortje was. There were differences in the way the two sections were managed.
+
+[34]    On the evidence, it seems more probable given Kidd's approval of Nortje's leave applications and requesting counselling for her that he was her line manager and that she should have at least raised her concerns with him, before proceeding to the faculty level. If she viewed him as the subject of the complaint then the matter ought to have been referred to the Vice Chancellor's office or the risk and audit committee, though Nortje never advanced this defence for not referring the issue to him rather than Mabongwe.
+
+The issue of part-time lecturers' qualifications:
+
+[35]    On the matter of Easthorpe's appointment, Lumina claimed that there were at least two other contract lecturers who could have been appointed to the position she was appointed to, who were both better qualified. He also contended that until Easthorpe had her LLB degree formally conferred on her she did not actually have the qualification, which meant that she did not have a law degree at the time she was appointed to lecture. Nortje also shared the same understanding as to when a student acquired a degree. She referred to paragraph 67 of the University statute, which stated:
+
+Award of qualifications 
+[2016] JOL 36584 (LC) at 14
+ (1) Degrees conferred and diplomas and certificates are awarded at a congregation which shall be held at least once a year on a date to be announced at the beginning of every academic year.
+The chancellor, or in his or her absence, the vice chancellor or a deputy vice chancellor, shall preside at a congregation.
+A person is not entitled to any privilege conferred by any degree before he or she has been admitted to such a degree, or to any privilege conferred by any diploma or certificate before he or she has been awarded such a diploma or certificate at a congregation."
+
+[36]    Nortje also referred to an advertisement for lecturers' posts which stipulated that candidates had to have a Master's degree in law as a minimum requirement. Noel also claimed this was a requirement. The University produced a list of 13 contract lecturers who had been appointed in the Law Faculty from 2001 to 2007, none of whom had LLM degrees. Nortje did not dispute the veracity of this claim, but insisted that Easthorpe's case was distinguishable from those on the list because unlike them she did not even have an LLB degree.
+
+[37]    In his evidence, Kidd disputed that being "entitled to any privilege conferred by any degree", referred to eligibility for further studies or employment: if that were the case, then students could not be registered for Masters degrees until their LLB degrees had been conferred, which would be absurd. Moreover to the extent that any privileges depended on attainment of the degree qualification a student was eligible for those on admission to the degree in terms of section 67(3) of the University statute and not when the degree was conferred. Meyerowitz confirmed that the conferral of a degree did not delay persons with professional degrees from pursuing their professions. Degree completion certificates were issued without having to wait for graduation. In her understanding the only privilege conferred in the graduation ceremony was the right to use a title such as "Doctor". For university purposes it was sufficient if a graduate had  
+[2016] JOL 36584 (LC) at 15
+a letter saying that they had completed a Master's degree in the case of permanent posts.
+
+[38]    Evidence was also given by Noel to the effect that Easthorpe had been treated more favourably than other students by being given an opportunity to submit assignments to a lecturer for an overview so she could correct them before submitting them. However, it must be mentioned that she agreed that her involvement with other departments such as the Law Faculty arose only when a student was being disciplined or there was a disciplinary-related issue or one involving student academic records. Such knowledge that she had of the issues raised by Nortje in the Law Faculty came to her attention in her union capacity. Noel also conceded that apart from unidentified sources within her union Nortje was the main source of information and she had no direct knowledge of the alleged favourable treatment of Easthorpe.
+
+The appointment of temporary staff using "blue form" procedure:
+
+[39]    Temporary staff at the University were employed using a separate procedure from permanent appointments, known as blue form appointments because the administrative form used for such appointments was blue in colour. There was no formal policy governing blue form appointments though there were guidelines. Noel conceded that circumstances might affect the considerations governing a particular temporary appointment.
+
+[40]    In responding to Nortje's request to have the use of blue form appointments for academic staff discussed at the Senate, Meyerowitz suggested that if the concern was a general one, it should be discussed by the Teaching and Learning Committee which was considering rates of pay for academic contract staff at the time and which might have wanted to also consider guidelines for such appointments. In her e-mail of 10 March 2008 Meyerowitz also wrote:
+
+"Blue form appointments made at the discretion of the manager who signs to confirm that the Recruitment and Selection and Equity policies have been complied with. If you have knowledge of  
+[2016] JOL 36584 (LC) at 16
+specific instances where procedures have been flouted I urge you to forward the details to Ms Budree so that she can act on it."
+
+[41]    Nortje strongly disputed the suggestion that the blue form appointment issue she had referred to Meyerowitz on 6 March 2008 had anything to do with the complaint raised with Mbongwe two days earlier concerning Easthorpe's appointment in the Law Faculty. However, she did concede that there was no specific policy governing blue form appointments. The specifics of Easthorpe's appointment are discussed in more detail below.
+
+Earlier investigations by the University:
+
+[42]    In 2005 a meeting had been called of administrative staff in the faculty by the acting Deputy Vice Chancellors Professors Ntuli and Stanisland, at which certain alleged irregularities in the Law Faculty were reported to them under protection of being protected disclosures. Nortje claimed that nothing came of this because Cowling was resistant to Stanisland handling the process. Kidd testified that the issues raised all concerned support staff and at the time faculty management was advised not to deal with anything other than day-to-day management of the support staff while the issues were under investigation. Professor Stanisland was Prof Cowley's line manager and a member of the University Executive. This process was irksome to faculty management because it limited their ability to manage support staff while it was under way.
+
+[43]    Following a strike in 2006, a board of enquiry under Advocate Gautschi was convened ("the Gautschi enquiry"). Again, the unions made confidential representations to that body after consulting with faculty staff. Both unions made broad confidential submissions to the Gautschi enquiry about issues they were not happy with in the Faculty of Law and which they felt were damaging the reputation of the University. Nortje felt that they were obliged to report these things. She also felt that in the various capacities she held it was her duty to do so. In particular, as a senator she felt she had an obligation to raise matters affecting the academic reputation of the degree. Noel, who was the Chairperson of NEHAWU at the time, confirmed that the unions had made the submissions on issues they were aggrieved about. The representations included issues that had  
+[2016] JOL 36584 (LC) at 17
+been raised previously with Professors Ntuli and Stanisland. Once again, nothing came out of that process according to Nortje.
+
+Events in February and March leading to the applicant's dismissal:
+
+[44]    Nortje said that when she blew the whistle on temporary appointments in the faculty, Prof Kidd sent her a very threatening e-mail saying he was going to take the matter up with the Employer Relations Officer because her line manager had sent the communication to Prof Kidd instead of the appropriate people. Nortje's e-mail of 4 March 2008 to the faculty manager Mbongwe headed "Fwd: APPOINTMENT OF PART-TIME LECTURERS: FACULTY OF LAW", which triggered the events leading to her dismissal, read:
+
+"Dear Emanuel
+
+As the administrative staff representative on the Faculty of Law Board, the Faculty of Law Equity Committee and as a member of Senate, I hereby wish to convey my deep concern with regard to the recent academic appointments in the Faculty of Law in Pietermaritzburg. I am hereby requesting that you take these matters forward to the Human Resources Division as I am afraid that it is my opinion that they are irregular in terms of fairness and compliance with the University Policy on academic appointments. My other fear, as a Senator is that these appointments may impact on the integrity of the LLB degree and ultimately on the reputation of the University. My fear is a member of the equity committee is that they may also impact on the equity goals of the faculty of law in Pietermaritzburg. Currently we do not have any black 'African' mail [sic] academic staff and this is problematic.
+
+If there are academic vacancies in the faculty of Law on the Pietermaritzburg then it is my opinion that in fairness to the University and its procedures, the positions should have been advertised.
+
+I am copying this email to other relevant senior officials who need to be aware of this matter.
+
+Kind regards
+
+Petro."
+
+[45]    Nortje had very definite views on alternative candidates for this appointment. One of whom was an existing lecturer Mr L Lotz and the other was Mr J Kanamaguri who had two Masters Degrees one of which  
+[2016] JOL 36584 (LC) at 18
+he had obtained cum laude and he had extensive tutoring experience. Appointing either of them as the only black male lecturer in the faculty would have been a big improvement from an equity perspective. She also mentioned two other staff members who could have done the job.
+
+[46]    Shortly after Nortje sent her e-mail to Mbongwe, Prof Kidd wrote an e-mail to Finden, having received a copy of Nortje's e-mail via Prof Reddi, who in turn had received it from Mbongwe:
+
+"Dear Paul
+
+Attached please find a letter from Petro Nortje that was sent to Emanuel Mbongwe, the Faculty Manager, and copied to certain other university staff. Prof Cowling has also shown me a letter, either identical or very similar in subject matter that sent by Mrs Nortje to Mr Sylvester Siboto, the Assistant registrar.
+
+The substantial allegations in the letter are completely unfounded, as the writer would have ascertained had she raised the matter with me (or Mike Cowling) as she ought to have done. The only reason I have found out about this, is that I have been handed a copy of the email by Prof Managay Reddi, who was given it by Emanuel. As you can see from the letter, her concerns are dressed up in factors relating to academic integrity and employment equity, but as far as I am concerned, if these were her worries she ought to have raised them with me so that I could assuage her fears. Instead, the past [sic] she has chosen makes it clear to me that her objective in this exercise is to be disruptive and to undermine both me, as her line manager and the person responsible for the appointment that she is impugning, and the person who has been appointed.
+
+The facts of the matter are as follows. In late January/early February, I had arranged almost all of the teaching allocations for 2008 when one of my colleagues told me that she had just been diagnosed with breast cancer and was likely to be having treatment for the whole of the first semester. This necessitated reshuffling the lecturing arrangements at a very late stage. Most colleagues were extremely accommodating in order to address the situation in which we found ourselves, but I felt it was necessary to fill in one or two gaps temporary appointments in order to avoid overloading existing staff. Given that it was extremely late in the day, we had a solution on our doorstep in Mrs Juanita Anthony, who graduated with an LLB the end of last year and who did well in the module International Law, which the Dean and I decided together that it would be appropriate for her to  
+[2016] JOL 36584 (LC) at 19
+teach. She is teaching only some of the lectures and the module is being coordinated by the Dean, so she is by no means being thrown in the deep end. Her appointment, as a temporary part-time lecturer, has been done according to correct procedures (blue-form appointment on the basis of my and the Dean's signatures). The appointment of Juanita, it seems to me, is the reason why Mrs Nortje has taken this matter up, as they are colleagues in the support staff.
+
+This is not the first time that Mrs Nortje has been involved in disruptive behaviour in the faculty (or, for that matter, in the University). I have, quite frankly, had enough. What makes this particular matter worse, though, is that it is undermining of her colleague, Mrs Anthony, who has to work hand-in-hand with Mrs Nortje in order to ensure the smooth running of the Law Faculty.
+
+Please advise as to possible options for disciplinary action. I would appreciate your feedback as soon as possible as the current atmosphere is not conducive to the faculty's been [sic] able to fulfil its responsibilities.
+
+Thank you
+
+Best wishes
+
+Michael."
+
+[47]    Prof Kidd followed this up very shortly afterwards with a letter to Nortje, again under the same heading:
+
+"Dear Petro
+
+Attached please find a letter that you sent to Emanuel Mbongwe and, according to you, 'other relevant senior officials'. The first time I heard anything about this is when Managay Reddi gave me a copy of the email that was given to her by Emanuel. I am greatly displeased about this.
+
+The appropriate course of action for you would have been to raise the matter with me and I could have assured you that all procedures were correctly followed and there was nothing wrong with the process. Your email fails to mention that the appointment that you are complaining about was made as a result of an emergency situation occasioned by the absence of a member of staff for a semester on medical grounds. Even if it were not an emergency situation, however, the correct procedures were followed. Should you require an explanation of the procedure that is required in the case of the appointment of temporary part-time lectures, and an explanation of how the law faculty has complied with those procedures, please would you contact Prof John  
+[2016] JOL 36584 (LC) at 20
+Mubangizi. He has instructed me to refer any queries in regard to this matter to him.
+
+Instead of raising your concerns with me (in my capacity as your line manager and the person responsible for the conduct you are complaining about), you have sent this email to other university officials, making allegations about me (that I have acted unfairly and not followed correct university procedures) that was [sic] served to tarnish my reputation in the university community. This you have done without mentioning your concerns to me at all and allowing me an opportunity to respond.
+
+I regard your email as undermining of the faculty management (the Dean and me) and of the person who has been appointed (Juanita Anthony). It is disruptive and, it appears to me, your motives in this are entirely malicious. I approached employee relations for their advice as to how to take this matter further.
+
+Yours faithfully
+
+Michael Kidd."
+
+[48]    Kidd explained that it had been necessary to ask some of the full-time members of the faculty to take over some of the staff responsibilities of the member who had fallen ill on top of their existing duties, but there were still gaps remaining. One of those gaps was teaching the part-time International Law students and it was felt it would best be met by appointing Easthorpe who would be supervised by Prof Cowling. The overriding consideration was to appoint someone who was qualified to do the job and at that stage an LLB degree was sufficient for a contract position. At the time they only had a matter of weeks to sort the appointment out and they did not consider appointing persons who were already lecturing, such as one of the potential candidates mentioned by Nortje, as they would already have a full teaching load. As to a foreign PhD student who had been suggested by Nortje, he said that there were certain difficulties involved in appointing existing students to teaching positions, quite apart from work permit issues that might arise in that case. He also pointed out that any graduate who was employed by the University the following year usually starts in January before the graduation ceremony. This was equally true of graduates who began work as candidate attorneys.
+
+ 
+[2016] JOL 36584 (LC) at 21
+
+[49]    Professor Kidd testified that blue form appointments could not be for longer than one year and were not subject to the equity targets of the University which only applied to permanent posts. In the case of Easthorpe, she was appointed for five months and incidentally, as a coloured person, was a designated person in any event. Although Nortje did not testify in detail about her interpretation of the University's employment equity policy which had been adopted in May 2007, it was clear that she believed it applied to a short-term appointment of a lecturer. Kidd testified that the appointment protocol attached as Appendix 1 to the equity policy only applied to fixed-term contracts longer than a certain duration and to permanent appointments even though the document itself makes no distinction between permanent and contract post appointments. During his time as deputy dean he said he made approximately 20 part-time appointments each semester on a short-term basis where the period of appointment was below the threshold that required advertising and interviews. The current threshold was appointments of two or more years, but he could not recall what the cut-off was at the time Easthorpe was appointed except that her four-month appointment definitely fell below the applicable threshold at the time. Accordingly, all the requirements relating to advertising, selection committees and appointment criteria set out in Appendix 1 were not applicable in Easthorpe's case. Thus, in signing off the blue form to the effect that the employment equity policy had been satisfied, in a sense that was neither here nor there because the policy did not apply to those appointments. It was the applicant's contention that her perception was that the appointments policy had not been complied with based on her understanding that all appointments had to comply with the protocol.
+
+[50]    Kidd did concede that in making blue form appointments subjective factors could play a part. Thus the vast majority of persons appointed on this basis would be people that he would have known. For example, if a professor wanted to appoint a Master's student as a research assistant there would already be an existing relationship between them and the selection process would not be a competitive one. However, the competitive disadvantage would only be a short-term one.
+
+ 
+[2016] JOL 36584 (LC) at 22
+
+[51]    It was put to him that it was not unreasonable of Nortje to have perceived that there was something irregular about the appointments of Easthorpe, and two other persons, L van Rensburg and S Ali, as part-time lecturers, when none of them had LLM degrees but only LLB degrees, which had not been conferred on them, and all were personally known to the managers appointing them. Kidd's response was that if that was indeed a genuine concern it was inexplicable why Nortje had never raised those issues in relation to a number of other appointments prior to that which were indistinguishable on the criteria mentioned.
+
+[52]    Nortje claimed that she was shocked and scared when she received Kidd's e-mail and his mention of referring it to Employee Relations. As far as she was concerned, she had referred the matter to the correct person. She also denied that there was any emergency in the Department. In her view, an emergency situation would be one of the short duration not for a whole semester. She also had never mentioned Kidd, Cowling or Anthony by name in her e-mail and she merely intended to raise her concerns. Her only response to this e-mail, under the same heading was the following:
+
+"Dear Mike
+
+I really thought that Emanuel was the appropriate person to report this matter to.
+
+Regards Petro."
+
+However, Nortje conceded under cross-examination that the persons who would be identified as responsible for the irregularities mentioned in her letter would be Cowing and Kidd. She said that she had sent it to "senior officials at the University" and to the equity manager and HR director, and agreed that it was not described as a protected disclosure. She could not explain why Mbongwe would have passed the e-mail on if he had agreed with her before she sent it to him that it would be kept confidential.
+
+Noel also perceived Nortje's actions in sending the e-mail to merely be clarification of the appointment procedure because some students had  
+[2016] JOL 36584 (LC) at 23
+expressed unhappiness about more qualified persons not being appointed.
+
+[53]    Professor Kidd testified that even though names were not mentioned it was clear given the timing that Easthorpe was the person being referred to and that he and Prof Cowling were responsible for the appointment. In addition shortly before the e-mail some students had approached him to say that they had been advised that there were certain irregularities relating to Law School appointments. Although they were reluctant to divulge the source of their information and he had not yet received the forwarded e-mail he had heard about it and surmised that Nortje was responsible because he knew that she had an issue with Easthorpe on account of Easthorpe being appointed to a position of greater responsibility than Nortje. In his view, it was significant that prior to Easthorpe's appointment there had been numerous blue form appointments in the years leading up to her appointment of people with similar qualifications but it was only when Easthorpe was appointed that an issue was raised about these types of appointments.
+
+[54]    In his view, it was also quite improper for these matters to be raised with the LSC whose function was to hear concerns and grievances of students not of staff members. If Nortje had a problem with staff appointments she ought to have raised it with him as her line manager and he could have explained it to her that it was above board. In his view, in the absence of any basis for Nortje to reasonably believe that the complaints were true, he could only believe they were motivated by malice. Had Nortje wished to verify if the appointment was irregular she could have asked him or approached someone in Human Resources. Similarly, if she had any concerns about allegations of cheating those could be raised with the management of the faculty.
+
+The Ijumba and McCracken reports:
+
+[55]    A preliminary report on problems in the Faculty of Law at the Pietermaritzburg campus was issued on 22 April 2008 by Prof N Ijumba, the Dean of the Faculty of Engineering ("the Ijumba report"). The report had been requested by Employee Relations, and essentially deals with her  
+[2016] JOL 36584 (LC) at 24
+complaints about the faculty and vice versa. It was prompted by the chain of events set off by her communication to Mbongwe in February.
+
+[56]    The Ijumba report recommended yet a further investigation which was chaired by Prof D McCracken of the Faculty of Humanities, Development and Social Studies, the result of which became known as "the McCracken report". The principal issues canvassed in that report with those on which no conclusion had been reached by Prof Ijumba namely, the handling of examinations, favouritism of students by some lecturers, and irregular appointment of staff for the part-time LLB programme. In summary, the committee concluded that the allegations of impropriety relating to those issues were false. More specifically, the report found amongst other things that there was no evidence that: examination papers had been handled in an irregular fashion; that there was no favouritism at work in the awarding of degrees or appointment of staff; and, in particular, that there was anything untoward in the appointment of Ms Easthorpe. The report stated:
+
+"(T)he committee has established that at the time of her employment Ms Anthony had completed all the requirements for LLB. The committee noted the excellent academic record of Ms Anthony. Mr Anthony had not yet graduated but had fulfilled all the requirements of the qualification, the graduation, being a symbolic occasion, is not relevant in this instance . . .
+
+Can a student with an LLB but not a Master's qualification be appointed to a lecturing position? The answer to that question is no, if it is advertised as a permanent or long-term contract. In this instance, however, someone was helping out on a short-term, part-time basis in an emergency. In such circumstances the Dean had little option but to appoint someone who he knew was capable of undertaking the work. Regarding the issues of there being no selection process, this is not an irregularity, as the appointment was for a period less than five months. Regarding the issue of equity: while it is desirable that equity candidates are given preference, in such an emergency the Dean was at liberty to  
+[2016] JOL 36584 (LC) at 25
+appoint whoever he feels can handle the immediate demands placed on the teaching program.
+
+Besides, Ms Anthony is coloured, she is included as a member of the designated group. Allegation found to be false."
+
+[57]    The McCracken report however also expressed its concern that various documents suggested students had been drawn into the matter, which was not desirable and had the potential of creating serious trouble for the faculty and the University and undermining the credibility of faculty management. Accordingly, the committee recommended that this allegation relating to Nortje was serious enough for it to recommend to Employee Relations that appropriate action be taken. The applicant was critical of the report because she claimed that, apart from herself, the only persons who had been interviewed by the committee were people against whom allegations had been made in the disclosures and that the committee had failed to interview other staff who gave submissions in the 2005 collective protected disclosure to the Gautschi investigation. Nortje claimed to be confused about the issues canvassed by the committee because they went right back to the protected disclosures made in 2005, which were repeated to Advocate Gautschi in 2006 and she had never discussed those issues with Prof McCracken.
+
+[58]    Nortje also raised further developments in the matter with the Head of Student Affairs, Mr T Wills and the Assistant Registrar, Mr S Siboto ("Siboto"), towards the end of May 2008. Siboto had asked for affidavits before he could pursue anything further. In an e-mail from the Assistant Registrar dated 22 May 2008, he clarified that as far as he was concerned Nortje would be protected in relation to certain documentation she had previously submitted by Nortje to him and that he would not furnish information to the McCracken investigation which had been submitted to him in confidence. Nortje claimed that Siboto had been asked by the Vice Chancellor, Prof Makgoba, to start gathering information independently whilst the McCracken investigation was still underway.
+
+ 
+[2016] JOL 36584 (LC) at 26
+
+[59]    On 12 August 2008, Nortje received an e-mail to which was attached the McCracken report dated 22 August. Two days later Pennyfather and Prof Kidd came into her office, told her to put everything down and to leave everything except her bag. She was then given the letter of suspension and Kidd marched her off to her car and watched her leave. He further phoned the security staff and told them she should not be allowed back onto the campus. Kidd maintains that he and Pennyfather simply accompanied her to her car. Pennyfather claimed that the applicant had asked them whether they intended to "frogmarch" her off the campus and they advised her she could raise whatever allegations she wanted to make in the disciplinary enquiry.
+
+Representations to the Registrar, Dr E Mneney:
+
+[60]    Nortje claimed that the unions decided to hand a two-page extract taken from their written submissions to the Gautschi enquiry to the Registrar, Dr E Mneney ("Mneney"), because nothing had been done about the issues and because it concerned the integrity of degrees. Noel confirmed this in that, they believed that the Registrar was the appropriate person on the next level to refer the matter to at that stage because nothing had been achieved. They had specifically requested that the submissions be treated as confidential and understood that it amounted to a protected disclosure. It was incorrect to characterise the document as having been authored by Nortje as it had been prepared in conjunction with both the unions. The topics canvassed in the document were headed:
+
+Systems that impact on the integrity of the University's degrees and the fair treatment of all students: Faculty of Law (Pmb campus);
+Self-Study Involving Staff Members: cases where cheating has and could have taken place, thereby bringing the University and its degrees into disrepute.
+
+Under the second heading an allegation of cheating by a particular staff member, who was a student, were made. A further allegation was made about another staff member having access to exam papers. The document  
+[2016] JOL 36584 (LC) at 27
+concludes with a recommendation that, inter alia, these cases had to be investigated and administrative staff should be stopped from registering for degrees in the same faculty they worked in.
+
+[61]    Despite saying earlier in her evidence that it was a two-page extract which had been handed to the Registrar when she was shown the letter from the Registrar to Cowling dated 9 May 2007, which refers to a document given to the Registrar by Nortje consisting of three pages, she then said that the attached document was only part of the documentary material submitted to the Registrar. Nortje claimed to be shocked that the Registrar had given the document to Cowling, when she ought to have referred them to the Senate, the executive of the University and the University Council. Nortje agreed that the complaints made in the document were raised in the expectation they would form the basis of an investigation. She also agreed that the people mentioned in the document as being aware of the matter, including herself, would be witnesses to the allegations made. However, she could not explain why during her disciplinary enquiry two of the persons who testified claimed to have no knowledge of the cheating allegations despite being identified in the document as persons having such knowledge. The best explanation the applicant could come up with was that both persons were single mothers who were dependent on their jobs, implying that they were scared to testify truthfully, but she admitted she had no evidence to support this. Nortje was reluctant to concede that she was the real source of the information in the document.
+
+[62]    Nortje said that the purpose of providing the documents to the Registrar, which was done in good faith as a protected disclosure, was a concern about issues of fairness to students and the integrity of the University's degrees. In her view, once the Gautschi enquiry had failed to address issues the unions had a responsibility to take them forward and referred them to the Registrar. She agreed they had also been the subject-matter of the McCracken report, which had found them all to be unfounded allegations. Nortje agreed that if allegations turned out to be unfounded then that could result in disciplinary action against the person making them. When pressed as to who was the source of the information relating to the allegations concerning Easthorpe, the applicant identified in general  
+[2016] JOL 36584 (LC) at 28
+terms the staff members who had attended a meeting on 17 August 2005 with Prof Ntuli including persons like herself who were attending in their capacity as union representatives, though the allegations relating to Easthorpe were not actually discussed at that meeting.
+
+Representations made to Ms Z Ngema:
+
+[63]    Nortje claimed that in February 2008 Ms Z Ngema ("Ngema"), a member of the LSC, came to her office and was sitting in the corner during a conversation between Nortje and Ms Mbatha about temporary staff appointments. It was a general discussion and no names were mentioned. She denied ever stating in the presence of Ngema what was set out in the second charge.
+
+[64]    Ngema presented a very different version at Nortje's disciplinary enquiry, which she had also recorded in a written statement at the time. The gist of her version was that she had gone to the Law School office to obtain a list of first-year students to send out invitations for a cocktail party. Nortje had printed out the list of students for her and then had told her in confidential tones that a secretary had been appointed to lecture international law and that students were in an uproar about it and that Nortje further told her that Easthorpe did not even have an LLB degree and was appointed only because she was Cowling's secretary and that it was corruption. Nortje advised her to take the matter to the SRC and tell them that professors Cowling and Kidd were implicated in the appointment and that a Masters degree was needed before anyone could lecture on any subject. Nortje had provided her with the contact details of SRC Senate members. Ngema queried why Nortje was raising this because there was another lecturer who was still busy with her Masters degree, and Nortje responded that Easthorpe did not even have her LLB. Ngema said she was under the impression that once a student's academic record stated that the degree was completed that student had their LLB.
+
+[65]    Nene confirmed that Ngema had related her encounter with Nortje to himself and Dlamini immediately after she had been with Nortje. When Ngema reported this to them they decided to proceed cautiously because the matter had not been raised by students.
+
+ 
+[2016] JOL 36584 (LC) at 29
+
+[66]    Pennyfather had been appointed by Kidd to investigate what the students had conveyed to Kidd and he confirmed that Ngema conveyed her version to him and that they had been advised to take the matter up with the SRC. He said that Kidd told him that serious allegations had been made by a member of staff regarding the appointment of Easthorpe to the part-time lecturing position and requested his assistance in investigating the allegations made by the students. Pennyfather conceded that he was unaware of the stipulation in the University's policy and procedure on the elimination of unfair discrimination and harassment in terms of which when a member of staff complains about a student they were expected to refer the matter to the line manager or the Dean of Students/Student Development. He also agreed that he had not spoken to Nortje but had simply investigated what Kidd had asked him to, and that it had not occurred to him to speak to her.
+
+[67]    Initially, when he spoke to Ngema and the other students they were reluctant to identify Nortje by name but her name came up quite soon in the discussion. He explained to them that they would be required to make a written statement because their complaint could not be pursued without it. At that juncture in the discussion, Mr Dlamini and Mr Nene had related the incident that took place in the LSC offices, described below. A second meeting was held at which it was agreed he would draft a statement based on what they had told him which they could collect on a Friday and return to him the following Monday. He rejected the suggestion that he had concocted the version as it appears in the very detailed joint statement which they signed. Even though he formulated the statement the content was almost identical to handwritten notes that he had taken during the meeting with them on 6 March, and as amended jointly with them on Monday, 10 March 2008. Nene confirmed that the statement was jointly drafted. Pennyfather claimed that by Monday they had made enquiries with the part-time students and found that none of the claims made by Nortje were true and the students were not unhappy. They also believed they had been manipulated because Nortje's complaint against Ms Easthorpe had been made before the latter even started lecturing.
+
+ 
+[2016] JOL 36584 (LC) at 30
+
+[68]    Pennyfather volunteered that Dlamini had been reluctant to sign the document because he did not want anything to do with the matter and Nene was a bit hesitant because he wanted to put it to the SRC before signing it, but Nene was happy to sign it then and there. He thought that perhaps they feared victimisation by the applicant if they signed it. He claimed that Nene had raised the possibility but he had indicated to him that in terms of her functions in the Law School, Nortje could not influence his academic achievements. In any event, after discussing it amongst themselves, all of them had signed the document two days later. Nene did not recall Dlamini being reluctant to sign the document and denied that there was a fear of intimidation occurring if they signed it. He had no explanation why Dlamini had not testified at Nortje's enquiry. Why he had not attended the disciplinary enquiry. He also claimed that they had also worked on the document on the computer at the LSC offices and Pennyfather had nothing to do with the drafting of it.
+
+[69]    Although Nene seemed at pains to distance Pennyfather from the compilation of the statement, Ngema's recollection was more along the lines of Pennyfather's evidence as to how the joint statement came to be drafted. She also confirmed that Nene and Dlamini had been hesitant about signing the final document, because they feared Nortje, but she did not know why. She did not know that the statement would be used in Nortje's enquiry and assumed it would be placed on Easthorpe's file, but in retrospect had no reservations about the statement because she felt that Nortje had lied to them about the students complaining and had manipulated the issue.
+
+Representations to Nene and Dlamini:
+
+[70]    Nortje denied ever meeting with Mr M Nene ("Nene") on 29 February 2008. She claimed that she only spoke to him sometime in March when he told her that Mr Pennyfather ("Pennyfather"), the Proctor and assistant dean, had been instructed to get statements from students against her. She claimed that Nene had approached her when she was putting a notice on the notice board and told her that they were in a predicament because students were complaining about temporary appointments in the faculty,  
+[2016] JOL 36584 (LC) at 31
+which she already knew about because Ms Govender and Ms Mbatha were receiving complaints and students had even approached her with complaints. She had told them to go to Student Academic Affairs or the SRC. Student Academic Affairs in turn was sending students to go directly to the Registrar, Meyerowitz. Nortje believed that some students were too afraid to go to the LSC because the connection between the LSC and the faculty was too close.
+
+[71]    Nene further told her that some of the students were called in by Pennyfather and asked if any of them had discussed anything with her about the temporary appointments. When he told her this she questioned why they should be asking about her when he knew about the student complaints and he knew that she had not discussed anything with him about the issue. He then told her that the students did not want to sign any document implicating her and they just wanted to finish their degrees and leave the University. She advised him to take this intimidation up with the SRC.
+
+[72]    Nortje also claimed that the SRC president had phoned her and asked her about any problems in the Faculty of Law because students had been complaining and she had advised him to go to the Registrar because she knew that complaints have been channelled to the Registrar. The first time she saw the documents signed by the LSC representatives was during the disciplinary enquiry in 2009.
+
+[73]    Noel claimed no knowledge of this incident.
+
+[74]    The thrust of Nene's evidence was that he and Dlamini had been approached by Nortje when they were sitting in the LSC offices on 29 February 2008 and she had asked them if they were aware that a secretary [was] being made a lecturer. When they had responded that they knew about the appointment and that there appeared to be some justification for it, she had stated that it was unacceptable for someone to be appointed without a Master's degree and attempted to access University advertisement notices to demonstrate this to them. She had further told them that the International Law students were in an uproar and looking for the LSC to make a complaint. He agreed that the exchange did  
+[2016] JOL 36584 (LC) at 32
+not amount to a meeting with Nortje as such. He and Dlamini decided that the best thing would be to approach Professor Kidd to clarify whether the allegation was correct. They had approached him with an open mind on the issue after meeting some students. Kidd had then explained to them that an urgent situation had arisen owing to the illness of the lecturer teaching the course which became known only three days before the semester began. During their conversation Nortje's name was mentioned by Kidd. Having heard his explanation they were satisfied.
+
+[75]    Nene agreed that it was not unreasonable for Nortje to believe that an LLM was a requirement, based on the advertisement for permanent posts. On the other hand, he pointed out that lecturers who had completed an LLB but were still busy with their Master's degree were appointed as lecturers and he was surprised that Nortje would not have been aware of this having been at the faculty for some time.
+
+[76]    However, when they investigated the matter by speaking to students participating in the course they had discovered that nobody was agitated or upset in any way or had any issue with Easthorpe. He then wrote a letter in his capacity as LSC chairperson to Nortje, noting the result of their investigations of her complaint and concluding:
+
+"None [of the part-time International Law students] had a problem with the competence of the lecturer for International Law, hence the LSC refuses to pursue the matter any further unless
+
+actual tangible evidence is presented that the concerned lecturer has no qualification to occupy such a position, or is competent to lecture and
+the allegation is brought to the LSC in writing by students, not a member of staff.
+
+We again stress that we would be happy to revisit the matter should 1 and 2 be satisfied together. At this stage assurance was given to the LSC that the concerned lecturer is being regularly monitored, and that should there be any problem it should be taken up with the appropriate authorities.
+
+ 
+[2016] JOL 36584 (LC) at 33
+
+In addition we would like to thank the complainant for raising the issue with the LSC."
+
+[77]    Notwithstanding the expression of gratitude at the end of the letter to Nortje, which was mentioned as a matter of courtesy, Nene said that they felt that Nortje had attempted to manipulate them to agitate over an issue which did not exist. They also accepted that the appointment was not improper because it was a contract appointment to deal with an emergency. Nortje accepted that her version was not supported by this account.
+
+Legal principles
+
+[78]    The objects of the Protected Disclosures Act 26 of 2000 ("the PDA") are set out in section 2(1) of the Act:
+
+ "2 (1) The objects of this Act are–
+
+to protect an employee, whether in the private or the public sector, from being subjected to an occupational detriment on account of having made a protected disclosure;
+to provide for certain remedies in connection with any occupational detriment suffered on account of having made a protected disclosure; and
+to provide for procedures in terms of which an employee can, in a responsible manner, disclose information regarding improprieties by his or her employers."
+
+[79]    In order to qualify for the protection and remedies available to an employee under the PDA, an employee must satisfy this Court that they have met the requirements of the Act. In this instance the alleged prejudice suffered on account of making a protected disclosure is dismissal, which is automatically unfair in terms of section 187(1)(h) of the LRA. The applicant must also establish that the communications made were protected disclosures in the sense that the communication qualifies as a disclosure in terms of the definition of a disclosure in section 1 of the PDA, and that it is also protected within the meaning of section 6 or alternatively section 9 of the PDA, which refer  
+[2016] JOL 36584 (LC) at 34
+respectively to disclosures made to an employer and disclosures made to a person or body other than the employer in one of the circumstances identified in section 9. Apart from the procedural requirements which an employee must satisfy under those provisions, it is also a requirement of both section 6 and section 9 of the PDA that the disclosure must be made in good faith.
+
+[80]    Further, in terms of section 3 read with section 4(2)(a) of the PDA and section 187(1)(h) an employee must establish that her dismissal was "on account, or partly on account, of having made a protected disclosure". In relation to the last leg, provided the employee sets out sufficient evidence to raise a credible possibility that her dismissal was at least partly on account of making a protected disclosure, then the employer must prove that this was not the reason, in keeping with test for the onus as articulated in Kroukam v SA Airlink (Pty) Ltd:1
+
+"[28]  In my view, section 187 imposes an evidential burden upon the employee to produce evidence which is sufficient to raise a credible possibility that an automatically unfair dismissal has taken place. It then behoves the employer to prove to the contrary, that is to produce evidence to show that the reason for the dismissal did not fall within the circumstance envisaged in section 187 for constituting an automatically unfair dismissal."
+
+[81]    The test for causation applicable to automatically unfair dismissals under section 187 of the LRA, has been formulated by the LAC in the following terms:
+
+"[27]  In the . . . case of Kroukam v SA Airlink (Pty) Ltd decided in the Labour Appeal Court (Case No. JA3/2003), Zondo JP found that the principal or dominant reason for the appellant's dismissal 'was that the respondent was not happy with the role that he was playing in seeking to represent the interests of the union'. He found that this rendered the dismissal automatically unfair. In the same case, Davis AJA came to this conclusion as well. I, who was one of the judges in that appeal, also reached this conclusion. In  
+[2016] JOL 36584 (LC) at 35
+other words, the court was unanimous that if the principal or dominant or primary reason for a dismissal was an employee's dismissal was the activities undertaken by the dismissed employee on behalf of a union, this rendered the dismissal automatically unfair. This is the case even if there are other reasons which may have played a lesser role"2 (emphasis added).
+
+[82]    However, because section 4(2)(a) deems a dismissal in breach of section 3 of the PDA to be automatically unfair even if the reason for the dismissal was only partly on account of the fact that the employee made a protected disclosure, the effect of these provisions would appear to dilute the requirement, as expressed in the BIFAWU matter, that the predominant reason for a dismissal must be the making of a protected disclosure for the purpose of determining if a dismissal was automatically unfair under section 187(1)(h) of the LRA.
+
+[83]    In order to constitute a protected disclosure, the disclosure must concern issues within the ambit of the definition of a disclosure in the PDA, and must be made in terms of one of a number of alternative channels of disclosure. Section 1 of the PDA defines a disclosure in the following terms:
+
+'disclosure' means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+That a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+that a miscarriage of justice has occurred, is occurring or is likely to occur; 
+[2016] JOL 36584 (LC) at 36
+ (d) that the health or safety of an individual has been, is being or is likely to be endangered;
+that the environment has been, is being or is likely to be damaged;
+unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act No, 4 of 2000);
+
+  or
+
+that any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed; . . ." (emphasis added).
+
+[84]    This substantive component of what constitutes a disclosure for the purposes of the PDA requires the employee to establish that they had a reason for believing that the information they disclose actually shows or supports an inference that one of the impugned acts set out in subsections (a) to (f) has taken place, or that such an act has been covered up or is likely to be covered up.
+
+Evaluation
+
+Did the applicant make disclosures of information as defined in the PDA?
+
+[85]    In essence, three types of communication [were] made by Nortje which, in theory, might have constituted disclosures under the PDA. These were:
+
+the document submitted to the Registrar (X2) in April or May 2007;
+the communications to Ngema (X3) and Nene (X4) in February 2008, and
+the e-mail to Mbongwe (X5) on 27 February 2008.
+
+The communication to the Registrar:
+
+[86]    The thrust of contentious content of the document communicated to the Registrar in April or May 2007, which the applicant believes contributed to her dismissal, concerned the second portion of the document headed   
+[2016] JOL 36584 (LC) at 37
+"Self-Study Involving Staff Members". In essence, the complaint about alleged cheating concerned Easthorpe and the complaint related to a staff member having access to exam papers related to Amod. These complaints were also the subject of the McCracken report which found them to be unfounded. The complaints were referred to the Registrar before the McCracken report was concluded. Previously they had been submitted to Advocate Gautschi and Professors Stanisland and Ntuli. The applicant's rationale for repeating the complaints to the Registrar was that despite those processes, the complaints had not been acted upon.
+
+[87]    The applicant herself declined to provide any information to the McCracken investigation, despite being invited to do so. She claimed that the source of her information was other staff members. These persons failed to come forward at her own disciplinary enquiry to testify about the cheating allegations. On a balance of the evidence presented, there does not appear to have been anything to support the allegations conveyed to the Registrar on that issue, which might have formed the basis for Nortje having reason to believe such impropriety had taken place. The LAC has accepted that a generous interpretation of "information disclosed which shows or tends to show" improprieties is appropriate given the objects of the PDA. It has also held that an employee does not have to have personal knowledge of information in order to have reason to believe that something irregular has or might happen.3
+
+[88]    The McCracken report found the complaints to be without foundation. That in itself would not be sufficient to deny Nortje a defence that she had made protected disclosures. However, the fact that the applicant was unable to produce any witnesses who could confirm their own knowledge of the improprieties or even that they had received such information and conveyed it to Nortje who acted on it in good faith that it might be true, casts serious doubt on whether the allegations did have an independent source. If they originated with the applicant then she ought at least to have  
+[2016] JOL 36584 (LC) at 38
+testified about what led her to believe such things might have been true to establish the reason for her belief, even if she could not prove it.
+
+[89]    In the circumstances, in the absence of any evidence of the foundation for her belief, however unreliable or inaccurate that factual substratum might have been, I am not inclined to accept that the applicant had any reason to believe the claims might be true.
+
+E-mail to Mbongwe:
+
+[90]    In the e-mail to Mbongwe, the applicant raised complaints that there had been irregularities and unfairness in the appointment of academic staff. Firstly, she contended that the posts should have been advertised. Secondly, only candidates with LLM degrees should have been considered and thirdly, the University's employment equity policy was not complied with. The supposition on which all these claims of Nortje rested was that the appointments should have complied with the same process that was followed in making permanent staff appointments even though the posts in question were fixed-term appointments of short duration. There was substantial evidence to the effect that the so-called blue form procedure was used for short-term academic appointments. Also, even though the form referred to compliance with equity policies, the equity policy was in fact only applicable to permanent posts and therefore appointments made under the blue form procedure could not be in breach of the policy.
+
+[91]    I am also satisfied that the argument that a candidate for short-term appointments could not be considered to have a degree until the degree had been conferred by convocation is a spurious one, and that a degree is obtained once a student has met all the requirements for completing the degree. In this regard, the reference in the University's statutes to a person not being entitled to any benefits accruing from attaining a degree until the degree has been conferred by convocation was not intended to refer to their eligibility for employment based on their academic qualifications. Quite apart from the fact that it seems an anomalous use of the term benefit to refer to eligibility to apply for employment, if that were the case, it would wreak havoc with enrolment of students for  
+[2016] JOL 36584 (LC) at 39
+postgraduate studies and would prevent employment of former students who had completed a degree until after the academic year was already underway.
+
+[92]    The first question which arises is whether Nortje's belief that even short-term academic appointments should satisfy all the requirements for making full-time appointments was a reasonable one when she made it. Nortje acknowledged under cross-examination that there was no procedure governing blue form appointments. It had also been suggested to Kidd under cross-examination that her belief was a reasonable one but he thought it was strange that if she did believe that she had never raised the issue in relation to numerous other temporary appointments of a similar nature made in the Department. As this evidence was only elicited under cross-examination of Kidd, it had never been put to Nortje during her cross-examination, so it might be argued that it should not carry much weight on this issue.
+
+[93]    What had been put to Nortje was that, a number of other appointments of staff who had not had the degrees conferred by convocation had nonetheless been appointed to positions requiring the degrees in question. Her only response to this was to make a rather weak suggestion that those cases were distinguishable because they involved persons applying for positions requiring LLM degrees and they already had LLB degrees, unlike the appointment she reported on where the candidate had no degree conferred on her at the time. It is the absence of the qualification of academic appointments being raised as an issue previously, which makes the genuineness of her belief in the strained interpretation of the University's rules which she and Lumina claimed to adhere to, harder to accept as anything more than a contrivance to cast doubt on the regularity of Easthorpe's appointment in particular, rather than a bona fide but mistaken opinion.4 In this regard, it is true that applicant's complaint about  
+[2016] JOL 36584 (LC) at 40
+lack of qualifications was raised in relation to two other appointments as well, but in the case of those appointees the applicant did not take the extra step of attempting to portray student discontent as well.
+
+[94]    If the applicant had shown a consistent concern with blue form appointments previously and had also raised her worries about unqualified lecturers when other persons were appointed to jobs before their degrees had been formally conferred, there might be more reason to believe that she had genuinely, if mistakenly, believed Easthorpe's appointment was irregular and that her interest in raising it as an issue was purely a matter of the University's academic reputation and compliance with standards which was at stake.
+
+[95]    Even though Nortje's complaint to Mbongwe was a distinct communication, the assessment of whether it was reasonable and bona fide cannot be disassociated from her representations to the members of the Law Students Council. Although the latter communications allegedly originated from student complaints, the central theme of those complaints was the fact that Easthorpe lacked the necessary qualifications to lecture.
+
+Communications to Ngema and Nene:
+
+[96]    If the representations of Nortje at the time were to be believed, a crisis was brewing in the part-time International Law class because of dissatisfaction with Easthorpe. On the strength of her representations they went to discuss the matter with the deputy dean. It was only on further investigation that they found that the claim those students were "in an uproar" about Easthorpe's appointment was unfounded.
+
+[97]    Nortje herself produced no independent evidence to corroborate her version that she was merely the well-meaning messenger conveying information received by her. It is also noteworthy that Nortje raised the issue of students being in an uproar before Easthorpe had even commenced lecturing, which made it even less probable that the issue could have originated with students in the International Law class. Although Nortje tried to suggest that the student leaders had been pressurised to make statements implicating her, apart from some aspects of Nene's evidence where he sought to downplay the amount of interaction between  
+[2016] JOL 36584 (LC) at 41
+themselves and Pennyfather in finalising their statement, I am satisfied on the probabilities that the statement which was finally drawn up reflected their own contemporary recollection of the events and that their sense they had been used by Nortje was genuine.
+
+[98]    On balance, the evidence tended to show that the applicant had played the role of a provocateur who was attempting to stimulate discontent where there was none. It is reasonable to assume that she believed that if she could portray that students were also angry, it would raise the stakes around Easthorpe's appointment and create a semblance of independent support for the complaint which she had raised with Mbongwe.
+
+[99]    In Radebe the LAC stated:
+
+"There is further, in my view, an overlap when determining whether the employee making the disclosure was acting in good faith and further whether he had the requisite reason to believe when making a disclosure that improprieties had been committed or were continuing. Honesty plays a pivotal role in both situations. Whilst good faith and honesty may conceivably amount to the same thing, I am of the view that a case by case approach is the proper one for a court considering these issues. Factors such as reckless abandon, malice or the presence of an ulterior motive aimed at self advancement or revenge, for instance, would lead to a conclusion of lack of good faith. A clear indicator of lack of good faith is also where disingenuity is demonstrated by reliance on fabricated information or information known by the employee to be false. The absence of these elements on the other hand is a strong indicator that the employee honestly made the disclosure wishing for action to be taken to investigate it"5 (emphasis added).
+
+[100]    In this instance, the only identifiable source of the information about part-time students complaining was Nortje herself and the information she provided was false. Nortje was so obsessed with the Easthorpe appointment that she was not satisfied with lodging a complaint about her own alleged misgivings but sought to stimulate similar thoughts in others even if it meant providing them with false information.
+
+[101]    Clearly, apart from not being raised with her line manager, the information conveyed to the LSC representatives was false, and Nortje knew that. Such statements could never be the basis for claiming a protected disclosure.
+
+ 
+[2016] JOL 36584 (LC) at 42
+
+Reason for the applicant's dismissal
+
+[102]    Considering all the allegations of impropriety related by the applicant, it is difficult to find that any of them satisfy the requirements of constituting protected disclosures. Consequently, her dismissal cannot in principle have been partly on account of making any of them.
+
+[103]    In any event, if I am wrong in concluding that some of them were not protected disclosures, it is still necessary to consider if the mere fact they were made means that her dismissal was partly on account of making them. Although Nortje was found guilty on all four charges, it was her conduct in relation to lodging the complaint with Mbongwe and more particularly the role she played in trying in bad faith to galvanise the LSC leadership based on false information that clearly stood out as the most objectionable forms of misconduct. Her conduct in relation to the LSC students alone more than warranted dismissal. It was by its very nature designed to try and stimulate discontent among students and was grossly disloyal to the University. It is difficult to understand how the University could have been expected to retain her services in any capacity after such conduct, even if all her other claims had indeed been protected disclosures.
+
+[104]    Consequently, even if any of her other statements made could conceivably be construed as protected disclosures, it cannot be said her dismissal would have been partly on account of them, because her misconduct under charges 2 and 3 eclipsed the significance of her other alleged misconduct on the remaining charges completely, to the extent that it is difficult to see how they would have played any material role in deciding to dismiss her.
+
+[105]    On the basis of my own findings, namely, that the applicant failed to establish that she had made protected disclosures, I am also satisfied that solely on the second and third charges which she was guilty of, the applicant's dismissal was appropriate. Quite apart from the inherent disloyalty of her conduct in relation to those charges, there was no prospect of her adjusting her behaviour in my view, especially given her fractious history with the University.
+
+ 
+[2016] JOL 36584 (LC) at 43
+
+[106]    The applicant's claim of a procedurally unfair dismissal related more to her perception of how she was escorted from the campus when she was suspended. While I cannot say on balance that she was "frogmarched" off the premises, those events do not have a direct bearing on the fairness of the disciplinary enquiry and there was no other factual basis advanced to demonstrate that she had suffered any impediments in the presentation and preparation of her defence. Consequently, I do not think the claim of procedural unfairness has any merit.
+
+[107]    In conclusion, I believe the applicant's dismissal for misconduct was substantively and procedurally fair.
+
+Costs
+
+[108]    On the question of costs, this would be a case where ordinarily I would be inclined to award costs because of the way the applicant went about trying to ferment discontent in circumstances where she could not claim her intentions were bona fide. On the other hand, I accept that the applicant might genuinely have believed in other respects that she had a moral or even legal duty to speak out on any perceived impropriety even if she was / became a zealot in her quest to find fault and was injudicious and reckless in her criticisms of the University. In the circumstances, I am disinclined to order costs against her.
+
+Order
+
+[109]    The applicant's automatically unfair dismissal claim is dismissed and I find that her dismissal was substantively and procedurally fair.
+
+[110]    No order is made as to costs.
+
+
+
+Footnotes
+1	  [2005] 12 BLLR 1172 (LAC) at 1224 [also reported at [2006] JOL 15771 (LAC) – Ed].
+2 	 BIFAWU and another v Mutual and Federal Insurance Company Ltd [2006] 2 BLLR 118 (LAC) at 126 – 127 [also reported at [2006] JOL 16363 (LAC) – Ed].
+3	 Radebe and another v Premier, Free State Province and others (2012) 33 ILJ 2353 (LAC) at 2371 at para [36] [also reported at [2012] JOL 29409 (LAC) – Ed].
+4	 A disclosure of "information" has been held by the SCA to include a bona fide opinion in City of Tshwane Metropolitan Municipality v Engineering Council of SA and another [2010] 3 BLLR 229 (SCA) at 245 – 246 para [41] [also reported at [2009] JOL 24640 (SCA) – Ed].
+5 	  At 2371 para [35].
+
+Appearance:
+P Hunt, Randles Incorporated C/O Webber Attorney (At); M Maeso, Shepstone & Wylie (R)
+
+
+End of Document

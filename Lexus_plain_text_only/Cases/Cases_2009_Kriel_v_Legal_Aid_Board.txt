@@ -1,0 +1,114 @@
+
+
+
+
+Kriel v Legal Aid Board [2009] 9 BLLR 854 (SCA)
+Labour Law Reports
+
+Division: Supreme Court of Appeal
+Case No: 138/08
+Date: 01/06/2009
+Before: L Mpati President, A Cachalia, NZ Mhlantla Judges of Appeal, LO Bosielo and LE Leach Acting Judges of Appeal
+Keywords
+
+
+Appeal to the Supreme Court of Appeal
+Administrative law — Administrative action — Employee dismissed by statutory body claiming that right to fair administrative action infringed — Dismissal of public sector employee not constituting administrative action subject to review.
+Dismissal — Public sector employee — Employee dismissed by statutory body claiming that right to fair administrative action infringed — Dismissal not constituting administrative action under Promotion of Administrative Justice Act 3 of 2000, and employee confined to remedies available under LRA.
+High Court — Jurisdiction — Employee dismissed by statutory body claiming that right to fair administrative action infringed — High Court having jurisdiction to entertain claims by dismissed employees under Promotion of Administrative Justice Act 3 of 2000, but lacking power to grant relief because dismissal not constituting administrative action.
+
+Editor’s Summary
+
+
+The appellant, an attorney employed by the Legal Aid Board, was dismissed after being found guilty on a number of charges of misconduct. He launched an application for review in the High Court, claiming that the board had violated his right to just administrative action, that the chairperson of his disciplinary inquiry lacked authority to act as such, and that he had suffered an occupational detriment as contemplated in the Protected Disclosures Act 26 of 2000 (“PDA”). The court a quo dismissed the application on the basis that it lacked jurisdiction because the appellant should have sought a remedy under the Labour Relations Act 66 of 1995 and because his dismissal did not constitute administrative action.
+
+The Court held that the findings by the court a quo were inconsistent; a court cannot simultaneously hold that it lacks jurisdiction and decide a matter on the merits. The High Court clearly had jurisdiction to entertain the claim. The only issue was therefore whether the appellant’s dismissal constituted administrative action. The appellant had not clearly set out his cause of action. While he relied on the Promotion of Administrative Justice Act 3 of 2000 (“PAJA”)and the PDA, he had not specified the constitutional rights he alleged had been violated or the facts to support his claim that his rights had been violated. Since the respondent was an organ of State, the appellant would have been entitled to relief under the PAJA only if his dismissal constituted administrative action. 
+
+ 
+[2009] 9 BLLR 854 (SCA) at 855
+
+That the dismissal of a public servant does not constitute administrative action had been finally decided in Chirwa v Transnet Ltd & others [2008] 2 BLLR 97 (CC).
+
+The Court rejected the appellant’s argument that Chirwa was distinguishable because the applicant in that case had relied only on the alleged unreasonableness of her dismissal and the provisions of the LRA, whereas the appellant had relied on law of contract as well as improper delegation of authority and other unlawful actions by the board. The Court noted that Ms Chirwa’s pleadings had also gone beyond the provisions of the LRA and had sought to impugn the lawfulness of Transnet’s actions. Indeed, Ms Chirwa’s case was strikingly similar to that of the appellant. The Court accordingly found it unnecessary to decide the remaining issues raised by the appellant, including whether his dismissal constituted a protected disclosure.
+
+The Court noted further that the appellant was not without remedy, as he could challenge the termination of his employment under the LRA, either as an alleged automatically unfair dismissal or by alleging that his dismissal was unfair. 
+
+The appeal was dismissed with costs.
+
+____________________________________________________________________________________
+
+Mhlantla JA and Leach AJA:
+
+This is an appeal against a judgment of the High Court, Pretoria (Seriti J) dismissing the appellant’s review application on the grounds that the first respondent’s decision to terminate the appellant’s employment following a disciplinary proceeding did not amount to administrative action and that the high court did not have jurisdiction to entertain the application. The appeal is with the leave of this court.
+Although the court below determined that it lacked the necessary jurisdiction to hear the matter, in our view that was not the real issue that fell to be decided. Relying on a number of alleged irregularities that we shall detail in due course, the appellant relied upon the Promotion of Administrative Justice Act 3 of 2000 (“PAJA”) to assert his right to fair administrative action by bringing review proceedings under Uniform Rule 53 for an order setting aside his dismissal. But the jurisdiction of the high court to hear reviews is unquestionable, and the true issue for decision in our view is not whether the high court had jurisdiction to determine the appellant’s application for a review but whether the dismissal of the appellant constituted “administrative action” as envisaged by PAJA. In order to determine that issue, we turn to the relevant facts.
+The appellant, an attorney, was employed by the first respondent on 1 August 1999. As at July 2002, he was employed as the head of the Pretoria Legal Justice Centre and as the principal attorney was responsible for the supervision of 13 candidate attorneys. He was dismissed on 9 September 2004 following a disciplinary enquiry. His problems commenced during July 2002 when Ms Flavia Isola (Ms Isola), who was appointed to act as Justice Centre Executive, moved into the Pretoria offices where he  
+[2009] 9 BLLR 854 (SCA) at 856
+  was based. According to the appellant, the officials of the first respondent, including Ms Isola, had demanded that he and his candidate attorneys sign new service contracts. They refused to do so and, instead of referring the dispute to senior personnel of the first respondent, approached Dyasons attorneys for legal advice and assistance. The appellant accused Ms Isola of placing undue pressure on the candidate attorneys to sign the contracts, which in effect, would amount to a cession of their contracts to her.
+Ms Isola called a staff meeting on 3 September 2002 scheduled for 7:30am. By 8:15am, she had not arrived and the appellant, who had waited for her with other staff members, decided to leave for another appointment. The meeting proceeded in his absence. At some stage he failed to sign the attendance register, a system which had been introduced by him. According to the appellant, these were isolated incidents. His failure to attend the meeting and to sign the attendance register formed the basis of the first two charges of misconduct that Ms Isola initiated against him.
+While these charges against the appellant were pending the appellant obtained information that Ms Isola had been a principal of ten candidate attorneys at the first respondent’s Benoni office and had abandoned them to take up employment at the first respondent’s Pretoria office. He conveyed this information to his attorneys who addressed a letter to the Law Society of the Northern Provinces to the effect that by abandoning the candidate attorneys she had contravened section 6 of the Attorneys Act 53 of 1979. The Law Society never responded to the letter. Ms Isola disputed these allegations and caused further charges to be instituted against the appellant in respect of this complaint against her. 
+During December 2002 the appellant was suspended pending the institution of a disciplinary enquiry. The enquiry commenced on 25 March 2003 and the second respondent, a labour consultant, was appointed as chairperson. His letter of authority to act as such was issued on 30 April 2003 by the CEO. At the end of the enquiry, the appellant was found guilty of misconduct. The second respondent recommended that the appellant be dismissed. A month later he retracted his recommendation and replaced it with a sanction of dismissal. The appellant noted an appeal against both the recommendation and sanction. The internal appeal, which was heard by the third respondent, was dismissed. The fourth respondent notified the appellant of his dismissal in writing on 9 September 2004.
+The appellant thereafter launched review proceedings in the high court where he, inter alia, sought an order reviewing, correcting and setting aside the decisions of the second and fourth respondents dismissing him from the employ of the first respondent. At the hearing of the application a point of law relating to the court’s jurisdiction to hear the matter was raised by the first respondent. The learned Judge was requested to decide that issue first. 
+The court below relied on this court’s judgment in Transnet Ltd & others v Chirwa1 which it incorrectly construed as having found that a dismissed  
+[2009] 9 BLLR 854 (SCA) at 857
+  employee of an organ of State could not seek a remedy in terms of PAJA but ought to seek relief in terms of the Labour Relations Act 66 of 1995 (“LRA”). Relying on Sidumo & another v Rustenburg Platinum Mines Ltd & others2 where it was held that the CCMA arbitration proceedings did not constitute administrative action, the judge held that the CCMA proceedings had the same attributes as a disciplinary enquiry. He concluded that the disciplinary hearing and dismissal of the appellant did not constitute administrative action and that the Labour Court had exclusive jurisdiction to deal with the matter. He accordingly dismissed the application.
+Those two findings are inconsistent. If the court below had no jurisdiction to consider the claim then that ought to have been the end of the matter and by its own finding on that issue it had no power to rule on the merits. This court very recently said that the jurisdictional finding in Chirwa, supra was not the ratio for its order.3 Clearly the high court had jurisdiction to consider the claim, and as we said earlier, the real issue is whether the dismissal constituted administrative action. 
+In this court the appellant sought an order setting aside the finding of the court below. In addition he sought an order setting aside the findings of the disciplinary and appeal hearings and an order for his reinstatement. 
+It was incumbent upon the appellant to clearly set out in his founding papers the cause of action upon which he relied. Unfortunately, he did not do so. He, inter alia, stated that his application was brought in terms of Uniform Rule 53 read with the provisions of PAJA; he relied upon the provisions of the Protected Disclosures Act 26 of 2000 and alleged that the report about Ms Isola’s conduct amounted to a protected disclosure in terms of the Act. He also alleged that his dismissal and the disciplinary process were unfair because the second respondent did not have the requisite authority to act as chairperson of the enquiry. He further relied on contractual rights, the common law, the Constitution and upon the provisions of eight other statutes. He however failed to set out the specific constitutional rights which had allegedly been violated, nor did he set out the facts supporting such a conclusion. However, essentially his cause of action is that:
+His dismissal was unlawful and thus void. He was thus entitled to relief in terms of PAJA;
+His dismissal was unfair and unlawful as, due to an improper delegation of authority, the chairperson of the disciplinary enquiry was not entitled to act as such; and
+His dismissal was unlawful and unfair as his report to the Law Society had been protected under the Protected Disclosures Act.
+It is common cause that the first respondent is an organ of State. It is trite that the appellant can only be entitled to relief in terms of PAJA if his  
+[2009] 9 BLLR 854 (SCA) at 858
+  dismissal amounted to administrative action. Counsel for the appellant contended that the dismissal of the appellant was unlawful and void. It was thus contended on behalf of the appellant that the first respondent derived its power to dismiss from the Legal Aid Act 22 of 1969; that the cause of action was in terms of the contract of employment and the statute and that the dismissal under the Legal Aid Act therefore constituted administrative action.
+This argument is without merit. The question whether an unfair dismissal in the public sector amounts to administrative action has been settled by the Constitutional Court in Chirwa v Transnet Ltd & others.4 The Constitutional Court held that public servants now enjoy the same protection afforded employees in the private sector under the LRA. The court further held that a public service employee could not have two causes of action, one under the LRA and the other under PAJA, and that the decision of an organ of State to dismiss an employee is not an administrative act but involves the exercise of a contractual power.
+Writing for the majority in Chirwa, supra Ngcobo J held:
+
+“The subject-matter of the power involved here is the termination of a contract of employment for poor work performance. The source of the power is the employment contract between the applicant and Transnet. The nature of the power involved here is therefore contractual. The fact that Transnet is a creature of statute does not detract from the fact that in terminating the applicant’s contract of employment, it was exercising its contractual power. It does not involve the implementation of legislation which constitutes administrative action. The conduct of Transnet in terminating the employment contract does not, in my view, constitute administration. It is more concerned with labour and employment relations. The mere fact that Transnet is an organ of State which exercises public power does not transform its conduct in terminating the applicant’s employment contract into administrative action. Section 33 is not concerned with every act of administration performed by an organ of State. It follows therefore that the conduct of Transnet did not constitute administrative action under s 33.
+
+Support for the view that the termination of the employment of a public sector employee does not constitute administrative action under section 33 can be found in the structure of our Constitution. The Constitution draws a clear distinction between administrative action on the one hand and employment and labour relations on the other. It recognises that employment and labour relations and administrative action are two different areas of law . . .
+
+As pointed out earlier, the line of cases which hold that the power to dismiss amounts to administrative action rely on Zenzile.5 This case and its progeny must be understood in the light of our history. Historically, recourse was had to administrative law in order to protect employees who did not enjoy the protection that private sector employees enjoyed. Since the advent of the new constitutional order, all that has changed. Section 23 of the Constitution guarantees to every employee, including public sector employees, the right to fair labour practices. The LRA, the Employment Equity Act, 1998, and the 
+
+ 
+[2009] 9 BLLR 854 (SCA) at 859
+
+Basic Conditions of Employment Act, 1997, have codified labour and employment rights. The purpose of the LRA and the Basic Conditions of Employment Act is to give effect to and regulate the fundamental right to fair labour practices conferred by section 23 of the Constitution. Both the LRA and the Basic Conditions of Employment Act that were enacted to give effect to section 23, now govern the public sector employees, except those who are specifically excluded from its provisions. Labour and employment rights such as the right to a fair hearing, substantive fairness and remedies for non-compliance are now codified in the LRA. It is no longer necessary therefore to treat public sector employees differently and subject them to the protection of administrative law.”6
+
+The decision in Chirwa, supra led to this court, in circumstances not dissimilar to the present, holding in Transman (Pty) Ltd v Dick & another7 that it could not review a termination of an employee’s employment as it did not constitute administrative action. A similar conclusion was reached in Makambi v MEC for Education, Eastern Cape.8
+Counsel for the appellant however argued that Chirwa was distinguishable from the present matter as the employee had there based her claim solely upon the alleged unreasonableness of her dismissal and the provisions of the LRA whereas the appellant had not relied solely on the unreasonableness of his dismissal but also on the law of contract as well as the improper delegation of authority to the second respondent and the irregular and unlawful actions and decisions of the respondents. 
+This argument cannot be accepted. In Chirwa the appellant in fact relied on far more than the provisions of the LRA and an allegation that her dismissal had been unreasonable or unfair. As was pertinently highlighted by Farlam JA in Makambi, supra, Mrs Chirwa had also contended that her dismissal constituted administrative action under PAJA and section 33 of the Constitution of the Republic of SA 108 of 1996; she had further alleged that the person who had taken the decision which she sought to impugn had been biased; she had complained that she had been prevented from obtaining assistance or representation; she had alleged that there had been non-compliance with a material procedure prescribed by an empowering provision; and, finally, she had averred that certain provisions of the LRA had been violated.
+Mrs Chirwa’s claim was in many respects strikingly similar to that in the present matter. There is therefore no reason for the principle expounded in Chirwa viz. that a dismissal from employment is not an administrative act which can be reviewed, followed in both Makambi and Transman, supra not to apply in the present case.
+This conclusion in our view makes it unnecessary to decide the remaining issues such as whether the appellant’s attempt to report Ms Isola to the Law Society was a protected disclosure under the Protected Disclosures Act 26 of 2000. The appellant’s allegation that such report had been  
+[2009] 9 BLLR 854 (SCA) at 860
+  a protected disclosure was merely grist to the mill in respect of his contention that he had been unfairly treated and that the decision to dismiss him had been taken in the light of irrelevant considerations. Indeed his argument is now that as the Law Society had never received his complaint there had been no disclosure, and that he should therefore not have been found guilty of disloyalty as he had not reported Ms Isola to the Law Society. But even if the report was protected, and even if it was impermissibly taken into account against the appellant, that in itself did not give rise to a right of review. The fact remains that as the dismissal did not constitute administrative action and its legality or otherwise was not something to be determined by way of review proceedings under PAJA.
+By a parity of reasoning, it is also unnecessary to decide whether the second respondent lacked the authority to adjudicate at the disciplinary inquiry and whether there had been any impermissible delegations of authority. The resolution of these issues is irrelevant to whether the decision to dismiss amounted to administrative action which could be reviewed.
+Of course this does not mean that the appellant was left without a remedy as it was open to him to challenge the termination of his employment under the LRA. It may well have been permissible for him to have brought a review of his dismissal in the Labour Court under section 158(1)(g) of that Act which provides for a review of any decision taken or act performed “by the State as employer, on such grounds as are permissible in law”. It was certainly open to him to contend that the termination of his employment had constituted an unfair dismissal as envisaged by section 185 and section 186 of the LRA. In particular, if his employment had indeed been terminated as he was a white Afrikaner as he alleged had been the case, it would probably have amounted to an automatically unfair dismissal under section 187(1)(f). Similarly, if his report to the Law Society was protected under the Protected Disclosures Act, to dismiss him as a result would probably also be automatically unfair under section 187(1)(h). By the same token, many of the other allegations relied on by the appellant, if accepted, even if not necessarily leading to a finding that his dismissal had been automatically unfair under section 187, could well justify the conclusion that it was otherwise unfair under section 188.
+It is both unnecessary and undesirable for this court to comment on what the outcome of such proceedings would have been had they been instituted, but the appellant clearly had remedies available to him under the LRA which he could have brought in the Labour Court. For some reason the appellant decided not to follow that route but to seek review proceedings in the high court which, for the reasons given, could not succeed.
+Consequently, the court a quo correctly dismissed the application, not on the basis that it lacked jurisdiction but as the appellant’s dismissal from employment was not an administrative act and he had therefore failed to establish his cause of action. Be that as it may, the order dismissing the application cannot be disturbed. 
+In the result the appeal is dismissed with costs.
+
+(Mpati P, Cachalia JA and Bosielo AJA concurred in the judgment of Mhlantla JA and Leach AJA). 
+
+ 
+[2009] 9 BLLR 854 (SCA) at 861
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  2007 (2) SA 198 (SCA) [also reported at [2007] 1 BLLR 10 (SCA) – Ed].
+2	  2008 (2) SA 24 (CC); [2007] ZACC 22 [also reported at 2008 (2) BCLR 158 – Ed].
+3	 Makhanya v University of Zululand [2009] ZASCA 69. [Reported at [2009] 8 BLLR 721 (SCA) – Ed].
+4	  2008 (4) SA 367 (CC); [2007] ZACC 23 [also reported at [2008] 2 BLLR 97 (CC) – Ed].
+5	 Administrator, Transvaal & others v Zenzile & others 1991 (1) SA 21 (A) [also reported at [1991] 1 All SA 240 (A) – Ed].
+6	  At paras 142, 143 and 148.
+7	  [2009] ZASCA 38 at [16]–[19] and [23]–[27] [reported at [2009] 7 BLLR 629 (SCA) – Ed].
+8	  2008 (5) SA 449 (SCA); [2008] ZASCA 61 [also reported at [2008] 8 BLLR 711 (SCA) – Ed].
+
+For the applicant:
+Ms A van der Walt and Ms S van der Walt instructed by McLachlan & Co Inc, Garsfontein, Pretoria and Naudes Attorneys, Bloemfontein
+For the first to fourth respondents:
+RG Beaton instructed by Stegmanns Inc, Hatfield, Pretoria and Claude Reid Inc, Bloemfontein
+
+
+End of Document

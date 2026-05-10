@@ -1,0 +1,346 @@
+
+
+
+
+Mohlala-Mulaudzi v Property Practitioners Regulatory Authority and another [2023] JOL 57988 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: J68 / 23
+Hearing Date(s): 08 / 02 / 2023
+Judgment Date(s): 13 / 02 / 2023
+Bench: GN Moshoana J
+
+
+Keywords
+
+
+Labour and Employment — Practice and procedure — Urgency — Requirements — Protected disclosures
+
+Mini Summary
+
+
+In an urgent application, the applicant sought a declaration that her summary dismissal effected by the first respondent (“the PPRA”) was in breach of her contract of employment, unlawful, invalid and of no force – and in breach of section 188A of the Labour Relations Act 66 of 1995. Her fixed-term contract of employment had been prematurely terminated by the PPRA after finding the applicant guilty of misconduct.
+
+Held that the application raised two very important legal questions, namely whether the Labour Court is authorised by the Labour Relations Act to order parties to continue with a subsection 188A(11) process should one of the parties decide to abandon such a process; and what the proper jurisdictional facts that must exist are before an employee may invoke the provisions of subsection 188A(11). The court referred to a new strategy designed to stall internal disciplinary hearings by invoking subsection 188A(11).
+
+Although the applicant’s claim was really an unfair dismissal one, she elected to frame it as one based in contract. A dispute of fact arose regarding the material breach of contract alleged by the applicant. Although the dispute was foreseeable, the applicant chose to proceed by way of motion proceedings. Motion proceedings are designed to determine questions of law with very little to no dispute of facts. The applicant had to demonstrate that failure to proceed with a section 188A process constituted a breach of an employment contract. That could not be found.
+
+The issue of urgency was at the centre of the matter. Rule 8 of the Rules for the Conduct of Proceedings in the Labour Court regulates urgent relief. The rule is peremptory, and non-compliance with the provisions thereof will result in relief being denied. It requires that a party makes his or her case in the founding affidavit. Furthermore, where there is substantial redress in due course, an urgent relief cannot be granted. no grounds for urgency were established in this case. The application was consequently struck off the roll.
+
+The court went on to interpret section 188A(11) which states, “Despite subsection (1), if an employee alleges in good faith that the holding of an inquiry contravenes the Protected Disclosure Act, 2000 (Act No. 26 of 2000), that employee or the employer may require that an inquiry be conducted in terms of this section into allegations by the employer into the conduct or capacity of the employee.” An employee relying on subsection 188A(11) must allege and prove the disclosure relied on, providing details of when and where it was made. The applicant failed to meet that requirement.
+
+ 
+[2023] JOL 57988 (LC) at 2
+
+
+
+
+MOSHOANA J:  
+
+Introduction
+
+[1]    Lately, litigants in this Court tend to approach the urgent court seeking specific performance under the banner of section 77(3) of the Basic Conditions of Employment Act (BCEA)1. Inasmuch as litigants may make a case for the granting of the discretionary relief of specific performance, a cardinal question, in the urgent court, is whether an urgent relief is necessary at the time the court is approached? In most cases, in order to place a foot at the door, litigants astutely disavow perennially obtainable and adequate reliefs provided for in the Labour Relations Act (LRA)2. It must be pointed out upfront that what section 77(3) of the BCEA does is to afford the Labour Court concurrent jurisdiction to determine a matter concerning a contract of employment. Once the foot is at the door of an urgent court – jurisdiction is established –, a party seeking a contractual relief must demonstrate that such an urgent relief is necessary at that time. Should a party fail to do so, the Labour Court cannot grant the relief sought. Litigants must be warned that assumption of jurisdiction does not in of itself magically morph into the need to grant an urgent relief, particularly in the Labour Court. Given the prevalence of the recent trend, it does appear that litigants suffer under a misapprehension that once section 77(3) of the BCEA and the disavowal of the LRA remedies are alleged, a need magically emerges for the granting of an urgent relief.
+
+[2]    Before me is an urgent application seeking a declaration that a summary dismissal effected by the first respondent, the Property Practitioners Regulatory Authority (PPRA) on 19 December 2022 is (a) in breach of a contract of employment of the applicant, Ms Mamodupi Mohlala-Mulaudzi  
+[2023] JOL 57988 (LC) at 3
+(Mohlala) and is unlawful, invalid and of no force, and (b) in breach of section 188A of the LRA process.
+
+[3]    The application is heavily opposed by the PPRA. This matter first emerged before Acting Justice Matyolo on 4 February 2023. For reasons that are not apparent from the record, the application was stood down to 8 February 2023. In opposing the application, the PPRA impugns the alleged urgency of the application as well.
+
+Background facts
+
+[4]    Mohlala was appointed on 3 January 2019 as the Chief Executive Officer (CEO) of the PPRA. Her appointment was for a fixed term; which term was to expire on 31 January 2024. Both the PPRA and Mohlala concluded a written contract of employment. Of particular relevance to the present application, clause 10 of the written contract of employment provided thus:
+
+POLICIES AND PROCEDURES: You are required to be the guardian of all company policies whilst also expected to:
+Comply with all policies; regulations, guidelines and procedures, as amended from time to time, however presented or conveyed, or wherever contained;
+Obey all legitimate, reasonable and lawful instructions; as well as conduct yourself at all times in such a manner so as to not adversely affect the reputation of the Company;
+
+Acknowledge that you are bound to the terms of the Disciplinary and Grievance policies, as well as the Code of Conduct. It is your responsibility to gain access to such information via the Human Resources Department."
+
+[5]    On 15 July 2022, the PPRA presented seven allegations of misconduct to be answered by Mohlala in a disciplinary hearing constituted beaconed by Mr E Mokutu SC (Mokutu), an independent practising advocate. Shortly thereafter,  
+[2023] JOL 57988 (LC) at 4
+Mohlala invoked the provisions of subsection 188A(11) of the LRA by requiring that an inquiry be conducted by an arbitrator into the allegations presented to her. Over and above completing an LRA form 7.19, she added a signed note which read:
+
+"I, MAMODUPI MOHLALA-MULAUDZI, refer the charges levelled against (sic) for pre-dismissal arbitration in accordance with the provisions of section 188A(11).
+
+I allege, in good faith. That the holding of an inquiry contravenes the Protected Disclosures Act, 2000 (Act 6 of 2000). The holding of a disciplinary Inquiry as Instituted by the employer constitutes the subjecting of myself to an occupational detriment on account, or partly on account, of having made a protected disclosure.
+
+I accordingly request the CCMA to conduct a pre-dismissal arbitration, by an arbitrator appointed by the CCMA in terms of section 188A (11), into allegations made by employer regarding my conduct as set out in the attached charge sheet.
+
+Employee's Signature_______________
+
+Witness_________________"
+
+[6]    I pause to mention that conspicuously absent from the above note is the details of when, to whom and how was the alleged protected disclosure made. In the meanwhile, on 25 July 2022, Mohlala argued before Mokutu that she had made a protected disclosure and the disciplinary hearing was in contravention of the Protected Disclosures Act3 (PDA). She invited Mokutu to make a ruling with regard to the effect of her request in terms of subsection 188A(11) to the commenced disciplinary hearing. I interpose to state that yet again it is unclear in the founding papers as to when and to whom was the alleged protected disclosure made. In terms of the PDA, a disclosure is  
+[2023] JOL 57988 (LC) at 5
+protected if made to (a) legal advisor; (b) employer or employee of the employer; (c) member of cabinet or Executive Council; and (d) certain identified persons or bodies.
+
+[7]    As prompted on 12 August 2022, Mokutu issued a ruling. The effect of the ruling was that (a) the disciplinary hearing was pended until a ruling was made by the CCMA (Commission for Conciliation, Mediation and Arbitration); (b) should the CCMA rule that it has jurisdiction, the disciplinary hearing shall be terminated; and (c) should the CCMA decline jurisdiction; he will hear the disciplinary charges. In due course, this Court shall deal with a proper interpretation of subsection 188A(11). However, it suffices at this stage to state that the prompted ruling was, in my view, not necessary.
+
+[8]    Following the prompted ruling, the parties met at the CCMA on 29 August 2022. Of significance, Commissioner Mduduzi Khumalo (Khumalo) issued a ruling to the effect that parties agreed to proceed on specified dates and the matter was adjourned to those dates. I again interpose, it is not clear whether on that day, the jurisdictional powers of the CCMA were challenged or not? In the body of the handwritten ruling there is no indication as to a ruling on the jurisdiction issue. Nevertheless, the CCMA is a statutory body and only assumes jurisdictional powers from the provisions of the LRA.
+
+[9]    As agreed, the inquiry did not commence on any of the agreed dates. Instead on 28 November 2022, Mohlala submitted a postponement application which was duly argued. On 9 December 2022, Khumalo issued a ruling postponing the inquiry to 14–17 February 2023. In the meanwhile, parties picked up a bun fight over access to documentation. Ultimately, the PPRA, took a view that Mohlala was determined to delay the continuation and completion of the inquiry. On 13 December 2022, the PPRA informed Mohlala in writing that it was considering a summary dismissal for reasons of the misconduct she committed; her refusal to meaningfully participate in the process designed to give her an opportunity to answer; and the irretrievable breakdown in the trust relationship. On 14 December 2022, Mohlala through her then attorneys  
+[2023] JOL 57988 (LC) at 6
+Robin Twaddle and Associates, provided a detailed response to the intended summary dismissal.
+
+[10]    On 15 December 2022, Mohlala launched urgent proceedings in this Court, effectively seeking to interdict the impending summary dismissal. For reasons not clearly spelled out in the papers before me, the urgent application was postponed to 28 December 2022. In the meanwhile, on 19 December 2022, the PPRA decided to terminate the employment relationship summarily with immediate effect.
+
+[11]    As a sequel to her dismissal, on 22 December 2022, Mohlala referred a dispute to the CCMA and alleged an unfair dismissal. The dispute was enrolled for con-arb on 13 January 2023. Mohlala also decided to, without legal assistance, it would appear, withdraw the urgent proceedings adjourned to 28 December 2022. This she did after having had a frantic search for a legal representative to represent her. On her version, the frantic search culminated on 9 January 2023 when she met with Attorney Makhura.
+
+[12]    In the meanwhile, on 13 January 2023, conciliation for the unfair dismissal dispute took place and failed to resolve the dispute4. On 19 January 2023, Mohlala initiated the present application. It was intended for the application to be heard on 2 February 2023. It is apparent from the attendance form that the application was before Acting Justice Matyolo only on February 2023.
+
+Evaluation
+
+[13]    This application raises two very important legal questions; namely (a) is the Labour Court authorised by the LRA to order the parties to continue with a subsection 188A(11) process should one of the parties decide to abandon such a process; and (b) what are the proper jurisdictional facts that must exist before an employee may invoke the provisions of subsection 188A(11). This is important because there seem to be a new strategy designed to stall  
+[2023] JOL 57988 (LC) at 7
+internal disciplinary hearings by invoking subsection 188A(11). Clarification on the jurisdictional requirements would avoid a potential abuse of the subsection.
+
+[14]    Before these questions are tackled head on, it is crucial to deal with the applicable legal principles of a breach of contract claim first, as brought by Mohlala in terms of section 77(3) of the BCEA. This Court in SAMWU obo Morwe v Tswaing Local Municipality and three others (Tswaing LC)5 took a view that where an employment contract is no longer extant, the jurisdictional powers under section 77(3) of the BCEA may not be invoked6. That view did not receive an imprimatur from the Labour Appeal Court (LAC) in its reportable judgment of SAMWU obo Morwe v Tswaing Local Municipality and others (Tswaing)7. That notwithstanding, properly considered, Mohlala challenges the premature termination of her fixed-term employment contract.
+
+[15]    Section 186(1)(a) of the LRA provides that it is dismissal for an employer to terminate a contract of employment with or without notice. Inasmuch as Mohlala chooses to label her case as one of breach of a contract, in truth this is a case of unfair dismissal. Mohlala chose to say that her dismissal is unlawful and invalid. It is by now settled law that the LRA does not know of an unlawful and or an invalid dismissal. Accepting that Mohlala chose to label her case as a breach of contract, then she must be confined to the contractual remedies.
+
+[16]    Where a repudiation of a contract happens, the aggrieved party, in this instance Mohlala, has an election to make. The available remedies depend on the election the aggrieved party makes. If a party elects to accept the repudiation and cancel the contract, that party may sue for damages. If the party does not accept the repudiation, he or she may insist on performance of the contractual terms in specific forma. Should the aggressor refuse to  
+[2023] JOL 57988 (LC) at 8
+perform, the aggrieved party may approach a court with competent jurisdiction and seek specific performance as a relief.
+
+[17]    It suffices, before this Court can consider whether an urgent relief is necessary, to briefly discuss the remedy of specific performance. Having discussed the remedy, a determination may be made whether a court may afford the remedy on an urgent basis in motion proceedings. I might point out that Mohlala is seeking a final relief. Motion proceedings are designed to determine questions of law with very little to no dispute of facts8. The issue whether there is repudiation is a disputed issue. The question whether that issue can be resolved without recourse to oral evidence remains an enigma. According to the PPRA, the employment relationship has broken down and is not salvageable due to the alleged conduct of Mohlala. Mohlala disputes the alleged conduct. There lies a material dispute of fact in my view. Mohlala contends that there is no genuine dispute of fact incapable of being resolved on the papers. Sadly, I disagree.
+
+[18]    In terms of clause 4.3.1 of the fixed-term employment contract, the PPRA reserved for itself and is entitled to terminate the employment summarily without notice if Mohlala commits a material breach of any of her obligations under the fixed-term contract of employment. The contention of Mohlala is that she did not commit a material breach, whilst the contention of the PPRA is that she did. In contract law a material breach occurs when one party's failure to abide by a contract's terms renders it irreparably broken and defeats the purpose of entering into the contract in the first place. In clause 13.2 of the fixed-term employment contract the following was recorded:
+
+It is a material term of your contract of employment that you will serve the Company faithfully and honestly and use reasonable care and skill in the performance of your duties." 
+[2023] JOL 57988 (LC) at 9
+
+[19]    In the charge sheet presented to Mohlala, the PPRA stated amongst others the following:
+
+"The purpose of the proposed disciplinary enquiry is to consider the appropriateness or otherwise of a continued employment relationship in view of the serious allegations levelled against you, namely that you acted in gross breach of the relationship of trust and confidence in that . . ."
+
+[20]    A cursory look at the allegations tabulated in the charge sheet suggests a material breach. As indicated above, it is not the task of a motion court to resolve disputes of facts. More particularly in the urgent court. By invoking motion proceedings, Mohlala accepted the risk associated with such proceedings in the event a dispute of fact arises. Mohlala must have foreseen that the issue that she allegedly committed a gross breach or material breach will create a genuine dispute of fact. That notwithstanding she chose motion proceedings. In contract law, it is not required of the contractant to prove to the other party that it is in breach before the contractant is put to an election. Once a party observes malperformance, that aggrieved party is immediately put to an election. Two options avail themselves; namely (a) reject the repudiation/malperformance and claim specific performance; or (b) accept the repudiation; cancel the contract and sue for damages. As I understand our law; no court may rule that a contractant made a wrong election. It remains the sole prerogative of the contractant to make that election.
+
+[21]    Mohlala seem to suffer under a misapprehension that until the malperformance is proven, in some process, a contractant is not put to an election. From a contract law point of view there is no such. Of course, the other party might consider the premature termination as a breach and elect to dispute the cancellation right and sue for specific performance. The PPRA, elected to cancel, which they are entitled to and Mohlala is now disputing that cancellation on some other basis; namely, the PPRA can only cancel if it has met certain requirements allegedly emanating from the contract itself. What Mohlala ignores is the principle of lex commissoria. In clause 4.3.1 the parties recorded that notwithstanding the provisions of clause 4.1 employment may  
+[2023] JOL 57988 (LC) at 10
+be terminated summarily without notice if Mohlala commits a material breach of any of her obligations.
+
+[22]    Mohlala seeks to cling on clause 4.3.3 of the employment contract. That clause deals with a situation where on account of misconduct in terms of South African labour law and the disciplinary code and procedures as opposed to a material breach as recognised by contract law, the PPRA seeks to terminate. I agree that in some instances a material breach in contractual parlance may constitute a misconduct in terms of the labour law or disciplinary codes. In other words, an employer, in this case the PPRA, had as an option to use the common-law path or the misconduct path. It chose the misconduct path and was cut short by Mohlala when she put a spoke on the wheel by invoking subsection 188A(11). Faced with the denude of the misconduct path, the common-law path remained intact and available. Moreso, Mohlala has launched a contractual attack, she opened herself up to a contractual defence. In Singh v McCarthy Retail Ltd9, the Supreme Court of Appeal (SCA) dealt with the right to cancel and approved the approach suggested in Aucamp v Morton10. At common law a party is entitled to reject defective performance and cancel the contract11.
+
+[23]    It may be so that the Disciplinary and Grievance Policy and Procedure – March 2019 (DGPP) forms part of the employment contract of Mohlala. However, when the PPRA sought to comply with the DGPP, Mohlala nullified that by alleging in "good faith" that the holding of an inquiry contravenes the PDA. In perspicuous terms Mohlala rejected the right to be heard in accordance with the terms of the contract. Acquiescence is very much part of our law12. In her view, exercise of the right contained in the DGPP constitutes an unlawful act. Accordingly, Mohlala cannot on application of the common-law doctrine of election, approbate and reprobate at the same time. As it is often said, she cannot blow hot and cold symbiotically. She cannot be  
+[2023] JOL 57988 (LC) at 11
+permitted to play musical chairs. Having pinned her colours to the mast, what then remains for Mohlala is to demonstrate that failure to proceed with a section 188A process constitutes a breach of an employment contract. In my view, it cannot be a breach of contract of employment, at best it may be an unlawful act. In due course, I shall return to the jurisdictional requirements of subsection 188A(11) of the LRA.
+
+[24]    I consistently take a view that in dismissing an employee there is no act of unlawfulness13. No employee has a right not to be dismissed. In terms of the LRA, an employee acquires a right not to be unfairly dismissed. At common law, an employer is entitled to dismiss an employee for any material breach. Thus, in the eyes of the common law, dismissal for reasons of material breach is not invalid. Once an employer and/or an employee is faced with a material breach, a right to make an election manifest itself. One of the elections is that of accepting the material breach, cancel and sue for damages. The other is to resist the material breach and insist on perfoma specifica – specific performance. In my view, where a termination happens without following the agreed disciplinary process, in contractual parlance, what happens is not unlawfulness or invalidity but a repudiation, which will put the aggrieved party – an employee – to his or her election. That being the contractual language, this Court fails to understand why an urgent relief is necessary at this stage.
+
+The remedy of specific performance
+
+[25]   This is a common-law contractual remedy. Over 100 years ago the then Appellate Division of South Africa decreed in Farmers Co-operative Society v Berry14 that a court of law retains a discretion to refuse to order specific performance remedy. The same court in Haynes v King Williams Town  
+[2023] JOL 57988 (LC) at 12
+Municipality reaffirmed this position 48 years later.15 Ultimately, the then Transvaal Provincial Division, in National Union of Textile Workers and others v Stag Packings (Pty) Ltd16, held that specific performance was not excluded as a remedy for an employee. However, it being a discretionary remedy, where an employment relationship is irretrievably broken down, the remedy may be refused. An employment relationship may not be enforced by specific performance17. Accordingly, an urgent relief seem inappropriate18. The LAC in Tswaing felicitously opined as follows:
+
+. . .The remedy of specific performance is discretionary. Given the facts alleged about the conduct of the parties explaining why they fell out, ie the alleged mutinous and disruptive behavior of the employee, even were the employer to have been found to have been in breach of compliance with an obligation to hold an enquiry, the factors relevant to the grant of specific performance indicate that it would probably be inappropriate to do so. That would leave the appellant with the prospect of damages, a form of relief not sought in this application."
+
+[26]    The question whether an employment relationship has broken down or not is a question of fact. In casu, the PPRA alleged that due to the allegations levelled against Mohlala, she broke the employment relationship. It further alleges that she lacked faith and honesty as commanded by clause 13.2 of the employment contract. She made false statements about her alleged protected disclosures, PPRA contends. Inasmuch as Mohlala disputes those allegations, it remains a question whether the remedy sought may be afforded to her in motion proceedings and on an urgent basis. In Masetlha v President of the Republic of South Africa and another19, the learned Moseneke DCJ had the following to say, which reverberates the sentiments recently echoed in Tswaing: 
+[2023] JOL 57988 (LC) at 13
+ "[82] Reverting to the present case. I agree with the High Court that ordinarily a dismissal of a head of intelligence services on the basis of irretrievable loss of trust on the part of his principal, in this case the President, would not be arbitrary or irrational.
+
+The ordinary remedies for breach are either reinstatement or full payment of benefits for the remaining period of the contract. In my view, even if the contract of employment were terminated unlawfully, Mr Masetlha would not be entitled to re-instatement as a matter of contract. Reinstatement is a discretionary remedy in employment law which should not be awarded here because of the special relationship of trust that should exist between the head of the Agency and the President."
+
+[27]    It must be so that given the special relationship between Mohlala as the Accounting Officer of the PPRA and the PPRA, a breakdown in a trust relationship entitled the PPRA board to resolve to end the employment relationship. Clause 13.2 of the contract of employment requires faithfulness and honesty. Having outlined the above legal position, this Court must ask itself the pertinent question detailed below.
+
+Does the present application comply with rule 8 of the Rules for the Conduct of Proceedings in the Labour Court?
+
+[28]    Rule 8 provides thus:
+
+Urgent relief
+A party that applies for urgent relief must file an application that complies with the requirements of rules. . .
+The affidavit in support of the application must also contain–
+The reasons for urgency and why urgent relief is necessary.
+. . .
+. . ." 
+[2023] JOL 57988 (LC) at 14
+
+[29]    I must upfront point out that hearing the matter as one of urgency involves an exercise of judicious discretion. Hearing a matter as one of urgency is different from the question whether an urgent relief is necessary. I was inclined to hear the application as one of urgency, but granting an urgent relief depends on a number of other factors. There is absolutely no doubt that the provisions of this rule are peremptory. Non-compliance with the provisions thereof leads to nothing but refusal to grant an urgent relief. The principle that a party makes his or her case in a founding affidavit applies at all times. In an attempt to justify the necessity of an urgent relief, Mohlala alleges that her application is manifestly urgent; her rights contained in the contract of employment and the disciplinary code and procedure which provides a specified process before termination of her employment, have been egregiously contravened; the right to be terminated only after the completion of the section 188A process has been violated; and that the board chairperson usurped the power to dismiss, which power lies with the chairperson or arbitrator. In Tswaing the LAC also stated the following:
+
+The Labour Court approached the issue from the perspective that 'procedural fairness' is a species of a complaint that is exclusively within the realm of the LRA remedies and has no place in purely contractual disputes. There is some force to this view because the common law of contract did not evolve an intrinsic procedural fairness element. It has been the very absence of such an element which is the font of the demand for statutory labour law remedies. However, it is unnecessary in this judgment to express a firm view on this aspect. It suffices to say that a contract of employment could notionally incorporate any procedures if they are expressly included. . ."
+
+[30]    Like in Old Mutual Ltd v Moyo20, cited with approval by Tswaing, the fixed-term employment contract relied upon by Mohlala does not expressly provide for a right to a specified process. There is no express provision affording Mohlala a specified process. Clauses 10.1 and 10.2 of the employment contract provides for an expectation to comply and acknowledge that Mohlala is bound to the terms of the Disciplinary and Grievance Policies as well the  
+[2023] JOL 57988 (LC) at 15
+Code of Conduct respectively. Comply and bound does not necessarily give rise to a right but an obligation. The dictionary meaning of comply as a verb means to act in accordance with a wish or command. The word bound is the past tense of bind. The dictionary meaning of bind is to tie or fasten something tightly together. The language used in the clause is bound to the terms. The DGPP is not necessarily a model of clarity. It has been poorly drafted. Under the heading suspension appears clause 19.3.4 which provides that an employee will be provided with a charge sheet that will state, in reasonable detail, the charges that an employee is obliged to meet as well as a date, time and venue of the disciplinary hearing and the rights of an employee. Clause 1.9 provides that when an employee is considered by management to have violated EAAB standard of behavior, policies, procedures, rules or regulations, the procedure detailed below shall be followed. The detailed procedure deals with warnings and suspension procedure. The disciplinary hearing procedure is outlined in detail. However, in casu, it is common cause that Mohlala was provided with a charge sheet, thus clause 19.3.4 was complied with. A process contemplated in clause 1.10 had commenced but Mohlala vilified it and referred to it as an occupational detriment, something inimical to the PDA.
+
+[31]    I must point out that the process detailed in the DGPP arises only where management considers an employee to have violated a standard of behavior (committed a misconduct). It does not find application where the PPRA allege a material breach (common-law right). That being so, the contention that only the chairperson or arbitrator is empowered to dismiss Mohlala is made in hollow. Clause 4.3 expressly states "terminated summarily by us". Us must be the PPRA as duly represented by the board and no one else. In terms of section 16(1) of the Property Practitioners Act (PPA)21, the board of the PPRA is empowered to with the approval of the Minister appoint a CEO. As held in Masethla, the power to appoint implies the power to dismiss. That notwithstanding, there is no express provision in the fixed-term employment  
+[2023] JOL 57988 (LC) at 16
+contract that affords Mohlala a specified process before termination of employment occurs.
+
+[32]    Additionally, Mohlala whines about the financial hardship that will visit her as a result of the termination. These consequences are not unique to Mohlala. It is something that through graduated and varying degrees applies to all dismissed employees. Quintessentially, financial asperity does not qualify as a basis for an urgent relief. This Court in Vermaak v Taung Local Municipality22 had the following to say:
+
+The applicant finds himself in the same position as millions of employees who are dismissed, whether fairly, unfairly or lawfully or unlawfully, on daily basis. The question is what makes the applicant special to have his case determined quickly. That is the reason why rule 8 requires a party to set out the reasons why the relief is necessary. His relief is still there on another day, like millions of dismissed employees. The fact that the applicant chose to peg his claim as one of unlawfulness as opposed to unfairness is of no moment."
+
+[33]    On appeal, the Labour Appeal Court in Vermaak v MEC Local Government and Traditional Affairs, Northwest Province and others23 stated the following:
+
+I cannot fault the Labour Court in its reasoning and conclusions that the application was not urgent and that it was misconceived."
+
+[34]    Resultantly, this Court is not satisfied that financial hardships, which had not been spelled out with any degree of sufficiency in this application, are grounds for an urgent relief nor that a case for detrimental consequences has been made.24
+
+ 
+[2023] JOL 57988 (LC) at 17
+
+[35]    Mohlala avers that she does not have an alternative remedy. She contends that the CCMA does not have jurisdictional powers to entertain a contractual claim. In my view, the issue of whether an urgent relief is necessary or not has nothing to do with an assumption of jurisdictional powers. Indeed, as held25 in Gcaba v Minister for Safety and Security26 in one set of facts, various recognised causes of action may emerge. The fact that a litigant opts to pursue cause of action A does not quintessentially mean that other available causes of action are disqualified as adequate alternative remedies. Veritably, the question is, does the law provide substantial redress in due course? If the answer is in the affirmative, a court of law is not obliged to grant an urgent relief. A redress is a remedy or compensation for a wrong or grievance. Therefore, a redress is not dependent on the pursued cause of action, but on whether in due course a wrong or grievance may be adequately remedied. It bears mentioning that in a termination of contract context, the remedy of specific performance equates reinstatement in an unfair dismissal context. The fact that an employee elects to pursue a contractual claim does not morph remedies in the LRA to be non-remedies. They remain remedies to right the wrong termination of employment and adequately serve as alternative or substantial remedies in due course. As indicated earlier, specific performance is a discretionary remedy. As a matter of law, its adequate alternative is the award of damages. Thus, damages remain a forceful alternative remedy, even if an employee elects not to cancel an employment contract. The fixed-term contract involved herein has only ran for a period of about four years. There is a remainder of about one year, which is capable of being recompensed adequately by way of damages. Of course, issues of mitigation of those damages may come into play27.
+
+[36]    The learned Zondo J, as he then was in Steenkamp and others v Edcon Limited28 remarked as follows: 
+[2023] JOL 57988 (LC) at 18
+ "[178] Two employees, one whose dismissal has been declared invalid by a court and another whose dismissal has been declared unfair but who, in addition, secures an order of reinstatement with retrospective effect to the date of dismissal, are exactly in the same position. Both may report for duty and resume their jobs and get backpay for the post-dismissal period."
+
+[37]    The fact that Mohlala's reputation and image would have been dented or continue to be dented does not suggest that her right to reinstatement and or specific performance would magically dissipate. Accordingly, I am not satisfied that Mohlala has provided adequate reasons why an urgent relief is necessary today and not tomorrow or the other day. This Court in Maqubela v SA Graduates Development and others29 correctly stated thus:
+
+"Whether a matter is urgent involves two considerations. The first is whether the reasons that make the matter urgent have been set out and secondly whether the applicant seeking relief will not obtain substantial relief at a later stage. In all the circumstances where urgency is alleged, the applicant must satisfy the court that indeed the application is urgent. Thus, it is required of the applicant to adequately set out in his or her founding affidavit the reasons for urgency." [Own Emphasis]
+
+[38]    I am certain that any applicant, who approaches this Court on an urgent basis, assisted by what Acting Justice Snyman referred to as clever lawyers, may be able to astutely and in long paragraphs in an affidavit recite every factor that may attract an urgent court judge to hear him or her. In my view, it remains the task of the court to objectively enquire and be satisfied that an urgent relief is necessary at that stage. Courts are not to be impressed by lengthy recitations in a founding affidavit. As outlined above, almost every employee who is dismissed is capable of, in a flowery manner, asserting how he or she will suffer financially, emotionally and otherwise. That flowery manner is not enough in my view to grant an urgent relief. It may achieve audience from the judge. Mr Radebe, with much exuberance, urged this Court to follow the  
+[2023] JOL 57988 (LC) at 19
+approach taken by my learned brother Lagrange J in the matter of Mahonono v National Heritage Council and others (Mahonono)30. In that judgment Lagrange J stated the following:
+
+Even if I attach less weight to the financial considerations which were pleaded in limited detail, there are good reasons to believe that there is a risk of imminent harm to her job prospects, reputation and the dilution of her right to seek specific performance if the applicant were not able to approach this Court on an urgent basis . . . Consequently, the application should be treated as urgent."
+
+[39]    With considerable regret I do not agree that harm to job prospects, reputation and the dilution of a right to seek specific performance are an answer to the question pertinently raised in rule 8(2)(a) – why an urgent relief is necessary. It is unclear to this Court as to what is meant by dilution of a right to seek specific performance. If it means dissipation or weakening of the right, in my view, the right does not evaporate, it remains intact and available in due course. In our law a claim prescribes and become unenforceable if three years passes without the claim being lodged. Like reinstatement, specific performance is not guaranteed. A contractant, may be heard now but a court may in the exercise of its discretion refuse to grant specific performance. Thus approaching a court for an urgent relief of specific performance is not a guarantee of obtaining same. Reputational risk does not afford a litigant the necessity to obtain an urgent relief31. In our law, a person whose reputation is damaged has a recourse in law. For all the above stated reasons, sadly I part ways with Mahonono.
+
+[40]    This Court was further urged to follow the judgment of my learned brother Tlhotlhalemaje J in Munthali v PRASA32. In that judgment my brother correctly observed that courts in any event enjoy a discretion in the overall determination of whether a matter should be accorded urgency or not. In other  
+[2023] JOL 57988 (LC) at 20
+words, no one size fits all. My brother was persuaded by the uncontested facts, which presented what he termed "exceptional circumstances" to use financial exigencies as a basis for hearing the matter as one of urgency. I still maintain that what rule 8 requires are reasons why an urgent relief is necessary, which is a different question to why the matter should be heard. In my view, the facts in PRASA are distinguishable. Regard being had to Mohlala's complaint about unlawfulness/breach of contract; she has an alternative and a substantial relief in due course.33
+
+[41]    For all of the above reasons, I conclude that Mohlala has failed to show that she is entitled to an urgent relief.
+
+Subsection 188A(11), its import and purpose: correct interpretation thereof
+
+[42]    Regard being had to the questions outlined above, it behooves this Court to consider what the jurisdictional requirements of subsection 188A(11) are. A new strategy seems to have been crafted to stall internal disciplinary hearings. In order to curb the apparent abuse of the section, it is cardinal for this Court to give a proper meaning of the subsection. All the judgments of this Court, which this Court, with a limited time at its disposal, managed to obtain and consider, only deal with the effect of the subsection to the internal disciplinary hearing when the section is properly invoked. In an interpretation exercise, the door opener is the text employed by the Legislature, because this Court is obliged to show conviction to the words employed by the Legislature34. The subsection reads:
+
+Despite subsection (1), if an employee alleges in good faith that the holding of an inquiry contravenes the Protected Disclosure Act, 2000 (Act No 26 of 2000), that employee or the employer may require that an inquiry be conducted in terms of this section into allegations by the employer into the conduct or capacity of the employee." 
+[2023] JOL 57988 (LC) at 21
+
+[43]    A casual and sloppy reading of the subsection suggests that an employee may make a simple allegation of contravention of the PDA in order to invoke the subsection. Not, the allegation must be one made in good faith. This requirement illuminates the fact that the Legislature was alive to the fact that an employee may make a wild allegation and thereby gain the right to an inquiry by an arbitrator. This is an instance where an abuse of the subsection creeps in easily. The Legislature must have carefully chosen the phrase good faith because in section 9 of the PDA any disclosure made in good faith is protected. It becomes so protected if an employee reasonably believes that the information disclosed and an allegation contained in it are substantially true and the disclosure is not made for the purposes of personal gain. The phrase good faith, when used as a noun, means honesty or sincerity of intention.
+
+[44]    It must follow that the allegation of contravention must have an element of honesty and sincerity. The veritable question is how does a court faced with an application of this nature test honesty and sincerity of the allegation of contravention? To my mind a contravention must not only be alleged it must prima facie factually exist. I say so because in terms of section 1 of the PDA an occupational detriment in relation to the working environment of an employee means amongst others being subjected to any disciplinary action. Mohlala contends that holding of a disciplinary inquiry as instituted by the PPRA constitutes subjecting her to an occupational detriment on account or partly on account of having made a protected disclosure.
+
+[45]    Section 3 of the PDA expressly provides:
+
+"No employee may be subjected to any occupational detriment by his or her employer on account, or partly on account of having made a protected disclosure."
+
+ 
+[2023] JOL 57988 (LC) at 22
+
+[46]    In order for a contravention to arise, an employee must first make a protected disclosure as defined in the PDA and thereafter an employer must subject that employee to an occupational detriment as defined. Section 1 of the PDA defines what a disclosure means. In casu, Mohlala was charged on 15 July 2022. Five days before the scheduled date, she alleged the contravention. It must be so that an employee relying on subsection 188A(11) must allege and prove the disclosure relied on as in when and where it was made. Section 3 refers to "having made a protected disclosure". It is only an employee who have made a protected disclosure that is capable of being subjected to an occupational detriment. Differently put by subjecting an employee to an occupational detriment, the employer, as it were, punishes that employee for having exposed its wrongdoing. The occupational detriment must be retaliatory in form and be connected to the making of the protected disclosure. Accordingly, in my view the provisions of the subsection are evocable if the following jurisdictional facts are present in the order set out below:
+
+The employee must make a protected disclosure;
+Thereafter, the employer must subject the employee who already made a protected disclosure to an occupational detriment;
+Once so subjected, an employee must allege honestly and sincerely so that a causal connection does exist between his or her protected disclosure and the occupational detriment. Differently put, it is because of having made a protected disclosure that an employer chose to respond by an occupational detriment.
+
+[Sub-paragraph numbering as per Court transcript – Ed.]
+
+[47]    In my view if any of the above-stated jurisdictional facts is absent, subsection 188A(11) cannot be invoked. Therefore, to my mind, the Council; Accredited Agency and the Commission must refuse to entertain the request that an inquiry be conducted in terms of this subsection if any of the jurisdictional facts are absent. Entertaining such requests without evidence of the jurisdictional facts being present, simply implies that the right of employers disciplining their employees internally will be lost for very flimsy reasons. Such implies that the right to fair labour practices of employers will be limited at a  
+[2023] JOL 57988 (LC) at 23
+stroke of a pen contrary to sections 34 and 36 of the Constitution of the Republic of South Africa 1996. It is worth mentioning that the subsection 188A(11) process is not there for the taking. It is not a simple referral as contemplated in section 191(1) of the LRA. It comes to the administrative bodies (Commission, Accredited Agency or Council) as a request. To my mind, the purpose of the subsection 188A(11) is to serve as a buffer to a continuation of an occupational detriment. It equates an interdict in that its invocation halts unlawfulness. Given its legal effect as recognised in a number of judgments of this Court35, which effect may adversely affect an employer, where the administrative bodies accede to the request36 without the jurisdictional requirements being present, an employer may, in my view, be entitled to launch a review in terms of section 158(1)(g) of the LRA grounded on the principle of legality.
+
+[48]    I agree that the effect of requiring that an inquiry be conducted in terms of the subsection is that the commenced internal disciplinary hearing terminates. But the termination does not happen automatically after the request. It happens once the administrative bodies has acceded to the request. Such that if the jurisdictional requirements are not met, the commenced internal disciplinary hearing does not lawfully terminate. Another consideration is this, which may allow abuse if not appropriately managed. Making a protected disclosure does not of itself insulate an employee from discipline. By way of an example, employee A makes a protected disclosure in March 2021 regarding non-compliance with some legislation. After that in July 2022, employee A defrauds his or her employer. When the employer institutes disciplinary steps against employee A, in order to stall the disciplinary process, employee A completes a prescribed request in order for the administrative body to inquire into the allegations. The administrative bodies do not exist as fallback bodies. They charge a fee for the function. Therefore, if administrative bodies willy-nilly accede to the request even where the allegations to be enquired into are  
+[2023] JOL 57988 (LC) at 24
+completely divorced from the disclosed information, then the purpose of the subsection will be completely subverted. There must be a causal connection37 between the protected disclosure and the impending disciplinary action. 
+
+[49]    I agree with my learned sister Prinsloo J in the matter of Tsibani v Estate Agency Affairs Board and others (Tsibani)38, when she said:
+
+. . .I see no reason why, if an employer, under the circumstances where the employee complies with the requirements of section 188A(11), refuses to have the inquiry into the conduct or capacity of the employee conducted in terms of section 188A. . ."
+
+[50]    My sister pitch-perfectly stated that there are requirements to be complied with before the section may be invoked. She did not in her judgment spell out what those requirements are. In my judgment, I do spell out those jurisdictional requirements.
+
+[51]    In practical terms, any request in terms of subsection 188A(11) must be accompanied by the proof of the protected disclosure made, which must predate the charge sheet – commencement of a disciplinary action. Rationality as a species of legality or rule of law require application of mind before a statutory power is exercised. Differently put, the power must be exercised for the purpose for which it was given. Therefore, given the adverse effect that may visit an employer, by being forced into an arbitration like process, when it could have followed a cheaper process, decision makers on such requests must ensure that the jurisdictional requirements exist in order to invoke the statutory power. Axiomatically, if the request is denied, the process of the employer akin to the one suggested in Avril Elizabeth Homes case shall prevail. It is perspicuous that the mischief sought to be curbed by the Legislature is to avoid occupational detriment. Such mischief is illuminated by clear regard to the provisions [sic] subsection 188A(12) of the LRA. 
+
+ 
+[2023] JOL 57988 (LC) at 25
+
+Accordingly, how can an employee who has not made a protected disclosure be protected from an employer's internal processes? Therefore, the only way to ensure that an employee deserves protection is by at least submitting proof of the protected disclosure and to prima facie show the necessary connection. The judgment of South African Broadcasting Corporation SOC Ltd v Phasha39 recognised the right of an employer to discipline an employee for a discrete reason.
+
+[52]    In the present matter, nowhere in her founding papers does Mohlala allege that she made a protected disclosure on a particular day and to whom. On her own version, she testified thus:
+
+I attended the scheduled disciplinary hearing on 25 July 2022. At the commencement of hearing, I argued before the chairperson that I made a protected disclosure, that the inquiry was in contravention. . . I invited the chairperson to rule on the effect of the referral on the disciplinary proceedings." 
+
+[53]    No details of the alleged protected disclosure are provided. It is suspect why Mohlala needed a ruling on the effect of the referral. This immediately gives this Court a sense that some legal machination was in play. In my view an employee cannot simply spring a surprise backed by nothing that a protected disclosure was made and hope to gain an advantage of the legal provision outlined in subsection 188A(11). This Court fails to understand why did Mohlala not seek the consent of PPRA within the contemplation of section 188A(1). Before me the PPRA in no uncertain terms deny that Mohlala made a protected disclosure. In fact, the PPRA accuse her of falsehood in that regard. In reply to this damning and daring denial, instead of providing the details of when and to whom was the alleged protected disclosure made, she resorted to this.
+
+ 
+[2023] JOL 57988 (LC) at 26
+I also submit that I did indeed make a protected disclosure, which disclosure led to the first respondent to institute a disciplinary hearing against me originally. Again, the issue whether I made a protected disclosure or not is not relevant for the purpose of this application."
+
+[54]    Surely if Mohlala was bona fide in this allegation of having made a protected disclosure, it would have been simple and easy for her to either attach the copy of the alleged protected disclosure, if it was made in writing, or provide the details of when, where and to whom? To simply relegate the issue to non-relevance is nothing but being disingenuous. The issue is relevant and constitutes part of the jurisdictional facts that must be present. In the Commission papers, Mohlala adopted a similar stance. Her allegation of having made a protected disclosure were as bare as they come. No details of where, when and to whom was the protected disclosure made. Surprisingly the Commission acceded to such a bare request. Having correctly conceded that the making of a protected disclosure is one of the jurisdictional requirements, Mr Radebe made a halfhearted attempt to introduce evidence by handing up the full copy of the Mokutu SC ruling in order to demonstrate the relevant evidence of making a protected disclosure. Of course this attempt was inconsistent with the procedure in motion proceedings. It has been held that annexures to an affidavit require proper dealing with in the affidavit. An annexure cannot simply be annexed without the necessary allegations in the affidavit dealing with such an annexure. It must have quickly dawned on Mr Radebe that introducing evidence in that manner was inappropriate, because he later withdrew the full copy of the ruling. What then remained were portions of the ruling evidencing nothing about the alleged protected disclosure. Of course what remained opaque for my comprehension is that when Mohlala was suspended – an occupational detriment in terms of the PDA, she did not find reason to use the alleged protected disclosure to fend of the occupational detriment. Perhaps she made an attempt but it is not apparent from her own papers before me. To my mind this somewhat unwraps the enigma why Mohlala pertinently asked Mokutu SC to rule on the effect of her invocation of the subsection 188A(11) process. In my view the intention was patently to  
+[2023] JOL 57988 (LC) at 27
+stall the disciplinary steps as it is often done in this Court by executive employees as acknowledged by my brother in PRASA.
+
+[55]    Allied to the jurisdictional facts issue is the question whether the Labour Court may order the PPRA to return as it were to the subsection 188A(11) process. I have already found that Mohlala does not have a contractual right to a section 188A process. Differently put, is Mohlala entitled to a final interdict initially sought. The short answer to that is a resounding NO. An interdict is an extraordinary remedy available to deal with continuing unlawfulness. On the facts of this case, water is running loudly under the bridge. Mohlala has been dismissed. As expounded above, the subsection 188A(11) process ignited by Mohlala is, in my fervently held view unlawful. It does not meet the jurisdictional requirements outlined above. The CCMA lacks jurisdictional power, owing to the absence of the jurisdictional facts. The fact that the CCMA decided to assume jurisdiction is not binding on this Court.
+
+[56]    Where an administrative body assumes jurisdiction it does not have, the outcome of any process would be brutum fulmen. It is unnecessary in this application to venture into the Oudekraal debate. It is fact that the PPRA had not challenged the exercise of statutory power by the CCMA. However, the fact that the administrative action has not been challenged does not give such an administrative action legality. It remains illegal, even if it factually exists. On application of the principle of ultra vires no legal consequences may flow. An action not authorised by law is invalid ab initio. In the eyes of the law, there is no decision.
+
+[57]    Before I conclude unlike in Phasha, the 188A inquiry was not agreed to between the parties. In truth, the legal provision was imposed onto the PPRA. Phasha was a perfect case for unlawfulness because parties agreed to a process and another one reneged. The LAC remarked as follows: 
+[2023] JOL 57988 (LC) at 28
+ "[34] . . . But under the reasoning of this judgment, the ultimate finding is that by attempting to circumvent the process in terms of s 188A of the LRA, the appellant acted unlawfully."
+
+[58]    The PPRA was not legally bound to participate as it were, in an unlawful process. Therefore, the PPRA did not act unlawfully by not seeing through the process. Accordingly, this Court cannot force or conclude that by not completing the subsection 188A(11) process the PPRA acted unlawfully and or unprocedurally. Unlike in Phasha40, this was not a consensual process contemplated in subsection 188A(1) of the LRA. For this reason alone, Phasha is distinguishable.
+
+[59]    Over and above the fact that I do not believe that Mohlala is entitled to any urgent relief, I take a view that she failed to demonstrate a clear right. There is no express right to a specific process in her employment contract nor the LRA. For that reason alone, her quest for a final interdict was doomed to fail. Having said that, surprisingly, this Court was informed by Mr Radebe, who appeared on behalf of Mohlala that interdictory relief was no longer being sought. As correctly submitted by Mr van Graan SC, illegality is challenged by either an interdict or what is known as a legality review. Typically, the relief in an interdict and/or review is to prohibit the proven unlawfulness and to set aside an unlawful decision. I have my own doubt whether unlawfulness may be remedied by a contractual remedy (be it specific performance and or damages). However, I am not non-suiting Mohlala for this reason. It suffices to remind oneself that the Constitutional Court rejected the decisions of De Beers Group Services (Pty) Ltd v NUMSA and others41 and Revan Civil Engineering Contractors and others42, which both found that a dismissal effected contrary to the provisions of section 189 of the LRA is invalid and unlawful. One cannot help but wonder whether a dismissal contrary to the provisions of section 188A is unlawful or not. However, Phasha has authoritatively found that to be the case and upheld the decision of my retired  
+[2023] JOL 57988 (LC) at 29
+brother Cele J which held that failure to hold an inquiry in terms of section 188A before terminating the employment contract the employer had unlawfully terminated the contract. Considering that a section 188A inquiry comes in the stead of an internal disciplinary hearing, on the authority of Phasha, failure to hold a disciplinary hearing renders a dismissal to be unlawful perhaps43. Nevertheless, my mind remains fixated on the fact that a breach is not an unlawful act per se.
+
+[60]    I must point out, the issue of the subsection 188A(11) process is not a contractual issue. In other words, such a dispute does not concern a contract of employment. Prinsloo J was correct in Tsibani when she concluded that an employee would be entitled to approach this Court for an order of interdict. The interdictory relief has been abandoned by Mohlala. 
+
+[61]    Turning to the issue of costs, this is a civil claim brought under section 77(3) of the BCEA. Accordingly, the costs must follow the results.
+
+[62]    In the results the following order is made:
+
+Order
+
+The application is heard as one of urgency.
+The application is struck off the roll due to lack of the necessity for an urgent relief.
+The applicant must pay the costs; which costs includes the employment of two Counsel.
+
+
+Footnotes
+1	 Act 75 of 1997.
+2	 Act 66 of 1995.
+3	 Act 26 of 2000 as amended.
+4	 The unfair dismissal dispute is due to be arbitrated once arbitration is requested.
+5	 (J1230/20) dated 17 November 2020 marked reportable.
+6	 This view was approved by my sister Nkutha-Nkontwana J in NEHAWU v Unisa (2022) 43 ILJ 2351 (LC).
+7	 [2023] 2 BLLR 131 (LAC).
+8	 NDPP v Zuma 2009 (2) SA 277 (SCA) [also reported at [2009] 2 All SA 243 (SCA); 2009 (4) BCLR 393 (SCA) – Ed].
+9	  2000 (4) SA 795 (SCA) [also reported at [2000] 4 All SA 487 (SCA); [2001] JOL 7390 (A) – Ed].
+10	 1949 (3) SA 611 (A) at 619 [also reported at [1949] 3 All SA 457 (A) – Ed].
+11	 See Reid v Spring Motor Metal Works 1943 TPD 154, Nyathi v SIU (2011) 32 ILJ 2991 (LC) [also reported at [2011] 12 BLLR 1211 (LC); [2011] JOL 27537 (LC) – Ed] and Tswaing Labour Court judgment (id fn 5).
+12	 BMW (SA) (Pty) Ltd v Numsa and another (2020) 41 ILJ 1877 (LAC).[also reported at [2020] 11 BLLR 1079 (LAC) – Ed].
+13	 In South African Broadcasting Corporation SOC Ltd v Phasha [2021] 3 BLLR 270 (LAC), the LAC relied on a portion of the judgment in Steenkamp to come to a conclusion that the dismissal is unlawful. Although I have a different understanding of Steenkamp, as a court below I am bound by Phasha. In my understanding of Steenkamp, an invalid dismissal is one that does not exist in the eyes of the law. In that regard, the learned Zondo J (as he then was) writing for the majority, referenced two cases which dealt with dismissal effected in breach of statutory provisions. Confidently, the learned Judge remarked that the LRA has no such statutory provisions.
+14	 1912 AD 343.
+15	 1951 (2) SA 371 (A) [also reported at [1951] 2 All SA 472 (A) – Ed].
+16	  1982 (4) SA 151 (T) [also reported at [1982] 4 All SA 566 (T) – Ed].
+17	 Santos Professional Football Club (Pty) Ltd v Igesund and another 2003 (5) SA 73 (C).
+18	 See Maphalle v National Heritage Council and others (J929/2022) [2022] ZALCJHB 99 (30 August 2022) where Acting Justice Snyman commented "[3] It is my view that breach of contract claims seldomly warrant being dealt with on the basis of urgency." I fully agree.
+19	 2008 (1) SA 566 (CC) [also reported at 2008 (1) BCLR 1 (CC) – Ed].
+20	 (2020) 41 ILJ 1085 (GJ) [also reported at [2020] 4 BLLR 401 (GJ); [2020] 2 All SA 261 (GJ); [2020] JOL 46549 (GJ) – Ed].
+21	 Act 22 of 2019.
+22	 (JR315/13) 2013 ZALCJHB 43 (12 March 2013).
+23	  (JA15/2014) [2017] ZALAC 2 (10 January 2017).
+24	 See: Jonker v Wireless Payment CC (2010) 31 ILJ 381 (LC), Harley v Bacarac Trading 39 (Pty) Ltd (2009) 30 ILJ 2085 (LC) [also reported at [2009] 6 BLLR 534 (LC); [2009] JOL 23231 (LC) – Ed].
+25	 Reconfirmed in Baloyi v Public Protector and others 2021 (2) BCLR 101 (CC) [also reported at [2020] JOL 49101 (CC); [2021] 4 BLLR 325 (CC) – Ed].
+26	  2010 (1) BCLR 35 (CC) [also reported at [2009] 12 BLLR 1145 (CC) – Ed].
+27	 See SAFA v Mangope (2013) 34 ILJ 311 (LAC) and SAMWU obo Morwe v Tswaing Local Municipality and others (LC), supra.
+28	 (2016) 37 ILJ 564 (CC) [also reported at 2016 (3) BCLR 311 (CC); [2016] 4 BLLR 335 (CC) – Ed].
+29	 (2014) 35 ILJ 2479 (LC) [also reported at [2014] 6 BLLR 582 (LC); [2014] JOL 31484 (LC) – Ed].
+30	 (2022) 43 ILJ 2335 (LC).
+31	 See Zwakala v Port St John Municipality and others 2000 (21) ILJ 1881 (LC) [also reported at [2000] 1 BLLR 117 (LC); [1999] JOL 5772 (LC) – Ed] and Mangena v Nelson Mandela Metropolitan Municipality and another [2006] 4 All SA 589 (SE) at para [41].
+32	  [2021] 5 BLLR 507 (LC).
+33	 See MEC for Education, Northwest Provincial Government v Gradwell [2012] 8 BLLR 747 (LAC) and Golding v HCI Managerial Services (Pty) Ltd and others [2015] 1 BLLR 91 (LC) para [44].
+34	 Cool Ideas 1186 CC v Hubbard and another 2014 (8) BCLR 869 (CC) [also reported at [2014] JOL 31868 (CC) – Ed].
+35	 See Nxele v National Commissioner: Department of Correctional Services and others (2018) 39 ILJ 1799 (LC); and Jacobs and others v National Commissioner of SAPS and another (J194/21) [2021] ZALCJHB 263 (17 March 2021).
+36	 An exercise of public power.
+37	 See Qonde v Minister of Higher Education, Science and Innovation and others (J874/21) [2021] ZALCJHB 377 (8 October 2021) at paras [12]–[15].
+38	 (J642/2021) [2021] ZALCJHB 150 (24 June 2021).
+39	  [2021] 3 BLLR 270 (LAC).
+40	 [2021] 3 BLLR 270 (LAC).
+41	 (2011) 32 ILJ 1293 (LAC) [also reported at [2011] 4 BLLR 319 (LAC); [2011] JOL 26619 (LAC) – Ed].
+42	 (2012) 33 ILJ 1846 (LAC).
+43	 Compare Phasha with Tswaing.
+
+Appearance:
+Mr S Radebe, Cheadle Thompsn & Haysom Incorporated (At); Mr E van Graan SC, Mr J Hlongwane, De Swardt Myambo Hlahla Attorneys (R)
+
+
+End of Document

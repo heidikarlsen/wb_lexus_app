@@ -1,0 +1,216 @@
+
+
+
+
+Railway Safety Regulator v Kekana [2024] 1 BLLR 40 (LAC)
+Labour Law Reports
+
+Division: Labour Appeal Court, Johannesburg
+Case No: JA126/2021
+Date: 18/10/2023
+Before: P Coppin Judge of Appeal, K Savage and Gqamana Acting Judges of Appeal
+Keywords
+
+
+Appeal in terms of section 166 of the LRA
+Dismissal — Automatically unfair — Procedure — Employee referring dispute concerning unfair dismissal for conciliation, but claiming in Labour Court that dismissal was automatically unfair — Dispute justiciable because both stages concerning same dismissal.
+Dismissal — Automatically unfair — Protected disclosure — Senior manager dismissed for lodging grievance about CEO’s alleged unlawful conduct — Dismissal automatically unfair.
+Remedies — Reinstatement — Employee expressing wish to be reinstated while testifying but only compensation claimed in pleadings — Order of reinstatement not competent.
+Section of the LRA considered
+Section 187(1)(h)
+
+Editor’s Summary
+
+
+While on authorised leave but on standby, the respondent, an executive manager responsible for investigating train accidents on behalf of the appellant, despatched a team to the scene of a collision in the Free State. Although the respondent had told the CEO that he had sent a team, she sent an official from her department, Mr B, who was not a qualified investigator and a service provider to the scene of the accident. The two teams produced a report. A second accident occurred shortly after that in Gauteng, which the respondent attended to with a colleague. Mr B then issued an order prohibiting PRASA from operating and setting up a commission of inquiry, which the respondent alleged was unlawful. After he filed several grievances about the conduct of Mr B, the respondent was suspended, called to a disciplinary inquiry to face a charge of gross dereliction of duty for taking leave without arranging for someone else to act in his position and breaching investigation procedures. After a hearing held in the respondent’s absence because he was ill, a disciplinary tribunal recommended that the respondent be dismissed, but the appeal chair overturned that recommendation and recommended that the matter be heard afresh by somebody else. The CEO rejected that recommendation and confirmed the respondent’s dismissal. The Labour Court found this dismissal automatically unfair and reinstated the  
+[2024] 1 BLLR 40 (LAC) at 41
+respondent. The appellant contended that the court below lacked jurisdiction to entertain a dispute concerning an automatically unfair dismissal, that in any case a claim that the respondent had been dismissed for making a protected disclosure had not been proved and that reinstatement should not have been ordered because the respondent had sought only compensation in his pleadings.
+
+The Court noted that although the respondent had referred a dispute concerning an “ordinary” unfair dismissal for conciliation, he was at liberty to claim at any later stage that the dismissal was automatically unfair. This point had been resolved by at least two judgments of the Constitutional Court, which were fatal to the appellant’s jurisdictional point. What mattered was that the matter adjudicated concerned the same dismissal as that referred for conciliation.
+
+The Court noted further that once a dismissed employee sets up a prima facie case that his dismissal is automatically unfair, the employer must prove that the dismissal was for a fair reason, such as misconduct. The only points taken by the appellant was that the respondent’s complaints did not fall within the definition of “disclosure” in the Protected Disclosures Act 26 of 2000 and that he had failed to establish a link between his statement and the disciplinary action taken against him. Both points had no merit. The respondent had reported that Mr B and the CEO had failed to comply with legal obligations and were likely to conceal this fact. It was clear from the circumstances that the respondent had been dismissed for his complaints about the CEO and Mr B, for which the CEO had decided to retaliate by convening a disciplinary inquiry while the respondent was ill, overriding the appeal chairperson’s recommendation that he be afforded a fresh hearing. The most likely inference was the respondent’s dismissal was in retaliation for his disclosures, in which he believed. His dismissal was, accordingly, automatically unfair.
+
+Turning to relief, the Court noted that the parties had identified compensation as one of the issues the Labour Court was required to decide and the respondent had mentioned a desire to be reinstated only when he gave evidence. That statement was inconsistent with the pleadings, and was inadmissible for that reason. However, the appellant’s conduct was sufficiently egregious to justify maximum compensation. 
+
+The respondent was awarded compensation equal to 24 months’ salary. 
+
+____________________________________________________________________________________
+
+Coppin JA:
+
+The Labour Court (Moshoana J) made an order on 13 October 2021 in respect of a claim for automatic unfair dismissal1 brought by the respondent (Mr Kekana) against the appellant, in the following terms:
+
+ “1. The dismissal of [Mr] Kekana is automatically unfair.
+
+ 
+[2024] 1 BLLR 40 (LAC) at 42
+
+ 2. The deduction of an amount of R7 000 from the salary of [Mr] Kekana is in breach of section 34 (1) of the BCEA.2
+
+ 3. The contractual claim of Kekana is dismissed.
+
+ 4. The [appellant] is ordered to reinstate Kekana effective from the date of his dismissal.
+
+ 5. The [appellant] is ordered to pay Kekana the amount of R7 000. 
+
+ 6. There is no order of costs.”
+
+The payment of the amount of R7 000 was not an issue in the appeal. Thus, effectively, with the leave of this Court, the appeal is only against the order declaring that Mr Kekana’s dismissal by the appellant was automatically unfair and the order for his reinstatement. As an additional point in this appeal, the appellant has challenged the jurisdiction of the court a quo to entertain the claim.
+The appellant contends, essentially, the following: firstly, that the court a quo had no jurisdiction to entertain Mr Kekana’s claim for his alleged automatic unfair dismissal because it was never referred to the Commission for Conciliation, Mediation and Arbitration (“CCMA”) or conciliated (Mr Kekana only referred an ordinary unfair dismissal dispute to that body); secondly, that the claim for automatic unfair dismissal had, in any event not been proven; and thirdly, that the court a quo could not order Mr Kekana’s reinstatement, because he never claimed reinstatement as relief in his pleadings filed in that court and merely sought it in his evidence at the hearing.
+
+Common cause facts
+Mr Kekana was employed by the appellant as Executive Manager: Occurrence Investigations. He arranged to take his annual leave with effect from the beginning of January 2018. Even though he was going to be on leave, because of the nature of his work he was to be on standby, ie he was required to be available in the case of a train accident and to dispatch investigators to such a scene.
+Shortly into his leave and on 4 January 2018 there was a collision at the Geneva level crossing in Kroonstad, in the Free State province, between a PRASA3 train and a truck. Mr Kekana, who was made aware of it, instructed one Eric Nkwinika, one of the principal inspectors in his department to dispatch investigators to the scene. Mr Nkwinika, who was not able to reach the scene in time, instructed a Mr Brian Ngidi to attend at the scene.
+In terms of the appellant’s procedures, investigators had to attend such scenes in pairs. So a typical team would consist of two persons, namely, an investigator and a human factor specialist from another department, i.e. not from the appellant. On this occasion, there was no human factor  
+[2024] 1 BLLR 40 (LAC) at 43
+  specialist to go to the scene with Mr Ngidi so he was accompanied by a security investigator, Mr Selahle. They arrived at the scene at approximately 18:00 hours and were to remain there until the accident scene had been cleared.
+When the acting Chief Executive Officer (“CEO”) of the appellant at the time, Ms Kgare, informed Mr Kekana of the collision, he told her that he was aware of it and that he had already instructed Mr Nkwinika to dispatch officials to the scene on 5 January 2018. Notwithstanding, Ms Kgare also deployed a team, Mr Bruwer, an executive in her office and a Dr Sprong, to the accident scene. Dr Sprong was an independent service provider whose services were procured on that occasion.
+The two teams worked together with Mr Bruwer to prepare a preliminary report of the collision. Ms Kgare wanted the preliminary report to be available on 5 January 2018 due to the demands made on her by the Department of Transport, but Mr Kekana informed her that it could only be available on 8 January 2018. 
+On the evening of 7 January 2018, Mr Kekana met with Ms Kgare and Mr Nkwinika after a report that had been written by Mr Bruwer, who was not a qualified inspector and did not have the necessary experience, had been submitted. Mr Kekana objected to various aspects of the report and it was agreed that those would be corrected.
+On 9 January 2018, Ms Kgare in writing sought a report from Mr Kekana on the circumstances surrounding the deployment of inspectors to the accident scene. Mr Kekana responded and explained the circumstances.
+On 9 January yet another collision occurred involving a PRASA train. This time at Gildenhuys station in Germiston. Mr Kekana and Mr Nkwinika also attended the scene of that collision.
+Mr Bruwer had requested Mr Nkwinika to do certain things that the latter did not feel comfortable with and Mr Kekana instructed Mr Nkwinika not to do anything that was contrary to the appellant’s policies.
+On 10 January 2018, Mr Kekana attended a media briefing session where Mr Bruwer issued a national prohibitive directive to PRASA. A meeting followed with the Director-General of Transport, officials from the Department of Transport, PRASA and the appellant in order to resolve the issue of the directive to PRASA. It was confirmed that it was not the respondent’s department that had issued a directive.
+Significantly, on that same date, Mr Kekana called the Chief Financial Officer (“CFO”) of the appellant, and distance himself from “the gross misconduct” and “non-compliance with chain management and occurrence investigation processes” which had been followed. Mr Kekana further informed the CFO that he did not agree with the terms of reference and the board of enquiry submission memorandum that had been drafted by Mr Bruwer. He indicated that he did not want to be part of that process as it had been a violation of policies and procedures. According to Mr Kekana, the said terms of reference should have been drafted by the Department in line with the appellant’s policies and procedures. 
+[2024] 1 BLLR 40 (LAC) at 44
+Neither Mr Kekana nor his Department were invited to participate in the process leading up to the Exco meeting held in February 2018 when a new company structure had been presented to the executives. Aggrieved by this, and by the actions of Mr Bruwer in relation to his Department, Mr Kekana lodged his first grievance by letter dated 28 February 2018.
+In the grievance, Mr Kekana complained, inter alia, of Mr Bruwer’s “improper interference” in his Department’s operations and of “serious breaches” by Mr Bruwer of the Public Finance Management Act4 (“PFMA”), the National Railway Safety Regulator Act5 and occurrence investigation procedures. Mr Kekana complained, for example, that Mr Bruwer had attended the train collision scene in Kroonstad without legal authorisation in terms of the National Railway Safety Regulator Act and had taken with him an unauthorised person, namely, Dr Sprong.
+Mr Kekana alleged that his first grievance letter had been ignored, that Mr Bruwer continued to undermine his authority and that this prompted him to write his second grievance letter on 15 March 2018. The letter was addressed to Ms Kgare. In this letter, Mr Kekana complains about the lack of a response to his correspondence and alleged that the situation was worsening.
+Mr Kekana further informed Ms Kgare that he had escalated his grievance to the Chairperson of the Board of the Safety Committee. He also complained about Mr Bruwer’s unauthorised interference in his Department and the reputational damage that it could cause the appellant and alleged that the work environment had become toxic and that Mr Bruwer’s conduct had resulted in a loss of morale amongst his staff. He further complained that he was being marginalised and that he was left out of important meetings and discussions.
+According to Mr Kekana, despite an assurance from Ms Kgare that she would take up with the board the issues that he raised, and despite a letter from the Chairperson of the Board of the Safety Committee to other members of the board, to the effect that Mr Kekana may not be victimised, the victimisation continued after he had disclosed private information and had lodged his grievance, and ultimately, resulted in his suspension on 27 March 2018 and dismissal subsequently.
+After his suspension on 27 March 2018, Mr Kekana was charged by the appellant with gross dereliction of his duties relating, firstly, to the leave that he had taken. It was alleged that he took such leave without arranging for someone to act in his position. It was also alleged that he had breached investigation procedures and that, as the executive manager of his Department, he had failed to exercise his supervisory duty to ensure that the principal investigator complied and timely arranged for a stand-in. He was further charged with a gross dereliction of duty, it being alleged, that  
+[2024] 1 BLLR 40 (LAC) at 45
+  he failed to ensure that an investigation team responded timely and appropriately to the train accident scene in Kroonstad on 4 January and that he failed to investigate why such a response had not been timely and appropriate. Mr Kekana was further charged for an alleged gross dereliction of duty relating to an incident on 6 February 2018 at the Gautrain depot.
+Mr Kekana was found guilty of the charges in his absence and his dismissal was recommended. He appealed the decision but was never informed of the outcome of the appeal itself. He was merely informed by Ms Kgare that she had considered the ruling of the appeal chairperson and had formed the view that there was no prospect of coming to a different decision than that was arrived at by the chairperson of the disciplinary hearing. Mr Kekana was dismissed on 12 February 2019.
+It is common cause that the chairperson of the appeal tribunal had overturned the findings of the chairperson of the initial disciplinary hearing and had recommended that a hearing be held afresh before someone else and that Ms Kgare had rejected that recommendation and had confirmed Mr Kekana’s dismissal.
+Following this dismissal, Mr Kekana referred an unfair dismissal dispute to the CCMA which was subsequently conciliated and was to be referred to arbitration. Instead, Mr Kekana instituted a claim in the Labour Court alleging that his dismissal by the appellant was an automatically unfair dismissal as contemplated in section 187(1)(h) of the Labour Relations Act (“LRA”) as it was in breach of section 3 of the Protected Disclosures Act (“PDA”).
+
+The jurisdiction issue
+Did the court a quo have jurisdiction to entertain Mr Kekana’s claim for automatic unfair dismissal despite the fact that that specific claim was not referred to the CCMA or conciliated? The appellant contends that the court a quo did not have such jurisdiction, but Mr Kekana’s counsel argued that it did.
+It was submitted on behalf of Mr Kekana that the issue had already been considered and decided by the Constitutional Court in Association of Mineworkers and Construction Union and others v Ngululu Bulk Carriers (Pty) Ltd (in liquidation) and others6 (“Ngululu”) and by this Court in Feni v Commission for Conciliation, Mediation and Arbitration and others7 (“Feni”). According to this argument, in Ngululu, the Constitutional Court essentially held that “an automatic unfair dismissal dispute is not a dispute separate from an unfair dismissal dispute that was referred to conciliation”, because what had been referred to conciliation was the unfairness of the dismissal, regardless of whether the unfairness concerned was  
+[2024] 1 BLLR 40 (LAC) at 46
+  automatic or otherwise, and that it was not the reason for the dismissal which must be referred to conciliation, but the fairness of the dismissal.8
+It was further argued on behalf of Mr Kekana that in Feni9 this Court, which essentially dealt there with the defences of lis pendens and res judicata, had confirmed being bound by what was held by the Constitutional Court in Ngululu. Reference was also made to another decision of the Constitutional Court in the matter of September and others v CMI Business Enterprise CC10 (“September”), which is to the same effect as its decision in Ngululu, and which essentially follows this Court’s decision in National Union of Metalworkers of South Africa and others v Driveline11 (“Driveline”). 
+In Driveline, this Court held that: 
+
+“. . . it matters not for the purposes of jurisdiction whether at the time of the conciliation of a dismissal dispute, the reason alleged for the dismissal was operational requirements or an automatically unfair reason. The dispute is about the fairness of the dismissal. Therefore, provided the alleged reason is one referred to in s 191(5)(b), the Labour Court will have jurisdiction to adjudicate the real dispute between the parties without any further statutory conciliation having to be undertaken as long as it is the same dismissal.”12
+
+The appellant’s argument under this heading was basically that the reason for the dismissal was essential and that the unfair dismissal dispute that was referred to the CCMA was distinct from the automatically unfair dismissal dispute that was litigated in the court a quo and that the latter dispute, therefore, also had to be referred and conciliated in the CCMA before the court a quo could have had jurisdiction to entertain it.
+The decisions of the Constitutional Court and this Court referred to above are fatal to the appellant’s argument under this heading. This Court is bound by them. In Mr Kekana’s case, there are not two dismissals, but a single dismissal and that is what Mr Kekana referred to the CCMA. The reason given for the dismissal was not what was conciliated, but the fairness of that dismissal. The parties were not bound by the categorisation of the dispute as per the certificate of outcome.13 Hence, the answer is that the Labour Court did have jurisdiction to entertain Mr Kekana’s automatically unfair dismissal dispute because the very same dismissal had been referred to and conciliated in the CCMA.
+
+Proof of the claim
+The question that arises under this heading is whether the claim made by Mr Kekana was proven. The central issue that had to be determined by the court a quo was whether Mr Kekana’s dismissal was a contravention of  
+[2024] 1 BLLR 40 (LAC) at 47
+  the PDA by the appellant on account of his having made a protected disclosure as defined in the PDA, and thus amounted to an automatic unfair dismissal as is contemplated in section 187(1)(h) of the LRA.
+Section 3 of the PDA provides that no employee may be subjected to any occupational detriment by his (or her) employer, on account, or partly on account, of his (or her) having made a protected disclosure. It is clear from that section that there must be a link between the occupational detriment and the protected disclosure. 
+The term, “occupational detriment” is defined in section 1 of the PDA as including, being subjected to any disciplinary action, being dismissed, or being otherwise adversely affected in respect of his (or her) employment (including employment opportunities and work security).
+The term “disclosure” is also defined in section 1, and more particularly as follows: 
+
+“. . . any disclosure of information regarding any conduct of an employer, or of an employee or of a worker of that employer, made by any employee or worker who has reason to believe that the information concerned shows or tends to show one or more of the following: 
+
+ (a) that a criminal offence has been committed, is been committed or is likely to be committed; 
+
+ (b) that the person has failed, is failing, or is likely to fail to comply with any legal obligation to which that person is subject; 
+
+ (c) that a miscarriage of justice has occurred, is occurring, or is likely to occur; 
+
+ (d) that the health or safety of an individual has been, is being, or is likely to be endangered; 
+
+ (e) that the environment has been, is being or is likely to be damaged; 
+
+ (f) unfair discrimination as contemplated in Chapter II of the Employment Equity Act, 1998 (Act 55 of 1998) or the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000); or 
+
+ (g) that any matter referred to in paragraphs (a) to (f) has been, is being, or is likely to be deliberately concealed.”
+
+In terms of section 1 of the PDA “a protected disclosure” includes a disclosure made to an employer in accordance with section 6 of the PDA. Section 6(1) provides: 
+
+“Any disclosure made in good faith – 
+
+ (a) and substantially in accordance with any procedure authorised by the employee’s or worker’s employer for reporting or otherwise remedying the impropriety concerned and the employee or worker has been made aware of the procedure as required in terms of subsection (2) (a) (ii); or 
+
+ (b) to the employer of the employee or worker, where there is no procedure as contemplated in paragraph (a), 
+
+  is a protected disclosure.”
+
+The word “impropriety” is also defined in section 1 of the PDA and according to its definition it means conduct which falls within the categories referred to in paragraphs (a) to (g) of the definition of the term “disclosure”. 
+[2024] 1 BLLR 40 (LAC) at 48
+Section 4 of the PDA provides for the remedies for an employee who was or is, subjected to an occupational detriment for having made a protected disclosure. The section provides, inter alia, that such an employee may approach the Labour Court for relief and that, inter alia, any dismissal in breach of section 3 of the PDA is deemed to be an automatically unfair dismissal as contemplated in section 187 of the LRA.
+It is accepted that the interpretation of the provisions of the PDA must promote a culture of openness rather than one of silence and that it must be more consistent, not only with the aims and objects of the PDA itself but with the values of openness and transparency enshrined in the Constitution.14
+It is by now trite that an employee must establish a prima facie case that he or she has made a protected disclosure and that there is a causal link between his or her dismissal and that protected disclosure, and in the event of that being established, and in order to escape liability, the employer would have to show that the employee had been dismissed for a fair reason (such as misconduct).15
+The court a quo essentially found that the true reason for Mr Kekana’s dismissal was hidden by the appellant and that while it was made to appear as if he had been dismissed for misconduct relating to his handling of the train collisions, the true reason for his dismissal was because he had made a protected disclosure in terms of the PDA in the grievances that he had lodged.
+It held that Mr Kekana was obliged to ensure compliance with the PFMA; that Ms Kgare complied with normal tender procedures in the engagement of Dr Sprong; and that Mr Kekana was entitled to hold a reasonable belief that Ms Kgare was accordingly failing in her legal obligations, but, that, in any event, it was not the duty of the court a quo “to find truth in the allegations” made by Mr Kekana.
+The court a quo further found that “there is no dispute that [Mr] Bruwer was dispatched as a resource without the knowledge of [Mr] Kekana” and that it became common cause that Mr Bruwer was, at the time, the executive in the office of Ms Kgare and was not appointed as an investigator; that Ms Kgare could not legally invoke the statutory powers contemplated in section 38(8) of the National Railway Safety Regulator Act, which belonged to the appellant, ie the regulator, as an entity, and that Mr Kekana was “entitled to hold a reasonable belief that Ms Kgare was failing to comply with legal obligations when she purported to exercise those statutory powers”. 
+[2024] 1 BLLR 40 (LAC) at 49
+The court a quo concluded, on that basis that the first leg of the enquiry as held in TSB Sugar RSA Ltd (now RCL Food Sugar Ltd) v Dorey16 was thus satisfied, that Mr Kekana had indeed made a disclosure to the CFO, who was a board member.
+The court a quo turned next to enquiring whether the “disclosure” of Mr Kekana was “protected” as contemplated in the PDA. It concluded that it was because it satisfied the requirements of sections 6 and 9 of that Act.
+Turning to the question of good faith – the court a quo effectively rejected the contention of the appellant that the disclosures were not made in good faith. It found that Mr Kekana did not make the disclosures in an attempt to shield himself from being disciplined and held that, at the time he made the disclosures, “he had no clue that [Ms] Kgare was toying with an idea to charge him for misconduct”; and that, as far as Mr Kekana was concerned, he had dispatched investigators to the scene of the accident.
+The court a quo found that, on her own version, Ms Kgare had enough reason to confront Mr Kekana if she was not satisfied with the manner in which he had dealt with the investigation of the train accidents, but that she did not do so until much later, after Mr Kekana had made the disclosures. The court a quo accordingly concluded: “[i]t is improbable that [Mr] Kekana made the protected disclosures in order to divert the non-existing charges. [Mr] Kekana had no inkling that he misconducted himself and [was] potentially facing chastisement.” The court a quo further found that Mr Kekana’s honesty and transparency in making the disclosures “demonstrate[d] his bona fides”.
+Regarding the causal link between Mr Kekana’s dismissal and his disclosures – the court a quo found that Mr Kekana had discharged the burden of establishing the causal link. The timing of the dismissal was considered. Seven days after Mr Kekana had brought the disclosures to the attention of the board Ms Kgare suddenly remembered that Mr Kekana had misconducted himself 3 months earlier in connection with the investigation of the train accident of 4 January 2018 that warranted disciplinary action against him.
+The court a quo held that the reasons for finding Mr Kekana guilty of misconduct “were truly invented” and that this was demonstrated by the fact that Mr Kekana was found guilty of the misconduct in his absence, and by Ms Kgare’s rejection (based on her own interpretation of the disciplinary code) of the independent chairperson’s recommendation, made in the appeal lodged by Mr Kekana, that a fresh disciplinary hearing be held and by her confirmation of Mr Kekana’s dismissal.
+The court a quo effectively found that Ms Kgare had a motive for hiding the true reason for Mr Kekana’s dismissal and that reason was the disclosures that Mr Kekana made. Her refusal to accept the recommendation  
+[2024] 1 BLLR 40 (LAC) at 50
+  made in respect of Mr Kekana’s appeal was part of her attempt to hide the true reason for his dismissal.
+Applying the test in SA Chemical Workers Union and others v Afrox Ltd,17 the court a quo found that “the most likely cause of the dismissal” of Mr Kekana was the protected disclosures he made, particularly also taking into account that Ms Kgare, “the alleged wrongdoer”, is the one who effected the dismissal. The court a quo went on to conclude that the dismissal in those circumstances was automatically unfair as contemplated in section 187(1)(h) of the LRA.
+The only arguments advanced on appeal on behalf of the appellant regarding this aspect of the matter was, firstly, that what Mr Kekana is alleged to have disclosed does not fall within any of the paragraphs of the definition of “disclosure” in section 1 of the PDA, and secondly, that Mr Kekana could not establish a link between the disciplinary action taken against him and the alleged disclosures.
+Both those arguments lack merit. Mr Kekana reported the (alleged) failure of Ms Kgare and Mr Bruwer to comply with legal obligations which were binding on them and believed that such failure(s) were likely to be deliberately concealed. This would be covered at least by paragraphs (b) and (g) of the definition of “disclosure”. It further appears that at the hearing in the court a quo, the appellant’s representative conceded that the definitional requirements of a “disclosure” had been met.
+In respect of the second argument, ie pertaining to causation – the court a quo’s reasoning in that regard cannot be faulted. It is apparent that Mr Kekana was charged with misconduct in response to his insistence that action be taken emanating from his grievance and his escalation of that grievance to the Chairperson of the Board of the Safety Committee. His complaints pertinently related to the conduct of Ms Kgare and Mr Bruwer. The timing of the charges is also reasonably suspicious and Mr Kekana was not dealt with fairly at the disciplinary hearing. It proceeded in his absence (he was ill and had been booked off by his doctor) and he was found guilty of the misconduct he was charged with without having been given a fair opportunity to defend himself. In addition, even after he appealed internally, Ms Kgare (whom he accused of wrongdoing) denied him a fresh disciplinary hearing as recommended by an independent chairperson. All of this strengthens the inference that the alleged misconduct was not the true cause for his dismissal, but that his “disclosure” was which implicated Ms Kgare in wrongdoing. The most likely inference is that Mr Kekana’s dismissal, which Ms Kgare confirmed and ordained, was retaliatory. Mr Kekana’s disclosures did not have to be objectively true – it is enough that he genuinely believed that they were true. 
+[2024] 1 BLLR 40 (LAC) at 51
+
+The sanction
+The court a quo ordered Mr Kekana’s reinstatement despite the fact that he did not seek reinstatement in his pleadings. In his statement of claim, he only sought compensation of 24 months’ salary, but then he merely indicated in the course of his giving of evidence that he wanted reinstatement. His pleadings were never amended accordingly.
+The court a quo reasoned that section 193(2) of the LRA obliged it to order Mr Kekana’s reinstatement upon a finding that his dismissal was automatically substantively unfair, and that since there was “not an iota of evidence” from any of the appellant’s witnesses “proving the existence of any of the exceptions set out in paragraphs (b) – (d)” of section 193 of the LRA.
+While the respondent submitted that this reasoning was correct, the appellant argued that it was not and that, at best, the court a quo should have awarded the maximum amount of compensation, being the equivalent of 24 months’ salary.18
+It is apparent that, in coming to its conclusion to order reinstatement, the court a quo overlooked and did not consider the pleadings and the pre-trial minute, in terms of which the issues were defined by the parties, and which bound them. In the pre-trial minute, the parties identified compensation as one of the issues that the Labour Court was to decide. No mention of reinstatement is made.
+It is trite that parties are bound by their pleadings and by the pre-trial minute they sign, and that neither the case pleaded, nor the defence, can be expanded or changed in terms of the pre-trial minute.19 While accepting those principles, Mr Kekana on appeal, relied on this Court’s decision in Trellicor (Pty) Ltd t/a Trellidor v National Union of Metalworkers of SA on behalf of Ndwalane and others,20 which was applied in Sibiya v SA Police Service,21 where this Court dealt with the situation where parties have widened the issues to include those not pleaded. Mr Kekana’s reliance on that decision in the present matter was misplaced, because this was not such a situation, ie where both parties widened the issues to include reinstatement. Mr Kekana’s mention in his evidence that he wanted to be reinstated was not consistent with his pleadings and was inadmissible for that reason. In any event, it was not canvassed or dealt with by the appellant, and one most certainly cannot conclude that there was a full enquiry in respect of the issue of reinstatement.22
+In such an instance, the parties are to be kept strictly to their pleadings and it was not open to the court a quo in those circumstances to ignore the  
+[2024] 1 BLLR 40 (LAC) at 52
+  pleadings and to order reinstatement which was not sought in the pleadings. It was bound to order compensation as sought by Mr Kekana in his pleaded case.
+The circumstances of this case are sufficiently egregious to justify the maximum amount of compensation, namely, the equivalent of 24 months’ salary. The appellant’s counsel has not argued the contrary.
+To summarise – even though the court a quo, which had jurisdiction, cannot be faulted in respect of its finding on the merits of Mr Kekana’s claim, its order of reinstatement cannot stand.
+Taking into account the law, fairness and all of the facts and circumstances of this case, a costs order is not appropriate.
+In the result, the following is ordered:
+
+Order
+
+“The Regulator is ordered to pay Mr Kekana compensation in an amount being the equivalent of 24 months’ remuneration, calculated at the rate of Mr Kekana’s remuneration on the date of his dismissal on 12 February 2019.”
+
+There is no costs order in respect of the appeal.
+
+(Savage AJA and Gqamana AJA concurred in the judgment of Coppin JA.)
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  In terms of s 187(1)(h) of the Labour Relations Act 66 of 1995, as amended, read with the Protected Disclosures Act 26 of 2000 (“PDA”).
+2	  Basic Conditions of Employment Act 75 of 1997.
+3	  Acronym for Passenger Rail Agency of South Africa.
+4	  Act 1 of 1999.
+5	  Act 16 of 2002.
+6	  (2020) 41 ILJ 1837 (CC) [also reported at [2020] 10 BLLR 959 (CC) – Ed].
+7	  (2020) 41 ILJ 1899 (LAC) [also reported at [2020] 10 BLLR 1001 (LAC) – Ed].
+8	  See Ngululu at para [21].
+9	  See Feni at para [24].
+10	  (2018) 39 ILJ 987 (CC) at para [50] [also reported at [2018] 5 BLLR 431 (CC) – Ed].
+11	  2000 (4) SA 645 (LAC) [also reported at [1999] JOL 5686 (LAC) – Ed].
+12	  See Driveline at para [64].
+13	  See September at para [50].
+14	  See, inter alia, TSB Sugar RSA Ltd (now RCL Food Sugar Ltd) v Dorey (2019) 40 ILJ 1224 (LAC) (“Dorey”) at para [95] and City of Tshwane Metropolitan Municipality v Engineering Council of SA and another (2010) 31 ILJ 322 (SCA) para [42] [also reported at [2010] 3 BLLR 229 (SCA) – Ed].
+15	  See, inter alia, Dorey. 
+16	 Dorey supra fn 15.
+17	  (1999) 20 ILJ 1718 (LAC) [also reported at [1999] 10 BLLR 1005 (LAC) – Ed].
+18	  See: s 194(3) of the LRA.
+19	 SA Breweries (Pty) Ltd v Louw (2018) 39 ILJ 189 (LAC) at para [8] [also reported at [2018] 1 BLLR 26 (LAC) – Ed].
+20	  (2022) 43 ILJ 1331 (LAC) (“Trellicor”) [also reported at [2022] 5 BLLR 442 (LAC) – Ed.]
+21	  (2022) 43 ILJ 1805 (LAC) [also reported at [2022] 9 BLLR 822 (LAC) – Ed].
+22	  See Trellicor at paras [38]–[39].
+
+For the appellant:
+
+WR Mokhare SC instructed by Tshiqi Zebediela Attorneys
+For the respondent:
+
+C Higgs of Higgs Attorneys
+
+
+End of Document

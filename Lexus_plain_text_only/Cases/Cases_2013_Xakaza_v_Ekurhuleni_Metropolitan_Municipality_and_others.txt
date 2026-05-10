@@ -1,0 +1,192 @@
+
+
+
+
+Xakaza v Ekurhuleni Metropolitan Municipality and others [2013] 7 BLLR 731 (LC)
+Labour Law Reports
+
+Division: Labour Court of South Africa, Johannesburg
+Case No: JS281/11
+Date: 21/02/2013
+Before: Boqwana Acting Judge
+Keywords
+
+
+Application in terms of section 158)1(a) of the LRA
+Whistle blowers — Protection of — Municipal town planner disciplined for refusing to register scheme — Disciplinary action not constituting occupational detriment as employee aware that his allegations about scheme were factually and legally incorrect — Interdict refused.
+Section of the LRA considered:
+Section 186(2)(d)
+
+Editor’s Summary
+
+
+The applicant, then employed by the respondent as a town planner, was subjected to a disciplinary hearing for refusing to comply with instructions to register a land deal. This had led to an action by the developer concerned for damages of about R67m. During an investigation into the matter, various other acts of alleged misconduct perpetrated by the applicant were uncovered. These were added to the charges in the disciplinary hearing. The applicant contended that the disciplinary hearing constituted an “occupational detriment” as contemplated by the Protected Disclosures Act 26 of 2000 and sought a final order to that effect. The respondent denied that the applicant had made a protected disclosure and submitted that certain views expressed by him to the forensic auditors were simply wrong.
+
+Having observed that it was “bizarre” that the parties had proceeded with the application while the outcome of the disciplinary hearing was still pending, the Court held that, despite disputes of fact on the papers, the central issue concerned the interpretation of the applicable land ordinance. That was a legal issue. To obtain protection under the PDA, the applicant had to prove that he was an employee, that he had information in his possession which tended to disclose criminal or other misconduct, that the disclosure of that information was in good faith, that he had used the correct procedure in making the disclosure, and that there was a causal link between the disclosure and the detriment. The only issue was whether the applicant had disclosed any information warranting protection. The Court found it unclear what information had been disclosed by the applicant, or to whom. It was insufficient to simply annex the investigator’s report, because the alleged disclosures had preceded its release. In any event, most of the information referred to by the applicant was known to the respondent and therefore did not amount to a disclosure. Furthermore, the applicant had failed to prove that any of his disclosures identified criminal acts or improprieties, or that he had reason to believe that the allegations he had made were true. On the contrary, the applicant had been advised several times that his view were factually and legally incorrect. 
+
+The application was dismissed with costs. 
+
+ 
+[2013] 7 BLLR 731 (LC) at 732
+
+____________________________________________________________________________________
+
+Boqwana AJ:
+
+Introduction 
+The applicant seeks a final order declaring that he suffered occupational detriment at the hands of the first respondent in terms of the Protected Disclosures Act,1 (“the PDA”). 
+He alleges that he was subjected to various unfair labour practices and disciplinary action as a result of certain disclosures that he made during the course of his duties with the first respondent.
+The applicant had sought to interdict the first respondent from instituting disciplinary proceedings against him pending finalisation of this application. That application was struck from the roll for lack of urgency per Van Niekerk J’s order of 17 August 2011. 
+At the hearing of this application, I was advised by the parties that the disciplinary hearing instituted by the first respondent against the applicant had been finalised and the parties were awaiting the outcome. That hearing was apparently held before an independent chairperson, who has been cited as a second respondent in these proceedings. The second respondent has filed a notice that she will abide by the decision of this Court. It seemed bizarre to me that the parties would still require this application to proceed in light of a pending outcome of the disciplinary inquiry. Nevertheless, they chose to do so. 
+Before the hearing of this application, the applicant brought an application for condonation for the late filing of the replying affidavit.
+Having considered submissions from both parties, I allowed the replying affidavit striking off certain paragraphs which I considered prejudicial to the applicant. My reasons for doing so are on record and I will, therefore, not repeat those in this judgment.
+The first respondent has raised two points in limine including the fact that this application contains wide ranging disputes of fact. I will deal with those later on in the judgment. 
+
+Facts 
+The applicant had been employed by the first respondent as an area development planner since 1 July 2006.
+During 2008, the first respondent commissioned an independent audit company, PASCO Risk Management (Pty) Ltd (“PASCO”) to investigate various irregularities concerning the alienation of land that previously belonged to the first respondent.
+In 2004, the first respondent had concluded a land-swap deal with Hometalk Developments (Pty) Ltd (“the developer”). Concerns were raised that  
+[2013] 7 BLLR 731 (LC) at 733
+  the land offered by the first respondent was of greater value than what was offered by the developer and that there was corruption involved. 
+PASCO prepared various reports and found evidence of possible involvement by councillors of the first respondent. 
+The applicant alleges that in the execution of his duties as the area development planner he became aware of certain irregularities pertaining to the establishment of a township, Meyersdal Nature Estate (“MNE”) Extensions 7 to 12. 
+According to the applicant the PASCO investigation report revealed amongst others a prima facie case of corruption, fraud, circumvention of the law and conflicts of interest committed by the officials of the first respondent in the handling of the MNE Extensions 7–12 disposal and development of land. 
+The applicant states that he made disclosures of impropriety during the interview and by means of an affidavit allegedly attached to the investigation report to PASCO. He contends that he disclosed that the township establishment application for MNE Extension 7 was not ready for the issuing of the section 101 certificate. 
+Section 101 of the Town Planning and Townships Ordinance2 entitles the Registrar of Deeds3 (“the Registrar”) to endorse or register plans and diagrams with the relative title deeds lodged by an applicant provided that he shall not accept such documents for endorsement or registration until such time as he is advised by the authorised local authority4 that an applicant has complied with such conditions as the local authority may require to be fulfilled. 
+That certificate according to the applicant was issued with the Registrar having been misled that the applications were compliant. 
+The applicant also alleges that a section 82 certificate5 was also issued contrary to the provisions of the Ordinance. He states that the process followed towards the conclusion of the agreement with the developer was not recognised by the Ordinance and the issuance of the section 82 certificate was misleading to the Registrar. 
+Section 82 prohibits registration of certain deeds of transfer by the Registrar and in particular section 82(1)(b)(ii)(cc) requires a local authority to certify that it will within 3 months of the date of the certificate be able to provide the erf with such services as it may deem necessary. 
+The applicant alleges that he disclosed that Councillor Leon Von Ronge (“Von Ronge”) arranged a meeting upon which the section 101 certificate was to be issued regardless of the fact that the township establishment application for MNE 7–12 did not comply with provisions related to the issuance of the section 101 certificate.  
+[2013] 7 BLLR 731 (LC) at 734
+According to the applicant, Von Ronge proposed (in the presence of other officials of the first respondent) that the section 101 certificate be issued subject to compliance with conditions of Gauteng Department Agriculture Conservation and Environment (“GDACE”) and the provision of access over erf 32 MNE Extension 4. This was to be effected by means of an agreement. He submits that this process was not recognised by the Ordinance and thus irregular. 
+The applicant also alleges that even despite PASCO recommendations, the first respondent’s officials went ahead and concluded an agreement with the developer. 
+The applicant raised an issue about a discrepancy between what was advertised and what was applied for. He claims that he reiterated his submission at the meeting of October 2009. 
+The applicant argues that he suffered various occupational detriments as a result of the disclosures made to PASCO. He alleges that since April 2009, various actions were taken against him which were:
+In May 2009 and approximately three days after he refused to follow instructions which he deemed to be unlawful, he was served with a notice transferring him to another customer care centre within the first respondent. The reasons given were that the transfer was operational and intended to boost customer service. The decision was challenged by SAMWU and the intention to transfer him was abandoned by the first respondent.
+In September 2009, Peta Mashinini (“Mashinini”) issued an instruction that files be removed from the administration of the applicant. The decision was challenged by SAMWU and files remained with him. 
+On 20 October 2009, the applicant was subjected to a disciplinary hearing for alleged insubordination in respect of MNE Extension 7 to 12 but later abandoned;
+On 5 February 2010, the applicant was suspended. 
+In April 2010, he was served with disciplinary charges and subjected to disciplinary action based on alleged investigation between August and September 2009. 
+On 6 and 7 May 2010, the applicant was denied access to his office.
+On 10 May 2010, the applicant was served with a letter extending his suspension. Once again the applicant submits that the court is not called upon to pronounce on the decision to extend his suspension. 
+On 11 February 2010, the applicant was refused participation in certain processes related to promotion.
+On 07 February 2011, the first respondent made a presentation that it sought to add to the charges. He was yet to be served with those additional charges.
+The first respondent’s response to these allegations is that the MNE report that the applicant seems to be relying on is hearsay or irrelevant for the  
+[2013] 7 BLLR 731 (LC) at 735
+  purposes of the applicant’s case unless he could demonstrate that the report contained information supplied by him to PASCO. 
+According to the first respondent, subsequent to PASCO’s report it refused to issue the section 82 certificate. The developer, however, lodged a court application in the North Gauteng High Court compelling it to do so. A counter-application was lodged by the first respondent for an order setting aside the land swap deal and taking re-transfer of the land. The High Court ordered the developers to institute proceedings before a Services Appeal Board. The Special Appeal Board made it clear that sections 82 and 101 Certificate had to be issued. The first respondent and the developer accordingly concluded an agreement, which amongst others provided for the issuance of the section 82 certificate and the first respondent’s right to seek a greater purchase price. This agreement was made an order of the Appeal Board. The first respondent became compelled to issue the section 82 certificate. 
+The person that was responsible to process the applications for the section 82 certificates was the applicant. The applicant refused to comply with the instructions to facilitate these certificates. He did everything in his power to prevent the issuance of the section 82 certificate. 
+The consequence of that was that the section 82 certificates were not issued. Frustrated by this, the developer instituted legal action against the first respondent to the tune of over 67 million. 
+The applicant still refused to co-operate. The first respondent attempted to transfer him to another section within the first respondent but when it failed to do so it suspended him and instituted legal action against him.
+Whilst the applicant was absent from office, new information ensued that he had committed various other acts of misconduct. These were allegations of moonlighting as a town planner without permission, failure to disclose his relationship with a potential contractor with the first respondent, purporting to act as an Area Manager when he was not, causing advertisements to be placed in which he described himself as an Area Manager, manipulating certain town-planning documents submitted by developers resulting in unnecessary delays in the processing of township developments. 
+The first respondent preferred additional charges against the applicant in relation to these additional allegations. 
+Other important factors raised by the first respondent are that on 18 March 2009, the GDACE addressed a letter to the applicant wherein it stated that the Department could not prescribe to the first respondent on the course of action that it should to take. However, it warned that cognisance must be taken to the fact that once the relevant certificates were issued prior to full compliance with the ROD, there was a possibility that the conditions contained in the ROD may never be implemented/enforceable against the holder of the authorisation.
+On 25 March 2009, Deon Oosthuizen (“Oosthuizen”) who had been appointed by the GDACE as Environment Control Officer addressed a  
+[2013] 7 BLLR 731 (LC) at 736
+  letter to Afropulse in which he stated that all specifications and requirements of the Environmental Management Plan and ROD had been complied with and that he was not aware of any non-compliances (sic) or any formal written complaints lodged by GDACE to himself or the developer with regards to this development.
+The first respondent also referred to a compliance monitoring report which stated that all conditions stipulated in the ROD were fully or partially complied with and some conditions were ongoing and required ongoing monitoring.
+In regard to the allegation by the applicant over the non-registration of the right of way over servitude erf 32, the first respondent refers to a copy of a Notarial Deed of Servitude which confirmed that the erf 32 right of way servitude was registered.
+The first respondent denies that the Registrar was misled and states that in any event, pre-establishment conditions are for the benefit of the local authority. 
+The first respondent further denies that it did not comply with section 82. It submits that section 82 is an injunction to the Registrar. In terms of paragraph (b)(ii), the local authority must provide the Registrar of Deeds with certain information before the Registrar may register a deed of transfer by which ownership in a township is transferred once the township is proclaimed an approved township in terms of section 79 of the ordinance. The object of section 82 (for present purposes) is to ensure that members of the public are not deceived into purchasing erven in a township only to discover that the local authority cannot provide their properties with municipality services.
+The first respondent contends that this issue was dealt with in the legal opinion and a practical solution offered on how the issue could be overcome, (which was that there was servitude of right of way to the property which could give access to Extension 7).
+The first respondent contends that MNE Extension 7 and MNE Extensions 7–12 were the same piece. The applicant knew about this and in fact the report reveals that he advised PASCO as such. MNE Extension 7 was further divided into six parts. The first respondent contends that section 99 of the Ordinance provides that once a township establishment has been approved, the developer may within four months of approval apply for the further division of the township in two or more townships. Accordingly, a division of MNE into six townships was not irregular and that the developers paid for the division. 
+The first respondent further contends that whilst it took cognisance of the applicant’s view at various stages, his view was found to be incorrect. 
+The first respondent alleges further that the applicant has not established all the requirements of the PDA in that he has not clearly demonstrated which disclosures were made to PASCO.  
+[2013] 7 BLLR 731 (LC) at 737
+Insofar as those made to the first respondent, those constituted a mere expression of opinion and an indication that he refused to comply with instructions contrary to his opinion. 
+Further, he has not been able to demonstrate the applicability of the PDA because he failed to demonstrate that he had reason to believe that the information contained in the disclosure was substantially true. The employee’s disclosure ought not to be protected purely based on the employee’s subjective belief that the information showed impropriety. The belief must be reasonable and it can only be reasonable if there was a factual basis for the belief that the information revealed impropriety which according to the first respondent the applicant did not do.
+The first respondent alleges that the applicants view on the issuance of the sections 101 and 82 certificates was incorrect and that the applicant’s conduct was motivated by malice. 
+
+Evaluation 
+The first point in limine raised by the first respondent is that the matter was not referred to the bargaining council having jurisdiction for conciliation as contemplated by section 191(1) of the Labour Relations Act6 (“the LRA”). 
+Having perused the papers, I am satisfied that the matter was properly conciliated and thereby in compliance with the provisions of section 191 of the LRA relating to referral of disputes for conciliation. The certificate attached to the replying affidavit records that the matter relates to section 186(2)(d)7. That section deals with “an occupational detriment, other than dismissal, in contravention of the Protected Disclosures Act, 2000 (Act 26 of 2000), on account of the employee having made a protected disclosure defined in that Act.”
+Accordingly, the court has jurisdiction to determine this application. 
+On the dispute of fact point the first respondent submits that the papers before this Court contain wide ranging disputes of fact, all which should have been foreseen. The first respondent argues that motion proceedings are generally not designed to determine probabilities. 
+It is clear that there are disputes of fact in this case and motion proceedings should not have been used for this kind of case in my view. The applicant has nevertheless chosen this route and expects this Court to make a final conclusion in motion proceedings. 
+In a decision of the National Director of Public Prosecutions v Zuma,8 Harms DP said the following: 
+
+“Motion proceedings, unless concerned with interim relief, are all about the resolution of legal issues based on common cause facts. Unless the circumstances are special they cannot be used to resolve factual issues because they are not designed to determine probabilities. It is well established under the 
+
+ 
+[2013] 7 BLLR 731 (LC) at 738
+
+Plascon-Evans rule that where in motion proceedings disputes of fact arise in the affidavits, a final order can be granted only if the facts averred in the applicant’s (Mr Zuma’s) affidavits, which have been admitted by the respondent (NDPP), together with the facts alleged by the latter, justifies such order. It may be different if the respondent’s version consists of bald or uncreditworthy denials, raises fictitious disputes of fact, is palpably implausible, far-fetched or so clearly untenable that the court is justified in rejecting them merely on the papers . . .” (Own emphasis.)
+
+Mr Hulley argued that the Plascon-Evans Paints Limited v Van Riebeeck Paints (Pty) Ltd9 rule applies regardless who bears the onus. I agree with this proposition. This much was found by Harms DP in the National Director of Public Prosecutions10 case referred to above, when he remarked:
+
+“In motion proceedings the question of onus does not arise and the approach set out in the preceding paragraph governs irrespective of where the legal or evidential onus lies.”11
+
+Whilst there are disputes of fact it is clear that the crisp issue in this case revolves around the applicant’s interpretation of sections 82 and 101 of the Ordinance, which ultimately is a legal issue. These are the provisions of the Ordinance which the applicant alleges were infringed. 
+In order to satisfy the Court that the applicant deserves protection in terms of the PDA, the applicant must show the following factors:
+That he is an employee; 
+He had reason to believe that the information in his possession fell within the definition of a “disclosure” in terms of section 1 of the PDA. The definition of “disclosure” contemplates that the employee must have disclosed information that either discloses or tends to disclose some form of criminal or other misconduct that is the subject of protection under the PDA which disclosure must be made in good faith; 
+That he made the disclosure in good faith;
+If there is a prescribed procedure or a procedure authorised by the employer, that he substantially complied with that procedure. If there is no such procedure, then the disclosure must be made to the employer;
+And finally that there was a link or nexus between the disclosure and the detriment.12
+It is not disputed that the applicant is an employee of the first respondent. It is also not disputed that the applicant was suspended and subjected to a disciplinary hearing. What is in dispute, however, that is the applicant was  
+[2013] 7 BLLR 731 (LC) at 739
+  subjected to an occupational detriment.13 It is disputed that he disclosed any information warranting protection in terms of the PDA.
+In the first instance it is not clear what disclosure was made to PASCO by the applicant. The applicant’s papers contain a lot of information but lack detail on the crisp issues to satisfy the requirements of the PDA. I agree with the first respondent that it is not enough to simply annex a document in an affidavit. Particular reference must be made as to which portions of the document one is relying on. This did not happen in this case. Much of the information in the founding affidavit is irrelevant or lacks specificity. The applicant attempted to crystallise the disclosures he was referring to in his replying affidavit. In my view, this did not help much either. Ultimately, the applicant was not able to show that the PASCO reports contained information supplied by him to PASCO. 
+In any event, the PASCO reports cannot form the basis of the applicant’s beliefs as his beliefs seem to precede the reports. 
+In my view, the first respondent has been able to show that the information contained in the reports was known to it and therefore could not constitute disclosure. Various individuals within the first respondent were interviewed and they gave information, which pointed to certain irregularities. Notably, those individuals were not disciplined. 
+Another important factor is that the first respondent refused to issue the section 82 certificate arising out of the PASCO reports until it was taken to court by the developer, which culminated to an agreement that safeguarded the position of the first respondent. To suggest the certificates were issued with Registrar having been misled seems to be far-fetched. Further the applicant has not clear as to which specific provisions of the section 82 were infringed. 
+To the extent that the applicant was unhappy he exhausted a number of avenues all of which did not see any wrong-doing on the part of the first respondent insofar as the issuance of the certificate was concerned. 
+In any event section 82 of the Ordinance prohibits registration of deed of transfer if certain conditions are not met. This provision is directed to the Registrar and not to the local authority. The local authority is the one that may deem it necessary to certify in terms of section 82(1)(b)(ii)(cc) that it will be able to provide such services.  
+[2013] 7 BLLR 731 (LC) at 740
+Further, the GDACE provided a positive ROD confirming that it was satisfied that the local authority could proceed with the application for the development of the township. The Council approved the establishment of the township MNS Extension 7 to 12 and the conditions imposed by the ROD were attached to the resolution of the Council and paragraph 1.2.5 stipulates that those conditions must be adhered to.
+Turning to section 101 of the Ordinance, again this provision requires the Registrar not to accept documents for endorsement or registration until such time that he is advised by the authorised local authority that the applicant has complied with such conditions as the local authority may require to be fulfilled. 
+The applicant alleges that the conditions he is referring to are GDACE requirements. The first respondent has made a number of compelling submissions which seem to make a lot of sense to me, in response to this. One is that the GDACE are not conditions that are a prerequisite before township is established, because they are environmental in nature. These are not specifically prescribed by a local authority as section 101 requires. Secondly, an ROD was obtained and the conditions imposed by the first respondent were attached to the resolution adopted by the Council of the first respondent. Some of these conditions were ongoing and concerns raised by PASCO were dealt with in the agreement with the developer. The environmental control officer appointed by the GDACE confirmed that all specifications were fulfilled and he had no knowledge of any non-compliance. 
+The requirements in section 101 are clearly for the benefit of the local authority alone. Conditions stipulated by a person other than a local authority are thus not conditions contemplated in section 101.
+I fail to find any disclosed information that either discloses or tends to disclose some form of criminal or other misconduct as contemplated in the PDA. 
+I also find no link between the alleged disclosure and the detriment. The first respondent in my view has shown that charges against the applicant are genuine. 
+It alleged that the applicant was responsible to facilitate the process of issuing certificates his alleged resistance to obey the instructions therefore did provide a basis for the charges. Other charges such as moonlighting without permission, failing to disclose his relationship with a contractor, signing official documents in the capacity as an area manager whilst he is not and placing advertisements as such all do appear to be genuine and unrelated to the alleged disclosures. 
+It is also important to take into account that a number of employees who had made submissions to PASCO were not disciplined. The applicant has not shown any reason why he would be singled out.  
+[2013] 7 BLLR 731 (LC) at 741
+Lastly the applicant has not shown that he had reason to believe that the information contained in the disclosure was substantially true.14 
+His belief was proven to be factually and legally incorrect a number of times and he was made aware of that. In Tshishonga v Minister of Justice and Constitutional Development and another15 Pillay J held that:
+
+“Whether the belief is reasonable is a finding of fact based on what is believed. Thus, if the employer clearly has no obligation, the employee’s belief that he does cannot be reasonable.”16
+
+Whilst the employee’s belief is subjective it must be reasonable. For the belief to be held reasonable there must be a factual basis for believing that the information discloses impropriety. In this case, the applicant did not demonstrate that. 
+I, therefore, find that the applicant has not been able to show that he suffered an occupational detriment warranting protection in terms of the PDA. 
+I am not persuaded costs on attorney and client scale are warranted in this case as the first respondent suggests. Costs will, therefore, remain on party and party scale. 
+In the result, I make the following order:
+The applicant’s application is dismissed with costs. 
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  Act 26 of 2000.
+2	  Act 15 of 1986.
+3	  Appointed in terms of the Deeds Registries Act 47 of 1937.
+4	  Means a local authority declared as authorised local authority in terms of s 2 of Act 15 of 1986.
+5	  Of Act 15 of 1986, supra.
+6	  Act 66 of 1995.
+7	  Of the LRA.
+8	  2009 (2) SA 277 (SCA) at para [26] [also reported at [2009] 2 All SA 243 (SCA) – Ed].
+9	  1984 (3) SA 623 at 634H–635C [also reported at [1984] 2 All SA 366 (A) – Ed].
+10	 Ibid.
+11	 National Director of Public Prosecution v Zuma (supra) at para [27]. Also see Ngqumba en ’n ander v Staatspresident en andere; Damons NO en andere v Staatspresident en andere; Jooste v Staatspresident en andere 1988 (4) SA 224 (A).
+12	See Independent Municipal and Allied Trade Union obo Ngxila-Radebe v Ekurhuleni Metropolitan Municipality and another (J1029/2010) [2010] ZALC 289 (1 July 2010) at para [23].
+13	  An occupational detriment is defined as:
+ “(a) being subjected to any disciplinary action;
+ (b) being dismissed, suspended, demoted, harassed or intimidated;
+ (c) being transferred against his or her will;
+ (d) being refused transfer or promotion;
+ (e) being subjected to a term or condition of employment or retirement which is altered or kept altered to his or her disadvantage;
+ (f) being refused a reference, or being provided with an adverse reference, from his or her employer;
+ (g) being denied appointment to any employment, profession or office;
+ (h) being threatened with any of the actions referred to paragraphs (a) to (g) above; or
+ (i) being otherwise adversely affected in respect of his or her employment, profession or office, including employment opportunities and work security.”
+14	  S 9 of the PDA.
+15	  (2007) 28 ILJ 195 (LC) [also reported at [2007] 4 BLLR 327 (LC) – Ed].
+16	 Tshishonga (supra) at para [185]. An English case of Kraus v Penna Plc and another (2004) IRLR 260 (EAT) at para [29], is also on point on this issue. In that case the court held: “if the employers are under no obligation, as a matter of law, a worker cannot claim the protection of this legislation by claim in that he reasonably believed that they were.”
+
+For the applicants:
+Adv HM Viljoen instructed by BJ Kruger Incorporated, Pretoria
+For the first respondent:
+Adv GI Hulley instructed by Tshiqi Zebediela Incorporated, Kempton Park 
+
+
+End of Document

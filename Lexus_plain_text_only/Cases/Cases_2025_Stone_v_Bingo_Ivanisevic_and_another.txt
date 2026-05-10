@@ -1,0 +1,455 @@
+
+
+
+
+Stone v Bingo Ivanisevic and another [2025] 1 All SA 751 (WCC)
+All South African Law Reports
+
+Division: Western Cape Division, Cape Town
+Case No: 4170/2019
+Date: 12 December 2024
+Before: JI CLOETE J
+
+Notes
+
+For Delict see:• LAWSA (3ed) (Vol 15, paras 1–223)
+
+Keywords
+
+
+Personal Injury/Delict — Claim for damages arising from injury in school water polo fixture   — Plaintiff bearing onus of proving that a reasonable person in defendant’s position would have foreseen reasonable possibility that his attack would injure the plaintiff; would have taken reasonable steps to guard against it; and that he failed to take such steps — Onus discharged on balance of probabilities.
+
+Editor’s Summary
+
+
+In February 2018, during a water polo fixture between Rondebosch Boys’ High School (“Rondebosch”) and the second defendant (“Bishops”), the plaintiff (“Ross”) participated in the match for Rondebosch, and the first defendant (“Bingo”) for Bishops. During the last chukka of the match, Bingo punched Ross, causing injuries to Ross’s face, teeth and jaw. Bingo immediately received a red card for brutality and the match was drawn to an early close. Thereafter, in accordance with Bishops’ school rules, disciplinary procedures and codes of conduct, Bingo was called to a disciplinary meeting at which he was found by Bishops to have breached the school rules and was sanctioned, inter alia, with a seven-match ban.
+
+It was common cause that when the incident occurred, Bishops, acting through its teachers, coaches and other members of staff, bore a duty not to cause Ross harm due to Bishops’ own negligence. 
+
+Ross brought a delictual claim for damages against Bingo, who had punched him, and against Bishops as an alleged joint wrongdoer. The claim against Bishops was based on the averment that the school had allowed Bingo to participate in the fixture despite allegedly being aware of his alleged prior poor disciplinary record. Bingo’s explanation for the incident was that he had been tackled in the water, and had swung a reactive punch to defend himself. 
+
+Held – Beginning with Ross’s case against Bingo, the Court was faced with two diametrically opposed versions of the incident. Ross bore the onus to establish on a balance of probabilities that Bingo caused the incident resulting in the punch and that, in punching him, Bingo was negligent. Applying the established approach to determining a dispute of fact, the Court found that while Ross was an honest, credible and reliable witness, the same could not be said of Bingo who was an evasive witness who attempted to distance himself from taking responsibility, and demonstrated a propensity for economy with the truth. The probabilities also favoured Ross’s version. Ross was not required to prove Bingo’s unlawful assault on him beyond a reasonable doubt. All he was required to show was that a reasonable person in Bingo’s position would have foreseen the reasonable possibility that his attack on Ross would injure him; would have taken reasonable steps to guard against it; and that he failed to take such steps. Whether a reasonable person would have taken those steps involved a value judgment. The evidence established on a balance of probabilities that Bingo made an unprovoked attack on Ross; that a reasonable, experienced  
+[2025] 1 All SA 751 (WCC) at 752
+water polo player would have foreseen that pushing Ross under water so that he could not breathe could cause Ross to react in a manner enabling him to surface; and that the force of the punch above water caused Ross serious injury. Ross’ claim against Bingo on the merits thus succeeded.
+
+In his claim against Bishops, Ross had to prove on a balance of probabilities that Bishops had breached its legal duty towards him to take all reasonable steps to ensure his safety and well-being. The test for wrongfulness is an objective one. The question whether a legal duty has been breached is determined with reference to the boni mores or general legal convictions of the community. Ross’s case was ultimately limited to whether or not, in light of a previous alleged poor sport disciplinary record of which Bishops was, or should reasonably have been, aware, it should have not allowed Boingo to play in the fixture. However, the evidence showed that Bingo had a clean disciplinary record in both schools. It could not be said that Bishops had breached its duty to Ross by playing Bingo in the match. Ross’s case against Bishops accordingly failed.
+
+____________________________________________________________________________________
+
+
+
+
+
+Cases referred to in judgment
+
+Legislation Considered
+
+None 
+
+Cloete J: 
+
+Introduction
+This is a delictual claim for damages in which the plaintiff seeks to hold the defendants jointly and severally liable, alternatively in such proportions as the court may determine, for payment of R645 931,13 plus interest and costs. The claim arises from an incident which occurred on 3 February 2018 during an U19A water polo fixture between Rondebosch Boys’ High School (“Rondebosch”) and the second defendant (“Bishops”) at the school premises of Bishops. By agreement, merits (liability) and quantum were separated and the trial thus proceeded on the merits only, with quantum to be determined at a later stage if necessary. 
+The plaintiff (“Ross”) was participating in the match for Rondebosch, and the first defendant (“Bingo”) for Bishops (their first names are used without any disrespect but for sake of convenience, as occurred during   
+[2025] 1 All SA 751 (WCC) at 753
+  the trial). Both were Grade 12 learners at the time. During the last chukka of the match Bingo punched Ross. It is not disputed, for purposes of the merit’s determination, that he did so with his fist, causing injuries to Ross’s face, teeth and jaw. It is common cause that Bingo immediately received a red card for brutality and the match was drawn to an early close. Thereafter, in accordance with Bishops’ school rules, disciplinary procedures and codes of conduct, Bingo was called to a disciplinary meeting at which he was found by Bishops to have breached the school rules and sanctioned, inter alia, to a seven-match ban.
+It is also common cause that when the incident occurred Bishops, acting through its teachers, coaches and other members of staff, bore a duty not to cause Ross harm due to Bishops’ own negligence. As indicated above Ross not only claims against Bingo, who punched him, but also against Bishops as an alleged joint wrongdoer. 
+Before turning to deal with the disputed issues, it is important to emphasise what this case is no longer about. In his plea, Bingo alleged (amongst other things) that both Rondebosch and Bishops bore a legal duty to take reasonable steps to ensure the safety of all players at the match, but both failed in that duty by: (a) not bringing the spectators under control when the match ‘had descended into a gladiatorial spectacle well before the incident’; and (b) not bringing the match to a close prior to the incident occurring.
+Although Bingo also pleaded that he would cause a notice to be served on Rondebosch to cite it as a joint wrongdoer,1 this never occurred; but a considerable amount of evidence still had to be led on whether Bishops had nonetheless allowed the “gladiatorial spectacle” because Bingo did not abandon this part of his defence in relation to Bishops until closing argument. Even then his legal representative took the view that the court should nevertheless take that evidence into account for purposes of “context”, since it appears beyond dispute that Bingo, a former Rondebosch pupil, was routinely taunted by the Rondebosch spectators whenever he played for Bishops. 
+However, ultimately this part of Bingo’s defence became the proverbial damp squib, because it had been put to Ross on Bingo’s behalf, when Ross testified, that Bingo would agree with him the unpalatable behaviour of match spectators at fixtures of this nature was something he too had learned to ignore and instead focus on the game; and Bingo himself never later testified that it had any direct impact on the incident itself.
+Ross had (again amongst other things) pleaded that: 
+
+“At all material times relevant to the incident second defendant allowed and/or condoned an aggressive sporting display by first defendant, whilst knowing that first defendant had a poor disciplinary record in various codes of sport (and water polo in particular), and for which he had been previously sanctioned…”
+
+In cross-examination by counsel for Bishops, Ross confirmed that his case against it was not that Bishops had permitted the water polo match to take place per se (all of the relevant witnesses, including Ross and Bingo, were unanimous that water polo is an aggressive, fast, contact sport), but rather that Bishops allowed Bingo to participate therein   
+[2025] 1 All SA 751 (WCC) at 754
+  despite allegedly being aware of his (also allegedly) prior poor disciplinary record.
+Accordingly, having regard to the parties’ respective pleaded cases, the issues which remain for determination are: 
+Whether Bingo punched Ross in a manner that: (a) was negligent; (b) was wrongful; and (c) exceeded any sort of legitimate expectation of an accident or injury that could be expected in the participation of a contact sport such as water polo;
+Whether Bingo acted in private defence in punching Ross; and
+Whether Bishops breached its legal duty towards Ross to take all reasonable steps to ensure his safety and wellbeing while playing water polo against Bingo. 
+
+Evidence on the remaining disputed issues
+During the trial, Ross testified and called 4 witnesses, namely Mr Shaun Simpson (the Headmaster of Rondebosch), Mr Gustav Pienaar (a teacher at Rondebosch and its Deputy Master in charge of Sport), Mr Ross Van Schoor (who had also played first team water polo for Rondebosch) and Mr Joshua Faber (a former SACS (South African College High School) learner who too had played first team water polo). Bingo testified and called 2 witnesses, Ms Roxaan Ivanisevic (his mother) and Ms Samatha Krige (a former teacher and parent at Rondebosch). Bishops called Mr Angus Firth (a teacher there and both Head of Water Polo and its current first team water polo manager) and Mr Warren Wallace (Head of Sport, and Head of Discipline at the time of the incident). For the reasons set out above I will not deal with all of the evidence but only those aspects which are still directly relevant. 
+
+The incident
+Ross testified that he plays attack and as usual had been wearing a number 6 (white) cap. The match was in its final chukka, and the score was tied at that stage. Ross had already scored 5 goals for Rondebosch. Bingo, a defender, had not been marking him in the earlier chukkas. At that point the Rondebosch team was on defence. Ross intercepted and secured the ball, going on attack towards the goals with the ball in front of him, pursued by Alex Jankovich of the Bishops’ team on his right (Ross is right-handed and uses that hand to shoot the ball) and Bingo on his left. 
+Ross was about 4 to 5 metres from the goals when Alex swam over his right arm, resulting in Rondebosch being awarded a 5 metre penalty. Bingo swam over Ross’s back as he advanced towards the goal, causing Ross to be pushed under water for what he described as about 3 to 4 seconds. His evidence was that:
+
+“…obviously being under water, I did not have a clue about what was going on other than I knew I could not really get up as someone was on top of me. I then came out from under water and obviously gasping for air. My mouth was open and as I reached the surface, I received a swinging arm from out the water that connected with my mouth… above the water…”
+
+Ross also testified that immediately thereafter the referee “blew a time-out, called the game and gave a red card to Bingo and awarded another penalty, so therefore we were given two penalties from the prior one and one for the act of violence”. He   
+[2025] 1 All SA 751 (WCC) at 755
+  clarified that the first penalty awarded was for Alex Jankovich blocking his right arm, and the second penalty was Bingo’s red card. As soon as Ross realised how badly he was hurt he swam to the side of the pool. He was shaken and dizzy and, after receiving attention from two or three doctors present (it would seem, as parents) he was taken to hospital.
+Ross was referred to Bingo’s plea of private (or self) defence, in which it was alleged that: (a) Bingo had been instructed by his coach – who it is common cause was Mr Greg Mallett – to defend against Ross; (b) at a point when Bingo was defending to prevent Ross from scoring a goal, a scuffle ensued while the foul whistle blew, during which Ross grabbed Bingo’s cap by its drawstrings, pulled him under water, and continued to assault him by punching, kicking, and/or kneeing Bingo in his face, stomach and genitalia; (c) the force inflicted by Ross’s attack to Bingo’s stomach forced the air from his lungs, causing him to take in water; and (d) believing himself to be drowning, Bingo swung a reactive punch in self-defence in the direction of Ross, which connected with his mouth at the moment the pair breached the water. 
+Apart from Mr Mallett’s instruction, which he did not take issue with, Ross was steadfast in his evidence that Bingo’s version is not what happened. He was able to recount that he was focused on moving fast towards the goals, with his right arm and hand aimed at the ball, and his left arm and hand (where Bingo would have been) thus doing most of the swimming. Bingo had not shown any marks, scratches or bruising after the incident Ih would accord with the type of attack he alleged had occurred. Moreover his evidence was “you can punch under water but you certainly do not feel it. It is the friction of the water. It feels like someone has just tapped you.”2 When asked to comment on Bingo’s allegation that Ross had caused the air to leave his lungs, Ross replied “that most certainly did not happen. I had the ball on attack”. To this it should be added that both Ross and Bingo were already experienced water polo players at the time, with Ross going on to represent South Africa at the Olympic Games in 2020 plus two world championships thereafter.
+When asked what he thought precipitated Bingo’s act of violence, Ross replied: “Within the game, as I said I was scoring a lot of goals, and he I think was getting upset at him, himself being an aggressive player, I think just took it one step too far…”. It was also his testimony that he personally had never had a violent interaction with Bingo before, although they had previously played against each other on many occasions. 
+During cross-examination on behalf of Bingo, Ross was referred to a statement he made at Rondebosch Police Station two days after the incident on 5 February 2018, as well as one made by Mr Pienaar (who had attended the match) at the same police station on the same date. Ross’s statement was a brief summary of his version when he later testified. Pienaar’s statement made reference to a scuffle between Bingo and Ross before they went under the water. Ross was consistent in his evidence that “Bingo was the one who had swam on my back, and I was under water, and I  
+[2025] 1 All SA 751 (WCC) at 756
+  do not believe… that there was any scuffle… no other than what may be seen as a scuffle if someone is on your back and you are under water with a lot of water that may be judged as a scuffle. Other than that, no.”
+Ross confirmed something else which appeared in one of his later statements. After leaving the swimming pool he encountered Bingo and said “What the hell, Bingo” to which Bingo replied “Don’t hit first”. According to Ross he found this response inexplicable but shrugged it off and walked away. It became common cause during the trial that Ross was wearing a white cap bearing the number 6 and Bingo a blue cap bearing the number 7. Ross was referred to the report of one of the match referees, a Mr Tristan Cudworth, in which he subsequently recorded his observation of the incident as follows:
+
+“Blue 7 (Brutality):  I awarded the 5m to 6 White upon surfacing blue number 7 looked at white 6 and punched him using his right hand above water. I feel that this matter requires further action and WPWP should investigate this matter. (signature) T. Cudworth. After 5m was awarded to white 6, Blue 7 punched white 6 in the face causing the player serious harm, as he was unable to stand after he climbed out the pool.”
+
+He was asked why Cudworth had not recorded that Bingo swum over his back immediately before the incident, the insinuation being that if this had occurred Cudworth would have noted it down. Ross responded that, by the same token, Cudworth had also not recorded the reason for awarding a 5 metre penalty. Bingo did not call Cudworth to testify on his behalf either.
+The relevant portion of the report of the other match referee, Mr Quinton Green, read as follows:
+
+“Red Card (Brutality)
+
+Four metres from Bishops’ goal number 6 from Rondebosch (white) was pulled back by no. 13 from Bishops (blue). Tristan (the other referee) awarded the 5m penalty to white. After the whistle number 6 white lifted his head from the water. After he did that, number 7 blue struck him in the face with a closed fist. We stopped the game and Tristan showed the red card for brutality to number 7 blue.
+
+It was suggested to Ross that he might mistakenly have thought it was Bingo who swam over his back which resulted in him retaliating, since Bingo denied having done so. As to the exact sequence of events, the following passage of his evidence is relevant:
+
+“MR VAN HEERDEN: Mr Stone, can you recall – let’s try and clarify this. Can you recall how long it took Bingo to get to you after the whistle blew?
+
+MR STONE: He was there on me.
+
+MR VAN HEERDEN: Oh, ja he was on your back according to you?
+
+MR STONE: Yes, as I have said I was swimming towards the goals I had two people. There was one on my left and one on my right. If someone is swimming on your back, you can still kind of – you are still in the motion to try… and score the goal you do not just stop playing.
+
+MR VAN HEERDEN: Yes.
+
+MR STONE: You still try to get to the goal. After that… [intervenes]
+
+MR VAN HEERDEN: But you could not because there was somebody on your back I understand?
+
+ 
+[2025] 1 All SA 751 (WCC) at 757
+
+MR STONE: I could not carry on and after – I could not carry on. I was then under the water. I was then under the water for three seconds and as I surfaced, I was struck on my mouth.”
+
+When Mr Pienaar testified, he confirmed having made the statement to which Ross was referred; but given that he was not cross-examined on Bingo’s behalf about the so-called discrepancy relating to the scuffle, to the extent that the versions of Ross and Mr Pienaar differed, Ross’s evidence must be accepted. During Bingo’s case, Ms Ivanisevic testified that she witnessed the incident. She had been standing at the side of the pool next to the referees’ table with some friends. She saw Ross, Bingo and another player swimming towards the goals, with Bingo on one side of Ross. Suddenly, Bingo’s head was jerked under water and this was followed by a scuffle between Ross and Bingo under the water. (All the relevant witnesses agreed that, given the lack of visibility as a result of the ensuing “white water”, only Ross and Bingo would be able to explain what happened while they were under water). Her evidence was further that as they breached the water, both with their mouths open, there was an “instantaneous” punch by Bingo. Ross put his hand to his mouth, the referee blew the whistle, and Bingo was red carded and told to leave the pool arena. She was also present during the subsequent brief exchange between them after they left the swimming pool, and confirmed that Ross’s testimony as to what was said was correct. Bingo had reported his version of the incident to her immediately after he left the pool arena.
+It became evident during her cross-examination on Ross’s behalf that Ms Ivanisevic was intent on defending her son at all costs which, while perhaps understandable, was of little assistance to the court. Right at the beginning of her cross-examination, after conceding Bingo’s punch, once she was confronted by photographs of Ross’s injuries, she claimed that she could not be certain Bingo had indeed punched Ross. She became downright evasive, to the point where the court had to warn her of the potential consequences if she continued in that vein.
+She eventually conceded that during his subsequent disciplinary meeting, Bingo admitted to punching Ross and in so doing contravened the Bishops school rules. She was referred to the report of Mr Doug Schooling prepared on behalf of Western Province Schools Water Polo (“WPSWP”). This report is dated 27 March 2018. It reflects that following an emergency WPSWP meeting on 8 February 2018, a sub-committee was established to investigate incidences that allegedly may have brought the sport into disrepute during the match. It also reflects that according to the two match referees, Bingo’s punch was an act of brutality as defined in the FINA Water Polo Rules and Guide. FINA is the World Aquatics Federation which administers international competition and development in six aquatic disciplines including water polo. Regarding the incident between Bingo and Ross, it was concluded that “the reports submitted and interviews conducted are unanimous that the punch was thrown and that it was an intentional, premeditated act of brutality with the intention to cause injury”. 
+However Ms Ivanisevic did not agree with that conclusion because, in her words “there’s two aspects here so I don’t totally disagree with the entire sentence, there’s a punch and there’s the mental side of it, so…although there was an investigation done I think procedures have to be followed. And one has to be trained in investigating such matters and not just a lay person…” This she claimed, despite it   
+[2025] 1 All SA 751 (WCC) at 758
+  being undisputed that Mr Schooling was the WPSWP sub-committee chairman; the other three members served on the executive committee as well, with one being a senior national water polo player and previous WPSWP U19 Boys coach; and the report itself reflects the extensive nature of the investigation, including interviews with the two match referees, the Bishops coach, Mr Greg Mallett, and Ross (Bingo was invited to participate but declined, apparently on legal advice since by then criminal charges had also been laid by Ross against him). It is undisputed that the members of the sub-committee were independent of either school.
+Ms Ivanisevic agreed that in neither of the match referee reports was any mention made of violence by Ross. She was referred to her affidavit in an earlier interlocutory application where she stated under oath that both Ross and Bingo sustained injuries in the incident. When asked about Bingo’s injury, she replied “he took a knock to the face… it was minor… you have to turn the lip and you can’t really see, there was no blood”. As far as she knew Bingo had only reported his injury to her, but he would be able to elaborate. When asked by the court if she had taken Bingo for medical treatment to his lip she responded “Ag, it was so minor… it was a little bit swollen”. 
+Bingo testified that he and Ross had previously played against each other in a number of water polo (and rugby) matches without any altercation or other incident. He described Ross’s position in the team as an attacking player and his as a defender or “back sitter”, with his primary task to mark the “main threat” who, during the match in question, was Ross. It was a tight match, Ross had already scored 5 or 6 goals, and was becoming a “big attacking threat”. Mr Mallett instructed him to mark Ross for the remainder of the match. In his words:
+
+“I then recall marking Ross and he wasn’t as successful as he was when I wasn’t marking him, he didn’t score a goal against me. So, that’s when things started going a little bit south. Obviously, Ross is a good water polo player, now he’s not scoring any goals. I started to receive dirty tactics, if I can put it that way… So, when I refer to dirty tactics, I mean things that happen under the water. Because water polo majority, like 90% of your body is under water. So, when I refer to these tactics, he was then grabbing my costume where my genitals are… and I remember a particular incident where he hit me and then swam off. That was the first blow I took from Ross.”
+
+This had not been put to Ross when he testified. Bingo referred to the hissing, swearing and booing of the Rondebosch spectators to which he was yet again subjected during the match; however “I remember when I was about 16 after a year of this abuse seeing a quote. So, this quote was about pressure and how it can either break you or form you into a diamond… so obviously I took the latter response”. He continued that “from 16 years that stuck with me and the crowd’s response caused me to be more motivated as a result of that quote. The behaviour starts to form part of my motivation to be better”. Accordingly it can fairly be inferred that what was put on Bingo’s behalf to Ross when he testified, i.e. that Bingo too was not negatively influenced by the crowd, was consistent with his later evidence. 
+When asked what happened in the pool immediately prior to the punch, Bingo replied:
+
+“Just before the punch Ross got interception, he was swimming towards goal, me and my teammate started chasing him to stop him from scoring. My teammate fouled Ross, I was close by and the next thing I knew I was pulled under 
+
+ 
+[2025] 1 All SA 751 (WCC) at 759
+
+by my drawstrings of my cap. I remember receiving a few blows, one in particular made me panic, whether it was from a punch, shot, knee or whatever – to my sternum or upper stomach. In that moment I felt like I was going to drown, I started to take in water and started panicking, there was adrenaline rushing through my body – in that frame of mind I swung a reaction punch at Ross, because he was fighting me under water. I felt, and this is my reality, that if I didn’t swing first I felt that I would be hit, again.”
+
+His subsequent brief exchange with Ross once they left the pool supported what he considered to be the reality of what had occurred. He was asked why Ross would have attacked him, and he replied “I’ve been thinking about this for a long time but the only conclusion I can come to is that it was matric year, a very big game in our final year, Ross was scoring many goals, I was instructed to mark him and he wasn’t scoring any more, it must have frustrated him not getting his team to victory”. Bingo denied that he had swum over Ross: “That didn’t happen. I didn’t give away the foul. I didn’t swim over him, my opposite number got the foul, then Ross pulled me under water by my drawstrings.” Bingo confirmed that his only injury was a small cut to his mouth. Like Ross he confirmed that the incident occurred while the whistle was going, “it was quick’ but it was “more than just a few seconds… not on the lower scale of seconds, longer than that”. It was also his evidence that months after the incident Ross approached him and “basically, he apologised for his punching. I said ‘I’m sorry the way you got hurt’, and he said “I just want you to know it’s not me that’s doing this. It’s my father.” This was also not put to Ross when he testified. 
+During cross-examination on behalf of Ross, Bingo was referred to the Bishops report on the outcome of its disciplinary meeting, in which it was recorded that Bingo “acknowledged punching the player, stating that you were not thinking at the time and were caught up in the tension of the match. You were also remorseful for what you had done, stating that in hindsight you should have reacted differently… You indicated that you wanted to phone the victim the next day to ask him if he was OK. However, your mom and the pending case against you prevented you from taking this step… It is noted that you have a history with Rondebosch where you were a pupil and that, on the day in question, you were severely provoked by the victim, by the Rondebosch cheerleaders and by the Rondebosch parents throughout the course of the match…”. He was asked whether he remembered acknowledging to the disciplinary committee that he had punched Ross to which he replied “no, but everyone saw the punch”.
+Regarding Ross’s alleged provocation the following passage of Bingo’s cross-examination is relevant:
+
+“MR EIA: Okay. Now what I would like you to please inform Her Ladyship is what did you tell whom in that disciplinary hearing about this alleged provocation?
+
+MR IVANISEVIC: Can you clarify please?
+
+MR EIA: What did you tell whom in this disciplinary hearing about this alleged provocation?
+
+MR IVANISEVIC: I did not say anything in the disciplinary hearing.
+
+MR EIA: You did not say anything.
+
+MR IVANISEVIC: He must have just seen it.
+
+MR EIA: Did he see it?
+
+MR IVANISEVIC: I said he must have just seen it or been informed by other people.
+
+ 
+[2025] 1 All SA 751 (WCC) at 760
+
+MR EIA: Because I just want to make sure Mr Ivanisevic that your evidence of this under water fighting, the scuffle, the punching, your genitals were attacked, you said you reported that to your mother. Is that correct?
+
+MR IVANISEVIC: I think so, ja.
+
+MR EIA: Well, you gave that evidence on Thursday. Do you remember now?
+
+MR IVANISEVIC: Ja.
+
+MR EIA: You reported it to your mother. Did you report that to anyone at this disciplinary hearing?
+
+MR IVANISEVIC: No, I already told you I was instructed not to say anything. 
+
+MR EIA: You were instructed not to say anything, but3 you acknowledged punching Ross Stone.
+
+MR IVANISEVIC: Because everyone saw it. Everyone saw that there was a …[incomplete]
+
+MR EIA: Everyone saw that it was there.
+
+MR IVANISEVIC: Yes.
+
+MR EIA: But what I want to understand is that if you had now allegedly been attacked by Ross Stone under water immediately prior to you punching him, that would potentially be a defence that would have potentially been an exculpatory factor in your disciplinary hearing. Do you understand?
+
+MR IVANISEVIC: Yes.”
+
+Bingo was referred to the match report of Ms Fiona Mallett, the Bishops Head of Water Polo at the time, in which she also made mention of another Bishops player having received a red card earlier in the match for violence due to an open handed slap. Bingo claimed that it was Ross who was slapped “because Ross was playing dirty with him too, so it is just a common theme”. However he conceded that, as with the two referee reports, Ms Mallett made no mention in hers about Ross playing dirty or indeed having assaulted Bingo. In Mr Cudworth’s referee report, he recorded “open handed slap to the face of white by blue 10”. Bingo nonetheless stubbornly clung to the previous sentence of that report which contained the words “white 6 was swimming and pulled back 10 blue” which Mr Cudworth had crossed out, thus clearly indicating he had initially recorded this in error. Bingo maintained that irrespective this was a “common thread about white 6”, ie Ross. 
+He also refused to accept the accuracy of the recordal of the other match referee, Mr Green, that “4 metres from Bishops’ goal number 6 from Rondebosch white was pulled by 13 from Bishops’ blue. Tristan the other referee awarded the 5-metre penalty to white”, despite this also having been the uncontested evidence of Ross (it would seem that Alex Jankovich was number 13 blue).
+The following passage of Bingo’s cross-examination is pertinent:
+
+“MR EIA: So, the logic, I am going to put to you what is going to be argued because this was also the evidence of Ross Stone upon being questioned by Her Ladyship. He is now going in a forward direction. He has got the ball. He has got the ball under his control and that ball, his arm is now pulled back by Bishops 13 and immediately a penalty, the whistle is blown and there is a penalty. Am I to understand that after the whistle has been blown to know mark a penalty, Rondebosch has now been awarded a 5-metre penalty, the game stops. Is that correct?
+
+ 
+[2025] 1 All SA 751 (WCC) at 761
+
+MR IVANISEVIC: If there is a 5-metre penalty the game would stop.
+
+MR EIA: But then what I do not understand is that if the whistle had now blown for a 5-metre penalty and the game stopped according to you your strings were pulled and you were pulled under water and you were assaulted by Ross Stone notwithstanding the game having now been stopped, is that correct?
+
+MR IVANISEVIC: Yes, and there is a reason because the whole game had been neutralised by me and then he even said he thought I had swam over his back which prevented him from scoring the goal. I was going to put him in the lead and make his name for the 2018 year against Bishops.
+
+MR EIA: What was my question Mr Ivanisevic?
+
+MR IVANISEVIC: I just told you what I wanted to say. 
+
+MR EIA: What was my question?
+
+MR IVANISEVIC: I do not know. Can you repeat.
+
+MR EIA: Listen carefully. Is it correct, the whistle blows to give Rondebosch a 5-metre penalty. You just testified the game stops. Are we to understand and accept your evidence that after the game has stopped according to you Ross Stone proceeds to drag you under water and assaults you. Is that correct?
+
+MR IVANISEVIC: If it is the same time the whistle is being blowed.
+
+MR EIA: No, no, you just said the whistle stops the game.
+
+MR IVANISEVIC: Okay, so does that stop the player? Does the player have to stop immediately, or can he act in free will and do his own thing?
+
+MR EIA: Okay, so I will ask the questions again. You said the whistle stops the game.
+
+MR IVANISEVIC: Okay.
+
+MR EIA: Are we to believe that the game did not stop and that after the whistle blew you were allegedly assaulted by Ross Stone under water.
+
+MR IVANISEVIC: Yes.
+
+MR EIA: And none of this is recorded by the two referees, in their reports or in this e-mail. Is that correct?
+
+MR IVANISEVIC: Yeah, it is what is says, ja, but other people mention the scuffle because head of sport was right there by the goal.”
+
+Mr Wallace testified that he was present at the match, which he described as hotly contested between two competitive teams: “water polo is a strange game in that the crowd is quite close to the pool”. He did not recall witnessing the incident itself. The Bishops’ internal disciplinary procedure that followed was in accordance with standard protocol, having regard to the school’s sporting policy and code. 
+He described the general approach to discipline at Bishops as “…one of a restorative justice process, where the perpetrator deals with the consequence but also that he learns from the incident and the experience, and the expectation is that the behaviour will change as a result of the relevant intervention”. The incident had been reported to him by Ms Mallett. Mr Wallace confirmed that the disciplinary meeting (a disciplinary hearing is something more serious although a disciplinary meeting is also formal in nature) took place in his study on 7 February 2018. Also present were two members of the Disciplinary Committee, and Ms Mallett and Ms Gardner who was Bingo’s House Director at the time. He was referred to the “outcome letter” which he addressed to Bingo on behalf of  
+[2025] 1 All SA 751 (WCC) at 762
+  Bishops dated 8 February 2018, in which it was recorded, amongst other things, that:
+
+“In addition to unsportsmanlike conduct as outlined in our sports policy, this [the punch and consequent red card] is a direct violation of a major school rule as published in the Blue Book, Section 3, Major School rules, pertaining to Misconduct. It states: Any misconduct, which may compromise the name of the school, will render the perpetrators liable for suspension or expulsion…
+
+The Disciplinary Committee has recommended the following sanctions: …
+
+The mandatory WPSWP sanction for ‘brutality’ (which is a 2 match ban) will stand. In addition, Bishops imposes a 5 match ban based on the gravity of this offence. You will therefore be suspended from all water polo activities for a total of 7 matches with immediate effect. 
+A further suspended sentence will be imposed; that should you receive a red card for an offence of a similar nature in the future, you will be excluded from playing water polo for Bishops.
+You must attend counselling either privately or at the BSU [Bishops Support Unit] to assist you in developing coping mechanisms from your emotional trauma that culminated in the incident.
+You must attend a conflict resolution and reconciliation session with the victim (should he agree to it), convened by an outside facilitator. This will be arranged by the school.
+
+This letter serves as a warning that if you are involved in a violation of a Major School rule in future, you could be asked to attend a full disciplinary hearing where the outcomes for you could be far more serious.”
+
+Despite Bingo’s evidence to the contrary, Mr Wallace, an impressive witness, was clear that everything recorded in the outcomes letter was an accurate reflection of what had occurred at the meeting, including what Bingo conveyed to those present. During cross-examination on behalf of Ross, Mr Wallace described the spectator behaviour as vocal but not volatile to the point that it was getting out of hand. According to Mr Wallace, the only provocation by Ross mentioned by Bingo was that he had grabbed his genitals. 
+
+Whether Bishops breached its legal duty of care towards Ross in allowing Bingo to play in the match
+Ross testified that although this was Bingo’s first act of violence towards him, other incidents involving Bingo and other players had occurred in the past. Given his focus on the game when the incident occurred, he was unable to cast any light on whether the spectator behaviour was such that Bishops or Rondebosch leadership should have called an earlier halt to the match.
+During cross-examination on behalf of Bishops, Ross confirmed that during matches of this nature the players are under the control of their own coaches and teaching staff present. He explained that water polo-playing schools in the Western Cape are all affiliate members of WPSWP which acts as their governing body, and which assigns independent referees for these matches. In the present instance they were Mr Cudworth and Mr Green. It is the referees alone who exercise their discretion, within the FINA rules, as to the nature of the infringement and sanction to be imposed.
+Ross agreed that water polo is a very physical, hard contact sport, and that even where players abide by the FINA rules there is always a risk of injury.  
+[2025] 1 All SA 751 (WCC) at 763
+
+  Fouls are a frequent occurrence. Generally speaking, the more violent the foul, the more serious the sanction will be. There was some debate between Ross and counsel for Bishops about what degree of seriousness is required before a player is sanctioned with a red card. Ultimately, what could be gleaned from this evidence is that a red card may, in terms of the FINA rules, be awarded, inter alia, for violence or brutality, but that brutality, it would seem, is considered more serious than violence, as appears from FINA rule 21.14:
+
+“To commit an act of brutality (including to play in a violent manner, kicking, striking or attempting to kick or strike with malicious intent) against an opponent or official, whether during actual play, during any stoppages, timeouts, after a goal has been scored or during intervals between play.”
+
+(emphasis supplied)
+
+
+The following passage of Ross’s cross-examination is relevant:
+
+“MS VAUGHAN: … Is that the brutality foul?
+
+MR STONE: That is brutality, yes.
+
+MS VAUGHAN: Alright. So, within the rules of water polo, as unfortunate and unpleasant as these events are, they are provided for in the rules.
+
+MR STONE: They are there ja. Some are intentionally and some are… [indistinct].
+
+MS VAUGHAN: Alright, so within a normal water polo match as unfortunate as it may be it is a foreseeable risk that one of these events could occur and the sanction is provided for in terms of those rules. 
+
+MR STONE: Ja, they give a brief explanation for …[indistinct].
+
+MS VAUGHAN: Alright and despite the fact that the rules and the players therefore foresee that these events can occur schools nevertheless allow their players to play water polo subject to the rules.
+
+MR STONE: Yes, same …[indistinct].
+
+MS VAUGHAN: Alright. So, you would agree with me Mr Stone then and I think you have already said that. You are not saying that a school has a duty to protect its learners from injuries or events that are attendant upon any risks foreseen in playing water polo. There must be something additional that would create a duty upon a school.
+
+MR STONE: Can you repeat that please?
+
+MS VAUGHAN: No school has a duty to any learner who is participating in water polo pursuant to the rules to prevent them from any occurrence or injury which is attendant upon the risks involved in playing water polo.
+
+MR STONE: [indistinct]…
+
+MS VAUGHAN: Okay. When you play water polo are you aware that these events can happen?
+
+MR STONE: I know that they can happen, ja.”
+
+Ross was reminded that according to Bishops, it was not aware of Bingo’s prior poor sporting disciplinary record since his move from Rondebosch to Bishops at the beginning of his Grade 9 year. Ross replied that although he believed Bingo had such a record “I am not 100% sure what Bishops knew and what they did not know, but I… think they should know”. He was not able to comment when told by counsel for Bishops that in Bingo’s disciplinary records with that school not a single infraction had been documented prior to the incident. Ross repeated that his case was not that Bishops knew of Bingo’s prior disciplinary record as a fact; or that Bishops itself had previously disciplined Bingo; but rather that Bingo had been  
+[2025] 1 All SA 751 (WCC) at 764
+  sanctioned on earlier occasions at other school matches and the like, and Bishops should have known this:
+
+“As I said the other incidents such as previous red cards, like two red cards, him being in the school receiving it from Bishops you would think that they would know about those previous incidents, yes, because he received two red cards prior to the punch while he was playing for Bishops’ first team, hence he should have some record under Bishops, and they should know about it.”
+
+According to Ross, Bingo received two red cards during 2017, one in a match he too was playing and the other at a tournament where he was present but not playing in the match. The first was between Rondebosch and Bishops, and the other at the KES Tournament, when SACS was playing against Bishops (both first teams). In the Rondebosch match against Bishops, Bingo punched Mr Van Schoor’s nose causing it to “split”, and at the KES Tournament, Bingo punched Alessio Donato of SACS, for which both players apparently received red cards. Ross confirmed that not all red cards are given for brutality, and, for example, may be given for misconduct like swearing at the referee. Accordingly, a red card in and of itself will not be indicative of the event which gave rise to it. He agreed with Counsel for Bishops that, at the very worst, the consequence of a red card for brutality can be an effective one-year ban from playing the game, even for professionals playing at international level. 
+As regards the Van Schoor red card incident, Ross explained that although he was involved in the game, he did not see the punch himself because he was playing. Ross confirmed that he had not witnessed the incident at the KES Tournament but said that Mr Faber would testify about it. His evidence was also that he could clearly recall having received one red card during his career, while playing for South Africa against Australia, when both he and the other player were red carded for kicking each other under water, but may have received another. He was asked “…two red cards doesn’t mean you’ve got a bad record in your opinion?’ to which he responded ‘no, not in terms of violence or that, no… not for brutality and violence”. 
+Mr Simpson (the Headmaster at Rondebosch) testified that during his time at that school, Bingo was a “nice enough boy but with a short temper and an angry fuse’. However this was ‘no more concerning than any other boy of 13 who has their own character traits that need to be worked with… there were some punishments recorded but not above the norm”. He confirmed that when Bingo, at the age of about 15, was excluded from the Rondebosch first team water polo trials (one of the main reasons why his mother moved him from Rondebosch to Bishops), this was not as a result of ill-discipline or unsportsmanlike behaviour. His evidence was further that, apart from a discussion with the Headmaster of Bishops at the time, Mr Guy Pearson, when Bingo moved to Bishops, he could not recall any interaction with Mr Pearson in relation to Bingo until after the incident with Ross.
+During his testimony Mr Pienaar (of Rondebosch) agreed with counsel for Bishops that the punching incident with Ross (and its unseemly immediate aftermath at the pool arena and its surrounds by various parents and spectators) was really something quite out of the ordinary. In his words: “I would guess Bishops would probably have felt the same”.
+Mr Van Schoor testified that he was a member of the Rondebosch first team water polo in 2017 and matriculated in the same year. He had played in the first team for 4 years, including with Ross. He knew Bingo and had  
+[2025] 1 All SA 751 (WCC) at 765
+  also played against him. At a fixture between Rondebosch and Bishops in early 2017 (held at Bishops) he was marking Bingo in the final chukka with a few minutes to go. Rondebosch was in the lead. He had just started marking Bingo when Bingo punched him in the ribs under the water and he retaliated with a punch to Bingo’s chest, also under water. Bingo “followed up with a knockout blow… above the water… into my nose in which my nose was split open”. He was instructed to leave the pool since his nose was bleeding and was personally not aware of whether Bingo was sanctioned, although he thought he might have received a red card. 
+He did not know if the match referees reported the incident to Bishops; he himself had not done so but he assumed they would have. After the match, along with the other players, he and Bingo lined up and shook hands. Initially his evidence was that he reported the incident to Rondebosch, but later said he had not done so. He did not dispute that WPSWP also had no record of this incident. 
+That the incident with Mr Van Schoor occurred was not disputed when he was cross-examined on Bingo’s behalf. Mr Van Schoor later explained that the two punches under the water were really nothing more than jostling, although Bingo’s punch above water was a hard punch, a “full swinging fist”. It would seem however that apart from having his nose steri-stripped no other medical treatment was required.
+Mr Joshua Faber testified that he matriculated from SACS in 2017, when he had played first team water polo for about 3 years. He too had played against Bingo. In March 2017, at the final between SACS and Bishops at the KES Tournament and during the last minute or so of the final chukka (SACS went on to win) the referees halted the game. He did not witness what had precipitated this as he was elsewhere in the pool. However he did see the referees indicating that both Bingo and Alessio Donato (a fellow SACS player) were red carded for brutality as they were fighting. According to Mr Faber, after the match when the teams lined up to shake hands, Alessio, who was very upset, swore at Bingo who retaliated by slapping him across the face. Other players intervened, pushing Alessio ahead which ended the incident. As far as Mr Faber was aware, Alessio was not sanctioned by SACS for his red card and was not sure whether Bingo had been sanctioned by Bishops either.
+During cross-examination on Bingo’s behalf, Mr Faber’s evidence was that neither Bingo nor Alessio sustained any injuries as a result of their altercation in the pool. He conceded that he had not personally heard the words used by Alessio when he “swore” at Bingo. Although Mr Van Schoor’s evidence about his incident with Bingo had not been challenged, it was put to Mr Faber that Bingo’s version was the only two red cards he ever received (having played about 450 matches until his career came to an abrupt end following the Ross punch) were the one at that KES Tournament (although he denied later slapping the SACS player), and the other for punching Ross.
+When Bingo testified he denied the Van Schoor incident had ever occurred. After initially stating that he could not recall the KES incident, later in his evidence he thought he might have received a cap-off as a sanction for some undisclosed infraction (a cap-off equates, apparently, to three exclusions and is a far less severe sanction than a red card for   
+[2025] 1 All SA 751 (WCC) at 766
+  brutality). In relation to both the Van Schoor and KES incidents, his evidence was that “if there was anything that needed to go further” the referees would have noted this down and contacted both schools involved.
+During cross-examination on behalf of Bishops, Bingo testified that the first disciplinary meeting he ever attended was the one at Bishops after he punched Ross, and until then he had no disciplinary record in any code of sport whether at Rondebosch or Bishops, since he had never been sanctioned for something that would require such a record to be kept (this was the gist of the evidence of Mr Simpson and Mr Pienaar in relation to Bingo’s time at Rondebosch as well). 
+Mr Firth testified that Bingo was assigned to his tutor group when he arrived at Bishops in Grade 9 and remained under his tutelage until the end of his matric year. The purpose of this system is, it would seem, to mentor students on issues they experience at the school and is thus not limited to academics only. 
+During his years of mentoring Bingo he experienced him as respectful, decent, hardworking, academically strong and passionate about his sport. Mr Firth never personally witnessed any thuggish behaviour or propensity for violence, and given his position would have been made privy to this if any such incidents had occurred prior to the one with Ross. He had also watched Bingo playing, amongst others, water polo over the years and described him as very talented and competitive. Mr Firth had been made aware of the Rondebosch goading shortly after Bingo arrived at Bishops and had advised Bingo how to deal with it:
+
+“I discussed with him how to deal with the situation and specifically advised him, the advice and I remember it quite clearly was, don’t let them get under your skin. Just make sure that you keep focused on your job and playing the game because that’s exactly what they want you to do. They want you to react. They want you to lose focus and by doing that you are going to let your team down.”
+
+When asked by Counsel for Bishops whether Bingo ever retaliated or reacted to that provocation, Mr Firth replied: 
+
+“Ja, so I took interest in it and I did watch him play a lot of the time. I never saw him taking any form of retaliation. I saw frustration without a doubt but I never saw him actually taking frustration and I did see him struggling in those games in terms of concentrating and probably performing to his best. I think he learnt as he got older to deal with it better and I think he was far more controlled and able to play his game better when he was in the senior age group.”
+
+This accords with Bingo’s own testimony. Mr Pienaar and Mr Firth agreed that school reporting protocol would ordinarily include the coach informing the Head of Water Polo of an incident such as a red card, although Mr Firth (who unlike Mr Pienaar had himself coached water polo) explained as follows:
+
+“MR FIRTH: Well, I think the referee, first of all, if you are given any red card for any form of brutality or violence, would be expected to report it to the Western Province Water Polo Committee. And if that was the case, if a red card had been actually given out, there would be a record of that in the Western Province, as the other record that I saw earlier would have been presented to Western Province.
+
+MR EIA: No, I understand that.
+
+ 
+[2025] 1 All SA 751 (WCC) at 767
+
+MR FIRTH: On top of the first team coach reporting it to the head of water polo. If indeed it had been a red card and it had been a situation that they felt deserved to be reported to the head of sport, it would have – I’m just saying in surmise, in terms of an ideal situation it would be reported to the head of sport. The only reason that might not have occurred …[intervenes]…
+
+COURT: Sorry, you said the only reason why it would not have been reported and I don’t think I got the rest of that.
+
+MR FIRTH: The only reason it possibly would not have been reported is if the referee admitted after the game in consultation with the coach and head of sport that it was not brutality or premeditated or violence. Those are the only reasons I can think of it not being reported…
+
+MR FIRTH: So you can get a technical red card.
+
+COURT: Okay.
+
+MR FIRTH: Which is for three major fouls, which is exclusions which can be technical and not brutal or violent.
+
+COURT: I’m with you.
+
+MR FIRTH: So you essentially get kicked out of the pool and that’s a technical red card.
+
+COURT: So if I understand it correctly, no steps would be taken if it was a technical red card.
+
+MR FIRTH: No.
+
+COURT: … But if it was for violence or brutality that would be reported?
+
+MR FIRTH: Ja.
+
+COURT: The part I’m not getting is the premeditated part.
+
+MR FIRTH: Well, I think there’s premeditated where somebody actually I supposed punches somebody, they have to think about it before they punch them and that would be premeditated wouldn’t it.
+
+COURT: So if someone punches someone in a pool and splits their nose who makes the call on whether it’s premeditated or not?
+
+MR FIRTH: Well the referee would make that call.”
+
+On the assumption that Bingo was given a red card for brutality towards Mr Van Schoor, Mr Firth stated that as Head of Water Polo and as a team manager he would definitely follow up on it “…if that was the case that it was for brutality then I would report it”. Had Bingo received a red card for brutality at the KES Tournament, Mr Firth would have expected Mr Mallett, as his water polo coach, to have reported that to the Head of Water Polo, and it would further be expected that Bishops would have a record of that report. 
+Mr Wallace testified that at the time of the incident between Bingo and Ross the protocol at Bishops was that if there was an instance of brutality or violence by a Bishops player at a sporting match, resulting in a red card for this, a report would be made to him by the teacher in charge, which in this case was the Head of Water Polo, Ms Fiona Mallett. It would then be his responsibility to evaluate it with reference to the school’s code of conduct. In Bingo’s case, upon receiving Ms Mallett’s report, Mr Wallace formed the view that his conduct was sufficiently serious and unsportsmanlike that a disciplinary meeting (the second highest on the scale of intervention options) was warranted. 
+Bishops keeps a disciplinary record for each of its learners. In Bingo’s case, Mr Wallace had been asked to procure that record for purposes of this trial. He had not read that document (which he obtained from the IT  
+[2025] 1 All SA 751 (WCC) at 768
+  department) before making it available. However he had no independent knowledge of Bingo ever having been disciplined previously for violence or any sporting misconduct. In addition the disciplinary record itself only reflects “assault – Grade 12”, which Mr Wallace clarified pertained to the punching incident with Ross, and a subsequent yellow card for a dangerous rugby tackle later that year. His evidence was further that if Bingo had been previously red carded for brutality, he would have expected to be informed about it, since this is what is required by the school’s reporting structure. However “I certainly wasn’t asked to investigate a red card in term one of 2017” (ie the Van Schoor incident). The same applied to the KES incident, but more particularly, given that more than two schools are involved with much interaction between school principals, coaches, teachers and the like “…there’s no way that we would have not picked up something of that nature”.
+In re-examination Mr Wallace was asked, in relation to red cards, whether there is always a context to be investigated or whether the mere fact of it is sufficient for Bishops’ “disciplinary approach”. He replied:
+
+“So ordinarily I would be made aware of a red card and I’d ask was it dealt with and if it was dealt with, and the teacher that was at the event or incident felt that ja, due justice was done, the… boy has learnt his lesson, he was given, you know he was kicked out of the game and that’s the kind of punishment, the consequence for it. Nothing further needs to be done then… because between the different sports red cards are given for so many different misdemeanours.”
+
+As I understood his evidence, it was pretty much in line with what Mr  Firth and Mr Pienaar also considered to be the correct referral protocol. In other words, it is not the case that whenever a red card is given during a water polo match, this must automatically be reported to the Head of Sport and/or Discipline. The match referee has a discretion whether a red card should be given or not; the nature of the infraction is all-important; and it is only those instances which are sufficiently serious, in the opinion of both the referee and the responsible member of teaching staff, that should be reported to the relevant Head. Given that none of the match referees, Mr Mallett or Ms Mallett were called by Ross to testify, and the inability of Mr Van Schoor and Mr Faber to specifically identify whether or not Bingo received a red card for brutality in the other incidents, the court is left with the materially uncontested versions of the Bishops and Rondebosch witnesses, which was that no disciplinary record for Bingo existed before the incident with Ross. 
+
+Discussion
+I deal first with Ross’s case against Bingo. There are two diametrically opposed versions of the incident itself. Ross bears the onus to establish on a balance of probabilities that Bingo caused the incident resulting in the punch and that, in punching him, Bingo was negligent.
+The well-established approach to determining a dispute of fact is as follows:4
+
+“To come to a conclusion on the disputed issues a court must make findings on (a) the credibility of the various factual witnesses; (b) their reliability; and (c) the 
+
+ 
+[2025] 1 All SA 751 (WCC) at 769
+
+probabilities. As to (a), the court’s finding on the credibility of a particular witness will depend on its impression about the veracity of the witness. That in turn will depend on a variety of subsidiary factors, not necessarily in order of importance, such as (i) the witness’ candour and demeanour in the witness-box, (ii) his bias, latent and blatant, (iii) internal contradictions in his evidence, (iv) external contradictions with what was pleaded or put on his behalf, or with established fact or with his own extracurial statements or actions, (v) the probability or improbability of particular aspects of his version, (vi) the calibre and cogency of his performance compared to that of other witnesses testifying about the same incident or events. As to (b), a witness’s reliability will depend, apart from the factors mentioned under (a)(ii), (iv) and (v) above, on (i) the opportunities he had to experience or observe the event in question and (ii) the quality, integrity and independence of his recall thereof. As to (c), this necessitates an analysis and evaluation of the probability or improbability of each party’s version on each of the disputed issues. In the light of its assessment of (a), (b) and (c) the court will then, as a final step, determine whether the party burdened with the onus of proof has succeeded in discharging it. The hard case, which will doubtless be the rare one, occurs when a court’s credibility findings compel it in one direction and its evaluation of the general probabilities in another. The more convincing the former, the less convincing will be the latter. But when all factors are equipoised probabilities prevail.” 
+
+Ross was a good witness. He was consistent in his version, did not attempt to embellish it and was candid when he was unable to cast light on any particular aspect. The clear impression I gained is that he was an honest, credible and reliable witness. Regrettably the same cannot be said of Bingo. Upon careful scrutiny of his testimony, it is my view that he showed himself to be an evasive witness who went to considerable lengths to distance himself from taking responsibility, and moreover demonstrated a propensity for economy with the truth. This is highlighted by the fact that when Ross was cross-examined on his behalf, no mention was made of Ross’s so-called “dirty tactics” in the pool before the incident, in particular the alleged unprovoked grabbing of Bingo’s genitals and his slapping him. Bingo is an obviously intelligent, well-educated individual who was represented by an experienced attorney, and it is inconceivable that he would not have mentioned this important information to his attorney. On the issue of credibility alone, where the two versions differed, I have no hesitation in accepting Ross’s version and rejecting that of Bingo’s. 
+The probabilities also favour Ross’s version. In this regard it must be borne in mind that Bingo denied having interfered with Ross in any way at all after Rondebosch was awarded the 5 metre penalty and Ross continued swimming at a fast pace towards the goals with the ball “in hand”. The witnesses were unanimous that this particular match was the highlight of the water polo season between these two teams; it was in its final chukka and the score was tied. It makes no sense in the scenario painted by Bingo that Ross, intent on reaching the goals to put his team ahead in the score, would instead turn to his left and pull Bingo under water when (again on Bingo’s version) he had not swum over Ross’s back and was innocently pursuing him on Ross’s left.
+The only individual who supported Bingo’s version that Ross pulled him under water by the drawstrings of his cap was Bingo’s mother who, as I have already indicated, was an unsatisfactory witness with a clear agenda to protect Bingo at all costs. No mention was made in either of the   
+[2025] 1 All SA 751 (WCC) at 770
+  independent referees’ reports about this or any prior dirty tactics by Ross towards Bingo, or indeed towards any other Bishops player. There was also no mention of this in Ms Mallett’s report, or in the outcome letter of Mr  Wallace following the disciplinary meeting. The reference in that letter to severe provocation by Ross was limited, as Mr Wallace testified, to Ross allegedly having grabbed Bingo’s genitalia. The earlier alleged slapping and grabbing by Ross did form part of Bingo’s pleaded case either. To my mind this was Bingo’s contrived afterthought in an attempt to portray himself in a more favourable light. 
+It is also worth bearing in mind that Bingo’s case was one of private (or self) defence and not putative private defence. The difference is that in private defence the attack must be unlawful, whereas in putative private defence the individual being attacked erroneously believes the attack is unlawful when it is in fact lawful.5 Accordingly, if Bingo had admitted that he swum over Ross’s back, pushing him under water; that Ross retaliated as part of what could reasonably be foreseen in such a match, given the tension and adrenalin pumping through both players, the position might well have been different.
+However Bingo relied squarely on Ross’s alleged unlawful attack and his consequent reactive punch which, according to Bingo, was reasonably proportionate to that attack. It stands to reason that when Ross was pushed under water after Bingo swam over his back, he may have instinctively pushed and shoved Bingo to make his way back to the surface; but there is no evidence to support Bingo’s version that Ross’s alleged punch to his stomach had such force that it knocked the air from his lungs. On the contrary, the unchallenged evidence of both Ross and Mr Van Schoor was that a punch under water is far less forceful than one above water, which is consistent with Bingo sustaining no injuries other than a small cut to his lip. The brief exchange between Bingo and Ross after the incident when Ross said “what the hell” and Bingo replied “don’t hit first”, viewed in this context, does not necessarily lead to a conclusion that therefore Ross must have hit Bingo first. 
+For purposes of the merits determination before me, it is not in dispute that as a result of the punch Ross suffered a fracture of the alveolar margin of the maxilla, and the displacement of numerous teeth as well as a dislodged tooth, for which he was required to undergo dental surgery including a bone graft socket preservation for one of his teeth. Accordingly, this could not have been a punch of the nature that Mr Van Schoor received. It was far more serious and must have been given with considerable force.
+It does not matter that the Office of the Director of Public Prosecutions ultimately declined to prosecute the criminal charges laid by various individuals in relation to the incident and its immediate aftermath, having been of the view that mediation was an appropriate route to follow. Ross is not required to prove Bingo’s unlawful assault on him beyond a reasonable doubt. All he is required to show is that a reasonable person in Bingo’s position would have foreseen the reasonable possibility that his attack on Ross would injure him; would have taken reasonable steps to   
+[2025] 1 All SA 751 (WCC) at 771
+  guard against it; and failed to take such steps. Whether a reasonable person would have taken those steps involves a value judgment. The evidence established on a balance of probabilities that Bingo made an unprovoked attack on Ross; a reasonable, experienced water polo player would have foreseen that pushing Ross under water so that he could not breathe could cause Ross to react in a manner enabling him to surface; and the force of the punch above water caused Ross serious injury. 
+It also does not matter that Bishops imposed a severe sanction on Bingo, since this in no way detracts from Ross’s entitlement at common law to be compensated for the unlawful assault. The reliance by Bingo’s attorney on this sanction as a mitigating factor in the context of wrongfulness – namely that Bingo “has been punished enough” – is in my view misplaced. I deal with wrongfulness more fully hereunder, but for this part of the case, and given the established facts, one can hardly imagine that the legal convictions of the community would consider nothing wrong with what happened to Ross. In addition, based on the independent match referee reports, Ms Mallett’s report, Mr Wallace’s outcomes letter and the WPSWP report, coupled with the severity of Ross’s injury, it can fairly be concluded that Bingo’s punch to Ross exceeded any legitimate expectation for receiving an injury of that nature in a contact sport such as water polo. It follows that Ross’s claim against Bingo on the merits succeeds. 
+I now turn to deal with Ross’s case against Bishops. At the outset it must be stated that in heads of argument filed on Ross’s behalf, a further, new complaint was alleged, namely that Bishops was negligent in that Mr Mallett (who according to some witnesses would hype up his players before a match) instructed Bingo to mark Ross in the final chukka. It would be grossly prejudicial to Bishops to entertain this when it was not pleaded and was raised for the first time after all the evidence was led, since it would amount to trial by ambush. I will accordingly not deal with it. 
+Ross has to prove on a balance of probabilities that Bishops breached its legal duty towards him to take all reasonable steps to ensure his safety and well-being while playing water polo against Bingo. The test for wrongfulness is an objective one. The question whether a legal duty has been breached is determined with reference to the boni mores or general legal convictions of the community.6 In H v Fetal Assessment Centre7 the Constitutional Court articulated the point of departure when determining wrongfulness:
+
+“In addition to the general normative framework of constitutional values and fundamental rights, our law has developed an explicitly normative approach to determining the wrongfulness element in our law of delict. It allows courts to question the reasonableness of imposing liability, even on an assumption that all the other elements of delictual liability – harm, causative negligence and damages – have been met, on grounds rooted in the Constitution, policy and legal convictions of the community.”
+
+To guard against arbitrary decisions resulting in uncertainty and unpredictability, a court has to eschew an “intuitive reaction to a collection of arbitrary factors” and rather follow a process where identifiable norms are assessed  
+[2025] 1 All SA 751 (WCC) at 772
+  balanced against one another.8 The reasonableness of imposing liability is founded, first, upon an objective, independent assessment of the reasonableness of the conduct in relation to its consequences; and, second, whether society (“the policy and legal convictions of the community, constitutionally understood”9) should entertain an action in the circumstances. Wrongfulness must be established in relation to a particular consequence, and to a particular person or class of persons. It cannot exist in the air. Conduct is wrongful or unlawful if it is objectively unreasonable; in other words, when, in light of all the circumstances, the defendant fails to behave in a manner which will not harm the plaintiff, and society deems it appropriate that an action should lie against the defendant.10
+The nature of reasonableness in the wrongfulness inquiry should not be confused with the nature of reasonableness in the negligence inquiry. In the wrongfulness context, the issue is whether it is reasonable to impose liability in the circumstances, having regard to the legal convictions of the community.11 It is about whether or not an independent bystander, taking into consideration all aspects of the case, would consider it appropriate that liability ensue.12 On the other hand, reasonableness in the negligence inquiry, although still objectively assessed, contains a more subjective aspect in that it looks at the situation through the eyes of the defendant only, and does not attempt to balance that perspective with the interests of the plaintiff and those of society generally. The inquiry focuses on the blameworthiness of the actor’s conduct, taking into account whether a reasonable person in the position of the defendant at the time would have foreseen the possibility of the harm occurring and would have taken steps to prevent that harm from occurring.
+As the point of departure in the inquiry into wrongfulness, water polo (and other contact sports like rugby) are played throughout South Africa at schoolboy level and it is thus regarded as reasonable to permit such sports according to the legal convictions of the community. The punch took place during a contact sport, which is, by its nature, physically aggressive and robust. Conduct that results in red cards is undoubtedly misconduct and not acceptable, but it is nevertheless foreseen as a risk when participating in a contact sport (as Ross accepted). If it were not, the FINA rules would not specifically mention red cards and provide for a range of sanctions for such behaviour. This is not an excuse for the behaviour, it is merely relevant to the question of its foreseeability (as a risk when participating in a contact sport, and that schools nevertheless permit to be played).
+The evidence established that Bishops has a sports policy (including at the time when Bingo was a learner there) to which its learners are subject.  
+[2025] 1 All SA 751 (WCC) at 773
+
+  It also has school rules and a code of conduct applicable to its learners. In this way, Bishops subjects its learners to behaviour required of them and relevant disciplinary processes and sanctions should these codes be breached. Its learners are required and expected to participate in school and sporting events subject to these codes. 
+
+The fixture in which the incident occurred was overseen by WPSWP which appointed independent match referees. It was played under the FINA rules, which apply to water polo. Accordingly, Bishops acted appropriately and within the norms and practices by having WPSWP appoint independent match referees. It was ultimately common cause that referees have absolute jurisdiction over the match. They are responsible for determining whether a match should be stopped or if any player’s behaviour warrants intervention or sanction. 
+Ross did not adduce any evidence of Bingo’s behaviour during the match up until the incident which should have alerted Bishops, the referees or anyone else that the incident was going to occur, or that any steps should be taken to prevent it from occurring. In particular there was no evidence that Bingo was, prior to the incident, evidencing “an aggressive sporting display” and that Bishops was allowing or condoning it. Accordingly, cut to its bare bones, Ross’s case was ultimately limited to whether or not, in light of a previous alleged poor sport disciplinary record of which Bishops was, or should reasonably have been, aware, Bishops should not have played Bingo in the match. The evidence demonstrated that at the time of the incident there were no sporting disciplinary records for Bingo held by either Rondebosch or Bishops. Put differently, he had a clean sports disciplinary record at both schools. 
+Counsel for Bishops also made the valid point that the fact of the incident itself is reflected in Bishops records, as well as a later incident relating to a yellow card in rugby for a dangerous tackle. This indicates that Bishops’ records (and reporting protocols) are reliable. WPSWP also had no record of any previous offences on Bingo’s part; the evidence established that Bishops’ reporting protocol was followed in relation to the incident; and as previously stated, the evidence of Mr Van Schoor and Mr Faber ultimately took this no further. To this it must be added that Rondebosch itself was content to play Ross against Bingo in that match; and Mr  Pienaar confirmed that the incident was unexpected and took everyone (including probably Bishops) by surprise. Having regard to all of the aforegoing, the inescapable conclusion is that Bishops did not breach its duty to Ross by playing Bingo in the match, and could not reasonably have foreseen the incident occurring. It follows that Ross’s case against Bishops fails. 
+
+Costs
+In the ordinary course costs would follow the result. However, as previously indicated, a considerable amount of unnecessary evidence had to be led by both Ross and Bishops in relation to Bingo’s “gladiatorial spectacle” defence which was only abandoned during closing argument. Although difficult to apportion with absolute accuracy, on considering the record I feel comfortable with apportioning 40% to consequent wasted court time and costs, for which Bingo must be held liable to Bishops even though Ross has been unsuccessful in his claim against it. 
+[2025] 1 All SA 751 (WCC) at 774
+As regards the scale of costs, both counsel for Ross and Bishops are very senior juniors and their respective attorneys have years of experience as well. I thus agree with them that it would be appropriate to order costs on Scale C as opposed to Scale B as was proposed by Bingo’s attorney. In addition Ross had to travel from overseas to testify and was obviously a necessary witness.
+In the result I make the following order:
+The plaintiff’s claim against the first defendant succeeds;
+The defendant is declared liable to the plaintiff for 100% of such damages as might be agreed upon or proven in consequence of the injuries he sustained in the water polo match between Rondebosch Boys’ High School and the second defendant on 3 February 2018;
+The plaintiff’s claim against the second defendant is dismissed;
+The first defendant shall pay the plaintiff’s costs, including the costs of counsel, on Scale C (party and party) and for this purpose the plaintiff is declared a necessary witness; and 
+The plaintiff shall pay 60%, and the first defendant shall pay 40%, of the second defendant’s costs, including the costs of Counsel, on Scale C (party and party).
+
+
+Footnotes
+1	  In terms of s 2(2) of the Apportionment of Damages Act 34 of 1956. 
+2	  The transcript reflects the word “that” instead of “but”. The word “but” accords with my contemporaneous note. 
+3	  Again, the transcript reflects the word “that” instead of “but’”. The word “but” accords with my contemporaneous note.
+4	 SFW Group Ltd and another v Martell Et Cie and others 2003 (1) SA 11 at para [5] [also reported at [2002] JOL 10175 (SCA) – Ed].
+5	  See inter alia C R Snyman Criminal Law 5ed at 113.
+6	  Neethling: Law of Delict 5ed at 50.
+7	  2015 (2) SA 193 (CC) at para [67] [also reported at 2015 (2) BCLR 127 (CC) – Ed].
+8	 Minister of Safety & Security v Van Duivenboden 2002 (6) SA 431 (SCA) at para [21] [also reported at [2002] 3 All SA 741 (SCA) – Ed]; Country Cloud Trading CC v MEC Department of Infrastructure Development, Gauteng 2015 (1) SA 1 (CC) at para [26] [also reported at 2014 (2) BCLR 1397 (CC) – Ed].
+9	 Louriro v iMvula Quality Protection (Pty) Ltd 2014 (3) SA 394 (CC) at para [53] [also reported at 2014 (5) BCLR 511 (CC) – Ed].
+10	  LAWSA: Delict at para [75].
+11	 Country Cloud Trading CC above at para [21].
+12	  LAWSA: Delict at para [75]. 
+
+For the plaintiff: 
+
+Adv P Eia instructed by A Batchelor & Associates 
+For the first defendant:
+
+W Van Heerden instructed by Van Wyk Van Heerden Incorporated
+For the second defendant:
+
+Adv BVaughan instructed by Clyde & Co 
+
+
+End of Document

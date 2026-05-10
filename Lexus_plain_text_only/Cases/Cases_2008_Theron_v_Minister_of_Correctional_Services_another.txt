@@ -1,0 +1,237 @@
+
+
+
+
+Theron v Minister of Correctional Services & another [2008] 5 BLLR 458 (LC)
+Labour Law Reports
+
+Division: Labour Court, Cape Town
+Case No: C579/07
+Date: 13/12/2007
+Before: Nieuwoudt, Acting Judge
+Keywords
+
+
+Application in terms of section 158(1)(a) of the LRA
+Protected disclosure — What constitutes — Prison doctor reporting poor healthcare of prisoners to inspecting judge and Parliamentary Committee — Disclosure protected.
+Occupational detriment — What constitutes — Transfer of employee in response to employee’s protected disclosure constituting occupational detriment.
+Transfer — Of employee — Transfer effected in response to employee’s protected disclosure constituting occupational detriment.
+Words and phrases — “Occupational detriment” — Transfer of employee in response to employee’s protected disclosure constituting occupational detriment.
+
+Editor’s Summary
+
+
+The applicant, a medical doctor responsible for providing healthcare at Pollsmoor Prison, compiled a report concerning healthcare standards at the prison and submitted it to the Inspecting Judge of Prisons and to the Parliamentary Select Committee on Correctional Services. Both the judge and the committee subsequently compiled further reports highly critical of healthcare at the prison. The applicant was charged for approaching the committee and the judge without first informing the area commissioner, but the department withdrew the charges after the applicant launched urgent proceedings aimed at interdicting the disciplinary proceedings and referred a dispute to the bargaining council having jurisdiction. The parties concluded a settlement agreement. When, pursuant to that agreement, the applicant reported for duty at Pollsmoor, he was informed that his services there were no longer required, and that he was to report for duty at a community health centre elsewhere. The applicant then referred a dispute concerning an alleged occupational detriment to the bargaining council, and sought an order setting aside the decision to remove him from Pollsmoor pending the outcome of the unfair labour practice proceedings.
+
+After setting out the requirements for urgent relief, the Court held that to prove a prima facie right to the relief sought, the applicant had to prove on a balance of probabilities that he had been subjected to an occupational detriment because he had made a protected disclosure, and that he was entitled to protection under the Protected Disclosures Act 26 of 2000 (“PDA”). This meant in turn that the applicant was required to prove that he had made a disclosure concerning a person’s failure to comply with a legal obligation or that the health or safety of an individual was being threatened and that the disclosure deserved protection. The Court held that the applicant’s disclosures fell within the scope of the PDA because the department was constitutionally and legally obliged to provide prisoners with adequate healthcare. The applicant’s disclosures related to  
+[2008] 5 BLLR 458 (LC) at 459
+shortages of healthcare practitioners and insufficient disease control mechanisms. Since the disclosure had not been made to the employer, the disclosure had to have been made in good faith and the applicant must have had grounds to reasonably believe that they were true. The applicant had satisfied both conditions. Moreover, he had previously reported the problems to the department and little or no action had been taken. The disclosures also contained exceptionally serious allegations, and it had not been alleged that the applicant had breached a duty of confidentiality or that the disclosures were not in the public interest. The applicant had therefore established a right to the relief sought, open to little doubt.
+
+The Court held further that, although the department was entitled to relocate employees, the applicant’s transfer from Pollsmoor constituted an occupational detriment because it was occasioned by a protected disclosure. That the applicant was employed by both the Department of Health and the Department of Correctional Services was of no moment, because the transfer was effected by an employer. Nor could the department rely on the claim that the employment relationship had been damaged, because the rupture of the relationship had been caused by the protected disclosures.
+
+As to the balance of convenience, the Court noted that the applicant had been rendering service as a “sessional” doctor at Pollsmoor Prison for more than 20 years, and that the prison still required the service of sessional doctors. The only inconvenience the department would suffer was accordingly that some officials who had taken exception to the applicant’s protected disclosures would have to work with him. The Court accordingly held that, insofar as it was relevant given the fact that the applicant had suffered an occupational detriment, the balance of convenience favoured the applicant.
+
+The decision to transfer the applicant was set aside and the department was directed to reinstate him at Pollsmoor Prison pending the outcome of the unfair labour practice proceedings. 
+
+____________________________________________________________________________________
+
+Nieuwoudt AJ:
+
+Introduction
+In this application, the applicant sought a rule nisi, an interim interdict and certain ancillary relief on 4 December 2007.
+The following order was made on 7 December 2007:
+The applicant’s failure to comply with the Rules of this Court relating to forms, service and time periods is condoned and this matter is heard as one of urgency.
+A rule nisi is issued, calling upon the respondents to show cause on a date to be determined by the registrar why an order should not be granted in the following terms:
+reviewing and setting aside the decisions of the first and/or second respondents;
+to remove the applicant from his post as the senior medical practitioner at Pollsmoor Correctional Services Facility, medium A section (herein referred to as “Pollsmoor”); and/or 
+[2008] 5 BLLR 458 (LC) at 460
+ 2.2.2 to transfer the applicant from Pollsmoor to Lotus River Day Community Health Clinic;
+
+  (hereinafter collectively referred to as “the decisions”).
+
+substituting the decisions with a finding that the applicant be permitted to return to his post as the senior medical practitioner at Pollsmoor; alternatively, remitting the determination of this issue to the first and/or second respondent for reconsideration with such directions as the Court deems meet;
+directing the respondents to reinstate the applicant as a sessional medical practitioner at Pollsmoor forthwith;
+directing the respondents to pay the costs hereof, including costs of two counsel, jointly and severally, the one paying the other to be absolved;
+granting the applicant further and/or alternative relief;
+Paragraph [2.3] hereof shall operate as an interim interdict pending the outcome of this review application and the outcome of the unfair labour practice dispute between the parties, to be referred to this Court in due course.
+The interim interdict in paragraph [3] hereof shall lapse in the event that the applicant does not refer an unfair labour practice dispute to this Court within 10 days of the issuance of a certificate of non-resolution of the dispute by the bargaining council having jurisdiction to conciliate the dispute (“the council”).
+The respondents are to pay the costs of this application for interim relief, including costs of two counsel, jointly and severally, the one paying the other to be absolved.
+I undertook to furnish my reasons for the order at a later stage, and do so herewith.
+The pleadings in this matter were voluminous and ran in excess of 780 pages, including bulky annexures that were not always placed in context in the affidavits. This was not always useful in deciding the matter.
+The salient facts of the matter may, however, be distilled as follows hereinafter.
+The applicant had provided medical care to prisoners at Pollmoor management area, medium A (hereinafter referred to as “Pollsmoor”) for approximately 22 years. The capacity in which he had done so, was in dispute, although the parties were in agreement that the applicant was an employee of both the Department of Correctional Services (hereinafter referred to as “the DCS”) and the Department of Health (hereinafter referred to as “the DOH”) for the purposes of the Protected Disclosures Act 26 of 2000 (hereinafter referred to as “the PDA”).
+For a number of years, there had been significant problems with the standard of healthcare, and the circumstances under which it had been rendered, at Pollsmoor and the applicant had on numerous occasions complained about these aspects to a number of officials at the DCS and  
+[2008] 5 BLLR 458 (LC) at 461
+  the DOH. The parties were not ad idem about the extent of these problems and whether the DCS had made adequate attempts to address them.
+During January 2007, the applicant raised these problems with the office of the inspecting judge of prisons. During April 2007, the applicant also raised these problems with the Portfolio Committee on Correctional Services of Parliament.
+The office of the inspecting judge visited Pollsmoor during May 2007 and, on 25 May 2007, it delivered a report about the standard of healthcare at Pollsmoor. This report was highly critical of the health care service at Pollsmoor.
+The Portfolio Committee also visited Pollsmoor during May 2007 and also rendered a report which was critical of the health care service at Pollsmoor.
+On 19 July 2007, the applicant was charged by the DOH with misconduct for contacting the inspecting judge, Justice Erasmus, to do an inspection at Pollsmoor Prison Hospital, medium “A”, without informing the area commissioner and visiting Mr Bloem, the chairperson of a Portfolio Committee who eventually approached Parliament via Mr Selfe.
+The applicant launched urgent proceedings in this Court to interdict the DOH from holding the envisaged disciplinary proceedings. The DOH agreed to an order interdicting it from proceeding with the disciplinary proceedings. The charges against the applicant were later withdrawn, and this led to the settlement of the unfair labour practice dispute that the applicant had referred to the Public Health and Welfare Sectoral Bargaining Council.
+When the applicant thereafter attempted to return to work at Pollsmoor on 14 September 2007, he was informed by an official that the DCS had written a letter to the DOH, advising it that his services were no longer required at Pollsmoor. The applicant obtained a copy of this letter some time later and its contents are quoted because of its importance. The letter, which was addressed to Dr Jano, who is the applicant’s superior, reads:
+
+“As you are aware, we had various conversations regarding the above-mentioned matter.
+
+I took cognisance of the fact that DOH agreed to Dr Theron’s relief seeking an interdict preventing him from being disciplined.
+
+However, I am of the opinion that the relationship between Pollsmoor management area and Dr Theron has been severely damaged. Therefore it would be in the best interest of Pollsmoor management area not to place Dr Theron back at Pollsmoor.”
+
+  The letter was signed by Reverend Fry, the Acting Area Co-ordinator: Development and Care at Pollsmoor.
+
+The applicant was not heard before the decision to no longer permit him to work at Pollsmoor was taken.
+As a consequence of the decision of the DCS, Dr Jano placed the applicant at the Lotus River Day Community Health Centre, where the working conditions were a lot better than at Pollsmoor. 
+[2008] 5 BLLR 458 (LC) at 462
+The applicant deemed his removal from Pollsmoor to be an occupational detriment in terms of the PDA, and unlawful administrative action, and launched a review application in this Court and referred a further dispute about an alleged unfair labour practice to the Public Health and Welfare Sectoral Bargaining Council.
+
+Urgency
+The parties were ad idem that the application should be heard as a matter of urgency, and I ruled accordingly.
+
+Application for amendment
+During the course of argument, Adv Kahanovitz, who appeared for the applicant with Mr Leslie, moved for an amendment to prayer 2.3 in the notice of motion by inserting the words “a sessional” between the words “as” and “senior” in the first line of the prayer. Mr Arendse SC, who appeared for both the respondents, vigorously opposed this application on the basis that the applicant had been obliged to make out his case in his founding affidavit, and that the respondents had consistently pointed out to the applicant that he had not occupied the post of “the senior medical practitioner” at Pollsmoor, as he had alleged in his founding affidavit. I was of the view that the respondents would not be prejudiced by the amendment, as they had, in fact, correctly described the applicant’s position in their papers, and had argued the matter on this basis. Accordingly, I granted the amendment.
+It would be convenient to deal with another contention raised by Mr Arendse about the description by applicant of his post at this stage. Mr Arendse contended that the application should be dismissed due to the fact that the applicant had not made out his case in his founding affidavit. This objection again centred on the fact that the applicant had incorrectly described his post at Pollsmoor. During argument, it became clear that both parties knew that the applicant had been a part time sessional senior medical practitioner working at Pollsmoor, medium A. Absolutely nothing turned around the incorrect description of the post by the applicant in his papers. In fact, the only real issue in dispute between the parties about the post of the applicant was whether he had been employed on a fixed-term contract or permanently. The respondents were not prejudiced by the incorrect description and the matter was fully argued. I found the following dictum in Director of Hospital Services v Mistry 1979 (1) SA 626 (AD)1 at 636C useful:
+
+“I am not losing sight of the fact that, in the absence of an averment in the pleadings or the petition, a point may arise which is fully canvassed in the evidence, but then it must be fully canvassed by both sides in the sense that the court is expected to pronounce upon it as an issue.”
+
+This aspect was accordingly also not fatal to the applicant’s case. 
+[2008] 5 BLLR 458 (LC) at 463
+
+Requirements for interim relief
+The parties were ad idem about the test to be applied and referred to the well known passage in Webster v Mitchell 1948 (1) SA 1186 (W) at 1189.
+
+“the right to be set up by an applicant for a temporary interdict need not be shown by a balance of probabilities. If it is ‘prima facie established though open to some doubt’ that is enough.
+
+. . .
+
+The proper manner of approach I consider is to take the facts as set out by the applicant, together with any facts set out by the respondent which applicant cannot dispute, and to consider whether, having regard to the inherent probabilities, the applicant could [this was changed to ‘should’ in Gool v Minister of Justice 1955 (2) SA 682 (C) at 688] on those facts obtain final relief at the trial. The facts set up in contradiction by the respondent should then be considered. If serious doubt is thrown upon the case of the applicant he could not succeed in obtaining temporary relief, for his right prima facie established, may only be open to ‘some doubt’. But if there is mere contradiction, or unconvincing explanation, the matter should be left to trial and the right be protected in the meanwhile, subject of course to the respective prejudice in the grant or refusal of interim relief.”
+
+  See, also, Spur Steak Ranches Ltd & others v Saddles Steak Ranch, Claremont & another 1996 (3) SA 706 (C) at 714B–H.
+
+I now turn to the various elements that require consideration in order to decide whether an interim interdict should be granted or not.
+
+Right
+The applicant had two causes of action, namely:
+the unlawfulness of the decision to transfer him, which he sought to enforce by way of an application for review, and
+the fact that his transfer constituted an unfair labour practice because it was an occupational detriment on account of a protected disclosure made by him, and which he sought to enforce by the referral of a dispute about an alleged unfair labour practice to the Public Health and Welfare Sectoral Bargaining Council.
+In argument, the parties focused on the unfair labour practice dispute, although Adv Kahanovitz did not abandon reliance on the review application. Due to the fact that this was an application for interim relief, and that I had to decide the matter on an urgent basis, I focused on the unfair labour practice dispute as I was of the view that the applicant would be entitled to interim relief if he established a right in this regard.
+I accordingly dealt with the issue of whether the applicant had been subjected to an occupational detriment because he had made a protected disclosure, in order to decide whether the applicant had established a right.
+This Court dealt with the PDA and, in particular, a disclosure in terms of section 9 thereof, in Tshishonga v Minister of Justice and Constitutional Development & another [2007] 4 BLLR 327 (LC). I relied heavily on this judgment in forming my opinion. 
+[2008] 5 BLLR 458 (LC) at 464
+Was a disclosure made?
+Paragraphs (b) (that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject); and (d) (that the health or safety of an individual has been, is being or is likely to be endangered) of the definition of disclosure in the PDA were material to the case.
+Section 35(2)(e) of the Constitution of the Republic of South Africa, 1996 (“the Constitution”) provides that prisoners are entitled to: conditions of detention that are consistent with human dignity, including at least exercise and the provision, at State expense, of adequate accommodation, nutrition, reading material and medical treatment;. This Constitutional requirement is given effect to, inter alia, by the Correctional Services Act 111 of 1998. Section 12(1) of that Act provides that the DCS must, within its available resources, provide adequate healthcare services, and section 12(2)(a) provides that every prisoner has the right to adequate medical treatment. The Correctional Services Regulations, inter alia, require that prisoners must be medically examined within 24 hours of admission. The purpose of this requirement is clear. It serves to protect both the new inmate and other inmates, by the identification of any medical condition that the new inmate might have. The treatment required by the inmate could thus be established and he or she could be isolated from other prisoners if the condition was contagious.
+The applicant complained, inter alia, about staff shortages in health care practitioners and insufficient disease control measures at Pollsmoor. Both these complaints relate directly to both the legal obligations of the DCS to provide health care, and the health of individuals. It thus seemed that the communications by the applicant to the office of the inspecting judge and the Portfolio Committee were disclosures as contemplated by the PDA, and more particularly by paragraphs (b) and (d) of that definition.
+Were the disclosures deserving of protection?
+Due to the fact that the disclosures had not been made to the employer (as contemplated by section 6), a member of Cabinet or Executive Council (as contemplated by section 7) or a body as envisaged by section 8, any right to protection that the applicant might have, had to be assessed in terms of section 9 of the PDA.
+In order to qualify for protection in terms of section 9, the applicant had to meet three sets of requirements.
+Firstly, the applicant had to have made the disclosure in good faith and he must have reasonably believed that the contents thereof were substantially true. He must furthermore not have made the disclosure for personal gain. On the facts stated by the applicant, these requirements were met. In rebuttal, all that the respondents advanced, was that the applicant had overstated the problem, and that the DCS had been busy rectifying the problems, within its 
+
+operational and budgetary constraints. It seemed that, at the very least, the applicant had believed that the disclosures were substantially true, and respondents did not show that he had been mala fide. It was not contended that the applicant acted for personal gain.
+
+Once the applicant had passed the abovementioned threshold, the disclosure would be protected if:
+one or more of the conditions referred to in section 9(2) applied; and
+it had been reasonable to make the disclosure in all the circumstances of the case.
+As far as the requirements of section 9(2) were concerned, the applicant relied on the conditions contained in section 9(2)(c) and section 9(2)(d).
+With regard to section 9(2)(c):
+The applicant contended that he had previously made disclosures of substantially the same information to his employer and that no action had been taken within a reasonable period.
+It was common cause that the applicant had complained to the DCS and DOH about the same matters that he had complained about to the office of inspecting judge and the Portfolio Committee. The respondents, however, vigorously disputed the fact that no action had been taken as a result of the disclosures. Adv Kahanovitz contended that the word “no” should not be interpreted literally as it would have absurd consequences if very little or woefully inadequate action by an employer would deprive an employee of the protection afforded by the PDA. There seemed to be merit in this contention but it was not necessary to decide it at this stage of the proceedings. A court finally deciding the matter would hopefully have more information about exactly what the applicant had disclosed to the office of the inspecting judge and the Portfolio Committee, and adequacy of the remedial steps that the DCS had taken in response to the applicant’s earlier complaints.
+With regard to section 9(2)(d):
+It seemed that the complaints by the applicant related to an impropriety of an exceptionally serious nature as contemplated by section 9(2)(d).
+I did not understand this requirement to mean that the conduct of the employer had to be exceptionally blameworthy, but that it meant that the consequences of the failure to comply with a legal obligation (paragraph (b) of the definition of disclosure) or the endangerment of health or safety of an individual/s (paragraph (d) of the definition of disclosure) would be exceptionally serious. The fact that the health of prisoners had been, was being, or was likely to be endangered, must in itself be sufficient to qualify as  
+[2008] 5 BLLR 458 (LC) at 466
+  being of an exceptionally serious nature. Again, a court that is apprised of all the facts should finally decide this point.
+Section 9(3) then provides that an employee would only be protected if it had been reasonable for the employee to make the disclosure, in the context of 9 listed items. They are dealt with in turn:
+
+ 28.8.1 (a) the identity of the person to whom the disclosure is made;
+
+   It had been reasonable for the applicant to make the disclosure to the office of the inspecting judge and the Portfolio Committee as these two bodies clearly had a direct nexus to correctional services.
+
+ 28.8.2 (b) the seriousness of the impropriety;
+
+   The issue of the seriousness of the impropriety is dealt with in paragraph [28.7.2] above.
+
+ 28.8.3 (c) whether the impropriety is continuing or is likely to occur in the future;
+
+   It seemed common cause that the impropriety would be continuing. All that the respondents contended was that the problems were being dealt with, within the constraints of the DCS.
+
+ 28.8.4 (d) whether the disclosure is made in breach of a duty of confidentiality of the employer towards any other person;
+
+   There was no allegation that the applicant, in making the disclosure, had breached a duty of confidentiality of the DCS or the DOH towards any other person.
+
+ 28.8.5 (e) in a case falling within subsection (2)(c), any action which the employer or the person or body to whom the disclosure was made, has taken, or might reasonably be expected to have taken, as a result of the previous disclosure;
+
+   The DCS had taken action as a result of the previous disclosures although the parties were in dispute about the adequacy thereof. On the facts contended by the applicant, it seemed as if this action had been woefully inadequate, but on the facts submitted by the respondents, the DCS has done what it could under the circumstances. Again this point was not finally decided, although the facts advanced by the respondents did not create much doubt.
+
+ 28.8.6 (f) in a case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the employee complied with any procedure which was authorised by the employer;
+
+   Mr Arendse argued that the applicant should have turned to the steering committee established by the agreement between the DOH and the DCS, or the  
+[2008] 5 BLLR 458 (LC) at 467
+   Superintendent-General of the DOH. I was however of the view that the applicant had done what he could in this regard. He consistently complained to his direct superior, Dr Jano, and even to Dr Bitalo, who was Dr Jano’s superior. He had also, from time to time, complained to various officials at Pollsmoor. The fact that none of the aforementioned recipients of the complaints had informed the applicant that the steering committee or Superintendent-General was the correct body to complain to, strongly suggested that there was no requirement that the applicant had an obligation to direct his complaints to these bodies.
+
+ 28.8.7 (g) the public interest;
+
+   It must be in the public interest that serious shortcomings in the provision of healthcare services to prisoners be communicated to the inspecting judge or the Portfolio Committee after complaints to officials of the DCS and DOH had not led to the rectification of the shortcomings.
+
+The disclosures by the applicant were accordingly protected disclosures. Adv Kahanovitz invited me to find that the applicant had established a clear right in this regard. Due to the concerns set out hereinbefore, I was, however, of the view that the right was open to some doubt, albeit not much.
+Occupational Detriment
+Item (c) of the definition of occupational detriment, deals with the transfer of the employee, against his or her will.
+There was no suggestion that the applicant had agreed to be transferred from Pollsmoor.
+Mr Arendse, however, contended that the applicant had not been transferred because he had been employed by the DOH as a senior medical practitioner, and that the DOH could accordingly employ him in that capacity at any place within the area of the Metro District Health Services. This argument lost sight of the fact that, although an employer might, at common law, be entitled to transfer an employee from one workplace to another, it did not detract from the protection that the PDA afforded to such an employee if that transfer had been occasioned by a protected disclosure.
+Mr Arendse furthermore contended that the DOH rendered services to the DCS in terms of an agreement and that the DOH had no right to foist an unwanted doctor onto the DCS. However, due to the fact that it was common cause that both the DOH and the DCS was the employer of the applicant for purposes of the PDA, the move away from Pollmoor, at the instance of the DCS, constituted a transfer at the instance of an employer. 
+[2008] 5 BLLR 458 (LC) at 468
+The next question that arose was whether there was a nexus between the disclosure and the occupational detriment. In Communication Workers Union & another v Mobile Telephone Networks (Pty) Ltd (2003) 24 ILJ 1670 (LC)2 at 1677F, Van Niekerk AJ held that: “. . . provided that there is some demonstrable nexus between the making of the disclosure and the occupational detriment threatened or applied by the employer, the protections of the PDA should apply”.
+The applicant passed this test. It is clear that the DOH attempted to discipline the applicant for communicating with the inspecting judge and the Portfolio Committee. It is equally clear that this attempt floundered in the face of an application to this Court. The next thing that happened was that the applicant was informed that he would no longer work at Pollsmoor. The DCS set out its reason for not wishing the applicant at Pollsmoor in a contemporaneous letter, quoted in paragraph [13] above. The only reason that was referred to was that the relationship between it and the applicant had been severely damaged. That damage was caused by the disclosures and the consequences thereof. Accordingly, the nexus between the disclosure and the occupational detriment had been established.
+The right that the applicant had established was that he suffered an occupational detriment because he had made a protected disclosure. Employees who do so should be protected by this Court. See Tshishonga, supra, paragraphs [166]–[175] at 355–357.
+
+Irreparable harm
+Irreparable harm has been defined as “the loss of property (including incorporeal property and money) in circumstances where its recovery is impossible or improbable. The loss need not necessarily be financial loss: it may consist of an irremediable breach of the applicant’s rights”. See Superior Court Practice (Juta) at E8–11.
+This requirement must not to be confused with the balance of convenience requirement. The key is whether the harm that the applicant is suffering can be restored when the matter is finally decided. In this case, it can be; as much as the applicant can be restored to the position of sessional medical practitioner at Pollsmoor by this order, so he can be by any final order which this Court may make in the dispute. This is a factor which weighs against the granting of interim relief.
+
+Balance of Convenience
+In Eriksen Motors (Welkom) Ltd v Protea Motors, Warrenton & another 1973 (3) SA 685 (A)3 at 691E–F, the court held that:
+
+“In exercising its discretion the court weighs, inter alia, the prejudice to the Applicant, if the interdict is withheld, against the prejudice to the respondent if it is granted. This is sometimes called the balance of convenience.
+
+ 
+[2008] 5 BLLR 458 (LC) at 469
+
+The aforegoing considerations are not individually decisive, but are inter-related; for example, the stronger the applicant’s prospects of success the less his need to rely on prejudice to himself. Conversely, the more the element of ‘some doubt’, the greater the need for the other factors to favour him.”
+
+Due to the fact that I was of the opinion that the right established by the applicant, was not open to much doubt, the balance of convenience did not play such a strong role in the exercise of my discretion.
+Mr Arendse contended that the applicant would, in fact, suffer no inconvenience, due to the fact that he was employed by the DOH on a fixed-term contract that expired on 31 December 2007. In support of this contention, he relied on one-year, fixed-term contracts of employment presented to the applicant during 2006 and 2007, which he refused to sign. The applicant stated that he was in the formal employment of the DOH as a senior medical practitioner and that he had been providing services to Pollsmoor Prison for more than two decades. Mr Arendse contended that the status of the applicant had been changed to a fixed-term employee as a result of a bargaining council resolution and/or of action by the Auditor-General. However, he was unable to find any support in the papers for this submission. Accordingly, on the evidence before me, I found that the applicant was a part time, permanent employee of the DOH.
+The prejudice relied on by Adv Kahanovitz was that the applicant would be under a continued impediment if the interim relief were not granted. This seemed to be prejudice that all applicants for interim relief in dismissal, suspension and transfer disputes before this Court would suffer, and did not assist in deciding the balance of convenience. The Applicant was still employed as a sessional medical practitioner, and he was based at a workplace where the conditions were more favourable. As Mr Arendse had pointed out, this type of inconvenience was significantly less than that suffered by an employee who had been dismissed.
+This Court is reluctant to grant interim relief to dismissed employees. Hultzer v Standard Bank of South Africa (Pty) Ltd [1999] 8 BLLR 809 (LC); UWCASU & others v University of the Western Cape (1999) 20 ILJ 1300 (LC).4 See, also, Hlope & others v Minister of Safety and Security & others [2006] 3 BLLR 297 (LC) at 307D–E where this Court held:
+
+“I would also note the long-standing practice in this Court of refusing to grant urgent interim relief in the form of reinstatement in circumstances where an employee is dismissed, unless exceptional and cogent grounds exist. Where a dispute concerns a transfer, the threshold must rise accordingly. For these reasons, I am not persuaded that any harm to the applicants consequent on their transfer is irreparable.”
+
+It would seem that, although the court referred to irreparable harm, it appeared to be dealing with the inconvenience that the applicants were suffering as a result of a transfer and not the issue as to whether they might not be able to obtain full restoration of their rights at a final hearing.
+The contention of Adv Kahanovitz that the applicant was precluded from working with prisoners, which was his passion and which he had been  
+[2008] 5 BLLR 458 (LC) at 470
+  doing for about two decades, seemed to be the real inconvenience that the applicant was suffering.
+Against this, Mr Arendse submitted that the DCS no longer required the services of the applicant due to the fact that Dr Mackelarz, had been permanently appointed and had taken over those functions. I was not persuaded by this argument. A number of sessional doctors, including the applicant, worked at Pollsmoor at a time when a Doctor George had been appointed permanently. By all accounts, the presence of Doctor George had not lead to Pollsmoor being overstaffed with medical practitioners. It was accordingly difficult to comprehend how (with Dr George having being replaced by Dr Mackelarz after a period of time) Pollsmoor no longer required the services of one of those sessional doctors. Thus, the only inconvenience that the DCS would suffer if the applicant was to return to Pollsmoor on an interim basis was the fact that officials, who took exception to the fact that he had made the disclosures to the inspecting judge and the Portfolio Committee, would have to work with him. It did however appear that his interaction with such officials would be limited.
+Accordingly, the balance of convenience favours the applicant, but not by much.
+
+Conclusion
+I formed the view that the applicant had established a right that was open to slight doubt, that that right was especially worthy of protection by this Court, that he suffered no irreparable harm, and that the balance of convenience slightly favoured him.
+I exercised my discretion in favour of granting interim relief, mainly because the reason that the applicant’s right had been infringed, was that he had made a protected disclosure, which made him especially deserving of the protection of this Court.
+
+Costs
+Mr Arendse submitted that the respondents should be granted costs if they were successful, alternatively that no order as to costs should be made. Adv Kahanovitz contended that costs should follow the cause and that the applicant should be entitled to the costs of two counsel if he succeeded. Mr Arendse opposed this proposition. I was of the view that costs should follow the result and that the matter justified the employment of two counsel. The papers were voluminous and the legal issues were complex. Accordingly, I awarded costs, including the costs of two counsel to the applicant.
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	 Also reported at [1979] 1 All SA 292 (A) – Ed.
+2	Also reported at [2003] 8 BLLR 741 (LC) – Ed.
+3	 Also reported at [1973] 4 All SA 116 (A) – Ed.
+4	 Also reported at [2002] 5 BLLR 487 (LC) – Ed.
+
+For the applicant:
+Adv C Kahanovitz and Adv G Leslie instructed by the Open Democratic Advice Centre 
+For the respondents:
+Adv N Arendse SC instructed by the State Attorney
+ 
+[2008] 5 BLLR 458 (LC) at 471
+
+
+End of Document

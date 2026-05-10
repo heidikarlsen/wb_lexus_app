@@ -1,0 +1,1019 @@
+
+
+
+
+(ZA) GN 40 of 23 January 2009:  Second Edition Environmental Implementation and Management Plan in terms of Chapter 3 of the National Environmental Management Act, 1998 (Act No. 107 of 1998) (Government Gazette No. 31806)
+
+
+
+National Subordinate Legislation  >  ZA Subordinate Legislation  >  N  >  National Environmental Management Act, No. 107 of 1998  >  Rules and Regulations  >  Environmental Plans
+
+The Department of Water Affairs and Forestry must in terms of section 11 (3) of the National Environmental Management Act, 1998 (Act No. 107 of 1998) prepare a consolidated Environmental Implementation and Management Plan, as the Department has activities and functions that both impact and manage the environment.
+
+The Department hereby publishes in terms of section 15 (2) (b) of the National Environmental Management Act, 1998 (Act No. 107 of 1998) the Environmental Implementation and Management Plan as recommended by the Committee for Environmental Co-ordination and adopted by this Department, and as set out in the Schedule hereto.
+
+In terms of sub-section 15 (2) (b) the plan becomes effective from date of publication.
+
+(Signed)
+
+DIRECTOR-GENERAL: WATER AFFAIRS AND FORESTRY (ACTING)
+
+DATE: 09/01/2009
+
+DEPARTMENT OF WATER AFFAIRS AND FORESTRY
+
+SECOND EDITION – CONSOLIDATED ENVIRONMENTAL IMPLEMENTATION MANAGEMENT PLAN (CEIMP)
+
+March 2008
+
+Prepared by
+
+The Directorate: Water Abstraction and Instream Use 
+Sub-Directorate: Environment and Recreation
+
+For further information please contact
+
+Ms. Valerie du Plessis
+
+Tel: 012 336 8679 E-mail: duplessisv@dwaf.gov.za
+
+Published by
+
+Department of Water Affairs and Forestry
+
+Private Bag X313
+
+PRETORIA, 0001
+
+Republic of South Africa
+
+Tel: (012) 336 7500/ +27 12 336 7500
+
+Fax: (012) 323 0321/ +27 12 323 0321
+
+Copyright reserved
+
+No part of this publication may be reproduced in any manner without full acknowledgement of the source
+
+This report should be cited as:
+
+Department of Water Affairs and Forestry, Consolidated Environmental Implementation Management Plan, 2008. Second Edition. Pretoria.
+
+Co-ordinated by:
+
+Sub-Directorate: Environment and Recreation
+
+Private Bag X313
+
+PRETORIA
+
+0001
+
+In Collaboration with:
+
+Nemai Consulting
+
+PO Box 1673
+
+SUNNINGHILL
+
+2157
+
+DOCUMENT INDEX
+
+
+APPROVAL
+
+
+
+ACKNOWLEDGEMENTS
+
+The following individuals are thanked for their contributions to the document:
+
+1. Project Management Committee
+
+
+2. Stakeholders
+
+TABLE OF CONTENTS
+CHAPTER 1 INTRODUCTION
+Definitions and key concepts 
+Acronyms 
+1. Purpose of the Consolidated Environmental Implementation Management Plan (CEIMP)
+2. Overview of dwaf’s mandate, vision, mission and values
+3. DWAF’s primary functions
+4. Overview of the DWAF structure
+5. DWAF’s legislative framework
+CHAPTER 2 ENVIRONMENTAL IMPLEMENTATION PLAN
+1. Description of DWAF’s policies, plans and programmes that significantly affect the environment
+2. Description of the manner in which the policies, plans and programmes will comply with NEMA principles and national norms and standards
+3. Description of the manner in which the policies, plans and programmes will excercise the function of environmental management
+4. Recommendations to promote Integrated Environmental Management (IEM)
+5. Action plan for the implementation of policies, plans and programmes
+CHAPTER 3 ENVIRONMENTAL MANAGEMENT PLAN
+1. Description of DWAF’s Environmental Functions
+2. Description of Environmental Norms and Standards
+3. Description of the Policies, Plans and progRammes Designed to Ensure Compliance with DWAF’s Policies
+4. Description of Priorities Regarding Compliance
+5. Description of the Extent of Compliance
+6. Description of the Environmental Management Arrangements for Co-operation
+7. Proposal for the Promotion of Objectives and Plans for Integrated Environmental Management (IEM)
+8. Action Plan for the Management of Policies, Plans and Programmes
+9. Conclusion
+LIST OF TABLES
+Table 1.1 DWAF’s Broad Strategic Objectives
+Table 1.2 Programme and sub-programmes as per DWAF Strategic Plan 2007/08 – 2010/11
+Table 1.3 Administration Budget
+Table 1.4 Water Resource Management Budget
+Table 1.5 Water Services Budget
+Table 1.6 Forestry Budget
+Table 1.7 Legislation applicable to DWAF
+Table 2.1 IEM Series developed by DWAF
+Table 2.2 Co-operation Relationships and Partnerships for Implementation Functions
+Table 2.3 Compliance Key Action Areas for National Water Resource Infrastructure Branch
+Table 2.4 Compliance Key Action Areas for Monitoring Systems for Gauging Weirs and Fish Ways
+Table 2.5 Compliance Key Action Areas for Remediation Measures to Protect Water Resources
+Table 2.6 Compliance Key Action Areas for Water Resource Information Management Systems
+Table 2.7 Compliance Key Action Areas for Working for Water Programme
+Table 2.8 Compliance Key Action Areas for State Forests managed by DWAF
+Table 3.1 Policy/Strategy/Guideline/Programme in Each Functional
+Table 3.2 Strategic Relationships at National Level
+Table 3.3 Agreements with Key Partners
+Table 3.4 Summary of DWAF Structures for Co-ordination and Co-operation
+Table 3.5 Compliance Key Action Areas for National Water Resource Planning
+Table 3.6 Compliance Key Action Areas for Institutional Regulation and Development
+Table 3.7 Compliance Key Action Areas for Water Resource Protection
+Table 3.8 Compliance Key Action Areas for Controlling and Regulating Water Use
+Table 3.9 Compliance Key Action Areas for Water Resource Information Management
+Table 3.10 Compliance Key Action Areas for the Working for Water Programme
+Table 3.11 Compliance Key Action Areas for African and International Co-operation
+Table 3.12 Compliance Key Action Areas for Water Sector Policies and Strategy Development
+Table 3.13 Compliance Key Action Areas for Water Services Planning
+Table 3.14 Compliance Key Action Areas for Water Services Regulation and Intervention
+Table 3.15 Compliance Key Action Areas for the National Sanitation Programme
+Table 3.16 Compliance Key Action Areas for Forestry Oversight and Governance
+Table 3.17 Compliance Key Action Areas for Forestry Development and Community Empowerment
+Table 3.18 Compliance Key Action Areas for Fire Governance, Regulation and Oversight
+Table 3.19 Compliance Key Action Areas for Sustainable Forest Management
+LIST OF FIGURES
+Figure 1-1 DWAF Top Management Structure (Amended from: Strategic Plan 2007/08 – 2009/10)
+Figure 1-2 Water sector institutional setting
+Figure 1-3 Forestry institutional setting
+
+DEFINITIONS AND KEY CONCEPTS  
+
+ACRONYMS
+
+CHAPTER 1   NTRODUCTION  
+1.     PURPOSE OF THE CONSOLIDATED ENVIRONMENTAL IMPLEMENTATION MANAGEMENT PLAN (CEIMP)   According to Section 11 of the National Environmental Management Act, No. 107 of 1998 (NEMA) all national departments listed in Schedule 1 are required to develop an environmental implementation plan (EIP) while all national departments listed in Schedule 2 must develop an environmental management plan (EMP). The Department of Water Affairs and Forestry (DWAF) is one of three departments that is listed in both Schedule 1 and 2 and is therefore required to develop a Consolidated Environmental, Implementation and Management Plan (CEIMP). The other departments are the Department of Environmental Affairs and Tourism (DEAT) and Department of Land Affairs (DLA).
+Section 12 of NEMA (Act No. 107 of 1998) clearly states that the primary purpose of the CEIMP is to assist the Committee for Environmental Co-ordination (CEC) to align (i.e. minimise duplication and promote consistency) the environmental management policies and functions of various Government Departments, with particular emphasis on prioritisation of functions that “significantly affect the environment.”   DWAF functions as part of a highly inter-related environment (land, air and water which is inextricably linked to all aspects of the environment and associated living organisms that form a part of it). This highlights the critical importance of co-operative governance in order to enhance and improve effective sustainable management of water and forestry resources. The Second Edition CEIMP will also assist to co-ordinate and harmonize DWAF environmental policies, plans, programmes and decisions with other initiatives by the different spheres of government.
+
+DWAF’s CEIMP as required by NEMA, Chapter 3, Section 1 (3), thus supports co-operative government in environmental management and assists in reaching the goals of sustainable development and environmental protection.
+
+The aim of the First Edition CEIMP was to improve environmental management within DWAF, while the aims of the Second Edition CEIMP are as follows:
+
+• Ensure compliance with environmental management principles as defined in NEMA;
+
+• Include social, economic and environmental considerations throughout the department’s decision-making processes; and
+
+• Address the findings of the audit of DWAF’s first edition CEIMP by the Auditor General in 2006.
+
+The structure and content of the document is informed by the following:
+
+• The Second Edition Guidelines for Environmental Implementation and Management Plans, published by the Department of Environment and Tourism (DEAT), 2005;
+
+• The findings of the assessment of DWAF’s first edition CEIMP by the CEC EIP/EMP sub-committee, September 2006;
+
+• The close-out audit and findings on DWAF’s CEIMP first edition (2006);
+
+• The DWAF Environmental Reporting Framework and SDMS mechanisms – phase 1 (2006); and
+
+• Findings of Auditor General Audit performed for 2006-07 financial year
+
+• The outcome of the meeting held with the Auditor General’s Office, 12 February 2008.
+
+The EIP and the EMP sections of the CEIMP are covered in Chapter 2 and Chapter 3 respectively.
+
+The EIP is a plan which addresses those functions exercised by DWAF that have the potential to impact on and effect the environment, such as the management of state forests and the development of water resource infrastructure.
+
+The EMP is a plan which addresses those functions exercised by DWAF which involves the management of the environment. This includes functions where DWAF is physically involved with operations in the environment, such as developing policies, as well as decisions that could influence how the environment will be managed for instance the water use licences.
+
+Although the primary focus of the CEIMP is to comply with Section 11 of NEMA, DWAF has used the opportunity to co-ordinate an effective environmental performance reporting structure that is aligned / harmonised with other reporting requirements, structures and strategic business plans within the department. It is for this purpose that a meeting was held with the Auditor General (AG) Office on 12 February 2008. The aim of the meeting was to establish the requirements of the AG that should be included in the CEIMP 2nd Edition to ensure a more streamlined and co-ordinated approach to reporting for audit purposes. The following three suggestions were made:
+
+• Environmental reporting against the CEIMP should be aligned with the reporting system of the Chief Financial Officer and as such environmental reporting will become an integral component of DWAF’s accountability;
+
+• The action plan for the EIP and EMP must reflect the budget for each sub-programme and/or key activity; and
+
+• The CEIMP should reflect service delivery and financial reporting legislative requirements separately.
+
+DWAF will be, based on its environmental responsibility and reporting requirements, audited in light of and against the following:
+
+Audit performed in light of:   • Constitution of SA, 1996 (section 188)
+
+• Public Audit Act; 2004 (sections 4 and 20)
+
+Conducted in accordance with:   • International Standards on Auditing
+
+• GN 544 of 2006, issued in GG No. 28723 of 10 April 2006
+
+• GN 808 of 2006, issued in GG No. 28954 of 23 June 2006
+
+Although audit on financial statements in adherence to:   • Public Financial Management Act (sections 38, 40 (3) (a) and 55 (2) (a)
+
+• Treasury Regulations
+
+The maintenance of effective control measures and compliance with other relevant laws and regulations will be audited (service delivery):   • NEMA, 1998 (section 11 (1))
+
+• Public Services Regulations, 2001 (part 111, B.2 (b) and (c)
+
+Further, as mentioned earlier, the DWAF’s first edition CEIMP was audited by the office of the Auditor General in 2006. The findings of the audit included:
+
+• As a result of a lack of a proper management monitoring framework no procedures were set by management to monitor the review of the CEIMP four years after the first date of implementation on 14 December 2001 in accordance with NEMA Section 11 (1); and
+
+• Performance against predetermined objectives as required by the Public Finance Management Act (Sections 40 (3) (a) and 55 (2) (a)) not submitted at year end.
+
+The 2nd Edition CEIMP has taken into account the above-mentioned findings by structuring the action plans for the EMP and EIP in such a way that it will serve as monitoring and evaluation tools for future environmental performance reporting.
+
+A risk-based approach have been followed with the compilation of the actions plans and those activities, projects, plans and programmes that have a significant impact or risk on the environment have been prioritised and included in the action plans for environmental risk and performance reporting.
+
+2     OVERVIEW OF DWAF’S MANDATE, VISION, MISSION AND VALUES  
+2.1   Mandate
+
+The Department is legislatively mandated by:
+
+1. The Constitution of the Republic of South Africa (No. 108 of 1996): The Constitution is regarded as one of the most progressive e in the world provides all South African citizens with the right to an environment that is not harmful to their health or well-being and to have the environment protected for the benefit of present and future generations.
+
+2. The National Water Act (No. 36 of 1998): to ensure that South Africa’s water resources are protected, used, developed, conserved, managed and controlled in a sustainable and equitable manner, for the benefit of all persons. The Act provides the National Government – acting through the Minister of Water Affairs and Forestry, who is the public trustee of the nation’s water resources – with power to regulate the use, flow and control of all water in the Republic.
+
+3. The Water Services Act (No. 108 of 1997): to create a developmental regulatory framework within which water services can be provided. The Act establishes water services institutions, and defines their roles and responsibilities. Section 156, read in conjunction with Part B of Schedule 4 of the Constitution of the Republic of South Africa (Act 108 of 1996) vests the executive authority and responsibility for water supply systems and domestic wastewater and sewage disposal systems, in Local Government. However, the National Government has a constitutional responsibility to support and strengthen the capacity of municipalities to manage their own affairs, to exercise their powers and to perform their functions. It also has the authority to see to the effective performance by municipalities of their functions in matters listed in Schedules 4 and 5 of the Constitution, by regulating the exercise by municipalities of their executive authority. The Water services Act gives substance to these constitutional requirements and provisions, whilst acknowledging the authority of Local Government in respect of water services.
+
+4. The National Forests Act (No. 84 of 1998): to promote and enforce the sustainable management and development of forests for the benefit of all; the promotion of sustainable use of forests as well as the provision of special measures for the protection of forests and trees. To balance the protection of forests with sustainable use, the Act regulates a wide range of uses, and sets out the right of everyone to have a reasonable right of access to State forests for non-consumptive purposes, such as recreation. The rights to the use, management, control and operation of State forests and the produce in them vest in the Minister of Water Affairs and Forestry and are regulated by the Department through this Act.
+
+5. The National Veld and Forest Fire Act (No. 101 of 1998): to prevent and combat veld, forest and mountain fires throughout the country and thereby limit and reduce the damage and losses caused by fires to life, fixed property, infrastructure, movable property, stock, crops, fauna and flora and veld in South Africa. In terms of the Constitution, fire-fighting services are a Local Government function, with Provincial and National Governments playing a facilitating role. The Minister of Water Affairs and Forestry must prepare and maintain a fire danger rating system for the country, in consultation with affected role players, including Fire Protection Associations, which are to be established under the Act. The Department must also keep a record of fires and develop a database to capture the statistics of fires and their impact on society.
+
+The work of the Department is informed by these pieces of legislation, nationally appropriate policies and laws, relating to the Public Service as a whole, as well as legislation that promote such Constitutional goals as equality, accountability, the rule of law and openness.
+
+2.2   Vision
+
+It is DWAF’s vision to be viewed as a Department that provides “some for all, forever” and this is captured strategically in the Department’s vision, mission and values. The Department’s vision is of being:
+
+“a country that uses water and forests productively and in a sustainable manner for social and economic activities; in a manner that promotes growth, development and prosperity of all people to achieve social justice and equity.”
+
+2.3   Mission
+
+As sector leader, the mission of DWAF is to serve the people of South Africa by:
+
+• guiding, leading, developing legislative framework, regulating and controlling the water and forestry sectors;
+
+• conserving, managing and developing our water resources and forests in a scientific and environmentally sustainable manner in order to meet the social and economic needs of South Africa, both now and in the future;
+
+• ensuring that water services are provided to all South Africans in an efficient, cost-effective and sustainable way;
+
+• managing and sustaining our forests, using the best scientific practice in a participatory and sustainable manner;
+
+• educating the people of South Africa on ways to manage, conserve and sustain our water and forest resources;
+
+• cooperating with all spheres of Government, in order to achieve the best and most integrated development in our country and region; and
+
+• creating the best possible opportunities for employment, the eradication of poverty and the promotion of equity, social development and democratic governance.
+
+2.4   Values
+
+As public servants, DWAF skills will at all times be used for the benefit of the people and for the reconstruction and development of our country in the spirit of Batho Pele, an initiative aimed at encouraging public servants to be service orientated, striving for a better life for all by putting people first (Batho Pele Handbook – A Service Delivery Improvement).
+
+As the sector leader for water and forestry, it is DWAF’s responsibility and aim to provide high-quality, transformational leadership and a disciplined work ethic and to promote a working culture for motivated, accountable and committed teamwork.
+
+As citizens of the African continent, the Department is dedicated to long-term, integrated regional security and cooperation and also to the spirit of the African Renaissance. This spirit calls upon the people and nations of Africa to solve the many problems of the African continent.
+
+DWAF’s working environment is governed by the principle of representivity, equality, mutual respect and human development.
+
+In addition, DWAF is committed to transformation and recognises that people are the cornerstone of the Department’s success and diversity is valued as a source of strength. DWAF will strive for a Department that fosters personal growth and achievement.
+
+3.     DWAF’S PRIMARY FUNCTIONS   In order to achieve its mandate, DWAF has four primary functional areas, namely:
+
+• Water Resource Management (WRM);
+
+• Water Services (WS);
+
+• Forestry; and
+
+• Administration (Corporate Services and Finance).
+
+The policies, plans and programmes associated with each functional area have the potential to impact on the environment in various ways. This impact can be both positive and negative.
+
+WRM and Forestry functional areas have both an impacting and management function with regard to the environment. DWAF only performs a regulatory function in the Water Services sector and as such has only a management function with regards to the environment.
+
+Broad strategic objectives have been identified for each functional area as presented in Table 1-1 below. The broad strategic objectives are aligned with the Government Medium Term Strategic Objectives (MTSO), which are crucial for the execution of the DWAF mandate by the Department and the Sector. The Minister’s Flagship projects are also covered under the broad strategic objectives and where DWAF have a management and/or impacting function on the environment it is included in the EIP and/or EMP actions plans.
+
+Table 1-1 DWAF’s Broad Strategic Objectives
+
+
+To achieve the DWAF’s Strategic Objectives and execute its mandate the four functional areas have been classified into programmes and sub-programmes in Table 1-2.
+
+Although, the programmes and sub-programmes of the Administration functional area are highlighted in the document, the environmental impacts associated with the functional area will be addressed through the departments Sustainable Development Management System and environmental performance reporting related and linked to the CFO reporting system.
+
+Table 1-2 Programme and sub-programmes as per DWAF Strategic Plan  2007/08 – 2010/11
+
+4.     OVERVIEW OF THE DWAF STRUCTURE   Figure 1-1 is an illustration of the organisational structure of DWAF’s top management. The structure was developed to ensure that DWAF realises its vision, mission and values.
+
+Figure 1-2 is an illustration of the institutional arrangements in the Water Sector while Figure 1-3 is an illustration of the institutional arrangements in the Forestry Sector.
+
+The financial information for the overall DWAF structure is as follows:
+
+Table 1-3 Administration Budget
+
+
+Table 1-4 Water Resource Management Budget
+
+
+Table 1-5 Water Services Budget
+
+
+Table 1-6 Forestry Budget
+
+
+Figure 1-1 DWAF Top Management Structure (Amended from: Strategic Plan 2007/08 – 2009/10)
+
+
+Figure 1-2 Water sector institutional setting
+
+
+Figure 1-3 Forestry institutional setting
+
+
+In addition to the DWAF structure the following public entities were created to support DWAF’s mandate. All public entities mentioned below report to the Minister:
+
+• Trans-Caledon Tunnel Authority (TCTA);
+
+• Water Research Commission (WRC);
+
+• Water Boards; and
+
+• Catchment Management Agencies.
+
+The following entities are actively involved in the water and forestry sectors; however they are not public entities and do not report directly to the Minister:
+
+• Komati River Basin Water Authority (KRBWA); and
+
+• Irrigations boards and water user associations.
+
+Also, the Working for Water (WfW) programme was developed to support DWAF’s mission of conserving, managing and developing water resources. The Working for Water programme was first launched in 1995 for the purpose of controlling South Africa’s considerable invasive alien plant (IAP) problem. WfW has expanded in scope considerably since 1995, having received a number of international and national awards and seen its programme budget increase almost twenty fold since its inception. The programme includes the use of labour intensive approaches to clearing, in order to promote poverty relief and economic empowerment.
+
+The goals of the WfW programme are to:
+
+• Improve the ecological integrity of natural ecosystems through the control of invasive alien plants;
+
+• Enhance water security;
+
+• Restore and rehabilitate degraded land in order to secure the productive potential of land;
+
+• Provide economic benefits and social upliftment through the control of invasive alien plants.
+
+The methods used to control IAPs include mechanical methods, chemical methods, biological control or an integrated approach that combines two or more of these methods.
+
+Funding for the programme is derived primarily from DWAF, although just over 10% of the current budget is sourced from donors. The bulk of funding is currently channelled to the development and expansion of secondary industries related to the programme. These secondary industries include the production of crafts and furniture from cleared invasive material.
+
+In terms of institutional arrangements, the WfW national office is concerned primarily with monitoring and evaluation, as well as the overall co-ordination of the programme. The provincial offices generally act as project implementers and/or project managers for projects. In addition to the role of provincial authorities, a number of Implementing Agents (IAs) are also active in WfW, primarily in the Eastern and Western Cape, KwaZulu-Natal and Gauteng. The WfW programme also makes us of a contractor system, with over 1000 independent contractors now involved in the employment and day to day running of the actual clearing teams.
+
+Reporting to donors and DWAF occurs monthly, whilst quarterly reporting is provided to the EPWP. Provincial offices generally report to their national counterparts, however, there are also cases where these regions report directly to relevant external donors.
+
+The Working on Fire (WoF) programme was established in September 2003 to develop South Africa’s national fire prevention and fire-fighting capacity. The programme is managed by the Forest Fire Association (FFA), a private sector company contracted by DWAF to assist with implementation of the National Veld and Forest Fire Act (No. 101 of 1998).
+
+Beneficiaries, who are drawn from the formerly unemployed, are trained as skilled veld and forest fire-fighters. Land based localised fire-fighters are supplemented where necessary by helicopters and fixed wing aircraft providing aerial support. Services are provided to stakeholders such as the forestry industry, conservation bodies such as South African National Parks (SANParks) and municipalities that lack the capacity to implement fire prevention and control. Although primarily focused on fighting veld and forest fires, WoF teams are also involved in assisting local government in the management of fires in informal settlements.
+
+Funding for the ground support component of WoF is accessed via WfW, which in turn is funded by DWAF. Funding for the aerial support component of WoF is provided by the Department of Provincial and Local Government (DPLG). Expenditure in the previous financial year amounted to R47.3 million.
+
+The FFA works in partnership with a number of local authorities and conservation bodies that contract WoF services. A key aspect of the work of WoF is the signing of Memorandums of Agreements (MoA) with prospective partners. The WoF programme will not respond to an emergency call from an entity that has not entered into a partnership agreement with them. Landowners are therefore encouraged to form Fire Protection Associations (FPAs) and act to receive WoF support.
+
+5.     DWAF’S LEGISLATIVE FRAMEWORK   DWAF, in its role as the custodian of South Africa’s water and forestry resources, is responsible for the formulation and implementation of policy and legislation governing these two sectors.
+
+While striving to ensure that all South Africans gain access to clean water and safe sanitation, the water sector also promotes effective and efficient water resources protection and management to ensure equitable sustainable economic and social development. The forestry programme promotes the sustainable management of the country’s natural forest resources and commercial forestry for the lasting benefit of the nation.
+
+Below is a list of the legislation administered by DWAF in its management role and the list of legislation that DWAF must comply with in its implementing role. As per the suggestion from the AG, the legislation is separated into DWAF’s service delivery and financial responsibilities.
+
+Table 1-7 Legislation applicable to DWAF
+
+CHAPTER 2   ENVIRONMENTAL IMPLEMENTATION PLAN  
+1.     DESCRIPTION OF DWAF’S POLICIES, PLANS AND PROGRAMMES THAT SIGNIFICANTLY AFFECT THE ENVIRONMENT   This section examines the mechanisms implemented by DWAF to comply with legislation administered by other government departments and to limit environmental impacts of DWAF activities.
+
+DWAFs environmental implementation function is discussed separately for the WRM and Forestry functional areas. The environmental impacts associated with the Administration functional area is considered less significant and will be addressed at a later stage in the Sustainable Development Management System.
+
+1.1   Water Resource Management
+1.1.1   National Water Resource Infrastructure Development
+
+1.1.1.1 DWAF Projects
+
+Functions associated with WRM that has an impact on the environment includes water resource infrastructure planning, development and operations. Water resource management infrastructure refers to large dams, canals, weirs, tunnels, pipelines and pump stations that are required to ensure the reliable abstraction and availability of bulk raw water supplies. DWAF created the Infrastructure Branch to ensure a reliable supply of water from the National Water Resource Infrastructure (NWRI), with minimal risk, to meet sustainable national, regional, social, economic and environmental objectives for all SA citizens, while achieving the objectives of integrated water resource management. In order to meet government’s national targets of faster economic growth the NWRI Branch will be building new infrastructure while at the same time incorporating the needs of beneficiary communities and stakeholders during the planning, implementation and management of the infrastructure. The NWRI Branch will be focusing its efforts on significant water resources infrastructure developments.
+
+In addition, the NWRI Branch will progress with the process of establishing the National Water Resources Infrastructure Agency to manage existing national infrastructure, and also to facilitate funding arrangements for development of new infrastructure.
+
+1.1.1.2 TCTA Projects
+
+The TCTA was established to implement the South African portion of the Lesotho Highlands Water Project and to take over the South African Government’s responsibility for the long-term funding and risk management. Subsequently, the mandate of the TCTA was extended to implement and finance the Berg Water Project and the Vaal River Eastern Sub-system Augmentation Project as well to provide treasury and financial advisory services to DWAF and water management institutions. Differently from NWRIB projects which are social advance projects and funded from the Exchequer, TCTA water resource infrastructure development projects are projects where project loans are guaranteed to be paid by clients.
+
+In addition, the TCTA plays an important role as an advisor to the water sector, not only in the realm of project initiation such as the Olifants River Water Resource Development Project Phase II and Spring Grove Dam, but also in the restructuring of treasury activities and with the reviewing of the tariff methodologies. Current projects include VRESAP, a 3.5 year project to be commissioned in April 2009 where after the TFCA will undertake 12 month operational maintenance, and the Berg River Project which is now entering a 12 month operational maintenance period. Mooi Umgeni Phase II, including Springrove Dam will be initiated during 2008/09. Firstly the environmental impact assessment process will be undertaken – it is anticipated that within a year the Record of Decision will be in place – where after implementation will commence over the next 4 years.
+
+1.1.2   Monitoring Systems for Gauging Weirs and Fish Ways
+
+As part of the National Monitoring System, DWAF constructs gauging weirs with the explicit aim of providing adequate information systems to manage water resources. In addition, fish ways are constructed to mitigate environmental impacts associated with the gauging weirs.
+
+1.1.3   Remediation Measures to Protect Water Resources
+
+DWAF in its capacity as custodian of the resource implements various remediation measures to ensure the protection and the integrity of the resource. These remediation measures include actions taken to limit the pollution impacts of decanting and abandoned mines.
+
+1.1.4   Working for Water Programme
+
+Although administered by DWAF under the Water Resources Management programme, WfW is a multi-departmental initiative led by DWAF, the Department of Environmental Affairs and Tourism (DEAT) and the Department of Agriculture (DoA). The programme does, however, include numerous additional partners, such as the Department of Trade and Industry (DTI), private companies, donors and research institutes. The activities of the WfW programme are responsible for the removal of both aquatic and terrestrial alien vegetation, which have a direct impact on the environment.
+
+WfW currently operates over 300 projects in all nine provinces, with the majority of projects located in rural areas and focused upon riparian and aquatic environments.
+
+1.2   Water Services
+
+DWAF has moved away from being an Implementer in WS to a regulatory function only. Hence, DWAF does not have any direct impacting functions in the WS field. However, DWAF has been involved in providing support to municipalities to deliver sustainable water and sanitation services which includes the management of the bucket replacement programme and supply of services to clinics and schools.
+
+1.3   Forestry
+
+Forestry functions that impact significantly on the environment include:
+
+(a) State Forest managed by DWAF; and
+
+(b) Community Forest Projects.
+
+It should be noted that although these functions have been classified as impacting functions that there is an environmental management dimension to them as well.
+
+By enforcing certain provisions of the National Veld and Forest Fire Act, Forestry may be indirectly implicated when it comes to enforcing certain provisions under the Act. An example of this is Section 12 (1) whereby land owners are required to prepare and maintain firebreaks, which could be by ploughing, slashing, applying chemicals on or burning ground cover. This is clearly an impacting activity through which the environment is disturbed to a certain extent. As much as it is necessary for these firebreaks to be prepared so as to guard, inter alia, against environmental destruction, the discretion is left with the implementer to see to it that the environment is protected and the Act allows for people implicated to apply for exemption from the duty to prepare firebreaks “for good reason”.
+
+2.     DESCRIPTION OF THE MANNER IN WHICH THE POLICIES, PLANS AND PROGRAMMES WILL COMPLY WITH NEMA PRINCIPLES AND NATIONAL NORMS AND STANDARDS  
+2.1   CEIMP
+
+A key finding of the 2006 AG report is that DWAF does not have adequate monitoring and reporting systems in place. Hence, the action plans (refer to Section 5 of the CEIMP) is designed to serve as a monitoring and reporting tool for the annual audits of the CEIMP. Finally, a mid-term audit will also be completed.
+
+2.2   IEM Series
+
+DWAF has developed an Integrated Environmental Management Series (IEM Series) (refer to Table 2-1), which addresses environmental impacts associated with all DWAF’s impacting functions. The IEM Series was developed taking into account the principles of NEMA, other relevant environmental legislation, as well as international trends, principles, norms and standards and environmental best management practices. Overall, the IEM Series aims to achieve the following objectives:
+
+– Facilitate the Department’s legal compliance with the above-mentioned legislation by:
+
+• considering all activities that have a detrimental effect on the environment, not only listed activities related to NEMA and associated regulations;
+
+• focussing not only on environment conservation as such, but specifically on the management of water resources;
+
+• feeding into the information system required for decision-making;
+
+• being practical, cost effective and not cause unnecessary delays;
+
+• conforming to financial control and budgeting requirements;
+
+• producing environmental reports;
+
+• providing a decision support system; and
+
+• to achieve sound environmental management practices.
+
+• Give effect to the principles of co-operative government;
+
+• Provide an effective and improved tool for monitoring and evaluation of DWAF’s environmental performance;
+
+• Give effect to the principles of the National Water Act (Act 36 of 1998), Water Services Act (Act 108 of 1997), the National Forests Act (Act No. 84 of 1998) National Veld and Forest Fire Act (Act No. 101 of 1998) and to ensure compliance with environmental framework legislation and associated regulations;
+
+• Ensure the integration, development and implementation of IEM principles and environmental assessment and management tools in the water and forestry sector business processes;
+
+• Co-ordinate a shared understanding of, and common vision for environmental (ecological and social) planning, development, implementation, management and evaluation and to promote community beneficiation within the water and forestry components of DWAF;
+
+• Ensure that in-house funded projects, conform to minimum environmental norms, standards and criteria through the use of environmental processes and procedures;
+
+• Institutionalise environmental impact management and community beneficiation within the water and forestry components of the Department and ensure post-implementation follow up actions in order to enable the Department to monitor the achievement of environmental impact management, community beneficiation initiatives and public participation; and
+
+• Encourage sustainable development and utilisation of water resources to strive towards sound environmental management principles and practices.
+
+The integrated approach taken by DWAF in developing this IEM Series and associated guidelines and tools ensure better management of its impacts and provides the necessary support to DWAF officials, Local Government and the Regional Offices to limit the impact of their activities on the environment.
+
+The IEMS comprises of 12 documents as presented in Table 2-1 below.
+
+Table 2-1 IEM Series developed by DWAF
+
+
+In addition, the DWAF SDMS (sub-series 1.9) presents the following documents and tools (phase 1):
+
+• Environmental Risk Assessment Tool;
+
+• Environmental Reporting Framework and SDMS Reporting Mechanism; and
+
+• Draft SDMS Model.
+
+A communication and implementation strategy for this series has been developed in order to provide regular updates on general progress made during the implementation of this series to identified stakeholders.
+
+2.3   Environmental Policy Framework
+
+The Environmental Policy forms part of the IEM Series and is currently under development.
+
+The policy aims to:
+
+– provide DWAF’s statement of intent regarding its managing and impacting functions and obligations on the environment;
+
+– meet all regulatory requirements;
+
+– develop an operational Environmental Policy Framework that is feasible and practical for DWAF;
+
+– set goals with respect to achieving integrated environmental management;
+
+– highlight environmental issues of significance to DWAF; and
+
+– consult external stakeholders on the proposed Environmental Policy Framework regarding requirements and expectations;
+
+2.4   Strategic Environmental Assessment
+
+Strategic Environmental Assessment (SEA) is a tool that is used by the Sub-Directorate: Stream Flow Reduction Activities (SFRA) to assess the potential for new afforestation and its relative costs to benefits in comparison to other potential land uses, for example that might be agriculture versus forestry. It is used to assess whether new forestry can optimise development opportunities relative to alternative land uses, including hydrological and environmental.
+
+In SEA we need to ensure that:
+
+• Consideration is given to protected areas important to the conservation of biodiversity;
+
+• Identification of the needs of the area involved are considered with respect to social, economic and environmental requirements;
+
+• Identification of those sites or areas that are culturally sensitive or have historic value to the nation or local population, are taken into account;
+
+• Co-operative governance is also fostered or promoted in the SEA process such as meeting with existing local and provincial structured during the planning process;
+
+• The impact that afforestation may have on water availability and use, as well as biodiversity as compared to other potential uses such as commercial agriculture; and
+
+• The information about the area is taken up into a Decision Support System (DSS), in order to make informed decisions.
+
+2.5   Public Participation
+
+DWAF has developed the Department of Water Affairs and Forestry: Generic Public Participation Guidelines to ensure detailed consultation during the public participation process of the Environmental Impact Assessment (EIA) process.
+
+2.6   Working for Water Programme
+
+The WfW programme is implemented according to an Environmental Management Plan designed to limit the specific environmental impacts of the WfW programme. The EMP comprises of various planning tools and checklists for monitoring.
+
+2.7   Forestry Norms and Standards
+
+The Committee on Sustainable Forest Management (CSFM) drafted a set of national Principles, Criteria, Indicators and Standards based on national Policies and international obligations which were then broadcasted for public comments (through extensive stakeholder consultation processes).
+
+Following the extensive testing process, the CFSM recommended the criteria and indicators for publication as regulations. In future it will be mandatory for the forestry sector to report against these criteria and indicators.
+
+The expected outcomes of the Criteria and Indicators are as follows:
+
+• A standardised reporting framework;
+
+• A decision-support tool for forest managers, offering them a common language for sustainable forest management
+
+• A means of monitoring and auditing in the forest sector, both for managers and third parties e.g. DWAF, Forestry Stewardship Council (FSC), ISO, etc
+
+• An impetus towards the development of a common management plan framework;
+
+• A basis for international timber certification organisations, such as the FSC, to develop a relevant national standard. Ultimately the success of PCI & S as policy tools will be measured by their practical utility. The principal uses of PCI & S, are to monitor the state of the country’s forests and to promote SFM.
+
+2.8   TCTA and NWRI Branch
+
+Projects implemented by the TCTA and the NWRI Branch have Environmental Monitoring Committees (EMC) and Authorities Co-ordination Committees (ACC) in place as well as an Environmental Compliance Officer (ECO) who monitors the implementation of the environmental impact assessment Record of Decision (ROD). The respective EMCs report to the TFCA and inform the ACCs. Reports are also provided to DEAT. The ACCs support the EMCs regarding Government’s legal and policy requirements. The TCTA has a direct relationship with the various project engineers and contractors which in turn are supported by environmental representatives responsible for environmental compliance monitoring and environmental auditing respectively, aligned with the TCTA’s environmental management systems.
+
+3.     DESCRIPTION OF THE MANNER IN WHICH THE POLICIES, PLANS AND PROGRAMMES WILL EXCERCISE THE FUNCTION OF ENVIRONMENTAL MANAGEMENT   This section is at the heart of co-operative governance around environmental management. Below is a summary of DWAF structures and arrangements for co-ordination and co-operation from DWAF’s perspective. Internal relationships between DWAF and its organs of state (such as agencies, parastatals and concessionaries) or key sectoral representative bodies (such as business or labour) are identified. External relationships between DWAF and other national, provincial and local government departments are also identified. The internal and external relationships between DWAF and its partners are depicted in table 2-2 below.
+
+Table 2-2 Co-operation Relationships and Partnerships for Implementation Functions
+
+3.2.2.   Structures for Co-ordination and Co-operation with International Partners
+
+South Africa is a signatory of the Southern African Development Community (SADC) Revised Protocol on Shared Watercourses, which governs the management of shared rivers in SADC. In line with this, South Africa has entered into several agreements with regard to sharing international rivers and the establishment of international River Basin Organisations (RBOs). This approach is in line with the policy of Government that shared watercourses be managed according to the principles of customary international law. South Africa is one of the few countries that have ratified the United Nations Convention on the Non-navigational Uses of International Watercourses which sets out the international law principles on which the Revised SADC Protocol is based.
+
+South Africa (SA) shares 4 major river basins with 6 countries, namely the Orange Senqu River Basin (Lesotho, South Africa, Botswana and Namibia), the Limpopo River Basin (Botswana, Zimbabwe, South Africa and Mozambique), the Incomati River Basin (South Africa, Swaziland and Mozambique) and the Maputo River Basin (South Africa, Swaziland and Mozambique) These four river basins are coordinated by the following three River Basin Commissions.
+
+• The Orange Senqu River Commission (ORASECOM);
+
+• The Limpopo River Basin Commission (LIMCO); and
+
+• The Tripartite Permanent Technical Committee (TPTC) (for both the Incomati and Maputo Rivers).
+
+The process to establish a secretariat for the ORASECOM started in 2007 and should be completed in 2008. The process to establish a secretariat for LIMCOM should start in 2008. The TPTC has not decided if it should transform itself to a more formal River Basin Commission with its own Secretariat.
+
+Work will also continue in the existing international basin organisations and committees to advise the member states on water resource management issues of common interest. The SA government has also entered into the Incomaputo Agreement for Co-Operation on the Protection and Sustainable Utilisation of the Water Resources of the Incomati and Maputo Watercourses with the Government of Mozambique.
+
+The Department also has bilateral commissions with the following countries related to water resource management and development:
+
+• RSA/Lesotho – Lesotho Highlands Water Commission (LHWC);
+
+• RSA/Swaziland Joint Water Commission (JWC);
+
+• RSA/Namibia Permanent Water Commission (PWC);
+
+• RSA/Botswana Joint Permanent Technical Committee (JPTC); and
+
+• RSA/Mozambique Joint Water Commission (JWC).
+
+The Department remains committed to ensure proactive engagement with NEPAD and SADC water services initiatives. Work will also continue to ensure the alignment of the African Rivers Basins Organisation (ANBO) with the organizational structure and programmatic objectives of the African Minister’s Council on Water (AMCOW), in which the Department has been playing a key role. The department will also work in support of AMCOW’s efforts to build an effective multi-stakeholder platform, which so far includes the African Civil Society Network on Water and Sanitation (ANEW), the Global Water Partnership (GWP) and ANBO. Post reconstruction support will be provided in the water sector to other African countries, such as Rwanda and the Democratic Republic of Congo. DWAF will encourage the development and strengthening of partnerships and lend support to water services programmes in Africa, in order to achieve millennium development and World Summit on Sustainable Development (WSSD) targets will continue.
+
+The SADC forestry potential study will be integrated into the SADC and NEPAD processes.
+
+SA has entered into an agreement with the Government of The Kingdom of Lesotho. The agreement is in the spirit of the Joint Bilateral Commission of Co-operation between South Africa and Lesotho entered into on the 19 April 2001. The aim of the agreement is to continuously explore best strategies for co-operation between SA and Lesotho in the following areas:
+
+• Measures to facilitate the combating of cross border wild fires;
+
+• Measures to facilitate Sustainable Forest Management and Development;
+
+• Sharing of available resources; and
+
+• Technical, scientific, educational and social information exchange in all forestry related matters.
+
+DWAF is also involved in multi-lateral co-operation at a global level and this is achieved through international visits, meetings, statements, agreements as well as the exchange of information with developing and developed countries outside Africa. In addition, DWAF actively participates in Commission for Sustainable Development (CSD), World Water Forum, United Nations Forestry Forum (UNFF) and the Committee on Forestry (COFO).
+
+The Danida IWRM II programme seeks to empower communities through their engagement in projects that serve to improve their livelihoods and the well-being of their communities. By adopting this approach, it is the belief that communities will understand a broad spectrum of water management issues and thus are able to engage in water issues with local water management institutions. Of course, it must be considered that when working with maraginalised communities that environmental issues are of greater or ‘closer’ importance such that most projects have a ‘sustainability’ aspect.
+
+An explicit rights-based approach has been adopted as it is widely recognized internationally that the Millenium Development Goals (MDGs) can only be achieved if communities are empowered to engage and inter-act effectively with rights-holders.
+
+Communities have been actively engaged in the identification, design, implementation and management of their projects. In effect the communities take full ownership as they are contracted directly to implement the projects. This is a departure from the traditional “grant culture”. Targeted capacity building is provided during each project phase to support the communities. They also have access to ad-hoc training, mentoring and technical support.
+
+The projects cover, among others:
+
+• Food security: sustainable food gardens particularly in scare water settings.
+
+• Water awareness: improving awareness around water scarcity, water quality and environmental health.
+
+• Water conservation: specific projects towards more sustainable usage of resources including water harvesting projects.
+
+• Water and emerging farmers: largely support towards access to resources (land and water amongst others)
+
+• Water and the environment: includes such initiatives as alien vegetation removal, eco-tourism initiatives, wetland rehabilitation and maintenance for sustainable use if reeds for productive uses, training of WUAs and support for environmental projects to be implemented by each WUA, training of Municipalities on water quality and improved management of waste water re-cycling, and a specific project to coordinate planning (PGDS, IDP & CMS) tools to ensure more sustainable development.
+
+• Water and health: the development of Community Health Clubs that teach rural communities to improve community and environmental health.
+
+• Climate change: groundwater monitoring and borehole maintenance
+
+4.     RECOMMENDATIONS TO PROMOTE INTEGRATED ENVIRONMENTAL MANAGEMENT (IEM)   Social and environmental responsibilities for infrastructure development will be done through Environmental Management Plans, resettlement plans and rehabilitation plans. In particular, the following will be done: social and environmental monitoring for system operations, resource management plan development and promotion of social justice and community beneficiation. The establishment and monitoring of PPPA for utilizing tourism and recreational opportunities at dams will also be done in accordance with the transformational objectives of government. Water Resources Management also has an enforcement protocol in order to ensure compliance with identified legislation and policies.
+
+The IEM Series will be rolled out within DWAF. The series will be presented to National and Regional Offices and to sector role-players. Training will be provided to all stakeholders on the implementation of the series and the Sub-Directorate: Environment and Recreation will monitor and audit application and implementation of the Series on an ongoing basis to ensure integrated environmental management. DWAF will introduce a set of sustainable performance indicators to track and report its progress in the environmental field.
+
+The DWAF SDMS provides effective guidance for DWAF to establish, develop and review its business practices towards environmental goals. The DWAF SDMS will strive for compliance with sustainability ideologies (i.e. balanced consideration of social, ecological and economic priorities). The first phase of the SDMS is completed and the next phase will entail the following:
+
+• Piloting of environmental reporting framework at strategic and regional level;
+
+• Pilot testing of proposed ERA methodology for the project life cycle in capacity as regulator and implementer as per findings in phase 1 close-out report;
+
+• Investigate predetermined objectives to report against as per PFMA
+
+• Finalise development of performance indicators;
+
+• Investigate Environmental Management Accounting (EMA) concept; and
+
+• Finalising SDMS model.
+
+Environmental reporting will be linked to the CFO reporting structures. In addition, all future DWAF produced document will be aligned to the principles of integrated resource management, sustainable environmental development and utilisation and sound environmental management practices.
+
+The roles and responsibilities of EMCs, ACCs and ECO functions undertaken by TCTA and the NWRI Branch will be continued and strengthened.
+
+Integrated Environmental Management principles and practices are an integral part of the department’s business in each policy, plan or programme developed or implemented and promoted through line functions, e.g:
+
+Water Abstraction and Instream Use;
+
+Resource Protection and Waste;
+
+Resource Directed Measures;
+
+Resource Quality Services; and
+
+National Water Resources Planning
+
+5.     ACTION PLAN FOR THE IMPLEMENTATION OF POLICIES, PLANS AND PROGRAMMES   Below is a summary of the key actions for each functional area. DWAF reports performance against sub-programmes. Implicit in each sub-programme is the aim of sustainable environmental implementation of the water and forestry sectors.
+
+Where targets and budgets were not included in the tables the information was not available at the time when this document was printed and due to the fact that the submission date for the 2nd Edition CEIMP is not in line with government’s 5-year strategic planning cycle and will thus be reported upon in the annual progress report.
+
+5.1   Water Resource Management
+
+Table 2-3 Compliance Key Action Areas for National Water Resource Infrastructure Branch
+
+
+Table 2-4 Compliance Key Action Areas for Monitoring Systems for Gauging Weirs and Fish Ways
+
+
+Table 2-5 Compliance Key Action Areas for Remediation Measures to Protect Water Resources
+
+
+Table 2-6 Compliance Key Action Areas for Water Resource Information Management Systems
+
+
+Table 2-7 Compliance Key Action Areas for Working for Water Programme
+
+5.2   Forestry
+
+Table 2-8 Compliance Key Action Areas for State Forests managed by DWAF
+
+CHAPTER 3   ENVIRONMENTAL MANAGEMENT PLAN  
+1.     DESCRIPTION OF DWAF’S ENVIRONMENTAL FUNCTIONS   This section examines the mechanisms implemented by DWAF to manage environmental impacts in the water and forestry sectors.
+
+DWAF’s environmental management function is discussed separately for each functional area namely WRM, WS and Forestry.
+
+1.1   Water Resource Management
+
+Ensure that water resources are allocated so that they promote social and economic development, maintain the reliable availability of water in sufficient quantities and of an appropriate quality to meet the needs of all consumers and meet international water-sharing agreements, while ensuring that water resources are protected to enable sustainable water use.
+
+1.1.1   National Water Resources Planning
+
+The role of Integrated Water Resource Planning is to ensure the availability of adequate water that is fit for use through holistic planning for the management and development of water resources and systems.
+
+1.1.2   Institutional Regulation and Development
+
+The role is to ensure an enabling environment for the establishment, development and auditing of Regional and Local Institutions for Water Resources and Water Services. It is to focus on Water Management Institutional Governance and oversight of water boards, Water Research Commission and TCTA. Development of policies, strategies and procedures for public participation and stakeholder empowerment and the development of Raw Water Pricing Strategy and the development of tariff calculation procedures. The aim is also to manage subsidies to resource poor farmers and of state loans to Water User Associations.
+
+The progressive establishment of catchment management agencies, the transformation of existing irrigation boards into water user associations and the establishment of new associations are intended to move the responsibility for managing water resources closer to the people who use the water and have a direct interest in managing water resources sustainably.
+
+1.1.3   Water Resource Protection
+
+The protection of water resources is a key element of ensuring that the natural resource base is used sustainably. In this regard the Department will finalise the classification system which will enable the determination of levels of protection afforded to South African rivers. This will be aligned with an interdepartmental programme on the systematic conservation of South African rivers spearheaded by DEAT.
+
+The role of the department is to develop and ensure implementation of water resource protection policies i.e. classification of water resources, setting Resource Quality Objectives and the determination of the Reserve. Protection through classification is not only for conservation and the future generations, but also for beneficial use such that all the water use sectors can still be able to use water of the applicable quality and quantity.
+
+DWAF has put in place a programme of support to local government in particular to ensure the sustainable use of groundwater. Action will continue to be taken against overuse and illegal use of groundwater in vulnerable areas.
+
+1.1.4   Controlling and Regulating Water Use
+
+The aim is to provide an enabling environment for the use, protection, conservation, management and control of water use through appropriate water use authorisations, regulations, policies and guidelines as well as initiatives and procedures for water conservation and demand management.
+
+The enforcement of compliance with licence conditions for abstraction and discharge by local government, agriculture, industry and instream activities are crucial to ensure the sustainable use of water resources. In this regard, the compliance and enforcement unit will continue to take action against those breaking the law in their use of water.
+
+1.1.5   Water Resource Information Management Systems
+
+The aim is to develop and co-ordinate information programmes and systems on surface and groundwater and implement spatial and land information management. Data and information on raw water quality are also collected, assessed and evaluated for different water quality, biological, chemical and physical monitoring programmes.
+
+1.1.6   Working for Water Programme
+
+Invasive alien plants (IAPs) pose a direct threat not only to South Africa’s biological diversity, but also to water security, the ecological functioning of natural systems and the productive use of land. They intensify the impact of fires and floods and increase soil erosion. IAPs can divert enormous amounts of water from more productive uses and invasive aquatic plants, such as the water hyacinth, effect agriculture, fisheries, transport, recreation and water supply. The fight against invasive alien plants is spearheaded by the Working for Water (WfW) programme.
+
+The Working for Water programme continue to provide jobs to the previously unemployed, while bringing a range of benefits in terms of managing the natural resource base of the country
+
+1.1.7   African and International Co-operation
+
+This function is that of co-ordination of international activities and administration of international visits and support to the Minister and Department on international matters
+
+1.2   Water Services
+1.2.1   Water Sector Policies and Strategy Development
+
+As provided in Section 152 (1) of the Constitution, local government is responsible for ensuring the provision of water services to communities in an equitable and sustainable manner. National Government has legislative and executive authority to ensure that Local Government provides adequate and effective water services to communities.
+
+Water Services is mandated to ensure the provision of effective, efficient and sustainable basic services, bulk infrastructure by local government and delegated water services institutions. Since the First Edition CEIMP, DWAF’s WS functions have changed from an Implementer to a Regulator resulting in mainly a management function on the environment. The Policy and Strategy unit is responsible for developing policies and strategies to ensure that DWAF fulfil its regulatory function that is in line with national legislation.
+
+1.2.2   Water Services Planning
+
+DWAF provides support to the water services sector to ensure adequate planning of services and that the targets set out in the Strategic Framework for Water Services are met by Sector Partners. The main water services planning tools include the Water Services Development Plans and the Provincial Water Sector Plans.
+
+1.2.3   Water Services Regulation and Intervention
+
+DWAF main function is to regulate the sector. A draft Regulatory Strategy has been developed to outline DWAF’s regulatory functions.
+
+1.2.4   National Sanitation Programme
+
+The White Paper on Water Supply and Sanitation Policy, published in November 1994, indicated that more work had to be done to clarify many items of sanitation policy, and then to develop a national sanitation strategy. Accordingly, a draft National Sanitation White Paper was developed by the National Sanitation Task Team and published in 1996.
+
+An initial two-year National Sanitation Programme was developed. The focus of the National Sanitation Programme was mainly on policy development, capacity building, establishment of co-ordination mechanisms, implementation support and development of monitoring and evaluation mechanisms for sanitation.
+
+The recent and current cholera epidemic, as well as the slow pace of sanitation delivery, has urged government to look more closely at its sanitation implementation strategies and policies. It is vitally important that sanitation – as it impacts on public health – receives the necessary attention and priority to ensure the good health of all South Africans.
+
+1.3   Forestry
+1.3.1   National Oversight and Governance
+
+The aim is to develop policies to support sustainable forest management, oversees the sector and ensures that policy and law levels of government are coherent. This includes international liaison on sustainable forest management and governance. Forestry Governance supports sustainable forest management by monitoring forestry management and ensuring that there is sufficient capacity at a local level for the implementation of forestry legislation.
+
+1.3.2   Forestry Development and Community Empowerment
+
+Forestry Development develops strategies and forest enterprise development programmes that support BBBEE and support the implementation of programmes that enable communities to make use of tree and forest resources to improve their livelihoods.
+
+1.3.3   Sustainable Forest Management
+
+In terms of the National Forests Act of 1998 forest trees or protected tree species may not be cut, disturbed, damaged, destroyed and their products may not be possessed, collected, removed, transported, exported, donated, purchased or sold – except under license granted by the Department of Water Affairs and Forestry (or a delegated authority).
+
+The Forestry unit is responsible for ensuring the sustainable management of all forests and plantations and enhancing the contribution of forest resources for economic development and poverty eradication. These encompass the fields of forest and woodland conservation, fire management, sustainable plantation management and forestry development.
+
+1.3.4   Fire Governance, Regulation and Oversight
+
+At present the Working for Fire has 50 fire bases strategically located across the country in fire prone areas. The fire-fighting teams form part of a co-ordinated national network, whose immediate area of responsibility is within a 100km radius of their base. Teams can, however, be deployed anywhere in the country in the event of an emergency.
+
+Uncontrolled veld fires are a major contributor to environmental degradation and as such, veldfire prevention and veldfire disaster mitigation are key functions of Forestry. Mitigation measures include the preparation and maintenance of fire breaks.
+
+2.     DESCRIPTION OF ENVIRONMENTAL NORMS AND STANDARDS   DWAF is mandated by the National Water Services Act (No. 108 of 1997) to develop national norms and standards for water tarrifs in respect of water services. These norms and standards are still in the process of being developed.
+
+Participatory Forest Management (PFM) under the Directorate of Forestry Development is aimed at supporting the sustainable use of forests and forest resources, as mandated by the National Forests Act (No. 84 of 1999). Part of achieving this is through the development of norms and standards, best practice guidelines and methods to ensure PFM.
+
+3.     DESCRIPTION OF THE POLICIES, PLANS AND PROGRAMMES DESIGNED TO ENSURE COMPLIANCE WITH DWAF’S POLICIES   Several management tools have been developed to ensure that DWAF fulfils its environmental management functions. These include:
+
+• Integrated Environmental Management Framework (IEMF). The IEMF is near completion for the Water Sector functions within the Department. The IEMF’s vision is to ensure that environmental considerations and the associated legal compliance requirements are efficiently and adequately addressed during all stages of the development processes undertaken through DWAF related functions, activities and projects. The next step would be to incorporate forestry and veld fire functions;
+
+• Environmental Policy Framework. DWAF is in the process of developing an environmental policy framework which will provide a statement of intend on all decisions made affecting the environment and will bind all DWAF officials to ensuring environmental principals are taken into account into decision making;
+
+• Sustainable Development Management System (SDMS). DWAF has developed phase 1 of the SDMS which ensures that all DWAF’s functions that are both management and implementing are based on the principles of sustainable development. Phase 2 of the system will be rolled out within DWAF in the next four years;
+
+• The Water Services National Information System (WSNIS) provides information to the public regarding water service issues such as basic services backlogs and progress, projects and free basic services;
+
+• Water Quality Management System (WQMS). This system provides Water Service Authorities (local government), provincial and national government a mechanism for the management of water quality and provides information such as the monthly review of legislative compliance and the identification of areas requiring urgent attention for the effective and efficient allocation of resources;
+
+• Groundwater Protocol. The Groundwater Protocol provides a risk assessment procedure to be applied on all on-site sanitation projects where a full EIA is not required. The Groundwater Protocol recommends measures to be taken to minimise risk of contamination of sensitive aquifers.
+
+• The National Veldfire Information System (NVIS), in which veldfire incidences throughout the country are recorded. This system is essential in that through it one can establish where and when are veldfires occurring mostly in the country. The department is also in the process of developing an accurate National Fire Danger Rating System, which is a system that will alert the public of the dangerous conditions under which fires would be uncontrollable;
+
+• Assessment of consideration for water use approvals (ACWUA);
+
+• Desktop visioning for Resource Directed Management of Water Quality;
+
+• Spatial and Time Series Information Modelling Software (SPATISM) for desktop and rapid reserve determination
+
+• Groundwater Resource Directed Measures Model for desktop and rapid reserve determination;
+
+• Resource Water Quality Objective Model for desktop and rapid reserve determination; and
+
+• Principles of Criteria Indicators and Standards (PCI&S).
+
+DWAF has developed a suite of policies, strategies, guidelines and programmes to support the implementation of the Acts administered by the Department. Below is a list of some of the key policies, strategies and guidelines developed by DWAF. The documents mentioned below incorporate the principles of sustainable management of the country’s water and forestry resources.
+
+Table 3-1 Policy/Strategy/Guideline/Programme in Each Functional
+
+
+Policies, strategies, guidelines and programmes are developed by the National office while the 9 Regional Offices are responsible for the implementation of the policies, strategies, guidelines and programmes.
+
+4.     DESCRIPTION OF PRIORITIES REGARDING COMPLIANCE   The priorities for compliance are governed by the various legislation implemented by DWAF. For instance water quality management is as important as the water use licence protection process. Hence, the action plans identified in Section 8 of this report highlights the priority areas for compliance.
+5.     DESCRIPTION OF THE EXTENT OF COMPLIANCE   As mentioned earlier in the report the 2006 AG report found that DWAF does not have sufficient processes in place to monitor compliance of key priority areas. The action plan identified in Section 8 of this report will be used to monitor future compliance both within DWAF and in the Sector.
+
+The WARMS, the WSNIS, the NVIS, and the criteria and indicators of the Forestry sector are some tools currently in place to ensure compliance against the principles of the legislation. Although, these tools can be used for monitoring compliance, compliance monitoring is undertaken in various degrees within DWAF. DWAF will consider more comprehensive monitoring mechanism to assist the Regional Offices in their compliance functions.
+
+6.     DESCRIPTION OF THE ENVIRONMENTAL MANAGEMENT ARRANGEMENTS FOR CO-OPERATION  
+6.1   Internal Relationships
+6.1.1   Structures for Co-ordination and Co-operation within DWAF
+
+Each of the nine provinces has a regional office that manages water related issues (WRM and WS) and Forestry. Forestry is now organised in regional offices similar to WRM and WS, however, Forestry will no longer operate according to the matrix system.
+
+Co-ordination and communication between Head Office and Regional Offices within the Water branch is achieved through the sharing of responsibility for regional activities with a structured matrix management system. This system centralizes specialist competencies (i.e. hydrologists etc.) at Head Office. Regional offices call upon these competencies as and when required facilitating optimal liaison between policy development and implementation strategies within DWAF.
+
+Management Committees   DWAF Head Office actively promotes the participation of Regional Offices in all of its projects through ensuring Regional Office representation on the Departmental Management Committee (MANCO) and project specific steering committees and workshops. Furthermore the Department has committed to allocating appropriate resources in order to provide continual and effective support to the Regional Offices.
+
+Quarterly briefing meetings are arranged between Water Resource Management and Water Services Regulation to discuss cross-cutting issues between the departments, such as environmental issues, waterworks, etc.
+
+The following internal management arrangements are in place [the relevant line function is indicated in square brackets]:
+
+• The Executive Committee [General];
+
+• Policy Board [General]
+
+• OPSOM [General];
+
+• Management Committee (MANCO) [General];
+
+• Regional Directors Committee [General];
+
+• Audit Committee [General];
+
+• The Water Tribunal [WRM];
+
+• Water Resource Management Functional Committee [WRMFC];
+
+• Departmental Advisory Committees [WRM];
+
+• Water Services Management Functional Committee (WSMFC) [WS];
+
+• Forestry Functional Management Committee [Forestry]; and
+
+• State Forest Land Management [Forestry].
+
+The Fire Act provides for the formation of Fire Protection Associations, whereby land owners form an association for the purpose of preventing, managing and extinguishing of veldfires. DWAF is only managing the registration of these FPAs and is not necessarily involved in their day to day running and functioning. There is also a forum within DWAF (National Fire Coordinating Committee – NFCC), that deals with issues pertaining to veldfires.
+
+Technical Committees   The following internal management arrangements are in place, but not limited to [the relevant line function is indicated in square brackets]:
+
+• DWAF Wetland Task Group [WRM]
+
+• IEM Steering Committee [WRM]
+
+• Water Use Licensing Authorisation Advisory Committee [WULAAC] [WRM]
+
+• Working for Water technical committees [WfW];
+
+• Regional Co-ordination Committees [WS];
+
+• Provincial Water Sector Forums; [WS]
+
+• Compliance and Enforcement Co-ordinating Committee [Forestry];
+
+• Forestry Technical Information Services Co-ordinating Committee [Forestry]; and
+
+• Participatory Forestry Management Co-ordinating Committee [Forestry].
+
+• National Fire Coordinating Committee [Forestry]
+
+6.2   External Relationships
+6.2.1.   Structures for Co-ordination and Co-operation with National, Provincial and Local Government
+
+To provide support to national, provincial and local government to ensure sustainable management of water and forestry resources is considered a key priority of the Department. DWAF has recently developed a guideline for the implementation of the Intergovernmental Relations Framework Act (No 13 of 2005). The aim of the guideline is to ensure that DWAF liaises with all spheres of government at a local, provincial and national level in the spirit of co-operative governance.
+
+At a national level, the Director General of DWAF meets other Director Generals to share information and co-ordinate sector programmes through the Director General Cluster. DWAF as Sector Leader, chairs the Water Sector Leadership Group. All sector partners are represented on this committee which meets quarterly. The main aim of the Water Sector Leadership Group (WSLG) is to ensure better co-ordination within the water sector. DWAF also chairs the Social Cluster. The main areas of focus of the Social Cluster are Health, Human Settlement and Social Cohesion and Basic Services – Water and Sanitation. Also, during 2007/8 the Department and the national and provincial Departments of Environmental Affairs will finalise and implement a joint programme to permit landfill sites. In terms of sanitation, DWAF facilities the National Sanitation Task Team, a collaborative structure meeting on a quarterly basis for the co-ordination of activities in the sanitation sector.
+
+The WfW programme is also a national initiative, led by DWAF, DEAT and the DoA, and is run in partnership DTI. This programme is globally recognised as one of the most outstanding environmental conservation initiatives on the continent and it enjoys sustained political support for its job creation efforts and the fight against poverty.
+
+At a provincial level, DWAF Regional offices are part of various provincial forums with the aim of information sharing and co-ordination of initiatives. Provincial Water Sector Development Plans have been developed. These plans are aligned to relevant provincial and key national programmes such as Provincial Growth and Development Strategies (PGDS), Accelerated and Shared Growth Initiative – South Africa (ASGISA), etc. Joint licensing of afforestation with the provincial departments of Agriculture and Environmental Affairs will continue. A particular challenge during 2007/8 and later years will be to ensure sufficient capacity in the Department and the provincial Departments to process large areas of afforestation in the Eastern Cape and KwaZulu-Natal. In addition, meeting national targets for water supply and sanitation service provision will require close collaboration at provincial level through structures such as the provincial water forums and the provincial sanitation task teams.
+
+The Department has put effort into the function of supporting local government. This has resulted in the Department winning the 2006 National Municipal Performance excellence award (Vuna Award) for being “a national sector department providing exemplary support to local government”. The Department has developed a comprehensive support plan for the water sector that addresses its support requirements. This strategy is closely aligned to the Department of Provincial and Local Government’s (DPLG) five year strategy plans. The introduction of project and programme management practices managed by the DWAF will enable a clear flow of information, which will ensure the alignment of planning, funding and budget prioritisation initiatives. These initiatives in turn will lead to an environmentally sound approach to planning service delivery. The Water Services Development Plans (WSDP) are aligned to the Integrated Development Plans (IDP) and the PGDSs and training programmes will be implemented to capacitate newly elected councillors and managers. Councillor training workshops on WS and WRM issues will be provided.
+
+The National Disaster Management Advisory Forum – Fire Working Group (NDMAF-FWG) is a forum established by DWAF for the purpose of linking all stakeholders directly affected by veldfires, such as ESKOM, TRANSNET, FORESTRY SOUTH AFRICA and FPAs to combine efforts in managing these fires.
+
+DWAF and DPLG have a MoU, relevant, inter alia to veldfire disaster management. Both departments, together with other stakeholders, co-finance the Working on Fire programme, which was established with the main objective of fighting fires.
+
+The Department will transfer the remaining plantation forests, comprising both commercial plantations and community woodlots, often referred to as Category B and C Plantation, to the private sector and communities and natural forests to other management agencies such as SANParks. The transfer of state forests will assist in poverty alleviation.
+
+Finally, the Department currently liaises with other departments to enhance integrated planning and implementation with all relevant sectors. The principal strategic relationships at national levels are as follows:
+
+Table 3-2 Strategic Relationships at National Level
+
+
+The Department intends to use the opportunity created by the observance of nationally recognised days and events such as Water, Arbor and Sanitation weeks to raise the awareness and education of stakeholders about critical resources, water and forestry and their integral role in achieving the twin goals of economic growth and social development. Future activities and events will serve to actively profile and involve the broader South African public about the management and conservation of these resources.
+
+DWAF has entered into various Memorandums of Understanding (MoU) and agreements with key partners to ensure that it can perform its functions in an environmentally sustainable manner and in compliance with the principles and spirit of NEMA.
+
+Below is a summary of the various Memorandums of Agreements.
+
+Table 3-3 Agreements with Key Partners
+
+
+Below is a summary of the DWAF structures for co-ordination and co-operation within the Department and between all spheres of governments.
+
+Table 3-4 Summary of DWAF Structures for Co-ordination and Co-operation
+
+6.2.2.   Structures for Co-ordination and Co-operation with International Partners
+
+Engagements with international partners usually covers both impacting and management functions and as such, the structures for co-ordination and co-operation with international partners was covered under Section 3.2.1 of the Environmental Implementation Plan. Refer to page 49.
+
+7.     PROPOSAL FOR THE PROMOTION OF OBJECTIVES AND PLANS FOR INTEGRATED ENVIRONMENTAL MANAGEMENT (IEM)   The IEM Series and IEM Steering Committee will be the main driving forces to promote integrated environmental management within the department and be rolled out through the IEM Series and CEIMP communication and implementation strategies.
+8.     ACTION PLAN FOR THE MANAGEMENT OF POLICIES, PLANS AND PROGRAMMES   Below is a summary of the key actions for each functional area. DWAF reports performance against sub-programmes. Implicit in each sub-programme is the aim of sustainable environmental management of the water and forestry sectors.
+
+Where targets and budgets were not included in the tables the information was not available at the time when this document was printed and due to the fact that the submission date for the 2nd Edition CEIMP is not in line with government’s 5-year strategic planning cycle and will thus be reported upon in the annual progress report.
+
+8.1   Water Resource Management
+
+Table 3-5 Compliance Key Action Areas for National Water Resource Planning
+
+
+
+
+
+
+
+
+Table 3-6 Compliance Key Action Areas for Institutional Regulation and Development
+
+
+Table 3-7 Compliance Key Action Areas for Water Resource Protection
+
+
+Table 3-8 Compliance Key Action Areas for Controlling and Regulating Water Use
+
+
+Table 3-9 Compliance Key Action Areas for Water Resource Information Management
+
+
+Table 3-10 Compliance Key Action Areas for the Working for Water Programme
+
+
+Table 3-11 Compliance Key Action Areas for African and International Co-operation
+
+8.2   Water Services
+
+Table 3-12 Compliance Key Action Areas for Water Sector Policies and Strategy Development
+
+
+Table 3-13 Compliance Key Action Areas for Water Services Planning
+
+
+Table 3-14 Compliance Key Action Areas for Water Services Regulation and Intervention
+
+
+Table 3-15 Compliance Key Action Areas for the National Sanitation Programme
+
+8.3   Forestry
+
+Table 3-16 Compliance Key Action Areas for Forestry Oversight and Governance
+
+
+Table 3-17 Compliance Key Action Areas for Forestry Development and Community Empowerment
+
+
+Table 3-18 Compliance Key Action Areas for Fire Governance, Regulation and Oversight
+
+
+Table 3-19 Compliance Key Action Areas for Sustainable Forest Management
+
+9.     CONCLUSION   The Department is currently updating the CEIMP 2nd Edition Communication and Implementation Strategy for the next four years and will be rolled out through the Integrated Environmental Management (IEM) Steering Committee and be managed by the Environment & Recreation unit of the department.
+
+The key findings of the audit of the 2006 CEIMP included budgetary information should be made available, better alignment of co-ordination and co-operative governance structures, user friendly version for the annual progress reports and better alignment of business plans to the CEIMP. The development of the latest version of the CEIMP has taken the audit findings into account. The action tables are aligned to business plans and will form the basis for future reporting.
+
+There will be annual performance audits done on the CEIMP 2nd Edition and the annual progress reports to ensure corrective measures implemented and reported to Management on performance. The development and implementation of the Sustainable Development Management System (SDMS) will also assist in effective environmental reporting mechanisms based on predetermined objectives through consultations with the Chief Financial Officer. The SDMS will be rolled in the future according to an implementation plan.
+
+The Department will attempt to include the financial implications of its management and impacting functions on the environment through the annual CEIMP 2nd Edition progress reports and will investigate the Environmental Management Accounting (EMA) concept.
+
+Cooperative Governance will be promoted through MoA’s and/or through development of policies, plans and programmes on a sector and inter-department level.
+
+The CEIMP will form the basis for better understanding and integration of environmental issues within all structures of DWAF.
+
+This Second Edition of DWAF CEIMP is hereby submitted to the Committee for Environmental Coordination (CEC) for the financial year of April 2008-March 2011 implementation period.
+
+____________
+
+
+
+Footnotes
+1	 The DWAF Environmental Legal Guide Booklet contains the entire list of legislation that DWAF requires to comply with, related to sound environmental management.
+
+
+End of Document

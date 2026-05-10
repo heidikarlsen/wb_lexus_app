@@ -1,0 +1,540 @@
+
+
+
+
+NUM & others v Grogan NO & another [2010] JOL 25713 (LAC)
+Judgments Online
+
+Division: Johannesburg
+Case No: JA 30 / 08
+Hearing Date(s): None Indicated
+Judgment Date(s): 01 / 06 / 2010
+Bench: Davis JA, McCall, Hendricks AJJA
+
+
+Keywords
+
+
+Labour law — Dismissal — Fairness
+
+Mini Summary
+
+
+The second to further appellants ("the employees") were employees of the second respondent ("the company") and members of the first appellant ("the union"). They were dismissed for misconduct, following a disciplinary enquiry.
+
+A dispute was referred to arbitration, with the first respondent as arbitrator.
+
+The arbitrator found the dismissal of some of the employees to have been substantively fair, while that of some of the other employees was substantively unfair. Those employees were to be reinstated by the company. The company brought an application for review of the award. The labour court granted the review application, and replaced the award with a finding that all the dismissals were fair. The present appeal was directed at that order.
+
+Held that at the time of the commission of the misconduct on which the dismissals were based, six of the employees were not shown to have been present. Therefore, the court a quo had erred, in finding that the company had proved prima facie that all the employees, and, in particular, the said six employees, had participated in the misconduct and were aware of it, and, secondly, that there was an onus on the said six employees to rebut  certain facts and inferences.
+
+The court then turned to the issue of derivative misconduct, which formed the basis of the finding of the presiding officer of the disciplinary hearing. After setting out what is meant by the concept, the court went on to examine whether there was derivative misconduct on the part of the employees in question.
+
+Ultimately, the court held that the arbitrator's determination that the dismissal of eight the applicants was not for a fair reason had to be reinstated. To the names of the employees whose dismissal the arbitrator found to be for a fair reason, had to be added the names of two others.
+
+As relief for the unfair dismissals, the court found reinstatement not to be a feasible option, and instead awarded 12 months' salary as compensation.
+
+ 
+[2010] JOL 25713 (LAC) at 1
+
+
+
+
+Introduction
+
+[1]    The second and further appellants ("the employees"), who were all employees of the second respondent ("the company") and members of the first appellant union ("the union"), were dismissed in July 2002 following a disciplinary enquiry. This enquiry was chaired by a Mr Barclay,  
+[2010] JOL 25713 (LAC) at 2
+a Management employee of De Beers, and he found all of the employees guilty of misconduct for which the appropriate sanction was dismissal.
+
+[2]    A dispute was declared concerning the substantive and procedural fairness of the dismissal and it was referred to the CCMA for conciliation. By agreement between the appellants and the company the dispute was referred to private arbitration before the first respondent ("the arbitrator"). The parties agreed that the award would be final and binding on the parties but that it would be subject to review on the same grounds on which parties are entitled to review CCMA arbitration awards in terms of the Labour Relations Act 66 of 1995 ("the Act') and the Constitution of the Republic of South Africa, 1996.
+
+[3]    In his award the arbitrator determined:
+
+The dismissal of Applicants Chaka, Besent, Monnedi, Sonaba and Williams was for a fair reason. They are not entitled to relief.
+The dismissal of Applicants Giwu, Lephoto, Mahlangu, Makeleni, Mashodi, Mahlaba (sic), Molamu, Mpampi, Tokelo and Sekutenyane was not for a fair reason. These Applicants must be reinstated on the terms and conditions that pertained at the time of their dismissals, subject to any changes that would have been implemented in the interim, provided that they report for duty within seven (7) days of the date of this award.
+The Respondent must pay Applicants Giwu, Lephoto, Mahlangu, Makeleni, Mashodi, Mahlaba (sic), Molamu, Mpampi, Sonaba, Tokelo, and Sekutenyane an amount equivalent to the remuneration he or she would have earned, inclusive of all benefits save for overtime he/she might have worked, between  
+[2010] JOL 25713 (LAC) at 3
+the date this arbitration commenced (i.e. 3 June 2003) and the date on which he/she resumes duty in terms of this award.
+Unless the parties agree otherwise, the total amount specified in paragraph 3 above must be paid within 28 days of the date of this award into the trust account of the Respondent's attorney for distribution to those individual Applicants to whom back pay is owed in terms of this award.
+Since costs were sought by neither party, none is ordered."
+
+[4]    On 22 December 2003 the company brought an application to review and set aside the arbitrator's award. It sought the setting aside of the award and the substitution for it of a ruling which the court "deems fit" and an order for costs against any respondent who opposed the application.
+
+[5]    The application for review was opposed by the appellants who also brought a counter-application for review, which expressly sought the reinstatement of the employees referred to in paragraph 2 of the arbitrator's award, with retrospective effect to the date of their dismissal. They did not specifically ask for the reinstatement of Chaka, Besent, Sonaba and Williams, but they did ask for an order declaring that the dismissal of Monnedi was unfair and reinstating him retrospectively to the date of dismissal. They also asked for an order declaring that the dismissal of all the employees was procedurally unfair. The counter-application for review was opposed by the company.
+
+[6]    On 28 September 2007 the Labour Court granted the application by the company for review, with costs, dismissed the counter-application with costs  
+[2010] JOL 25713 (LAC) at 4
+and substituted for the arbitrator's findings, in relation to the employees he ordered to be reinstated, a finding that "The dismissal of the remaining 10 employees is also fair".
+
+[7]    Leave to appeal to this Court was granted on 22 April 2008.
+
+[8]    At the hearing of this appeal, Dr Cloete, for the appellants, conceded, quite correctly, that Makeleni was incorrectly included in the employees to be reinstated in terms of paragraph 2 of the arbitrator's award and should have been included amongst those not entitled to relief, in terms of paragraph 1 of the award. He also correctly conceded that Sonaba was incorrectly included amongst those entitled to compensation in terms of paragraph 3 of the award. Finally, he said, the appellants did not persist in their contention that Monnedi should not have been included amongst those not entitled to relief, in terms of paragraph 1 of the award.
+
+The background facts
+
+[9]    The facts in this matter are set out in detail in the founding affidavit of the company in the review proceedings, appear from the evidence in the arbitration, are summarised in the heads of argument and are, to a large extent, not in dispute. I do not, therefore, intend to repeat them in great detail or to dwell upon the technical nature of the process of kimberlite analysis in which the employees were involved.
+
+[10]    The salient facts about the company and the process are: 
+[2010] JOL 25713 (LAC) at 5
+10.1 The company is a diamond mining company which operates globally.
+
+At the relevant time RSA Geological Services Division operated, at Kimberley, the Kimberley Micro Diamond Laboratory ("KMDL").
+Kimberlite is a type of rock or gravel which may contain diamonds.
+In order to evaluate the potential of samples of kimberlite for extracting diamonds, samples of kimberlite were sent to the laboratory by geologists of the company and other companies, worldwide, for analysis.
+The process involved the breaking down of large samples of rock by crushing it and using very potent acids to release the diamonds from the crushed material. The number of diamonds in a sample and the weight thereof are used to determine the total content of an area of kimberlite.
+The results of the laboratory analysis are used to estimate the number of large stones that would be found in a particular deposit of kimberlite in order to decide whether to continue prospecting, whether to exploit the kimberlite and whether to establish a mine. The accuracy of the results is accordingly of vital importance.
+The process is complex, dangerous and difficult. In essence it involved:
+The preparation of the sample by crushing, dividing it into "aliquots" of 20kg each, baggage and storing.
+Leaching in hydrochloric acid.
+The draining or decanting.
+The acid digestion process through boiling in sulphuric and hydrofloric acid.
+The de-sliming process in a reactor to remove smaller matter than is required. 
+[2010] JOL 25713 (LAC) at 6
+The analysis.
+
+[11]    The employees at KMDL fell broadly into two categories, namely, those engaged in the processing of the sample and those who sorted the recovered diamonds. Both groups reported ultimately to Frankie Lephoto, the laboratory superintendent, one of the appellants, who features prominently in the proceedings. Lephoto reported to Garvie who was the plant manager at the time and who gave evidence for the company.
+
+[12]    Of the remaining employees:
+
+Williams was the immediate supervisor of all of the employees except Lephoto;
+
+Mashodi worked in the laboratory as the tea lady;
+
+Tokelo was responsible for cleaning the safety clothing of the workers.
+
+The remaining employees were all involved in the sampling process.
+
+[13]    In 1999 Garvie asked employees if they were prepared to work overtime to reduce a backlog of processing samples which had built up. Besent, Chaka, Monnedi, Sonaba and Williams volunteered to work overtime. There was a conflict in Garvie's evidence as to whether or not Makeleni volunteered to, and did, work overtime but the appellant's witnesses Lephoto and Monnedi both said that he did and, as I mentioned in paragraph [8] of this judgment, it was conceded that he should have been included in those employees not entitled to relief.
+
+ 
+[2010] JOL 25713 (LAC) at 7
+
+[14]    In April 2002 Mrs Ziegler, who was Manager of KMDL at the time, and who gave evidence at the arbitration, received a report which led to her meeting with an informer. The informer's identity was not disclosed during the hearing (he/she will be referred to as "X" in this judgment). X made a report to the effect that for every 20kg of kimberlite that was crushed in the receiving section, 15kg was discarded in a number of ways. In particular some of it was disposed of down two boreholes, referred to as boreholes 6 and 7, which were used for the sampling of the water level below the laboratory site to check acid levels. An objection to the reception of the evidence of what was said during this meeting was raised by Dr Cloete. The arbitrator allowed the evidence to be admitted on a provisional basis and later ruled that Ziegler's evidence concerning her conversation with X was inadmissible, in so far as it was led to prove that any or all of the applicants were parties to the disposing of the kimberlite, whilst leaving intact the evidence concerning the fact of the conversation. He made a similar ruling relating to the evidence of a Mr Haupt regarding a statement made by X.
+
+[15]    Mrs Ziegler carried out an investigation of the water quality monitoring records which revealed that boreholes 6 and 7 could not be sampled and that the last time that they were sampled was on 28 March 2000. An inspection of the boreholes revealed that they had been blocked with calcrete, or common rock, at the surface.
+
+[16]    On 1 May 2002 the two boreholes were drilled and kimberlite was extracted from both boreholes. In borehole 6 they also discovered a plastic sample ticket  
+[2010] JOL 25713 (LAC) at 8
+similar to one at the receiving section of KMDL. In borehole 7, kimberlite was also found together with a number of sample tags on which the original number of the sample could still be read, and certain metal tags.
+
+[17]    Approximately 453kgs of kimberlite were extracted from the two boreholes. That was not all that could be extracted because at 20m they hit the water table, so that the kimberlite which came out was very slimy and could not be collected.
+
+[18]    As stated by Dr Cloete in his heads of argument, it was common cause that the kimberlite could only have found its way into the boreholes by being "poured down".
+
+[19]    On 2 May 2002 all 15 employees were interviewed. On initial questioning all 15 denied any knowledge of how the kimberlite got down the boreholes. Nine of the employees, including Chaka, made affidavits to that effect.
+
+[20]    Chaka subsequently made two further statements In the second one he said, inter alia:
+
+"In June, July 2000 Andrew Moremani (who is not an appellant) and I threw samples in the borehole. It was 3 bags of samples and I think it was from Angola."
+
+In the third statement Chaka said, inter alia:
+
+Approximately July 2000, I remember the date as it was just before they started building, Andrew Moremani and David Bessent (sic) told me that we  
+[2010] JOL 25713 (LAC) at 9
+will only work the samples until we reach our aliquots. The rest of the samples will be thrown away. Joel Monedi (sic) was present during this conversation and he heard Andrew and David tell me this.
+I asked them why and they told me that we needed to finish the samples to reach the target which would give us a bonus that Garvey promised.
+. . .
+I personally discarded 3 bags of samples down the borehole. This practice continued for 2 months and ceased when the backlog was cleared. We did not work overtime after that.
+It was only in the late afternoon that we threw samples away. . . ."
+
+[21]    Chaka did not give evidence at the hearing and, although his statements were hearsay, they were admitted in evidence without any objection from the appellants, although, in his answering affidavit to Ziegler's founding affidavit, Mr P Tlali, the shop steward representing the union in the review proceedings, did say that Chaka was threatened, intimidated and promised certain benefits by his interrogators when he made the various statements. However in response to a submission by Ziegler, in her affidavit, that the arbitrator had unjustifiably and/or incorrectly found that only those individual employees who had worked overtime were likely to be involved in the discarding of sample, Mr Tlali said:
+
+"The findings of the arbitrator were justified as the evidence was overwhelming that those workers who worked overtime over weekends when others were not present discarded sample."
+
+I shall return later in this judgment to the significance of Chaka's statements
+
+ 
+[2010] JOL 25713 (LAC) at 10
+
+[22]    All of the employees (leaving aside Chaka who did undergo a polygraph test) were given the opportunity to undergo polygraph tests. Most of them gave their written consent to do so but later withdrew it after consulting the union. Ziegler also told the employees that if they withheld information concerning the discarding of sample, this was regarded as being dishonest and a dismissible offence. She gave them anonymous telephone numbers through which they could contact management should they wish to provide information without revealing their identity, but none of them utilised this opportunity.
+
+[23]    The employees were then suspended and charged.
+
+The charges
+
+[24]    All of the employees were charged, under charge 1, essentially with acting with common purpose in an unlawful enterprise to tamper with samples and/or compromise the integrity of samples treated at KMDL from the year 1999. There were seven other charges under which various employees were charged with matters related to the disposal of the sample. In the alternative, there was a charge against all of the employees for failing to disclose information about the misconduct of fellow employees relating to the offences and/or failing to offer reasonable assistance and information in the detection of those employees actually responsible for one or more of the offences. Finally, there was a charge against Lephoto, only, relating to two samples, one containing a small diamond, found in his drawer, but he was found not guilty on this charge and it is not necessary to deal with it.
+
+ 
+[2010] JOL 25713 (LAC) at 11
+
+The award
+
+[25]    With regard to substantive fairness, the arbitrator considered that the issue to be decided was whether the evidence presented during the arbitration was sufficient to warrant the inference that, on a balance of probabilities, any of the employees actually discarded sample, or that they knew that others had done so and failed to assist the company in identifying the perpetrators. It was not disputed that if an employee was guilty of either actually disposing of sample or wilfully refusing to assist the respondent to identify the culprits, this would constitute serious misconduct justifying dismissal.
+
+[26]    The arbitrator found Chaka guilty of gross misconduct on the basis of his confession. However, as his admission only accounted for a fraction of the kimberlite found in the boreholes, he found it necessary to consider whether there was sufficient evidence to identify any of the other culprits. The only evidence linking any particular employee to the actual discarding of sample was Chaka's statements implicating Besent, Moremani (who is not an appellant) and Monnedi. Besent did not give evidence and, although Monnedi did, it was not accepted by the arbitrator. Their dismissal was found to be justified.
+
+[27]    Sonaba and Williams were found, by inference, to have participated in discarding the sample on the basis that they both worked overtime during the period in question and hence stood to benefit from the bonus payable for reducing backlog, that Williams was the direct supervisor of the overtime team  
+[2010] JOL 25713 (LAC) at 12
+and that, in the circumstances, the failure of Sonaba and Williams to testify was fatal to their case. The arbitrator said that, if his finding in that regard was incorrect, the likelihood that they at least possessed information that would have assisted the company identify the culprits could also be inferred from their silence. It was conceded by the appellants, on appeal, that Makeleni should have been included by the arbitrator in the same category as Sonaba and Williams and hence he was excluded from the appeal.
+
+[28]    That left three remaining categories to be considered by the arbitrator and in this appeal, namely:
+
+Gladys Mashodi, the tea lady and Virginia Tokelo, the cleaner.
+Giwu, Mahlangu, Mhlaba, Molamu, Mpampi and Sekutenyane, all of whom the arbitrator said were not employed by the company during the period when the sample was discarded and none of whom, according to the evidence, worked overtime during the relevant period.
+Lephoto, the superintendent.
+
+[29]    There was no evidence that any of the employees referred to in paragraph [28] had actually discarded sample and accordingly the presiding officer at the disciplinary hearing introduced, and the company, in the arbitration, relied, on the concept of "derivative misconduct".
+
+[30]    The concept of "derivative misconduct" in labour law appears to have originated in the following observation by Nugent J (as he then was) in  
+[2010] JOL 25713 (LAC) at 13
+Food & Allied Workers Union & others v Amalgamated Beverage Industries Ltd (1994) 15 ILJ 1057 (LAC) at 1063B:
+
+"In the field of industrial relations, it may be that policy considerations require more of an employee than that he merely remain passive in circumstances like the present, and that his failure to assist in an investigation of this sort may in itself justify disciplinary action."
+
+However, Nugent J found it unnecessary to deal with that issue in the case under consideration. In that case a large group of workers had assaulted a "scab" driver leaving him severely injured. The company was unable to prove which of those present at the time the assault took place actively participated in the assault. The court assumed, for the purposes of the appeal, that the onus of establishing that each of the appellants had associated themselves with the assault was upon the company and was to be discharged as a matter of probability. It found that the evidence was consistent with the inference that "all those present either participated in the assault or lent their support to it" and no alternative inferences had been advanced which had a foundation in the evidence. Nugent J further said, at 1064D:
+
+"In my view this is pre-eminently a case in which, had one or more of the appellants had an innocent explanation, they would have tendered it, and in my view their failure to do so must be weighed in the balance against them."
+
+[31]    In Chauke & others v Lee Service Centre CC t/a Leeson Motors (1998) 19 ILJ 1441 (LAC) [also reported at [1998] JOL 3076 (LAC) – Ed] 20 employees had been dismissed for malicious damage to property. The employer operated a panel-beating shop. The Industrial Court had found that one or more of the company's workforce had deliberately  
+[2010] JOL 25713 (LAC) at 14
+perpetrated acts of malicious damage to the company and customer property. The question which arose was whether those acts warranted the dismissal of all 20 members of the paint, polishing and cleaning section. After referring to the passage, reproduced above, from Nugent J's judgment in the ABI case (supra), at 1063B, Cameron J said, at 1447H:
+
+"This approach involves a derived justification, stemming from an employee's failure to offer reasonable assistance in the detection of those actually responsible for the misconduct. Though the dismissal is designed to target the perpetrators of the original misconduct, the justification is wide enough to encompass those innocent of it, but who through their silence make themselves guilty of a derivative violation of trust and confidence." 
+
+However, he went on to say at 1448C: 
+
+"The facts in the present case likewise make it unnecessary to decide the question of derivative misconduct, since in my view the company was warranted in inferring that all 20 dismissed workers themselves shared responsibility for the primary misconduct."
+
+[32]    The arbitrator stated the obvious in saying that those employees who were not employed during the period when the sample was discarded could not have actually discarded sample or "acted in association" with those who did. He went on to say: "Moreover, it is highly improbable that Applicants Mashodi and Tokelo could have physically associated with the culprits in the disposal of sample", by which I understand him to mean that is unlikely that they could have physically thrown away sample together with those who did.
+
+ 
+[2010] JOL 25713 (LAC) at 15
+
+[33]    After considering the ABI and Leeson Motors cases (supra) the arbitrator accepted that derivative misconduct of the type referred to in those cases may justify dismissal in appropriate circumstances. After saying that none of the applicant employees was expressly charged with failing or refusing to assist the company in its efforts to bring the perpetrators to book (which, incidentally, was not correct, as appears from my summary of the charges in paragraph [24]above), he said that he accepted that wilful non-cooperation by employees with their employer's efforts to investigate serious misconduct "can in the labour context constitute 'association' with the culprits of a type sufficiently close to be covered by the charges". He added that a refusal to disclose information relating to an offence "can in certain circumstances make a person an accessory". He accordingly accepted that if any of the individual applicants deliberately withheld information relating to "the scam" from the company, he or she would be guilty of residual misconduct.
+
+[34]    After considering facts relied upon by the company in support of its argument that the employees were guilty of residual misconduct, such as the quantity of discarded kimberlite, that the process must have continued for a considerable period of time, that the conduct of the culprits must have been observed and discussed among the "team", the smallness of the KMDL staff (about 20), and that the boreholes were a few metres from and easily visible from the laboratory windows and doorways, the arbitrator found that none of those considerations could possibly apply to those employees who were not working at KMDL when the dumping was taking place, unless the employees discussed the scam later and it became common knowledge among the laboratory staff.
+
+ 
+[2010] JOL 25713 (LAC) at 16
+
+He then considered the employees' actions after the scam was discovered, upon which the company relied to prove its contention that all of the employees had knowledge of it. They were, essentially, the refusal to undergo polygraph tests and their generally un-cooperative attitude, which, he found, "did not necessarily prove" that they had something to hide.
+
+[35]    Whilst the arbitrator accepted that the failure of most of the employees to give evidence either at the disciplinary hearing or at the arbitration had to be weighed in the balance in deciding whether they possessed information that could have assisted the company to identify the perpetrators, he found that it was a mere possibility that the employees in question were in possession of such information and that the evidence led by the company did not discharge the onus upon it to prove its case on a balance of probabilities.
+
+[36]    Before us, counsel for the company submitted, quite correctly, that underlying the entire award made by the arbitrator were two interrelated but fundamental considerations, namely:
+
+His finding that the sample was discarded during the period between 1999 and early 2000.
+The consideration that the motive of those who discarded the sample was to earn a financial reward, either through overtime pay or potential bonus, or both.
+
+He submitted that the reasoning applied to the reinstated employees was fatally flawed because the period relied upon by the arbitrator was incorrect  
+[2010] JOL 25713 (LAC) at 17
+and he failed to take into account a further motive advanced by the company, namely, making the team's job much easier.
+
+[37]    It emerged during argument before us that there was possibly another vital factor which was relevant to the arbitrator's findings with regard to Giwu, Mahlangu, Mhlaba, Molamu, Mpampi and Sekutenyane. It was whether it was ever established, either by evidence or agreement between the parties, that those employees were in fact not working in the laboratory during the period which the arbitrator regarded as being the period during which the samples were discarded. As appears from the aforegoing summary of the arbitrator's findings he not only found that those who were not employed during the relevant time could not have physically disposed of the samples but, if they were not employed, that had a bearing on whether the inference could be drawn that they had knowledge of the culprits which they had a duty to disclose to the company. I shall return to this aspect shortly.
+
+[38]    With regard to Lephoto, the arbitrator found that it may be that had he conducted his supervisory duties capably he would have detected the extraordinary rate at which the backlog was being reduced, but he was not charged with poor work performance. The company had alleged, as it did on appeal, that Lephoto must have been aware that sample was being discarded because he was probably at the laboratory after working hours (which, the arbitrator said, had not been proved) and because he had a surveillance camera in his office which monitored the Octagon (where the sampling process was carried out). The company further submitted that Lephoto must have known  
+[2010] JOL 25713 (LAC) at 18
+that sample was being dumped because it was one of his duties to "spike" dried sample (a quality control process) and he must have known that spikes were not being extracted. The arbitrator referred to the fact that Lephoto denied knowledge of anything untoward happening in the laboratory during 1999/2000 and that no material concessions were drawn from him under cross-examination. He said that in the final analysis the case against Lephoto was based on his refusal to undergo a polygraph test. He considered that, as in the case of the other employees against whom he had found an inference could not be drawn, "I cannot accept that this refusal alone proved that Lephoto necessarily had something to hide".
+
+[39]    With regard to the additional charge against Lephoto relating to the retaining of a micro diamond in a phial found in a drawer of his desk, he accepted Lephoto's explanation and found that the breach of procedure was minor and that if there was an offence it would not have led to Lephoto's dismissal had it not coincided with his conviction on the other charges.
+
+[40]    With regard to the applicants' allegations of procedural fairness he found that the only ones pursued in argument related to the hearsay evidence concerning the statement of X and the polygraph test on Chaka. He found that neither the reference to Chaka's statement nor the polygraph tests on Chaka rendered the hearing procedurally unfair.
+
+[41]    When dealing with the question of relief, the arbitrator found that the employees whom he reinstated were at least in part the architects of their own  
+[2010] JOL 25713 (LAC) at 19
+misfortune because of their un-cooperative attitude and, for that reason, limited their back-pay to the date on which the arbitration commenced, as opposed to the date of dismissal. This is what gave rise to part of the counter-application for review by the employees.
+
+The Labour Court judgment
+
+[42]    The learned Judge in the court a quo adopted the company's contention, which was common cause, that the arbitrator relied upon two criteria, namely, the period when the sample was discarded and the motive for discarding it. The company's contention in the court a quo and before us on appeal was that the arbitrator erred in setting the end of the period during which sample was disposed of as being March 2000 when in fact there was manifestly further dumping between March 2000 and May 2002 (when the kimberlite was bored out of the two boreholes). In fact the arbitrator did not refer to March 2000, but said: 
+
+"It appears, however, that the sample must have been thrown down the boreholes during 1999 and early 2000" (my emphasis). 
+
+The evidence of Ziegler was that the last time the boreholes were sampled was 28 March 2000 whilst the evidence of Hannweg, for the company, was that they experienced problems "around the second quarter of 2000"when the two boreholes inexplicably became blocked. The date May 2002 relied upon by the company's counsel arose out of an exchange between the arbitrator and Hannweg which was to the effect that:
+
+The water table where the two boreholes were was between 20 and 25 metres.
+When the holes were drilled out on 1 May 2002, kimberlite was hit in hole 6 at 8 metres and in hole 7 at 14 metres. 
+[2010] JOL 25713 (LAC) at 20
+12 metres of hole 6 (ie 20 minus 8) (and, by analogy, in the case of hole 7, 6 metres) above the water table must have been filled between March 2000 (when the water was last sampled) and May 2002 when the boreholes were drilled and the kimberlite extracted.
+
+[43]    The most that can be said from the evidence regarding the two boreholes is that:
+
+The discarding of the samples must have continued after 28 March 2000 when the water in the boreholes was last capable of being sampled.
+The discarding could have ceased at any time before May 2002 when the boreholes were drilled.
+
+It follows that Dr Cloete was clearly incorrect in submitting, in his heads of argument, that it was common cause that the boreholes were already blocked "at about March 2000". On the other hand, the submission by Mr Redding, for the company, in his heads of argument, that, "There is nothing to suggest that the dumping of material could not, therefore have taken place during the latter part of 2000 and early 2001" is not strictly accurate, and, in any event, does not take the matter any further. I say this because there is evidence which tends to prove that the dumping took place only up to about August 2000, namely, the statement by Chaka and the evidence as to when overtime was worked and who was not employed in the laboratory when overtime was worked to clear the backlog.
+
+[44]    However, the learned Judge in the court a quo came to the conclusion that the fact that the discarding continued after March 2000, coupled with the evidence that the sample recovered exceeded 453 kilograms, and could possibly have  
+[2010] JOL 25713 (LAC) at 21
+been as much as two tons, meant that that the only reasonable inferences to be drawn were either that the discarding involved many more than the five dismissed employees, or that it was carried out over a long time, or both.
+
+[45]    With respect, the facts upon which the judge relied were not the only facts which were relevant for the purposes of drawing inferences and the inferences which she sought to draw were not the only reasonable inferences to be drawn from the relevant facts.
+
+[46]    Other facts and circumstances which should have been taken into account by the judge in deciding on the period of discarding of the sample and the possible inferences to be drawn were the following:
+
+According to the evidence of Garvie:
+In 1999 they had a backlog of as much as six months.
+The only way they could overcome the backlog was to ask members of the team to put in overtime on a Saturday. The majority of the people agreed to work overtime.
+A similar process was followed in 2000.
+As far as he could recall the people who worked overtime were Besent, Chaka, Lephoto, Makeleni, Monnedi, Sonaba and Williams.
+He did not think a bonus was paid out in 1999 but it certainly was in 2000, after discussions between Garvie and Lephoto.
+Although he insisted that the bonus was not guaranteed, he agreed, in response to a question from the arbitrator that, "it's more likely that a person who would ultimately qualify for a bonus was responsible for the discarding of the material than one who did not." 
+[2010] JOL 25713 (LAC) at 22
+46.2 Chaka's statements containing admissions were admitted in evidence and used to find those implicated by him guilty of misconduct. There is a principle of evidence that where an extra-curial statement containing admissions by a party to a suit is admitted in evidence against that party, exculpatory portions of that statement may be rejected by the court but only if it is satisfied, after considering the evidence as a whole, that the exculpatory portions lack cogency (see the discussion and the cases referred to in S v Nieuwoudt & andere [1996] All SA 242 (SE) at 258).
+
+It seems to me, by analogy, that fairness requires that the whole of Chaka's three statements should be taken into account in deciding upon the guilt or innocence of all of the employees, in that the contents of the statements are not inconsistent with the rest of the evidence and are not inherently improbable. On that basis the following portions of Chaka's second and third statements should, in my view, be taken into account in assessing the evidence:
+
+It was in "June, July 2000" that he and Moremani threw samples in the borehole.
+In approximately July 2000 Moremani and Besent told him that they would only work the samples until they reached their aliquots. The rest of the samples would be thrown away.
+He asked them why and they told him that they needed to finish the samples to reach the target which would give them the bonus that Garvie promised.
+This practice continued for two months and ceased when the backlog was cleared. They did not work overtime after that. 
+[2010] JOL 25713 (LAC) at 23
+Hannweg conceded, in response to questions by the arbitrator and Dr Cloete, that it was possible that the dropping of the material recovered when the boreholes were drilled, could have been done in one or two drops, or, at least, in a relatively short period.
+For what it is worth, Mr Woodhouse, for the company, said, in the arbitration, that the disposal took place "over the 1999-2000 period".
+Paragraph 6 of Ziegler's letter of 17 May 2002, setting out the alleged misconduct of certain of the employees, states:
+
+"Fraudulently claimed and or retained incentive bonuses for the period 1999 and/or 2000 for work not done, having represented that such work that was necessary to qualify for the bonus had in fact been done" (my underlining).
+
+[47]    In my opinion, the most reasonable inferences to be drawn from these facts are:
+
+That the disposal of the sample down the two boreholes took place from some time in 1999 to about July or August 2000.
+That the sample was disposed of only by those who worked overtime, with a view to reducing the backlog in the hope of earning a bonus.
+That it was impossible to determine precisely how much sample was disposed of or how long it took to dispose of it.
+
+[48]    There is, therefore, in my view, no basis for the finding of the learned Judge in the court a quo that "the only reasonable inferences to be drawn were either that the discarding involved many more than the five dismissed employees, or that it was carried out over a long time, or both" (my emphasis).
+
+ 
+[2010] JOL 25713 (LAC) at 24
+
+Were Giwu, Mahlangu, Mhlaba, Molamu, Mpampi and Sekutenyane employed in the laboratory when the discarding of the sample took place?
+
+[49]    In her judgment the learned Judge in the court a quo said:
+
+"Dr Cloete conceded that the discarding continued after March 2000 when the employer discovered the boreholes to be blocked, and October 2000 when Giwu, Molamu and Mpampi were employed" (my emphasis).
+
+That seems to imply that Dr Cloete conceded that the three employees referred to were employed in the laboratory when the discarding took place.
+
+She referred, in an annotation, to Dr Cloete's heads of argument, paragraph 7.3. Those heads of argument do not form part of the appeal record. If Dr Cloete did make that concession it would have been quite contrary to what Dr Cloete had submitted on behalf of the employees concerned during the arbitration hearing and before us on appeal. However, the learned Judge went on to say:
+
+"He nevertheless persisted that these undisputed facts set apart those employees who were employed in October 2000 and January 2001 from those who were employed before them."
+
+That sentence made no sense if Dr Cloete had indeed made the concession referred to.
+
+[50]    In his heads of argument on appeal (at paragraphs 15 & 16) Dr Cloete said:
+
+"It is common cause that Giwu, Molamu and Mpampi entered the Respondent's employ in October 2000.
+
+ 
+[2010] JOL 25713 (LAC) at 25
+
+Mahlangu and Sekutenyane were employed only in January 2001."
+
+The arbitrator said the same thing in paragraph (7) of the Award.
+
+However, when counsel for the company, Mr Redding, was asked, when the matter was argued before us, whether the company did agree with the said dates of employment of the employees concerned, he declined to make that concession. Dr Cloete was then given an opportunity, during the short adjournment, to find the reference in the record to where the dates of employment became common cause. He was only able to refer us to pages 1888 and 1889 where Dr Cloete, when dealing with the dates of employment, while leading the evidence of Lephoto, said:
+
+"Okay we will submit a list. I think there's . . . it's common cause when people started. We can determine that. We will submit a list of when they started."
+
+Apparently no such list was ever compiled or submitted.
+
+[51]    An examination by me of the record reveals the following:
+
+Dr Cloete put it to Ziegler in cross-examination during the arbitration that the defence of Giwu, Mahlangu, Mhlaba, Molamu, Mpampi and Sekutenyane was:
+
+". . . simply that they arrived so late after these events, they knew nothing whatsoever as to what the charges really . . . you know . . . what really transpired", 
+
+to which Ziegler replied:
+
+"That's what they said in the initial hearing."
+
+Ziegler said that Mhlaba only arrived on 1 August 2001.
+Garvie said, in cross-examination, at the arbitration, regarding those who worked overtime in 1999/2000, in order to reduce the backlog, that Giwu,  
+[2010] JOL 25713 (LAC) at 26
+Mahlangu, Mhlaba, Molamu, Mpampi and Sekutenyane were not working there at that time. Lephoto said precisely the same thing when giving evidence-in-chief. He seemed to say (Record. Vol. 22 page 2061 line 15) that by August 2000 the backlog had been finished.
+At the risk of repetition, Chaka said, in his third statement, that the discarding took place in approximately July 2000, and that the practice continued for two months and ceased when the backlog was cleared.
+
+[52]    From this résumé of the evidence, it appears that:
+
+From the inception of the enquiry it has been the contention of the six employees in question that they were not employed in the laboratory when the disposal of the samples took place.
+Such evidence on the issue as there is, tends to support their contention.
+It appears that the company at no time contested the contention and certainly did not lead any evidence to contradict it.
+To put it at its lowest, then, it was never proved that Giwu, Mahlangu, Mhlaba, Molamu, Mpampi and Sekutenyane were employed in the laboratory at the time when the discarding of the samples took place or that they took part in the discarding.
+
+[53]    In the circumstances, the learned Judge in the court a quo, erred, in finding, firstly, that the company had proved prima facie that all the employees, and, in particular, the said six employees, participated in the scam and were aware of it, and, secondly, that there was an onus on the said six employees to rebut certain facts and inferences.
+
+ 
+[2010] JOL 25713 (LAC) at 27
+
+Gladys Mashodi and Virginia Tokelo
+
+[54]    Before turning to the question of "derivative misconduct", I will deal with the position of these two women.
+
+[55]    As I have said, the arbitrator simply found that it was highly improbable that these two could have physically associated with the culprits in the disposal of the sample. The learned Judge in the court a quo seems to have considered that they were guilty of the misconduct because, by virtue of the proximity of their workplace to the boreholes and their activities in the laboratory they "could" have seen the samples being discarded and because their defence that they could not have known about the scam because they did not work overtime fell apart once Lephoto acknowledged in cross-examination that they did work overtime.
+
+[56]    Ziegler's evidence was that the charge against Mashodi was not that she "was part of the pact" but that she was aware of what was happening and was "part of the team". Further, given the close proximity of the tearoom to the boreholes it was impossible that she was not aware of what was going on. Ziegler also relied on the fact that Mashodi had been involved in a previous disciplinary hearing in which she agreed to take a polygraph test, as a result of which she released from further investigation, but, in this case, she refused to take a polygraph test. Likewise Ziegler relied on Tokelo being closely associated with the other employees and her lack of co-operation.
+
+ 
+[2010] JOL 25713 (LAC) at 28
+
+[57]    Garvie did not include the two women amongst those whom he said worked overtime. Lephoto said they had nothing to do with the treatment of samples and, in effect, that they had nothing to gain by participating in the disposal of the samples. In his evidence-in-chief he said that they did not work overtime. In cross-examination he conceded that Gladys Mashodi had worked overtime of 30 hours in July 2000 but that it was not to reduce the backlog – it was because Virginia had taken leave and she was required to do her job as well. We were not referred to any evidence that Tokelo worked overtime.
+
+[58]    The fact of the matter is that there was no evidence that these two women participated in the actual disposal of the samples. It cannot be said that a reasonable arbitrator could not have come to the conclusion that it was improbable that they did. There is no evidence that they would or could have received a bonus connected to the reduction of the backlog. The other motive suggested by the company, namely, that the disposal would have made the employees' work easier, did not apply to them. In the absence of any clear evidence as to precisely when and at what times the sample was poured down the boreholes it was not possible to draw the inference that either of them must have seen the samples being disposed of. In my view, therefore, there was no prima facie evidence that Mashodi and Tokelo either assisted in the disposal of the samples or associated themselves with those who did.
+
+Derivative misconduct
+
+[59]    In his award the arbitrator identified the two requirements for proof of derivative conduct as being: 
+[2010] JOL 25713 (LAC) at 29
+". . . first, that the employee knew or could have acquired knowledge of the wrongdoing; second that the employee failed without justification to disclose that knowledge to the employer, or to take reasonable steps to help the employer acquire that knowledge" (my emphasis).
+
+In her judgment in the court a quo the judge said:
+
+"The employer must prove on a balance of probabilities that the employee knew or must have known about the principal misconduct and elected without justification not to disclose what they knew" (my emphasis).
+
+Cameron J in the Leeson Motors case (supra) at 1447B used the words:
+
+"Where a worker has or may reasonably be supposed to have information concerning the guilty" (my emphasis).
+
+As I have already mentioned, the arbitrator found that the facts relied upon by the company in support of its argument that its employees were guilty of "residual misconduct" could not possibly apply to those employees who were not working at KMDL when the dumping was taking place, unless they discussed it later and it became common knowledge among the laboratory staff. The learned Judge in the court a quo, on the other hand, found that:
+
+"On the facts the court must infer that all the employees participated in the principal misconduct in the absence of their evidence to the contrary."
+
+She also said:
+
+"Once the employer established the scale of the scam, that it was perpetrated over a long time and during normal working hours, the burden of rebuttal, fell on the employees to explain why they could not see the sample being discarded, why they could not have known about it, but most of all, why they  
+[2010] JOL 25713 (LAC) at 30
+handed back the note with the telephone number for information and refused to assist the employer."
+
+[60]    I have already found that it was never proved that Giwu, Mahlangu, Mhlaba, Molamu, Mpampi and Sekutenyane took part in the discarding of the sample and that there was no prima facie evidence that Mashodi and Tokelo either assisted in the disposal or associated themselves with it. It is perhaps necessary, however, to say something more about the facts to which the judge referred:
+
+As far as the "scale" of the scam or the quantity of the sample proved to have been disposed of is concerned, the evidence only established with certainty a quantity of about 453 kilograms. Assuming that the sample was discarded in aliquots or bags of 20 kilograms, that would have taken only about 23 trips to the boreholes. Even if the quantity was 2 tons or approximately 2030 kilograms that would only have taken 101 trips. Over a period of two months that would have entailed about 13 trips each Saturday. However, Chaka, who admitted to disposing of 3 bags, did not say they were bags of 20 kilograms – they could have weighed much more. Also, the boreholes were close to the laboratory – 50, maybe, 60 metres, according to Garvie.
+There was no concrete evidence as to the length of time over which the disposal took place other than Chaka's statement that the practice continued for two months.
+There is also no evidence that the disposal took place during normal working hours. Chaka said that it was only in the late afternoon that they threw samples  
+[2010] JOL 25713 (LAC) at 31
+away and the probability was that it took place during overtime. It is highly improbable that those responsible for such a nefarious and unusual act as throwing samples down the boreholes would have done it during normal working hours or when it could be observed by any passer-by.
+
+[61]    It must be accepted that an employee may, in appropriate circumstances, have a duty to assist management by bringing forward information within his knowledge about the wrongdoing of other employees. It is interesting to note that the Protected Disclosures Act 26 of 2000 refers, in the preamble, to such a responsibility. The question which arose before the arbitrator was whether, in the absence of evidence of such knowledge in the case of those employees who were not in employed in the laboratory at the time, and in the case of the two female employees, an inference of such knowledge could be drawn from their actions after the scam was discovered in 2002.
+
+He referred, in this regard, to the refusal to undergo polygraph tests and their generally un-cooperative attitude, including the handing back of the note with a telephone number which could be used to confidentially convey information to the employer. To this may be added the failure of the employees concerned to give evidence, other than the affidavits made by some of them, including Molamu, Mpampi and Tokelo during the investigations.
+
+[62]    The arbitrator could not accept that the employees' refusal to undergo polygraph tests in itself proved that they were guilty of discarding sample, or conspiring with those who did, or that they had something to hide. He referred to the fact that Lephoto's evidence that he and the other employees withdrew  
+[2010] JOL 25713 (LAC) at 32
+their consent to take the tests on the advice of the union went unchallenged. I agree that the union's advice was misguided, if the employees were indeed innocent, but I cannot but agree with the arbitrator that the withdrawal of their consent to take the tests does not, in the circumstances, necessarily prove that all of the employees had something to hide. The same can be said of the failure to take the opportunity to convey confidential information to the employees. Without prima facie evidence that any of the employees did have information about the disposal of the samples acquired, either, in the case of the six latecomers to the laboratory after they arrived, or, in the case of the two females during the course of their everyday contact with those responsible, one cannot conclude that their failure to co-operate necessarily meant that they either did have or must have had something to hide.
+
+[63]    That leaves the question of whether an adverse inference can be drawn against the employees in question from their failure to give evidence. In this regard the arbitrator referred to the following passage from the judgment of Nugent J in the ABI case (supra) at 1602H:
+
+"Nevertheless the evidence against him, though not conclusive, may be such that an explanation would be expected if one was available. In such cases his failure to provide an explanation may be placed in the balance against him."
+
+After weighing up the possibilities and referring to the fact that the employer had to discharge the general onus placed upon it by section 192(2) of the Act, the arbitrator said that the respondent had to prove more than a mere possibility, it had to lead evidence to prove that on a balance of probabilities each and every one of the applicant employees was in possession of  
+[2010] JOL 25713 (LAC) at 33
+information that could have assisted the company in its enquiry. He was unable to find that the company had discharged that onus in the case of the six latecomers and the two women.
+
+[64]    Although I find this the most difficult part of the case, I do not think it can be said that a reasonable arbitrator could not have come to that conclusion. Although it was possible that the guilty parties could have discussed their unlawful conduct with the six latecomers after the disposal of the sample had ceased, there seems to be no reason why they should have done so. In fact I consider that it was more probable that they would not have discussed the matter with anyone else, after having made every endeavour to conceal their misconduct, and at the risk of it being exposed by the person or persons to whom they imparted the information. The same, in my view, applies to the two women who had no interest in learning from their colleagues that they had been guilty of disposing of sample to benefit themselves.
+
+[65]    In my view, therefore, the arbitrator was correct in finding that no misconduct on the part of Giwu, Mahlangu, Mhlaba, Molamu, Mpampi, Sekutenyane, Mashodi and Tokelo had been proved and that their dismissal was not for a fair reason.
+
+Lephoto
+
+[66]    The case against Lephoto was on a different footing to that of any of the others who were reinstated by the arbitrator. I have referred, in paragraph [38],  
+[2010] JOL 25713 (LAC) at 34
+above to the arbitrator's findings regarding Lephoto. The learned Judge in the court a quo, on the other hand, said that Lephoto lacked credibility. She said:
+
+"As the KMDL superintendent, Lephoto denied that he was at KMDL when overtime was worked, that he used the surveillance camera in his office to supervise the employees and that he walked about KMDL to supervise the employees. None of these denials have a ring of truth."
+
+The judge then proceeded to amplify her findings and concluded:
+
+"Lephoto had to make these denials, otherwise he could not explain why he did not know about the scam. He must have known about it simply from carrying out his supervisory duties."
+
+She proceeded to refer to the "spiking process" and concluded that Lephoto could not have been recovering all the spikes as the employees were discarding the kimberlite and said that he would have known from this that something was going on. She also referred to reports, on 3 June 1999 that 29 aliquots were leached, and on Saturday, 27 August 1999 when 16 samples were treated when overtime was worked, whereas it was impossible to treat more than eight aliquots a day when overtime was worked. On several occasions more aliquots were treated than was possible. She said that Lephoto should have deduced that employees were not following procedures and referred to his failure to explain the June discrepancy. The judge referred to the fact that there were three systems in place to enable Lephoto to ensure that sample was not discarded, namely, the surveillance camera, spiking the samples and studying the reports. Lephoto, she said, had to explain why all three failed him. Finally she said that Lephoto's "bare denial" was not an adequate answer to the prima facie evidence adduced by the employer and that the arbitrator  
+[2010] JOL 25713 (LAC) at 35
+should not have accepted it and exculpated Lephoto on the basis that he did not do his job properly.
+
+[67]    On appeal before us, Dr Cloete submitted that the reasoning of the court a quo regarding Lephoto "was entirely unrelated to the grounds of review" and was at odds with the differential principle laid down in Sidumo & another v Rustenburg Platinum Mines Ltd & others [2007] 12 BLLR 1097 (CC) [also reported at [2008] JOL 20811 (CC) – Ed]. He set out, what he considered should have been the findings of fact concerning Lephoto and referred to the fact that his immediate superior, Garvie, stated under cross-examination that he did not have any evidence of Lephoto's involvement in the scam. He also referred to a passage in Garvie's evidence which suggests that Williams, the supervisor, was responsible for the sample treatment from start to finish.
+
+[68]    Counsel for the company, on the other hand, submitted that the arbitrator failed to take into account that Lephoto's evidence was improbable and unreliable, particularly his assertion that he never worked overtime. Furthermore he submitted that the arbitrator failed properly to assess the probabilities of the superintendent being entirely ignorant of the "massive scam which took place under his nose".
+
+[69]    On the issue of whether Lephoto worked overtime, Garvie said, in his evidence, that Lephoto obviously would work some Saturdays but could not claim overtime because he was in the upper C band. When asked in cross-examination  
+[2010] JOL 25713 (LAC) at 36
+whether he knew whether Lephoto was aware of the discarding of the samples he said:
+
+"I don't have any evidence to state that, but as he was at the laboratory all day, he may well have been aware of it, but I don't have any evidence."
+
+On the other hand Garvie said that he would certainly believe that the laboratory supervisor, Williams, would have known, as he was working "very, very closely with all members of his team every day" and "in fact was responsible for the sample treatment, from start to finish". Garvie said he had a good working relationship with Lephoto and believed he was committed to his job. When dealing with overtime work, Garvie said they took turns with Williams, Lephoto and himself so that at least one of them was there, and sometimes all three. Garvie, however, insisted that he knew nothing about the blocking of the boreholes. He said Lephoto did receive a bonus for overall performance during the year in question, but not specifically for the reduction of the backlog.
+
+[70]    Ziegler said, regarding Lephoto's duties:
+
+"As superintendent of the laboratory one of the requirements there is that he should look after the quality control system, and (sic) meant to check what our efficiencies are." 
+
+She went on to say that the only way to do that was the "spiking protocol", which she described. She said, in response to a question by the arbitrator as to whether the employees must have known that this was being done: 
+[2010] JOL 25713 (LAC) at 37
+"Yes because in this particular case he (referring to Lephoto) was testing the efficiency of the process to see what can be improved and where sample might be being lost" (my emphasis).
+
+Both Williams and Lephoto, she said, would move around the facility. The camera monitor was in Lephoto's office, and:
+
+"It was a requirement that he watched the monitor, particularly when the acid was being pumped in the afternoon when samples were being loaded into the reactor."
+
+Lephoto was one of those who initially signed a form to say he would consent to doing a polygraph, but, she said, the following morning the union explained that they had advised their members not to do the polygraph test. She went on to elaborate on how she explained the implications of the polygraph test and implored the employees to co-operate. Ziegler also dealt with the records that showed that on occasions in March and June 1999 samples were not treated properly, and indicated that samples were being disposed of. In 1999 and 2000 the sizes of samples coming out of the fusion process was very small, which suggested that disposal was "down the drain". On the question as to whether Lephoto worked overtime she said:
+
+"I know Frankie worked overtime when I was definitely at the lab, and I'm sure he worked before that. He doesn't get paid for overtime, but he did work overtime."
+
+She referred to an occasion when the Venture broke down on a Saturday. Lephoto was driving it and they were all working overtime. It should be noted however, that this was after Ziegler joined the team, which was after the time when the disposal took place, according to Chaka's statement.
+
+ 
+[2010] JOL 25713 (LAC) at 38
+
+[71]    In his evidence-in-chief Lephoto said that when people worked overtime after hours it would only be themselves, unless someone had gone there for some reason such as maintenance. Those who worked overtime frequently worked on Saturdays. In response to a question as to whether it would be possible to throw away sample without other people knowing he said that the only circumstance he could think of was when that person was working alone without someone seeing him or her or was working overtime alone. He maintained that he was definitely unaware of people throwing sample away. He said that he did not know how he could have been aware without having the means to detect it. On the question of the contents of reports, he said that if the reports did not indicate that something went wrong they would not be able to know. In cross-examination he admitted that ultimately he was responsible for the acid laboratory employees, although he had Williams as supervisor. He disagreed, however, that he was supposed to go and physically check that the employees were doing their jobs. Although he was not pressed on the use of the monitor he said he could watch what was going on in the Octagon if he wanted to or had time to do so. He was cross-examined at some length as to why he did not take the polygraph test and maintained that, after initially agreeing, they consulted their representative who advised on the issue, after which he changed his initial decision. He claimed that he did not hand back the note giving the "hotline" for information. When it was put to him that he did work overtime he replied:
+
+"Well, I have said in these hearings that I never worked overtime." 
+[2010] JOL 25713 (LAC) at 39
+He said that Garvie would definitely be lying if he said he did. There could not have been a misunderstanding by Lephoto over the difference between paid overtime and voluntary overtime because that difference was put to him. He went on at some length to justify his contention that he did not work overtime and his attempts were not convincing. For example, he said that Garvie was not there to see him work overtime and that there was no point in him going there to see if people were doing their job properly – he assumed that they were. With regard to Chaka's statement about the disposal being in July 2000 he pointed out that Chaka was dealing with the disposal, not overtime, which started in February. It was put to him that he may or may not have dumped sample himself but the fact that he "may and did know about it" was dishonest. He replied at length, saying that the evidence about more than 20 samples in a month related to early 1999, before he even joined De Beer. He said that he did not refuse to give information – that he gave Mr Lemon all the information he knew, and that the information he received did not contain any suspicious information that could have made him aware that something was happening. He pointed out, perhaps quite rightly, that if there was something it should have been picked up by Mr Garvie. When it was pointed out to him that with regard to the 26 samples on 1 June 1999, he was there, as he was employed on 3 May 1999, he was evasive and did not give a satisfactory explanation. When it was put to him that it was unlikely for the disposal not to be discussed or for people not to know about it, he referred to other incidents where people stole company property and not everybody in the departments was held responsible. In re-examination he insisted that he did  
+[2010] JOL 25713 (LAC) at 40
+not work on Saturdays. He claimed that it was never brought to his attention that if he refused to take a polygraph test it would be used against him.
+
+[72]    I do not entirely agree with the reasons of the learned Judge a quo for rejecting Lephoto's evidence. The fact that there was a monitor in his office does not necessarily mean that he must have seen the sample being disposed of. He obviously would not have looked at the monitor all of the time and it is unlikely that those who did dispose of the sample would have done so at a time when there was a possibility of their activities being seen on the monitor, unless, of course, they were in league with Lephoto. It is not entirely clear from the evidence when it was that the records showed that more sample was processed than was possible, but such evidence as there was seemed to indicate they the records in question related to 1999, whereas the evidence pointed to the disposal in the boreholes having taken place in 2000. Certainly the spiking process was an ongoing thing and should have shown that something was wrong, as Ziegler said. Whilst these matters may be inconclusive, if one adds to them the fact that Lephoto was the superintendent of a close-knit team and worked closely with Williams, the supervisor, who was in charge of the sampling process, it would, indeed, be strange if he did not at least suspect that something untoward was on the go regarding the sampling and the reduction of the backlog.
+
+[73]    In my view, however, there were other factors which proved, on a balance of probabilities, that Lephoto was not being honest with the company or the arbitrator when he claimed to know nothing about the disposal of the samples.
+
+ 
+[2010] JOL 25713 (LAC) at 41
+
+It was Lephoto who discussed the ways and means of working off the backlog with Garvie and he knew that there was a prospect of those who worked overtime receiving a bonus in addition to overtime pay. The question of overtime work became of prime importance in the investigations concerning the scam. Firstly, it was likely that those who disposed of the samples did so after normal working hours (Chaka said in the late afternoon) to avoid being detected. Secondly, the prospect of receiving a bonus for working overtime provided the most likely motive for the disposing of the sample. There can be little doubt, in my view, that Lephoto was not telling the truth when he claimed that he did not work after hours, even if his presence in the laboratory was not, strictly speaking, overtime, because he did not receive overtime pay. There was no reason whatsoever why Garvie should have lied in this regard, as Lephoto accused him of doing. Having read the whole of Garvie's evidence at the arbitration, I am satisfied that Garvie was a fair and honest witness. He had no axe to grind with Lephoto and, on the contrary, spoke well of him and his work. To his evidence that Lephoto did work overtime can be added Ziegler's evidence to the same effect, although her account of the Venture breaking down may have related to a period after the disposal down the boreholes took place. The only possible explanation for Lephoto's false denial that he worked overtime during the relevant period was that he wanted to distance himself: (a) from those who did work overtime and who were the prime suspects; and, (b) from the possibility that he should have seen what was going on. By denying that he worked overtime, Lephoto not only tried to deflect suspicion away from himself but also sought to insulate  
+[2010] JOL 25713 (LAC) at 42
+himself from the possibility that he should have been in a position to disclose what his fellow-employees had done whilst working overtime.
+
+[74]    The other factor that weighs against Lephoto is his refusal, in the circumstances, to take the polygraph test. I accept that it was union policy to discourage workers from taking the tests, but Lephoto was not an ordinary worker – he was second in charge, under Garvie, of the laboratory. One would have expected him, because of the suspicion which fell upon him in the light of his access to the monitor and the sample results and his control of the spiking, to be only too ready the take the polygraph test, if, indeed, he was not guilty of any complicity in the scam and knew nothing about it.
+
+[75]    The only reasonable inference to be drawn from all the circumstances and, particularly Lephoto's dishonesty about working overtime, and his refusal to take the polygraph test, is that Lephoto, even if he did not conspire with the guilty employees to actually commit the wrongdoing, must have had information concerning those who were guilty of the disposal which would have helped his employer to bring them too book, but wrongfully failed to reveal such information to the company. In the circumstances, on the principle of derivative misconduct, Lephoto was guilty of conduct which warranted his dismissal. I am accordingly of the view that the arbitrator erred in exonerating Lephoto and that the learned Judge in the court a quo was correct in including Lephoto amongst those who were guilty of misconduct and were not entitled to relief  
+[2010] JOL 25713 (LAC) at 43
+Procedural unfairness
+
+[76]    The arbitrator found that there was no procedural unfairness on the sole ground argued before him, namely, the admission of hearsay evidence and this issue was not seriously persisted in before us, on appeal. In my view, there is, in this regard, no reason to depart from the findings of the arbitrator and the court a quo.
+
+The remedy
+
+[77]    It follows from my findings that:
+
+The appeal is partly successful, in that the arbitrator's determination that the dismissal of the applicants Giwu, Mahlangu, Mahlaba, Molamu, Mpampi, Sekutenyane, Mashodi and Tokelo was not for a fair reason and must be reinstated.
+To the names of the employees whose dismissal the arbitrator found to be for a fair reason, namely, Chaka, Besent, Monnedi, Sonaba, and Williams must be added the names of Makeleni and Lephoto.
+
+[78]    The arbitrator ordered the reinstatement of those whom he found had been unfairly dismissed. However, he only awarded compensation equivalent to remuneration from the date the arbitration commenced (ie 3 June 2003), and not the date of dismissal, to the date of the award (ie 9 November 3003, that is to say, a little over 5 months' remuneration. He could have awarded up to 12 months' remuneration under section 194(1) of the Act. He did not do so because he considered that the employees concerned were at least in part architects of their own misfortune. Assuming they were innocent, had they taken the polygraph tests, no further action would have been taken against them and they would not have been part of these lengthy proceedings.
+
+ 
+[2010] JOL 25713 (LAC) at 44
+
+Although they were advised by the union not to take the polygraph tests they must bear any consequences arising out of their election not to do so. I agree with the arbitrator's reasoning that their un-cooperative conduct, even if, as I have found, it did not give rise to an inference of guilt, required, in fairness, a limitation of the extent to which the reinstatement should be made retrospective. The counter-application for review in this regard was correctly dismissed.
+
+[79]    As it happens, we were informed from the Bar, by counsel for the company, that the laboratory had closed down and all the employees had been retrenched. He submitted that, in the circumstances, the only possible relief for those who might otherwise have been reinstated was compensation. Counsel for the employees did not dispute the information regarding the closing down of the laboratory. In any event, having regard to the length of time which has elapsed since the dismissals in July 2002, I consider that it would not be reasonably practicable to order reinstatement. Having regard to section 193(2)(c) of the Act which allows the Labour Court or an arbitrator not to reinstate in such circumstances and having regard to the limitation of compensation in terms of section 194(1) of the Act to 12 months' remuneration, I consider that, instead of reinstatement it would be just and equitable to award to those who were unfairly dismissed, compensation equivalent to 12 months' remuneration calculated at the company's rate of remuneration on the date of dismissal.
+
+ 
+[2010] JOL 25713 (LAC) at 45
+
+Costs
+
+[80]    No costs were awarded in the arbitration. The review application was granted with costs and the counter-application for review was dismissed with costs. As the appeal was only partly successful and the effect of this Court's finding is that the application for review should only have been partly successful whilst the counter-application for review correctly failed, it seems to me that it would be fair and equitable if each party bore its own costs of the review application, of the counter-application for review and of this appeal.
+
+Order
+
+[81]    . . .
+
+The order granted on review by the court a quo is set aside and there is substituted for it the following order:
+The application for review is granted in part, to the extent that the arbitrator's award is set aside and the following order is substituted for it:
+The dismissal of applicants Chaka, Besent, Monnedi, Sonaba, Williams. Makeleni and Lephoto was for a fair reason. They are not entitled to relief.
+The dismissal of applicants Giwu, Mahlangu, Mhlaba, Molamu, Mpampi, Sekutenyane, Mashodi and Tokelo was not for a fair reason. They will not be reinstated but are awarded compensation equivalent to 12 months' remuneration calculated at the respondent's rate of remuneration on the date of their dismissal.
+The counter-application for review is dismissed. 
+[2010] JOL 25713 (LAC) at 46
+Each party shall pay its own costs of the application for review, of the counter-application for review and of this appeal.
+
+(Davis JA and Hendricks AJA concurred in the judgment of McCall AJA.)
+
+
+
+End of Document

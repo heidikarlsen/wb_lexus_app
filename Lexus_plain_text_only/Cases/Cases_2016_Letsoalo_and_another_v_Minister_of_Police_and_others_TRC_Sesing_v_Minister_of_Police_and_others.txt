@@ -1,0 +1,116 @@
+
+
+
+
+Letsoalo and another v Minister of Police and others; TRC Sesing v Minister of Police and others [2016] 8 BLLR 793 (LC)
+Labour Law Reports
+
+Division: Labour Court of South Africa, Johannesburg
+Case No: J556/16; J557/16
+Date: 05/04/2016
+Before: P Benjamin Acting Judge
+Keywords
+
+
+Application in terms of section 158(1)(a)(i) of the LRA
+Protected disclosures — Employees launching urgent application to halt disciplinary hearings on ground that they had made protected disclosure — Application dismissed because employee’s alternative remedy was inquiry in terms of section 188A(11) of LRA.
+Section of the LRA considered
+Section 188A(11)
+
+Editor’s Summary
+
+
+After the applicant employees lodged a grievance against a superior officer they alleged that they were subjected to “occupational detriments” because they had made a protected disclosure and the grievance had not been resolved by the removal from office of the officer whose conduct they had complained about. The applicants were then charged with disciplinary offences. They referred a dispute to the CCMA, but the respondent did not attend the conciliation meeting. The applicants then simultaneously referred a dispute concerning an alleged unfair labour practice seeking compensation for injury to their dignity and reputations, and launched an urgent application for an order directing the respondent to stay the disciplinary proceedings pending the outcome of the unfair labour dispute.
+
+The Court held that, although the definition of “protected disclosure” is wide enough to cover complaints made in formal grievance proceedings, the applicants were driven by personal animosity rather than a desire to make a disclosure. This impression was fortified by the fact that they now sought damages. However, since this was an urgent application, the Court declined to make a definitive ruling on that issue. There was no evidence that the charges the applicants were facing was linked to their having made a protected disclosure. But even if there had been such a link, the employees had an effective alternative remedy – they could have invoked section 188A(11) of the LRA and called on the CCMA or bargaining council to conduct an inquiry into the allegations of misconduct. This provision was added to the LRA to prevent spiralling collateral litigation in cases involving alleged protected disclosures. A referral under that provision would have rendered the present application unnecessary.
+
+The application was dismissed.
+
+ 
+[2016] 8 BLLR 793 (LC) at 794
+
+____________________________________________________________________________________
+
+Benjamin AJ:
+
+Introduction
+This is a judgment in respect of two urgent applications brought for interim relief pending the determination of an unfair labour practice, arising from occupational detriments other than dismissal, in terms of the Protected Disclosures Act, 2000 (“PDA”).
+Although there was no formal application for joinder of the matters, it was agreed by the parties that the matters should be argued together as they revolve around the same issues of fact and law.
+The two applicants in the first application, Letsoalo and Nyalungu, are South African Police Service (“SAPS”) members employed in Human Resources Management at SAPS. Their application arises out of the grievance that they lodged against the fifth respondent, who holds the position of Lieutenant Colonel in that section. For the sake of clarity, I will refer to the two employees who lodged the grievance, as the applicants and the applicant in the second matter as the grievance officer.
+The applicants state that they lodged the complaint informally with the fourth applicant, a Brigadier in June 2014 and that thereafter, after concluding that the Brigadier was not taking expeditious steps to resolve the grievance they lodged a formal grievance on 20 November 2014.
+The grievance was lodged with Sesing, the employee who is the applicant in the second of the two applications considered here. He dealt with the grievance in his official capacity as a grievance officer within the SAPS.
+The applicants allege that the grievance that they lodged in 20 November 2014 constitutes a “protected disclosure” and that they have been subjected to occupational detriments as contemplated by the PDA as a result of that disclosure. The grievance officer alleges that he has been subjected to occupational detriments in consequence of the manner in which he has dealt with the grievance raised by the applicants.
+While the two applicants, lodged a joint grievance they made different complaints about the conduct of the fifth respondent. In the case of the first applicant, her complaint related in part to having not obtained a promotion that she had applied for during 2014. She, in particular, articulates a grievance that she was unfairly required to undergo medical testing, even though it was a deskbound job she was applying for.
+In the case of the second applicant, the grievance related to various aspects of the fifth respondent’s conduct including allegations that the fifth respondent had borrowed money from her and required her to purchase food and clothes for her and had never repaid her. The second applicant describes her grievance in the following terms:
+
+“Emanating from all information I stated, I can see how I was treated and exploited in terms of food, clothing and money. I feel very much disturbed, victimised, intimidated, demoralised and discriminated against, it entails also unfair labour practice in the workplace. Lieutenant-Colonel Nkuna definitely
+
+ 
+[2016] 8 BLLR 793 (LC) at 795
+
+misused the rank, position of appointment to oppress me, to such a serious extent that I did not want to come to work. At stages it felt that I am reporting to a very bad work environment, and it influenced me from psychological point of view. She’s a real disgrace to the corps of commissioned officers in the police service and should be stripped of the rank of lieutenant colonel.”
+
+In the grievance form which is dated 20 November 2014 the first and second applicants described the solution they required as follows:
+“1. The member must be removed from her position due to the fact that she is not fit to be a commander.
+2. Disciplinary actions to be taken against her due to the fact that she abuses power.
+3. To be compensated or alternative relief for all emotional suffering she caused.”
+The grievance was subsequently processed through the applicable internal grievance procedures within the SAPS. As indicated, the grievance officer was responsible for dealing with certain aspects of the grievance procedure.
+At some stage, the applicants withdrew the grievance from the internal SAPS processes and lodged a criminal complaint against the fifth respondent. It is unclear from the papers what has happened in respect of the criminal complaint.
+The applicants and the grievance officer both referred disputes to the CCMA during October 2015. They describe the disputes as unfair labour practices relating to the PDA. A certificate of non-resolution was issued on 25 November 2015 after an unsuccessful conciliation meeting. The respondents did not attend the conciliation meeting in respect of the referral by the grievance officer and the 30 days for consideration of the dispute elapsed at approximately the same time.
+The proceedings that give rise to this judgment were instituted on 16 March 2016 and heard on 31 March and 1 April. On 16 March 2016 date [sic], the applicants instituted urgent proceedings seeking interim relief pending the adjudication of the unfair labour practice dispute that they referred to the Labour Court on the same day. The grievance officer likewise instituted urgent proceedings and an unfair labour practice on the same date. The founding affidavit and notice of motion in respect of the urgent applications and the statement of case in the unfair labour practice case are in essence the same.
+The relief that is sought in the unfair labour practice cases is that the fourth and fifth respondents should be prevented from taking disciplinary actions or other occupational detriments against the applicants and the grievance officer as a result of the protected disclosure, that the respondents are directed to comply with the PDA and that the applicants receive compensation in the amount of R500 000 each for the injury to their dignity, reputation, humiliation and the losses incurred. 
+[2016] 8 BLLR 793 (LC) at 796
+
+Has there been a protected disclosure?
+The conduct complained of relates in essence to personal grievances that have evolved between the two applicants and the fifth respondent over a number of years. The grievance officer claims that he should receive protection in terms of the PDA because he was processing a grievance by the first and second applicants that amounted to a protected disclosure. The definition of a protected disclosure is extremely wide1 and does have the potential to cover grievances made against senior employees, provided the grievance is made in terms of an appropriate procedure, if there is one, and is made in good faith.
+In this case, the terms in which the grievances are articulated indicate that they were driven by personal animosity rather than an intention to make a disclosure to the employer as an institution. The strident language of the disclosure (for example calling the Lieutenant-Colonel a “disgrace”) is a strong indication that the disclosure is not made good faith as required by the PDA. In addition, the fact that the applicants have sought to claim compensation both in their initial grievance and in the unfair labour practice referral is a strong indication that the motivation for the grievance was personal, rather than a good faith disclosure in the public interest.
+However, as this is an urgent application, I do not propose to make a definitive determination on whether or not, it constitutes a protected disclosure.
+
+Is there a basis for urgency?
+The applicants and the grievance officer launched their urgent applications, simultaneously with the unfair labour practice referrals, approximately 110 days after a certificate of non-resolution had been issued in respect of the unfair labour practice disputes referred to the CCMA. Accordingly, there is no basis for finding that the dispute as initially formulated should be dealt with as a matter of urgency.
+The applicants are facing possible suspension, transfer and disciplinary charges. They allege that these charges have been instigated by the fourth 
+[2016] 8 BLLR 793 (LC) at 797
+  and fifth respondents in response to the grievances that they have lodged. The respondents state that the applicants are being charged with failing to carry out their lawful duties. The respondent states that the applicants are also facing charges for misrepresentation with fraudulent intent.
+The grievance officer is facing a charge relating to his failure to report back to his previous place of employment after the expiry of the duty arrangement in terms of which he was working in the office of the Provincial Head, Protection and Security Services in Gauteng from 8 October 2014 to 30 April 2015. An internal disciplinary hearing in respect of this charge was set down for 16–18 March 2016 but did not proceed because the grievance officer stated that he was medically unfit to attend the hearing; it is scheduled to resume on 14 April 2016.
+In order to grant relief to the applicants and the grievance officer, I have to find on the papers, applying the rules applicable to urgent applications, that there has been a protected disclosure and that the disciplinary enquiries that the applicants and the grievance officer are facing are instituted in response to that disclosure.
+The respondents contend that the disciplinary action is as a result of, in the case of the first and second applicants, a refusal to comply with lawful instructions and, in the case of the grievance officer, a refusal to return to his previous place of work. In the case of the first and second applicants, the strident tones in which they have couched their grievance are indicative, as I have stated earlier, of a high level of animosity towards the fifth respondent, who is their superior officer. In the light of this indication of the state of mind, I cannot reject the respondent’s version that the applicants have not engaged in conduct in the workplace which merits disciplinary action, irrespective of the nature of the grievance they have lodged. Accordingly, for this reason, both applications must fail.
+Counsel for the applicants argued that his clients should receive urgent protection because if no such relief was granted it was likely that they would be dismissed and the court should seek to prevent this. As I have indicated, the applicants failed to persuade me that the charges that they are facing currently can be assumed to be in response to a protected disclosure. However, even if they had done so, there is an alternative remedy available to them which precludes them being granted interim relief pending the unfair labour practice case.
+If I were to rule in favour of the applicants, the effect would be that no disciplinary action could be instituted against them until the unfair labour practice proceedings that they have instituted have been resolved. Ultimately, what is important in such a case is that there be a hearing at which the applicants’ version and the counter allegations of the respondents can be tested by cross-examination. Proceedings on affidavit, whether urgent or not, do not provide an effective forum for this. The fact that parties in cases involving claims of a protected disclosure get drawn into extensive collateral delaying the ultimate enquiry into the dispute has been noted by the Legislature. 
+[2016] 8 BLLR 793 (LC) at 798
+Section 188A(11) of the Labour Relations Act 1995 now contains a procedure which seeks to avoid this occurring. This provides as follows:
+
+“Despite subsection (1), if an employee alleges in good faith that the holding of an inquiry contravenes the Protected Disclosures Act, 2000 (Act 26 of 2000), that employee or the employer may require that an enquiry be conducted in terms of the section into allegations by the employer into the conduct or capacity of the employee”.
+
+The effect of this is that either the employer or the employee may insist that a disciplinary inquiry concerning and [sic] employees conduct or capacity being conducted by an Arbitrator appointed by the CCMA or a bargaining council. This provision was introduced into the LRA in 2015 to prevent spiralling collateral litigation in cases in which a protected disclosure is alleged.
+In the present cases, the three individual applicants contend that the presiding officers who will conduct the inquiries that they are facing will not do so in an impartial manner. The purpose of this application is, in theory, to postpone the adjudication of whether there has been a protected disclosure and whether the proposed disciplinary enquiry is instituted in response to the [sic], until there has been a ruling in the Labour Court. By invoking the provisions of section 188A(11), they are able to have an independent determination of the issues during the initial enquiry and this decision is in turn subject to review by the Labour Court. This is a further reason why they are not entitled to urgent relief as this provision constitutes an alternative remedy available to them.
+Counsel for the respondents requested that a punitive costs order be made against the three employees who have brought claims. There is no doubt that this application has imposed significant legal costs on the SAPS. On the other hand, much of the preparatory work that has been done remains relevant to the unfair labour practice proceedings. There is no doubt that the three employees have been badly advised as to the legal options available to them. Accordingly, I will not make any costs order against them.
+
+Order
+Accordingly, I make the following order in respect of both applications:
+The application is dismissed.
+No order as to costs.
+
+No cases were referred to in the above judgment.
+
+
+
+Footnotes
+1	  S 1 of the PDA defines a disclosure as follows:
+“‘disclosure’ means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+ (a) That a criminal offence has been committed, is being committed or is likely to be committed;
+ (b) That a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+ (c) That a miscarriage of justice has occurred, is occurring or is likely to occur;
+ (d) That the health or safety of an individual has been, is being or is likely to be endangered;
+ (e) That the environment has been, is being or is likely to be damaged;
+ (f) Unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000); or
+ (g) That any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed.”
+
+For the applicant:
+
+BG Mashabane instructed by Mabunda Attorneys
+For the respondent:
+
+BS Tshauke instructed by the State Attorney
+
+
+End of Document

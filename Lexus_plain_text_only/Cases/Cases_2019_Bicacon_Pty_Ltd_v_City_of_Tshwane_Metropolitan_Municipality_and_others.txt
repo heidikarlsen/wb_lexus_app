@@ -1,0 +1,184 @@
+
+
+
+
+Bicacon (Pty) Ltd v City of Tshwane Metropolitan Municipality and others [2019] JOL 45949 (GP)
+Judgments Online
+
+Division: Gauteng, Pretoria
+Case No: 66170 / 2019
+Hearing Date(s): 19 / 09 / 2019
+Judgment Date(s): 20 / 09 / 2019
+Bench: S Potterill J
+
+
+Keywords
+
+
+Civil Procedure — Interim interdict — Requirements
+
+Mini Summary
+
+
+In an urgent application, the applicant (“Bicacon”) sought an interim order prohibiting the first respondent (“City of Tshwane”) and the second respondent (“the JV”) from concluding a Service Level Agreement (“SLA”) pending a review of the City of Tshwane’s decision to award a tender to the JV.
+
+The City of Tshwane had issued an invitation for tenders, with a tender validity period of 180 days. That period was subsequently extended, but Bicacon alleged that such notice did not come to its attention.
+
+Held that Bicacon bore the onus of placing sufficient evidence before the court to show the existence of a prima facie right, even though open to some doubt. It relied for its prima facie right, on the fact that the bid validity period was not properly extended. The court found no merit in that and found no prima facie right to have been established. Bicacon was also unable to prove a well-grounded apprehension of irreparable harm if the interim relief is not granted, lack of an alternative remedy or the balance of convenience favouring it.
+
+The application was dismissed.
+
+ 
+[2019] JOL 45949 (GP) at 2
+
+
+
+
+POTTERILL J:
+
+[1]    The applicant, Bicacon (Pty) Ltd ("Bicacon"), on an urgent basis seeks an interim order prohibiting the first respondent, City of Tshwane Metropolitan Municipality ("the City of Tshwane"), and the second respondent, CMS, NJR and Blackhead JV ("the JV"), from concluding a Service Level Agreement ("the SLA") pending a review of the City of Tshwane's decision to award a tender to the JV. In the alternative, Bicacon seeks an order interdicting and restraining the City of Tshwane and the JV from implementing the SLA in the event that the SLA has already been concluded.
+
+[2]    The third to eighth respondents did not file any opposition.
+
+ 
+[2019] JOL 45949 (GP) at 3
+
+The common cause facts as background to the matter
+
+[3]    . . .
+
+On 15 June 2018 the City of Tshwane published a tender notice as an invitation to tender. In this notice the following was set out and is relevant to this matter:
+
+"Tenderers are hereby invited for the above services.
+
+Tenderers should have a CIDB contractor grading designation of 9CE or 9ME or higher.
+
+Tenders will be evaluated on the basis of awarding points for price and B-BBEE Status Level of Contribution. The 90/10 Preference Point System will be applied to this Tender.
+
+A COMPULSOY CLARIFICATION MEETING with a representative of the Employer will take place on the 29 June 2018 at 10:00 the Rooiwal Wastewater Treatment Works Admin Building . . . Coordinates: -S25°33.453 and E028°13 659.
+
+The lowest or any tender will not necessarily be accepted, and the Municipality reserves the right to accept a tender as a whole or in part.
+
+Tenders must remain valid for a period of 90 days after the closing date for the submission of tenders, during which period a tender may not be amended or withdrawn and may be accepted at any time by  
+[2019] JOL 45949 (GP) at 4
+the Municipality. The City reserves the right to extend the validity period after consultation with the concerned parties.
+
+The closing time for receipt of tenders is 20 July 2018 at 10:00."
+
+The tender validity period was for 180 days.1
+All bidders were given notice of the intention to extend the validity of the bid. On 1 November 2018 the tender validity period had been extended to 27 March 2019. On 7 March 2019 it was indicated that the validity period for the tender had been extended to 25 June 2019. On 10 June 2019 it was indicated that the extension period had been extended to 23 September 2019. Bicacon however denies that these e-mails came to their attention.
+The Bid Evaluation Committee ("the BEC") recommended that the tender be awarded to the JV "as they were fully compliant with the requirements of the Bid and scored the highest preference points".2
+
+Does Bicacon have a prima facie right open to some doubt?
+
+[4]    Bicacon bears the onus to place sufficient evidence before this Court to show the existence of a right, even though open to some doubt.
+
+[5]    This Court must apply the accepted test for a prima facie right in taking the facts averred by Bicacon, together with the facts set out by the Tshwane and the JV  
+[2019] JOL 45949 (GP) at 5
+which cannot be disputed and to consider whether, having regard to the inherent probabilities, Bicacon should on those facts obtain final relief on review. City of Tshwane and JV's facts set up in contradiction must then be considered and if serious doubt is thrown on the case of Bicacon, then Bicacon cannot succeed.3
+
+[6]    Bicacon in the founding affidavit relied for its prima facie right on the fact that the bid validity period was not properly extended. This fact as support for the prima facie right is seemingly abandoned. The City of Tshwane proved that it sent notifications for the extensions of the tender validity period to all tenderers and Bicacon did not respond hereto. The e-mail address that was utilised for Bicacon is on the tender documents provided by Bicacon and this fact is not denied by Bicacon.
+
+[7]    The Procurement Department of the City of Tshwane worked on a 90-day validity, although on the document reference is to a 180-day period. This is not an irregularity as the bidders were timeously and lawfully consulted and notified of the extension of the validity period. In Bicacon's reply it is undisputed that the validity period was validly extended. The 90-day validity period was given effect to by the extension notices. On this ground Bicacon has accordingly not set out a prima facie right.
+
+ 
+[2019] JOL 45949 (GP) at 6
+
+The JV does not comply with the tender requirement in F.2.1 in that Blackhead did not have a Construction Industry Development Board's ("CIDB") grading
+
+[8]    The goal post shifted in a supplementary affidavit that was filed setting out this new ground as the prima facie right of Bicacon. Clause F.2.1 of the tender procedure document reads as follows:
+
+"Only those Tenderers who are registered with the CIDB or are capable of being so prior to the evaluation of submission, in a contractor grading designation equal to or higher than a contractor grading designation determined in accordance with the sum tendered for a 9CE or 9ME or higher Class of construction work, are eligible to submit tenders.
+
+Joint ventures are eligible to submit tenders provided that
+
+Every member of a joint venture is registered with the CIDB within 10 days from the closing date of tenders;
+The lead partner has a contractor grading designation in the 9CE or 9ME or higher Class of construction work;
+The combined contractor grading designation calculated in accordance with the Construction Industry Development Regulation is equal to or higher than a contractor designation determined in accordance with the sum tendered for a 9CE or 9ME or higher Class of construction work, are eligible to submit tenders." 
+[2019] JOL 45949 (GP) at 7
+
+[9]    It is common cause that the JV consists of three entities, CMS, NJR and Blackhead. It is common cause that Blackhead is not registered with the CIDB and was not so registered at the date of evaluation of the JV's bid response.
+
+[10]    It was also raised that Blackhead's grading is not equal to or higher than the contractor's grading designation determined in accordance with the sum tendered for a 9CE or 9ME or higher class of construction work.
+
+[11]    Bicacon cannot deny that in terms of the JV agreement no partnership between the parties was constituted. In terms of the JV agreement NJR would be responsible for the construction of all civil structures and the installation of the associated gravitation lines and would contribute to 50% of the project. CMS would be responsible for the design, manufacturing, procurement, installation, testing and commissioning of all electrical and mechanical components for the project and as such would contribute 40% towards this project. Blackhead would be responsible for the design of the civil works and for project management of the project. Its contribution would be 10%. Blackhead thus acted as a consulting firm and would render consulting services and would only be paid for the work performed by it. Blackhead is a firm that renders engineering consulting services.
+
+ 
+[2019] JOL 45949 (GP) at 8
+
+[12]    The facts put up by the JV and the City of Tshwane is [sic] to be accepted and cast serious doubts as to the prima facie right of Bicacon. Blackhead as a consultant is not part of the construction element of the JV. Thus Blackhead is not required, nor would it be able to obtain a CIDB rating.
+
+[13]    The submissions by the City of Tshwane and the JV is [sic] correct. The purpose of a CIDB is to ensure functionality of the construction company. The tender document accordingly requires CIDBs with regards to the companies that will be performing construction on the site. Thus Blackhead's CIDB's registration and lack of rating is irrelevant to the purposes of procurement. The City of Tshwane was aware that Blackhead was only in the JV as a consulting party. There is accordingly material compliance with the requirements of the tender. There was accordingly no duty on the City of Tshwane to lodge any investigation into why Blackhead did not have a CIBD registration. F.2.1 on an ordinary reading requires only tenderers who are contractors to have CIDB registrations. The purpose of the provision requiring a CIDB grading would be defeated by requiring a non-contractor JV party to register and to take such party's grading into account.
+
+The JV's incorrect registration number of 2012/2108773/07
+
+[14]    In the supplementary affidavit it is also raised that since the wrong registration number is on the award letter the interdict must be granted, because if the wrong  
+[2019] JOL 45949 (GP) at 9
+registration number of the JV is reflected in law the tender had not been awarded to the JV.
+
+[15]    The facts set up by the City of Tshwane is [sic] to be accepted and cannot be rebutted by Bicacon. According to the Companies and Intellectual Property Commission ("the CIPC") this registration number belongs to an entity known as Mimshak Business Consulting and Partners.
+
+[16]    The City of Tshwane accepts that this incorrect company registration number flows from a clerical mistake in the BEC report which led to the same clerical error being repeated in the award letter prepared at the City Manager's office. This is confirmed by M Makhubele's4 affidavit who in fact confirmed that this error occurred and that the correct registration number of the JV members is not reflected.
+
+[17]    Nothing turns hereon and the tender on such basis, where the JV is not a juristic entity anyway, be halted.
+
+[18]    The incorrect registration number on the award letter can never render the award unlawful.
+
+ 
+[2019] JOL 45949 (GP) at 10
+
+A well-grounded apprehension of irreparable harm if the interim relief is not granted
+
+[19]    Bicacon does not address this requirement for an interim interdict in its founding affidavit at all. This requisite was thus not complied with.
+
+[20]    This Court suspects, this is so, simply because no harm could be identified. In this matter there is no close call between JV and Bicacon in the award of the tender. Bicacon did not satisfy the requisite 70 points for functionality. Even if the JV was not awarded the tender Bicacon would not be awarded the tender and is thus not second in line. The prevention of any further action pertaining to the award of the tender to the JV will thus not cause Bicacon any irreparable harm.
+
+Balance of convenience
+
+[21]    It is common cause that this tender relates to the Rooiwal Sewage Treatment Works situated in the North of the city and is the largest of the city's sewage works. It is a tender that involves three years of work for over R260 million. It is undisputed that the situation at the Rooiwal Sewage Treatment Works has reached emergency proportions with the city needing to commence rehabilitation and renovation of this treatment works on an urgent and immediate basis. In fact, the National Department of Water and Sanitation has pursuant to inspections launched and engaged the city in terms whereof the Department seeks interdicts against the city to compel the city to take steps to cure the problems that exist at, inter alia, this Sewage Water Treatment Works.
+
+ 
+[2019] JOL 45949 (GP) at 11
+
+[22]    My task is to weigh up the harm to be endured by Bicacon versus the harm the JV and the City of Tshwane will bear if the interdict is granted. The City of Tshwane has constitutional obligations in terms of section 27 of the Constitution of the Republic of South Africa, 1996 ("the Constitution") and the repair to the Rooiwal Sewage Works is part of its constitutional obligation. In view thereof this Court must assess carefully to what extent an interdict, if granted, will disrupt functions conferred by the law and will impede on the separation of power.5
+
+[23]    Bicacon did not set out any harm it would suffer. Even if this Court, to the advantage of Bicacon, accepts that it is some form of financial loss, the interest of the public and of the City of Tshwane outweighs any harm that Bicacon would suffer. The harm of the City of Tshwane and the public at large is that the repair and maintenance of the Rooiwal Sewage Works will be paralysed. Granting such an interim interdict will prevent the City of Tshwane from fulfilling its constitutional and statutory duties. In this instance the dispute transcends the parties' commercial interests as it has a direct impact on the public.6 Bicacon thus also does not muster the threshold required with the balance of convenience not favouring Bicacon.
+
+No alternative remedy
+
+[24]    Bicacon has an alternative remedy in the review application, if it would advisedly seek to pursue same.
+
+ 
+[2019] JOL 45949 (GP) at 12
+
+[25]    Bicacon thus did not make out that it is entitled to final relief in the main case in establishing a prima facie right entitling it to an interim interdict. Where, as in this matter, the prospects of ultimate success are seriously doubtful a court will refuse an interdict.
+
+Costs
+
+[26]    The City of Tshwane correctly alerted this Court to the fact that the time frames awarded to the City of Tshwane to answer to Bicacon's urgent application was [sic] unreasonable. In the three-day time frame expected of City of Tshwane, Bicacon also filed a supplementary affidavit wherein the nub of Bicacon's application was set out. Despite the City of Tshwane's reasonable request for the matter to be heard in the following urgent week this request was denied. Many of the issues raised, has [sic] fallen by the wayside, for instance whether Ms Tredoux was a lawfully appointed Municipal Manager. Much of this conjecture was raised by a would-be whistle-blower and much of it was raised on hearsay, but had to be answered.
+
+[27]    On these facts the court was requested to exercise its discretion in granting a punitive costs order against Bicacon.
+
+[28]    A busy urgent court is often in this Division abused, attempting to hamstring big organisations with short time periods. The City of Tshwane did however produce  
+[2019] JOL 45949 (GP) at 13
+under great pressure, but in future punitive costs orders may be granted where it is impossible to fulfil the time periods. I am exercising my discretion not to grant punitive costs.
+
+[29]    I accordingly make the following order:
+
+The application is dismissed.
+The applicant is to carry the costs of the first and second respondents. The costs to include the costs of two counsel for each of the respondents.
+
+
+Footnotes
+1	 Cl 7.2.16 (Annexure FA3).
+2	The Bid Adjudication Committee ("the BAC") made the final recommendation of the JV's appointment.
+3	Simon NO v Air Operations of Europe AB and others 1999 (1) SA 217 (SCA) at 228G [also reported at [1998] JOL 3832 (A) – Ed].
+4	SS8.
+5	Doctors for Life International v Speaker of the National Assembly and others 2006 (6) SA 416 (CC) [also reported at [2006] JOL 18085 (CC), 2006 (12) BCLR 1399 (CC) – Ed].
+6	Cipla Medpro (Pty) Ltd v Aventis Pharma SA and related appeal 2013 (4) SA 579 (SCA) [also reported at [2012] JOL 29165 (SCA) – Ed] at para [46].
+
+Appearance:
+Adv E Mokutu SC, Adv S Kunene, Ningiza Horner Inc Attorneys (At); Adv MM RIP SC, Adv KS Mashaba, Malebye and Maleho Attorneys (1R), Adv AG South SC, Adv D Marais, Marnewick and Greyling Attorneys (2R)
+
+
+End of Document

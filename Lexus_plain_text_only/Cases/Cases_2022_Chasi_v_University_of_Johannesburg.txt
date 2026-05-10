@@ -1,0 +1,476 @@
+
+
+
+
+Chasi v University of Johannesburg [2022] JOL 57595 (LC)
+Judgments Online
+
+Division: Johannesburg 
+Case No: J 1747 / 2018
+Hearing Date(s): 30 / 06 / 2022
+Judgment Date(s): 03 / 10 / 2022
+Bench: S Snyman AJ
+
+
+Keywords
+
+
+Labour and Employment — Unfair dismissal dispute — Late referral — Condonation application
+
+Mini Summary
+
+
+Faced with an application for condonation of the late referral of an unfair dismissal dispute, the court discovered other failures in the prosecution of the case, which had a material impact on the condonation application. It had to be decided whether the applicant should be non-suited because of such failures.
+
+A claim based on an automatic unfair dismissal resulting from a protected disclosure was brought in terms of section 191(5)(b)(i) of the Labour Relations Act 66 of 1995, by way of a referral in the form of a statement of claim.
+
+Held that in terms of section 191(11)(a) of the Act, the referral of any dispute to the Labour Court as contemplated by section 191(5)(b), must be made within 90 days after the CCMA has certified that the dispute remains unresolved. In terms of section 191(11)(b), the Labour Court may condone a late referral on good cause shown. A referral as contemplated by section 191(11) is made by way of a statement of claim in terms of Rule 6 of the Labour Court Rules, Rule 6(1) of which prescribes that the statement of claim must “be delivered”. A referral to court in terms of Rule 6 only exists when a statement of claim complying with all the provisions of Rule 6(1) is validly served on the respondent party, and then filed in court. There is no delivery of the statement of claim until such time as both the service and the filing of the statement of claim has occurred. Finally, a statement of claim cannot be served without a case number first having been obtained from the Registrar. Service must always be effected in compliance with the requirements stipulated by law. The applicant failed to comply with the above requirements with the result that when the statement of claim was filed with the court, there was still no delivery of the statement of claim on the respondent as contemplated and required by Rule 6(1)(f), so as to constitute a valid and complete referral of the dispute to court. Proper service was only effected later, and was out of time. 
+
+The factors which the court takes into consideration in assessing whether or not to grant condonation are the degree of lateness or non-compliance with the prescribed time frame; the explanation for the lateness or the failure to comply with time frame; prospects of success or bona fide defence in the main case; the importance of the case; the respondent's interest in the finality of the judgment; the convenience of the court; and avoidance of unnecessary delay in the administration of justice. The applicant failed to show good cause for his default to be condoned. The condonation application was dismissed and the main claim was consequently also dismissed.
+
+ 
+[2022] JOL 57595 (LC) at 2
+
+
+
+
+Introduction
+
+[1]    This judgment concerns an application for condonation brought by the applicant, in which the applicant seeks to regularise a late referral of his unfair dismissal dispute (an alleged automatic unfair dismissal) to this Court for adjudication. However, and will be become apparent from what is set out below, the matter unfortunately involves some inexplicable conduct by the applicant and his legal representatives which has a material impact on his condonation application. Overall considered, I am to decide whether the applicant should be non-suited because of all of the failures that took place in the prosecution of his case.
+
+[2]    The applicant brought a claim based on an automatic unfair dismissal resulting from a protected disclosure, as contemplated by section 187(1)(h) of the Labour Relations Act ("the LRA").1 The claim was brought in terms of section 191(5)(b)(i) of the LRA, by way of a referral in the form of a statement of claim. It is in issue as  
+[2022] JOL 57595 (LC) at 3
+to when a proper statement of claim was in fact served by the applicant, and this will be dealt with later in this judgment. What is however common cause is that, at the very latest, a proper statement of claim was properly served on the respondent on 5 June 2018, and this statement of claim was filed in court on 18 May 2018.
+
+[3]    The statement of claim was not accompanied by an application for condonation, as this application was only brought years later. In fact, the applicant adopted the view that no condonation was needed, because, according to him, his statement of claim was served and filed in time. In the answering statement filed by the respondent on 31 October 2018, the respondent specifically raised a special plea, contending that the referral of the statement of claim was due by 18 May 2018, and was thus some three weeks' late when it was served on the respondent on 5 June 2018, however no condonation was applied for. The issue was also raised in the course of pre-trial proceedings conducted between the parties in the period May to October 2020, which will be dealt with in more detail below. Ultimately however, the condonation application was only filed on 16 November 2021 (having been served on 12 November 2021). The application for condonation was opposed by the respondent.
+
+[4]    Also as part of the introductory remarks made in this case, I must say something about the essential requirement of the expeditious resolution of employment disputes. It is now trite that there exists a particular requirement of expedition where it comes to the prosecution of employment law disputes, and any condonation application must be considered in that context.2 I will suffice by referring to the following dictum in the judgment of the Constitutional Court in Food and Allied Workers Union on behalf of Gaoshubelwe v Pieman's Pantry (Pty) Ltd:3
+
+ 
+[2022] JOL 57595 (LC) at 4
+
+"Our courts have, on occasion, pronounced on the importance of labour disputes to be conducted with expedition. For example, in National Research Foundation the Labour Court held:
+
+'[15]  It is now trite that there exists a particular requirement of expedition where it comes to the prosecution of employment law disputes.'"
+
+[5]    The applicant's dismissal dates back to 25 November 2017. It is now almost five years later and the case has still not been heard on the merits. This flies in the face of the fundamental requirement of expedition referred to above. It is certainly a factor that must be considered when deciding the condonation application, and will be dealt with in detail below.
+
+[6]    The condonation application was argued before me on 30 June 2022, and I reserved judgment. I will now give judgment in this matter, commencing with a short summary of the background facts.
+
+Relevant background
+
+[7]    The applicant was employed by the respondent as a full-time Professor in its Faculty of Humanities ("Humanities"), since 1 February 2011. He served, at the time of his termination of employment, as a Full Professor in the Department of Communication Studies ("CMS"), in Humanities.
+
+[8]    This matter arose from the issue of the appointment of an Executive Dean for Humanities by the respondent. It is not necessary, for the purposes of this judgment, to set out all the details in this regard. Suffice it to say, the applicant was of the view that the appointment of one Professor Alexander Broadbent ("Broadbent") to that position in March 2015 was irregular, because Broadbent did not meet the requirements for the position in that he was not properly promoted to Full Professor as was required for that appointment. Then, as to the appointment of Broadbent to Dean itself, the applicant believed that this appointment had also been irregularly done.
+
+[9]    The applicant also contended that certain practices and/or actions by Broadbent after his appointment as Dean of Humanities was irregular. Again, and without going into all the detail, this related to an allegation by the applicant that Broadbent allocated five posts in the Department of Philosophy without  
+[2022] JOL 57595 (LC) at 5
+consulting the Faculty and/or following the proper and prescribed appointment process. The applicant also stated that Broadbent in effect unlawfully secured approval for, and then channelled funds, for what the applicant called Broadbent's "pet project", being a research centre known as the "African Centre for Epistemology and the Philosophy of Science" ("the Research Centre"). A further allegation was that Broadbent unilaterally and unreasonably deprived the School of Communications of resources that became available resulting from a process where temporary staff were converted to permanent staff in September 2015, and that he also made irregular appointments in this regard.
+
+[10]    According to the applicant, Broadbent stifled and sidelined efforts by the applicant and other academics in Humanities to have equity and transformation discussed at the Faculty Board, and in effect embarked upon bullying tactics to prevent them from properly raising these issues.
+
+[11]    In its answering statement, the respondent disputed the above contentions. In a detailed answer, the respondent stated that there was nothing irregular in the appointment of Broadbent. It was explained that Broadbent met all the requirements for being appointment [sic] as the Executive Dean for Humanities. The respondent dealt in some detail with the issue of the promotion of Broadbent to Full Professor, and explained that the decision to promote took place in terms of the prescribed process for this, by way of a promotion panel, consisting of the Deputy Vice Chancellor Academic, academic members from Humanities (the applicant was not on the panel), the Acting Dean of Humanities, a Dean from another faculty, and an external expert (Professor Anton van Niekerk from Stellenbosch University). Broadbent was promoted to Full Professor effective 1 February 2015, after this promotion was approved by this panel. With regards to the appointment as Dean of Humanities, Broadbent was shortlisted with Professor Uys for appointment, and they each made representations to the Board of the Faculty on 18 March 2015, which was followed by a secret ballot of the Board in terms of which Broadbent was preferred. This was followed by an interview of both candidates on 23 March 2015 by the selection panel, and the applicant was in fact one of the members of the panel. Broadbent was then selected for appointment as Dean
+
+ 
+[2022] JOL 57595 (LC) at 6
+
+[12]    According to the respondent, the applicant was well aware of all the above, and he fully participated in the process. The respondent contends that almost a year after the promotion and appointment of Broadbent, and for the first time, the applicant raised spurious and defamatory allegations relating to the appointment of Broadbent as Dean and about his promotion to Full Professor, which allegations were also completely lacking in substance.
+
+[13]    Where it comes to the other alleged irregularities raised by the applicant, the respondent pointed out that the applicant served as Vice Dean of Humanities from 1 August 2015 to 22 April 2016. In this time, and save for the complaints raised for the first time at the beginning of 2016, the applicant had never complained of any impropriety perpetrated by Broadbent, despite the applicant having the capacity to do so. According to the respondent, Broadbent regularly consulted the applicant on the Faculty affairs and sought his inputs. The respondent then offered a detailed explanation as to how the appointments of other personnel complained of by the applicant came about. It is not necessary to deal with this detail in this judgment. Suffice it say, the respondent sought to illustrate that all these appointments were properly made and were entirely above board. In addition, it appears that the applicant himself was directly involved with some of these appointments, and that some of the appointments were not even made by Broadbent.
+
+[14]    As to the issue of the establishment and the allocation of resources relating to the Research Centre referred to by the applicant, the respondent stated that it was true that Broadbent, as part of his ordinary duties as Full Professor, conceived and put forward the concept of the Research Centre. However, the actual proposal for the establishment of the Research Centre was made by the Head of Department of Philosophy, being Dr Catherine Botha, and this proposal served at the Heads of Committee meeting where the applicant was present, on 16 February 2016. The applicant never raised any objection to the proposal. The proposal then served before the Senate Executive Committee for approval. Once approved, the proposal then served before the Board of Faculty meeting on 24 February 2016, at which meeting Broadbent in fact recused himself, because he was involved with the proposal. The applicant was present at this Board meeting, and never objected to the proposal. The proposal was then approved by the Board, and was ultimately then finally approved by the  
+[2022] JOL 57595 (LC) at 7
+University Research Committee. Finally, and on the issue of the resource allocation relating to the School of Communications, the respondent stated that Broadbent left this entirely up to the School itself to determine.
+
+[15]    As to the issue of Broadbent stifling and sidelining efforts by the applicant and other academics in Humanities to have equity and transformation discussed at the Faculty Board, the respondent contends that this never happened, and the applicant actually never sought to raise such issues for discussion. The respondent then sets outs out, in some detail, the steps and efforts taken by Broadbent of his own accord to deal with such issues, without any assistance from the applicant.
+
+[16]    The above being the background events, in a nutshell, the case of the applicant then is that whilst still serving as Vice Dean in Humanities, he raised a confidential complaint by e-mail on 25 February 2016 with the respondent's Vice Chancellor and the two Deputy Vice Chancellors responsible for Faculty management, requesting intervention with regard to the alleged improprieties committed by Broadbent, being the issues referred to above.
+
+[17]    It is however undeniable that despite labelling this e-mail "confidential", the applicant did not just send it to the three functionaries referred to above. The applicant chose to disseminate it to several other recipients, including junior employees and persons who would have no cause, reason or interest in receiving or dealing with such a complaint. According to the respondent, it was clear from the e-mail that it contained a number of vindictive and defamatory statements, most of which were false. The applicant also did not send this e-mail out in block, but sent it to each individual recipient, individually, indicating deliberate dissemination. Despite this dissemination, the applicant did not even send the e-mail to Broadbent.
+
+[18]    It is common cause that there was a meeting on 13 April 2016 attended by the Vice Chancellor, the two Deputy Vice Chancellors, the applicant and Broadbent. There is a dispute of fact on the pleadings about what the meeting was about, and how it came about. According to the applicant, it was about his e-mail of 25 February 2016. According to the respondent, it was called at the instance of Broadbent, following an altercation between Broadbent and the applicant in a  
+[2022] JOL 57595 (LC) at 8
+meeting on 6 April 2016, in which the applicant made threatening and insulting comments towards Broadbent. It is however common cause that the issue of the e-mail of 25 February 2016 did come up in the meeting, and the applicant at least did apologise for it.
+
+[19]    On 18 April 2016, the applicant submitted a report to the two Deputy Vice Chancellors, headed "Why I am worried about misdirection of UJ Humanities Resources". This report was once again also disseminated by the applicant to a number of other persons as well. This report then resulted in a further meeting on 22 April 2016, between the same participants referred to above. The complaints in the report were in essence the same complaints as contained in the e-mail of 25 February 2016. Despite discussion surrounding these complaints in the meeting, the applicant indicated that he was unwilling to drop the complaints. The meeting culminated the immediate resignation of the applicant as Vice Dean of Humanities.
+
+[20]    What then follows is a plethora of allegations by the applicant that following this meeting, and in the period between April and June 2016, there were a number of actions by Broadbent aimed at punishing the applicant for his complaints. This included allegations relating to the appointment of personnel, forcing the applicant to take sabbatical leave, and Broadbent failing to recuse himself from the interview panel concerning the applicant's application for promotion to Full Professor. This culminated in the applicant raising another complaint by e-mail on 12 June 2016 that he was being retaliated against by Broadbent. The applicant also submitted his 18 April 2016 report to the Directorate of HR, on three occasions, in June, July and August 2016.
+
+[21]    On 12 August 2016, the acting Deputy Vice Chancellor, Professor Rory Ryan ("Ryan"), sent the applicant a letter, recording that he (Ryan) had been tasked to deal with the applicant's complaints, and invited the applicant to substantiate his complaints. The letter also recorded that if the complaints could not be substantiated or be found to be vexatious, disciplinary action could be taken against the applicant. The applicant answered Ryan on 22 August 2016, in which answer he in essence declined to substantiate his complaints, inter alia, on the basis that he was a whistle blower. Ryan responded on 26 August 2016, and requested the applicant to provide, by 15 September 2016, any information  
+[2022] JOL 57595 (LC) at 9
+and documents and further details that he may have in his possession relating to the allegations he had made. This response by Ryan further recorded that in so far as the applicant referred to himself as a whistle blower, he did not appear to have made any protected disclosure to the respondent.
+
+[22]    At this stage, it is perhaps appropriate to state that the respondent has a proper protected disclosure policy in place, which prescribes the process that needs to be followed when making a protected disclosure. It is common cause that the applicant never followed this process, and never lodged a protected disclosure in terms of that policy.
+
+[23]    The applicant then indeed forwarded further information and documents to Ryan on 1 September 2016. Ryan informed the applicant that he had sent this information and documents to HR, that he will confer with HR, and that the process will be dealt with fairly. On 3 October 2016, Ms Mbana from HR wrote to the applicant, indicating she was conducting an assessment and investigation of the matter and requested copies of documents from the applicant, which he provided on 5 October 2016.
+
+[24]    On 20 October 2016, the applicant was given written notice to attend a disciplinary enquiry, to be held on 9 November 2016. The charges were firstly based on an allegation of gross misconduct by the applicant. The foundation for these charges were allegations that the applicant disseminated false and/or malicious and/or vindictive and/or defamatory statements concerning Broadbent and the respondent in his e-mail of 26 February 2016 and his report of 18 April 2016. A further aspect of this charge was the fact that the applicant in essence disseminated this e-mail and report to all and sundry, and in particular to other employees who had no reason to receive the same. Finally, it was alleged that despite being afforded the opportunity to substantiate his allegations, the applicant did not do so, and persisted with his misconduct in filing a further and similar deposition on 30 August 2016. There were further charges of insolence and disrespect exhibited by the applicant towards his superior, Broadbent, during the course of meetings in April and June 2016.
+
+[25]    What followed was a protracted disciplinary hearing before an independent third party chairperson, in which the applicant and the respondent were legally represented. It may be mentioned that the applicant was throughout these  
+[2022] JOL 57595 (LC) at 10
+proceedings represented by Adv Ben Winks ("Winks"), who remained his counsel in the current matter. The applicant alleged that he was discouraged from calling witnesses in the hearing, and that Broadbent sought to influence one of the applicant's witnesses not to testify. The statement of claim also contains a number of allegations of procedural irregularities in the hearing. The respondent refutes these allegations in some detail. It is simply not necessary to delve into all the detail of what transpired in the disciplinary hearing. Suffice it to say, a comprehensive disciplinary hearing was held, in which the applicant fully participated. This hearing took place over a total of 24 days between 18 January 2017 and 15 September 2017, and was concluded by written closing arguments.
+
+[26]    In a comprehensive written finding dated 25 October 2017, spanning more than 100 pages, the chairperson found the applicant guilty of the charges against him, and recommended the summary dismissal of the applicant. The applicant was then dismissed on 31 October 2017 as a result of this finding. The applicant pursued an internal appeal, which was refused on 14 November 2017. The applicant was then finally dismissed on 15 November 2017.
+
+[27]    The applicant referred an unfair dismissal dispute to the Commission for Conciliation, Mediation and Arbitration ("the CCMA") on 14 December 2017. It appears that the CCMA did not receive the referral, and the applicant resubmitted the same on 13 January 2018. This necessitated an application for condonation, because a referral on 13 January 2018 would be out of time. The matter was conciliated, and the applicant's application for condonation was heard, at a hearing at the CCMA on 5 February 2018. In terms of a ruling dated 19 February 2018, the presiding commissioner granted the applicant's application for condonation, and issued a certificate of failure to settle, recording that the dispute remained unresolved.
+
+[28]    Next, and on 15 May 2018, the applicant himself, and from his personal e-mail, sent a message to the respondent that records: 
+
+"Please receive this courtesy notice of our intention to file the attached draft claim tomorrow. I trust it will be received as the gesture of goodwill that it is." 
+
+The document attached to the e-mail appears to have been drawn up by the applicant's attorneys of record at the time (Webber Wentzel), and in fact appointed the address of such attorneys  
+[2022] JOL 57595 (LC) at 11
+as the service address of the applicant in the proceedings. The attached document was however not signed and contained no case number. It is common cause it was not filed with the Labour Court "tomorrow" as stated in the e-mail The e-mail was copied by the applicant to Winks.
+
+[29]    Winks then sent an e-mail to the applicant's attorneys (Webber Wentzel), on 18 May 2018, asking that the statement of claim be signed and issued out of the Labour Court. It so [sic] clear that statement of claim was only actually issued out of the court by the Registrar and a case number allocated, on 18 May 2018. This statement of claim was never served on the respondent on 18 May 2018, when it was issued and filed in court.
+
+[30]    On 4 June 2018, Winks then sends an e-mail to Lavanya Pillay at Webber Wentzel, asking that the issued statement of claim be urgently served on the respondent. Winks further indicates that "I should have asked for service to be done immediately after issuing", and he apologised for not doing so. It is common cause that the statement of claim was then served on the respondent by hand on 5 June 2018. This service was not accompanied by a condonation application.
+
+[31]    What followed was further filing of process in the form of an amended statement of claim on 23 August 2018, an exception filed by the respondent on 10 September 2018, and then a further amended statement of claim filed by the applicant on 15 October 2018. The respondent filed its answering statement to the applicant's final amended statement of claim, on 31 October 2018.
+
+[32]    In the respondent's answering statement, the respondent raised a special plea. It contended that the statement of claim was referred out of time, in that the statement of claim was only served on the respondent on 5 June 2018, which made the statement of claim some three weeks late. The respondent prayed that in the absence of a condonation application, the court had no jurisdiction to entertain the matter and it should be dismissed on this basis.
+
+[33]    The applicant's attorneys did not respond to this special plea, nor did they apply for condonation. In fact, nothing further happened in this case until 28 February 2019, when Webber Wentzel withdrew as attorneys of record for the applicant. The applicant's current attorneys of record then filed a notice of appointment as  
+[2022] JOL 57595 (LC) at 12
+attorneys of record for the applicant on 8 April 2019. This appointment was followed by a letter to the respondent's attorneys on 23 May 2019, requesting a pre-trial to be convened. There was then some delay in the convening of a pre-trial, due to the unavailability of counsel and/or legal representatives and other logistical issues. The parties simply appeared to be unable to get together with suitable dates. It also did not help that animosity developed between the two sets of attorneys. But in the end, the parties managed to convene a pre-trial to be held on 29 May 2020, taking about a year to do so.
+
+[34]    In the pre-trial agenda, it is specifically recorded that one of the points for discussion was the point in limine raised by the respondent that the applicant's statement of claim was served out of time and that no condonation has been applied for. The agenda further recorded that the applicant disputed this contention by the respondent. At the pre-trial itself on 29 May 2020, the applicant continued with asserting that that the statement of claim was not served late and condonation was not required, and in fact enquired whether the respondent would persist with the objection in limine. The respondent remained adamant that it would and that the statement of claim [w]as filed late.
+
+[35]    Following the pre-trial, and on 9 June 2020, the applicant's attorneys sent a letter to the respondent's attorneys, setting out the reasons why the applicant believed the objection in limine of the respondent was unfounded. In particular, it was stated in this letter that the statement of claim was in fact served on the respondent on 15 May 2018 and was therefore served in time. In this regard, the applicant relied on the e-mail of 15 May 2018, dealt with above. The applicant reiterated that he would thus not apply for condonation.
+
+[36]    What then followed was the process of concluding a signed pre-trial minute. There were various drafts of the minute exchanged. Once again, the animosity that had developed between the two sets of attorneys bedevilled matters and caused some delays. Various comments and statements were exchanged by e-mail between the parties in the period between June and October 2020. The details of all these exchanges need not burden this judgment, suffice it to state that the positions adopted by the parties as to the late service of the statement of claim and condonation being required or not, remained as it was from the outset.
+
+ 
+[2022] JOL 57595 (LC) at 13
+
+[37]    The final pre-trial minute was ultimately signed on 29 October 2020, and filed in court on 30 October 2020. In this pre-trial minute, and under the heading of issues in limine, it is recorded that the respondent was persisting with its objection in limine that the statement of claim was served out of time and that condonation was required. Despite what is recorded in this minute, the applicant did not apply for condonation.
+
+[38]    In fact, and following the filing of the pre-trial minute, the applicant proceeded with steps to have the matter set down for trial. However, and in a letter dated 13 April 2021, the Registrar wrote to the applicant's attorneys, advising that because of the special plea raised in the pre-trial minute, this special plea needed to be argued first. Once again, and despite what was recorded in the pre-trial minute, the applicant's attorneys wrote to the respondent's attorneys on 19 April 2021, enquiring whether the respondent was persisting with the special plea. The respondent's attorneys answered on 23 April 2021 that it was.
+
+[39]    What then followed was once again not an application for condonation. Yet again, the applicant's attorneys attempted to convince the respondent to abandon the objection in limine, by way of correspondence. In this regard, several letters were exchanged between the parties in the period between 26 April 2021 and 9 July 2021. It was much of the same as before. This exchange culminated in the respondent yet again insisting that it would persist with the point in limine and that the applicant was required to apply for condonation, by way of a letter sent to the applicant's attorneys on 9 July 2021.
+
+[40]    The condonation application then followed on 12 November 2021 (filed in court on 16 November 2021), some four months later, without any explanation being provided for this further delay. Whether or not this condonation application is in any event a proper condonation application is also in issue, and will be dealt with below. Needless to say, this condonation application was opposed by the respondent, and this opposition then led to the current case argued before me.
+
+Legal principles
+
+[41]    In terms of section 191(11)(a) of the LRA, the referral of any dispute to the Labour Court as contemplated by section 191(5)(b), must be made within 90  
+[2022] JOL 57595 (LC) at 14
+days after the CCMA (as applicable in casu) has certified that the dispute remains unresolved. In terms of section 191(11)(b), the Labour Court may condone this late referral on good cause shown.
+
+[42]    A referral as contemplated by section 191(11) is made by way of a statement of claim in terms of rule 6 of the Labour Court Rules.4 Rule 6(1) prescribes that the statement of claim must be in a document form, inter alia, containing the title of the matter, the case number assigned by the Registrar, and must be signed by the referring party concerned.5 Of particular relevance to the case in casu, rule 6(1)(f) prescribes that the statement of claim must "be delivered".
+
+[43]    As to what constitutes "delivered", this is dealt with in the definitions in rule 1, where it is recorded that "'deliver' means serve on other parties and file with the registrar". In turn, "serve" is defined as meaning service in terms of rule 4(1). Rule 4(1) does not make provision for service by e-mail but does provide for service by hand. In terms of rule 4(3), if the court is not satisfied that service has taken place in accordance with rule 4(1), it may make any order as to service that it deems fit. However, and before a statement of claim can even be served, a case number must first be applied for and then allocated.6 In other words, it is not permitted to serve a statement of claim without a case number. This is evident from the following dictum in Windybrow Centre for the Arts v SA Commercial Catering and Allied Workers Union on behalf of Gina and others7 where the court held:
+
+"Any party initiating any proceedings in the Labour Court is required by rule 3 of the rules to apply for a case number before serving documents on the other party. The procedure in general is that in the event of failure to settle at the conciliation stage, the launching of a statement of case begins with an application for a case number which is done through form 1 of the rules and subsequently to be followed by filing a statement of claim as set out in form 2 of the rules."
+
+ 
+[2022] JOL 57595 (LC) at 15
+
+[44]    It follows from the above that a referral to this Court in terms of rule 6 only exists when a statement of claim complying with all the provisions of rule 6(1) is validly served on the respondent party, and then filed in court. There is no delivery of the statement of claim until such time as both the service and the filing of the statement of claim has [sic] occurred. And finally, a statement of claim cannot be served without first having obtained a case number from the Registrar. In Phoffu and others v Quest Flexible Staffing Solutions8 the court held:
+
+"In this instance, the respondents had not complied with the requirements of rule 6(1)(a)(ii) of the Rules of the Labour Court, by failing to include a case number in their statement of claim. I appreciate that, at that stage, the applicants might have been prosecuting their case as lay persons without assistance. However, the failure to include the case number is not merely a formal 'technical' disqualification, but one which can seriously hamper the administration of cases by the registrar's office. The practical significance of the requirement is no less important in the context of Labour Court proceedings than it is in the case of the CCMA, which McCall AJA referred to in Kungwini's case."
+
+[45]    Service must always be effected in compliance with the requirements stipulated by law. The reason for this is obvious, in that it is this service that places the respondent party on notice that [there] are proceedings against it, and then calls on such respondent party to engage. That being so, precision is the watch word. This was recognised in National Union of Metalworkers of South Africa v Intervalve (Pty) Ltd and others9 where the court said:
+
+"The objectives of service are both substantial and formal. Formal service puts the recipient on notice that it is liable to the consequences of enmeshment in the ensuing legal process. This demands the directness of an arrow. One cannot receive notice of liability to legal process through oblique or informal acquaintance with it."
+
+[46]    It is common cause that the CCMA certified on 19 February 2018 that it had been unable to settle the dispute. According to the applicant, his statement of claim was served on the respondent on 15 May 2018 and filed in court on  
+[2022] JOL 57595 (LC) at 16
+18 May 2018. Considering that the 90-day time limit in terms of section 191(11)(a), which would run from 19 February 0218 [sic], expired on 18 May 2018, it would mean that the applicant's statement of claim was referred in time. For the reasons to follow, I am however convinced that this contention of the applicant is entirely lacking in substance, and is simply wrong.
+
+[47]    What is common cause is that the applicant applied for and obtained a case number from the Registrar, signed the statement of claim, and then filed the same with the court, on 18 May 2018. What must immediately and logically follow from these common cause facts is that there could not have been any valid service of the statement of claim on the respondent on 15 May 2018, for the simple reason that service was not permitted without a case number, and the statement of claim was not signed. Added to this, it is common cause that the purported service on 15 May 2018 was done by e-mail, which also makes the service invalid, as e-mail service is not permitted by rule 4(1). The applicant never applied to allow an alternative form of service in terms of rule 4(3) at the time. Based on all these provisions in the Labour Court Rules, there simply was no service of the statement of claim on the respondent on 15 May 2018. The result of this is that when the statement of claim was filed with the court on 18 May 2018, there was still no delivery of the statement of claim as contemplated and required by rule 6(1)(f), so as to constitute a valid and complete referral of the dispute to this Court. This means that the true date of the referral was only on 5 June 2018, when a proper statement of claim with a case number was served on the respondent by hand.10
+
+[48]    In addition, and on the facts, I am satisfied that the allegation by the applicant that the statement of claim was served by e-mail on 15 May 2018 is nothing less than a deliberate fabrication. This unacceptable conduct would also have further impact upon deciding this matter, as will be further dealt with below. Why I believe the allegation of service on the respondent on 15 May 2018 is a deliberate fabrication is based on a number of reasons. First, the applicant, as at 15 May 2018, was represented by attorneys, being no less than one of the leading employment law firms, Webber Wentzel. I have little doubt that Webber Wentzel would not serve the statement of claim on behalf of their client in the  
+[2022] JOL 57595 (LC) at 17
+manner that happened on 15 May 2018, nor would require their client himself to effect such service on his own. It was the applicant himself, despite being legally represented, that from his personal e-mail sent the statement of claim to the respondent on 15 May 2018. And finally, a simple reading of the covering e-mail from the applicant on 15 May 2018 (to which the statement of claim was attached) made it clear that it was never intended to be service of the statement of claim, as it is specifically stated that it was only a draft sent to the respondent as a courtesy. However, and if there is any doubt about this, the correspondence between Winks (the applicant's counsel) and Webber Wentzel on 4 June 2018 makes matters clear. In this e-mail correspondence on that date, Winks specifically states that he omitted to request that the statement of claim be served on the respondent, and he then provides an address for service, and requests that it be served urgently. The statement of claim was then served the following day (5 June 2018) on the respondent by hand. This completely contradicts any notion that there was service of the statement of claim by e-mail on 15 May 2018.
+
+[49]    In sum, and applying the provisions of the Labour Court Rules and considering the facts of this case, there can be little doubt that the statement of claim was only served on the respondent on 5 June 2018. This is when a complete delivery as contemplated by rule 6(1)(f) took place, and would [be] the date when the statement of claim was referred to the Labour Court. It follows that the referral of the statement of claim was three weeks outside the time limit in terms of section 191(11)(a), which had expired on 18 May 2018, and good cause therefore needed to have been shown by the applicant in terms of section 191(11)(b) to regularise this late referral.
+
+[50]    It is trite that in order to show good cause, an applicant must apply for condonation. Where it comes to deciding condonation applications, the law in this regard is well settled on the basis of the following principles as set out in the case of Melane v Santam Insurance Co Ltd:11
+
+"In deciding whether sufficient cause has been shown, the basic principle is that the Court has a discretion, to be exercised judicially upon a consideration of all the facts, and in essence it is a matter of fairness to both sides. Among the facts  
+[2022] JOL 57595 (LC) at 18
+usually relevant are the degree of lateness, the explanation therefor, the prospects of success, and the importance of the case. Ordinarily these facts are interrelated: they are not individually decisive, save of course that if there are no prospects of success there would be no point in granting condonation."
+
+[51]    The court in Academic and Professional Staff Association v Pretorius NO and others12 applied the aforesaid ratio in Melane in the context of dispute resolution in the Labour Court, as follows:
+
+"The factors which the court takes into consideration in assessing whether or not to grant condonation are: (a) the degree of lateness or non-compliance with the prescribed time frame; (b) the explanation for the lateness or the failure to comply with time frame; (c) prospects of success or bona fide defence in the main case; (d) the importance of the case; (e) the respondent's interest in the finality of the judgment; (f) the convenience of the court; and (g) avoidance of unnecessary delay in the administration of justice . . . 
+
+It is trite law that these factors are not individually decisive but are interrelated and must be weighed against each other. In weighing these factors for instance, a good explanation for the lateness may assist the applicant in compensating for weak prospects of success. Similarly, strong prospects of success may compensate the inadequate explanation and long delay."
+
+In my view, this ratio in Academic and Professional Staff Association properly and succinctly summarises all this Court must consider when exercising its discretion whether or not to grant condonation.
+
+[52]    Dealing firstly with the issue of the delay per se, I am of the view that the longer the delay, the worse it is for the applicant seeking condonation. As touched on above, an excessive delay could in itself be seen to be fatal to the issue of good cause. As a general benchmark, delays in excess of two months after the expiry of the time limit can generally be described to start becoming excessive.13
+
+ 
+[2022] JOL 57595 (LC) at 19
+
+[53]    The next element to considering [sic] any condonation application is that of the explanation provided for the delay. This must be a proper explanation supported by sufficient particularity, dealing with the entire period of the delay. In Seatlolo and others v Entertainment Logistics Service (a division of Gallo Africa Ltd)14 the court held:
+
+"In order to exercise its discretion whether or not to grant condonation, this court must be appraised of all the facts and circumstances relating to the delay. The applicant for condonation must therefore provide a satisfactory explanation for each period of delay. See NUMSA & another v Hillside Aluminium [2005] 6 BLLR 601 (LC) where Murphy AJ held that an unsatisfactory explanation for any period of delay will normally be fatal to an application, irrespective of the applicant's prospects of success."
+
+[54]    I consider the issue of a proper explanation for the entire period of the delay to be the most critical component to any condonation application. As to how this explanation must be provided, the court in Independent Municipal and Allied Trade Union on behalf of Zungu v SA Local Government Bargaining Council and others15 provided the following guidance:
+
+"In explaining the reason for the delay it is necessary for the party seeking condonation to fully explain the reason for the delay in order for the court to be in a proper position to assess whether or not the explanation is a good one. This in my view requires an explanation which covers the full length of the delay. The mere listing of significant events which took place during the period in question without an explanation for the time that lapsed between these events does not place a court in a position properly to assess the explanation for the delay. This amounts to nothing more than a recordal of the dates relevant to the processing of a dispute or application, as the case may be."
+
+[55]    Next, the applicant for condonation must deal with the issue of prejudice. Often, prejudice is neglected in a condonation application and dealt with in a very cursory manner. This kind of approach is inappropriate. The applicant must set out in what manner the applicant would be prejudiced if condonation is refused, again with sufficient particularity. The prejudice the applicant would suffer should be compared to the possible prejudice the other party would suffer if  
+[2022] JOL 57595 (LC) at 20
+condonation is granted, so as to enable the court to make a balanced decision on this.
+
+[56]    The issue of prospects of success must also be considered. In this regard, it is not necessary to decide whether the applicant would be successful in proving its case or whether that case is true. All that is necessary to consider is whether, if the claim as advanced in the statement of claim of the applicant is true, the applicant would succeed.16 However, and where it comes to considering the issue of prospects of success, there is a proviso, which proviso in fact illustrates the critical importance of the explanation for the delay. Where an applicant fails to provide an explanation for the delay or material parts of the delay, the issue of prospects of success in fact becomes an irrelevant consideration.17 In particular, in NUM v Council for Mineral Technology18 the court held:
+
+"There is a further principle which is applied and that is that without a reasonable and acceptable explanation for the delay, the prospects of success are immaterial, and without good prospects of success, no matter how good the explanation for the delay, an application for condonation should be refused . . ."
+
+[57]    Despite all the normal condonation considerations of length of the delay, explanation for the delay, prejudice, and prospects of success, and especially in employment law disputes, there is one final consideration. This is the consideration of the interests of justice.19 What this entails is that in the particular case, there may be some very unique or exceptional circumstance that necessitates the court to consider the case on the merits, because it is in the interest of justice to do so. A prime example is the judgment in National Education Health and Allied Workers Union on behalf of Mofokeng and others v Charlotte Theron Children's Home,20 where the court considered a case of a  
+[2022] JOL 57595 (LC) at 21
+policy of an employer that only white house mothers were allowed to look after white children, with the policy being a continuous and ongoing practice. Even though the appellants in that case had not made out a proper case for condonation on the traditional condonation considerations referred to above, the court nonetheless held:21
+
+"It is clearly in the interests of justice that this kind of case be heard, particularly when appellants are able to support their submissions regarding the prospects of success with a statement of respondent's policy given on affidavit and which appears to confirm that the policy is saturated with a racist outlook."
+
+[58]    And finally, where condonation is needed, it is essential that condonation must be applied for either immediately upon or at least as expeditiously as possible after, the applicant party became aware or reasonably should have become aware, that condonation is needed.22 The failure to expeditiously apply for condonation and the resulting delay would be considered to add to the length of the delay, and the failure to properly justify and explain this further delay may of its own also lead to the refusal of condonation.23 In Van der Merwe v The Minister of Police24 it was said that: 
+
+"However, the period of delay before the notices were delivered, is not the only aspect that has to be considered, because the delay of 6 months in filing the condonation application is of equal importance. If, for instance, it is found that there is no reasonable and acceptable explanation for the delay in filing the application, then it would follow that the application for condonation as a whole cannot succeed . . ."
+
+A similar approach was followed by this Court in Seatlolo [sic: SA Commercial Catering and Allied Workers Union on behalf of Members v Entertainment Logistics Service (a division of Gallo Africa Ltd) – Ed], supra,25 where it was said:
+
+"It is incumbent on a party to apply for condonation as soon as possible upon becoming aware of the default. This point has been repeatedly emphasized by the Supreme Court of Appeal . . ., an approach strongly endorsed by the Labour  
+[2022] JOL 57595 (LC) at 22
+Appeal Court. Indeed the LAC has held that an application for condonation ought to be launched on the same day that the default is discovered . . ."
+
+Analysis
+
+[59]    What must firstly be decided in this case, is whether the applicant has in fact properly applied for condonation in the first place. As stated above, the condonation application relied on by the applicant was filed in court only on 16 November 2021. A consideration of the notice of motion in this condonation application leaves me convinced that what the applicant is asking for is not condonation for the late referral of his statement of claim to the Labour Court. The heading to the notice of motion reads "Condonation for irregular service" (emphasis added). If one then turns to the prayers as set out in the notice of motion, what the applicant prays for is that "The irregular service of the statement of claim is condoned" (emphasis added). There is no relief sought in the notice of motion that the late referral of the statement of claim on 5 June 2018 be condoned.
+
+[60]    The founding affidavit itself supports this notion. It continues to advance the case that the referral was in fact not late, and condonation is not necessary, because the statement of claim was in fact served in time on the respondent on 15 May 2018. It is indicated that all that needs to be condoned is the fact that the statement of claim was served by e-mail and was unsigned. In the founding affidavit, the applicant states that: 
+
+"This is an application for condonation, if required, for potentially irregular service of my statement of claim." 
+
+The applicant then goes on and states that: 
+
+"The statement of claim was thus served on the respondent in time, but by email and in unsigned form, and was only served by hand out of time. I am advised that, while initial service may be seen as compliance in substance with the rules, the irregularity may formally require condonation. Hence this application." 
+
+The applicant concludes by saying: 
+
+"In the light of all of the above, I was advised that, out of an abundance of caution and to avoid further delay in bringing this matter to trial, it would be advantageous to bring the institute the present condonation application" (sic). 
+
+What is, in my view, clear from all the aforesaid is that the applicant insists that his statement of claim was served in time and all that needs to be condoned is that it was served by email and in unsigned form.
+
+ 
+[2022] JOL 57595 (LC) at 23
+
+[61]    The condonation application by the applicant is therefore not an application seeking to show good cause as to why the late referral of his dispute to the Labour Court should be condoned. If that was the case, he would have accepted that his statement of claim was referred late, because he erroneously believed the e-mail of 15 May 2018 constituted service, when that was not the case. He would have accepted that he was mistaken, would further have accepted that the statement of case was only referred on 5 June 2018, and lastly would have sought an indulgence for the resulting three-week delay. He never did any of this. By insisting that there was service of the statement of claim on 15 May 2018, the applicant effectively disavows a case for condonation being sought as a result of a late referral.
+
+[62]    In any event, the applicant's entire condonation application hinges on the fact that his contention that the applicant's e-mail of 15 May 2018 to the respondent, with statement of claim attached, was intended to constitute service on the respondent, was true and correct. As I have dealt with above, I am convinced that this contention is fabricated. In my view, the e-mail of the applicant himself attaching what he called a draft document as a courtesy when he was legally represented at the time with his attorneys being tasked to refer the dispute to the Labour Court, was never intended to be service. This e-mail was opportunistically used after the fact in a contrived attempt to establish earlier service, when the applicant's legal representatives in fact simply forgot to serve the statement of claim on the respondent until 4 June 2018, when they realised their error. They should just have owned up to the failure/error, and not attempt to fabricate something that was not true. The conduct of the applicant, through his legal representatives, was wilful, and destructive of condonation, as the respondent correctly contends to be the case.
+
+[63]    All considered, I do not believe that the applicant sought to show good cause for the late referral of his statement of claim to the Labour Court which only took place on 5 June 2018. In the absence of seeking to show good cause, this Court cannot come to the assistance of the applicant, and on this basis alone, the applicant's purported condonation application must fail. As held in  
+[2022] JOL 57595 (LC) at 24
+SA Transport and Allied Workers Union and another v Tokiso Dispute Settlement and others:26
+
+". . . where the steps constitutes [sic] a jurisdictional step, a time-limit, and the party is out of time then, in the absence of an application for condonation, a court cannot come to the party's assistance."
+
+And further in November and others v Burma Plant Hire (Pty) Ltd27 the court said:
+
+"The applicants further argue that this court should exercise a discretion and allow this matter to proceed. But in order for this court to do this, and as discussed above, the applicants needed to show good cause by applying for condonation. Without this, no discretion can be exercised."
+
+[64]    But even if I am wrong in this regard, and the applicant's application of 16 November 2021 can be seen as a legitimate condonation application, I am nonetheless not satisfied that the applicant has made out a proper case for condonation. The reasons for my view in this regard now follow.
+
+[65]    Turning firstly to the length of the delay, the referral itself is three weeks late. This is not in itself grossly excessive, but is also not a minimal delay. It is the kind of delay that would not require what can be described as a truly excellent explanation. That being said, this case is complicated by the grossly excessive and material delay in the filing of the application for condonation, which delay must then be added to the consideration of the length of the delay in this case. To the benefit of the applicant, I will accept that the first occasion the applicant appreciated that there was an issue concerning the late referral, was on 31 October 2018 when this issue of the late service of the statement of claim was specifically raised by the respondent in its answering statement. As this was the opportune moment from when a condonation application should have been brought, the fact that it was only brought on 16 November 2021 constitutes a further delay in excess of three years, which is a grossly excessive and material  
+[2022] JOL 57595 (LC) at 25
+delay, for which an excellent explanation needed to be provided. As held in Poswa v Executive Director, Independent Police:28
+
+"The Applicant waited nearly 23 months before launching an application for condonation. This time period, where nearly half has gone unexplained, can in no instance be regarded as reasonable. The interest of justice cannot be served if an applicant, who is out of time in any event, waits nearly 23 months to launch the condonation application. The lack of urgency is exacerbated by the Applicant giving no explanation for a period of 14 months."
+
+And further, as said in Police and Prisons Civil Rights Union v Ledwaba NO and others:29
+
+"The delay of some two years, as matters currently stand, especially considering the short time-limits imposed by the Labour Court Rules and the Practice Manual, is grossly excessive and unpalatable. The situation is contrary to the important interest of finality of litigation."
+
+[66]    The explanation for the period of delay in this case is, to a large extent, either entirely unacceptable or non-existent. It all starts with the original period of 90 days it took to file the statement of claim in the first place. Ironically, if a statement of claim is brought on the last day of the 90-day time limit, it is in time and no explanation is required. But if it is filed on the ninety-first day, it is late, and the whole 90 days must be explained. The applicant has not explained what he had done in this first 90-day period with regard to the preparation of his statement of claim. Then, and added to this, the applicant also does not explain why it took until 4 June 2018 to follow up on the referral of his statement of claim, which is when it was realised it was not served on the respondent. This leaves this entire initial period unexplained.
+
+[67]    I will accept that the period between 5 June 2018 and 31 October 2018 was taken up by the proper prosecution of the applicant's claim in the ordinary course, and will accept that this period of delay is justified and not an undue delay at all. However, and as touched on above, when the respondent highlighted the difficulties with the referral in its answering statement filed on 31 October 2018, it should have spurred the applicant into action, and if the  
+[2022] JOL 57595 (LC) at 26
+condonation application had been brought within a reasonable time after that, then there should have been little difficulty for the applicant where it comes to obtaining condonation.
+
+[68]    But instead, what the applicant next did was wilful and deliberate. As dealt with above, the applicant contrived a case that served as a basis for his consistent contention that he did not need condonation, and condonation would not be applied for. In short, the applicant deliberately decided not to apply for condonation. He only decided to do so in November 2021. This leaves the entire period until then, which is more than three years, effectively unexplained. I will however accept that the period between May 2019 and May 2020, in which the parties were going to and fro with regards to convening a pre-trial, should not be held against the applicant and should be seen as justified, as the issue of the late filing of the statement of claim was on the pre-trial agenda. But when the pre-trial was finally held on 29 May 2020 and the respondent made it clear that it would persist with the objection in limine relating to the late service of the statement of claim, the applicant should then have applied for condonation, but once again deliberately decided not to. This still leaves, at the very best for the applicant, a delay of just short of 18 months in bringing the condonation application to be unexplained.
+
+[69]    However, and what makes matters worse for the applicant in this case is that after the pre-trial on 29 May 2020 and in the course of the exchange of drafts and comments with regard to the pre-trial minute, as well as other correspondence, it must have [been] abundantly clear to the applicant that the respondent was persisting with and insistent on its view that the statement of claim served late, and condonation was needed. It is however also clear from these exchanges that the applicant was persisting with his case and view that the statement of claim was served in time, and that condonation was not needed and would not be applied for. At any time during this exchange, and until the final pre-trial minute was signed on 29 October 2020, the applicant could and should have applied for condonation. His wilful and deliberate decision not to do so is destructive of condonation.
+
+[70]    When the pre-trial minute was signed on 29 October 2020, the respondent specifically recorded therein that it persisted with its objection with regards to  
+[2022] JOL 57595 (LC) at 27
+the late service of the statement of claim. This was yet another red flag to the applicant to bring a condonation application. The applicant still did not heed the warning, and instead simply sought to have matter enrolled for trial.
+
+[71]    When the applicant sought to have the matter enrolled for trial, the Registrar informed the applicant on 13 April 2021 that the objection in limine first needed to be argued. This is yet another indicator to the applicant that condonation was needed. But once again, the applicant spurned the opportunity. Instead, the applicant again on 19 April 2019 attempted to convince the respondent not to persist with its objection in limine, for the same reasons ventilated ad nauseum before. The respondent answered on 23 April 2021 that it would persist with the point. Undaunted, the applicant continued to correspond on the issue with the respondent until 9 July 2021, instead of applying for condonation. Finally, the condonation application followed more than four months later, with no explanation for this further delay.
+
+[72]    All said, the applicant had ample opportunity to apply for condonation, especially considering that the late referral point was raised in the respondent's answering statement, the pre-trial, the pre-trial minute and various items of correspondence. The applicant pushed on nonetheless with an approach disavowing the need to apply for condonation, until it was far too late. The court has been critical of this kind of conduct, even where a condonation application is then brought much later, in the judgment of Lephoto and others v WBHO (Pty) Ltd,30 where the court held:
+
+"It nonetheless gets worse for Masingi and the individual applicants in that despite the claim that his belief was bona fide, albeit mistaken, when the statement of response was filed, the issue of non-compliance with the time frames was raised. However, no action was taken to correct the defect. Similarly, the same issue was raised with him at the convened pre-trail [sic] conference, and again, no action was taken."
+
+[73]    Further, the aforesaid shows a complete lack of diligence, wilfulness and negligence on the part of the applicant (through his legal representatives). 
+
+ 
+[2022] JOL 57595 (LC) at 28
+
+Overall considered, it is an explanation that cannot be accepted.31 In this regard, and in National Union of Metalworkers of SA on behalf of Nkuna and others v Wilson Drills-Bore (Pty) Ltd t/a A&G Electrical,32 the court said the following:
+
+"In Saraiva Construction (Pty) Ltd v Zululand Electrical & Engineering Wholesalers (Pty) Ltd 1975 (1) SA 612 (D), the court held that good cause is shown by the applicant giving an explanation that shows how and why the default occurred. It was further held in this case that the court could decline the granting of condonation if it appears that the default was wilful or was due to gross negligence on the part of the applicant. In fact, the court could on this ground alone decline to grant an indulgence to the applicant."
+
+[74]    In so far as it may be argued that this was all due to the conduct of the applicant's legal representatives and in particular Adv Winks that represented the applicant throughout, it has consistently been made it clear to all litigants that as a general proposition, a litigant stands or falls by the conduct of his or her chosen representative and the representative's conduct should be imputed on the litigant.33 The court in Huysamen and another v Absa Bank Ltd and others34 succinctly described it as: 
+
+"A litigant can derive no benefit from the ineptitude of his attorney. After all the attorney is the litigant's chosen legal representative. If one's legal representative has poorly executed the mandate, one must suffer the consequences." 
+
+Particularly in the context of failing to apply for condonation where needed, the court in Burma Plant Hire, supra, held:35
+
+"The applicants only have their attorneys to blame for the predicament they find themselves in. The applicants' attorneys would have been wise to heed the warning of the respondent's attorneys, simply apply for condonation, and not seek to place all their eggs in one basket to the effect that condonation was not necessary. As said in Matsha:36
+
+ 
+[2022] JOL 57595 (LC) at 29
+
+'The applicants, despite being forewarned, did not seise [sic] this opportunity. They never applied for condonation, they did not offer an explanation for the delay, and certainly did not show any good cause. The delay in this case cried out for the applicants taking the court into their confidence and providing an explanation.'"
+
+[75]    There are several instances where the courts have refused to grant condonation in instances where there was a material delay in filing a condonation application, because of a particular position or stance adopted by a party's chosen legal representative. It has been made clear that even if this is attributable solely to the legal representative, the litigating party must nonetheless be visited with the adverse consequences of such a position being adopted. An apposite example applicable to a condonation application can be found in MEC, Department of Health: FS v Mothupi37 where the court held as follows:
+
+". . . the delay in bringing the condonation application, that delay is due to the fault of the respondent's attorney. Ms Wright says with reference to Saloojee and Another NNO v Minister of Community Development 1965 (2) SA 135 (AD) at 141C–D that considerations ad misericordiam should not be allowed to become an invitation to laxity. There is a limit beyond which a litigant cannot escape the results of the attorney's lack of diligence; Colyn v Tiger Food Industries Ltd t/a Meadow Feed Mills (Cape) 2003 (6) SA 1 (SCA) at 9H. Ms Wright says although the respondent does not blame her attorney for the delay, the court a quo did so. Mr Ndaba for the respondent says that attorneys are human, they make mistakes.
+
+Court cases are conducted by attorneys and counsel on behalf of litigants. Litigants must accept responsibility for what their agents, the legal representatives do. In most cases litigants will not be aware of procedural requirements. But litigation cannot be conducted on the basis of the client pleading ignorance and thereby seeking to avoid or excuse compliance by the legal representative of procedural rules. That would lead to chaos. As the Appellate Division said in 1965 in Saloojee and Another NNO v Minister of Community Development (supra), confirmed in Colyn v Tiger Food Industries  
+[2022] JOL 57595 (LC) at 30
+Ltd t/a Meadow Feed Mills (Cape) (supra), there comes a point beyond which the litigant cannot avoid liability for the legal representative's default."
+
+[76]    Tellingly, there is no indication in the condonation application as to what the applicant himself did to follow up on his own matter and to ensure it was being expeditiously prosecuted. It appears that he left the matter entirely in the hands of his legal representatives. Surely, and after a period of four years since his dismissal with the matter not being close to even being heard, it must have been apparent to him something is amiss. He is after all a highly educated person. He does not explain why these failures should not be imputed on him. As such, he must fall as a result of the failures of his legal representatives.38 In Saloojee and another NNO v Minister of Community Development39 the court articulated the principle as follows:
+
+"If, as here, the stage is reached where it must become obvious also to layman that there is a protracted delay, he cannot sit passively by, without so much as directing any reminder or enquiry to his attorney and expect to be exonerated of all blame; and if, as here, the explanation offered to this court is patently insufficient, he cannot be heard to claim that insufficiency should be overlooked merely because he has left the matter entirely in the hands of his attorney. If he realises upon the aptitude or remissness of his own attorney, he should at least explain that none of it is to be imputed to himself."
+
+[77]    The conduct by the applicant's legal representatives in conjuring up a case that the statement of claim had been served in time, and then seeking to defend this indefensible proposition right until the very end, must non-suit the applicant, as it can only be described as reckless and negligent.40 In A Hardrodt (SA) (Pty) Ltd v Behardien and another41 it was held that: 
+
+"The catalogue of events reveals negligence, incompetence and gross dilatoriness by the appellant's legal representatives. It is difficult to see how that constitutes a good cause for condonation . . .". 
+
+In my view, the failure to comply with the Rules of Court in this  
+[2022] JOL 57595 (LC) at 31
+case was manifest, and inexcusable.42 As said in Saloojee, supra:43 
+
+"The attorney, after all, is the representative whom the litigant has chosen for himself, and there is little reason why, in regard to condonation of a failure to comply with a Rule of Court, the litigant should be absolved from the normal consequences of such a relationship, no matter what the circumstances of the failure are."
+
+[78]    In the end, all the above means that firstly that there is in essence no explanation at all for the initial delay of three-and-a-half months. Then there is a further delay from November 2018 to April 2019, when the applicant's current attorneys came on record, being some five months, which is equally entirely unexplained. This is followed by the delay from 29 May 2020 until 16 November 2021, being some 18 months, which is equally unexplained, based on the fact that even on the applicant's own case, there can be no legitimate or acceptable explanation for this period of delay. This leaves a total of some 27 months of the delay unexplained, and consequently, in line with the principles as set out above, the issue of prospects of success become an irrelevant consideration, and thus need not even be considered.44 Apposite is the following statement of the court in Colett v Commission for Conciliation, Mediation and Arbitration and others:45
+
+"There are overwhelming precedents in this court, the Supreme Court of Appeal and the Constitutional Court for the proposition that where there is a flagrant or gross failure to comply with the rules of court condonation may be refused without considering the prospects of success."
+
+Further, in my view, the following dictum in Buthelezi and others v Eclipse Foundries Ltd46 is also particularly apposite in casu: 
+[2022] JOL 57595 (LC) at 32
+"To allow a latitude as wide as is sought here, would make a mockery of the rules of litigation which were not merely bent but fractured consistently in the present instance, and be unfair to the respondent even were there a strong possibility of the appellants' success."
+
+[79]    One last consideration remains. Would it be in the interest of justice to nonetheless grant condonation? I do not consider this to be the case. It is true that the applicant's case is founded upon him having made a projected [sic] disclosure and having been dismissed as a result, which would constitute an automatic unfair dismissal. It is clear that there is a substantial factual dispute about this, and that the determination in this case is in essence dependent on findings of fact, and not fundamental legal principle. What must however count against the applicant in this equation is that in his statement of claim, even on his case as pleaded, he has failed to properly make out a case as to compliance with the Protected Disclosures Act ("the PDA"),47 which is needed to succeed with an automatic unfair dismissal claim based on a protected disclosure. As said in Palace Group Investments (Pty) Ltd and another v Mackie:48
+
+". . . not all disclosures are protected in the sense of protecting the employee making the disclosure from being subjected to an occupational detriment by the employer implicated in the disclosure. A protected disclosure is defined as a disclosure made to the persons/bodies mentioned in ss 5, 6, 7, 8 and 9 and made in accordance with the provisions of each of such sections. In terms of s 6, for a disclosure to fall within the ambit of a protected disclosure, it must have been made in good faith. It is clear that before other provisions of the PDA can come into play, the disclosure allegedly made must answer to the definition of that term as set out in the definitions section."
+
+[80]    In this case, the applicant alleges he made the disclosure to the respondent as his employer. As such, section 6 of the PDA applies and prescribes that the disclosure must be made in good faith and pursuant to the procedure prescribed by the employer for making such disclosure where such a procedure exists.49 Even though the question whether the applicant acted in good faith can only be  
+[2022] JOL 57595 (LC) at 33
+determined following a proper consideration of the facts,50 it is at least common cause that the respondent does have a procedure for making the disclosure(s) and that the applicant did not follow that procedure, and instead disseminated his complaints to a large variety of persons. He needed to make out a case why this conduct was justified,51 and the fact that he did not places the merits of his case in question.
+
+[81]    As to the applicant's alternative claim of a substantive and procedural unfair dismissal for misconduct, this Court simply has no jurisdiction to entertain the same as a court of first instance. An unfair dismissal dispute for misconduct must be arbitrated by the CCMA.52 The applicant has elected not to pursue such a course of action, and in bringing his case to this Court, is limited to the case of a protected disclosure, as being an automatic unfair dismissal under section 187(1)(h) of the LRA, which is the kind of dispute that this Court would have jurisdiction to determine as a court of first instance.53 All the applicant's allegations as to why his dismissal is substantively and procedurally unfair cannot assist his cause.
+
+[82]    In the end, there is nothing unique and exceptional about this case that would cry out for intervention in this Court, because it may in the interest of justice to do so. All of the failures by the applicant and his legal representatives as set out above must trump all else, and must serve to non-suit the applicant.
+
+[83]    The applicant has also advanced no compelling case of prejudice. Other than a general reference to a lack of funds, the applicant in effect does not deal with this requirement at all. This is entirely inadequate where it comes to making out a proper case of prejudice in the context of a condonation application. As opposed to this, it is now close on five years after the applicant's dismissal, without the case proceeding to trial. This kind of delay is in itself prejudicial, not  
+[2022] JOL 57595 (LC) at 34
+only to the conduct of the litigation, but to the interests of the respondent in finality and its ability to properly present a defence. Apposite, in my view, is the following dictum in Chemical Energy Paper Printing Wood and Allied Workers Union and others v Metal Box t/a MB Glass:54
+
+"I accept that they may suffer prejudice upon refusal of condonation. It seems, however, that the grant thereof would equally expose the respondent, whose interest in the finality of the matter is one of the important factors which I have to take into consideration, to a not inconsiderable degree of prejudice. This is particularly so if due regard is had to the relevant time lapse and the practical implications thereof."
+
+[84]    For all the above reasons, the applicant's condonation application is doomed to fail, on the merits thereof, in any event. The grossly excessive delay without any explanation for most of it, as well as the wilful and negligent conduct of the applicant's legal representatives, trumps all else. There is simply no basis to depart from the normal and accepted principle that in such circumstances, the matter must now be brought to an end, once and for all, by way of the refusal of condonation. It is my view that the following dictum in Ferreira v Die Burger55 aptly describes what should equally apply in casu:
+
+"I am sympathetic to the fact that the applicant may have a case but, were we to grant this application, this court would subvert a crucial principle in matters which deal with personal relationships, namely labour relations, that these disputes have to be dealt with expeditiously and finalized as quickly as possible. Where in a case such as this, there has been so flagrant of violation of the rules, then, as Myburgh JP correctly decided, a lack of any explanation at all shrugs off other considerations."
+
+[85]    I wish to make one concluding remark. In the condonation application, and instead of simply properly applying his mind (through his legal representatives of course) to what the respondent had to say about the statement of claim not being served on 15 May 2018 and then carefully considering the clear Rules of this Court, the applicant in essence attacks the respondent, trying to divert  
+[2022] JOL 57595 (LC) at 35
+attention away from the real issue by complaining about the respondent's conduct where it came to convening the pre-trial, it allegedly not timeously dealing with correspondence, and the fact that the respondent was unreasonable in persisting with its objection in limine. Impliedly, the applicant dispenses criticism at the respondent due to the fact that the respondent adopted the position that it did, and which caused the applicant to have to bring what the applicant believed to be an unnecessary condonation application. This kind of approach must also count against the applicant, and was dealt with in Law Society, Northern Provinces v Mogami and others56 as follows:
+
+"Very serious, however, is the respondent's dishonest conduct of the proceedings. Instead of dealing with the issues they launched an unbridled attack on the appellant. It has become a common occurrence for persons accused of wrongdoing, instead of confronting the allegation, to accuse the accuser and seek to break down the institution involved. This judgment must serve as a warning to legal practitioners that courts cannot countenance this strategy."
+
+Conclusion
+
+[86]    In all the circumstances as set out above, the applicant's condonation application must fail. The first reason for this is that the applicant simply did not properly apply for condonation, and effectively never attempted to show good cause for the late referral of the dispute to this Court to be condoned. Secondly, and even if the condonation application is considered as it stands, the applicant has failed to make out a case for the granting of condonation. It is in the interest of justice and in line with the requirement of the expeditious resolution of employment disputes that this matter must be finally dismissed. The applicant's condonation application thus falls to be dismissed, and with it, the applicant's claim as contained in the statement of claim.
+
+[87]    This only leaves the issue of costs. I have a wide discretion where it comes to the issue of costs, having regard to the provisions of section 162(1) of the LRA. I consider what the court said with regard to costs in employment disputes in Union for Police Security and Corrections Organisation v SA Custodial Management (Pty) Ltd and others57
+
+ 
+[2022] JOL 57595 (LC) at 36
+
+in exercising this discretion, which is that when making a costs order in a labour matter, a presiding officer is required to consider that costs are not ordinarily awarded, the principle of fairness must be considered, and due regard must be had to the conduct of the parties. In this instance, I was tempted, considering the conduct of the applicant relating to the condonation application and the nature thereof, to make a costs award against him. However, and all considered, I do take into account that the applicant was in essence the victim of the ineptitude of his legal representatives, even though it does not excuse him from being non-suited. I do not believe the applicant himself was mala fide, and I accept that he acted on advice. He can be criticised for not taking a more active interest in this matter, but not to the extent of visiting him with a costs order. Overall considered, and in the interest of fairness, I believe a costs order against the applicant is not appropriate.
+
+[88]    For all of the reasons as set out above, the following order is made:
+
+Order
+
+The applicant's condonation application is dismissed.
+The applicant's claim is consequently dismissed.
+There is no order as to costs.
+
+
+Footnotes
+1	  Act 66 of 1995 (as amended).
+2	 National Union of Metalworkers of SA on behalf of Thilivali v Fry's Metals (a division of Zimco Group) and others (2015) 36 ILJ 232 (LC) at para [25].
+3	  (2018) 39 ILJ 1213 (CC) [also reported at 2018 (5) BCLR 527 (CC), [2018] 6 BLLR 531 (CC) – Ed] at para [187]; see also, where it comes to judgments of the same court expressing similar sentiments, Khumalo and another v Member of the Executive Council for Education: KwaZulu-Natal (2014) 35 ILJ 613 (CC) [also reported at [2014] JOL 32484 (CC), 2014 (3) BCLR 333 (CC) – Ed] at para [42]; Billiton Aluminium SA Ltd t/a Hillside Aluminium v Khanyile and others (2010) 31 ILJ 273 (CC) [also reported at [2010] JOL 25025 (CC), [2010] 5 BLLR 465 (CC), 2010 (5) BCLR 422 (CC) – Ed] at para [46]; Strategic Liquor Services v Mvumbi NO and others (2009) 30 ILJ 1526 (CC) [also reported at [2009] 9 BLLR 847 (CC), 2009 (10) BCLR 1046 (CC) – Ed] at paras [12]–[3]; National Education Health and Allied Workers Union v University of Cape Town and others (2003) 24 ILJ 95 (CC) [also reported at [2003] JOL 10448 (CC), 2003 (2) BCLR 154 (CC) – Ed] at para [31].
+4	  These are the Rules for the Conduct of Proceedings in the Labour Court (as amended), first promulgated by GN 1665 in GG 17495 of 14 October 1996.
+5	  See r 6(1)(a)(i)–(ii), and r 6(1)(c).
+6	  R 3(1).
+7	  (2007) 28 ILJ 1343 (LC) [also reported at [2007] JOL 19523 (LC) – Ed] at para [10].
+8	 (2012) 33 ILJ 707 (LC) at para [17].
+9	  (2015) 36 ILJ 363 (CC) [also reported at [2015] JOL 32671 (CC), 2015 (2) BCLR 182 (CC), [2015] 3 BLLR 205 (CC) – Ed] at para [53].
+10	  See Phoffu (supra) at para [18]; Windybrow (supra) at paras [20]–[1].
+11	  1962 (4) SA 531 (A) at 532C–E [also reported at [1962] 4 All SA 442 (A) – Ed].
+12	  (2008) 29 ILJ 318 (LC) [also reported at [2007] JOL 20594 (LC), [2008] 1 BLLR 1 (LC) – Ed] at paras [17]–[8]; see also Mndebele and others v Xstrata SA (Pty) Ltd t/a Xstrata Alloys (Rustenburg Plant) (2016) 37 ILJ 2610 (LAC) [also reported at [2016] JOL 36082 (LAC) – Ed] at para [4].
+13	  Compare Plastics Convenors Association of SA and another v Metal and Engineering Industries Bargaining Council and others (2017) 38 ILJ 2081 (LC) at para [15]; Silplat (Pty) Ltd v Commission for Conciliation, Mediation and Arbitration and others (2011) 32 ILJ 1739 (LC) [also reported at [2011] JOL 26873 (LC), [2011] 8 BLLR 798 (LC) – Ed] at para [24]; National Education Health and Allied Workers Union and others v Vanderbijlpark Society for the Aged (2011) 32 ILJ 1959 (LC) [also reported at [2011] 7 BLLR 690 (LC) – Ed] at para [2]; Van Dyk v Autonet (a division of Transnet Ltd) (2000) 21 ILJ 2484 (LC) [also reported at [2000] JOL 7432 (LC) – Ed] at para [12].
+14	  (2011) 32 ILJ 2206 (LC) [also reported at [2011] JOL 27264 (LC) – Ed] at para [11].
+15	  (2010) 31 ILJ 1413 (LC) [also reported at [2010] JOL 24939 (LC) – Ed] at para [13].
+16	  See Nature's Choice Products (Pty) Ltd v Food and Allied Workers Union and others (2014) 35 ILJ 1512 (LAC) [also reported at [2014] JOL 31487 (LAC), [2014] 5 BLLR 434 (LAC) – Ed] at para [21]; National Union of Metalworkers of SA and others v Crisburd (Pty) Ltd (2008) 29 ILJ 694 (LC) at para [8]; Dial Tech CC v Hudson and another (2007) 28 ILJ 1237 (LC) [also reported at [2007] JOL 19639 (LC) – Ed] at para [38]; Gaoshubelwe and others v Pie Man's Pantry (Pty) Ltd (2009) 30 ILJ 347 (LC) [also reported at [2008] JOL 22302 (LC) – Ed] at para [27].
+17	  See Mziya v Putco Ltd [1999] 2 BLLR 103 (LAC) [also reported at [1998] JOL 4194 (LAC) – Ed] at para [9]; Moila v Shai NO and others (2007) 28 ILJ 1028 (LAC) [also reported at [2007] JOL 19117 (LAC) – Ed] at para [34]; Universal Product Network (Pty) Ltd v Mabaso and others (2006) 27 ILJ 991 (LAC) [also reported at [2006] JOL 16368 (LAC), [2006] 3 BLLR 274 (LAC) – Ed] at para [20]; Colett v Commission for Conciliation, Mediation and Arbitration and others (2014) 35 ILJ 1948 (LAC) [also reported at [2015] JOL 32705 (LAC), [2014] 6 BLLR 523 (LAC) – Ed] at para [38]; Mgobhozi v Naidoo NO and others (2006) 27 ILJ 786 (LAC) [also reported at [2005] JOL 16149 (LAC), [2006] 3 BLLR 242 (LAC) – Ed] at para [34].
+18	 [1999] 3 BLLR 209 (LAC) [also reported at [1998] JOL 3074 (LAC) – Ed] at para [10].
+19	 See MJRM Transport Services CC v Commission for Conciliation, Mediation and Arbitration and others (2017) 38 ILJ 414 (LC) [also reported at [2017] JOL 37704 (LC), [2017] 1 BLLR 40 (LC) – Ed] at para [22]; Sasol Infrachem v Sefafe and others (2015) 36 ILJ 655 (LAC) [also reported at [2014] JOL 32439 (LAC), [2015] 2 BLLR 115 (LAC) – Ed] at para [29]; Thiso and others v Moodley NO and others (2015) 36 ILJ 1628 (LC) [also reported at [2015] 5 BLLR 543 (LC) – Ed] at para [7]; SA Post Office Ltd v Commission for Conciliation, Mediation and Arbitration and others (2011) 32 ILJ 2442 (LAC) [also reported at [2011] JOL 28052 (LAC), [2012] 1 BLLR 30 (LAC) – Ed] at para [17].
+20	 (2004) 25 ILJ 2195 (LAC) [also reported at [2004] JOL 12843 (LAC), [2004] 10 BLLR 979 (LAC) – Ed] at paras [24] and [26].
+21	Id at para [25]. The court went on to say this was a dispute of an "exceptional nature" at para [26] of the judgment.
+22	  See Commissioner for Inland Revenue v Burger 1956 (4) SA 446 (A) at 449G [also reported at [1956] 4 All SA 237 (A) – Ed]; Darries v Sheriff, Magistrate's Court, Wynberg and another 1998 (3) SA 34 (SCA) at 40I–41B [also reported at [1998] JOL 2154 (A) – Ed]; Minister of Agriculture and Land Affairs v CJ Rance (Pty) Ltd 2010 (4) SA 109 (SCA) [also reported at [2010] 3 All SA 537 (SCA) – Ed] at para [39]; A Hardrodt (SA) (Pty) Ltd v Behardien and others (2002) 23 ILJ 1229 (LAC) at para [18].
+23	 See De Beer en 'n ander v Western Bank Ltd 1981 (4) SA 255 (A) at 257 [also reported at [1981] 4 All SA 431 (A) – Ed]; Rennie v Kamby Farms (Pty) Ltd 1989 (2) SA 124 (A) at 129G [also reported at [1989] 2 All SA 155 (A) – Ed]; Ferreira v Ntshingila 1990 (4) SA 271 (A) at 281C–F [also reported at [1990] 2 All SA 47 (A) – Ed].
+24	 2019 JDR 1263 (FB) at para [8].
+25	(2011) 32 ILJ 410 (LC) [also reported at [2010] JOL 26085 (LC), [2011] 2 BLLR 206 (LC) – Ed] at para [12].
+26	 (2015) 36 ILJ 1841 (LAC) [also reported at [2015] JOL 33223 (LAC), [2015] 8 BLLR 818 (LAC) – Ed] at para [18].
+27	 (2020) 41 ILJ 1177 (LC) [also reported at [2019] JOL 46069 (LC) – Ed] at para [52].
+28	 2016 JDR 1180 (ECG) at para [25]; see also The Chairperson of the North West Gambling Board v Sun International (SA) Limited 2021 JDR 3369 (SCA) [also reported at [2021] JOL 52606 (SCA) – Ed] at paras [27]–[8].
+29	 (2016) 37 ILJ 493 (LC) at para [21].
+30	 (JS232/2014) [2018] ZALCJHB 277 (21 August 2018) at para [18].
+31	 See Arnott v Kunene Solutions and Services (Pty) Ltd (2002) 23 ILJ 1367 (LC) [also reported at [2002] JOL 9880 (LC), [2002] 8 BLLR 722 (LC) – Ed] at paras [30]–[2].
+32	 (2007) 28 ILJ 2030 (LC) [also reported at [2007] JOL 19686 (LC) – Ed] at para [16].
+33	Saloojee and another NNO v Minister of Community Development 1965 (2) SA 135 (A) at 141C–E [also reported at [1965] 1 All SA 521 (A) – Ed]; Old Mutual Life Assurance Co SA Ltd v Gumbi (2007) 28 ILJ 1499 (SCA) [also reported at [2007] JOL 19895 (SCA), [2007] 8 BLLR 699 (SCA) – Ed] at para [20]; Superb Meat Supplies CC v Maritz (2004) 25 ILJ 96 (LAC) [also reported at [2005] JOL 13712 (LAC) – Ed] at para [16]; National Education Health and Allied Workers Union on behalf of Leduka v National Research Foundation (2017) 38 ILJ 430 (LC) at para [43]; Frans Meintjies New Tyre Manufacturers v Bargaining Council and others (2012) 33 ILJ 1725 (LC) [also reported at [2012] 6 BLLR 558 (LC) – Ed] at paras [35]–[6]; Silplat v Commission for Conciliation, Mediation and Arbitration and others (2011) 32 ILJ 1739 (LC) [also reported at [2011] JOL 26873 (LC), [2011] 8 BLLR 798 (LC) – Ed] at para [58].
+34	 2020 JDR 2095 (SCA) [also reported at [2020] JOL 48693 (SCA) – Ed] at para [14].
+35	Id at para [52].
+36	 The court was referring to Matsha and others v Public Health and Social Development Sectoral Bargaining Council and others (2019) 40 ILJ 2565 (LC) [also reported at [2019] JOL 45094 (LC) – Ed] at para [25].
+37	  2014 JDR 1224 (FB) at paras [17]–[8].
+38	 See Superb Meat Supplies (supra) at para [27]; Silplat (supra) at paras [54] and [58]; Zungu (supra) at paras [24]–[5]; Van Niekerk v Zondi NO and another (2001) 22 ILJ 1202 (LC) at para [27]; Parker v V3 Consulting Engineers (Pty) Ltd (2000) 21 ILJ 1192 (LC) [also reported at [2000] JOL 6427 (LC), [2000] 7 BLLR 830 (LC) – Ed] at para [17].
+39	  1965 (2) SA 135 (A) at 141E–H [also reported at [1965] 1 All SA 521 (A) – Ed].
+40	 See Arnott (supra) at para [35].
+41	 (2002) 23 ILJ 1229 (LAC) at para [14].
+42	 In SA Express Ltd v Bagport (Pty) Ltd 2020 (5) SA 404 (SCA) [also reported at [2020] JOL 47309 (SCA) – Ed] at para [18] the court said: 
+  "In Tshivhase Royal Council v Tshivhase Nestadt JA said that this court 'has often said that in cases of flagrant breaches of the Rules, especially where there is no acceptable explanation therefor, the indulgence of condonation may be refused whatever the merits of the appeal are' and that this applies 'even where the blame lies solely with the attorney'."
+43	Id at 141D–E; see also SA Express (supra) at para [16].
+44	 Compare Arnott (supra) at para [36]; SA Express (supra) at para [44].
+45	 (2014) 35 ILJ 1948 (LAC) [also reported at [2015] JOL 32705 (LAC), [2014] 6 BLLR 523 (LAC) – Ed] at para [38]; see also 3G Mobile (Pty) Ltd v Raphela NO and others [2014] JOL 32479 (LC) at para [32].
+46	 (1997) 18 ILJ 633 (A) at 638I–639A.
+47	 Act 26 of 2000 (as amended).
+48	 (2014) 35 ILJ 973 (LAC) at para [15].
+49	 S 6(1)(a) reads: 
+"Any disclosure made in good faith–
+ (a) and substantially in accordance with any procedure authorised by the employee's or worker's employer for reporting or otherwise remedying the impropriety concerned and the employee or worker has been made aware of the procedure as required in terms of subsection (2)(a)(ii) . . . 
+is a protected disclosure."
+50	 See Baxter v Minister of Justice and Correctional Services and others (2020) 41 ILJ 2553 (LAC) [also reported at [2020] JOL 47490 (LAC), [2020] 10 BLLR 968 (LAC) – Ed] at para [83]; Radebe and another v Premier, Free State Province and others (2012) 33 ILJ 2353 (LAC) [also reported at [2012] JOL 29409 (LAC), [2012] 12 BLLR 1246 (LAC) – Ed] at paras [34]–[6].
+51	 See for example Beaurain v Martin NO and others (1) (2014) 35 ILJ 2443 (LC) at paras [28]–[30].
+52	 See s 191(5)(a)(i) which reads that:
+ "(a) the council or the Commission must arbitrate the dispute at the request of the employee if–
+ (i) the employee has alleged that the reason for dismissal related to the employee's conduct or capacity . . ."
+53	 See s 191(5)(b)(i); Wardlaw v Supreme Mouldings (Pty) Ltd (2007) 28 ILJ 1042 (LAC) [also reported at [2007] JOL 19188 (LAC), [2007] 6 BLLR 487 (LAC) – Ed] at para [22]; National Union of Metalworkers of SA and others v Driveline Technologies (Pty) Ltd and another (2000) 21 ILJ 142 (LAC) [also reported at [1999] JOL 5686 (LAC) – Ed] at para [38].
+54	 (2005) 26 ILJ 92 (LC) [also reported at [2004] 11 BLLR 1089 (LC) – Ed] at para [12]; see also Seatlolo (supra) at paras [25]–[6].
+55	 (2008) 29 ILJ 1704 (LAC) at para [8]; see also PE Bosman Transport Works Committee and others v Piet Bosman Transport (Pty) Ltd 1980 (4) SA 794 (A) at 799D–E.
+56	 2010 (1) SA 186 (SCA) [also reported at [2009] JOL 24279 (SCA), [2010] 1 All SA 315 (SCA) – Ed] at para [26].
+57	 (2021) 42 ILJ 2371 (CC) [also reported at [2021] JOL 51066 (CC), 2022 (11) BCLR 1249 (CC), [2021] 12 BLLR 1173 (CC) – Ed] at para [35]; see also Zungu v Premier of the Province of KwaZulu-Natal and others (2018) 39 ILJ 523 (CC) [also reported at 2018 (6) BCLR 686 (CC), [2018] 4 BLLR 323 (CC) – Ed] at para [25]; Long v South African Breweries (Pty) Ltd and others (2019) 40 ILJ 965 (CC) [also reported at [2019] JOL 41123 (CC), 2019 (5) BCLR 609 (CC), [2019] 6 BLLR 515 (CC) – Ed] at para [30].
+
+Appearance:
+Adv B Winks, Rupert Candy Incorporated Attorneys (At); Mr S Milo, Eversheds Sutherland (SA) Incorporated (R)
+
+
+End of Document

@@ -1,0 +1,784 @@
+
+
+
+
+Economic Freedom Fighters and others v Manuel (Media Monitoring Africa Trust as amicus curiae) [2020] JOL 49196 (SCA)
+Judgments Online
+
+Division: Supreme Court of Appeal 
+Case No: 711 / 2019
+Hearing Date(s): 02 / 11 / 2020
+Judgment Date(s): 17 / 12 / 2020
+Bench: MS Navsa, MJD Wallis, HK Saldulker, MB Molemela JJA; TP Poyo-Dlwati AJA
+
+
+This is the appeal from the Gauteng Division of the High Court, Johannesburg, against the finding of Matojane J (sitting as a court of first instance) reported sub nom Manuel v Economic Freedom Fighters and others [2019] JOL 42080 (GJ), [2019] 3 All SA 584 (GJ) – Ed. 
+
+Keywords
+
+
+Personal Injury/ Delict — Defamation — Defences — Lack of animus iniuriandi
+
+Mini Summary
+
+
+In the wake of an announcement that a committee chaired by the respondent (Mr Manuel) had recommended to the President that Mr Edward Kieswetter be appointed as the new Commissioner of the South African Revenue Service (SARS), the second applicant (Mr Ndlozi), in his capacity as the national spokesperson of the first applicant (“the EFF”), issued a statement. The statement expressed the EFF’s objection to the proposed appointment, describing it as nepotistic and corrupt, and went on to make disparaging remarks about Mr Kieswetter. It was published on the EFF’s social media platform.
+
+Mr Manuel instituted an application in the High Court, claiming a declaration that the allegations made about him in the statement were false and defamatory and that its publication was and remained unlawful. He also sought consequential relief. The court granted the relief claimed, subject to varying the terms of the interdict claimed by Mr Manuel. He refused leave to appeal. On application to the present court, an order was granted referring the application for oral argument in terms of section 17(2)(d) of the Superior Courts Act 10 of 2013.
+
+In deciding whether leave to appeal should be granted, the court had to consider the merits of Mr Manuel's case and the merits of the defences advanced by the applicants.
+
+Held that determining whether a statement was defamatory involves a twofold enquiry. First, one establishes the meaning of the words used. Second, one asks whether that meaning was defamatory in that it was likely to injure the good esteem in which the plaintiff was held by the reasonable or average person to whom the statement was published. Where the injured party selects certain meanings in order to point the sting of the statement, they are bound by the selected meanings.
+
+The statements made by Mr Ndlozi were clearly defamatory. It was then to be presumed that the publication was wrongful and intentional, that is, published with the intention to injure (the animus iniuriandi). A defendant wishing to avoid liability must raise a defence that excludes either wrongfulness or intention. The publisher of the defamation bears the onus of rebutting either wrongfulness or intention. The applicants in this matter could not rely on the defences of truth, public interest or fair comment as the requirements in each case were not met. The applicants attempted to place reliance on the defence of reasonable publication – linked to which was their alleged lack of animus iniuriandi. The court found the applicants to have fallen woefully short of discharging the onus on the issue of publishing the statement without animus iniuriandi. Serious allegations had been made without regard for truth or potential for harm.
+
+The court granted leave to appeal and upheld the appeal only to a limited extent. The order to publish a retraction and apology and the award of damages were set aside The determination of the quantum of damages and whether a retraction and apology had to be published would take place after oral evidence was led.
+
+ 
+[2020] JOL 49196 (SCA) at 3
+
+
+
+
+NAVSA et WALLIS JJA:
+
+[1]    On 27 March 2019, it was announced that a committee chaired by the respondent, Mr Trevor Manuel, formerly a member of parliament and South Africa's longest serving Minister of Finance, and at present the chair 
+[2020] JOL 49196 (SCA) at 4
+of a listed public company, had recommended to the President that Mr Edward Kieswetter be appointed as the new Commissioner of the South African Revenue Service ("the SARS") in terms of the South African Revenue Service Act 34 of 1997 ("the SARS Act"). That same day, the first applicant, the Economic Freedom Fighters ("the EFF"), the third largest political party represented in the National Assembly, issued a media statement, saying that it objected to "the patently nepotistic and corrupt process" of selecting "Mr Kieswetter", which it characterised as "secret", and adding:
+
+"It has now emerged that the reason is that, one of the candidates who was interviewed, and favoured by the panel, is a dodgy character called Edward Kieswetter, who is not only a relative of Trevor Manuel, but a close business associate and companion."
+
+[2]    The statement was issued by the second applicant, Dr Mbuyiseni Ndlozi MP, in his capacity as the national spokesperson of the EFF and published on the party's Twitter account. It was also published on the Twitter account of the third applicant, Mr Julius Malema MP, the Commander in Chief of the EFF. We will refer to them and the EFF collectively as the applicants. To gauge the extent of its publication, the EFF has over 725 000 Twitter followers and the statement was retweeted 237 times from that account. Mr Malema has over 2 million Twitter followers, although one assumes that there would be considerable overlap between his and the EFF's followers. We do not know how often it was re-tweeted. The statement also attracted extensive coverage in conventional media and in online channels of media communication.
+
+[3]    Mr Manuel regarded the statement as being defamatory of him and demanded that it be withdrawn. After this demand was rejected, he instituted an application in the Gauteng Division of the High Court, Johannesburg, claiming a declaration that the allegations made about him  
+[2020] JOL 49196 (SCA) at 5
+in the statement were false and defamatory and that its publication was and remained unlawful. By way of consequential relief, he sought: 
+
+an order that it be removed from all EFF media platforms and in particular the Twitter accounts of the EFF and Mr Malema; 
+an order for the publication of a retraction and an apology; 
+an interdict against future and further publication; 
+damages in an amount of R500 000; and 
+costs on an attorney and client scale. 
+
+In relation to the claim for damages Mr Manuel sought, in the alternative, that it be declared that the respondents were jointly and severally liable to pay him damages and that the quantification thereof be referred to oral evidence.
+
+[4]    The application came before Matojane J who granted the relief claimed, subject to varying the terms of the interdict claimed by Mr Manuel. He refused leave to appeal. On application to this Court, an order was granted referring the application for oral argument in terms of section 17(2)(d) of the Superior Courts Act 10 of 2013. That is the matter before us. The parties were directed, if called upon to do so, to address the court on the merits. The Media Monitoring Africa Trust ("the Media Trust") applied to be admitted as an amicus curiae. They were admitted as such on the basis that they could deliver written heads of argument and could, with the leave of the presiding judge, be permitted to present oral argument. Such leave was given at the hearing. We heard argument from the parties on both the application for leave to appeal and the merits. The amicus presented argument in relation to the dangers of the publication of falsehoods on social media platforms and on extending media protection to individuals.
+
+ 
+[2020] JOL 49196 (SCA) at 6
+
+The facts
+
+[5]    The statement by the EFF bore the heading: "THE EFF REJECTS SARS COMMISSIONER INTERVIEW PROCESS".
+
+The full text read:
+
+"The Economic Freedom Fighters objects to the patently nepotistic, and corrupt process of selecting the South African Revenue Services' Commissioner.
+
+In February 2019, the EFF sent a letter, and Parliamentary questions to the outgoing President Mr Cyril Ramaphosa and Mr Tito Mboweni, to specifically ask why they are conducting the SARS selection process in secret. It is confirmed that a panel chaired by former Minister, Trevor Manuel, conducted secret interviews to select the SARS Commissioner, and this goes against the spirit of transparency and openness.
+
+It has now emerged that the reason is that, one of the candidates who was interviewed, and favoured by the panel, is a dodgy character called Edward Kieswetter, who is not just a relative of Trevor Manuel, but a close business associate and companion.
+
+Kieswetter used to be a Deputy SARS Commissioner, unlawfully appointed to that position by Trevor Manuel, when Pravin Gordhan was SARS Commissioner. Kieswetter was in SARS during the time of the illegal intelligence unit established by Pravin Gordhan, to hound off political opponents and commit corruption.
+
+After SARS, Kieswetter joined Alexander Forbes, and was subsequently removed from the company due to alleged corruption and unethical conduct. After Alexander Forbes, Kieswetter became a vice-chancellor of an institution whose academic credentials are questionable. This is now a candidate whom Trevor Manuel and Tito Mboweni want to impose into SARS.
+
+The EFF is profusely (sic) opposed to the imposition of a secretly assessed candidate by conflicted individuals, and we will do everything in our power to stop and reverse the appointment of Kieswetter as SARS Commissioner. We will immediately write a legal letter to Mr Ramaphosa and Mr Mboweni, to demand disclosure of all processes that were followed in the process of selecting a SARS Commissioner.
+
+Furthermore, the EFF will explore legal options to invalidate the unlawful appointment of SARS Commissioner.
+
+The EFF is particularly concerned about SARS, because our Elections Manifesto states that, part of our immediate plan when we take over Government will be capacitation of SARS so that it can maximally collect revenue. The EFF particularly advocates for a SARS that will decisively fight against illicit financial flows, base erosion and profit  
+[2020] JOL 49196 (SCA) at 7
+shifting. A secretly chosen SARS Commissioner with clear connection to the white capitalist establishment will not maximally collect taxes.
+
+The EFF therefore demands that the process to select SARS Commissioner should be restarted and be opened to public scrutiny. This should be so because, a Commissioner of the ultimate Revenue Collector in South Africa should be beyond reproach and must stand [sic] public scrutiny. SARS has over the years been involved in a lot of illegal and unlawful activities, and taxpayers deserve to know who will be responsible for the institution.
+
+We also caution Mr Ramaphosa and Mr Mboweni to not engage in activities that led to the downfall of Mr Zuma. If they become arrogant, and ignore the EFF's logical demands, they must know that they too will fall very hard on their own sword."
+
+[6]    Mr Manuel took the view that the sting of the statement was that, as chair of a panel selecting the next SARS Commissioner, he conducted a corrupt, unlawful and clandestine process, which led to the unlawful appointment of Mr Edward Kieswetter, who was said to be a relative and a close associate of his. He complained that the statement accused him, when he was Minister of Finance, of unlawfully appointing Mr Kieswetter as Deputy Commissioner of SARS and charged him with acting contrary to the best interests of SARS with corrupt intent. Finally, he said that the statement accused him of acting contrary to the best interest of SARS by virtue of his connection to a "white capitalist establishment". All this, he said, cast aspersions on his character and integrity. He was adamant that the offensive allegations were devoid of truth. He insisted that they could not be justified.
+
+[7]    Mr Manuel said that Mr Kieswetter was neither a relative nor a business associate. He denied that secret interviews were conducted and denied any kind of nepotism or corruption. He pointed out that the selection panel, which he chaired, could only make a recommendation about who should be appointed as Commissioner of the South African Revenue  
+[2020] JOL 49196 (SCA) at 8
+Service and that the power to appoint the SARS Commissioner, in terms of the applicable legislation, was solely vested in President Ramaphosa.1
+
+[8]    Attorneys acting for Mr Manuel wrote to the EFF and Dr Ndlozi demanding that the applicants remove the statement from their social media platforms and apologise unconditionally in terms set out in the letter. They refused to do so. Mr Manuel then approached the High Court on motion seeking certain relief. His stated purpose was:
+
+"[I] seek various orders aimed at vindicating my good name, putting an end to the ongoing and anticipated unlawful publication of the allegations in the statement, and compensating me for the harm suffered."
+
+He was not seeking to convey that he had suffered pecuniary loss for which he was seeking compensation, because he indicated that, if awarded damages, he would donate the entire amount to a worthy cause.
+
+[9]    Mr Manuel provided details of his lengthy political career, stretching from the beginning of his involvement in the ANC, to the long period of time he served as National Minister of Finance. He described the positions he had held in a number of well-known international organisations and set out his involvement in business and his association with academic institutions. He also provided details of a number of international and local awards he had received in recognition of "my contribution to the country and to principles of democratic governance". It was this commitment to country and democracy, so he asserted, that led to his participation in the selection panel.
+
+ 
+[2020] JOL 49196 (SCA) at 9
+
+[10]    The selection panel that Mr Manuel chaired, the legitimacy of which was not attacked by the applicants in the statement set out above, had its genesis in the removal from office of the former SARS Commissioner, Mr Tom Moyane, pursuant to the recommendations of the Nugent Commission of Inquiry into Tax Administration and Governance at SARS. On 9 November 2018 the Nugent Commission, in its Second Interim Report, recommended a specific process for the appointment of the next Commissioner of SARS. It recommended, inter alia, that the candidate or candidates chosen or nominated by the President should be subjected to interview by an apolitical panel, comprising persons of high standing who would inspire confidence across the tax paying-spectrum. It also provided baseline criteria against which potential candidates should be evaluated. Although saying that the process "for the purposes of providing input to the President, or the Minister, as to the suitability for office of the candidates" should be "open and transparent", the Nugent Commission recommended that the candidates should submit to a private interview by a panel of four or more members selected by the President and that the function of the panel was to evaluate candidates against the prescribed criteria.
+
+[11]    It was undisputed that President Ramaphosa, whilst recognising that it was ultimately his prerogative to appoint the Commissioner, accepted the Nugent Commission's recommendation. He appointed the present Minister of Finance, Mr Tito Mboweni, to oversee the recommended process, including the appointment of the panel, which it was envisaged would shortlist interviewees and submit a list, recommending suitable and competent persons for consideration. On 7 February 2009 Mr Mboweni announced the appointment of the interviewing panel. The panel comprised seven members, including Mr Manuel as chairperson. The other six members were well-known individuals, who no-one suggested did not  
+[2020] JOL 49196 (SCA) at 10
+meet the criteria set by the Nugent Commission. It is for present purposes unnecessary to set out their personal and professional particulars.
+
+[12]    Applications for the position of Commissioner were called for and a shortlisting process ensued. The panel ultimately selected seven candidates to be interviewed, but one withdrew. Five candidates were interviewed on 9 February 2019 and the last candidate, who had been travelling overseas, was interviewed on 21 February 2019. Before Mr Kieswetter was interviewed, Mr Manuel disclosed that he had, in the past, worked with him, although they had not interacted, other than, at arm's length and professionally. This took place when Mr Manuel was Minister of Finance and Mr Kieswetter, Deputy Commissioner of SARS. During that time the Ministry met with senior management of SARS once a fortnight to discuss matters of mutual interest.
+
+[13]    The other panel members considered this disclosure, but did not think there was a conflict of interests, requiring him to recuse himself. Nonetheless, according to Mr Manuel, out of an abundance of caution he merely observed Mr Kieswetter being interviewed, but did not participate in the questioning. Following the interview process three candidates were recommended to proceed to competency testing. Standard reference and security checks were performed. Intense competency checks were conducted, and psychometric assessments were undertaken by an outside consulting company. After all the information had been gathered the panel deliberated and Mr Kieswetter was unanimously recommended for appointment as SARS Commissioner.
+
+[14]    The applicants' response was to set out what they considered to be the proper context within which the statement complained of was  
+[2020] JOL 49196 (SCA) at 11
+published. They explained that the EFF had serious concerns regarding the removal of the previous Commissioner and was concerned about the abuse of state institutions. They pointed out that the EFF was the third largest political party in South Africa and it was thus "materially interested" in the appointment of the new Commissioner. According to them, the EFF was intent on ensuring that the individual to be appointed as Commissioner and the process leading up to the appointment, be beyond reproach. The EFF, so it was said, wanted to see to it that the process employed would withstand "robust scrutiny". In this regard it referred to past corruption in the Public Service.
+
+[15]    The applicants emphasised that they were acting, not for personal or private gain, but in the public interest at the time of a national general election. The EFF was adamant that President Ramaphosa be held to account and that there be no blind acceptance of decisions made by him. They asserted forcefully that they were committed to the rule of law and the Constitution. They were adamant that the court should be concerned about political free speech and that defences open to media defendants should be available to them. The following is a material part of their answering affidavit:
+
+"The respondents disclose to this Court that its statement was motivated by certain disclosures made to it by a source whose identity and details the respondents are not at liberty to disclose. Suffice it to say, this source had intimate knowledge of the intended appointment process, including the appointment of the Panel, and informed the EFF that this was to occur largely out of the public gaze."
+
+The information provided by the source featured large in an assertion that it was reasonable for the EFF to publish the statement and we will consider it in greater detail later in this judgment.
+
+ 
+[2020] JOL 49196 (SCA) at 12
+
+[16]    While accepting that section 6 of the SARS Act was not prescriptive of how the President should go about appointing the SARS Commissioner, the applicants were concerned by the exclusion of Parliament from that process. It was the lack of public scrutiny in relation to the selection process that the applicants contended motivated the statement complained of. They put it thus:
+
+"So, when the EFF received the confidential tip-off, both in respect of the process occurring in secret, and the possibility that the interviews would be run under the applicant and that he was related to one of the applicants, the EFF was galvanized into action as it should as a major political party."
+
+They described the statement as being in the "typical robust rhetorical style' of the EFF'.
+
+[17]    The applicants submitted that the statement by them that Mr Manuel was related to Mr Kieswetter was substantially true, on the strength of what was imparted to the EFF by its confidential source. They contended that in any event they genuinely believed the statement was true. They did not challenge Mr Manuel's assertion that he and Mr Kieswetter were not relatives in the common familial sense of being related by blood or marriage. However, they said that it was "common cause" that Mr Manuel and Mr Kieswetter were related, due to the past relationship that Mr Manuel disclosed to the committee and which led to him partially recusing himself during Mr Kieswetter's interview. It was submitted that the nepotism they referred to in the statement, should be widely construed to include this past relationship. Similarly, the corruption alleged in the statement should also be seen in this light.
+
+[18]    In seeking to justify the statement, the applicants contended that the publication of the statement in question was reasonable in the  
+[2020] JOL 49196 (SCA) at 13
+circumstances and should be considered akin to statements by whistle-blowers. Additionally, they adopted the position that the statement complained of was fair comment. Lastly, the applicants warned that censoring and prohibiting statements like the one in question would have a chilling effect on political speech.
+
+The High Court's judgment
+
+[19]    The High Court was called upon to adjudicate the disputes crystallised from the preceding paragraphs. Initially it dealt with and rejected certain "preliminary objections". It noted that, there was no attempt to show that the sting of the article was not as contended by Mr Manuel and held, after applying the two-stage test laid down by the Constitutional Court in Le Roux v Dey,2 that the statement was defamatory of Mr Manuel. Accordingly, the court said that its publication was presumed to be wrongful and intentional and that the applicants bore the onus of rebutting either wrongfulness or intention.
+
+[20]    The judge dealt with all of the defences raised by the applicants under the general heading of defences to rebut unlawfulness. Whether that was a correct classification is an issue to which we will need to return. He dealt with them under four headings, namely, truth and public interest; reasonable publication; fair comment; and public interest. As regards the last of these, he said that it was not a defence in itself, but an element of other defences.
+
+[21]    Each defence was examined and all of them were rejected on the basis that the applicants had not established the factual basis for any of  
+[2020] JOL 49196 (SCA) at 14
+them. As far as truth and public interest was concerned, the judge held that the sting of the charge had to be shown to be substantially true. The fact that interviews of candidates would take place privately was part of the Nugent Commission's recommendations and known before the interviews were held, so the process was open and transparent, even though the interviews were not public. He held that Mr Kieswetter was neither a relative of, nor a close business associate of and companion to, Mr Manuel. The latter's recusal from active participation in Mr Kieswetter's interview did not in substance establish the truth of these allegations.
+
+[22]    The High Court based its approach to the defence of reasonable publication on the judgment of this Court in Bogoshi3 as approved by the Constitutional Court in Khumalo.4 Those cases dealt with publication in the media – both involved newspaper articles – and the rejection of the decision in Pakendorf v De Flamingh,5 which held the media strictly liable for defamatory publications. The High Court applied the defence to publication by private individuals, saying simply that there was no justification for the press enjoying a privilege of freedom of expression greater than that enjoyed by a private individual. In doing so it did not consider whether it was extending the possible range of defences open to private individuals, or imposing upon them the constraints that apply to the broadcast and press media. Be that as it may, the judge held that the applicants had failed to show that it was reasonable for them to publish the statements made about Mr Manuel.
+
+ 
+[2020] JOL 49196 (SCA) at 15
+
+[23]    The High Court relied on the approach by the Constitutional Court in McBride,6 that the defence of fair comment required that the comment not be made maliciously and be based on facts that were fairly stated and substantially true. The judge held that anything constituting comment in the statement was not based on facts fairly stated. Furthermore, he held that the applicants were actuated by malice because they published the statement with reckless indifference to whether it was true or false.
+
+[24]    That took the High Court to the question of remedy. It dealt first with the issue of damages and awarded a sum of R500 000. Without any great discussion it held that Mr Manuel was entitled to the interdictory relief he sought, as well as a declaratory order and a retraction and apology. Its reasons will be considered later in this judgment.
+
+[25]    In the result Matojane J made the following order:
+
+The allegations made about the applicant, Trevor Andrew Manuel, in the statement titled 'The EFF Rejects SARS Commissioner Interview Process' dated 27 March 2019 are defamatory and false.
+It is declared that the respondents' unlawful publication of the statement was, and continues to be, unlawful.
+The respondents are ordered to remove the statement, within 24 hours, from all their media platforms, including the first and third respondent's [sic] Twitter accounts;
+The respondents are ordered, within 24 hours, to publish a notice on all their media platforms, on which the statement has been published, in which they unconditionally retract and apologise for the allegations made about the applicant in the statement.
+The respondents are interdicted from publishing any statement that says or implies that the applicant is engaged in corruption and nepotism in the selection of the Commissioner of the South African Revenue Service. 
+[2020] JOL 49196 (SCA) at 16
+The respondents are ordered jointly and severally to pay damages of R500 000 to the applicant.
+The respondents are ordered jointly and severally to pay the applicant's costs on an attorney and client scale."
+
+The issues
+
+[26]    A number of issues fall to be considered in this case. The first is whether leave to appeal should be granted. Although that is a threshold issue it requires consideration to some extent of the merits of Mr Manuel's case and the merits of the defences advanced by the applicants. For that reason, we will only deal with leave to appeal at the end of the judgment. The defence of reasonable publication was considered for the first time in the context of publication by a private individual and a political party, rather than the media. The court recognised it as a defence, so it will be necessary to consider to some extent, if not necessarily definitively, whether that development of the law is appropriate. All the defences were dismissed on the basis of the judge's factual findings. There is thus the question of how we view those conclusions.
+
+[27]    If the publication was defamatory of Mr Manuel and the proffered defences were correctly rejected by the High Court, there remain issues regarding the relief granted by the court. Before us there was a general attack on the quantum of the award of damages, but there is an anterior question whether it was permissible for the court to make that award without hearing oral evidence. This is an issue of principle in regard to a change of procedure having a substantive effect, because, so far as we are aware, this and one case that followed it,7 were the first occasions on which  
+[2020] JOL 49196 (SCA) at 17
+courts made awards of damages for defamation, or any similar injuria, in application proceedings. Whether that is a permissible approach requires consideration for the guidance of litigants and the profession generally.
+
+[28]    Lastly, there is the question of whether the declaratory and interdictory relief and the order to publish an apology were appropriate or should be amended. The applicants contended that they should not have been ordered to remove the statement in its entirety but only those portions that adversely reflected on Mr Manuel's reputation.
+
+[29]    In considering all of these issues we will throughout be conscious that we must do so against the background of the right to freedom of expression, guaranteed in section 16 of the Constitution, the political rights in section 19 of the Constitution and the right to dignity in section 10 of the Constitution. We say this at the outset to avoid oft repetition of what is fundamental to the proper adjudication of this type of case.
+
+The defamation
+
+[30]    Determining whether a statement was defamatory involves a twofold enquiry.8 First, one establishes the meaning of the words used. Second, one asks whether that meaning was defamatory in that it was likely to injure the good esteem in which the plaintiff was held by the reasonable or average person to whom the statement was published. Where the injured party selects certain meanings in order to point the sting of the statement,  
+[2020] JOL 49196 (SCA) at 18
+they are bound by the selected meanings.9 The meaning of the statement is determined objectively by the legal construct of the reasonable reader and is not a matter on which evidence may be led.10
+
+[31]    We received some interesting submissions from the Media Trust concerning the approach to the legal construct of the reasonable reader in the context of social media platforms, such as Facebook, Twitter and Instagram, in the light of two cases from England.11 Useful though those may prove on some future occasion, the publication on Twitter in this case was a publication of the whole statement that had been circulated as a media release to the established media. It was not confined to a limited number of characters or written in a form of shorthand. Even a cursory read by social media users would have conveyed to them the essence of the charges made by the EFF against Mr Manuel. In those circumstances, the fact that the statement was published on Twitter does not require us to evolve a new approach to the reasonable reader.
+
+[32]    Mr Manuel identified nine respects in which he said the statement was defamatory of him. They were that he was corrupt; nepotistic; conducted himself unlawfully; conducted "secret interviews" and participated in a secretive process to select the new SARS Commissioner; that the secretive process was a deliberate attempt to disguise his familial relationship and business association with Mr Kieswetter; that he conducted an unlawful appointment process; and that he had previously made unlawful appointments to positions at SARS when he was Minister  
+[2020] JOL 49196 (SCA) at 19
+of Finance. More generally, he contended that the statement meant that he had acted contrary to SARS' interests with corrupt intent, and was connected to a "white capitalist establishment" that acted contrary to the best interests of SARS.
+
+[33]    An analysis of the statement almost completely justified Mr Manuel's contention. In the opening paragraph the process of selecting the new Commissioner was described as patently nepotistic and corrupt. In the following paragraph the panel chaired by Mr Manuel was said to have conducted "secret" interviews. That this was intended to convey that there was something clandestine and untoward about the interviews becomes clear when one reads the third paragraph, which said that:
+
+"It has now emerged that the reason is that, one of the candidates who was interviewed, and favoured by the panel, is a dodgy character called Edward Kieswetter, who is not just a relative of Trevor Manuel, but a close business associate and companion."
+
+The point of this being patently nepotistic and corrupt was then hammered home in the following paragraph, where it was said that Mr Manuel, when Minister of Finance, unlawfully appointed Mr Kieswetter as a Deputy SARS Commissioner.
+
+[34]    The statement went on to say that Mr Manuel and Mr Mboweni were trying to impose on SARS someone with a dubious background involving corruption and unethical conduct. The individuals who assessed him for this post, of which Mr Manuel and Mr Mboweni were the only ones specified by name, were described as "conflicted" and the appointment was described as "unlawful". The only complaint by Mr Manuel that was possibly not justified was that he was tied to a "white capitalist establishment" that acted contrary to the best interests of SARS. That  
+[2020] JOL 49196 (SCA) at 20
+statement was made about Mr Kieswetter and could at most possibly have had only an indirect impact upon Mr Manuel. We will disregard it.
+
+[35]    There can be no doubt that the effect of these statements would in the eyes of the reasonable reader diminish the esteem in which any person about whom they were made was held by others in the community. That is defamatory, and apart from a short-lived, and patently unfounded, endeavour to suggest that "relative" did not mean a familial relative, counsel accepted that it was defamatory.
+
+Wrongfulness and intention
+
+[36]    Once the publication of defamatory matter has been proved, it is presumed that the publication was wrongful and intentional, that is, published with the intention to injure (the animus iniuriandi).12 A defendant wishing to avoid liability must raise a defence that excludes either wrongfulness or intention. The publisher of the defamation bears the onus of rebutting either wrongfulness or intention. They must adduce the evidence necessary to achieve that purpose.13 In this case the onus rested on the applicants to establish either that the publication was not wrongful, or that it was not published with the requisite intent.
+
+Truth and public interest
+
+[37]    Truth and public interest and fair comment are two defences that have long been recognised as rebutting the presumption of wrongfulness. A defendant relying on truth and public interest must plead and prove that the statement is substantially true and was published in the public interest.14 
+
+ 
+[2020] JOL 49196 (SCA) at 21
+
+This defence can be disposed of in short order. The applicants made no attempt to establish that the defamatory statements about Mr Manuel were true. The furthest they went was to claim that they believed to be true what they had been told in a WhatsApp message by a whistle-blower, whose identity they kept secret. There was no attempt to refute Mr Manuel's statements that he was not related to Mr Kieswetter and that they were neither business associates or companions. As those factual propositions were the foundation for the entire statement and its attack on Mr Manuel the failure to establish that they were substantially true was fatal to the defence. It was correctly rejected by the High Court and not surprisingly it was not pursued in argument.
+
+Fair comment
+
+[38]    Turning to fair comment, it has four elements. The defamatory statement:
+
+must be a comment and not a statement of fact;
+it must be fair, by which is meant only that it must be an honestly-held opinion, not that it is balanced or temperate;
+the facts on which it is based must be true and must be clearly stated or clearly indicated, or matters of public knowledge; and
+the comment must relate to a matter of public interest.15
+
+If the comment is made maliciously, that is, with an improper motive, as opposed to being no more than the expression of an honestly-held opinion on a matter of public interest, it is wrongful and the defence is not available.16 Where malice is alleged the evidence led to establish it may  
+[2020] JOL 49196 (SCA) at 22
+also be directed at rebutting the claims that the opinion was bona fide and that the matter was one of public interest.
+
+[39]    Not all of the defamatory matter in the statement can be regarded as a comment. At best for the applicants the description of the process in the opening paragraph as "patently nepotistic and corrupt" may be regarded as comment. But that comment, if it be such, was expressly based on what was stated in the third paragraph, that Mr Kieswetter was Mr Manuel's relative, business associate and companion. That was all untrue. That sufficed to dispose of the defence of fair comment. It was correctly rejected by the High Court and, like the defence of truth and public interest, was not pursued in argument.
+
+Reasonable publication
+
+[40]    The third defence going to wrongfulness advanced by the applicants was that of reasonable publication. Before us the argument on the merits revolved around this and accordingly it requires more detailed treatment than the other defences. The applicants advanced it on the following basis. Since the judgment of this Court in Bogoshi,17 the media have been entitled to establish that the publication of a defamatory statement was not wrongful by proving that they reasonably believed in its truth and that it was in the public interest that it be published. The applicants contended that this defence was available to them, albeit that they are not part of the media. The High Court recognised the defence, but held that the publication was not reasonable.
+
+ 
+[2020] JOL 49196 (SCA) at 23
+
+Animus iniuriandi
+
+[41]    In order to evaluate the contentions in this regard it is necessary to undertake a brief excursion into our jurisprudence in relation to the requirement of animus iniuriandi in the context of defamation and the developments that followed upon the comprehensive review of the law on this topic by De Villiers AJ in Maisel v Van Naeren.18 The claim of defamation arose from aspersions cast on Mr Van Naeren's conduct as a tenant in a block of flats contained in a letter addressed by Mr Maisel to the Chairman of the Rent Board, Cape Town. A defence that the letter was published on a privileged occasion failed because the block of flats was not subject to rent control. However, the claim was dismissed on the basis that Mr Maisel's bona fide but erroneous belief that the letter was written on a privileged occasion rebutted the presumption that it had been published animo iniuriandi. De Villiers AJ said;
+
+". . . I can see no reason why an erroneous belief in the existence of a so-called 'privileged occasion' could not in fit circumstances protect a defendant . . ."
+
+[42]    In Jordaan v Van Biljon19 Rumpff JA said that in order to avoid misunderstanding and unnecessary confusion the expression "malice" that had been used in earlier cases should not be used. Once it was accepted that it was open to a defendant to rebut animus iniuriandi in any manner, in the light of the facts set out in the plea, confusion in regard to defences with special names would be avoided.20 The requirement of animus  
+[2020] JOL 49196 (SCA) at 24
+iniuriandi was reaffirmed in Craig v Voortrekkerpers Bpk,21 although on the facts it was held that the defendant had not discharged the onus of showing that the occasion was privileged in accordance with its plea.
+
+[43]    Nydoo en andere v Vengtas, was the last of this trilogy of judgments, all authored by Rumpff JA. The legal position in regard to a defence based on the absence of animus iniuriandi was set out in the following terms:22
+
+"Evidence that a defendant honestly thought that his defamatory words were published with a lawful purpose, although in accordance with an objective standard the purpose was not lawful, would justify an inference that he did not have the intention to injure" (our translation).
+
+[44]    In O'Malley23 this Court considered a plea by the country's national broadcaster that it had published a news report on the basis of information from reliable sources and without the intention to injure the plaintiff. While reasserting the need for an intention to injure and consciousness of the wrongfulness of the publication as essential elements of defamation, Rumpff CJ raised the possibility, without deciding, that, in the case of the media, absence of animus iniuriandi might not be a defence and instead that strict liability might apply to owners, publishers, editors and printers, but not to distributors.24 That possibility became the law with his judgment in Pakendorf v De Flamingh.25
+
+ 
+[2020] JOL 49196 (SCA) at 25
+
+[45]    To sum up, the legal position at this stage appeared to be that when confronted with a claim for defamation, a defence could be raised that the defamation had been published without animus iniuriandi. Defendants were not constrained by specific categories of defence, such as that the publication took place on a privileged occasion, but could rely upon their own bona fide error in believing that the defamation had been published lawfully, although in the above-cited cases such a defence had been upheld only in Maisel v Van Naeren.26 This defence was not open to the media, both print and broadcast. Their liability, outside of the limits of a defence of publication on a privileged occasion, was strict. However, in what might be viewed as a retreat from the pure principle articulated in the earlier trilogy of judgments, Pakendorf v De Flamingh reserved for later decision the question whether a defendant could acknowledge that the publication was defamatory, but contend that due to mistake there was an absence of knowledge of unlawfulness. It said that it was unclear whether this issue and its resolution belonged with the requirement of fault or intention.27 That set the stage for Bogoshi.
+
+[46]    Bogoshi overruled Pakendorf v De Flamingh in so far as it imposed strict liability on the media. It held that there had been an over-emphasis on the issue of intention and insufficient regard had been paid to the question of lawfulness. A new defence was recognised that publication of defamatory matter by the media would not be unlawful if the publication was reasonable. Hefer JA formulated the defence in the following language:28
+
+ 
+[2020] JOL 49196 (SCA) at 26
+
+". . . the publication in the press of false defamatory allegations of fact will not be regarded as unlawful if, upon a consideration of all the circumstances of the case, it is found to have been reasonable to publish the particular facts in the particular way and at the particular time."
+
+[47]    Bogoshi recognised that the new defence of lawful publication by the media raised the question, left open in Pakendorf v De Flamingh, whether absence of knowledge of wrongfulness could be relied upon as a defence of absence of animus iniuriandi, if the lack of knowledge of wrongfulness was due to the defendant's negligence.29 Because the new defence was explicitly based on the lawfulness of the publication, and negligence might be determinative of its lawfulness,30 Hefer JA said that if media defendants could raise the same negligence as a basis for claiming absence of animus iniuriandi "it would obviously make nonsense of the approach . . . to the lawfulness of defamatory untruths".31 He explained that absence of animus iniuriandi was concerned with ignorance or mistake regarding one or other of the elements of defamation. The Bogoshi defence is based on the reasonableness of the publication. In short, unreasonable publication of defamatory matter by the media is unlawful, and the corollary is that a defence of absence of animus iniuriandi, based on negligent absence of knowledge of wrongfulness, is not available to the media. The result is that in principle the media and non-media defendants stand on a different footing as appears from this concluding passage:32
+
+". . . there are compelling reasons for holding that the media should not be treated on the same footing as ordinary members of the public by permitting them to rely on the  
+[2020] JOL 49196 (SCA) at 27
+absence of animus injuriandi, and that it would be appropriate to hold media defendants liable unless they were not negligent in the circumstances of the case."
+
+[48]    Whether defendants other than the media can rely on a defence of absence of knowledge of unlawfulness due to their own negligence, and hence an absence of animus iniuriandi, was again left open in Bogoshi, but there was an indication that they might be entitled to do so, because, after explaining that media defendants could not rely on that as a defence, Hefer JA said:
+
+"The resultant position of media defendants may not in this respect be so different from that of other defendants because Pakendorf left open the question whether any defendant can rely on a defence of absence of knowledge of unlawfulness due to negligence. However, we have not been called upon to decide the question in relation to other members of the public."
+
+The endorsement of Bogoshi by the Constitutional Court in Khumalo33 did not take this any further and it has not been addressed in subsequent cases.
+
+Other jurisdictions
+
+[49]    In formulating the defence of reasonable publication, Hefer JA had regard to developments in Australia and the United Kingdom as well as a statement of the law in the Netherlands. Internationally the law has moved on since then. For example, he referred to the decision of the Court of Appeal in the UK in Reynolds.34 The appeal from that judgment was heard after the judgment in Bogoshi and referred to it in a comprehensive survey of the approach taken in the United States, Canada, India, Australia, South Africa and New Zealand to issues of the media's liability for defamation in regard to public figures, political expression and the requirement of  
+[2020] JOL 49196 (SCA) at 28
+reasonable care in publishing defamatory matter in respect of such public figures. Given that these judgments were based on widely differing constitutional provisions, local statutes and developments of the common law from widely differing bases, it is no surprise that in the leading speech for the majority Lord Nicholls of Birkenhead concluded that the solutions were not uniform and each was not without its critics in its home country.35 In regard to the Court of Appeal's decision on which Hefer JA had placed some reliance it was said that its "formulation of three questions gives rise to conceptual and practical difficulties and is better avoided".
+
+[50]    The end result was that the House of Lords in Reynolds declined, by a narrow majority, to create a new category of occasions when privilege derives from political information alone. It held that the existing defence of qualified privilege was sufficiently flexible to accommodate the problems encountered by the media in reporting on matters of public concern, whilst giving appropriate protection to reputation. Lord Nicholls said that in determining whether the occasion on which publication occurred was privileged, a range of matters ought to be taken into account, of which 10 were mentioned as illustrative only, namely:36
+
+The seriousness of the allegation. The more serious the charge, the more the public is misinformed and the individual harmed, if the allegation is not true.
+The nature of the information, and the extent to which the subject-matter is a matter of public concern.
+The source of the information. Some informants have no direct knowledge of the events. Some have their own axes to grind, or are being paid for their stories.
+The steps taken to verify the information. 
+[2020] JOL 49196 (SCA) at 29
+The status of the information. The allegation may have already been the subject of an investigation which commands respect.
+The urgency of the matter. News is often a perishable commodity.
+Whether comment was sought from the plaintiff. He may have information others do not possess or have not disclosed. An approach to the plaintiff will not always be necessary.
+Whether the article contained the gist of the plaintiff's side of the story.
+The tone of the article. A newspaper can raise queries or call for an investigation. It need not adopt allegations as statements of fact.
+The circumstances of the publication, including the timing.
+
+This list is not exhaustive. The weight to be given to these and any other relevant factors will vary from case to case. Any disputes of primary fact will be a matter for the jury, if there is one. The decision on whether, having regard to the admitted or proved facts, the publication was subject to qualified privilege is a matter for the judge. This is the established practice and seems sound. A balancing operation is better carried out by a judge in a reasoned judgment than by a jury. Over time, a valuable corpus of case law will be built up."
+
+[51]    Although this was expressed as outlining the scope of the existing defence of qualified privilege in English law, it created greater flexibility in regard to reporting matters of public interest and the possibility of reasonable error in such reporting. It was "concerned to provide a proper degree of protection for responsible journalism".37 Because the English law of defamation does not draw the same distinctions as our law in regard to wrongfulness and animus iniuriandi, it was not expressed in terms easily transferable to this country.
+
+ 
+[2020] JOL 49196 (SCA) at 30
+
+[52]    In Jameel,38 the leading speech on behalf of a narrow majority in the House of Lords was delivered by Lord Hoffmann. He pointed out that the Reynolds defence, as it had come to be known, was not the same as the existing defence of privilege,39 because it was the material that was privileged, not the occasion on which it was published. The issue of "malice", which in South African legal parlance is largely equivalent to the intention to injure,40 did not arise as a separate issue because it was dealt with in the requirements for reasonable publication. The final curial development of the Reynolds defence came in Flood, altering the defence from privilege to one of public interest based on whether there was some real public interest in having the information in question in the public domain.41 It was also said that the defence was not reserved for the media, although it was the media that was most likely to invoke it.42
+
+[53]    The most recent development in England has been the passage of section 4 of the Defamation Act 2013 (c24), which enacts a defence of "Publication on matter of public interest" in the following terms:
+
+"Publication on matter of public interest
+
+It is a defence to an action for defamation for the defendant to show that–
+the statement complained of was, or formed part of, a statement on a matter of public interest; and
+the defendant reasonably believed that publishing the statement complained of was in the public interest. 
+[2020] JOL 49196 (SCA) at 31
+Subject to subsections (3) and (4), in determining whether the defendant has shown the matters mentioned in subsection (1), the court must have regard to all the circumstances of the case.
+If the statement complained of was, or formed part of, an accurate and impartial account of a dispute to which the claimant was a party, the court must in determining whether it was reasonable for the defendant to believe that publishing the statement was in the public interest disregard any omission of the defendant to take steps to verify the truth of the imputation conveyed by it.
+In determining whether it was reasonable for the defendant to believe that publishing the statement complained of was in the public interest, the court must make such allowance for editorial judgement as it considers appropriate.
+For the avoidance of doubt, the defence under this section may be relied upon irrespective of whether the statement complained of is a statement of fact or a statement of opinion.
+The common law defence known as the Reynolds defence is abolished."
+
+This defence has been the subject of recent analysis by the Supreme Court in Serafin v Malkiewicz.43
+
+[54]    The new defence in Bogoshi went further than the original Reynolds defence as articulated by Lord Nicholls in the House of Lords, in treating it as a separate defence, unconfined by the traditional defence of qualified privilege. However, it did not create a general defence of public interest publication available to persons other than the media. Nor did it diminish the ability of persons outside the media from pleading and proving that in certain circumstances publication of defamatory matter in consequence of error could support a defence of publication without animus iniuriandi.
+
+[55]    We have traced these developments in English law because they illustrate the need to develop the law within the framework of a country's own jurisprudence. The fact that there is now a general defence of publication on matters of public interest in England may be of assistance  
+[2020] JOL 49196 (SCA) at 32
+in a proper case in developing our common law, but it cannot be assumed that our law should parallel theirs. For the same reason it is helpful to refer to the Australian solution to the problem of publication of untrue defamatory matter on matters of public interest, provided we bear in mind that its rule is based on a constitutional principle that "each member of the Australian community has an interest in disseminating and receiving information, opinions and arguments concerning government and political matters that affect the people of Australia" and the media has a concomitant interest in disseminating it.44 The requirement of reasonableness in publishing is a statutory one, that the court held did not infringe the constitutional right.
+
+[56]    As a final illustration of the diversity of approaches to this issue and the fluidity of the law in that regard, we refer to the position in New Zealand. There the defence of qualified privilege was expanded in Lange v Atkinson45 to include publications concerning Members of Parliament, or those seeking election to Parliament, if the allegations concerned their fitness for office, but not importing the Australian requirement of reasonable publication. In a subsequent decision the court declined to follow the House of Lords by adopting the Reynolds defence.46 This comparatively cautious approach has recently changed with the adoption by the same court of a new defence of public interest communication that extends to all matters of significant public concern, but subject to a 
+[2020] JOL 49196 (SCA) at 33
+responsibility requirement. In regard to the need for the latter, the court said:47
+
+"The emergence of social media and the 'citizen journalist' which has radically changed the nature of public discourse. Bloggers and those who comment on blogs, tweeters, and users of Facebook and other social media are modern phenomena largely unknown to the Court in Lange. While the mainstream New Zealand media may still be as responsible as the Court in Lange considered it was, the proliferation of unregulated bloggers and other commentators who can be reckless means that the imposition of a responsibility requirement is highly desirable and a necessary safeguard for reputation and privacy rights. It would also provide much needed clarity and certainty in an unregulated world. The other alternative would be to deny the defence altogether to anyone other than the mainstream media but we do not consider that drawing such a distinction would be justified either as a matter of logic, policy or principle. Non-media commentators have an important role to play."
+
+[57]    This brief review of developments in other jurisdictions reflects a convergence of judicial thinking about the important role of the media in modern democracies, the proper boundaries of freedom of expression, the public interest and the recognition of the right to dignity in respect of reputation. Our own jurisprudence in cases such as Bogoshi and Khumalo is part of that convergence. The rise of social media will continue to focus attention on this area of the law. Significant in this judicial convergence is that all societies are facing similar issues, but each has found it necessary to address it in its own way in accordance with its own legal principles. Some have addressed the problem by developing common-law principles, some have resorted to statute and others have found the answers by a blend of constitutional principle and common-law development. Any development of our common law will likewise have to be undertaken in 
+[2020] JOL 49196 (SCA) at 34
+accordance with the legal principles of the actio injuriarum and in the light of our constitutional values.
+
+Development of the common law
+
+[58]    Section 173 of the Constitution mandates the development of the common law by the High Court, this Court and the Constitutional Court, taking account of the interests of justice. In doing so we are enjoined by section 39(2) to promote the spirit, purport and objects of the Bill of Rights. This is a structured process. In Mighty Solutions48 the Constitutional Court said:
+
+"Before a court proceeds to develop the common law, it must (a) determine exactly what the common law position is; (b) then consider the underlying reasons for it; and (c) enquire whether the rule offends the spirit, purport and object of the Bill of Rights and thus requires development. Furthermore, it must (d) consider precisely how the common law could be amended; and (e) take into account the wider consequences of the proposed change on that area of law."
+
+A few years thereafter, in Member of the Executive Council for Health and Social Development, Gauteng v DZ obo WZ,49 the Constitutional Court again dealt with how an enquiry into the development of the common law should proceed:50
+
+"To start the enquiry one must be clear on (1) what development of the common law means; (2) what the general approach to such development is; (3) what material must be available to a court to enable the development; and (4) the limits of curial, rather than legislative, development of the common law."
+
+[59]    The Constitutional Court explained that the common law developed incrementally, through rules of precedent, which ensured that like cases are treated alike. Development occurs not only when a common-law rule is  
+[2020] JOL 49196 (SCA) at 35
+changed altogether, or when a new rule is introduced, but also when a court needs to determine whether a new set of facts falls within or beyond the scope of an existing rule. The development of the common law cannot take place in a factual vacuum.51 Finally, in DZ obo WZ the Constitutional Court, as it had in Mighty Solutions, set out the proper approach:
+
+"The general approach to development of the common law under section 39(2) is that a court must: (1) determine what the existing common law position is; (2) consider its underlying rationale; (3) enquire whether the rule offends section 39(2) of the Constitution; (4) if it does so offend, consider how development in accordance with section 39(2) ought to take place; and (5) consider the wider consequences of the proposed changes on the relevant area of the law."52
+
+[60]    Where it is suggested that there is a deficiency in the common law that is not at odds with the Bill of Rights, then that deficiency might be addressed by the court relying on its inherent power in terms of section 173 of the Constitution.53 Again, the deficiency must be specifically identified and a viable solution proposed.
+
+[61]    The need to follow this process imposes duties on litigants when they seek to persuade a court that a development of the common law is required. They have a responsibility to present to the court their understanding of the current state of the law and the reasons for it by reference to the relevant authorities. The current rule must be assessed in the light of the spirit, purport and objects of the Bill of Rights. The parameters of the proposed development must be clearly expressed and the  
+[2020] JOL 49196 (SCA) at 36
+consequences of amending the law in that way examined. Very often this will require evidence to enable the court to determine what the likely consequences will be.
+
+[62]    This process was not followed by the parties and they did not provide the necessary input to enable the court to determine whether a development of the common law was required and, if so, what it should be. The answering affidavit of Mr Malema, characterised the defence as "reasonableness" on the basis that the EFF's conduct was reasonable because their actions were akin to those of a whistle-blower. It said that they had been given information by a confidential source in circumstances where the secrecy of the appointment process and the failure to obtain satisfactory answers to questions posed to the President and the Minister of Finance meant that they were not in possession of all the facts. It was submitted that the correct test for determining whether the statement was unlawful54 was whether there was a bona fide belief by the EFF in the truth of the statement and whether its conduct was reasonable.In the heads of argument there was no analysis of the legal position and the only authorities referred to were Bogoshi and a case on the importance of political speech.55
+
+[63]    The respondent's approach in the heads of argument was to say that the defence in Bogoshi was a defence afforded to the media. It noted that the High Court had developed the law in the applicants' favour by extending that defence to non-media defendants, but pointed out that it had not been followed in Gqubule-Mbeki.56 It was submitted that if we upheld the High Court's finding that a defence of reasonable publication was not established  
+[2020] JOL 49196 (SCA) at 37
+it would be unnecessary for this Court to decide whether the extension was warranted. No submissions were made against the eventuality of this Court not upholding the approach of the High Court. Nor did we receive any submissions addressing the curious concept of a defence being dismissed on the facts, even though its existence and ambit had not been determined.
+
+[64]    The High Court did not engage in any detailed analysis of the background to Bogoshi, or the manner in which it was situated in the context of wrongfulness and intention in the law of defamation. No doubt this was because the issue was not explored in argument. It was not referred to the line of authority flowing from Maisel v Van Naeren that indicated that a bona fide belief that publication of defamatory material was lawful was capable of rebutting the animus iniuriandi. It noted that, because of social media platforms, ordinary members of the public now have publishing capacities that are capable of reaching an audience beyond those of the print and broadcast media. It held that there was no difference between an ordinary person communicating matters of public interest or concern to the general public on social media and a journalist doing the same in a newspaper. That led to the conclusion that:
+
+"There is no justification as to why the press should enjoy the privilege of freedom of expression greater than that enjoyed by a private individual. The liberty of the press is no greater than the liberty of any individual. There is, therefore, no justification for limiting the defence of reasonableness as it pertains to both wrongfulness and fault to the media alone. In my view this limitation cannot be justified under section 36 of the Constitution."
+
+[65]    With respect, this conclusion proceeded from the basis that Bogoshi had afforded media defendants a defence to claims for defamation that was not available to non-media defendants and thus disadvantaged non-media defendants. As we have shown, that was not a correct reading of Bogoshi,  
+[2020] JOL 49196 (SCA) at 38
+which left untouched the defence of absence of animus iniuriandi for non-media defendants and did not extend that defence to the media. The principle of strict liability was rejected. If untrue defamatory material was published in circumstances where it was reasonable to publish those particular facts in that particular way at that particular time the media were afforded a new defence of reasonable publication. This rebutted the prima facie unlawfulness of the publication. Whether publication was reasonable would involve an assessment of a number of factors, including the reliability of the source and the steps taken to verify the information. It goes without saying that it would have to be shown that they were satisfied that the information was true. The new defence was accordingly hedged around with qualifications that were particularly pertinent to publications by the media, but not necessarily to non-media defendants. By extending Bogoshi to non-media defendants the High Court may inadvertently have restricted the defences available to such defendants, which was clearly not its intention.
+
+[66]    We were not presented with a satisfactory basis upon which to be asked to develop the common law. Bogoshi dealt with wrongfulness and the lawfulness of publications of untrue defamatory material by the media. It carefully distinguished that from the defence of absence of animus iniuriandi available to non-media defendants, while recognising that the latter defence might afford non-media defendants a defence in circumstances similar to media defendants. It also recognised that it would make a nonsense of the defence based on lawfulness to make a defence of absence of animus iniuriandi available at the same time to the same defendant. Making Bogoshi applicable to non-media defendants would have the effect of depriving non-media defendants of the defence that defamatory material was not published animo iniuriandi.
+
+ 
+[2020] JOL 49196 (SCA) at 39
+
+[67]    None of these issues were explored in the High Court or in the arguments before us. This is not a case in which to engage in the task of developing the common law, because we do not have the benefit of a properly structured approach to the suggested development. Development of the common law would notionally involve an assessment of whether the present bifurcated system properly protects the constitutional right to freedom of expression of both media and non-media defendants in the light of the public interest in receiving information about matters of public concern, especially in the political arena. It would involve a consideration of the EFF's contention in oral argument that one cannot apply the same level of reasonableness to a political party as to the media. We were not provided with any submissions as to how and where the lines would be drawn. A development must assess whether it is desirable to place media and non-media defendants on the same footing and the potential impact of depriving non-media defendants of the defence of the absence of animus iniuriandi. The situation of a single member of the public, like Mr Maisel, as well as prominent players on the political stage, such as the EFF and Mr Malema, requires consideration. Whether publications on social media platforms are in some respects at least to be equated with publications by the formal media, must be weighed. We have had none of the evidence and none of the submissions that would enable us to make a proper determination of these questions.
+
+[68]    Fortunately, the facts of this case are such that it makes no difference to the outcome whether we approach the defence of reasonable publication on the basis that it is a defence that seeks to rebut animus iniuriandi, or that it is a defence on the lines set out in Bogoshi. On either basis, the  
+[2020] JOL 49196 (SCA) at 40
+circumstances of the publication of this statement were not such as to sustain the defence. We turn then to examine the facts.
+
+Was the publication reasonable?
+
+[69]    We have dealt above with the defamatory content of the statement issued by the EFF. At its heart lay the factual statements that Mr Manuel and Mr Kieswetter were relatives, close business associates and companions. All of this was factually untrue, but it was the foundation for the description of the process as nepotistic and corrupt. It also underpinned the suggestion that to prevent these facts from being disclosed, the interviews were not conducted in public.
+
+[70]    The foundation for these allegations was a "tip-off" in a WhatsApp message sent to Mr Floyd Shivambu, the deputy leader of the EFF, which read:
+
+"Cde DP, the SARS Commissioner interview process is full of intrigue. One of the shortlisted candidates is one Prof Edward Kieswetter, a relative and close friend of the Chair of the interviewing panel Trevor Manuel. Kieswetter is former SARS deputy commissioner under Parvin (sic) Gordhan when Manuel was the Finance Minister. He left to run Alexander Forbes and then was forced off by the board and he went to be one CEO of the Da Vinci Institute. Maria Ramos, Trevor, Kieswetter and Martin Kingston fly often first class to London, not only as friends but also as business associates . . . we wonder whether this apparent conflict of interest has been declared to Tito Mboweni."
+
+[71]    Neither the source of this message, nor the date when it was sent, were disclosed in the redacted version annexed to an affidavit by Mr Shivambu. The source was described as a colleague of Mr Kieswetter and a "senior person who has been employed in the executive structures of a State Owned Company". Keeping his name confidential was justified by  
+[2020] JOL 49196 (SCA) at 41
+a perceived threat to "his current and future prospects" were his identity to be revealed. It was submitted that the non-disclosure of his identity should "do nothing to affect the reliability and credibility" of the source.
+
+[72]    Although the date on which the message was sent was not revealed its terms indicate that it was sent prior to the interviews of the shortlisted candidates. The names of several of those to be interviewed, including Mr Kieswetter, were published on the BusinessLive website on 8 February 2019 and all bar one of the interviews took place on 9 February 2019, so it can safely be accepted that it was sent about that date. On 13 February 2019 Mr Shivambu had written to the Minister of Finance, Mr Mboweni, asking about the recruitment process; the names of the applicants; the criteria for short-listing; the names of those short-listed and whether interviews had been conducted. He said that the EFF was concerned about the secrecy surrounding the process and added:
+
+"We are also concerned about the attempt to impose an incompetent and unqualified person."
+
+In the absence of any suggestion that this referred to one of the other applicants, the inference is that it was a reference to Mr Kieswetter and flowed from the WhatsApp message.
+
+[73]    Mr Shivambu was advised by the Minister to address his questions via parliamentary channels and question posed to the Minister by another member of the EFF asked the basis upon which the members of the panel had been selected and whether potential conflicts of interest had been taken into account before the selection. The Minister's response, given on 5 March 2019, referred to the recommendations of the Nugent Commission as the basis for the appointment of the panel. It explained that the panel was advisory in nature and was required to make non-prescriptive  
+[2020] JOL 49196 (SCA) at 42
+recommendations to the President. It was not making the decision on who to appoint as Commissioner. As regards conflicts of interest, it was stated that all members were requested to disclose any possible conflicts of interest when being appointed to the panel and again when interviewing candidates. Given the terms of the WhatsApp message in Mr Shivambu's possession it seems clear that the questions about conflicts of interest were particularly directed at Mr Manuel and the alleged relationship between him and Mr Kieswetter.
+
+[74]    Counsel for the applicants characterised these answers as a denial of relevant information that ought to have been made public. They submitted that the applicants were not themselves vouching for the accuracy of the statements and described the untruths that appeared in the statement as the product of "loose language" and were "peripheral". In addition they stressed that the EFF's criticism of the process was legitimate. They submitted that it was unreasonable to expect the EFF to seek information from its political opponents in order to ascertain the correctness of the allegations against Mr Manuel in the WhatsApp message.
+
+[75]    The immediate problem confronting the applicants is that the source was not reliable and the information given to Mr Shivambu and incorporated in the public statement on 27 March 2019 was false. The EFF relied on the untested word of its source without taking any steps to verify the correctness of the statements they made. Contrary to its counsel's submissions, there were many simple things that could have been done in this regard. It should have asked its source where he obtained this information. That would have enabled it to check its reliability. Had the answer been along the lines of "it's common knowledge" or "I've been told" that would have opened up other lines of enquiry. An active political party  
+[2020] JOL 49196 (SCA) at 43
+would be able to approach members of the community who knew the two men to look for information. In a world driven by technology the internet is usually a fruitful source of information and one could have ascertained whether they had attended the same school or tertiary institution, belonged to the same church, served in public bodies or were linked in any other way. Given Mr Manuel's political profile it should not be difficult for a political party such as the EFF to ascertain whether there were long-standing political links between the two men. Business links could be investigated by reference to the records of CIPC and well-known business directories.
+
+[76]    Counsel stressed that the EFF is a political party with significant representation in Parliament and a role to play in uncovering corruption and maladministration in government entities. The Commissioner's role is an important one. There should be no suspicion attaching to the person appointed to this role. All this we accept. But it emphasised the necessity for the EFF to take steps to confirm the correctness of the allegations made by the source. If true there was a real risk that the appointment of Mr Kieswetter might be seen in the public's eyes as tainted. That was the very charge levelled in the EFF statement.
+
+[77]    Had steps been taken to check the accuracy of the source's information and no basis for them discovered, that would have dictated the need to take far greater care before publishing. Other routes of enquiry could have been explored. The obvious one would have been to address Mr Manuel or Mr Kieswetter directly and ask whether the allegations were true. Counsel pooh-poohed that suggestion, saying that it was impolitic to ask an opponent – by which it meant Mr Manuel – for such information. We fail to see why. If he refused to respond that might have justified their  
+[2020] JOL 49196 (SCA) at 44
+going public with the allegations. If he admitted them in whole or in part there could have been a demand that Mr Manuel withdraw from the panel. An admission not followed by a withdrawal, would have provided political ammunition for them to employ in order to discredit the process in the eyes of the electorate and make political capital for the upcoming election.
+
+[78]    The problem for the EFF in approaching Mr Manuel directly was that, if the answer was that the allegations were untrue, it would remove a potential political weapon from their arsenal. No question of urgency arose. There was ample time between 8 February and 27 March to make enquiries. The tenor of the questions posed to Mr Mboweni reflected an intention to exploit the source's "facts" for political advantage. Making an enquiry and being told the correct facts risked turning a possible bombshell into a damp squib.
+
+[79]    The issue was squarely raised in Mr Manuel's replying affidavit where he said that the EFF was evasive as to the nature and content of the disclosures by its source and as to the steps it took to satisfy itself as to the reliability of the source and the truth of the allegations. That prompted the filing of another affidavit by Mr Malema and one by Mr Shivambu. Mr Malema explained that these were tendered because Mr Manuel had raised a dispute about the EFF's version of reliance on a source and disputed the credibility of the information supplied to the EFF by the source. The affidavits were tendered to demonstrate that the EFF had a reasonable basis upon which to make the statements and to demonstrate that its conduct was not unreasonable in the circumstances. He acknowledged that he had not had direct contact with the informant and the latter's "suspicions", as he described them, were conveyed to him by Mr Shivambu.
+
+ 
+[2020] JOL 49196 (SCA) at 45
+
+[80]    There is nothing in Mr Shivambu's affidavit about steps taken to confirm the accuracy of the source's information. He said that the "high office which the informant held, coupled with the intimate knowledge he reasonably knows (sic) about Mr Kieswetter given their proximity, is a valid basis upon which the EFF could make its statements". Mr Shivambu's contention about the source's information being incorrect, was:
+
+"That he turned out to be incorrect in the strictest sense in how he suspected the applicant and Mr Kieswetter to be related to each other is not sufficient to discard the information communicated to the EFF [and] is no basis to sanction it" (our insertion).
+
+[81]    Viewing these facts from the perspective of a contention that the statement was published without the animus iniuriandi they fell woefully short of discharging the onus on that issue. It is clear that the EFF published the statement accusing Mr Manuel of nepotism and corruption on the basis of statements made by its source that it made no attempt to check. Even if it were given the same benefit that the conventional media are given in regard to non-disclosure of their sources, that would not assist its case. The allegations it made were clearly defamatory and concerned a public figure given the responsibility of interviewing people and advising the President on the appointment of the Commissioner of SARS. That is a most serious allegation. To do so on the basis of a message of this type without any endeavour to confirm the truth of the allegations is inconsistent with the absence of an intention to injure. It demonstrates a willingness to wound irrespective of the truth of the allegations.
+
+[82]    The position was made worse in regard to the continuing publication of the statement after 27 March 2019 when Mr Manuel had said that the facts were false and demanded a retraction and its removal. He issued a statement demanding the production of evidence for three claims, namely,  
+[2020] JOL 49196 (SCA) at 46
+that there were "blood ties" between him and Mr Kieswetter; that there were business relationships between them; and that he had previously appointed Mr Kieswetter as Deputy Commissioner of SARS. (The latter allegation was made in the statement but did not appear in the WhatsApp message.) Mr Malema's response on Twitter when a journalist drew this statement to his attention was: "He can go to hell, we are not scared of him." This attracted 396 retweets and 1 460 likes.
+
+[83]    The response to the letter of demand addressed by Mr Manuel's attorneys to the EFF and Dr Ndlozi was equally defiant. It said that they stood by the statement and refused to publish an apology. Any proceedings would be vigorously defended. Then, on the basis of a media report concerning Mr Manuel recusing himself from active participation in Mr Kieswetter's interview, it proceeded to demand answers to no less than 46 questions, only two of which bore, and then only indirectly, upon the assertions concerning his relationship with Mr Kieswetter. The EFF knew that Mr Manuel insisted that the material parts of their statement were false. Yet it did nothing to verify their accuracy either then or before delivering their answering affidavit in the litigation. Instead, it claimed that there was a personal relationship between him and Mr Kieswetter and that its criticism of the process was justified. It asked that the application be dismissed with an order for attorney and client costs.
+
+[84]    It is impossible to reconcile this attitude, persisted in to the bitter end in the High Court, with an absence of animus iniuriandi. The EFF knew that the statement they published was defamatory of Mr Manuel. The claim that they were genuinely mistaken about the accuracy of the information on the basis of which they assailed Mr Manuel's reputation is inconsistent with an attitude that they would persist in those allegations – the statement was not  
+[2020] JOL 49196 (SCA) at 47
+removed from either Twitter account – irrespective of whether or not it was accurate.
+
+[85]    The alternative argument based upon Bogoshi falls at substantially the same hurdle. Seriously defamatory statements were made based upon a single rather cryptic WhatsApp message, without any endeavour to check the correctness of the facts in that message. No reason of urgency or pressing public importance justified the failure to investigate further to confirm the truth of the facts they were relying on. The attempt to justify it on the basis of political free speech amounts to little more than adopting the old adage "All's fair in love and war".
+
+[86]    For those reasons, whether the defence of reasonable publication is approached as a denial of publication animus iniuriandi, or as a development of the common law along the lines indicated in Bogoshi, it could not succeed and there is no reasonable prospect of the Judge's conclusion to that effect being overturned. That is also the fate of the other defences advanced by the applicants. On the merits therefore there is no basis upon which to grant leave to appeal. We turn then to deal with the contentions in regard to the relief granted by the High Court.
+
+The relief granted by the court below
+
+Declaratory and interdictory relief
+
+[87]    The first question to be addressed in relation to the relief afforded Mr Manuel, consequent upon the court's conclusion that the statement by the EFF was defamatory and unlawful, is whether the declaratory and interdictory relief granted by the court below was appropriate. The difficulty with interdictory relief is that it may prevent speech that will be published in the future. In Midi Television (Pty) Ltd v Director of Public Prosecutions (Western Cape)57 
+
+ 
+[2020] JOL 49196 (SCA) at 48
+
+this Court dealt with the danger attendant upon orders for the prior restraint of publication. It had regard to the decision of this Court in Hix Networking Technologies v System Publishers (Pty) Ltd and another58 where a temporary interdict was sought. At paragraph [20] of Midi the following appears:
+
+"Where it is alleged, for example, that a publication is defamatory, but it has yet to be established that the defamation is unlawful, an award of damages is usually capable of vindicating the right to reputation if it is later found to have been infringed, and an anticipatory ban on publication will seldom be necessary for that purpose. Where there is a risk to rights that are not capable of subsequent vindication a narrow ban might be all that is required if any ban is called for at all. It should not be assumed, in other words, that once an infringement of rights is threatened, a ban should immediately ensue, least of all a ban that goes beyond the minimum that is required to protect the threatened right" (citations omitted).
+
+This was dealing with a restraint on anticipated publication, while the issue here is repetition of publication that has already taken place.
+
+[88]    In the present case, the statement complained of was first published more than two months prior to the matter being heard by the court below. Despite protestations by Mr Manuel, the applicants remained defiant and drew even more attention to the original publication that had been retweeted, by their emphatic, if somewhat designedly crass, public response. By the time of the hearing in the court below, the defamatory statement had still not been removed and Mr Manuel, understandably, sought interdictory relief in relation to the continued future publication. The court below was not approached for an interim interdict. Mr Manuel sought declaratory and interdictory relief in final terms. The court below  
+[2020] JOL 49196 (SCA) at 49
+held that the statement was defamatory and thus unlawful. We have shown that, on that score, the conclusions of the court below were well-founded. The defences advanced by the EFF, whether based on the lawfulness of the publication, or an absence of animus iniuriandi, were all properly rejected on the papers. Where defamation is established and the defences to a claim for an interdict are shown on the papers to be without substance, the grant of a final interdict is permissible.59 Conversely, where the opposition to an interdict is based on a colourable defence based on facts advanced in the answering affidavit that cannot be rejected on the papers and require oral evidence, a final interdict may not be given.60 Whether any interim relief can be granted will depend on the application of the well-established rules in relation to interim interdicts.
+
+[89]    In circumstances where the applicants were obdurate, and where the integrity of an institution of State was being undermined on the basis of Mr Manuel's alleged corrupt and nepotistic conduct, an award of damages, in due course, could hardly be said to be a viable and compelling alternative to an interdict prohibiting further publication. Mr Manuel satisfied the requirements for the final relief he had sought, which was granted by the court below. The applicants' reliance on this Court's decision in Tau v Mashaba and others61 is misplaced. That case concerned an application for interim relief, pending an "action for defamation and damages". The court below, in that case, before allowing for possible defences to be addressed, granted a declaratory order and an interdict in final terms. This Court, predictably, set those orders aside. That case is far from the facts of the present application. In the present case, Mr Manuel satisfied the  
+[2020] JOL 49196 (SCA) at 50
+requirements for the declaratory and interdictory relief sought. Consequently, those orders are not liable to be set aside.
+
+[90]    In so far as it was suggested that those parts of the statement that were unobjectionable could be clinically excised from the defamatory portions, our response is as follows: It is not for this Court to recast the statement so that it might be unobjectionable and coherent. We decline the invitation to do so.
+
+The damages award
+
+Purpose and proper procedure and developing the law
+
+[91]    We now turn to deal with the propriety of the award of damages by the court below. We begin, first, by looking at the purpose of such an award. An award of damages for defamation is compensation for an injury to dignity and reputation, under the rubric of the actio iniuriarum.62 Put differently, an award of damages is to compensate a plaintiff for wounded feelings and loss of reputation.63 Where, in addition, patrimonial loss is sustained, the Aquilian action is available.64
+
+[92]    Second, as presaged above, it is necessary to consider the proper process for prosecuting such claims. An unliquidated claim for damages must be pursued by institution of an action.65 No less so, when an aggrieved victim of a defamatory statement seeks compensation. That has always  
+[2020] JOL 49196 (SCA) at 51
+been the position66 and it is reflected in the Uniform Rules of Court.67 Uniform Rule 17(2) compels a person claiming unliquidated damages to use a long form summons and file particulars of claim, and Uniform rule 18(10) obliges "a plaintiff suing for damages [to] set them out in such manner as will enable the defendant reasonably to assess the quantum thereof" and plead thereto.68 In respect of damages claims for personal injury the rule requires even greater specificity. Summary judgment proceedings, regulated by Uniform rule 32, are limited to claims based on a liquid document, a liquidated amount in money, the delivery of specified movable property, and ejectment. It is not a remedy available in respect of claims for unliquidated damages.
+
+[93]    This is not mere technicality. Claims for unliquidated damages by their very nature involve a determination by the court of an amount that is just and reasonable in the light of a number of imponderable and incommensurable factors. That exercise cannot be undertaken in proceedings by way of application. As Harms DP said in Cadac:69
+
+". . . motion proceedings are not geared to deal with factual disputes – they are principally for the resolution of legal issues – and illiquid claims by their very nature involve the resolution of factual issues" (emphasis added).
+
+ 
+[2020] JOL 49196 (SCA) at 52
+
+[94]    In Grindrod (Pty) Ltd v Delport and others70 the court, in dealing with Uniform rule 18(10), said that it "enjoins any party claiming damages to provide sufficient information to enable the opposing party to know why the particular amount being claimed as damages is in fact being claimed".71 Failure by a plaintiff to meet the requirement of this rule might well compel a defendant to resort to the provisions of Uniform rule 18(12), in terms of which the pleadings, because of the deficiency, are deemed to be an irregular step.
+
+[95]    A defendant could, in the light of proper pleading, be motivated to make a tender or settle a claim. It is true that claims for damages based on defamation, as the many reported cases attest, are frequently opposed, both on the merits and in relation to the quantum of damages allegedly sustained. However, some are settled and those that are contested often take place against the background of a secret tender.
+
+[96]    In contested cases, following on the close of pleadings, evidence is led in an attempt to justify the amount claimed. A defendant is entitled to challenge that evidence and present countervailing evidence. How else would a court be able to determine an appropriate award? Relevant evidence has to be presented and fully explored. The factors to be considered by a trial court in determining an appropriate award include: the character and status of the plaintiff; the extent of the defamatory publication; its envisaged and actual impact on the plaintiff; and the subsequent conduct of the person who made the defamatory statement,  
+[2020] JOL 49196 (SCA) at 53
+including his or her efforts, if any, to make amends after the publication.72 This list is not exhaustive.
+
+[97]    In Gelb v Hawkins73 the victim of a defamatory statement claimed damages for contumelia and loss of reputation. After oral evidence was adduced by both plaintiff and defendant, the trial court and this Court considered whether the plaintiff had proved his entitlement on either, or both grounds.74 This included a consideration of whether the plaintiff, who was an attorney, had been adversely affected in his practice due to his loss of reputation. Unlike Caxton, there was no claim for patrimonial damages in Gelb. As can be seen, there has to be purposeful, specificity of pleading, followed by sufficient oral evidence, in order to enable the trial court to determine an appropriate award.
+
+[98]    In De Flamingh v Pakendorf75 the plaintiff testified about the effect upon him of a defamatory statement. The court heard from him about the hurt he had experienced. He testified about how, within social circles, he had been questioned concerning what had been said about him and the impact on his professional life. He testified that the defamatory statement had caused his colleagues to approach him with a measure of suspicion. These aspects all featured in the determination of the amount of damages awarded by the trial court.76
+
+ 
+[2020] JOL 49196 (SCA) at 54
+
+[99]    Even in undefended cases, in which unliquidated damages are claimed, the position dictated by the applicable rules of court, has always been that oral evidence is required before an award can be made. Uniform rule 31(2)(a), dealing with default judgments, reads as follows:
+
+"Whenever in an action the claim or, if there is more than one claim, any of the claims is not for a debt or liquidated demand and a defendant is in default of delivery of notice of intention to defend or of a plea, the plaintiff may set the action down as provided in subrule (4) for default judgment and the court may, after hearing evidence, grant judgment against the defendant or make such other order as it deems fit" (emphasis added).
+
+[100]    Thus, in undefended actions in which unliquidated damages are claimed, our courts, have insisted on hearing viva voce evidence in order to make a proper assessment and issue an appropriate award. In Venter v Nel77 the court, in dealing with a claim by a plaintiff for damages she sustained as a consequence of being infected with HIV during a sexual encounter, noted that it was dealing with an undefended action, and said the following:
+
+"The practice in this Division is to hear some evidence on claims for damages, but inevitably the enquiry is not as detailed or controversial as it would be were the matter defended, were the defendant represented by counsel and were the evidence of the witnesses who testified for the plaintiff tested by way of cross-examination and by the defendant leading countervailing evidence."78
+
+[101]    In Dorfling v Coetzee,79 faced with a claim for damages flowing from a motor vehicle collision, in the form of an application for default judgment, the court said the following in relation thereto:80 
+[2020] JOL 49196 (SCA) at 55
+"Damages may be recovered on the basis of numerous causes of action, and one can envisage cases, especially in cases of breach of contract, where the court can determine damages without any reference to evidence in relation to the cause of action. On the other hand, where the cause of action is delictual, damages can in most cases only be determined after evidence has been led also in relation to the cause of action, for instance in respect of assault, defamation, etc."
+
+In essence, the court held that in cases where damages are claimed in delict one would, in the normal course, require evidence in relation to the damages allegedly sustained. In motor collision cases, of course, questions arise concerning negligence, contributory negligence and, where applicable, the apportionment of damages, in relation to all of which oral evidence is required.
+
+[102]    In New Zealand Insurance Co Ltd v Du Toit,81 dealing with an application for default judgment, the court, in special circumstances, permitted proof of damages by affidavit. The plaintiff was the insurer under the Motor Vehicle Insurance Act 29 of 1942, of a motor vehicle owned by Du Toit. The latter was involved in a motor vehicle collision, which resulted in one Fourie being severely injured. Fourie consequently instituted action against the plaintiff, which was settled by payment of R5 000 damages. In consequence of his non-compliance with certain provisions of the statute Du Toit was liable to pay the plaintiff the amount to which Fourie was entitled. It sued him alleging that Fourie's damages were "not less than R5 000" and the action was undefended. The plaintiff needed to prove that Fourie had been entitled to damages of at least R5000.
+
+ 
+[2020] JOL 49196 (SCA) at 56
+
+[103]    In exceptionally permitting the evidence on affidavit of a doctor in relation to the nature of Fourie's injuries, his pain and suffering and the disability sustained by him, the court in New Zealand said the following:
+
+"At the hearing of this matter counsel sought leave to prove the amount of damages by tendering an affidavit of Dr Wolfowitz which sets out the nature of the injuries, the pain and suffering and the disabilities which Fourie sustained. Although I think it would be dangerous to allow this type of practice I have nevertheless come to the conclusion on the affidavit of Dr Wolfowitz that I would be erring if I did not grant the order as prayed. The affidavit places it beyond question that the amount of damages suffered by Fourie was, to say the least, R5000 and if I insist on verbal evidence I think I would merely be causing unnecessary costs for which defendant is liable. On the facts of this case, and bearing in mind that the defendant was served with the summons and combined declaration in which his attention is drawn to the fact that R5000 was claimed and that he has not seen fit to make representations to this court, I will accordingly grant judgment as prayed."82
+
+[104]    It must be emphasised that in that case the court cautioned against not requiring verbal evidence in undefended cases and was careful to set out its reasons for the exception in that case. New Zealand does not dislodge the rationale for insisting on oral evidence, as set out earlier, so as to enable a proper determination of damages in undefended cases and especially in opposed matters. On the contrary, New Zealand reiterated that oral evidence is the rule.
+
+[105]    Motion proceedings are particularly unsuited to the prosecution of claims for unliquidated damages, whether in relation to defamation or otherwise. We enquired of counsel representing Mr Manuel whether they could refer us to any case law, in terms of which damages for defamation were claimed and determined in motion proceedings. They cited Gqubele-Mbeki.83 
+
+ 
+[2020] JOL 49196 (SCA) at 57
+
+But, in that case, the court, relied on the judgment of the court below in this case, to hold that there is no hard-and-fast rule against using motion proceedings in a damages suit. Furthermore, so the court there said, the rule only applied if disputes of fact arise and that in the case before it what the claimants said was "largely undisputed" and that if the matter went to trial the deponents would merely repeat them. Neither judgment dealt with the established procedure or the necessity for oral evidence. In the present case the novelty of the procedure was not dealt with in the judgment and it can hardly serve as authority for the approach in Gqubele-Mbeki. Neither case can be seen as authority for departing from established procedure and permitting damages claims based on defamation to be pursued in motion proceedings without the need for oral evidence.
+
+[106]    That brings us to an issue that arose during oral argument before us. Counsel representing Mr Manuel, faced with the difficulty of having employed motion proceedings to claim damages, informed us that, in the court below, they had submitted that since the defamation complained of implicated Mr Manuel's right to dignity and since, in terms of section 38 of the Constitution  
+[2020] JOL 49196 (SCA) at 58
+he was entitled to appropriate relief, they had urged the court to develop the common law in terms of section 8(3) read with section 39(2) of the Constitution, to provide effective and expeditious relief, in the form of permitting them to claim damages on motion, notwithstanding established practice and precedent. We were informed that this was part of a sustained effort on the part of Mr Manuel's attorney, to achieve that object for the benefit of existing and prospective litigants. The court below, perhaps because of the manner in which it approached the question of damages, did not deal with that aspect at all.
+
+[107]    In relation to suggested developments of the common law and the need to follow a structured approach, we referred in paragraph [58] to the judgments of the Constitutional Court in Mighty Solutions84 and DZ obo WZ,85 where the Constitutional Court set out how an enquiry into the development of the common law should be undertaken. Given that what is being suggested is a novel approach to the procedure to be used in pursuing claims for damages for defamation, it might be thought that we are not being asked to develop the common law, but to exercise our inherent power to protect and regulate our own process. But there is a reason why developing the common law and protecting and regulating the process of courts are both dealt with in section 173 of the Constitution. It is that they are frequently opposite sides of the same coin, in that the development of the one affects the development of the other. It is appropriate therefore, when a change to the long-established procedure for resolving claims for unliquidated damages is advanced, that a similar process is followed to a proposed development of the common law.
+
+ 
+[2020] JOL 49196 (SCA) at 59
+
+[108]    We enquired of counsel representing Mr Manuel whether, when the court below was urged to develop the common law in relation to the award of unliquidated damages in application proceedings, the steps mandated by the Constitutional Court were followed. More specifically, whether an analysis of the existing position had been undertaken on behalf of Mr Manuel, the rationale addressed, and a suggested development proposed, taking into account the wider consequences in this area of the law, including impinging on the applicable rules of court. Equally, if the suggestion was that there was a deficiency, whether it was identified, and a solution proposed. Counsel replied that this had not been done.
+
+[109]    These aspects were not foreshadowed, even tangentially, in Mr Manuel's affidavit in support of his case. In these circumstances it would have been unfair to have required the court below to have addressed the question merely by way of generalised submissions from the bar. It would have been equally unfair on the applicants.86
+
+[110]    The amicus, in generalised terms, supported the approach of the High Court in all of its facets, including the award of damages. Its submissions were premised on its concern about the dangers of misinformation and disinformation being spread on social media platforms, which caused harm to individuals or groups or to the public in general. It contended that when a person, aggrieved by defamatory statements published on social media platforms, sought legal redress on the basis of the infringement of a constitutionally entrenched right, such as the right to dignity, a court was obliged to provide effective and expeditious relief. It supported the  
+[2020] JOL 49196 (SCA) at 60
+submissions on behalf of Mr Manuel, that victims of defamation of the kind complained of by him should be able to approach a court on motion to seek relief, including the recovery of damages.
+
+[111]    There is, of course, no problem with persons seeking an interdict, interim or final, against the publication of defamatory statements proceeding by way of motion proceedings, on an urgent basis, if necessary. If they satisfy the threshold requirements for that kind of order, they would obtain instant, though not necessarily complete, relief. There is precedent for this in the well-known case of Buthelezi v Poorter,87 where an interdict was granted urgently in relation to an egregious piece of character assassination. Notably, however, the question of damages was dealt with separately.88 In appropriate circumstances persons following this route might, as pointed out earlier, be required to overcome the barriers to prior restraints and have to deal with the availability of alternative measures, as a potential bar, to achieving redress. However, seeking damages, instantly, on application, is problematic for the reasons provided above. Counsel for the amicus, like counsel for Mr Manuel, did not provide a proper basis for departing from the established position of requiring evidence and did not propose how damages might otherwise, especially in opposed matters, be determined. In argument he indicated that if we held that a claim for damages could not be pursued on paper, we should nevertheless reiterate that an interdict, retraction and apology could be ordered.
+
+[112]    We accept that the spread of misinformation and disinformation on social media platforms is, notoriously, a worldwide concern. This is  
+[2020] JOL 49196 (SCA) at 61
+especially so in the European Union and the United States of America, where legislative intervention and state regulation is being touted. We were informed that the amicus was opposed to such intervention and regulation. The spread of falsehoods that threaten or infringe the rights of individuals and the public at large is a legitimate concern. If there are curial means of addressing those concerns, distinct from legislative intervention, those should be presented by litigants in a constitutionally acceptable fashion and a court can then address them. In the present case that was not done.
+
+[113]    It appears that the simplistic view was taken that if one were to provide victims of social media defamation with a quick and easy way of seeking and obtaining sizeable damages awards on motion, that would bring to a quick halt these kinds of transgressions. We do not agree that the problem can be resolved that easily. The search for a solution to the evils of the abuse of social media platforms should be carefully considered, without compromising constitutional rights, fundamental legal principles and due process. Careful thought should be given to the possible dangers of the envisaged simplistic solution. It might well incentivise the abuse of motion proceedings by undeserving, but well-resourced, plaintiffs and be used in terrorem. It has the potential for stifling freedom of expression.
+
+[114]    We now deal with the alternative relief sought by Mr Manuel in his notice of motion, namely, the referral of the issue of quantum to oral evidence. It is true that a court, in motion proceedings, in terms of Uniform rule 6(5)(g), has a discretion to direct that oral evidence be heard on specified issues with a view to resolving a dispute of fact or, in appropriate circumstances, to order the matter to trial. Generally, however, a court will dismiss an application when, at the time that the application is launched, an applicant should have realised that a serious dispute of fact was bound  
+[2020] JOL 49196 (SCA) at 62
+to develop.89 We would add that bringing application proceedings claiming relief that is not appropriate to be sought in such proceedings, will ordinarily be an a fortiori  case.
+
+[115]    Mr Manuel's legal representatives, without regard to the Uniform Rules and established practice, in relation to the necessity of proceeding by way of an action to claim unliquidated damages, were clearly not unmindful of what is set in the preceding paragraph. Indeed, it must have been that awareness that caused them to seek, in the alternative, a declaration that the applicants are jointly and severally liable to pay damages and to refer "the quantification of the damages to oral evidence".
+
+[116]    At this point it is necessary to consider the limited nature of what appeared in the litigants' respective affidavits and the brief reasoning of the court below in relation to the award of damages. Mr Manuel, in his affidavit in support of his case, did not complain of hurt feelings and was thus not claiming compensation as solatium in relation thereto. The sum total of his assertions in relation to his claim for damages is as follows:
+
+"Lastly, I claim damages for the injury to my reputation. I am advised and respectfully submit that the quantum of my damages is readily capable of determination on the papers. If this court should, however, not be inclined to determine the quantum of the damages on paper, I ask that the determination of such quantum be referred to oral evidence. Should I be awarded damages I will donate the entire amount to a worthy organization."
+
+[117]    It is true that, preceding what is set out immediately above, Mr Manuel complained that his reputation had been affected and his dignity  
+[2020] JOL 49196 (SCA) at 63
+undermined. However, this passage indicates that he was primarily concerned, in his claim for damages, with the harm done to his reputation. The applicants' response to this was to state that Mr Manuel's complaints about the "prejudice" he suffered was "unproven, generic and unspecified". They went on to say the following:
+
+"The applicant is a man of great stature and given his experience at the forefront of politics for well over 20 years, it is unlikely that he suffered any harm as alleged. His bringing this application was done for political purposes . . ."
+
+[118]    The High Court dealt cursorily with the question of damages. The following is what it said in relation to damages before it awarded the amount of R500 000:
+
+"Mr Manuel has indicated that should he be awarded damages he will donate the entire amount to a charitable organisation.
+
+Having regard to the foregoing and the general trend in recent times, I believe that an award of R500 000 in general damages is merited."
+
+[119]    The reasoning on which the award was based, as can be seen, was sparse, with little attention paid to how best to determine the extent of reputational loss. We accept that in considering the reasoning of a trial court in relation to quantum, one should have regard to what was said in the judgment as a whole.90 However, in the present case Mr Manuel was primarily concerned with reputational harm, but provided no details in relation to the reputational harm he suffered. This, as referred to above, was seized upon by the applicants in their denial that Mr Manuel suffered reputational harm. No details of what the court took into account in relation to the extent of reputational damage, other than Mr Manuel's limited say-so, is provided in the judgment. The court below did not deal at all with the  
+[2020] JOL 49196 (SCA) at 64
+applicants' challenge to Mr Manuel's claim of reputational loss. It did not pause to consider whether it should dismiss the application on the basis that this dispute ought to have been foreseen, or on the basis that that issue ought to have been dealt with by way of action. It did not deem it necessary to consider referring the issue of quantum to oral evidence as sought, in the alternative, by Mr Manuel.
+
+[120]    Before us, counsel representing Mr Manuel lost their enthusiasm for the alternative relief sought in the notice of motion. In line with what the court said in Gqubele-Mbeki, they submitted that oral evidence would serve no purpose as the facts before us would not change. Counsel asked, presumably rhetorically, how a referral to oral evidence could assist in the determination of damages? That, as we will demonstrate, with reference to the facts of this case and generally, misconceives the role of oral evidence in the determination of damages.
+
+[121]    It is clear that the dispute about the extent of Mr Manuel's asserted reputational loss could be fully explored and resolved by way of oral evidence. Mr Manuel could, notionally, present evidence that those within and beyond his circle of associates and friends, were taken in by what was said by the applicants and consequently thought less of him, and that some people did, in fact, shun him. A cross-examiner might enquire of Mr Manuel whether his friends abandoned him, or whether he was dropped from any of the boards of companies on which he sits. He could be asked whether the reaction to the defamatory statement by those within his circle was that he should ignore whatever the applicants said because the statements complained of was typical of them. The applicants could adduce countervailing evidence. The list of what might be explored and what might emerge is long. For present purposes what is set out above will  
+[2020] JOL 49196 (SCA) at 65
+suffice. It applies not just to this case but generally. If hurt feelings were to be explored the court would get to hear first-hand from the victim of defamatory statements about its impact and about the degree of personal distress it caused.91 That is why courts have insisted on evidence before determining damages.
+
+[122]    There is the added problem that, at least superficially, the amount awarded appears extraordinarily high and not, as stated by the court below, in line with the recent general trend. In its judgment on the application for leave to appeal, the court below dealt with the submission on behalf of the applicants that, comparatively, the award of damages to Mr Manuel was unjustifiably high. The court below, impermissibly, attempted to supplement its prior reasoning, by referring to cases where courts warned that each case had to be decided on its own facts and that mathematical calculations were impermissible. It also referred to a dictum of this Court in which it was said that an award of damages is "little more than an enlightened guess".92
+
+[123]    As recognised by the court below in the judgment refusing leave to appeal, there is no empirical measure to determine compensation for damages for harm of this nature.93 The court, in determining an appropriate award, must have regard to all the facts of a particular case. In Van der Berg v Coopers and Lybrand Trust (Pty) Ltd this Court said that a court, must, as best it can, make a realistic assessment of what it considers just and fair in all the circumstances.94 It is true that the court went on to say  
+[2020] JOL 49196 (SCA) at 66
+that the result represents "little more than an enlightened guess". However, for it to arrive at the "enlightened guess", with the emphasis on "enlightened", the relevant facts and circumstances must be placed before it. The established practice and the Uniform Rules dictate that this is achieved by way of oral evidence, pursuant to the institution of an action for damages. That course enables the resolution of disputes and provides the evidentiary material on which the courts can consider the factors set out in paragraph [96] above. "Enlightened guess", was perhaps an unfortunate description of the culmination of the process of determining damages.
+
+[124]    In regard to quantum, this Court has repeatedly stated that each case turns on its own facts and that comparisons with prior awards serve a limited purpose.95 Awards in other cases might provide a measure of guidance but only in a generalised form.96 A cursory scrutiny of awards from 2017 onwards will reveal that recent awards in serious defamation cases, with defamatory statements having been widely published, were in amounts that were a fraction of what was awarded in this case.97
+
+[125]    Counsel for Mr Manuel's reliance on Bytes Technology Group v Michael98 as support for the award of the court below demonstrates the dangers of reliance on prior awards, warned against by our courts. It was misplaced because there is a chasm of differences between that case and the present. It related to defamatory statements by a disgruntled former employee. A number of different defamatory statements over an extended period of time were made within the context of the commercial world. The  
+[2020] JOL 49196 (SCA) at 67
+plaintiffs were an Information Technology entity and its two senior officials. They managed information technology for major retailers and banks. The defendant, the disgruntled employee, repeatedly made defamatory statements to the aforesaid clients and others, claiming to be a whistle-blower in relation to fraud. He resorted to extortion and set criminal proceedings in motion. Clients of the business reacted to this by directing questions to the plaintiffs. To address the harm caused by the defamatory statements money and effort had to be expended by the first plaintiff. The defendant continued his vendetta by continuing to make defamatory statements. Critically, all the necessary evidence upon which the award was based was adduced over an extended period and the evidence led by the plaintiff was subjected to extensive cross-examination. Even then, the award which was considerable, given the multiplicity of statements and actions and the attendant commercial consequences, was less than in the present case. There is no sustainable comparison with the present case.
+
+[126]    Reliance was also placed on Branko v Moffat and another.99 In that case two interviews were granted to two newspapers which had wide circulation. In those interviews, the defendant made defamatory statements concerning the plaintiff, who was an internationally renowned boxing promoter. The interviews were given by the head of a boxing control body after the relationship between the plaintiff and the body had soured. The plaintiff, based on the oral evidence that was led and fully explored, quite clearly suffered professional reputational harm and the statements potentially destroyed his career. Significantly, in its judgment the court referred to the extensive evidence that had been adduced that  
+[2020] JOL 49196 (SCA) at 68
+covered every aspect of every issue raised in that case. Half of what was awarded in the present case was awarded in respect of each of those interviews. Again, the dangers of comparing cases have to be guarded against. But most importantly, the plaintiff there claimed damages by instituting an action and extensive relevant evidence was adduced and tested.
+
+[127]    It must be borne in mind that awards are to compensate, not to punish. In McBride the Constitutional Court remarked that substantial damages awards may unnecessarily stifle freedom of expression.100 That too is something to be borne in mind in the determination of damages. In this regard context is important. These aspects were not addressed by the court below. For all the reasons set out above oral evidence was required before making an award of damages. The applicants were forewarned that this relief was going to be sought. They did not raise procedural objections and the issue appears to be a narrow one, namely, the extent of reputational damages sustained by Mr Manuel. In these circumstances, exceptionally, the matter would lend itself to such a referral. It should not, however, be seen as endorsing as a general practice in defamation cases an application for some immediate relief together with an application for the issue of the quantum of damages to be referred to oral evidence. For the reasons we have given, the ordinary procedure in claims for unliquidated damages should be by way of action.
+
+The apology
+
+[128]    That leads us to the question whether the apology ordered by the court below was appropriate. While there might be reservations concerning  
+[2020] JOL 49196 (SCA) at 69
+the sincerity of a court-ordered apology, the Constitutional Court in Le Roux v Dey considered remedies provided for in Roman-Dutch law that had fallen into disuse. These allowed for the retraction of a defamatory statement and an apology. The court also had regard to customary law and tradition and concluded that respect for the dignity of others lies at the heart of the Constitution, and that reconciliation between opposing parties at different levels consists of recantation of past wrongs and apology for them. It considered that the plaintiff in that case was entitled to an apology.101 It must also be borne in mind that the apology in that case was ordered in conjunction with an award of damages, not separately from it.
+
+[129]    In McBride the Constitutional Court referred to its earlier decision in Le Roux v Dey102 and reiterated the importance of an apology in securing redress and "in salving feelings".103 It went on to have regard to the plaintiff's contention on appeal, that an apology in that case was inappropriate and took into account that a media defendant was involved and that there were law reform initiatives afoot in other countries. Consequently, it was thought that ordering an apology in those circumstances was not warranted.104
+
+[130]    Neither of these two judgments suggested that an order for publication of a retraction and apology on its own and not in conjunction with an award of damages would be an adequate remedy. The High Court's order for publication of a retraction and apology in this case was made in conjunction with its order for damages. We have held that the latter should  
+[2020] JOL 49196 (SCA) at 70
+not have been made without hearing evidence. The applicants had suggested in their challenge to the quantum of damages, that an apology would be sufficient redress, but that suggestion can only be considered in conjunction with the consideration of whether an award of damages should be made and the quantum of that award. An apology has always weighed heavily in determining the quantum of damages in defamation cases as occurred in Le Roux v Dey.105 In our view, whether an order for an apology should be made is inextricably bound up with the question of damages. As the latter award falls to be set aside and referred to oral evidence, so too must the order to publish a retraction and apology be set aside and referred to the High Court for determination after the hearing of oral evidence on damages.
+
+Costs in the court below
+
+[131]    The court below clearly took a dim view of the obdurate stance of the applicants after the protestations by Mr Manuel. It gave consideration to what it concluded was reprehensible behaviour of the applicants in continuing to publish in the light of the disclosure of all the facts. It considered that the punitive costs order sought by Mr Manuel was justified. We can find no fault with that conclusion and we bear in mind that courts of appeal are generally slow to interfere with the exercise of a discretion by a court of first instance in relation to costs unless the order was capricious or based on wrong principle.106 That is not the case here.
+
+Conclusions
+
+[132]    As stated earlier, there are no reasonable prospects of success in an appeal in relation to the conclusions reached by the court below, that the  
+[2020] JOL 49196 (SCA) at 71
+statement was defamatory and unlawful. The same applies to the consequential relief, other than the order to publish a retraction and apology and the award of damages. The application for leave to appeal in respect of those two aspects should therefore succeed and the application for leave to appeal in respect of all other issues should be dismissed. This means that part of the application for leave to appeal succeeds and the appeal in relation thereto should, consequentially, be upheld. The determination of the quantum of damages and whether a retraction and apology must be published must take place after oral evidence has been led.
+
+Order
+
+[133]    The following order is made:
+
+The application for leave to appeal in relation to paragraphs 1–3 and 5 of the order of the court below is dismissed with costs, including the costs of two counsel.
+In relation to paragraphs 4 and 6 of the order of the court below the application for leave to appeal is granted.
+The appeal in relation to paragraphs 4 and 6 of the order of the court below is upheld with costs, including the costs of two counsel.
+Paragraphs 4 and 6 of the order of the High Court are set aside and replaced with the following order:
+The determination of the quantum of the damages suffered by the applicant is referred to oral evidence.
+The High Court will determine in conjunction with its determination of the quantum of damages whether an order for the publication of a retraction and apology should be made."
+
+(Saldulker, Molemela JJA and Poyo-Dlwati AJA concurred in the judgment of Navsa et Wallis JJA.)
+
+
+
+Footnotes
+1	 S 6 of the South African Revenue Service Act 34 of 1997 under the heading "Appointment" reads as follows:
+ "(1) The President must appoint a person as the Commissioner for the South African Revenue Service.
+ (2) The person appointed as the Commissioner holds office for an agreed term not exceeding five years but which is renewable."
+2	Le Roux and others v Dey (Freedom of Expression Institute and Restorative Justice Centre as amici curiae) [2011] ZACC 4, 2011 (3) SA 274 (CC) [also reported at [2011] JOL 27031 (CC), 2011 (6) BCLR 577 (CC) – Ed] ("Le Roux v Dey") at para [89].
+3	National Media Ltd and others v Bogoshi 1998 (4) SA 1196 (SCA) [also reported at [1998] JOL 3766 (A), [1998] 4 All SA 347 (A), 1999 (1) BCLR 1 (A) – Ed] ("Bogoshi").
+4	Khumalo and others v Holomisa [2002] ZACC 12, 2002 (5) SA 401 (CC) [also reported at [2002] JOL 9862 (CC), 2002 (8) BCLR 771 (CC) – Ed] at paras [18]–[9].
+5	Pakendorf en andere v De Flamingh 1982 (3) SA 146 (A) [also reported at [1982] 2 All SA 158 (A) – Ed].
+6	The Citizen 1978 (Pty) Ltd and others v McBride oac [2011] ZACC 11, 2011 (4) SA 191 (CC) [also reported at [2011] JOL 27088 (CC),  – Ed] ("McBride") at para [83].
+7	Gqubuke-Mbeki and another v Economic Freedom Fighters and another [2020] ZAGPHC 2 ("Gqubuke-Mbeki"). As appears from para [4] of that judgment the relief claimed was essentially the same as in the present case and the applicants were represented by the same attorneys. In awarding damages the judge followed the approach in this case.
+8	Le Roux v Dey, op cit fn 2 at para [89].
+9	Ibid at para [88].
+10	Ibid at para [90]; Sutter v Brown 1926 AD 155 at 163. The position is different if a secondary meaning, or innuendo properly so-called, is pleaded, but that was not the case here.
+11	Monroe v Hopkins [2017] EWHC 433 (QB) at para [35]; Stocker v Stocker [2019] UKSC 17, [2020] AC 5903, [2019] 3 All ER 647 (SC) at para [41].
+12	Khumalo v Holomisa, op cit, fn 4 at para [18].
+13	Le Roux v Dey, op cit fn 2 at para [85].
+14	Lawsa Vol 14(2) (3 ed) (2017), by Justice FDJ Brand at para [124].
+15	Crawford v Albu 1917 AD 102 at 115–7; Marais v Richard en 'n ander 1981 (1) SA 1157 (A) at 1167E–G; McBride, op cit fn 6 at para [80].
+16	Crawford v Albu ibid at 114.
+17 the media have been entitled to establish that the publication of a defamatory statement was not wrongful by proving that they reasonably believed in its truth and that it was in the public interest that it be published. The applicants contended that this defence was available to them, albeit that they are not part of the media. The High Court recognised the defence, but held that the publication was not reasonable.	Op cit fn 3.
+18	Maisel v Van Naeren 1960 (4) SA 836 (C) at 840E–G [also reported at [1960] 4 All SA 447 (C) – Ed].
+19 Rumpff JA said that in order to avoid misunderstanding and unnecessary confusion the expression "malice" that had been used in earlier cases should not be used. Once it was accepted that it was open to a defendant to rebut 	Jordaan v Van Biljon 1962 (1) SA 286 (A) at 296D–F.
+20	 The entire passage of which this is the substance, was in Afrikaans and reads as follows:
+  "As die aanbeveling van Appèlregter SCHREINER gevolg word om nie die woorde 'malice' of 'malicious' te gebruik by die omskrywing van laster nie, sal inderdaad misverstand en onnodige verwarring vermy word en indien verder besef word dat dit 'n verweerder vrystaan om op enige wyse afwesigheid van animus iniuriandi te bewys, na uiteensetting in sy verweerskrif van die relevante feite waarop sy ontkenning van animus iniuriandi gebaseer is, sal verwarring in verband met woordgebruik by verwere met spesiale name, ook mettertyd verminder. Solank egter die in ons regspraak erkende begrip 'bevoorregte geleentheid' as sodanig en met name gepleit word sal die benadering daarvan plaasvind op die wyse wat in ons regspraak vasgelê is."
+21 although on the facts it was held that the defendant had not discharged the 	Craig v Voortrekkerpers Bpk 1963 (1) SA 149 (A) at 156H–157A.
+22	Nydoo en andere v Vengtas 1965 (1) SA 1 (A) at 15A–B [also reported at [1965] 4 All SA 509 (A) – Ed] reading as follows in the original Afrikaans text:
+  "Getuienis dat 'n verweerder eerlik gedink het dat sy lasterlike woorde met 'n geoorloofde doel gebesig word, hoewel volgens objektiewe maatstaf die doel nie geoorloof is nie, sou 'n afleiding regverdig dat hy nie die opset gehad het om te beledig nie."
+23	Suid-Afrikaanse Uitsaaikorporasie v O'Malley 1977 (3) SA 394 (A) [also reported at [1977] 3 All SA 631 (A) – Ed].
+24	Ibid at 403D–407H.
+25	Op cit fn 5.
+26	 It was later upheld in Suttonmere (Pty) Ltd and another v Hills 1982 (2) SA 74 (N) [also reported at [1982] 1 All SA 52 (N) – Ed] and Minister van Veiligheid en Sekuriteit en 'n ander v Kyriacou 2000 (4) SA 337 (O).
+27	Ibid at 154H–155A.
+28	Bogoshi, op cit fn 3 at 1212G–H.
+29	Ibid at 1214B–C.
+30	Ibid at 1215I where he said: "Proof of reasonableness will usually (f not inevitably) be proof of lack of negligence."
+31	Ibid at 1214C–D.
+32	Ibid at 1214F–G.
+33 did	Op cit fn 4.
+34	Reynolds TD v Times Newspapers Ltd [1998] EWCA Civ 1172, [1998] 3 All ER 961 (CA). The judgment had been delivered less than three months before argument in Bogoshi and had not yet been reported.
+35	Reynolds v Times Newspapers Ltd and others [1999] UKHL 45, [2001] 2 AC 127, [1999] 4 All ER 609 (HL).
+36	Ibid at 205 (Appeal Cases) and 626 (All ER).
+37	Per Lord Nicholls in Bonnick v Morris [2002] UKPC 31, [2003] 1 AC 300 at para [23].
+38 the leading speech on behalf of a narrow majority in the House of Lords was delivered by Lord Hoffmann. He pointed out that the 	Jameel and others v Wall Street Journal Europe Sprl [2006] UKHL 44, [2007] 1 AC 359.
+39	 In agreement with the Court of Appeal in Loutchansky v Times Newspapers [2002] QB 783 (CA) at 806.
+40	Basner v Trigger 1946 AD 83 at 94; Jordaan v Van Biljon, op cit fn 19 at 295E–296F.
+41	Flood v Times Newspapers Ltd [2012] UKSC 11, [2012] 2 AC 273 at para [42], per Lord Phillips of Worth Matravers P.
+42	Ibid at para [44].
+43	Serafin v Malkiewicz and others [2020] UKSC 23 at paras [67]–[78].
+44	Lange v Australian Broadcasting Corporation ("Political Free Speech case") [1997] HCA 25, (1997) 145 ALR 96 at 115; see also McCloy and others v State of New South Wales and others [2015] HCA 34 at para [2].
+45 to include publications concerning Members of Parliament, or those seeking election to Parliament, if the allegations concerned their fitness for office, but not importing the Australian requirement of reasonable publication. In a subsequent decision the court declined to follow the House of Lords by adopting the 	Lange v Atkinson [1998] 3 NZLR 424 (CA).
+46	Lange v Atkinson [2000] 3 NZLR 385 (CA).
+47	Durie v Gardiner [2018] NZCA 278, [2018] 3 NZLR 131 at para [56](c). The court was influenced by the adoption in Canada in Grant v Torstar Corp 2009 SCC 61, [2009] 3 SCR 640 of a new defence of responsible communication on a matter of public interest, separate from that of qualified privilege.
+48 the Constitutional Court said:	Mighty Solutions CC t/a Orlando Service Station v Engen Petroleum Ltd and another [2015] ZACC 34, 2016 (1) SA 621 (CC) [also reported at [2016] JOL 35107 (CC), 2016 (1) BCLR 28 (CC) – Ed] ("Mighty Solutions") at para [38].
+49	MEC for Health and Social Development, Gauteng v DZ obo WZ [2017] ZACC 37, 2018 (1) SA 335 (CC) [also reported at 2017 (12) BCLR 1528 (CC) – Ed] ("DZ obo MZ").
+50	Ibid at para [27].
+51	Ibid at para [28], the previous points being made with reference to K v Minister of Safety and Security [2005] ZACC 8, 2005 (6) SA 419 (CC) [also reported at 2005 (9) BCLR 835 (CC) – Ed] at para [16].
+52	Ibid at para [31]; Mighty Solutions, op cit fn 46 at para [38].
+53	DZ obo WZ, op cit fn 47 at para [32]. S 173 of the Constitution states that:
+  "The Constitutional Court, the Supreme Court of Appeal and the High Court of South Africa each has the inherent power to regulate their own process, and to develop the common law, taking into account the interests of justice" (see eg Mokone v Tassos Properties CC and another [2017] ZACC 25, 2017 (5) SA 456 (CC) [also reported at 2017 (10) BCLR 1261 (CC) – Ed] at para [41].
+54	 The affidavit said "defamatory" in para [58] but that was plainly incorrect.
+55	Mthembi-Manyele v Mail and Guardian Ltd and another [2004] ZASCA 67, 2004 (6) SA 329 (SCA) [also reported at [2004] JOL 12852 (SCA), [2004] 3 All SA 511 (SCA), 2004 (11) BCLR 1182 (SCA) – Ed] at para [47].
+56	Gqubule-Mbeki, op cit fn 7 at paras [71]–[5].
+57	Midi Television (Pty) Ltd v Director of Public Prosecutions (Western Cape) [2007] ZASCA 56, 2007 (5) SA 540 (SCA) [also reported at [2007] JOL 19897 (SCA) – Ed].
+58	Hix Networking Technologies v System Publishers (Pty) Ltd and another 1997 (1) SA 391 (A) at 401D–G [also reported at [1997] JOL 519 (A) – Ed].
+59	Heilbron v Blignault 1931 WLD 167 at 169; Buthelezi v Poorter and others 1974 (4) SA 831 (W) at 838A–B.
+60	Herbal Zone (Pty) Ltd and others v Infitech Technologies (Pty) Ltd and others [2017] ZASCA 8, [2017] 2 All SA 347 (SCA) [also reported at [2017] JOL 37533 (SCA) – Ed] at para [37].
+61	Tau v Mashaba and others [2020] ZASCA 26, 2020 (5) SA 135 (SCA).
+62	Le Roux v Dey (above fn 2) at para [199].
+63	Ibid at para [151].
+64	Caxton Ltd and others v Reeva Forman (Pty) Ltd and another 1990 (3) SA 547 (A) at 567G–576B [also reported at [1990] 2 All SA 300 (A) – Ed].
+65	 As to the nature of an unliquidated claim for damages see Kleynhans v Van der Westhuizen NO 1970 (2) SA 742 (A) at 750G–751A. It is one where the quantum of the damages is not determined or determinable.
+66	Room Hire Co (Pty) Ltd v Jeppe Street Mansions (Pty) Ltd 1949 (3) SA 1155 (T) at 1161, where Murray AJP said:
+  "There are on the other hand certain classes of case (the instances given by DOWLING, J., are matrimonial causes and illiquid claims for damages) in which motion proceedings are not permissible at all."
+  See also Cadac (Pty) Ltd v Weber-Stephen Products Company and others [2010] ZASCA 105, 2011 (3) SA 570 (SCA) [also reported at [2010] JOL 26135 (SCA), [2011] 1 All SA 343 (SCA) – Ed] ("Cadac").
+67	 Rules regulating the conduct of the proceedings of the several provincial and local divisions of the High Court of South Africa, originally published under GN R48 in GG 999 of 12 January 1965 ("the Uniform Rules").
+68	 R 18(4), which applies to pleadings generally, provides that:
+  "Every pleading shall contain a clear and concise statement of the material facts upon which the pleader relies for his claim, defence or answer to any pleading, as the case may be, with sufficient particularity to enable the opposite to reply thereto."
+69	Cadac, op cit at para [10]; National Director of Public Prosecutions v Zuma [2009] ZASCA 1, 2009 (2) SA 277 (SCA) [also reported at [2009] JOL 22975 (SCA), [2009] 2 All SA 243 (SCA), 2009 (4) BCLR 393 (SCA) – Ed] at para [26].
+70	Grindrod (Pty) Ltd v Delport and others 1997 (1) SA 342 (W).
+71	Ibid at 346I–347A.
+72 	SA Associated Newspapers Ltd en 'n ander v Samuels 1980 (1) SA 24 (A) at 45D–G; Muller v SA Associated Newspapers Ltd and others 1972 (2) SA 589 (C) at 595A–B.
+73	Gelb v Hawkins 1960 (3) SA 687 (A) [also reported at [1960] 3 All SA 371 (A) – Ed].
+74	 Ibid at 692C–F and at 693G–H.
+75 the plaintiff testified about the effect upon him of a defamatory statement. The court heard from him about the hurt he had experienced. He testified about how, within social circles, he had been questioned concerning what had been said about him and the impact on his professional life. He testified that the defamatory statement had caused his colleagues to approach him with a measure of suspicion. These aspects all featured in the determination of the amount of damages awarded by the trial court.	De Flamingh v Pakendorf en 'n ander; De Flamingh v Lake en 'n ander 1979 (3) SA 676 (T).
+76	Ibid at 685H–686F.
+77	Venter v Nel 1997 (4) SA 1014 (D) at 1016.
+78	Ibid at 1016A–B.
+79	Dorfling v Coetzee 1979 (2) SA 632 (NC) [also reported at [1979] 1 All SA 474 (NC) – Ed].
+80	Ibid at 635B–D. The original text read:
+  "Skadevergoeding kan uit hoofde van verskeie skuldoorsake geëis word en mens kan jou gevalle voorstel veral by kontrakbreuk waar die hof die skadevergoeding kan bepaal sonder enige verwysing na getuienis oor die skuldoorsaak. Aan die ander kant waar die skuldoorsaak op delik gebasser word, kan die skadevergoeding in die meeste gevalle slegs bepaal word nadat getuienis oor die skuldoorsaak ook gelei is, bv aanraanding, laster, ens."
+81	New Zealand Insurance Co Ltd v Du Toit 1965 (4) SA 136 (T) [also reported at [1965] 4 All SA 138 (T) – Ed].
+82	Ibid at 137B–D.
+83	Gqubele-Mbeki, op cit fn 7. A similar procedure was followed in Hanekom v Zuma [2019] ZAKZDHC 16 [also reported at [2019] JOL 45645 (KZD), [2019] 4 All SA 425 (KZD) – Ed], but the judge did not determine the damages and referred that issue for oral evidence, although without specifying the procedure to be followed in that regard. This part of the order was not the subject of the application for leave to appeal dismissed by both this Court and the Constitutional Court. When the boot was on the other foot and Mr Malema alleged that he had been defamed he adopted precisely the same strategy, but it received a frosty reception from the judge who said:
+  "As far as I have been able to ascertain, bringing a defamation claim by way of application for a final interdict and damages is a new phenomenon in our law (as opposed to an interim interdict pending an action for damages). In my view, it is inappropriate and undesirable. The reason I say this is the following: the person making the defamatory statement may have a very good reason for doing so, but may not have the hard evidence to hand, which evidence may be in the possession of the person who claims to have been defamed and/or third parties; in an action a defendant will have the benefit of the pleadings in which the issues are narrowly defined, of the discovery process, of requesting particulars for trial, of a pre-trial conference and the subpoenaing of witnesses and documents duces tecum; he/she will be entitled to cross-examine the plaintiff and the witnesses called on behalf of the plaintiff in order to test their version and to give evidence and call his/her own witnesses; evidence of an expert nature might be necessary. An application deprives a respondent of all these extremely valuable and necessary litigation tools."
+  The case is Malema v Rawula [2019] ZAECPEHC 83 at para [33] and it is set down for hearing in this Court in the next term.
+84	Mighty Solutions, op cit fn 46.
+85	DZ obo WZ, op cit fn 47.
+86	MEC for Health, Eastern Cape and another v Kirland Investments (Pty) Ltd t/a Eye and Lazer Institute [2014] ZACC 6, 2014 (3) SA 481 (CC) [also reported at 2014 (5) BCLR 547 (CC) – Ed].
+87 where an interdict was granted urgently in relation to an egregious piece of character assassination. Notably, however, the question of damages was dealt with separately.	Buthelezi v Poorter 1974 (4) SA 831 (W).
+88	Buthelezi v Poorter 1975 (4) SA 608 (W) [also reported at [1975] 4 All SA 518 (W) – Ed].
+89	Room Hire Co (Pty) Ltd v Jeppe Street Mansions (Pty) Ltd 1949 (3) SA 1153 (T) at 1162 and Adbro Investment Co Ltd v Minister of the Interior 1956 (3) SA 345 (A) at 350A–B [also reported at [1956] 3 All SA 294 (A) – Ed].
+90	Dikoko v Mokhatla [2006] ZACC 10, 2006 (6) SA 235 (CC) [also reported at [2006] JOL 18035 (CC) – Ed] at para [97].
+91	 See ibid at para [88]. That is what the plaintiff did in De Flamingh v Pakendorf, op cit fn 5.
+92	Van der Berg v Coopers and Lybrand Trust (Pty) Ltd and others 2001 (2) SA 242 (SCA) [also reported at [2001] JOL 7741 (A), [2001] 1 All SA 425 (A) – Ed] at para [48].
+93	Tsedu and others v Lekota and another [2009] ZASCA 11, 2009 (4) SA 372 (SCA) [also reported at [2009] JOL 23301 (SCA), [2009] 3 All SA 46 (SCA) – Ed] at para [25].
+94	Van der Berg v Coopers and Lybrand Trust, op cit fn 90.
+95	Van der Berg, op cit fn 99 at para [48].
+96 	Tsedu, op cit fn 98 at para [18]
+97	Media 24 Ltd t/a Daily Sun and another v Du Plessis [2017] ZASCA 33; Manyi v Dhlamini [2018] ZAGPPHC 563; Mthimunye v RCP Media and another [2007] ZAGPPHC 372, 2012 (1) SA 199 (T) [also reported at [2012] JOL 28254 (T) – Ed].
+98	Bytes Technology Group and others v Michael [2014] ZAGPPHC 926.
+99	Branko v Moffat and another [2014] ZAGPJHC 304.
+100	McBride, op cit fn 6 at para [131].
+101	Le Roux v Dey, op cit fn 2 at paras [199], [202]–[3].
+102	Le Roux v Dey, op cit fn 2 at para [197].
+103	McBride, op cit fn 6 at para [134].
+104	Ibid.
+105	Le Roux v Dey, op cit fn 2 at para [196].
+106	Fripp v Gibbon & Co 1913 AD 354.
+
+Appearance:
+Adv T Ngcukaitobi SC, Adv K Premhid, Ian Levitt Attorneys (Sandton), Lovius Block Incorporated (Bloemfontein) (At); Adv C Steinberg SC, Adv M Mbikiwa, Webber Wentzel (Johannesburg), Symington and De Kok (Bloemfontein) (R); Adv S Budlender SC, Power Singh Incorporated (Johannesburg), Honey Attorneys (Bloemfontein) (amicus curiae)
+
+
+End of Document

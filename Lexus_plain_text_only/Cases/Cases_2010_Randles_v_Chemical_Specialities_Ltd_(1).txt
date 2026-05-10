@@ -1,0 +1,434 @@
+
+
+
+
+Randles v Chemical Specialities Ltd [2010] JOL 25167 (LC)
+Judgments Online
+
+Division: Durban
+Case No: D 42 / 10
+Hearing Date(s): 29 / 01 / 2010
+Judgment Date(s): 05 / 02 / 2010
+Bench: Cele J
+
+
+Keywords
+
+
+Labour law — Interdict — Protected disclosure — Occupational detriment
+
+Mini Summary
+
+
+The applicant sought to interdict the respondent from proceeding with disciplinary action against him pending adjudication of the underlying dispute. The basis of the application was that the applicant had made a protected disclosure and was being subjected to an occupational detriment as a result.
+
+Opposing the application, the respondent contended that the applicant had not satisfied the requirements for the relief sought under the Act, and that the applicant was not entitled to rely on the Act.
+
+Held that an examination of the history of the dispute and the evidence led to the irresistible inference that the applicant was being subjected to an occupational detriment as a result of having made a protected disclosure. The court found that the applicant had established a prima facie right to the relief sought. The interdict was accordingly granted.
+
+ 
+[2010] JOL 25167 (LC) at 1
+
+CELE J
+
+Introduction
+
+[1]    This is an application brought on urgent basis in terms of section 158(1)(a) of the Labour Relations Act 66 of 1995 ("the Act") for an order in the following terms:
+
+that the respondent is interdicted from proceeding with any disciplinary action or enquiry against the applicant on the charges as set out in its charge-sheet against the  
+[2010] JOL 25167 (LC) at 2
+dispute referred to the Commission for Conciliation, Mediation & Arbitration, and if the conciliation does not resolve the dispute, pending the adjudication of that dispute by the Labour Court;
+
+directing that the respondent pays the costs of this application.
+
+[2]    The application is essentially premised on the submission that the applicant made a disclosure in terms of the Protected Disclosures Act 26 of 2000 and is being subjected to an occupational detriment on account or partly on account of having made such a protected disclosure.
+
+[3]    The application has been opposed by the respondent basically on two grounds, namely, that:
+
+the applicant has not satisfied the several legal requirements (facta probanda) for the relief under the Protected Disclosures Act ("the PDA"); and
+
+the respondent disputes the applicant's entitlement to rely on the PDA.
+
+[4]    Initially the applicant had sought a declaratory order on the basis of the PDA but abandoned it during the hearing of the application, making any further reference to it then unnecessary.
+
+ 
+[2010] JOL 25167 (LC) at 3
+
+[5]    Most of the facts in this application are common cause between the parties and, to the extent that they are germane in the resolution of the issues in the application, shall thereafter be briefly outlined.
+
+Background facts
+
+[6]    The applicant commenced his employment with the respondent on 1 April 2006 in the position of Group Legal Counsel, in terms of a written contract of employment, the drawing of which he was a party to. He had been an attorney for years, practising law at Shepstone & Wylie before he joined the respondent. Soon after his engagement he accepted the appointment as one of the respondent's directors. As a director he had among others, the responsibilities for:
+
+ensuring that the respondent, here after referred to as "the company", keeps adequate accounting records;
+
+the selection and application of appropriate accounting policies;
+
+safeguarding of assets and for preparing financial statements that fairly present the financial position, results of operations and cash flows of the company in accordance with International Financial Reporting Standards;
+
+the establishment and maintenance of an internal control structure, necessary to provide reasonable assurance  
+[2010] JOL 25167 (LC) at 4
+that adopted policies and prescribed procedures are adhered to, for the prevention of errors and irregularities, including fraud and illegal acts;
+
+ensuring that the company complies with all relevant statutory and regulatory requirements, including but not limited to the requirements of the Prevention of Organised Crime Act, the Financial Intelligence Centre Act and the Corruption Practices Act;
+
+for checking all legal agreements concluded with the company prior to signature. He was the custodian of such legal agreements.
+
+[7]    On 6 November 2007 the company was listed with the Johannesburg Stock Exchange ("the JSE") and so underwent a transformation from being a private ownership to public ownership. It was no longer a shareholder run company but its directors became custodians of the shareholders' investment.
+
+[8]    When the applicant joined the company, its Finance Director was a Mr Jonathan Maehler. Towards the end of 2008, Mr Maehler tendered his resignation letter to the company. While such resignation was still pending, he issued a letter dated 21 November 2008 entitled "Matters for the attention of the Board". In that letter (which he directed to Mr Strath Wood), he outlined six matters of concern to him and briefly explained their nature, being: 
+[2010] JOL 25167 (LC) at 5
+BASF debtor: over R7 million remaining in the company books unpaid,
+
+Conspec debtor: over R1 million remained unpaid,
+
+Bank facilities and securities: a double cession of book debts by Nedbank and RMB,
+
+Sale of the Canelands Property: a claim of Mr Dough Ross in relation to the purchase of this property,
+
+Director's loan: there was an amount owed to the company by Mr Strath Wood.
+
+Transactions that have been questioned by staff: these relate to Crossmore Transport and property rentals,
+
+Corporate governance: relate to lack of disclosure at board of directors' level and levels of authority.
+
+[9]    The letter concludes with the following remarks:
+
+"I have not gone into great details in dealing with the matters above and there is further background but this will hopefully be more fully discussed at a directors meeting. In addition, there may well be further information that other members of the board have or may want to discuss with you or other matters that should be raised for discussion. I strongly believe that you have a good board that wish to be fully involved and appraised and who will welcome the opportunity to assist in moving forward.
+
+These matters are not critical to the success of Chemspec but they are of serious nature and also need to be resolved by the board of directors. Leaving them unresolved for long periods of time has also made matters more difficult.
+
+ 
+[2010] JOL 25167 (LC) at 6
+
+I sincerely hope that this can be successfully resolved along with other matters which will undoubtedly arise from time to time as Chemspec has such great potential into the future."
+
+[10]    For sometime Mr Wood operated a loan account with the company. Company rules allowed its directors to operate such loan accounts. Mr Wood subsequently purchased a helicopter which was financed through Wesbank. He had a son who was a cadet training so as to qualify for his licence.
+
+[11]    On 1 November 2008 the company took occupation of showroom Los-Villa Commercial Park at Crf 2582, Garlicks Drive, Ballito Business Park for purposes of distributing its paint. The occupation was in terms of an agreement of lease entered into between the company, represented by the applicant, and another company called Dreamworld Investments 228 (Pty) Ltd. In terms of the lease agreement, the commencement date was 1 December 2008 and termination of the lease was agreed to be 30 November 2013. The applicant was also representing the company in an addendum to the same agreement of lease which addendum is dated 2 April 2009.
+
+[12]    Sometime around early 2009 two e-mails were anonymously sent to a Mr Neil Page who was a major shareholder of the  
+[2010] JOL 25167 (LC) at 7
+company. Various issues were outlined in such e-mails as complaints about the running of the company and about the personal travelling of and the purchase of the helicopter by Mr Wood. Mr Wood's response to the anonymous e-mails was drafted by the applicant and was forwarded to Mr Page who thanked Mr Wood for a detailed response and for doing an "excellent job".
+
+[13]    Sometime in the first half of 2009 relations between the applicant and Mr Wood took a turn for the worst. The dispute between them was about a share entitlement of the applicant in the company. In May 2009 the applicant sent an e-mail to Mr Wood informing him of his intention to resign on the same day as a director of the company due to the dispute on share entitlement. He did subsequently resign but retained his position as an employee of the company. In his undated letter of resignation as a director received on 18 May 2009 he indicated that it would be inappropriate to resign without giving the board reasons for that decision. The first of these relates to the share dispute. From paragraph 16 to the end, his reasons are:
+
+The questions raised by the FD, Jonathan Maehler when he resigned, have not been adequately explained to the board. It was resolved that Strath would write a letter to the board to explain those matters in January. He has not done so.
+Those matters concern me as well and I now make the point that the board needs explanations. The Derby Downs lease,  
+[2010] JOL 25167 (LC) at 8
+the transport contract as between Chemspec, Circle Feet, and Crossmoor, the double cession of debtors, and loan accounts have never been dealt with at board level.
+The FD raised the question of corporate governance, and the lack of disclosure. I share those sentiments. I have not been able to call board meetings and was soundly put my place last year when I called a meeting having been told that Strath was CEO and he would decide when we met. We last met in January 2009.
+The actions of the CEO are by and large secretive and not inclusive agreements are signed before resolutions are passed and the company and the board are thereby prejudiced. Information comes on a need to know basis.
+The CEO has not attended the induction course which is a compulsory JSE requirement.
+The management of the company creditors in the past 5 months in my opinion has exposed us to risk. My advice was ignored as it often is.
+The company (and the CEO) is dragged into litigation that causes significant embarrassment.
+The interference in the Cameron Davidson affair very nearly caused my resignation earlier this year. He was charged with a number of counts of theft and I was engaged to deal with the matter. I was very satisfied that we had a very strong case against him, and suspended him. He was behind my back reinstated by the CEO. He undermined my authority.
+Davidson was then told on three occasions not to attend the enquiry that was adjourned despite being properly adjourned. I was never informed of the adjournments. We met earlier this year and despite my protestations and an e-mail to the CEO that we proceed Davidson was moved to the Pinetown Branch. I reacted to this  
+[2010] JOL 25167 (LC) at 9
+information when I saw him there one day recently and he then resigned. I believe he is the son of the CEOs closest friend.
+In general the following cause grave concern. I make these observations here because after this resignation I am not sure that my views will be considered:
+
+Delaying board meetings;
+
+Irregular contact with directors and executives;
+
+Chairman, CEO and MD one and the same;
+
+Autocratic approach to managing the business;
+
+Poor transparency;
+
+High staff turnover;
+
+Poor morale;
+
+Customer complaints;
+
+Cash flow crisis;
+
+Loss of customers.
+
+This is not a resignation from my employment."
+
+[14]    On 2 July 2009 the applicant instituted a civil claim at the High Court against Mr Wood for his share entitlement.
+
+[15]    On 4 August 2009 the applicant issued a 10-page document entitled "to whom it may concern" and he sent it to the board of the company. The document deals with various issues of his concern and reads:
+
+This is a report (and a Protected Disclosure) to the Audit Committee and the Board on activities in the affairs of  
+[2010] JOL 25167 (LC) at 10
+Chemical Specialities (CS) that in my opinion contravene the law, or the Code of Ethics (copy attached), or King II or the standards of good corporate governance that CS supports to adhere to its annual reports.
+This report would ordinarily have been referred to the chairman only, if he was independent, but given that we have a chairman, CEO and MD (bad corporate governance in itself) as one and the same person, I am directing this disclosure to the entire board since I am of the view, and have been advised, that I am legally obliged in the circumstances to do so.
+
+. . .
+
+After my resignation in mid May, and in mid June 09, having made enquiries about the delay in the presentation of the financial statements I was informed that one of the reasons for the delay had been the 'adjustment' needed to be made to the loan account of Strath Wood, the CEO.
+I made further enquiries and gathered he had a debit loan account of 'many hundreds of thousands of rands' mostly for his family overseas travel incurred early in the financial year. I queried this with Jonathan (now employed as a consultant) who told me he was busy with the adjustments and took the view that there was nothing irregular about the accounts.
+A few days later I was informed that the loan account had been 'adjusted' and was now a nil balance account. I enquired and was informed that Strath had recently paid Tony (Bugatti Trading) personally about R500 000 or R600 000 for work done and he needed to be repaid. This was journalized against the loan account and ultimately when all adjustments had been applied there was still a debit balance of R49 000 odd owing to the company. 
+[2010] JOL 25167 (LC) at 11
+
+. . .
+
+My first concern is that section 226 of the Companies Act has been breached.
+The auditors raised the issue of debit loan accounts in the report to the audit committee for their meeting on 23rd June 2009. According to their report the resolution of this matter is recorded as follows: 
+
+'This was resolved. The loan was not a debit loan. Strath Wood had made payments personally to Bugatti Trading which had not been accounted for'.
+
+There is no mention of the salary and the other movements of the account. The minutes reveal no discussion on the subject whatsoever. There is no note in the signed financial statements about this either (section 295 of the Companies Act refers).
+
+Shareholders are accordingly oblivious to the use of the loan account to fund private expenditure and the breach of Companies Act. I am the shareholder by virtue of my contract with Strath for shares not yet transferred despite demand (we are in dispute over the quantum). As a shareholder, past director and employee I am deeply concerned about the above. I spoke to Jonathan about this when it came to my attention in June 2009 and his response was that there was nothing to worry about because there was no loan account. Then he said the account now has a nil balance. When I said the Act has been breached his attitude was 'well there is no prejudice', so what was I worrying about. I got a similar response from within the office. There appears to be no appreciation for the law and the breach of it. I gather that this might have happened last year financial year as well.
+The extra salary is also intriguing. We have a remuneration committee (it consists of the audit committee in reverse –  
+[2010] JOL 25167 (LC) at 12
+that is the non execs) who are empowered to make recommendations about executive remuneration to the board for approval (their charter is attached). This did not happen here and a decision was made about this 'increase' or bonus to the CEO without authority and simply to expunge the debit loan account.
+Commissions earned by the CEO have nearly doubled to R900 000+ in the 2009 year (R468 000 in 2008 to R956 000). I do not recall any agreement on this remuneration during my term as a Director. In fact I was informed by the CEO that for this year executives would receive no increase whatsoever and no bonuses. If you review my earnings in the financial statements you will see no increase for me at all. There is no remuneration committee recommendation on this matter either. The accounts do however reveal a bonus paid to me. This is factually incorrect since it is a 13th cheque guaranteed by my employment contract."
+
+[16]    He then dealt extensively with his concerns about poor corporate governance of the company. The board responded by undertaking to investigate the complaints.
+
+[17]    In the meantime Mr Wood gave instructions to have some investigations conducted on the applicant with particular reference to his salary structure and to the lease agreements executed by him for the company. In relation to the lease agreement it was established that the applicant had signed certain lease agreements without first obtaining a resolution of  
+[2010] JOL 25167 (LC) at 13
+the company authorising him to do so. This was a practice that had been carried out by the company but a directive had been issued earlier to desist the practice. On 21 August 2009 the company instructed the applicant to take three days special leave to allow investigations against him to proceed without his hindrance.
+
+[18]    Investigations into applicant's salary covered the period 1 April 2006 to 31 July 2009. Auditors BDO Spencer Steward (KZN) Incorporated were tasked to carry out the investigations. Once their investigations were finalised they submitted their report to the company. The company investigations also included meetings held with the applicant for instance on 27 August 2009 and on 26 October 2009. The board also formulated its written report to the complaints raised by the applicant and gave him a copy. Further correspondence was exchanged between them. In an e-mail dated 3 November 2009 the applicant confessed that he had signed two lease agreements without prior board approval.
+
+[19]    Attorneys of Garlicke & Bousfield Incorporated delivered a charge-sheet dated 17 December 2009 to have the applicant charged with acts of misconduct pertaining to the lease agreements. On 23 December 2009 the applicant also queried the non-payment to him of his 13th cheque. In a subsequent query dated 26 December 2009, the applicant further indicated that he was seeking legal advice and would act in accordance  
+[2010] JOL 25167 (LC) at 14
+with it. He indicated further that he had completed his report for the JSE which included some allegations that were not appearing in his reports that go back to May 2009 which he said had not been properly addressed by the board. He undertook to supply a copy of that report to Mr Wood and to the board. Mr Wood took the position that he was being pressured to pay the applicant the 13th cheque at a time when the company was not satisfied about the explanation given by the applicant on his salary. The company was taking a position that the applicant had been overpaid in excess of R1 million which overpayment had been initiated at his instance.
+
+[20]    On 4 January 2010 the applicant was handed a copy of the charge-sheet, with two charges and he was simultaneously suspended pending the disciplinary hearing. On the same day the applicant sent a report containing his complaint to the JSE. On being suspended, the applicant was made to disclose his computer password. The company instructed KPMG Services (Pty) Ltd to conduct an investigation into the contents of the applicant's computer's hard drive. A forensic computer investigator and forensic technology report dated 19 January 2010 was given to the company by KPMG that pornographic material was found in the hard drive of applicant's computer. On 20 January 2010 the applicant was served with an amended charge-sheet. It included a third charge being of fraud in relation to his salary and the fourth charge in relation to the abuse of computer facility of the company. Parties exchanged  
+[2010] JOL 25167 (LC) at 15
+e-mail correspondence which included a request by the applicant for a pre-dismissal arbitration, a refusal thereof by the company and a request by applicant for further particulars.
+
+[21]    The disciplinary enquiry of the applicant was scheduled for 20 January 2010. Before that date the applicant had unsuccessfully applied for the postponement of the hearing. On 21 January 2010 attorneys instructed by the applicant threatened to interdict the disciplinary proceedings. On the next day his attorneys initiated the present application.
+
+[22]    On 22 January 2010 the applicant attended the disciplinary hearing. He applied for the hearing to be adjourned to secure legal representation but the application was declined. He then took part in the hearing. It was on the same day that this application was before this Court. Parties agreed to have the urgent application adjourned till 29 January 2010 so that, in the meantime opposing papers and a replying affidavit might be filed.
+
+ 
+[2010] JOL 25167 (LC) at 16
+
+Submission by the parties
+
+Applicant's submission
+
+[23]    The applicant originally sought relief in the form of a rule nisi as per paragraph 2 of the notice of motion. As the papers in the matter are now complete it is submitted that a rule is no longer necessary and the applicant seeks only the interim relief as contained in paragraph 2.2 of the notice of motion together with an order for costs as per paragraph 2.3. The form of the relief sought is substantially the same as that granted by this Court in Grieve v Denel (Pty) Ltd [reported at [2003] 4 BLLR 366 (LC) – Ed]. The relief sought is based on the provisions of the Protected Disclosures Act 26 of 2000. As the relief is interim relief pending the final determination of this matter by way of trial, the applicant need only show a prima facie case at this stage, together with the further requirements for interim relief.
+
+[24]    The applicant contends that the disciplinary proceedings brought against him on 4 January 2010 (as supplemented by extra charges on 20 January 2010) constitute an "occupational detriment" in terms of the PDA and were instituted by way of retaliation against protected disclosures made: 
+[2010] JOL 25167 (LC) at 17
+to the respondent on 4 August 2009;
+
+to the Johannesburg Stock Exchange; and
+
+to the respondent on or around 29 December 2009.
+
+[25]    While maintaining that the report is distorted or manipulated the respondent manifestly fails to substantiate this allegation or deal with the contents of the report at all, save for the allegation relating to contraventions of the Companies Act 61 of 1973 and the manipulation of the respondent's books in respect of a debit loan account of Wood. The respondent relies in this regard on the contents of annexures "SW10" and "SW11" to the opposing affidavit which are reflected in paragraphs 5–10 of annexure "D" to the founding affidavit.
+
+[26]    Annexure "K" to the founding affidavit is the applicant's report of 4 August 2009. Annexure "D" is the respondent's response thereto received on or about 12 October 2009. Annexure "F" is the applicant's reply dated 24 November 2009. A perusal of the relevant portions of these annexures reveals that no explanation is given by the respondent as to why:
+
+Wood incurred personal expenditure on the respondent's account without authorisation from the Board, thereby creating the debit loan account in the first place; 
+[2010] JOL 25167 (LC) at 18
+this amount remained on the books until set-off against payments allegedly made to Bugatti Trading;
+
+The nature of the transactions and the reasons why the amounts paid to Bugatti fail to be set off against the loan account (it is evident from further documents on record that Wood had personal dealings with and personal liabilities to the owner of Bugatti Trading); and 
+[2010] JOL 25167 (LC) at 19
+The debit balance was arbitrarily allocated to Wood's salary without authorisation from the remuneration committee.
+
+[27]    In the circumstances, the applicant's grave concerns as set out in annexure "F" remain wholly valid.
+
+[28]    Between the service of the "charges" on him and 20 January 2010 the applicant advised the respondent of his intention on a number of occasions and took a number of steps to pursue his rights in the disciplinary enquiry. These are listed in the chronology which is attached to these heads of argument.
+
+[29]    In any event, the applicant's bona fides are apparent from the following:
+
+his repeated attempts to bring the discrepancies to the respondent's attention and the ample opportunity given to the respondent to deal with the issues (one of the requirements of section 9 of the PDA);
+
+the fact that he was specifically employed to monitor the respondent's ethics and corporate governance compliance and his maturity, training and experience in this regard (relevant factors in assessing the applicant's good faith and the fact that he quite correctly, and wherever relevant, made full disclosure in his reports of the breakdown of his relationship with  
+[2010] JOL 25167 (LC) at 20
+Wood, the litigation between them and the investigations brought against him by the respondent. This is precisely the standard of conduct one would expect from an experienced attorney.
+
+[30]    Being subjected to "any disciplinary action" fulfils the definition of an occupational detriment as contained in Section 1 of the PDA.   The respondent, however, seeks to persuade the Court that their conduct cannot constitute an occupational detriment because the charges brought against the applicant are not directly related to the disclosures made. The contention is unsound, few employers would be foolish enough to bring directly related charges against a whistle-blower.
+
+[31  It is submitted that it is apparent from the above that the respondent's actions were clearly retaliatory measures to the disclosures made by the applicant. It is accordingly submitted that the applicant's disclosures are protected and the charges against the applicant are an occupational detriment in terms of the PDA.
+
+[32]    The applicant has made out a prima facie case (even if open to some doubt) and seeks interim relief interdicting a disciplinary enquiry pending the resolution of the dispute at trial.  In such circumstances the irreparable harm that the applicant will suffer, the absence of an alternative remedy and the balance of convenience in his favour are inherent.
+
+ 
+[2010] JOL 25167 (LC) at 21
+
+Respondents' Submission
+
+[33]    The respondent:
+
+disputes that the applicant has satisfied the several legal requirements (facta probanda) for relief under the PDA;
+
+disputes the applicant's entitlement to rely on the PDA at all.
+
+[34]    The former dispute requires an extensive examination of the facts. The latter is mainly an issue of law, the relevant facts not being in dispute. It will accordingly be dealt with first.
+
+[35]    Whether one categorises the issue as one of election or one of estoppel, the outcome is the same. When the applicant was called to attend a disciplinary enquiry and to answer the charges (as amplified from the original 2 charges with their alternatives), he had two choices, namely:
+
+he could seek relief under the PDA; or
+
+he could proceed with the disciplinary enquiry.
+
+[36]    But he could not do both, as they are incompatible with each other. Indeed, the relief contemplated by the PDA is designed to stop or prevent a disciplinary enquiry. Between the service of  
+[2010] JOL 25167 (LC) at 22
+the "charges" on him and 20 January 2010 the applicant advised the respondent of his intention on a number of occasions and took a number of steps to pursue his rights in the disciplinary enquiry. These are listed in the chronology which is attached to these heads of argument. Pursuant to the applicant's representation that he was taking steps to participate in the disciplinary enquiry, the respondent prepared for it, continued to prepare for it, and incurred costs in doing so.
+
+[37]    It was only when the application for a postponement was refused that the applicant sought to rely on the other remedy, namely, proceedings under the PDA. His conduct when he received the charge is incompatible with what a reasonable person would have done when confronted with charges when he/she had made protected disclosures, particularly where that person was the legal officer of the company and also in charge of Human Resources.
+
+[38]    It is submitted that his conduct amounts to a clear election and that the remedies under the PDA are therefore no longer available to him. The applicant is therefore not entitled to the declaratory order sought by him and has failed to establish the first requirement for an interdict (a clear right). On this basis it is submitted that the application falls to be dismissed with costs, including the costs of two counsel.
+
+ 
+[2010] JOL 25167 (LC) at 23
+
+[39]    If the applicant were to rely on section 6 of the PDA (disclosure to his employer), he would have to establish on a balance of probability the following (facta probanda). The facta probanda for a cause of action based on that section are the following:
+
+a disclosure;
+made in good faith;
+by the employee;
+in accordance with the employer's prescribed or authorised procedure
+to the employer of the employee
+
+[40]    It is submitted that on the facts the applicant has failed to establish each of the facta probanda as indicated 
+
+that he made a disclosure to his employer (in relation to both the August and December events);
+that he was bona fide – it is submitted that he was actuated by malice against Mr Wood;
+that he has been subjected to the disciplinary proceedings ‘... on account of' his having made a protected disclosure.
+
+[41]    The August "disclosure" was a regurgitation of a prior disclosure made by another employee. It is therefore not a 
+[2010] JOL 25167 (LC) at 24
+disclosure made to the employer by the employee. The "disclosure" made to the JSE is not a disclosure to the employer. One has to determine from the facts alleged by the applicant whether he intended to make a disclosure to his employer – the Board of Directors of the respondent – as well as whether his actions actually constituted making a disclosure to the Board of Directors.
+
+[42]    If the applicant had intended to make a disclosure to the Board of Directors, one would have expected him to deliver the JSE report to the respondent's office. But he left it at the MD's house when the MD wasn't there, and did so after the two of them had exchanged communications with regard to his 13th cheque. His email of 26 December 2009 makes his attitude clear. He uses the threat of a report to the JSE as leverage to extract a payment. He gave a clear indication that he did not intend to report to the Board.
+
+[43]    The applicant's mala fides is apparent from the timeline. Until the dispute arose between him and Mr Wood about his entitlement to shares, he made no disclosures. It is submitted that the probabilities point to mala fides on his part, and that he has been using the "protected disclosures" regime as a tool in an effort to extract the disputed shares and the 13th cheque from Mr Wood (and now, to avoid facing a disciplinary enquiry). The applicant made, or purported, to make disclosures only when he found himself in a corner. This happened on three  
+[2010] JOL 25167 (LC) at 25
+occasions. Further, he pursued the disciplinary enquiry route with some vigour, until he was stymied by a refusal of a postponement.
+
+[44]    The timeline suggests strongly that the disciplinary proceedings were not instituted "on account of" the disclosures the applicant made (if they were indeed protected disclosures).He must show that there was a demonstrable nexus between his making the disclosure and the disciplinary action. The applicant has failed in the founding papers to establish these requirements by evidence. To the contrary, such evidence as there is shows quite strongly that he is using the protected disclosures regime in an endeavour to extract some personal gain. It is submitted that the application should be dismissed with costs, including the costs of two counsel.
+
+Evaluation
+
+[45]    The relief sought by the applicant is based on the provisions of the PDA. It is an interim relief pending the final determination of the issues in this matter by way of a trial. The applicant needs only to show:
+
+a prima facie right even if it is open to some doubt;
+Irreparable harm or a reasonable apprehension thereof, should the interdict not be granted; and 
+[2010] JOL 25167 (LC) at 26
+(iii) the absence of an adequate alternative remedy. See Young v Coega Development Corporation (Pty) Ltd 2009 (6) SA 118 at para 16.
+
+[46]    For the applicant to show that he has a prima facie right to the relief he seeks, he has to show that he is entitled to be protected under the terms of the PDA and he has satisfied the legal requirements for the relief he seeks.
+
+[47]    The respondent opposed the application, as already pointed out on the basis that the applicant has not met any of the two requirements.
+
+Entitlement to Protection
+
+[48]    The submission by the respondent is that the applicant had to choose between seeking a relief under the PDA or to proceed with the disciplinary enquiry, but that he could not do both. By attending the disciplinary enquiry and taking part therein, without placing any reliance on the provisions of the PDA, the applicant is said to have made his election and that he should be held to it. This submission is based on the view that the applicant could waive the protection provided by the PDA. If the applicant can not waive the protection accorded by the PDA he may not be held to the election he made.
+
+ 
+[2010] JOL 25167 (LC) at 27
+
+[49]   Where a statutory provision has been enacted for the special benefit of an individual or body, it may be waived by that individual or body, provided that no public interests are involved. It matters not whether that statutory provision is couched in peremptory form. See SACO-OP Citrus Exchange v Director-General Trade & Industry 1997 (3) SA 236 at 243 
+
+The preamble to the PDA provides, inter alia:
+
+"Recognizing that –
+
+. . .
+. . .
+criminal and other irregular conduct in organs of state and private bodies are detrimental to good, effective, accountable and transparent governance in organs of state and open and good corporate governance in private bodies and can endanger the economic stability of the Republic and have the potential to cause social damage;
+
+and bearing in mind that: -
+
+every employer and employee has a responsibility to disclose criminal and any other irregular conduct in the workplace;
+every employer has a responsibility to take all necessary steps to ensure that employees who disclose such information are protected from any reprisals as a result of such disclosure; 
+[2010] JOL 25167 (LC) at 28
+and in order to- 
+create a culture which will facilitate the disclosure of information by employees relating to criminal and other irregular conduct in the workplace in a responsible manner by providing comprehensive statutory guidelines for the disclosure of such information and protection against any reprisals as a result of such disclosures".
+
+[50]    It must follow from the cited parts of the preamble that the PDA involves public interests. That being the conclusion, the applicant could not therefore lawfully waive the applicability of the PDA by electing to participate in the disciplinary hearing. That ground of the respondent based on election or estoppel must therefore fail.
+
+The Legal Requirements of PDA
+
+[51]    The representations made by the applicant were submitted by him to the board of the company and later to the JSE. The board is the executing authority of the company and therefore submissions made to it were made to the employer as referred to in section 6 of the PDA. Section 8 of the PDA deals with protected disclosure made to certain persons or bodies. The JSE is however not one of the bodies as are envisaged in  
+[2010] JOL 25167 (LC) at 29
+section 8. That leaves a submission made to the JSE to possibly fall within the ambit of section 9. Sections 6 and 9 read:
+
+Protected disclosure to employer
+Any disclosure made in good faith–
+and substantially in accordance with any procedure prescribed, or authorised by the employee's employer for reporting or otherwise remedying the impropriety concerned; or
+the employer of the employee, where there is no procedure as contemplated in paragraph (a),
+
+is a protected disclosure.
+
+. . .
+
+General protected disclosure
+Any disclosure made in good faith by an employee–
+who reasonably believes that the information disclosed, and any allegation contained in it, are substantially true; and
+who does not make the disclosure for purposes of personal gain, excluding any reward payable in terms of any law;
+
+is a protected disclosure if–
+
+one or more of the conditions referred to in subsection (2) apply; and
+in all the circumstances of the case, it is reasonable to make the disclosure.
+The conditions referred to in subsection (1)(i) are–
+that at the time the employee who makes the disclosure has reason to believe that he or she will 
+[2010] JOL 25167 (LC) at 30
+  be subjected to an occupational detriment if he or she makes a disclosure to his or her employer in accordance with section 6;
+that, in a case where no person or body is prescribed for the purposes of section 8 in relation to the relevant impropriety, the employee making the disclosure has reason to believe that it is likely that evidence relating to the impropriety will be concealed or destroyed if he or she makes the disclosure to his or her employer; 
+that the employee making the disclosure has previously made a disclosure of substantially the same information to–
+
+   (i) his or her employer; or
+
+   (ii) a person or body referred to in section 8, in respect of which no action was taken within a reasonable period after the disclosure; or 
+
+that the impropriety is of an exceptionally serious nature. 
+In determining for the purposes of subsection (1) (ii) whether it is reasonable for the employee to make the disclosure, consideration must be given to–
+the identity of the person to whom the disclosure is made;
+the seriousness of the impropriety;
+whether the impropriety is continuing or is likely to occur in the future;
+whether the disclosure is made in breach of a duty of confidentiality of the employer towards any other person;
+in a case falling within subsection (2) (c), any action which the employer or the person or body to whom the 
+[2010] JOL 25167 (LC) at 31
+  disclosure was made, has taken, or might reasonably be expected to have taken, as a result of the previous disclosure;
+in a case falling within subsection (2) (c) (i), whether in making the disclosure to the employer the employee complied with any procedure which was authorised by the employer; and
+the public interest. 
+For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information referred to in subsection (2) (c) where such subsequent disclosure extends to information concerning an action taken or not taken by any person as a result of the previous disclosure. 
+
+[52]    For the applicant to succeed with a relief based on section 6 of the PDA he must prove:–
+
+a disclosure
+made in good faith
+by the employee
+in accordance with the employers prescribed or authorized procedure. 
+to the employer of the employee.
+
+[53]    The submission by the respondent is that the August "disclosure" was a regurgitation of a prior disclosure made by another employee. That, it is therefore not a disclosure made to the employer by the employee. This submission by the respondent is far from the truth. A reading of concerns raised  
+[2010] JOL 25167 (LC) at 32
+by Mr Maehler reveals that he made remarks of a general nature, raising areas of concern but giving no details in respect of each submission. Issues raised by the applicant are somewhat detailed. The loan account is but one example where he dealt not only with what he perceived to be a discrepancy, he dealt as well with the explanation proffered on how the debt was settled and why he felt the exploration was insufficient and not deserving of acceptance by the board. Mr Maehler had himself left room for submissions by other staff members, in terms of quantity and quality of the submissions.
+
+[54]    Both the August and December 2009 submissions were, in my view, disclosures made to the employer, the board, by the employee. In one of the e-mails the applicant had indicated that he would submit a report to the JSE but would furnish a copy to the company, which he subsequently did. The company was given a warning that such a submission would be made. It decided to regard it as a leverage to force it to pay him the 13th cheque.
+
+[55]    The August disclosure was made by the employee in accordance with the employer's prescribed or authorised procedure otherwise the board would not have chosen to respond to it.
+
+[56]    The applicant initiated separate legal proceedings in which he claimed an entitlement to shares. He appears to have  
+[2010] JOL 25167 (LC) at 33
+deliberately avoided one issue clouding another. He demanded a payment of the 13th cheque, failing which he said he would take legal steps, again separating issues. As already said his disclosure contains some details and are not just vague submissions which can be described as intended only to hurt another. Some of his disclosures had been touched upon by Mr Maehler, again suggesting a lack of thumb sucking exercise. The applicant appears to believe in the truth of his disclosure. The disclosure was first made to the board and when the applicant was not satisfied about the type of response given to them, he escalated the disclosure to the JSE as the respondent is a public company. His disclosure comes across as having been made in good faith. At trial he may succeed to prove it to be a protected disclosure.
+
+[57]    I conclude that the applicant has prima facie satisfied the requirements outlined in section 6 of the PDA for purposes of this application. This conclusion makes it unnecessary to investigate whether in addition; he satisfied the requirements of section 9. Suffice to say that the disclosure does not appear to have been made for personal gain. By making the disclosures he ran the risk of antagonising the very person on whom the success of his claims for the shares and 13th cheque depended. He knowingly ran the risk of being subjected to disciplinary measures. Making the disclosure was in the circumstances reasonable. Had it been necessary, I would have found that he  
+[2010] JOL 25167 (LC) at 34
+did satisfy the requirements of the PDA as outlined in section 9, for purposes of this application.
+
+[58]    Further, the applicant has to prove that he has been subjected to an occupational detriment on account, or partly on account, of having made a protected disclosure (see section 3 of the PDA). The history of this matter indicates that it was after the applicant had instituted a High Court claim for shares that the respondent began to investigate his pay structure. After the applicant had circulated the August 2009 disclosure the respondent suspended him and investigated more claims against the applicant. The charge-sheet with two counts had been prepared and delivered to the company on or about 17 December 2009, but was served on him after he had made his submissions to the JSE. The conclusion is irresistible that he has probably been subjected to an occupational detriment on account or partly on account of having made a protected disclosure.
+
+[59]    In my view, the applicant has shown the existence of a prima facie right in the relief he seeks. He has further shown that he ought not to be subjected to a disciplinary hearing in the matter until such time that this matter is properly heard and a decision on it is made. He has further shown that there is no other adequate alternative remedy to address the irreparable harm that he is likely to suffer should the disciplinary hearing proceed.
+
+ 
+[2010] JOL 25167 (LC) at 35
+
+The following order will then issue.
+
+The respondent is interdicted from proceeding with any disciplinary action or enquiry against the applicant on the charges as set out in its charge-sheet against the applicant of 20 January 2010 pending the outcome of a dispute referred to the Commission for Conciliation, Mediation & Arbitration, and if the conciliation does not resolve the dispute, pending the adjudication of that dispute by the Labour Court.
+The respondent is directed to pay the costs of this application.
+Appearance:
+Adv P Schuman, Stirling Attorneys (At); Adv GG Marnewick SC, LR Naidoo, Garlicke & Bousfield Incorporated (R)
+
+
+End of Document

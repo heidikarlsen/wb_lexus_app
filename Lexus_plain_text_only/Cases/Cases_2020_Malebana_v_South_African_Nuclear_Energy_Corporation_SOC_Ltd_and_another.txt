@@ -1,0 +1,135 @@
+
+
+
+
+Malebana v South African Nuclear Energy Corporation SOC Ltd and another [2020] 2 BLLR 208 (LC) 
+Labour Law Reports
+
+Division: Labour Court, Johannesburg
+Case No: J1727/19
+Date: 08/10/2019
+Before: E Tlhotlhalemaje, Judge
+Keywords
+
+
+Application in terms of section 158(1)(a)(i) of the LRA
+Appeal — Enforcement of judgment pending — Requirements discussed — Employee in favour of whom judgment was given failing to demonstrate exceptional circumstances to justify departure from rule that appeal suspends judgment — Application refused.
+Practice and procedure — Enforcement of judgment pending appeal — Requirements discussed — Employee in favour of whom judgment was given failing to make out case for execution of judgment pending employer’s appeal — Application refused.
+
+Editor’s Summary
+
+
+The applicant, the respondent’s chief legal advisor, was suspended by the respondent’s CEO for allegedly supplying confidential information to a trade union. After being served with charges, the applicant obtained urgent orders declaring his suspension an occupational detriment, setting it aside and interdicting the respondent from taking disciplinary action against him. The respondent in turn brought an urgent application for leave to appeal against the order and the applicant followed this with a further urgent application in terms of section 18 of the Superior Courts Act 10 of 2013 for an order enforcing the judgment pending the application for leave to appeal and any appeals that might follow.
+
+Having accepted that the matter was urgent, the court noted that section 18 requires applicants seeking orders for the execution of a judgment pending appeal must demonstrate that the situation is exceptional enough to warrant departure from the general rule that an appeal suspends the operation of a judgment until its outcome and that they will suffer irreparable harm of the judgment is executed and that the respondent will not suffer irreparable harm. The applicant had contended that if the order was granted it would have no practical effect because by the time an appeal was heard, the date for which the disciplinary hearing had been set would be long past and keeping him away from work would create a “fertile environment” for further lapses of governance. That the time set for the disciplinary hearing might have passed was immaterial; a lapse of time is a normal consequence of litigation. In terms of the order, the applicant remained an employee and could not be indefinitely immunised against disciplinary action. Furthermore, only two of the five charges the applicant was required to answer related to protected disclosures and the applicant would be able to raise any objections he might have in the disciplinary proceedings. The applicant’s claim that suspension of the order would encourage maladministration was mere speculation, and could also be ventilated at the disciplinary hearing. That the matter might have involved alleged protected disclosures did not amount in itself to an exceptional circumstance because his disclosures had not yet been formally declared protected.
+
+The Court held further that the applicant would suffer no irreparable harm as he could defend himself at a disciplinary inquiry, the outcome of which remained unknown. On the other hand, the only consequence the respondent would suffer was being deprived of the applicant’s services. The respondent had stated that its business would continue as normal because the applicant was not indispensable. Furthermore, the applicant’s conduct had bordered on contempt of the board and he had ridiculed all in sundry. This had put him on the slippery slope towards rendering the working relationship unsustainable. The applicant had, accordingly, failed to make out a case for enforcement of the judgment pending appeal.
+
+The application was dismissed with costs.
+
+____________________________________________________________________________________
+
+Tlhotlhalemaje J:
+
+Introduction
+The applicant seeks an order on an urgent basis, to execute the judgment and order of Mathebula AJ handed down on 12 September 2019 under the present case number, pending the respondents’ application for leave to appeal and any intended appeal that may follow should the appeal be granted. The application is brought in terms of section 18(1) and (3) of the Superior Courts Act.1
+The background material leading to the order and judgment of Mathebula AJ is succinctly set out in that judgment and I do not intend to repeat same in this judgment safe to highlight the following:
+The applicant is currently employed by the first respondent (“NECSA”) as its Chief Legal Advisor. NECSA is a State owned company established in terms section 3 of the Nuclear Energy Act.2 The second respondent Mr Ayanda Myoli (“Myoli”) is NECSA’s Acting Group Chief Executive Officer.
+The applicant was suspended on 24 July 2019 on the grounds that he had, inter alia, copied NEHAWU, a trade union that organises at NECSA, on a letter dated 3 July 2019 containing confidential information that was sent to the Minister, the Director General, and Deputy Director General.
+Five allegations of misconduct were levelled against the applicant on 12 August 2019. These related to dissemination of confidential and also misleading information to NEHAWU; the failure to convene the Annual General Meeting; the approval of the Addendum to the Consultancy Services Agreement; and approval of the Rosatom Agreement.
+Following his suspension, the applicant approached the Court on an urgent basis in which he sought various declaratory orders. The first 
+
+was that Myoli’s appointment as Acting CEO was unlawful; the second was that his suspension should be declared unlawful and constituted an occupational detriment, and be set aside; and an order restraining and interdicting the respondents from instituting any disciplinary action against him and from engaging in any conduct towards him which would amount to an occupational detriment as defined in the Protected Disclosure Act.3
+
+The matter was heard on 21 August 2019, and on 12 September 2019, Mathebula AJ delivered a full judgment with an order in the following terms:
+“1. The application is heard as one of urgency.
+2. The suspension of the applicant by the second respondent on 24 July 2019 is declared to be unlawful and to constitute an occupational detriment;
+3. The respondents are ordered to uplift the suspension of the applicant and allow him to resume his duties with immediate effect from the date of this order;
+4. The respondents are restrained and interdicted from taking any disciplinary action against the applicant that relates to the information he seeks to declare protected disclosure in terms of the dispute referred to the CCMA;
+5. The respondents are ordered to pay the costs of the applicant, which costs are to include the costs of two (2) counsel.”
+On the same date that the judgment was handed down, the respondents filed and served an application for leave to appeal. The Supplementary notice of Application for leave to appeal was served and delivered on 19 September 2019.
+The respondents disputed that the matter should be treated as urgent. This contention however loses sight of the fact the order in terms of which leave to appeal is sought or to be executed pending the leave to appeal was obtained on an urgent basis. A second consideration is that flowing from the timeline within which judgment was handed down, the application for leave to appeal was launched, and the notice to attend the disciplinary enquiry as scheduled for 8 October 2019, I am satisfied that this matter deserves the urgent attention of the Court.
+Section 18 of the Superior Courts Act provides;
+“18. Suspension of decision pending appeal.
+(1) Subject to subsections (2) and (3), and unless the court under exceptional circumstances orders otherwise, the operation and execution of a decision which is the subject of an application for leave to appeal or of an appeal, is suspended pending the decision of the application or appeal.
+(2) Subject to subsection (3), unless the court under exceptional circumstances orders otherwise, the operation and execution of a decision that is an interlocutory order not having the effect of a final judgment, which is the subject of an application for leave to 
+
+appeal or of an appeal, is not suspended pending the decision of the application or appeal.
+
+(3) A court may only order otherwise as contemplated in subsection (1) or (2), if the party who applied to the court to order otherwise, in addition proves on a balance of probabilities that he or she will suffer irreparable harm if the court does not so order and that the other party will not suffer irreparable harm if the court so orders.
+(4) If a court orders otherwise, as contemplated in subsection (1) –
+the court must immediately record its reasons for doing so;
+the aggrieved party has an automatic right of appeal to the next highest court;
+the court hearing such an appeal must deal with it as a matter of extreme urgency; and
+such order will be automatically suspended, pending the outcome of such appeal.
+(5) For the purposes of subsections (1) and (2), a decision becomes the subject of an application for leave to appeal or of an appeal, as soon as an application for leave to appeal or a notice of appeal is lodged with the registrar in terms of the rules.”
+The above provisions have received attention in this Court and flowing from Fidelity Security Services (Pty) Ltd v Naidoo and another4 and other authorities, it can be accepted that an applicant seeking to execute an order pending an appeal is required to demonstrate that the facts and circumstances of the particular application are exceptional and warrant a deviation from the normal rule. This required the applicant to show that the facts and circumstances of his/her particular case are uncommon, unusual and\or out of the ordinary to the extent that a departure from the ordinary rule that an appeal suspends the operation of the judgment and order appealed against, should not apply. Furthermore, the applicant is required to prove on a balance of probabilities that he will suffer irreparable  
+[2020] 2 BLLR 208 (LC)  at 211
+  harm should the order for leave to execute not be granted pending the appeal, whilst the respondent would not suffer any irreparable harm if leave to execute was granted pending appeal. As it was reiterated in Old Mutual Ltd and others v Moyo and another,5 the absence of anyone of the three requirements will be adequate to dismiss the application.
+
+Were exceptional circumstances demonstrated?
+As to what constitutes exceptional circumstances was considered in University of the Free State v Afriforum and another6 in the following terms:
+“[12] The concept of ‘exceptional circumstances’ introduced by s 18(1), was considered by Mpati P in Avnit v First Rand Bank Limited [2014] ZASCA 132, in the context of s 17(2)(f) of the Act which provides that in ‘exceptional circumstances’ the President of this court may refer a decision on an application for leave to appeal to the court for reconsideration. Mpati P held that upon a proper construction of s 17(2)(f), the President will need to be satisfied that the circumstances are ‘truly exceptional’ before referring a matter for reconsideration.
+[13] Whether or not ‘exceptional circumstances’ for the purposes of s 18(1) are present, must necessarily depend on the peculiar facts of each case. In Incubeta Holdings at para 22 Sutherland J put it as follows:
+
+‘Necessarily, in my view, exceptionality must be fact-specific. The circumstances which are or may be “exceptional” must be derived from the actual predicaments in which the given litigants find themselves.’
+
+I agree. Furthermore, I think, in evaluating the circumstances relied upon by an applicant, a court should bear in mind that what is sought is an extraordinary deviation from the norm, which, in turn, requires the existence of truly exceptional circumstances to justify the deviation.”
+
+The grounds upon which the applicant believes that exceptional circumstances exists for the enforcement and execution of Mathebula AJ’s order pending the application for leave to appeal are that:
+The relief that was granted is time-sensitive, as if leave to appeal was granted, the appeal will only come before the Labour Appeal Court long after 8 October 2019 has passed, thus making the order sought meaningless as it would have lost its practical effect.
+Given the disclosures he has already made and the lapses in proper governance by the Board that he had pointed out, the efforts by the respondents to keep him away from the workplace are to create a fertile environment to flaunt the rules and conduct business of the state organ unchecked. 
+[2020] 2 BLLR 208 (LC)  at 212
+In opposing the application, the respondent’s contention is that the applicant has not demonstrated any exceptional circumstances and I agree. The contention that the relief granted by Mathebula AJ is time sensitive as the application for leave to appeal may take longer than necessary and long after the disciplinary hearing has taken its course is nothing exceptional as that is a normal consequence of litigation. The reliance by the applicant on Rudman v Maquassi Hills Local Municipality and others7 is misplaced for the reason that in that case, Rudman’s acting appointment was due to expire in three months, and it was apparent that any appeal proceedings in respect of the Court’s order which granted her relief would have had no practical effect by the time the leave to appeal was heard.
+In this case however, the applicant is a permanent employee. The order granted by Mathebula AJ is hardly time sensitive as his suspension was uplifted. The fact that disciplinary proceedings are scheduled to take place on 8 October 2019 does not make the relief he obtained time sensitive, as notwithstanding that relief, it cannot be said that he is immune from being called to a disciplinary hearing in circumstances where he is to face charges that are not in conflict with the court order.
+There can hardly be exceptional circumstances where on a proper reading of the relief granted by Mathebula AJ, it is clear that the order is specific, as it restrains and interdicts the respondents from taking any disciplinary action against the applicant that relates to the information he seeks to declare protected disclosure in terms of the dispute referred to the CCMA. Two out of five charges of misconduct the applicant has to answer to specifically relates such alleged protected disclosures. The other three are not. Any link between the alleged protected disclosure and the other three unrelated charges are clearly matters of evidence that can be ventilated at the disciplinary enquiry. As it was pointed out on behalf of the respondents, an exceptional circumstance can only occur if the applicant can demonstrate that at the disciplinary hearing, he would not be in a position to object to that hearing ventilating aspects of the charges which fall within the prohibited scope as specified in the Mathebula AJ’s order, and in particular, those related to alleged disclosure of confidential information. As I understood from the pleadings and other related material, the applicant will be legally represented at those proceedings, and I can clearly see no reason why he would not be in a position to raise through his legal representatives, any areas of concern with the path that the enquiry takes.
+The question surrounding issues of governance of the board and the suggestion that the respondents seek to keep him out of the workplace in order for mismanagement and maladministration to continue are clearly matters of evidence and conjecture, and are for now unsubstantiated as correctly pointed out by the respondents. If there is merit in these allegations, these are issues to be fully ventilated when the applicant is afforded  
+[2020] 2 BLLR 208 (LC)  at 213
+  an opportunity to state his case at the disciplinary enquiry, and all of these issues can clearly not be regarded as truly exceptional.
+A submission was made on behalf of the applicant that on the authority of Van Alphen v Rheinmettall Denel Munition,8 a protected disclosure as he had made, constitutes an exceptional circumstances. The distinguishing facts of this case however are that the applicant has already obtained an order interdicting and restraining the respondents from taking any disciplinary action against him that relates to the information he seeks to declare protected disclosure in terms of the dispute referred to the CCMA. On a proper reading, the information has not as yet been pronounced as a “genuine protected disclosure”, and as such cannot in my view in line with the authority referred to, be considered as exceptional circumstances.
+
+Irreparable harm to the applicant
+Central to the allegations of irreparable harm is that the applicant has a right to qualify for a performance bonus in terms of the applicable performance agreements he has with the first respondent. He averred that it would be impossible to quantify a claim for damages in relation to a performance bonus as the right to such a bonus is dependent upon his presence at the workplace. He also averred that the harm and prejudice is also to his reputation and career as long as he remains suspended.
+I agree with the respondents’ contention that the applicant could only succeed on the issue of a performance bonus if he demonstrated that he had a right to that bonus. Since he had not shown the basis of the right, he had no right in law to expect it, and thus irreparable harm could not flow from the exercise in the future, of a discretions to award the bonus, which was something that was not even guaranteed.
+If there is any harm that the applicant may suffer, it cannot however be irreparable, as upon being subjected to the disciplinary enquiry in respect of matters that do not fall within Mathebula AJ’s order, he may be exonerated, whilst the protective disclosure dispute takes its course at the CCMA. Furthermore issues surrounding reputational damage are hardly considered exceptional, where the rights of an employer to discipline its employees are at stake. As was also submitted on behalf of the respondents, the applicant has not substantiated any allegations of reputational harm, and it is not clear on what basis why any harm would follow from an application for leave to appeal against an order in his favour, or a refusal to grant him leave to execute pending the leave to appeal. Reputational harm as a result of a suspension cannot be irreparable in an instance where the applicant can be vindicated in due cause. 
+[2020] 2 BLLR 208 (LC)  at 214
+
+Irreparable harm to the respondent if leave to execute is granted
+The applicant’s contention is that the respondents will not suffer any irreparable harm in circumstances where they will have the benefit of services rendered by him. This presupposes that without him at the workplace, the first respondent cannot continue to operate. The respondents however have averred in the answering affidavit that business at the workplace will continue as usual without the applicant, and I agree. No employee can claim to be indispensable.
+The applicant’s assertions however about how important he is to the organisation comes at the back of his conduct since the dispute started, where his disposition and posture towards members of the board as a whole has bordered on contempt, demonstrating a slippery slope towards an inevitable breakdown of working relationship. In this regard, the respondents in their answering affidavit have referred to various posts made by the applicant on social media, where he had uploaded photographs of all or most of the current members of the board, and insulted and vilified them, thus bringing the board and the first respondent into disrepute. As an example, emoticons displaying laughing faces are placed on the photograph of Myoli, the Acting Group Chief Executive, and in another, Myoli is named as “The Lee Harvey Oswald at Necsa”. Other board members whose photographs were posted are referred to as “tormentors” etc, with emoticons display laughing and unimpressed faces.
+Other than this public vilification of the board, the applicant has also released a press statement on 14 August 2019, in which he accused the former Minister of Energy, the board, the respondents’ attorneys of record, and the appointed chairperson of the disciplinary enquiry (Advocate Cassim SC) of a variety of things including impropriety.
+In circumstances where the applicant had added fuel to the fire to the dispute with the board and the first respondent with such conduct, how it may be asked, can it be expected of business to continue as usual with the Mathebula AJ’s order being executed? The irreparable harm to the respondents and the board is clearly palpable, and the applicant has not done himself any favours with his conduct as an in-house lawyer.
+In conclusion, and on an overall assessment of the facts of this case, the applicant has not demonstrated that the the facts and circumstances of this case are uncommon, unusual and\or out of the ordinary to the extent that a departure from the ordinary rule that an appeal suspends the operation of the judgement and order appealed against should not apply. He has not discharged the onus placed on him, to demonstrate on a balance of probabilities that he will suffer irreparable harm should the order for leave to execute not be granted pending the appeal. On the other hand, there is real irreparable harm that the respondents have already suffered as a result of the applicant’s conduct, and which they will continue to suffer should the leave to execute be granted pending an appeal. In the result, the applicant’s application should fail.
+I have further taken into account the requirements of law and fairness in regard to the issue of costs. It is appreciated that employees or any party  
+[2020] 2 BLLR 208 (LC)  at 215
+  for that matter has a right to bring an application to seek to execute a favourable order pending an appeal. Even then, a case must be made out for the relief that is sought, with the primary consideration being that such applications must be brought in good faith. This was clearly lacking in this case, and I see no reason why the respondents should be burdened with the costs of this application.
+Accordingly, the following order is made:
+
+Order
+The applicant’s application to for leave to execute the judgment and order of Mathebula AJ handed down on 12 September 2019 pending the respondents’ application for leave to appeal is dismissed with costs.
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  Act 10 of 2013.
+2	Act 46 of 1999.
+3	Act 26 of 2000.
+4	  (J1837/2015) [2016] ZALCJHB 70 (3 February 2016) at para [6], where it was held:
+“Turning next to the application for leave to execute the judgment and order pending appeal. This court is a superior court, and subject to the Superior Courts Act, 10 of 2013. Section 18 of that Act regulates the circumstances under which a party may apply for an order that departs from the ordinary consequence of filing an application for leave to appeal, i.e. that the operation and execution of the judgment and order appealed against is suspended. The approach established by s 18 requires an applicant in an application for leave to execute to show that the facts and circumstances of the particular application are exceptional and warrant a deviation from the normal rule. This has been referred to as a ‘threshold factual test’ (see Incubeta Holdings (Pty) Ltd and another v Ellis and another 2014 (3) SA 189 (GJ)) and requires the applicant to show that the facts and circumstances of its particular case are uncommon, unusual and\or out of the ordinary to the extent that a departure from the ordinary rule that an appeal suspends the operation of the judgement in order appealed against should not apply. Further, the applicant is required to prove on a balance of probabilities that it will suffer irreparable harm should the order for leave to execute not be granted pending the appeal. Finally, the applicant must prove on a balance of probabilities that the respondent in the application for leave to execute will not suffer irreparable harm if leave to execute is granted pending appeal. (See Incubeta Holdings (supra); and the unreported judgment by Murphy J in Coetzer and ERB Technologies v Actom (Pty) Ltd A269/2015).”
+  See also Luxor Paints (Pty) Ltd v Lloyd (2017) 38 ILJ 1149 (LC); [2017] 7 BLLR 700 (LC).
+5	  (2019/22791) [2019] ZAGPJHC 315 (6 September 2019) at para [5] [reported at [2019] JOL 45715 (GJ) – Ed].
+6	  [2017] 1 All SA 79 (SCA); 2018 (3) SA 428 (SCA); See also Ntlemeza v Helen Suzman Foundation and another [2017] 3 All SA 589 (SCA); 2017 (5) SA 402 (SCA) at paras [36]–[39].
+7	  (J3495/18) [2018] ZALCJHB 371 (8 November 2018) [reported at [2019] JOL 45760 (LC) – Ed].
+8	  (2013) 34 ILJ 3314 (LC) at para [42] [also reported at [2013] 10 BLLR 1043 (LC) – Ed], where the late Steenkamp J held:
+“This court and the Labour Appeal Court has pointed out that it is only in exceptional circumstances that it will intervene to interdict pending disciplinary hearings. A genuine protected disclosure would constitute such exceptional circumstances. The applicant in this case has not shown that those exceptional circumstances exist in her case.”
+
+For the applicant:
+
+ARH Mason of Mason Attorneys
+For the first and second respondents:
+
+TJ Bruinders SC and B Mkhize instructed by Mncedisi Ndlovu & Sedumedi Attorneys Incorporated
+
+
+End of Document

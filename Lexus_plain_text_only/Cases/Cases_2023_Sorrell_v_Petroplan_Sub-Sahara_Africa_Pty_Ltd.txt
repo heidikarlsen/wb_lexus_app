@@ -1,0 +1,199 @@
+
+
+
+
+Sorrell v Petroplan Sub-Sahara Africa (Pty) Ltd [2023] 3 BLLR 271 (LC)
+Labour Law Reports
+
+Division: Labour Court, Cape Town
+Case No: C590/2021
+Date: 19/01/2023
+Before: R Lagrange Judge
+Keywords
+
+
+Application in terms of section 191(5)(b)(i) of the LRA
+Labour Court — Jurisdiction — Test restated — Court’s territorial jurisdiction determined by place where employee engaged to work — Court lacking jurisdiction to entertain alleged unfair dismissal claim by employee engaged to work in Mozambique.
+
+Editor’s Summary
+
+
+The applicant was employed by a company registered in the United Kingdom in terms of a consultancy agreement between a company registered in the Virgin Islands to supervise operations in Mozambique in association with two companies registered in that country. After this agreement was aborted, the applicant was appointed by the respondent in his personal capacity in terms of an “independent contractor agreement” but his services were terminated six months later. The applicant claimed that this amounted to a dismissal, which was automatically unfair as well as contractual damages. Although the respondent contended that the applicant was an independent contractor, the parties agreed that the Labour Court should first decide whether it had jurisdiction after hearing evidence.
+
+The Court held that the jurisdictional issue could be decided although raised pertinently for the first time in the respondent’s heads of argument. The agreement provided that it would become null and void if the applicant failed to obtain a Mozambique or South African visa and a satisfactory medical report, that his place of work was “Mozambique” and that working arrangements would be “flexible” for a fee of $1 100 a day. The principles for determining the territorial jurisdiction of the Labour Court are well established: the application of the LRA is established by the locality of the undertaking carried out by the company by which the employee was employed, assuming for present purposes that the applicant was in the employ of the respondent. Where the employee works for an entity outside the court’s territorial jurisdiction it must be separated from the employer’s undertaking which is located within its territorial jurisdiction. This is to be determined not by the employment relationship but on the location of the workplace, which is a question of fact. The applicant was engaged to perform his services in Mozambique. The Court, accordingly, lacked jurisdiction to entertain the applicant’s claims.
+
+The application was struck off the roll for want of territorial jurisdiction.
+
+ 
+[2023] 3 BLLR 271 (LC) at 272
+
+____________________________________________________________________________________
+
+Lagrange J:
+
+Background
+This is a jurisdictional ruling on whether or not the various claims of the applicant set down for trial fall within the territorial jurisdiction of this Court. This particular jurisdictional question was only raised for the first time when the respondent pleaded its prospects of success in a belated condonation application for the late filing of the respondent’s answering statement drafted a few days before trial was due to commence. Prior to that, the only jurisdictional issue raised was whether the applicant was an employee of the respondent. For the purposes of this ruling, it was assumed that the applicant was an employee of the respondent, and accordingly his status in this regard remains undecided.
+The applicant, Mr M Sorrell (“Sorrell”), launched trial proceedings against the respondent (“PSA”), seeking the following relief:
+A declaration that the termination of his services under an “independent contractor agreement” with PSA (“the ICA”) amounted to his dismissal as an employee of PSA and that such dismissal was either automatically unfair on account of having made a protected disclosure in terms of the Protected Disclosures Act 26 of 2000 (“the PDA”) or, in the alternative, substantively and procedurally unfair.
+An award of the maximum compensation obtainable in the event of a finding that he was automatically, or otherwise, unfairly dismissed.
+Contractual damages in the form of remuneration he claims was due to him for the balance of the fixed term contract, which was terminated prematurely, and consequential damages arising from the termination of the contract.
+Insofar as it is found that he was not an employee of PSA, but independent contractor, an order of damages or compensation for suffering an occupational detriment under the PDA.
+PSA disputed Sorrell’s claim that he was its employee and maintained he was an independent contractor. This jurisdictional issue was raised in the original pleadings, but the parties had agreed that it could only be decided after all the evidence at trial had been led. Accordingly, for the purposes of this ruling it is assumed that Sorrell was employed by PSA, and the only question is whether his claims fall under the territorial jurisdiction of the Labour Court.
+The parties agreed that it was necessary to lead evidence on the court’s territorial jurisdiction. Only Sorrell testified. Both parties then made written submissions and presented oral argument. 
+[2023] 3 BLLR 271 (LC) at 273
+
+Brief outline of facts
+In December 2020 a consultancy agreement was concluded between Offshore Project Management & Engineering Ltd (“OFMEL”) and Petro Plan Europe Ltd (“PEL”), the former company being registered in the British Virgin Islands and the latter in the United Kingdom. In terms of the agreement, OFMEL was to provide the services of a Logistics Superintendent in Mozambique to PEL’s client, Sasol Petroleum Temane Limitada (“SPTL”) and Sasol Petroleum Mozamabique Limitada (“SPML”), which are companies registered in Mozambique and the UK respectively. Sorrell was the beneficial owner of OFMEL. Although that consultancy agreement was concluded, it was not implemented owing to legal compliance obstacles.
+Instead, on 27 January 2021 the ICA between Sorrell and PSA was concluded. In substance, the services to be provided by Sorrell were the same that would have been provided under the aborted consultancy agreement, with the same job title associated with those services, namely Logistics Superintendent. Previously the post was designated as a Supply Base Manager. Sorrell’s services were terminated by the PSA in a letter dated 24 June 2021.
+Pertinent provisions of the ICA and Annexure 1 thereto, which stipulated certain terms the services to be provided were the following:
+7.1 Clause 1.3 of the ICA states:
+
+“This Agreement is dependent on the successful application for a Mozambique and/or South Africa visa if applicable and satisfactory medical examination results. If for any reason this application is unsuccessful or the medical examination results are unsatisfactory/unacceptable to the client, this Agreement will be null and void.”
+
+7.2 In terms of Annexure 1:
+the place where services were to be performed was simply designated as “Mozambique”.
+“Working Patterns” were set out as follows:
+
+  “The working pattern shall be flexible. While working from home, working days/hours will be as advised by client and/ or Petroplan
+
+  On mobilisation to Mozambique it is anticipated that the rotation will be 6 weeks on (including 1 week quarantine)/4 weeks off. 4 weeks on/4 weeks off when Covid-19 control measures are no longer required.
+
+  Actual rotation and mobilisation date will be confirmed by Petroplan once received from client.”
+
+Annexure 1 made provision for return flights for Sorrell from and to his “home base” for each rotation and he would also be paid for the two days on which he travelled.
+Amongst other things, the pre-trial minute records that:
+“4.3 The Applicant performed services in terms of the agreement in respect of a gas exploration project in Mozambique from 1 December 2020 until his services were terminated.
+4.4 The Applicant’s working patterns were determined in accordance with the provisions of Annexure 1 of the Agreement.
+4.5 The Logistics Superintendent role was rotational due to the remote and 24/7 nature of the roles on location.
+4.6 The Applicant shared the Logistics Superintendent role in alternating duty cycles with another person on a roster system.
+4.7 . . .
+4.8 The Applicant’ s fee was calculated at USD 1100.00 per day, based on the on the on-duty cycles only.”
+In his evidence, Sorrell testified that:
+His “ultimate workplace” was Mozambique, but initially he worked virtually from home in Greyton due to the Covid-19 pandemic and delays in obtaining a Visa and work permit. If he had been able to attend to work physically, he would have done so on site, in Mozambique. Because of the visa complications everyone had to work at home for a while, which he did on the basis of an alternating duty cycle during the months of January, March, May and part of June 2021. His duty cycle alternated with another person, Mr P Botes, with whom he shared the role of Logistics Superintendent.
+During that time he largely did off-line work on documents and communicated with his functional manager, Mr M Clark (“Clark”), the Logistics manager for Sasol, who was based in the UK. In terms of Annexure 1 Clark was the person to whom Sorrell was required to report for duty. He also confirmed that the role of “Logistics Superintendent” was an “in-field” role, and “in-field” meant “while on location (ie at the gas exploration site) at a remote place”.
+The Sasol UK firm was responsible for directing operations at the site.
+Sorrell was also required to report to his field operations manager, Mr A Mellor (“Mellor”). Mellor only got to the Mozambique site early in June 2021.
+In his statement of case, Sorrell claimed that when he was on-duty logistics superintendent his primary responsibilities were to ensure the health and safety of all personnel associated with the base.
+
+Legal principles pertaining to the territorial jurisdiction of the court
+Before briefly surveying the jurisprudence on the test for determining territorial jurisdiction of the Labour Court, two related issues raised by Sorrell must be dealt with. Firstly, he objected to PSA raising this jurisdictional question as it had never been pleaded, nor recorded in the pre- trial minute. Accordingly, the court ought to decide the issue on the basis of the applicant’s pleadings, and PSA had accepted that the court had jurisdiction.
+Sorrell’s Counsel, Mr Kantor, relied on the judgment in Monare v SA Tourism and others (2016) 37 ILJ 394 (LAC) [also reported at [2016] JOL 34587 (LAC) – Ed], in which the Labour Appeal Court set aside a finding  
+[2023] 3 BLLR 271 (LC) at 275
+  of the Labour Court that an arbitrator did not have territorial jurisdiction to determine an unfair dismissal claim. The LAC held:
+“[24] The court a quo seemingly did not in the context of the facts before it consider the principle that a claimant may formulate his or her claim in a way that enables him or her to bring it before a forum of his or her choice. If a claim as formulated is enforceable in that forum then the claimant is entitled to bring it in that forum. The fact that the claim is bad is another matter and that jurisdiction is to be assessed on the pleadings properly construed and not on the substantive merits of the case.” (Footnotes omitted.)
+
+  The LAC found that the issue of jurisdiction was not raised before the Commissioner, who ought to have been asked to dealt with it because of the facts before him1.
+
+Sorrell argued that PSA had not disputed the court’s jurisdiction, as it had not taken issue with paragraph 58.6 of his statement of claim, in which it was stated:
+
+“This dispute has been referred to the Labour Court within 90 days thereof [the date of issue of the certificate of non-resolution] and the Labour Court has jurisdiction in respect of this dispute in terms of section 157(1) read with section 191(5)(b)(i) of the LRA and section 4(1) of the PDA.”
+
+It must be noted that in Monare the LAC concluded:
+
+“Now applying the principle that jurisdiction is determined by the ‘pleadings’, it would be appropriate to say that if the claimant has alleged facts that satisfy the jurisdictional test and the other party has not taken issue with those facts, the CCMA, may, arguably, have jurisdiction in the matter.” 2 (Emphasis added).
+
+I accept that the challenge to the court’s territorial jurisdiction should have been raised timeously, but the court cannot simply brush it aside when it is raised, nor can the parties by consent extend the territorial reach of the court. Even if the applicant’s pleadings are the basis for determining jurisdiction and the respondent party does not raise a jurisdictional issue, the court would be remiss not to deal with it mero motu. It is well established that jurisdictional questions may arise for the first time even at the stage of appeal proceedings and the Constitutional Court has held that the principle of legality obligates a court to deal with a point of law even if the parties were unaware of it, if a failure to do so could lead to a decision based on the incorrect application of the law.3 In any event, in this instance the respondent party has taken issue with the territorial jurisdiction of the court to entertain the dispute, which the LAC in Monare recognised requires the court to deal with it.
+I am also of the view that paragraph 58.6 of the statement of case does not obviously contain any clear assertion of territorial jurisdiction per se. The content of that paragraph describes the nature of the disputes which fall  
+[2023] 3 BLLR 271 (LC) at 276
+  within the competence of the court to determine. Accordingly, I do think that failure of PSA to dispute that paragraph clearly entailed an acknowledgment of this court’s territorial jurisdiction over the dispute.
+The principles governing the determination of territorial jurisdiction are well established. In the LAC’s decision in Monare the court set them out thus:
+“[12] The court a quo in its judgment had regard, inter alia, to the CCMA award in Serfontein v Balmoral Central Contracts SA (Pty) Ltd; the judgment of the Labour Court in Kleynhans v Parmalat SA (Pty) Ltd and the judgment of this court in Astral where reference was made in particular to the judgments in Chemical & Industrial Workers Union v Sopelog CC and Genrec Mei.
+[13] In Astral, this court had come to the conclusion that the territorial application of the LRA to the dispute in question there had to be determined according to the locality of the undertaking carried out by the company in which the employee was employed.
+[14] In that case, the employee had been employed by the company until he was retrenched. He then agreed to be employed by a subsidiary of the company and relocated to Malawi. The subsidiary was also a company incorporated there. After a period, the company decided to end its operation in Malawi and the employee returned to South Africa where he continued to wind up the Malawi operation. His employment was terminated. A dispute was declared. When the matter reached the Labour Court, the company raised a point that the Labour Court lacked jurisdiction to entertain the employee’s claims for contractual damages, unfair retrenchment and the non- or underpayment of various statutory amounts.
+[15] On appeal, this court applying the Genrec Mei criterion held:
+
+‘When all the facts of this matter are considered and the question is asked as to where the undertaking was carried on in which the respondent worked, the answer would be an easy one, namely: Malawi!’
+
+Accordingly, this court concluded that the LRA did not apply to the company’s operation in Malawi and the Labour Court had no jurisdiction to entertain the employee’s claim.
+
+
+[34] What is clear from both Astral and Genrec Mei is that the undertaking where the employee was employed (which was situated beyond the territorial jurisdiction of the respective fora in each of those cases), has to be separate and divorced from the employer’s undertaking which is located within the jurisdictional territory of the relevant forum.
+[35] In Astral, the employer’s Malawian subsidiary, where the employee worked, was separate and divorced from the employer’s South African undertaking. The Malawian undertaking was an incorporated concern with a separate personality. It was an independent company. In Genrec Mei, the court also emphasised the separateness and independence of the employer’s undertaking in Durban, from its undertaking on the oil rig, where the employee was employed.
+[36] The nub of the issue in this case, is not about where appellant was employed, because it is common cause that he was employed in the first respondent’s London office, but whether the London office was an undertaking of the first respondent which was separate and divorced 
+
+from its undertaking in the Republic of South Africa. In my view it certainly was not.” (Footnotes omitted.)
+
+  It is important to note that in speaking of the “the undertaking where the employee was employed” the LAC was clearly using the verb “employed” not to denote a legal employment relationship but to refer to the utilisation of the employee’s services.
+
+In Astral Operations Ltd v Parry (2008) 29 ILJ 2668 (LAC) the LAC held:
+“[17] In the light of the above factors and those that had been mentioned by Booysen J in the court of first instance in the Genrec matter, said Van Heerden JA, it appeared that the undertaking in which the employees in the Genrec matter were employed was completely divorced from the Durban undertaking. The court the concluded:
+
+‘I am consequently of the view that in its main characteristics the former undertaking pertained solely to work to be executed on the platform and, hence outside our territorial waters.’ (See Genrec at 8B–C.)
+
+[18] Having considered the Genrec decision I am of the view that in that case the Appellate Division decided the application or non-application of the old Act to the dispute in the case according to the locality of the undertaking carried on by Genrec in which the respondent employees were employed (see what the court a quo was reported to have said at 6D–E, 7C–8B). I propose to use the same criterion to decide the issue in the present matter.”
+It is noteworthy that the LAC decided to use the same test used in Genrec Mei despite the particular significance of the locality of the employer’s undertaking as a jurisdictional factor under the 1956 LRA. Zondo JP found that this was not something which made a material difference in interpreting jurisdiction under the current LRA:
+“[18] . . . because, even under the current Act, a similar issue could arise involving a bargaining council as under the current Act a bargaining council’s jurisdiction in respect of an employer depends upon the type of undertaking which the employer runs and whether the area in which the employer conducts such undertaking falls within the territorial scope of the bargaining council. In such a case the Supreme Court of Appeal would probably follow the same approach in deciding whether the Act applied or whether the bargaining council has jurisdiction in respect of a similar dispute.
+[19] In a case where there was no bargaining council and the Commission for Conciliation, Mediation & Arbitration would have to be involved if the Act applied, the position would be that in terms of s 115 of the Act the CCMA has jurisdiction in the whole Republic and, obviously, has no jurisdiction outside the Republic. It seems to me that in a case involving the CCMA the court could also ask whether the employer’s undertaking in which the employees work is carried on inside or outside the Republic. If it was carried on inside, the CCMA would then have jurisdiction and, where it was carried on outside, the CCMA would not have jurisdiction.”
+It is instructive for the purposes of this judgment to consider the reasoning of the Appellate division in Genrec Mei, which had adopted the approach of the court Chemical & Industrial Workers Union v Sopelog CC  
+[2023] 3 BLLR 271 (LC) at 278
+  (1993) 14 ILJ 144 (LAC). The Appellate Division also specifically rejected the approach contended for by the employees in that case, namely that it is the relationship between the employer and employee which should determine the issue of territorial jurisdiction, viz:
+
+“The court a quo thought that if any criterion could be said to be decisive in determining the locality of an undertaking, it would be the premises at which the employer conducts its business, which would be the place of employment. A contrary conclusion was reached by Scott J in Chemical & Industrial Workers Union v Sopelog CC (1993) 14 ILJ 144 (LAC) (Sopelog). That case, decided in 1989, concerned a dispute between a South African employer and its employees who worked on oil rigs outside our territorial waters pursuant to employment agreements concluded in Cape Town. Scott J found that the Industrial Court did not have jurisdiction to hear an application relating to that dispute which had been brought before it under s 17(11)(a) of the Act. His main reasoning may be summarised as follows:
+
+(1) The territorial extent of the jurisdiction of an Industrial Court under s 17(11)(a), as well as under s 43(4), of the Act cannot extend to an area in respect of which neither an industrial council nor a conciliation board would have jurisdiction (at 149D–E).
+(2) Whether an employer or employee in any particular undertaking falls within the area of jurisdiction of an industrial council (or conciliation board), depends ultimately upon the area where such employer or employee is engaged or employed; in other words, on the location of the workplace (at 150B–C).
+
+Since the employees concerned worked outside the country, and thus outside the area of jurisdiction of any industrial council (or conciliation board), the ultimate conclusion of Scott J (at 152A) was that the provisions of the Act did not govern the application before the Industrial Court.
+
+Counsel for the respondents submitted that the facts of this appeal differ in important respects from those in Sopelog. It is, however, unnecessary to analyse the alleged differences. The features, in particular of the respondents’ agreements, upon which Counsel relied are set out immediately below.
+
+The main argument of counsel for the respondents ran along these lines. Section 1 of the Act defines the phrase ‘undertaking, industry, trade or occupation’ as including ‘a section or a portion of an undertaking, industry, trade or occupation’. In terms of their agreements the respondents were entitled to payment at the off-shore rate whilst travelling from the helipad in George to the platform; were allowed a week’s leave after 21 days on the platform, which leave was to be enjoyed on shore where payment therefor was to be made, and were entitled to payment for periods of stand down and standby time when they were not off-shore. Furthermore, the agreements were concluded in Durban where the respondents were resident, whilst their fates - in regard to a unilateral termination of their services – were in the hands of the appellant whose principal place of business was in that city. Hence a section, or sections, of the relationship between the appellant and the respondents existed in South Africa. And it is the relationship between an employer and his employee, and not the physical location of the workplace, which is the determinant in regard to the jurisdiction of an industrial council.
+
+This argument is unsound in a number of respects. It simply ignores the requirement that an undertaking must be carried on in a particular area. Moreover, nowhere in the Act is the jurisdiction of an industrial council linked to the relationship, without more, between an employer and employee. A contract of employment may be concluded in Cape Town where both parties are 
+
+ 
+[2023] 3 BLLR 271 (LC) at 279
+
+ordinarily resident; may stipulate that payment of wages, and reimbursement of travelling expenses incurred by the employee when visiting his family monthly, are to be made there, but provide that the employee shall work in the employer’s only undertaking which is the carrying on of a manufacturing concern in Johannesburg. In such a case one would have no difficulty in concluding that only an industrial council registered for an area of which Johannesburg forms part, may in respect of that undertaking exercise the jurisdiction conferred by the Act on industrial councils (cf R v Gravenstein 1952 (4) SA 202 (T)). In short, there is no warrant for equating ‘a section’ of the relationship between an employer and his employee with a section of an undertaking.
+
+In Sopelog Scott J may have gone too far by equating the location of the workplace with that of the carrying on of an undertaking. A contractor who has his main place of business in Durban may from time to time be awarded contracts to be executed in Pietermaritzburg and may designate some of his regular employees to perform the necessary work in the latter city. Whilst so engaged the temporary workplace of the employees will be in Pietermaritzburg but, depending on all relevant considerations, one may well conclude that the work is to be performed as part and parcel of the carrying on of the Durban undertaking.
+
+It is hardly necessary to say that an employer may conduct more than one undertaking, albeit of the same nature. And if he conducts such undertakings in the Western Cape and the Free State, each having its own separate staff, and one industrial council is registered for the Cape and another for the Free State, clearly only the former may entertain a dispute relating to the Cape undertaking.
+
+The question where an undertaking is being carried on at any given time, is ultimately one of fact. In casu the appellant did carry on an undertaking in Durban. It was, however, also engaged in another undertaking conducted on the platform. The vast majority of its employees working on the platform, including all the respondents, were not part of its regular workforce. Indeed, they were taken into employment for one purpose only, and that was to work on the platform. Their agreements were of limited duration and were to come to an end on the completion of the hook-up contract. Thereafter they would no longer be employees of the appellant. In other words, at no stage would they be employed in the Durban undertaking (unless, of course, new agreements were concluded at a later stage). It therefore appears to me that the undertaking in which they were employed was completely divorced from the Durban undertaking. Having due regard to the factors relied upon by the court a quo and counsel for the respondents, I am consequently of the view that in its main characteristics the former undertaking pertained solely to work to be executed on the platform, and hence outside our territorial waters.” (Emphasis added.)
+
+In the unreported case of Antonio v Commission for Conciliation, Mediation and Arbitration and others (JR1110/15) [2018] ZALCJHB 351 (30 October 2018) this court had to consider and arbitrator’s jurisdictional ruling in which it was held the CCMA had no jurisdiction to entertain the unfair dismissal dispute of the applicant. In that matter, the applicant had been appointed as a business development manager of a Netherlands registered company, whose main duty was to assume full responsibility for the development of the firm’s business in Angola. He was to report to the  
+[2023] 3 BLLR 271 (LC) at 280
+  managing director of the South African subsidiary of the Netherlands company and was expected to relocate to Luanda. Until he relocated he was required to spend four weeks and Angola, one week at the Johannesburg office and was given one week off in Johannesburg for “personal time”. The employee was remunerated in dollars and the contract stipulated that was to be interpreted in accordance with Angolan law. Adopting the approach of the LAC in Monare, the Labour Court found on the facts of the case that the Angolan branch the employee was working for was a company registered in Angola and was separate and divorced from the South African subsidiary4.
+The facts in MECS Africa (Pty) Ltd v Commission for Conciliation, Mediation & Arbitration and others (2014) 35 ILJ 745 (LC) presented a somewhat different scenario from the cases mentioned above. In that case, the employee was engaged by a temporary employment service (“MECS-SA”) on a fixed-term contract to provide services to a client in the Democratic Republic of the Congo (“the DRC”). The client was incorporated in the DRC. The employee simultaneously was engaged by a DRC subsidiary of MECS-SA (MECS-DRC) to provide his services to the DRC client. The court accepted that the main reason for having two contracts was that the employee could only obtain a work permit for the DRC if employed by a DRC employer.5 The court concluded that the employee was a co-employee of MECS-SA and MECS-DRC.6
+The court agreed with the arbitrator that the CCMA did have jurisdiction to hear disputes referred to it by employees of a South African temporary employment service, even if they were placed with clients outside South Africa’s borders. It reasoned thus:
+“[73] . . . As a TES, MECS-SA’s business is to provide its clients with individuals who will provide their services to those clients. Section 198 of the LRA stipulates that in such cases the employee is employed by the TES and not by the client of the TES.
+[74] In the Astral case (which I am bound to follow), the test for CCMA territorial jurisdiction is ‘where is the locality of the employer’s F undertaking in which the employee works?’ If the locality of that undertaking is within South African borders then the CCMA has jurisdiction.
+[75] So where does a TES conduct its labour broking business? The logical answer must be ‘the place where it recruits and procures labour’ and G not the place where its clients have operations. By way of example, if a mining company were a client of a TES, it would be wrong to say that the TES conducts a mining business simply because it provides the mining company with externally sourced labour. The TES does not have mining assets and does not share in the profits derived from mining operations.
+[76] Therefore, in the present case we must ask the question ‘where does MECS-SA conduct its operations?’ Where does MECS-SA procure the services of individuals for the benefit of its clients? The answer must be 
+
+South Africa because MECS-SA, as a distinct legal entity, has no presence in the DRC. Conversely, one could ask, did Pauw go to work at MECS-SA’s operations in the DRC? No, he went to work at MECS-SA’s client’s operations.
+
+[77] In the light of the above, I find that the locality of MECS-SA’s undertaking in which Pauw performed in terms of his contract was in South Africa and, therefore, the CCMA has jurisdiction to hear Pauw’s dispute.
+[78] I am also satisfied that my interpretation of the Astral test is consistent with the purpose of the LRA and, in particular, s 198 thereof.” (Emphasis added.)
+The facts of this case are largely analogous to those in MECS. Accordingly, if the court’s reasoning in MECS is correct, then I ought to find, on the assumption that Sorrell is an employee PSA, that the relevant locality of the undertaking in which Sorrell was employed is where PSA procured his services, namely South Africa. Consequently, the court ought to find that it has jurisdiction to determine Sorrell’s claims. However, for the reasons which follow I must respectfully disagree with the court’s reasoning in MECS, which leads me to the opposite conclusion.
+Having regard to the reasoning in Sopelog adopted by the Appellate Division in Genrec Mei (see paragraph 20 above), it is not the place at which the employer conducts its business which determines the place of employment. It is the location of the actual workplace where the employee renders services, which is a question of fact to be determined at the relevant time. It seems unduly artificial to speak of Sorrell’s workplace in terms of the ICA as being the location where PSA concluded that contract with him. It may be so that PSA conducts its labour broking business in South Africa but the place where it “recruits and procures labour” is not the workplace where Sorrell was supposed to render his services.
+His work under the ICA did not involve the recruitment and procurement of labour, even if it originated from the labour services business of PSA. Everything points to him having been engaged to render services to the PSA’s clients SPTL and SPML at their Mozambique operation at Temane, which was the workplace he was expected to be engaged in. I accept that mobilisation of the project was delayed on account of the extraneous factors over which the parties had no control and that Sorrell worked at home on an on-off rotational basis, but it had been intended he would be working at the site in Mozambique on a rotational basis, which was the workplace the contract envisaged he would have been engaged with. That workplace is separate and divorced from PSA’s business of engaging contractors to work on sites of clients. On the reasoning in Genrec Mei and Sopelog , this Court’s jurisdiction is not simply determined by his putative employment relationship with PSA. The undertaking he was engaged in was in Mozambique and consequently this Court does not have territorial jurisdiction to entertain his claims.
+
+Costs
+On the question of costs, because the jurisdictional point was only raised at a very late stage, it would not be appropriate to make an adverse cost award against Sorrell. 
+[2023] 3 BLLR 271 (LC) at 282
+
+Order
+The applicant’s referral is struck off the roll for lack of this Court’s territorial
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  At para [33].
+2	  At para [29].
+3	 Commercial Workers Union of SA v Tao Ying Metal Industries and others 2009 (2) SA 204 (CC); (2008) 29 ILJ 2461 (CC) at para [68] [also reported at [2009] 1 BLLR 1 (CC) – Ed].
+4	  At para [11].
+5	  At para [63].
+6	  At para [57].
+
+For the applicant:
+
+Adv P Kantor
+For the respondent:
+
+Adv AB Omar instructed by Cliffe, Dekker, Hofmeyr Incorporated
+
+
+End of Document

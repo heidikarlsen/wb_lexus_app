@@ -1,0 +1,269 @@
+
+
+
+
+Laubscher v General Public Service Sectoral Bargaining Council and others [2020] 10 BLLR 1053 (LC)
+Labour Law Reports
+
+Division: Labour Court, Johannesburg
+Case No: JR2236/17
+Date: 15/06/2020
+Before: A Ramdaw Acting Judge
+Keywords
+
+
+Appeal in terms of section 166 of the LRA
+Unfair labour practices — Disciplinary action short of dismissal — Employer convening disciplinary inquiry under section 188A of LRA and later withdrawing charges — Aborted hearing constituting disciplinary action and falling within scope of unfair labour practice definition.
+Unfair labour practices — Disciplinary action short of dismissal — Remedies — Employer abandoning protracted disciplinary proceedings against employee and withdrawing charges — Employee awarded compensation.
+Sections of the LRA considered
+Section 186(2)(b)
+Section 194(4)
+
+Editor’s Summary
+
+
+The applicant, then Director: Diplomatic Immunities and Privileges at the United Nations in New York was charged with misconduct and served with a notice to attend a disciplinary inquiry conducted under section 188A of the LRA. After he obtained an interdict halting that process, the charges were withdrawn. The applicant referred an unfair labour practice dispute to the respondent bargaining council, seeking compensation for an unfair labour practice. The respondent Arbitrator ruled that the council lacked jurisdiction because the disciplinary action taken by the respondent did not fall within the scope of the definition of “unfair labour practice”. The applicant contended that this award was wrong because his dignity and right to fair labour practices had been infringed and sought compensation and damages to recover legal costs incurred by defending himself against the charges.
+
+After confirming that the test on review in jurisdictional rulings is whether the Arbitrator was right or wrong, the Court noted that section 186(2)(b) of the LRA conferred jurisdiction on the council to deal with “any disciplinary action short of dismissal”. This phrase should not be confused with disciplinary sanctions short of dismissal, such as suspension without pay, warnings and other forms of sanction. The meanings and outcomes of these processes are different. In some cases, the sanction may be set aside and compensation in the form of a solatium, limited to 12 months’ remuneration, may be awarded. The Labour Court also has power to award compensation, damages or review functions performed under the LRA. The definition of “unfair labour” practice includes unfair acts or  
+[2020] 10 BLLR 1053 (LC) at 1054
+omissions that arise between employers and employees involving certain specified matters. In the case of disciplinary short of dismissal any conduct involving disciplinary action falls within the terms of the definition. The action must be disciplinary in nature and intent. This was the case in casu, even though the charges had been withdrawn. The applicant had referred a dispute over disciplinary action which did not result in dismissal. A disciplinary inquiry is an integral part of disciplinary action and falls within the definition of unfair labour practice if it does not end with a dismissal. The Code of Good Practice: Dismissal, also refers to warnings or other “actions short of dismissal”. The applicant was also subject to the public service disciplinary regulations and the section 188A proceedings had all the hallmarks of a disciplinary inquiry, with each party represented by legal practitioners and legal costs being incurred. The process had stretched over a year when the applicant was close to retirement and he had incurred costs and reputational damages, which entitled him to appropriate remedies. The withdrawal of the charges and the fact that the applicant had been allowed to continue working throughout confirmed that the charges were without substance.
+
+The Arbitrator’s jurisdictional ruling was set aside and the applicant was awarded compensation equal to six months’ salary and his costs in the review application.
+
+____________________________________________________________________________________
+
+Ramdaw AJ:
+
+Background
+The applicant was employed by the third respondent as a Director: Diplomatic Immunities and Privileges at the United Nations, New York.
+On 6 September 2016 the employer served the applicant with a notice to attend an inquiry in terms of section 188A of the Labour Relations Act1 (“LRA”) by an Arbitrator containing seven distinct allegations of misconduct (hereinafter referred to as the disciplinary enquiry). On 8 October 2016 the applicant requested certain further particulars to the allegations made which were not forthcoming and the disciplinary enquiry was continuously postponed.
+On 19 December 2016 the applicant approached this Court for an order, inter alia, interdicting the disciplinary action and declaring same invalid which order was granted on an unopposed basis with no order as to costs. The third respondent withdrew the charges against the applicant on or about 28 March 2017.
+The applicant referred an unfair labour practice dispute to the GPSSBC relating to taking disciplinary action short of dismissal in terms of section 186(2)(b) of the LRA wherein he sought compensation in the form of a solatium for the unfair labour practice meted out to him and for the costs  
+[2020] 10 BLLR 1053 (LC) at 1055
+  he incurred in relation to defending himself in the disciplinary enquiry he had to face which was withdrawn on 28 March 2017.
+The second respondent who arbitrated the dispute on 8 October 2017 found that she did not have the jurisdiction to arbitrate this dispute on various grounds as set out in her Jurisdictional ruling
+The applicant seeks an order reviewing and setting aside the aforesaid ruling made by the second respondent. Furthermore for an order declaring that the first respondent has jurisdiction to arbitrate this unfair labour dispute which dispute should be arbitrated by a Commissioner, other than the second respondent. The third respondent opposes this application.
+
+Test for a review of a jurisdictional issue
+The test for a review of a jurisdictional point is set out in detail by Snyman AJ in SABC v CCMA and others2 and is applied herein.
+In cases such as these, where it is about whether the first respondent had jurisdiction, the Labour Court is entitled to, if not obliged, to determine the issue of jurisdiction of its own accord, by deciding de novo whether the determination by the Arbitrator on jurisdiction is right or wrong.3 In Trio Glass t/a The Glass Group v Molapo NO and others4 the Court said:
+
+“The Labour Court thus, in what can be labelled a ‘jurisdictional’ review of CCMA jurisdiction of its own accord. In doing so, the Labour Court is not limited only to the accepted test of review but can in fact determine the issue de novo in order to decide whether the determination by the commissioner is right or wrong.”
+
+In the case of a wrong decision by a CCMA Arbitrator where it comes to the issue of jurisdiction, the decision of the Arbitrator would be reviewable on objectively justiciable grounds.5 It does not matter what the reasoning of the Arbitrator may have been, it is up to the Court to, from an objective perspective, decide whether the requisite jurisdictional facts exist. In Universal Church of the Kingdom of God v Myeni and others6 the Court said:
+
+“. . . the value judgment of the commissioner in a jurisdictional ruling has no legal consequence and that it is only a ruling for convenience. Therefore, the 
+
+ 
+[2020] 10 BLLR 1053 (LC) at 1056
+
+applicable test is simply whether, at the time of termination of his relationship with the church, there existed facts which objectively established that Mr Myeni was indeed the employee of the church. If, from an objective perspective, such jurisdictional facts did not exist, the CCMA did not possess the requisite jurisdiction to entertain the dispute, regardless of what the commissioner may have determined.”
+
+Furthermore, as was held in SA Rugby Players Association and others v SA Rugby (Pty) Ltd and others:7
+
+“The CCMA is a creature of statute and is not a court of law. As a general rule, it cannot decide its own jurisdiction. It can only make a ruling for convenience. Whether it has jurisdiction or not in a particular matter is a matter to be decided by the Labour Court . . .”
+
+As this is a review of a jurisdictional ruling the reasonableness test applicable to review applications does not apply. This Court must consider the issue of jurisdiction de novo and make an appropriate finding on jurisdiction.
+
+Background
+On 6 September 2016 the third respondent (“DIRCO”) gave the applicant a notice to attend an inquiry by an Arbitrator in terms of section 188A of the LRA. The said notice contained seven allegations of misconduct, which allegations pertained to his alleged conduct when the applicant was stationed at the South African Permanent Mission to the United Nations in New York, United States of America.
+The allegations emanate from the authorisation / approval of payments of medical expenses on the applicant’s behalf and other members of DIRCO. In terms of the allegations, he allegedly contravened delegation 2.2 of the Financial Delegation Authority Guideline, as well as section 45(c) of the Public Finance Management Act.8 The Parties agreed to the section 188A of process under auspices of the first respondent as the ruling of the Arbitrator in this inquiry has the same status as an arbitrational award.
+After the withdrawal of the disciplinary charges against the applicant by the third respondent, the applicant referred an unfair labour practice dispute to the first respondent claiming compensation. The third respondent did not attend the conciliation of the dispute and the same was referred for arbitration.
+The arbitration was initially enrolled for hearing on 6 October 2017 and, although the parties agreed to hold a pre-arbitration conference, the parties’ respective legal representatives could not agree on the finalisation of a pre arbitration minutes.
+The third respondent’s legal representatives indicated that they wanted to raise certain jurisdictional arguments in limine and proceeded to hand up  
+[2020] 10 BLLR 1053 (LC) at 1057
+  their Statement of Response, wherein reference is made to certain preliminary points. The applicant prepared a bundle of documents consisting of 263 pages. No oral evidence was led at the arbitration.
+After hearing arguments by both parties’ legal representatives, the second respondent issued her ruling.
+
+Arguments before the second respondent
+The third respondent submitted that the first respondent lacked jurisdiction to determine the referral and raised numerous issues, inter alia:
+18.1 Res judicata/lis pendens – The third respondent contended that the applicant referred a dispute to the Labour Court seeking relief for costs of its application in the Labour Court as the presiding judge refused to grant such costs in favour of the applicant. It also contended that these costs are delictual in nature, ie entitlement to damages. The issue is thus res judicata in so far as it is already been appealed by the applicant, alternatively, lis pendens as the applicant may appeal against the finding of the Labour Court. It therefore argued that the first respondent does not have jurisdiction.
+No cause of action disclosed – The third respondent also indicated that there is no cause of action disclosed by the applicant’s claim for unfair labour practice. It stated that the applicant’s claim falls short of meeting the provisions outlined in section 186(2)(a)–(d) of the LRA since the applicant cited aspects related to dignity and impairment in the eyes of the peers and subordinates, humiliation as a result of being subjected to disciplinary action short of dismissal and monies incurred by it, which are delictual claims to which the first respondent will not have jurisdiction to determine. It also contended that whilst the applicant was subjected to a pre-dismissal arbitration the charges were withdrawn and no outcome was issued. It also contended that the disciplinary action taken against the applicant does not meet the criteria of “short of dismissal” as such will only arise once a sanction has been issued.
+Jurisdiction founded in delict – the third respondent contended that the applicant’s claim does not find jurisdiction before the Council as its claim relates to crimen injuria or malicious prosecution, in which case the first respondent will lack jurisdiction to determine. It indicated that its case is distinguishable and the applicant’s claim for compensation is frivolous.
+The applicant submitted the following summary of its arguments at the arbitration:
+
+“Compensatory relief in terms of the LRA is not strictly speaking a payment for the loss of a job or the unfair labour practice but in fact a 
+
+ 
+[2020] 10 BLLR 1053 (LC) at 1058
+
+monetary relief for the injured feeling and humiliation that the employee suffered at the hands of the employer. Put differently, it is a payment for the impairment of the employee’s dignity. This monetary relief is referred to as a solatium and it constitutes a solace to provide satisfaction to an employee who’s constitutionally protected right to a fair labour practice has been violated . . .”
+
+The applicant indicated that it still intends to appeal the Labour Court judgment issued against it and contended that its claim of unfair labour practice is referenced in terms of its referral form to the Council, i.e. suspension/other disciplinary action short of dismissal and not for the costs in respect of the Labour Court Application wherein there was no order as to costs.
+He argued that whilst the outcome of disciplinary hearing follows a different litigation process and remedy, withdrawal of a disciplinary action can neither be reviewed nor appealed. It also contended that his constitutional right to fair labour practices was violated, dignity impaired in the eyes of its peers and subordinates and has thus suffered humiliation for being subjected to disciplinary action short of dismissal. That he has expended a substantial amount to defend himself against charges that were without merit (since the matter was ultimately withdrawn). He further submitted that the conduct of the third respondent was unfair and justifies that compensation be awarded.
+He further contended that costs should be awarded against the third respondent.
+The second respondent stated the following in her ruling:
+She accepts the third respondent’s contention that section 186(2) of the LRA provides for instances in which a claim of Unfair Labour Practice can be brought before the Council, ie
+Promotion, demotion, probation (excluding disputes about dismissals for reasons relating to probation) or training of an employee or relating to the provision of benefits to an employee;
+The unfair suspension of an employee or any other disciplinary action short of dismissal in respect of an employee;
+A failure or refusal by an employer to reinstate or re-employ a former employee in terms of any agreement; and
+An occupational detriment, other than dismissal, in contravention of the Protected Disclosure Act, 2000 (Act 26 of 2000), on account of the employee having made a protected disclosure defined in that Act.
+According to submissions made by the parties, a pre-dismissal arbitration action was initiated by the third respondent against the applicant, which was later withdrawn without any sanction being issued. The applicant is not challenging the sanction since none was issued but it challenges the taking of the disciplinary action as well 
+
+as the withdrawal of the disciplinary action which the applicant states constitutes an unfair labour practice falling short of dismissal.
+
+The second respondent was of the opinion that the applicant is seeking to alter the scope of the provisions of section 186(2) of the LRA in order to bring its claim within the jurisdiction of the Council. She is not convinced that the applicant was able to make out a case in its claim that the first respondent has jurisdiction to hear and determine his case of unfair labour practice, and accepts the third respondent’s contention that disciplinary action taken against the applicant does not meet the criteria of disciplinary action short of dismissal as provided in section 186(2)(b) of the LRA.
+The third respondent contended that the applicant’s claim does not find jurisdiction before the first respondent as its claim relates to crimen injuria or malicious prosecution. She considered the decision in the ARB Electrical Wholesalers v Hibbert (supra) case on compensatory relief sought by the applicant and stated that this contention can only arise should it be found that the first respondent has jurisdiction to deal with the matter referred to it by the applicant. Section 157(1) of the LRA provides that:
+
+“subject to the Constitution and section 173 of the LRA, and except where this act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters that elsewhere in terms of this Act or in terms of any other law are to be determined by the Labour Court.”
+
+She submitted that the applicant is advised to approach the appropriate forum for a relief in its case as the GPSSBC is not the correct forum.
+As the second respondent held that the first respondent does not have jurisdiction to determine this matter this becomes a correctness review and this Court must make a determination de novo.
+This Court must consider all the material before it and the Heads of Arguments by both counsels. No oral evidence was led at the arbitration nor was any request made to lead any further evidence.
+The applicant makes the following allegations in support of its unfair labour practice dispute before this Court:
+The applicant (Laubscher) contends that the third respondent’s (“DIRCO”) conduct constitutes an unfair labour practice and he is accordingly entitled to compensation for DIRCO’s conduct, particularly in view of the following:
+Laubscher is a senior employee of DIRCO and has been employed for a period of 35 (thirty-five) years with an unblemished disciplinary record and is a mere 30 (thirty) months away from retirement at this stage. He has since retired from service.
+DIRCO’s conduct has violated Laubscher’s constitutionally protected right to fair labour practices;
+Laubscher’s dignity has been impaired in the eyes of his peers and subordinates and he has suffered humiliation as a  
+[2020] 10 BLLR 1053 (LC) at 1060
+  result of having been subjected to disciplinary action short of dismissal;
+Laubscher had to expend a substantial amount of money in order to defend himself against charges that have no merit, and clearly see from the fact that DIRCO withdrew all the charges against him.
+Laubscher’s dignity has been impaired in the eyes of his peers and subordinates and he has suffered humiliation as a result of having been subjected to disciplinary action short of dismissal.
+The applicant seeks payment of damages in the amount of R295 463,67 being the legal costs incurred and a solatium as set out herein.
+The applicant argued as follows before this Court:
+The second respondent formed a view that the first respondent lacked jurisdiction because what the applicant is essentially seeking relates to a claim of crimen injuria or malicious prosecution and that the second respondent did not formally rule on this issue. This issue has, however, been addressed in the review application ex abundantia cautela.
+In essence the second respondent ruled that the first respondent did not have jurisdiction to entertain the applicant’s claim as it is “res judicata”.
+That the second respondent did not formally rule that the first respondent did not have jurisdiction to hear the applicant’s matter since he did not meet the criteria pertaining to disciplinary action short of dismissal as provided for in section 186(2)(b) of the Labour Relations Act 66 of 1995 (“LRA”).
+The second respondent was simply wrong in concluding that the subject matter of arbitration was “res judicata” as set down in her ruling.
+The applicant seeks solatium for the iniuria meted out to him by the third respondent by instituting the disciplinary action against the applicant in the fashion that it did.
+The ruling by the second respondent is wrong and should be reviewed.
+The second respondent was of the wrong view that the Labour Court has exclusive jurisdiction in the current matter as she referred to section 157(1) of the LRA in her ruling.
+The dispute referred by the applicant was not about disciplinary sanction short of dismissal but rather disciplinary action short of dismissal.
+The second respondent’s ruling was wrong and the applicant is entitled to the relief as set out in the Notice of Motion. 
+[2020] 10 BLLR 1053 (LC) at 1061
+The third respondent argued as follows:
+The applicant states that the third respondent intended to subject him to disciplinary action but decided to withdraw all such charges. The disciplinary action had not commenced. The applicant had been presented with a notice to attend a disciplinary enquiry and an amended charge sheet was served on him. The charges were withdrawn in March 2017 prior to any sitting and/or the commencement of the proceedings. The charges were never formally put to the applicant.
+The request for further particular was premature and does not amount to the commencement of the disciplinary action.
+Disciplinary action can be scheduled only after a decision is taken to institute disciplinary action. Consequently, the decision to take disciplinary action does not fall within the scope of “other disciplinary action short of dismissal”.
+The applicant’s complaint falls within the confines of malicious prosecution/iniuria/delictual claim and the first respondent has no jurisdiction to arbitrate over these disputes which are not unfair labour practices.
+The applicant is attempting to obtain his legal costs under the guise of “compensation” which legal costs have been refused in the Labour Court under case number J2906/16.
+The issue was res judicata or lis pendens as an appeal is pending against the Labour Court judgment.
+The only pleaded ground relied on in the Statement of Case which appears to fall within the scope of the LRA was that the applicant’s dignity had been impaired and that the suffered humiliations as a result of having been subjected to disciplinary action short of dismissal. There was, however, no disciplinary action short of dismissal. There was no cause of action made out in terms of section 186(2) of the LRA.
+The applicant’s claim was largely based on delict for malicious prosecution and an alleged iniuria. This is not an unfair labour practice in terms of the LRA.
+
+[Numbering as per transcript – Ed.]
+
+The applicant relied directly on the Constitution for an alleged breach of his right to fair labour practice.
+The second respondent’s decision in finding that the first respondent lacked jurisdiction is a correct decision.
+The Court must make its decision de novo as to whether the first respondent had jurisdiction or not. The third respondent instituted disciplinary action against the applicant and withdrew same before the formal disciplinary action could proceed and be finalised.
+The first respondent has jurisdiction in terms of section 186(2)(b) of the LRA to deal with “any disciplinary action short of dismissal”. This  
+[2020] 10 BLLR 1053 (LC) at 1062
+  phrase was always confused with any disciplinary sanction short of dismissal being suspension without pay, a final written warning, reprimands, caution and a discharge, fines all being sanctions short of an employee being formally dismissed. However, the word used in this section is not disciplinary sanction but disciplinary action. There is a difference in the meanings and outcomes of both these processes.
+In the event of a Labour Court or the CCMA finding that a suspension was unfair, it awards damages in addition to uplifting the sanction. Such damages were in numerous cases awarded as a “solatium”. In the event the courts or the CCMA finding that any disciplinary action was an occupational detriment per the Protected Disclosures Act,10 relief in the form of reinstatement and/or damages are awarded as per section 193(1)(a) of the LRA.
+As per section 194(4) of the LRA the compensation awarded to an employee in respect of an unfair labour practice must be just and equitable in all circumstances but not more than the equivalent of 12 month’s remuneration.
+Section 194 refers to compensation which is in addition to any other amount which the employee is entitled to in terms of any law, collective agreement or contract of employment.
+In terms of section 158 of the LRA the Court enjoys various powers and may make an appropriate order including:
+an award of compensation in any circumstances contemplated in the LRA;
+an award of damages in any circumstances contemplated;
+review the performance and purported performance of any functions provided for in the LRA on any ground that are permissible in law.
+Section 186(2) of the LRA states:
+
+“An unfair labour practice means any unfair act or omission that arises between an employer and employee, involving:
+
+(b) ‘the unfair suspension of an employee or any other unfair disciplinary action short of dismissal in respect of an employee’.”
+It can be an act or omission, arising out of an employment relationship between an employer and an employee. It has to involve unfair conduct (defined), or training of an employee or relating to the provision of benefits, the unfair suspension of an employee or any other unfair disciplinary action short of dismissal, failure or refusal to reinstate an employee and occupation detriment other than a dismissal. The catch word being “involving”. In other words it means involving any other unfair disciplinary action, short of dismissal. If any other disciplinary action is taken which falls short of an actual dismissal the same falls within an unfair labour practice definition. It is also separate from an unfair suspension dispute.  
+[2020] 10 BLLR 1053 (LC) at 1063
+
+  The taking of disciplinary action constitutes an occupational detriment and so does suspension.
+
+John Grogan11 in analysing the provisions of section 186(2)(b) stated that:
+
+“To fall within the terms of Section 186(2)(b), disciplinary action against an employee short of a dismissal must be disciplinary both in nature and in intent. Action is ‘disciplinary’ if it is aimed at correcting errant behaviour for which the employee is responsible. So, for example, a counselling session or a warning for incapacity does not fall within the scope of the definition. The definition is also concerned with disciplinary action. The decision to hold a disciplinary enquiry does not fall within the definition of an unfair labour practice - the action must have been instituted before an employee can refer a dispute relating to disciplinary action short of dismissal. The word action also suggests that employees may not refer a dispute over the content of an employer’s disciplinary policy. A dispute may be entertained only if the employer actually takes action. Only the Labour Court or, perhaps, the High Court, has the power to interdict a disciplinary hearing.”
+
+In this matter disciplinary action has been taken and then the charges were withdrawn bringing it within the scope or definition of referring a dispute relating to disciplinary action short of dismissal.
+Thotlhalemaje J in Special Investigation Unit v CCMA and others12 dealt with a review application to set aside an arbitration award. The issue was whether the failure to institute disciplinary proceedings following upon a complaint and investigation against an employee constituted an unfair labour practice within the meaning of section 186(2) of the LRA. The Commissioner not only found that such a failure constituted an unfair labour practice, but she also awarded the employee six months’ compensation. The award was reviewed and set aside by the Labour Court which found that the conduct of the Special Investigation Unit against the employee did not constitute an unfair labour practice within the meaning of section 186(2)(a) of the LRA.
+The Court held that:
+
+“To the extent that there is no disciplinary action let alone any action short of a dismissal the Commissioner equally had no jurisdiction over the matter as there was no dispute between the parties.”13
+
+The dispute referred by the applicant was not disciplinary sanction short of dismissal but rather disciplinary action short of dismissal. This disciplinary action short of a dismissal constitutes an unfair labour practice and may be only brought by an employee against an employer as it arises out of an employment or a “live relationship”. The elements will be unfairness, arising from a disciplinary action, which action must have commenced; and such a disciplinary action must have the end results of falling short of a dismissal; example of it being withdrawn. Every employee enjoys a constitutional right to fair labour practice and our courts need to define and/or expand on these rights as provided for in the LRA. 
+[2020] 10 BLLR 1053 (LC) at 1064
+Section 185 of the LRA reiterates the right not to be unfairly dismissed or subjected to unfair labour practice. The Labour Court is established as a court of law or equity and section 157 of the LRA defines the jurisdiction of the Labour Court. In section 158 of the LRA there appears to be a distinct difference between compensation and damages. Every employer has the duty to ensure that an employee is not unfairly dismissed nor subjected to an unfair labour practice. The unfair act or omission that arises between any employer and an employee must involve those acts mentioned in paragraphs (a) to (d) of section 186(2) of the LRA. The words “or any other unfair disciplinary action short of dismissal in respect of an employee” is wide and a disciplinary enquiry is an integral part of a disciplinary action. It must arise from an employment relationship as it refers to an employee.
+Item 3 of Schedule 8 being the Code of Good Practice to the LRA relates to “Disciplinary measures short of Dismissal.” This deals with disciplinary rules, standards, expected conduct, forms and content of disciplinary rules. Item 3(3) thereof states that formal procedures do not have to be invoked every time a rule is broken, or a standard is not met. More serious infringements or repeated misconduct may call for a final warning or other action short of dismissal. Dismissal should be reserved for cases of serious misconduct or repeated offences.
+However, the wording in section 186(2)(b), speaks of any other unfair disciplinary action short of dismissal in respect of an employee as compared to other action short of dismissal recorded in item 3 of Schedule 8 to the LRA. The former has reference to any other unfair disciplinary action short of dismissal distinct from other action short of dismissal which refers more to a sanction as reference is made to a final warning.
+In this matter reference to a disciplinary action can only refer to the section 188A of the LRA enquiry instituted. The applicant was a public servant subject to the SMS Handbook, and in particular Chapter 7. The code advocates prompt and speedy investigation as well as it promotes prompt disciplinary action. The second respondent was appointed to conduct an inquiry into allegations about the conduct of the applicant as set out in the amended charge sheet. The applicant was advised of the inquiry against him and consented to the same as early as 6 September 2016. Both parties had legal practitioners acting for them and incurred costs with regards to the same. In the ordinary course a party who withdraws an action in court tenders the wasted costs occasioned by such withdrawal. Had this matter proceeded to finality and the applicant succeeded then he could have claimed costs in the GPSSBC. However, the charges were withdrawn which brought the disciplinary action to an end, falling short of a dismissal.
+It is common cause that the third respondent instituted the section 188A of the LRA enquiry against the applicant. There was a request for further particulars made by the applicant; there was a delay in furnishing the same; there was a Labour Court Application to stay or interdict the disciplinary proceedings and then there was a withdrawal of the same filed in the GPSSBC. The Labour Court application became academic. This  
+[2020] 10 BLLR 1053 (LC) at 1065
+  process took over a year to complete whilst the applicant suffered financial prejudice as well as reputational damages given his seniority.
+The third respondent withdrew as attorney of record in the Labour Court matter and did not file any answering affidavit. The applicant obtained the requested order in this Court on an unopposed basis. The Court exercised its discretion in terms of section 162 of the LRA and did not award costs to the applicant. The applicant specified that it does not intend claiming those costs in this action but rather the costs of engaging his legal practitioners to defend him in the section 188A of the LRA pre-dismissal arbitration in addition to damages for solatium.
+In ARB Electrical Wholesalers (supra) the Labour Appeal Court dealt with the meaning of compensation and damages and distinguished the same. “Compensation being a solatium, a monetary relief for the humiliation an employee suffered and a payment for the impairment of an employee’s dignity. Proof of loss is not necessary in a claim for compensation under LRA. The Court further said that damages of payment for the loss suffered as a result of a wrongful act under the Employment Equity Act”.
+The Court further stated the following:
+“[23] Compensatory relief in terms of the LRA is not strictly speaking a payment for the loss of a job or the unfair labour practice but in fact a monetary relief for the injured feeling and humiliation that the employee suffered at the hands of the employer. Put differently, it is a payment for the impairment of the employee’s dignity. This monetary relief is referred to as a solatium and it constitutes a solace to provide satisfaction to an employee who’s constitutionally protected right to fair labour practice has been violated. The solatium must be seen as a monetary offering or pacifier to satisfy the hurt feeling of the employee while at the same time penalising the employer. It is not, however, a token amount hence the need for it to be ‘just and equitable’ and to this end salary is used as one of the tools to determine what is ‘just and equitable’.
+[24] The determination of the quantum of compensation is limited to what is ‘just and equitable’. The determination of what is ‘just and equitable’ compensation in terms of the LRA is a difficult horse to ride. There are conflicting decisions regarding whether compensation should be analogous to compensation for a breach of contract or for a delictual claim. In my view, and as I said earlier, because compensation awarded constitutes a solatium for the humiliation that the employee has suffered at the hands of the employer and not strictly a payment for a wrongful dismissal, compensation awarded in unfair dismissal or unfair labour practice matters is more comparable to a delictual award for non-patrimonial loss. While a delictual action (i.e. action injuriarum) for non-patrimonial loss actually suffered by the claimant. Hence, awards made under a delictual claim for non patrimonial loss may serve as a guide in the assessment of just and equitable compensation under the LRA.”
+
+  In Minister for Justice and Constitutional Development and another v Tshishonga14 (Tshishonga), the Labour Appeal Court in an award of  
+[2020] 10 BLLR 1053 (LC) at 1066
+  solatium referred to the delictual claim made under the action iniuriarum for guidance in what would constitute just and equitable compensation for non-patrimonial loss in the context of an unfair labour practice. It stated that since compensation serves to rectify an attack on one’s dignity, the relevant factors in determining the quantum of compensation in these cases included but were not limited to:
+
+“. . . the nature and seriousness of the iniuria, the circumstances in which the infringement took place, the behaviour of the defendant (especially whether the motive was honourable or malicious), the extent of the plaintiff’s humiliation or distress, the abuse of the relationship between the parties, and the attitude of the defendant after the iniuria had taken place”.
+
+
+The Labour Appeal Court in Minister of Justice and Constitutional Development v Tshishonga15 held that compensation has to be just and equitable but cannot be more than the equivalent of 12 months’ remuneration.
+The Court further stated:
+
+“The question thus is what is just and equitable in circumstances where the compensation is for non-patrimonial loss. In this connection, some assistance can be gained from the jurisprudence relating to the award of a solatium in terms of the action injuriarum. In these cases, the award is subject to one exception of a non-patrimonial nature, and is in satisfaction of the person who has suffered an attack on their dignity and reputation or an onslaught on their humanity. The exception is for the amount relating to the costs of R177 000 which were incurred by the applicant in having to defend himself, and which are patrimonial by nature. Factors regarded by the court as relevant to the assessment of damages generally included the nature and seriousness of the iniuria, the circumstances in which the infringement took place, the behaviour of the defendant (especially whether the motive was honourable or malicious), the extent of the Plaintiff’s humiliation or distress, the abuse of a relationship between the parties and the attitude of the defendant after the iniuria had taken place. It should be noted that this list is not exhaustive in that specific forms of infringement have their own peculiar factors to consider. The damages that were awarded was the sum of R177 000 for legal costs incurred and the sum of R100 000 for solatium.”
+
+The applicant sought reimbursement of his costs incurred in him defending the charges brought in the section 188A of the LRA enquiry and not the costs in bringing its action in this Court under case number J2906/16. This dispenses with the issue of res judicata or lis pendis as raised in the ruling.
+
+Conclusion
+The institution of the section 188A of the LRA enquiry or a pre-dismissal arbitration falls within the definition of disciplinary action short of a dismissal of an employee as set out in section 186(2)(b) of the LRA.
+The service of the amended charge sheet constituted and confirmed the taking of disciplinary action. The withdrawal of the charges confirmed  
+[2020] 10 BLLR 1053 (LC) at 1067
+  that the same lacked merit and may have been frivolous or vexatious or even malicious. There was a considerable delay from the date of finalisation of the investigation and the taking of the disciplinary action. The applicant claimed the allegations made were baseless and lacked merit. There were inconsistencies in the application of the disciplinary code and it may have bordered on malicious prosecution. It is quite clear that the applicant suffered patrimonial loss, occasioned by the delay in the finalisation of the disciplinary enquiry and incurred legal costs in the GPSSBC before the same was withdrawn. Any legal costs relating to the institution of the action in this Court under case number J2906/16 is excluded from any compensation awarded herein.
+It is trite that discipline must be brought in a prompt fashion. Failure to do so annihilates the disciplinary process and as a necessary consequence thereof that the charges against the employee could fall away in totality. In the unreported judgment of Fritz Letsoni Mohlala v South African Post Office and others,16 the Labour Court held that the delay in the disciplinary process was unfair and that justice delayed is justice denied.
+It is common cause that the applicant was never suspended and still rendered his duty daily pending the disciplinary enquiry which was withdrawn. The applicant questioned that if the allegations against him were so serious, it is indeed questionable why he was given his daily tasks to fulfil and why he was allowed to continue to be employed in a senior and influential level. The applicant found it mind-boggling why the third respondent seemed hell-bent in proceeding with what he called a travesty up and until the charges were withdrawn.
+In South African Post Office Limited v Soman NO and others,17 Cele J stated:
+“[22] The compensation that an employee, who has been unfairly dismissed or subjected to unfair labour practice, may be awarded is not aimed at making good the patrimonial loss that she has suffered. The concept of loss or patrimonial loss may play a role to evince the impact of the wrong upon the employee and thus assists towards the determination of appropriate compensation, but compensation under the LRA is a statutory compensation and must not to be confused with a claim for damages under the common law, or a claim for breach of contract or a claim in delict. Hence, there is no need for an employee to prove any loss when seeking compensatory relief under the LRA.
+[23] Compensatory relief in terms of the LRA is not strictly speaking payment for the loss of a job or the unfair labour practice but in fact a monetary relief for the injured feeling and humiliation that the employee suffered at the hands of the employer. Put differently, it is a payment for the impairment of the employee’s dignity. This monetary relief is referred to as a solatium and it constitutes a solace to provide satisfaction to an employee who’s constitutionally protected right to fair labour practice has been violated. The solatium must be seen as a 
+
+monetary offering or pacified to satisfy the hurt feeling of the employee while at the same time penalising the employer. It is not however, a token amount hence the need for it to be ‘just and equitable’ and to this end salary is sued as one of the tools to determine what is “just and equitable”.
+
+The applicant was a career diplomat and spent almost his entire working career serving the third respondent. He had some 30 months to go to retirement when he was subjected to this disciplinary action. By the time this matter was heard in this Court his Counsel confirmed that he had already retired from service. However, he suffered a great degree of humiliation, loss of dignity and reputational damages – all at the tail end of his career. He stated that he was for the first time in his career subjected to drastic disciplinary action which was then withdrawn against him. It is quite clear that he suffered damages and is entitled to be compensated for such damages as he was put through an ordeal which was uncalled for. The third respondent is liable to pay the applicant a solatium.
+The applicant incurred legal expenses in the GPSSBC in pursuing his defence to this action which he was entitled to do. He was entitled to engage the services of a legal practitioner who instructed an Advocate, given the complexity of the matter. The third respondent also instructed an advocate to represent them whilst the state attorney acted for the third respondent. The applicant furnished statement of accounts from his attorneys, which puts the costs at R295 463,67 for attorney and client costs. However, this amount included the costs incurred in case number J2906/16 which was disallowed. This Court cannot speculate on the actual costs incurred in the arbitration matter without proper documentary proof and will apply the most appropriate tariff in reimbursing the applicant for these costs which will include his counsel’s fees.
+The applicant will be entitled to his legal costs excluding any costs which became the subject matter in the Labour Court under case number J2906/16 wherein the Court exercised its discretion in terms of section 162 of the LRA and did not allow the same. The applicant stated that he is not claiming these costs in this action and requests that his costs incurred in the GPSSBC be paid to him obviously at a rate higher than prescribed – being his attorney and client costs. The third respondent’s disciplinary action was withdrawn and the taking of this disciplinary action placed the applicant in a predicament and he had to defend himself. The third respondent is a responsible State Department and would have known better than to have treated the applicant unfairly in the manner it did.
+This Court needs to make an order which is just, fair and equitable but not exceeding 12 months’ compensation calculated at the applicant’s earnings per section 198 of the LRA in respect of the solatium claimed. The applicant earned R997 476 per annum at the time of the commission of the unfair labour practice as per a salary advice submitted.
+The institution of the section 188A of the LRA inquiry by an Arbitrator constituted the taking of disciplinary action short of dismissal in terms of  
+[2020] 10 BLLR 1053 (LC) at 1069
+  section 186(2)(b) of the LRA. The same was unfair and the third respondent committed an unfair labour practice against the applicant who is entitled to be compensated for the same as set out herein.
+The second respondent’s jurisdictional ruling was wrong and the first respondent enjoys the jurisdiction to deal with the unfair labour practice lodged in terms of section 186(2)(b) of the LRA relating to the unfair disciplinary action short of a dismissal of an employee. An appropriate order for the payment of the costs of the section 188A of the LRA inquiry will be on Scale D of the Magistrate’s Court Tariff plus Counsel’s fees incurred which costs are to be taxed by the first respondent.
+The second respondent’s ruling is incorrect and is to be reviewed and set aside. This Court considered the matter de novo and in terms of the Court’s findings it will be fair and equitable to dispose of this matter in this Court which has all the facts before it rather than to send it back to the third respondent to be dealt with afresh by another Arbitrator other than the second respondent as this dispute arose nearly 4 years ago.
+An appropriate, just, fair and equitable compensation in respect of solatium will be the sum of R498 738 which is the equivalent of six (6) month salary.
+This Court has in terms of section 162 of the LRA a discretion in awarding costs and finds no reason why the costs should not follow the order.
+In the premises, the following order is made.
+
+Order
+The jurisdiction ruling dated 8 October 2017 issued by the second respondent is reviewed and set aside.
+The third respondent is to pay the applicant the amount of R498 738.
+The third respondent is to pay the taxed costs incurred by the applicant in defending the section 188A of the LRA Inquiry on Scale D of the Magistrates Court Tariff which costs includes counsel’s fees.
+The third respondent is to pay the costs of this application.
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  66 of 1995, as amended.
+2	  Unreported decision, [2017] ZALCJHB 87, case number JR745/16. (Delivered 8 March 2017).
+3	  See Asara Wine Estate and Hotel (Pty) Ltd v Van Rooyen and others (2012) 33 ILJ 363 (LC) at para [23] [also reported at [2012] JOL 29127 (LC) – Ed]; Hickman v Tsatsimpe NO and others (2012) 33 ILJ 1179 (LC) at para [10] [also reported at [2012] 5 BLLR 493 (LC) – Ed]; Protect a Partner (Pty) Ltd v Machaba-Abiodun and others (2013) 34 ILJ 392 (LC) at paras [5]–[6] [also reported at [2013] JOL 31048 (LC) – Ed].
+4	  (2013) 34 ILJ 2662 (LC) at para [22]. See also Kukard v GKD Delkor (Pty) Ltd (2015) 36 ILJ 640 (LAC) at para [12] [also reported at [2015] 1 BLLR 63 (LAC) – Ed]; Phaka and others v Bracks NO and others (2015) 36 ILJ 1541 (LAC) at para [31] [also reported at [2015] 5 BLLR 514 (LAC) – Ed].
+5	  See SA Commercial Catering and Allied Workers Union v Speciality Stores Ltd (1998) 19 ILJ 557 (LAC) at para [24] [also reported at [1998] 4 BLLR 352 (LAC) – Ed]; Zeuna-Starker Bop (Pty) Ltd v National Union of Metalworkers of SA (1999) 20 ILJ 108 (LAC) at para [6] [also reported at [1998] 11 BLLR 1110 (LAC) – Ed].
+6	  (2015) 36 ILJ 2832 (LAC) at para [27] [also reported at [2015] 9 BLLR 918 (LAC) – Ed].
+7	  (2008) 29 ILJ 2218 (LAC) at para [40] [also reported at [2008] 9 BLLR 845 (LAC) – Ed].
+8	  1 of 1999.
+10	  26 of 2000.
+11	  Grogan Employment Rights (1ed) (Juta & Co, Cape Town 2013) at 135–136.
+12	  Unreported decision. Case number JR509/14. Delivered on 21 April 2017.
+13	 Ibid at para [16].
+14	  (2009) 30 ILJ 1799 (LAC) [also reported at [2009] 9 BLLR 862 (LAC) – Ed].
+15	 Ibid at para [18].
+16	  Unreported decision. Case no: JR737/2010. Delivered on 10 June 2013.
+17	  Unreported decision. Case no: JR1368/12. Delivered on 25 February 2016.
+
+For the applicant: 
+
+Adv P Bekker instructed by Gildenhuys Malatji Incorporated
+For the first respondent: 
+
+Adv L Pillay instructed by State Attorney, Pretoria
+
+
+End of Document

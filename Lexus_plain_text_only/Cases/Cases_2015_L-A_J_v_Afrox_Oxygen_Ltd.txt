@@ -1,0 +1,69 @@
+
+
+
+
+L-A J v Afrox Oxygen Ltd [2015] 12 BLLR 1213 (LC) 
+Labour Law Reports
+
+Division: Labour Court, Johannesburg
+Case No: JS532/13
+Date: 03/07/2014
+Before: A van Niekerk Judge
+Keywords
+
+
+Application in terms of section 191(5)(a)(i) of the LRA
+Dismissal — Automatically unfair — Protected disclosure — Employee claiming that employer flouted provisions of labour acts without laying factual basis for claim or proving that she reasonably believed allegation — Dismissal not automatically unfair.
+Protected Disclosures — What constitutes — Employee claiming that employer flouted provisions of labour acts without laying factual basis for claim or proving that she reasonably believed allegation — Disclosure not protected.
+Sections of the LRA considered:
+Section 187(1)(h)
+
+Editor’s Summary
+
+
+The applicant was dismissed after she disagreed with a manager over a proposal that an employee be up-graded. She claimed that her dismissal was automatically unfair as she had made a disclosure in terms of the Protected Disclosures Act 26 of 2000. The respondent contained that the applicant had been dismissed for incompatibility.
+
+The Court noted that disclosed information is regarded as protected if it relates to the conduct of an employer and if it is disclosed by an employee who has reason to believe that the employer has failed to comply with a legal obligation or has committed a criminal offence. An employee who makes a protected disclosure may not be dismissed. The burden of proving that the disclosure is protected rests on the employee. When determining whether disclosure was reasonable, a court will take into account inter alia the identity of the person to whom disclosure was made, the seriousness of the alleged impropriety, whether the employee was bound by a duty of confidentiality and the public interest. While a belief need not necessarily be correct to be reasonable, wild and unsubstantiated allegations do not enjoy protection.
+
+Turning to the facts, the Court noted that the applicant had suggested that, by refusing to re-grade employees as she had suggested, the respondent was distorting the information supplied to the Department of Labour concerning income differentials. The Court found that this allegation had no factual basis to support the existence of a reasonable belief that the respondent was distorting its reports. The applicant was unable under cross-examination to explain several of her 
+[2015] 12 BLLR 1213 (LC)  at 1214
+allegations, or to point to the provisions of the labour legislation she claimed that the respondent was flouting. There was no basis on which to find, or believe, that the respondent’s grading system was unlawful. The applicant had failed to make out a case that the information she had disclosed to the respondent was worthy of protection or that her belief that the respondent was acting unlawfully was reasonable.
+
+The Court declined to deal with the fairness of the dismissal for incompatibility as that issue did not fall within its jurisdiction.
+
+The application was dismissed, with no order as to costs.
+
+____________________________________________________________________________________
+
+Van Niekerk J:
+
+This is an interlocutory application in which the applicant seeks to strike out a portion of the respondent’s statement filed in response to her statement of claim, in which she contends that she was dismissed for a reason that is automatically unfair.
+The clause that the applicant seeks to have struck out reads as follows:
+Applicant was consulted and presented with a termination proposal before Respondent could terminate her employment. One of the terms of the proposal was that Respondent would pay an equivalence of three months’ salary to the Applicant. Applicant rejected the particular proposal and demanded to be paid an equivalence of 24 months’ salary, which she later reduced to 12 months at the meeting with Mr. Kimber and Mrs Makwela. Respondent increased the offer to a maximum of an equivalence of 6 months’ salary. Applicant rejected the second offer.”
+
+  This is a response to the following averment in the statement of claim:
+
+“18. On 19 March 2013 the applicant was summarily dismissed by the respondent . . .
+without prior consultation.”
+The applicant contends that the contents of clause 22.3 of the statement of response ought to be struck out on the basis that they disclose the content of settlement negotiations which by their nature are privileged.
+The applicable rule can be simply stated – statements made, either expressly or impliedly, without prejudice in the course of bona fide negotiations for the settlement of a dispute may not be disclosed in evidence unless both parties consent (see Zeffertt and Paizes The South African Law of Evidence (2ed) at 700). It is well-established that the words “without prejudice” hold no particular magic; what matters is whether the statement forms part of genuine negotiations for the compromise of a dispute (Zeffertt and Paizes (supra) at 703).
+In the present instance, it is not disputed that on 14 March 2013, the respondent addressed a letter to the applicant proposing a basis on which the applicant’s employment would terminate, by mutual consent. This letter and the terms of the proposal are annexed to the statement of claim. What transpired afterward appears from the respective statements to have 
+[2015] 12 BLLR 1213 (LC)  at 1215
+  been an engagement between the applicant and a Mr Kimber and Mrs Makwela at which various counter-proposals were made. This is what appears to be captured in the first (unnumbered) paragraph contained in clause 22.3 of the respondent’s statement. What follows, in the second and again unnumbered paragraph of clause 22.3 is a reference to later correspondence conducted between the parties’ respective attorneys during which further proposals were made and responded to. Indeed, copies of letters from the applicant’s attorney to the respondent’s attorney on 24 April 2014 specifically marked “without prejudice” and a response, dated 26 April 2013 in which a counter-proposal is made, is attached to the statement of defence.
+In my view, there is a clear distinction to be drawn between the first and second paragraphs of clause 22.3. The first directly addresses the averment that the applicant’s termination of employment had been effected without any consultation, and suggests that prior to the termination of the applicant’s employment and prior to any dispute between the parties, an attempt was made to secure a termination by mutual consent. This attempt was initiated by the respondent’s proposal, to which the applicant referred in her statement of claim, and to which she responded prior to the termination of her employment. These were not proposals made in the context of any negotiation to settle a dispute between the parties; rather, they were negotiations on the terms of a mutually agreed separation.
+The second paragraph concerns events that occurred subsequent to the termination of employment and once both parties had instructed attorneys. The content of the correspondence referred to and annexed to the statement of defence clearly reflects genuine negotiations in an effort to settle the dispute between the parties. In respect of this averment, the applicant’s submissions stand to be upheld and it follows that the relevant portion of clause 22.3 ought to be struck out.
+
+  I make the following order:
+
+The second paragraph in clause 22.3 of the respondent’s statement of defence, commencing with the words “Applicant later persisted with the demand for . . .” is struck out.
+There is no order as to costs.
+
+No cases were referred to in the above judgment.
+
+For the applicant:
+Adv I Posthumus instructed by Senekal Simmons Incorporated
+For the respondent:
+Mr J Baloyi of Baloyi Attorneys
+
+
+End of Document

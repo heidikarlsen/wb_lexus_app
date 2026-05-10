@@ -1,0 +1,791 @@
+
+
+
+
+Maughan v Zuma (Campaign for Free Expression and others as amici curiae) and a related matter  [2023] 3 All SA 484 (KZP)
+All South African Law Reports
+
+Division: Kwazulu-natal Division, Pietermaritzburg
+Case No: 12770/22P and 13062/22P
+Date: 7 June 2023
+Before: GN KRUGER, JI HENRIQUES and TM MASIPA JJ
+
+Notes
+
+For Criminal Procedure see:• LAWSA (3ed) (Vol 12, paras 1–243)
+
+• Hiemstra’s: Criminal Procedure issue 13 Durban LexisNexis May 2020
+
+Keywords
+
+
+Criminal Law and Procedure — Private prosecution — Application for setting aside of summons issued for purpose of instituting a private prosecution — Section 7(2)(a) of the Criminal Procedure Act 51 of 1977 requires that a private prosecutor must produce a nolle prosequi certificate before a summons is issued — Section 7(1)(a) requires private prosecutor to allege and prove an injury caused by accused against whom such prosecution is aimed — Private prosecution instituted for an ulterior purpose is an abuse of court process.
+
+Editor’s Summary
+
+
+In two separate applications, the respective applicants (“Ms Maughan and Mr Downer”) sought the the setting aside of summons issued for the purpose of instituting a private prosecution against them by the respondent (“Mr Zuma”). Ms Maughan was a senior legal journalist who had been reporting on the criminal investigation of Mr Zuma and the numerous legal challenges and interlocutory proceedings relating to his prosecution, for almost 20 years. Mr Downer was a senior State advocate in the office of the National Prosecuting Authority, Cape Town. Mr Zuma, former President of South Africa, was the private prosecutor against both applicants.
+
+Based on a nolle prosequi obtained in terms of section 7(2) of the Criminal Procedure Act 51 of 1977, Mr Zuma caused a summons in criminal cases to be issued against the applicants. Mr Downer was charged with contravening section 41(6)(a) and (b) of the National Prosecuting Act 32 of 1998. Specifically, he was accused of sanctioning the disclosure to Ms Maughan of a letter concerning his medical status and disclosing official information to another journalist (“Mr Sole”). Ms Maughan was accused of similar contraventions – and specifically disclosing to her readers and the general public the contents of the medical letter, and aiding and abetting Mr Downer.
+
+In her application to set aside the summons, Ms Maughan contended that Mr Zuma had not obtained a nolle prosequi certificate from the Director of Public Prosecutions entitling him to institute the private prosecution against her; and that he lacked standing to institute such prosecution under section 7(1) of the Criminal Procedure Act 51 of 1977. Mr Downer averred that the private prosecution was unsustainable; the charge of unauthorised disclosure to Mr Sole was groundless; Mr Zuma did not satisfy the requirements for standing in terms of section 7(1)(a) of the Criminal Procedure Act; and the private prosecution was an abuse of process. 
+
+Held – The prosequi certificate relied on by Mr Zuma clearly referred only to Mr Downer. The certificate, when summons was issued against Ms Maughan, was not issued in respect of a criminal case against her. A second nolle prosequi certificate with wider ambit could not cure the absence of a nolle prosequi  
+[2023] 3 All SA 484 (KZP) at 485
+certificate pertaining to Ms Maughan at the time the summons in the private prosecution was issued as section 7(2)(a) requires that a private prosecutor must produce a nolle prosequi certificate before a summons is issued. Moreover, Ms Maughan was clearly not named as an accused in the second complaint. The summons issued against Ms Maughan was therefore unlawful and was set aside.
+
+Both applicants argued that Mr Zuma lacked standing to institute the private prosecution in terms of the provisions of section 7(1) of the Criminal Procedure Act. Section 7(1)(a) provides for private prosecution where the Director of Public Prosecutions declines to prosecute for an alleged offence committed against a “private person who proves some substantial and peculiar interest in the issue of the trial arising out of some injury which he individually suffered in consequence of the commission of the said offence”. Mr Zuma failed to allege and prove an injury in the context of section 7(1)(a), and the summons in respect of both applicants was also defective on that ground.
+
+Finally, both applicants submitted that the summons was an abuse of the court process. Where a private prosecution such as alleged in the current matter has been initiated for an ulterior purpose, it constitutes a breach of the principle of legality and amounts to an abuse of the process of the court. A prosecution which is unsustainable also constitutes an abuse of the process of court. A court is then obliged to intervene and end the abuse of process. Considering the individual grounds of alleged abuse of process, the court found Mr Zuma’s private prosecution of the applicants to constitute an abuse of process as it had been instituted for an ulterior purpose. The applicants were thus entitled to the relief sought in the respective notices of motion.
+
+____________________________________________________________________________________
+
+
+
+
+
+Cases referred to in judgment
+
+Legislation Considered
+
+Constitution of the Republic of South Africa, 1996: s 16(1), s 34
+
+Criminal Procedure Act 51 of 1977: s 7, s 51(1), s 60(4), s 106
+
+National Prosecuting Act 32 of 1998: s 22(4)(f), s 41(6)
+
+Uniform Rules of Court: rule 7
+
+The Court: 
+
+Introduction
+In both case number 12770/22P and case number 13062/22P, the applicants, Karyn Maughan (“Maughan”) and William John Downer (“Downer”) respectively, seek the following orders: 
+the setting aside of the summons under case number CC52/2022P issued out of the KwaZulu-Natal Division of the High Court, Pietermaritzburg, on 5 September 2022, for the purpose of instituting a private prosecution against the applicants, by the respondent; 
+interdicting and restraining the respondent from re-instituting, proceeding with or from taking any further steps pursuant to the said private prosecution; and
+costs of the applications, on an attorney and own client scale, including the costs of two counsel each employed by the applicants. 
+On 10 March 2023 an order was sought and obtained, by consent of all the parties, for the following institutions to be admitted as amici curiae; 
+Campaign for Free Expression; 
+Media Monitoring Africa Trust; 
+South African National Editors’ Forum; 
+The Helen Suzman Foundation; and 
+Democracy in Action NPC.
+It must however be recorded that the applications by the entities listed in (a)–(d), supra, were opposed by the respondent. It was at the eleventh hour that the respondent decided to consent to the admission of the aforesaid parties as amici curiae. 
+
+The parties
+Ms Maughan is a senior legal journalist employed by News24. She has been reporting on the criminal investigation of the respondent by the Scorpions; his subsequent indictment; and the numerous legal challenges and interlocutory proceedings relating to the respondent’s prosecution, for almost 20 years. 
+Mr Downer is a Senior Counsel and Senior State Advocate stationed at the offices of the National Prosecuting Authority, Cape Town. 
+The respondent is a former President of the Republic of South Africa. He is also the private prosecutor against both applicants. 
+
+The amici
+The Campaign for Free Expression (“CFE”) is a not for profit civil society organisation described as an institute “dedicated to protecting and expanding the right to free expression for all and enabling everyone to exercise the right to the full regardless of the reason, form or medium, whether this be by speaking out, protesting, arguing or whistle blowing.”
+Media Monitoring Africa Trust (“MMA”), a not for profit organisation, has been described as an institution that “has consistently worked to promote ethical and fair journalism by advocating for freedom of expression and supporting the responsible free flow of information to the public on matters of public interest. In doing so, MMA acts as a watchdog that seeks to enable an engaged and informed citizenry, and promotes a culture where the media and the powerful respect human rights to encourage a just and fair society.” 
+The South African National Editors Forum (“SANEF”) consists of editors, journalists and journalism trainers. The organisation “is committed to championing South Africa’s hard-won freedom of expression and promoting quality, ethics and diversity in the South African media.” 
+The Helen Suzman Foundation (“HSF”) is a “non-governmental organisation whose objectives are to defend the values and institutions that underpin our constitutional democracy and to safeguard the rights of vulnerable persons who are unable to utilise the ordinary political process in order to do so.” 
+Democracy in Action (“DIA”) is described as a “not-for-profit company, non-profit organisation and civil society organisation, the mandate and purpose of which is to advance, support and defend democratic and constitutional principles and values in the Republic of South Africa, and to support constitutional democracy.” 
+[2023] 3 All SA 484 (KZP) at 489
+The first, second, third and fifth amici have been admitted as such only in respect of the application instituted by Maughan. The fourth amicus has been admitted in respect of the application instituted by Downer. 
+
+Background
+Following a criminal complaint by the respondent dated 21 October 2021, the Director of Public Prosecutions, KwaZulu-Natal Division, on 6 June 2022, issued a certificate in terms of section 7(2) of the Criminal Procedure Act 51 of 1977 (the “CPA”). This is commonly referred to as a “nolle prosequi”. The contents of the said certificate are important and provide: 
+As a result, the respondent, on 5 September 2022 and in his capacity as “the private prosecutor” caused a “summons in a criminal case” to be issued and served on the applicants. The charges against the applicants are as follows: 
+
+“THE CHARGE(S):
+
+IN RESPECT OF ACCUSED 1
+
+Contravening section 41(6)(a), read with section 41(7) of Act 32 of 1998. 
+
+  (Unauthorised disclosure of information) (Only in respect of Accused 1)
+
+Contravening section 41(6)(b), read with section 41(7) of Act 32 of 1998. 
+
+  (Unauthorised disclosure of the contents of a document) (Only in respect of accused 1).”
+
+“IN RESPECT OF ACCUSED 1 AND/OR ACCUSED 2 
+
+Contravening section 41(6)(b), read with section 41(7) of Act 32 of 1998. 
+
+  (Unauthorised disclosure of the contents of a document) (In respect of both accused 1 and accused 2)
+
+Accomplice to the breach of section 41(6)(a) and/or (b), read with section 41(7) of Act 32 of 1998 (Only in respect of accused 2).” 
+[2023] 3 All SA 484 (KZP) at 490
+In a nutshell, the charges levelled against Downer are that: 
+on 9–10 August 2021, he sanctioned the disclosure by Advocate Andrew Breitenbach SC to Maughan of a letter marked “Medical Confidential” written by Brigadier General (Dr) Mdutywa (“Mdutywa”) of the South African Military Health Service; and 
+between 4 and 13 June 2008, Downer disclosed official information to a journalist, namely, Mr Sam Sole. 
+In respect of Maughan, it is alleged that: 
+she disclosed to News24 readers and/or the general public, without the requisite permission, the contents of the aforesaid letter written by Mdutywa; and 
+that she facilitated, aided and/or abetted Downer in the commission of the crime of contravening section 41(6)(a) and/or (b) of the National Prosecuting Authority Act 32 of 1988 (the “NPA”), when Downer sanctioned Mr Breitenbach to disclose the said letter to her, without the requisite permission. 
+In response thereto, the applications, set out in paragraph 1, supra, were instituted. 
+Maughan seeks to set aside the summons on three grounds, viz: 
+that the respondent, Mr Zuma, has not obtained a nolle prosequi certificate from the Director of Public Prosecutions entitling him to institute the private prosecution against her; 
+that Mr Zuma lacks standing to institute the private prosecution under section 7(1) of the CPA 51 of 1977 (the “CPA”); and 
+that the summons is a gross abuse of court process. 
+Downer has alleged that: 
+the private prosecution is unsustainable; 
+the charge of unauthorised disclosure to Mr Sole is legally and factually groundless; 
+Mr Zuma does not satisfy the requirements for standing in terms of section 7(1)(a) of the CPA; and 
+the private prosecution is an abuse of process. 
+The papers filed in this matter are extensive and the argument spanned two full court days. This Court was favoured with extensive written submissions by the amici as well as the applicants and the respondent who raised extensive argument in relation to the merits of the matter. After having carefully considered all the oral and written submissions, we are of the view that there are several matters raised which are dispositive of the application and we propose to only focus on those in this judgment.
+There are several points in limine raised by Downer in his application as well as by the respondent in opposition to the relief sought specifically by Downer. We propose to deal with these first and thereafter turn to the individual grounds advanced.
+
+(a)  Urgency
+In his opposing affidavit, the respondent has questioned the applicant’s (Maughan’s) launching of the application on an urgent basis. However, it  
+[2023] 3 All SA 484 (KZP) at 491
+  appears that this objection to the proceedings is not being persisted with. Indeed, it has not been raised in the heads of argument, nor has counsel for the respondent, Mr Mpofu SC, raised this issue in his submissions before us. 
+In any event, a consideration of the chronology of the history of the proceedings reveals that the reasons for launching the application on an urgent basis were justifiable. The summons was issued on 5 September 2022 and called upon Maughan to appear at the Pietermaritzburg High Court at 9:30am on 10 October 2022 in connection with the charges set out in the indictment. This application was launched on 21 September 2022 with the object of having the summons set aside. The matter was duly enrolled to be heard in court on 10 October 2022. Given the limited time period within which to act, there can be no criticism levelled against the application being launched on an urgent basis. Accordingly, there is no merit in this point in limine.
+
+(b)  Jurisdiction and/or prematurity
+This point in limine has been raised by the respondent in respect of both the applications launched by Maughan and Downer. The respondent contends that this Court lacks jurisdiction to determine the various grounds raised in the applications for the relief sought. The further argument was advanced that any challenge to the title of the respondent to bring a private prosecution should be raised by way of a special plea in the criminal court. Reliance is had on the provisions of section 106(1)(h) of the CPA which mentions that a plea of no title by a private prosecutor can be pleaded. 
+Relying on the decision of Wallis JA in Moyo and another v Minister of Justice and Constitutional Development and others; Sonti and another v Minister of Justice and Correctional Services and others1 the respondent contends that it is incompetent for the applicants to raise their aforementioned complaints in a civil court. Wallis JA, at paragraph 157, raised the following question:
+
+“In section 35 the Constitution guarantees a range of rights to arrested, detained and accused persons. Section 35(3) guarantees to all accused persons the right to a fair trial. That is secured in practice by the provisions of the Criminal Procedure Act 51 of 1977 (the ‘CPA’). The appellants do not seek to impugn the provisions of the CPA in any way, yet they are seeking to assert their fair trial rights before a civil court. That should give pause for thought. Why are issues germane only in the context of criminal proceedings being canvassed and determined in civil proceedings and not in the constitutionally compliant forum, and in accordance with the constitutionally compliant statute, provided for the adjudication of criminal cases?” 
+
+This question is clearly rhetorical and was not answered by the learned Judge in the said judgment. Mr Mpofu SC, has however urged us to accept this judgment and in particular the passage quoted aforesaid, as authority for the proposition that matters germane to the criminal courts  
+[2023] 3 All SA 484 (KZP) at 492
+  cannot be brought before a civil court. He has also argued that this Court is bound by the decision of Wallis JA. 
+This question was recently considered by the Full Court in President of the Republic of South Africa v Zuma and others.2 The court, relying essentially on the decision of Solomon v Magistrate, Pretoria and another,3 rejected the argument advanced by the respondent. At paragraphs 7–8, the court held: 
+
+ “[7] Since then the proposition has been affirmed in the Constitutional era in Van Deventer v Reichenberg 1996 (1) SACR 119 (C), Nedcor Bank Ltd v Gciltshana 2004 (1) SA 232 (SECLD) and in Nundalal v DPP, KZN [2015] ZAKZPHC 25 (8 May 2015). It therefore plain (sic) that, upon such authority, section 106(h) of the CPA cannot be construed to be the exclusive route by which a person aggrieved by a private prosecution can challenge a title of the private prosecutor. Moreover, the proposition advanced about avoiding cross contamination between the civil courts and civil process and the criminal courts and criminal process is overstated. In truth there is no substantive distinction between a criminal court and a civil court – there is only one court and the streaming of criminal cases and of civil cases to different judges is merely an organisational convenience. There are no distinct jurisdictional competences. Ancillary thereto it follows that the process of such a court is also seamless. No question can arise over a trespass into the work of another court with a distinct jurisdiction. It is in these respects that the present case does not evoke the suspicion posed by Wallis JA in the Moyo and Sonti Case. 
+
+ Accordingly, to sum up, the notion that the only route of relief a party can invoke to contest the title of a private prosecutor is to raise the question of title as a plea as mentioned in section 106(h) of the CPA is misconceived. In any event the very appearance of the applicant before the criminal court is what is sought to be prevented by the relief sought in this urgent application, premised on the contention that to appear in the criminal court per se, would be to submit to an unlawful intrusion on the rights to freedom of the applicant, if the private prosecution is unlawful for want of proper authority.” 
+
+Mr Mpofu SC has argued that the aforesaid decision is not binding on this Court. At the hearing of the matter we were advised that the judgment is the subject matter of an appeal and that there is no Supreme Court of Appeal authority nor Constitutional Court authority which would bind this Court to accept the conclusions reached in the aforementioned case of the President of the Republic of South Africa v Zuma and others. This submission however fails to take cognisance of the decision of the Supreme Court of Appeal in Phillips v Botha4 where the court followed the decision of Solomon v Magistrate, Pretoria (supra). It also overlooks the recent Constitutional Court decision of Mineral Sands Resources (Pty) Ltd and others v Reddell and others5 which also cited, with approval, the decision of Phillips v Botha.  
+[2023] 3 All SA 484 (KZP) at 493
+We agree with the findings of the courts in the aforesaid judgments and conclude that this Court does not lack jurisdiction to entertain the applications launched by both Maughan and Downer. Accordingly, this point in limine has no merit and is to be rejected. 
+
+(c)  State Attorney’s authority
+The respondent has averred that as Downer was cited in his personal capacity and because his alleged criminal conduct was performed for personal reasons and not in the furtherance of his mandate as a prosecutor, the State Attorney had no authority to represent him (Downer) in this application. The respondent has also called upon Downer to provide proof of such authority in terms of the provisions of rule 7 of the Uniform Rules of Court. 
+At the outset it is noted that the respondent has not complied with the provisions of rule 7. Rule 7 provides: 
+
+“. . . the authority of anyone acting on behalf of a party may, within 10 days after it has come to the notice of a party that such person is so acting, or with the leave of the court on good cause shown at any time before judgment, be disputed . . .” 
+
+The respondent, Mr Zuma, has been aware, since 27 September 2022, that the State Attorney is acting on behalf of Downer in this application. It was only on 31 January 2023, in his answering affidavit, that this challenge was raised. This was clearly beyond the 10-day period referred to in rule 7. No explanation for the delay has been furnished nor is there an application before us to condone the late request. The objection therefore is not in accordance with rule 7 and has no effect. 
+In any event and in answer to the challenge, Downer has, in reply, provided proof that the NPA had instructed the State Attorney to act on his behalf in this matter. 
+In the respondent’s heads of argument and indeed in argument before us, Mr Mpofu SC has relied on the decision of Zuma v Democratic Alliance and another6 in support of his submission that the State Attorney has no authority to represent Downer. The reliance on this decision is misplaced. The decision relied upon by Mr Mpofu SC made it clear that the State Attorney is not authorised to outsource its functions to a private attorney at [the] State’s expense. In the application before us the State Attorney has not outsourced its functions to a private attorney and is indeed representing Downer itself. Consequently, this point in limine falls to be dismissed.
+
+(d)  Non-joinder
+In his answering affidavit in the application brought by Downer, the respondent has averred that Maughan has a direct and substantial interest in the outcome of the Downer application and ought accordingly to have been joined as of necessity. It has further been submitted that as she has not been joined, this is fatal to the application and that the application ought to be dismissed.  
+[2023] 3 All SA 484 (KZP) at 494
+The record reveals that the application launched by Downer was served on Maughan’s Attorneys on 27 September 2022. Maughan has elected not to participate in the proceedings. 
+The respondent’s reliance on this point in limine must also fail. 
+We turn now to consider each of the grounds raised by the applicants as well as the respondent’s response thereto. 
+
+(a)  The absence of a nolle prosequi certificate in respect of the private prosecution of Ms Maughan 
+Section 7(2)(a) of the CPA provides: 
+
+ “(2) (a) No private prosecutor under this section shall obtain the process of any court for summoning any person to answer any charge unless such private prosecutor produces to the officer authorised by law to issue such process a certificate signed by the attorney-general that he has seen the statements or affidavits on which the charge is based and that he declines to prosecute at the instance of the State.”
+
+The respondent relies on two nolle prosequi certificates in support of his private prosecution of Maughan. The first certificate was issued on 6 June 2022 and has already been referred to earlier in this judgment (at paragraph [13], supra). It is readily apparent from this certificate that the “suspect” named is Downer and not Maughan. This, in our view, is also clearly evident from the reading of the respondent’s “Sworn Statement in Support of Criminal Complaint” (sic). The only reference to Maughan is that the alleged unauthorised disclosure of the said “Medical Report” was made to her. It is on this basis that the respondent contends that “Upon a proper contextual and holistic interpretation”, the aforesaid nolle prosequi certificate applies to Maughan as well. No further submissions have been made in support of this contention. 
+In a letter dated 25 October 2022, the Director of Public Prosecutions confirmed to the respondent’s attorneys that the nolle prosequi certificate did not apply to Maughan. The content of that letter reads as follows: 
+
+“Dear Mr Ntanga 
+
+RE: NOLLE PROSEQUI – PIETERMARITZBURG CAS 309/10/21
+
+YOUR REF: M. NTANGA/Z0016/21 DATED 30 SEPTEMBER 2022 REFERS
+
+When I took the decision in respect of the aforementioned matter the suspect under consideration, as expressed by the complainant, was Mr Downer. 
+
+Based on the investigations conducted and the evidence in the docket I declined to prosecute Mr Downer. 
+
+Ms Maughan was not contemplated as a suspect but rather only a witness. 
+
+If I am now required to decide whether or not to prosecute her, I require full investigations to be conducted before I make such decision.”
+
+We accordingly agree with the submission that the nolle prosequi certificate produced by the respondent when he issued summons against Maughan, was not issued in respect of a criminal case against Maughan. 
+On 21 November 2022, the Director of Public Prosecutions issued a second nolle prosequi certificate, the certificate reads as follows: 
+
+“CERTIFICATE IN TERMS OF SECTION 7(2) OF ACT 51 OF 1977
+
+I, ELAINE ZUNGU, duly appointed Director of Public Prosecutions, KwaZulu-Natal hereby certify that I have seen all the statements and affidavits on 
+
+ 
+[2023] 3 All SA 484 (KZP) at 495
+
+which the charge particularised below is based and that I decline to prosecute any person in connection with this matter at the instance of the State. 
+
+
+This certificate is issued to JACOB GEDLEYIHLEKISA ZUMA
+
+SIGNED at PIETERMARITZBURG on this 21 day of NOVEMBER 2022.”
+
+In the second supplementary affidavit filed on behalf of the respondent, it is submitted that the second certificate, inasmuch as it relates to “any person in connection with this matter”, is sufficient to include Maughan. It is further submitted that the issue of the second certificate confirms that the first nolle prosequi certificate covered or applied to Maughan as well. 
+The aforesaid submissions are, in our view, flawed for two reasons. Firstly, the issue of a second nolle prosequi certificate cannot cure the absence of a nolle prosequi certificate pertaining to Maughan at the time the summons in the private prosecution was issued. The provisions of section 7(2)(a) of the CPA makes [sic] it clear that a private prosecutor must produce a nolle prosequi certificate before a summons is issued. In Nundalal v DPP, KZN and others,7 the court held that: 
+
+“[P]roduction of the certificate is a peremptory statutory prerequisite for a private prosecution” (at paragraph 21 [sic: at paragraph 36 – Ed]). 
+
+  The court further held that non-compliance would amount “to a material defect in the private prosecution of the applicant” (at paragraph 40). 
+
+Secondly, the second nolle prosequi certificate does not apply to Maughan. The certificate does not name her as a “suspect” as is evident in the naming of a “suspect” in the first certificate. It has been submitted on behalf of the respondent that given the nature of the complaint, the wording of the second certificate – in particular – “any person in connection with this matter” – is sufficient to include Maughan. 
+The argument is advanced that the certificate can only apply to a maximum of six individuals who are named in the “complaint” affidavit, viz – Advocate Downer; Maughan; Advocate Breitenbach; President Ramaphosa; Minister Lamolla and/or Advocate Shamilla Batohi. These six people have specifically been named either as a suspect, accused persons or key witnesses. 
+It is however, noted that a reading of the complaint and in particular paragraph 7 thereof, that the complaint was directed at “all persons . . . who are either prosecutors and/or investigators who have violated the provisions of the NPA Act and the Constitution”. As stated earlier in this  
+[2023] 3 All SA 484 (KZP) at 496
+  judgment, Maughan is a “Senior Legal Journalist” and not a Prosecutor or Investigator referred to in the complaint. 
+Maughan is therefore clearly not named or referred to as a suspect or accused in the complaint. 
+We are accordingly of the view that the respondent, Mr Zuma, has failed to produce any nolle prosequi certificate which would entitle him to institute a private prosecution against Maughan. The summons issued against Maughan is therefore unlawful and is to be set aside. 
+Ordinarily this should be the end of the matter in so far as it concerns Maughan. However, in Spilhaus Property Holdings (Pty) Ltd and others v Mobile Telephone Networks (Pty) Ltd and another8 the court held the following:
+
+ “[44] . . . The Supreme Court of Appeal itself has said that it is desirable, where possible, for a lower court to decide all issues raised in a matter before it. This applies equally to the Supreme Court of Appeal. This is more so where, as here, the final appeal court reverses its decision on the chosen limited point. This may impact on the fairness of an appeal hearing. Litigants are entitled to a decision on all issues raised, especially where they have an option of appealing further. The court to which an appeal lies also benefits from the reasoning on all issues.
+
+ The practice of choosing one point in disposing of an appeal in the Supreme Court of Appeal predates the Constitution and arose at the time when that court was the apex court. It may have been proper in the pre-constitutional era. That is no longer the case because appeals against decisions of the Supreme Court of Appeal lie to this court which is now the apex court. As was observed in Mphahlele, such practices should be carefully scrutinised to ensure that they are compatible with the current constitutional scheme. This is because not all practices which were established under the apartheid era are constitutionally objectionable; some are not in line with the present order” (footnotes omitted).
+
+Following on this judgment, most courts have stated that even if a matter can be disposed of on one issue alone, the remainder of the issues raised have to be dealt with.9 We accordingly consider the remaining grounds relied upon by the applicants to have the summons set aside. 
+
+(b)  Section 7(1) of the CPA
+The second ground relied upon by Maughan in seeking to set aside the summons is that the respondent, Mr Zuma, lacks standing to institute the private prosecution in terms of the provisions of section 7(1) of the CPA. This ground is also relied upon by Downer in his application to have the summons set aside.  
+[2023] 3 All SA 484 (KZP) at 497
+Section 7(1)(a) of the CPA provides: 
+
+ “(1) In any case in which a Director Public Prosecutions declines to prosecute for an alleged offence– 
+
+ (a) any private person who proves some substantial and peculiar interest in the issue of the trial arising out of some injury which he individually suffered in consequence of the commission of the said offence; 
+
+  . . . 
+
+  may, subject to the provisions of section 9 and section 59(2) of the Child Justice Act, 2008, either in person or by a legal representative, institute and conduct a prosecution in respect of such offence in any court competent to try that offence.” 
+
+In Van Deventer v Reichenberg and another,10 Lichtenberg JP interpreted this section as follows: 
+
+“A private person’s title to institute a private prosecution is thus dependent upon his establishing: 
+
+ (i) that he has an interest in the issue of the trial; 
+
+ (ii) that the interest is substantial and peculiar to him; 
+
+ (iii) that the interest arises from some injury which he individually suffered; and
+
+ (iv) that the injury was suffered as a consequence of the commission of the alleged offence. 
+
+The underlying purpose of confining private prosecutions to those who have a substantial and peculiar interest was expressed as follows by Van der Heever J (as he then was), in Attorney-General v Van der Merwe and Borman 1946 OPD 197 at 201:
+
+‘The object of the phrase (“substantial and peculiar interest”) was clearly to prevent private persons from arrogating to themselves the functions of a public prosecutor and prosecuting in respect of offences which do not affect them in any different degree than any other member of the public; to curb, in other words, the activities of those who would otherwise constitute themselves public busybodies.’”
+
+Both applicants have submitted that the respondent has not met these requirements. Both applicants aver that the respondent does not have any “substantial and peculiar interest” arising out of an “injury” suffered as a result of Maughan obtaining and publishing the letter from Mdutywa. Both applicants have referred and relied upon the judgment of Koen J in the S v JG Zuma and Thales South Africa (Pty) Ltd,11 who found that:
+Mdutywa’s letter was a public document and was not intended to be confidential nor was it in fact confidential; 
+the letter did not contain any confidential particulars about the respondent’s (Mr Zuma’s) medical condition; 
+the letter was filed by Mr Zuma’s attorney as an annexure to Mr Zuma’s own postponement application; and
+Mr Zuma’s attorney did not seek any order that the affidavit or the letter be sealed or kept confidential. 
+At paragraph 266 he concluded: “I am not persuaded that the disclosure of the letter constituted an actionable violation of Mr Zuma’s rights.” 
+Applications for leave to appeal these findings were dismissed by the Supreme Court of Appeal and the Constitutional Court. 
+In response thereto, the respondent has alleged that he is a “victim” of a crime and as such is entitled to institute a private prosecution. He has further alleged that he is a “person who has suffered personal injury as a consequence of the criminal leaking of my medical records”. Finally, he has described the injury he allegedly suffered as a result of the disclosure of Mdutywa’s letter to Maughan as “unfair criticism”. 
+We have already referred to the findings of Koen J in this judgment. Of particular importance, in our view, is the finding that the said letter was a public document and that it: 
+
+“. . . [was] vague and general in terms and does not disclose any particularity, which could be said to amount to a violation of Mr Zuma’s rights to privacy. Specifically, it does not mention the medical condition Mr Zuma suffers from” (at paragraph 265). 
+
+  As these aspects are now res judicata, we accept and agree with the conclusions reached by Koen J.
+
+It is noted that the “unfair criticism” Mr Zuma alleges he has suffered is public commentary and opinion regarding his application for a postponement of the hearing of his special plea. It is not as a consequence of Maughan obtaining the said letter. It cannot therefore be said that whatever “injury” the respondent has alleged that he has suffered as a result of public commentary and opinion, is an injury in terms of the provisions of section 7 of the CPA. 
+With regard to the charges arising from Downer’s telephonic conversations with Sam Sole, the respondent has not alleged any “injury” that he has suffered. Indeed, the answering affidavit is silent on this aspect. Mr Mpofu SC, during argument, referred to various extracts of the conversations between Downer and Sam Sole and, much to the delight of some members of the gallery, labelled Downer as “a serial leaker”. However, this does not constitute an “injury” to the respondent. Downer has, in the founding affidavit, confirmed the telephonic conversations with Sam Sole. Extracts of the conversations were annexed to the founding affidavit. He has however denied that he leaked any confidential information about the respondent to Sam Sole. The respondent has not, in the answering affidavit, responded or challenged these averments. 
+In the result, we are of the view that the respondent, Mr Zuma, has failed to allege and prove an injury in the context of section 7(1)(a) of the CPA. Accordingly, the summons, in respect of both applicants, is defective and is to be set aside. 
+Finally, both applicants have submitted that the respondent’s summons is an abuse of the court process. 
+
+(c) The abuse of process 
+
+The applications by Mr Downer and Ms Maughan
+Both applicants indicate that the private prosecution of the respondent constitutes an abuse of process. Downer, in his challenge to the private  
+[2023] 3 All SA 484 (KZP) at 499
+  prosecution, alleges it constitutes an abuse of process consistent with the respondent’s “Stalingrad” tactic. Secondly, that it has been instituted for an ulterior purpose, namely, to prevent him from performing and carrying out his duties as a prosecutor and lastly, the private prosecution is without merit and is unsustainable.
+In respect of Maughan she alleges it is a gross abuse of process as the summons in the private prosecution has been obtained for the ulterior purpose of intimidating, harassing and preventing her from performing her job as a journalist by freely reporting on the respondent’s criminal trial. The ulterior purpose she submits is evident from the following:
+The public comments made by representatives, family and close associates of the respondent;
+The respondent’s answering affidavit which demonstrates his animosity toward her wherein he, inter alia, describes her as: 
+
+“the propaganda machinery of the media, a tool used by the NPA to perpetuate falsehoods, a hostile journalist who is incapable of balanced reporting” and an “anti-Zuma crusader”;
+
+There are no prospects of success in respect of the charges which form the subject matter of the private prosecution;
+The private prosecution constitutes a violation of the right of media freedom recognised in section 16(1) of the Constitution.
+It warrants mentioning that in respect of both applications instituted by Downer and Maughan, there are no genuine disputes of fact, nor has the respondent argued that there are any, and the applications in the matter can be determined on the papers as they stand. This is as the respondent fails to answer any of the allegations made by Downer and Maughan or by providing any evidence to dispute them. The answering affidavit is replete with repetition, namely, that matters will be addressed in the trial court and are denied. 
+What is most noteworthy is the manner in which the respondent has dealt with the facts pleaded in the founding affidavits of Maughan and Downer. There are blanket, bald12 denials of material allegations without laying any factual basis therefor or any explanation to justify his denials. In answer to the allegations in the founding affidavits, the respondent says the following, inter alia:
+“. . . I carry no obligation to reveal the minute details of my evidence in the forthcoming criminal proceedings . . .”.
+“. . . all these issues will be fully ventilated during evidence and/or cross examination, at the criminal trial. No useful purpose can be served in dealing with them in this application.”
+“. . . I leave these factual issues for their proper ventilation in the criminal trial.” 
+[2023] 3 All SA 484 (KZP) at 500
+“The defences raised herein on the merits belong to the criminal proceedings.”
+“. . . these are matters which ought properly to be raised during or at the end of the criminal trial.”
+“. . . this issue is also being prematurely raised. It ought properly to be raised in terms of section 106(1)(f).” 
+Before dealing with the individual grounds advanced by Downer and Maughan, it is apposite at this juncture to consider how our courts have interpreted what is meant by an abuse of process and under what circumstances they have intervened to arrest an abuse and bring an end to proceedings.
+
+What is meant by abuse of process?
+Our courts have not attempted to have an all-encompassing definition of what is meant by an abuse of process. Over the years there have been a number of instances in which the courts have deemed it appropriate to intervene and arrest an abuse of process which include those instances where proceedings have been instituted for an ulterior and/or improper purpose and for an improper and/or ulterior motive.
+In Lawyers for Human Rights v Minister in the Presidency and others,13 the following was said: 
+
+“In Beinash Mahomed CJ stated that there could not be an all-encompassing definition of ‘abuse of process’ but that it could be said in general terms ‘that an abuse of process takes place where the procedures permitted by the Rules of the Court to facilitate the pursuit of the truth are used for a purpose extraneous to that objective’. The court held: 
+
+‘There can be no doubt that every Court is entitled to protect itself and others against an abuse of its processes. Where it is satisfied that the issue of a subpoena in a particular case indeed constitutes an abuse it is quite entitled to set it aside. As was said by De Villiers JA in Hudson v Hudson and Another 1927 AD 259 at 268: 
+
+“When . . . the Court finds an attempt made to use for ulterior purposes machinery devised for the better administration of justice, it is the duty of the Court to prevent such abuse.” 
+
+. . . It can be said in general terms . . . that an abuse of process takes place where the procedures permitted by the Rules of the Court to facilitate the pursuit of the truth are used for a purpose extraneous to that objective.’”
+
+Our courts have an inherent power to prevent an abuse of court process. Initially the courts intervened to prevent an abuse of process in circumstances where the power to do so was exercised with the greatest caution and only in a clear case. De Villiers JA writing for a Full Court in Hudson v Hudson and another14 held the following:
+
+“That every court has the inherent power to prevent an abuse of the machinery provided for the purpose of expediting the business of the Court admits of no doubt. . . . 
+
+ 
+[2023] 3 All SA 484 (KZP) at 501
+
+. . . But it is a power which has to be exercised with great caution, and only in a clear case.”
+
+In Ascendis Animal Health (Pty) Ltd v Merck Sharp Dohme Corporation and others,15 the court held at paragraph 40: 
+
+“Abuse of process concerns are motivated by the need to protect ‘the integrity of the adjudicative functions of courts’; doing so ensures that procedures permitted by the rules of the court are not used for a purpose extraneous to the truth-seeking objective inherent to the judicial process.” 
+
+In addition, that a court will arrest an abuse in private prosecutions was settled by our courts in Solomon v Magistrate, Pretoria and another16 which concerned an application to the Supreme Court for an order interdicting the magistrate from hearing a private prosecution on charges of fraud. Among the issues which arose for determination was an objection in limine that the Supreme Court had jurisdiction to entertain the application, and secondly, whether or not the applicant had discharged the onus to show that the prosecution was unfounded. 
+Dealing with the second aspect, the court held the following at 607F–H: 
+
+“The Court has an inherent power to prevent abuse of its process by frivolous or vexatious proceedings . . . and though this power is usually asserted in connection with civil proceedings it exists, in my view, equally where the process abused is that provided for in the conduct of a private prosecution. In such a case as I have postulated, therefore, this Court would in my opinion by virtue of its inherent power be entitled to set aside a criminal summons issued by its own officials or to interdict further proceedings upon it. It is also by virtue of its inherent power that the Court interferes to restrain illegalities in inferior courts either by way of interdict or mandamus or by declaratory order, as it has on occasion done . . . I have no doubt whatever that in a similar case the Court would have power to stop a private prosecution in an inferior court.” 
+
+The decision in Solomon was cited with approval and followed by the decision in Van Deventer v Reichenberg and another where it was held: 
+
+“A court has jurisdiction to set aside and interdict a private prosecution which is irregular, vexatious or an abuse of the process of court.”17 
+
+  This approach was followed in the SCA in Phillips v Botha.18 Hoexter JA referred to an Australian High Court case for a definition of abuse of civil process. The SCA endorsed the definition of an abuse of process as: 
+
+“. . . the process is employed for some purpose other than the attainment of the claim in the action. If the proceedings are merely a stalking-horse to coerce the defendant in some way entirely outside the ambit of the legal claim upon which the Court is asked to adjudicate they are regarded as an abuse for this purpose . . .”
+
+
+Phillips endorsed the principle that the court has an inherent power to prevent an abuse of its process from frivolous or vexatious proceedings and further referred to Western Assurance Company v Caldwell’s Trustee19  
+[2023] 3 All SA 484 (KZP) at 502
+
+  and Hudson.20 Endorsing the view expressed in Hudson, the court held that where there is an attempt made to use for ulterior purposes machinery devised for the better administration of justice, a court has a duty to prevent such abuse and such power must be exercised with great caution and only in a clear case. In addition, the SCA dealt with the abuse of process in relation to a private prosecution. The question to be asked was whether such private prosecution was either instituted or thereafter conducted for some collateral and improper purpose, rather than with the object of having criminal justice done to an offender.21 
+
+In Nedcor Bank Ltd and another v Gcilitshana and others,22 the court was required to decide whether to interdict a private prosecution in circumstances where the private prosecution was alleged to have been instituted with an ulterior motive – namely, to oppress and harass the applicant rather than to secure criminal justice and whether or not such private prosecution constituted an abuse of process. The court considered the decisions in Hudson and Solomon and also aligned itself with the sentiments expressed in those decisions that ordinarily, reasons and motives of a party for instituting legal proceedings are irrelevant. However, if the court finds on the facts of a particular matter that such private prosecution was being used for ulterior purposes, it is the duty of the court to prevent such abuse although such power must be exercised with great caution. Such power derives from the inherent jurisdiction of superior courts to prevent an abuse of process and such power will be exercised with caution and only in a clear case but the courts will not hesitate to act where necessary – unless the administration of justice falls into disrepute. Such power shall be exercised in the light of all the relevant facts and circumstances with due regard to the intention of the Legislature as reflected in the statutory provisions, if any, pertaining to particular proceedings.23 
+Our courts have also recognised that not only is it vexatious but also constitutes an abuse of process to institute and pursue proceedings which are unsustainable as a certainty. 
+
+Is a consideration of the merits a factor in determining whether there is an abuse of process? 
+The respondent has raised objections to this Court intruding on the domain of the criminal court and whether it is appropriate for this Court to delve into the merits of the private prosecution in determining the issues in this application. 
+In a court’s assessment as to whether or not a private prosecution constitutes an abuse of process, the court may have regard to the prospects of success in the prosecution. In Van Deventer v Reichenberg and another,24 the court was of the view that a consideration of the merits was permissible  
+[2023] 3 All SA 484 (KZP) at 503
+  and it had regard to the prospects of success and the nature of the proceedings and concluded that the private prosecution was vexatious and constituted an abuse of process.25 
+More recently the Constitutional Court has concluded that a consideration of both motive and merits play a role in the enquiry into an abuse of process, albeit in the context of SLAPP suits.26 The court must, when deciding whether to exercise its power to prevent an abuse of process, do so having regard to the particular facts and circumstances of a matter and having due regard to the intention of the Legislature as reflected in the statutory provisions.27 Additional relevant considerations include the prosecutor’s conduct, the nature of the alleged offence/s and the effect of the prosecution on the accused. The list however is not exhaustive.28
+
+Is the purpose of and motive for the private prosecution a relevant consideration?
+The respondent submits throughout his answering affidavit, and certainly it was a submission which was also repeated in the heads of argument as well as during the course of the oral submissions by Mr Mpofu SC, that the purpose and motive of a private prosecution is irrelevant. This submission is based on remarks by Harms DP in National Director of Public Prosecutions v Zuma29 where he held that: 
+
+“The motive behind the prosecution is irrelevant because, as Schreiner JA said in connection with arrests, the best motive does not cure an otherwise illegal arrest and the worst motive does not render an otherwise legal arrest illegal. The same applies to prosecutions.” 
+
+However, this submission ignores the statement by Harms DP which immediately follows it where he says: 
+
+“This does not, however, mean that the prosecution may use its powers for ‘ulterior purposes’. To do so would breach the principle of legality.”30 
+
+  In addition, in Mineral Sands Resources (Pty) Ltd and others v Reddell and others31 Majiedt J confirmed that motive and merits play a role in the enquiry as to whether there has been an abuse of process. Given the authorities referred to, we cannot agree with the respondent’s submission that the motive in instituting a private prosecution is irrelevant. 
+
+The conclusion to be drawn from these decisions is that in circumstances where a private prosecution such as is alleged in the current matter has been initiated for an ulterior purpose, it constitutes a breach of the principle of legality and amounts to an abuse of the process of the court. A prosecution which is unsustainable also constitutes an abuse of the process of court. In these circumstances a court is obliged to intervene and end an abuse of process.  
+[2023] 3 All SA 484 (KZP) at 504
+The founding affidavits pertinently raise the question of ulterior purpose and motive. The respondent simply responds by saying ulterior purpose or motive is irrelevant and submits that it must be raised at the criminal trial and not prematurely or improperly in a civil court. We have already, in paragraphs 23–28, supra, indicated that this Court has jurisdiction to deal with these grounds raised by Maughan and Downer. 
+Where the issue of ulterior purpose is at the heart of an applicant’s case, a respondent is required to pertinently deal with such matters and place some answer to it before the court in an answering affidavit. The respondent elected not to do so. In assessing whether to exercise our powers to prevent an abuse of process, ulterior purpose is but one of the considerations.
+Turning now to consider the individual applicants’ grounds of alleged abuse of process.
+
+Downer
+The respondent has repeatedly, through his legal representatives, indicated that the private prosecution was a precursor to the institution of a recusal application for Downer and thus a springboard for further delay in the criminal trial.32 Downer has annexed to his founding affidavit, annexure “BD2”, a summarised chronology of the respondent’s litigation since inception, culminating in the criminal prosecution of the respondent currently before the Pietermaritzburg High Court on charges of corruption, money laundering and fraud. Such chronology demonstrates that the respondent has litigated with the NPA since 30 August 2003 until at least 31 October 2022, a period of approximately 229 months which equates to 19 years. 
+Downer indicates that this was done to prevent the institution of the criminal charges which the respondent now faces. It is an indication of the respondent’s Stalingrad tactic and despite the respondent’s assertions to the contrary that he wishes to stand trial and clear his name, it has had the opposite effect as it has delayed the institution of the criminal proceedings for approximately 19 years. What is evident from “BD2” and the matters mentioned therein, is that the respondent has made numerous applications and none of them have succeeded. In his answering affidavit the respondent simply denies the Stalingrad tactic but “while I admit technical details regarding dates of proceedings and their outcomes” he has not disavowed the comments by his then counsel, the late Kemp J Kemp SC, on 29 May 2007 in which he informed the court that the respondent was adopting a “Stalingrad” defence strategy. Although he has not expressly disavowed what was said he submits that the proceedings were as a result of a genuine concern for his perceived violations of his constitutional rights. 
+To date, however, none of the courts, including the Constitutional Court, which have dealt with these applications, have made any findings that the respondent’s rights were violated in any way. We agree that  
+[2023] 3 All SA 484 (KZP) at 505
+  against this background the application by Downer and Maughan is an attempt, specifically by Downer, to prevent further abuse of the process of court and to ensure that the criminal trial proceeds. The application is directed at ensuring that there is an end to the abuse of an unlawful private prosecution and an end hopefully to the “Stalingrad” strategy. 
+We turn now to the second ground advanced by Downer, namely, whether the private prosecution instituted by the respondent has been demonstrated to have been instituted for some collateral and improper purpose rather than the objective of having criminal justice done to an offender as envisaged. 
+Downer has been the lead prosecutor, since the inception of the litigation, involving the respondent which culminated in the criminal prosecution. It is evident from the proceedings instituted that the target of the respondent’s litigation is Downer. This is evident from the section 106 plea proceedings before Koen J that the respondent’s purpose was to prevent Downer’s continued participation as a prosecutor in the criminal proceedings – the challenge one would recall related to Downer’s title to prosecute on, inter alia, the basis of the alleged unlawful disclosures to Sole and Maughan.
+When this did not succeed, the respondent then initiated the private prosecution in a further attempt to have Downer removed. For as long as the private prosecution is extant, it forms the basis on which the respondent can seek to have Downer removed as prosecutor in the criminal trial. That the private prosecution served as the precursor to the recusal application now brought before the criminal trial cannot be disputed by the respondent.
+Our courts have also found an abuse of process to exist where a litigant comes to court with “unclean hands” and have dismissed a litigant’s claim. Such power is sparingly exercised as it prevents a litigant from having their day in court, which right is constitutionally entrenched in section 34 of the Constitution. The Constitutional Court has endorsed the approach of dismissing a claim on the grounds of abuse “because the litigant who would bring it is disqualified from doing so by reason of their abuse”.33
+For reasons that will become more apparent hereinafter, we are of the view that the respondent comes to court with “unclean hands” and consequently the private prosecution is an abuse and the court must sanction such conduct.
+The next ground advanced by Downer relates to his assertions that the private prosecution is without merit and unsustainable. Our courts have held that proceedings are per se an abuse of process where they are obviously unsustainable as a certainty and not merely on a balance of probability. 
+[2023] 3 All SA 484 (KZP) at 506
+Holmes JA in African Farms and Townships Ltd v Cape Town Municipality34 endorsed this view:
+
+“Our law recognises that the Court has an inherent power to strike out claims which are vexatious; see Western Assurance Co v Caldwell’s Trustee, 1918 AD 262 at p 272. An action is vexatious and an abuse of the process of Court inter alia if it is obviously unsustainable. This must appear as a certainty, and not merely on a preponderance of probability. Ravden v Beeten, 1935 CPD 269 at p 276; Burnham v. Fakheer, 1938 NPD 63. In the latter case a litigant was not allowed to ventilate, under the facade of suing a different party, an issue on which he had been unsuccessful in previous proceedings.”
+
+In MEC, Department of Co-Operative Governance and Traditional Affairs v Maphanga35 the court said the following:
+
+ “[25] It was firmly established in the South African common law, long before the advent of the Constitution, that the Supreme Court had the inherent power to regulate its own process and stop frivolous and vexatious proceedings before it. This power related solely to proceedings in the Supreme Court and not to proceedings in the inferior courts or other courts or tribunals. The following principles crystallised over the ages. It had to be shown that the respondent had ‘habitually and persistently instituted vexatious legal proceedings without reasonable grounds’. Legal proceedings were vexatious and an abuse of the process of court if they were obviously unsustainable as a certainty, and not merely on a preponderance of probability. I must point out at this juncture that this definition applied to all litigation that amounted to an abuse of court process. The attempt by the MEC’s counsel to distinguish the cases from which the principle derives on their facts was, therefore, mistaken” (footnotes omitted).
+
+In circumstances where it is shown that the private prosecution constitutes an abuse of process the issuing of such summons will be set aside. In Solomon36 the court held:
+
+“The taking out of the summons would clearly be an abuse of the process of the Court, in that it had been undertaken not with the object of having justice done to a wrongdoer, but in order to enable the prosecutor to harass the accused or fraudulently to defeat his rights . . . The process of the Court, provided for a particular purpose, would be used not for that purpose, but for the achievement of a totally different object, namely for the oppression of an adversary. The Court has an inherent power to prevent abuse of its process by frivolous or vexatious proceedings . . . and though this power is usually asserted in connection with civil proceedings it exists, in my view, equally where the process abused is that provided for in the conduct of a private persecution. In such a case as I have postulated, therefore, this Court would in my opinion by virtue of its inherent power be entitled to set aside a criminal summons issued by its own officials or to interdict further proceedings upon it.”
+
+We do not understand Downer to be saying that simply because the respondent has instituted numerous challenges over a 20-year period it is  
+[2023] 3 All SA 484 (KZP) at 507
+  unlawful and constitutes Stalingrad. Meritless challenges lead to the inference of delay. There have been a number of challenges over the years which the respondent has indicated have been instituted for the purpose of preventing violations of his constitutional rights. Each and every one of these challenges have been proven to have been meritless. In addition, every one of them has been found to be unsustainable save for those applications which the respondent elected not to pursue.
+
+The private prosecution is without merit and unsustainable
+In respect of counts 1–2 of the indictment, Downer is charged with the offences of contravening section 41(6)(a)–(b) read with section 41(7) of the NPA Act and is guilty of the unauthorised disclosure to Maughan of information relating to the respondent’s confidential medical information in the form of a letter written by Mdutywa. In respect count 3 of the indictment, Downer is charged with contravening section 41(6)(a)–(b) read section 41(7) of the NPA Act in relation to the unauthorised disclosure of information about the respondent to Mr Sam Sole, a journalist for the Mail and Guardian. Downer asserts there is no merit in the charges levelled against him and the private prosecution has no prospects of success.
+Firstly, it is not disputed that in terms of the 2006 NPA directives on media statements and public communications, deputy directors and senior public prosecutors may act as spokespersons for the NPA on matters pertaining to prosecution policy and/or any criminal prosecution. The purpose behind responding to the media or to public enquiries about matters is to assist the public to understand the nature and course of criminal proceedings at the same time not acting to the prejudice of the parties before the court who cannot defend themselves against public comment. 
+Section 22(4)(f) of the NPA Act also requires the National Director of Public Prosecutions (the “NDPP”) to bring the UN Guidelines on the Role of Prosecutors to the attention of Directors and Prosecutors working for the NPA. Paragraph 13(c) of the United Nations guidelines authorises prosecutors to disclose matters that are necessary in the performance of their duties or when the needs of justice require such disclosure. This means that someone in both Downer’s position, and Breitenbach for that matter, can respond to enquiries from, for example, the media in relation to the respondent’s criminal prosecution.
+
+The alleged disclosure by Breitenbach
+In relation to the disclosure of the Mdutywa letter, emanating from the affidavit filed by Breitenbach and Maughan, the following is how the document came to be disclosed to Maughan:
+On 6 August 2021, Mr Manyi the spokesperson for the Jacob Zuma Foundation posted a notice on social media that the respondent had been admitted to hospital. This was subsequently confirmed by the Department of Correctional Services later on the same day.
+Discussions were held between Downer and the respondent’s legal representatives on 8–9 August 2021 and it was agreed that the parties would jointly apply to court for a postponement as a consequence of the respondent’s hospitalisation.  
+[2023] 3 All SA 484 (KZP) at 508
+Mdutywa’s letter was dated 8 August 2021, it was presumably signed the same day. His affidavit was also deposed to on 8 August 2021 both for purposes of forming part of the respondent’s postponement application. On the same day Downer obtained a copy of Mdutywa’s letter from Mrs Radebe, of the Estcourt Correctional Service Centre. 
+On the morning of 9 August 2021, Downer sent an unsigned affidavit to Koen J’s Registrar at 11:46am in relation to the proposed postponement of the criminal proceedings on 10 August 2021. Attached to such affidavit was the letter from Mdutywa. The respondents’ attorney was copied in such email. In such covering email, Downer indicated that as it was a public holiday, the signed copy would be filed at court on the following day;
+Breitenbach in the interim indicates that as he was aware that Maughan would travel to Pietermaritzburg to cover the criminal trial, he contacted her to advise her that the matter was being postponed and she need not travel;
+By that time, she had already arrived in Pietermaritzburg. On Monday, 9 August 2021, at about 4h43pm Maughan requested Breitenbach to provide her with a copy of the unsigned affidavit. He did so at 4h46pm on the same day on condition that she would not publish anything in relation to the affidavit before the signed copy was filed at court the following day;
+Later on, in the afternoon of 9 August 2021, Breitenbach informed Downer of the arrangement he had made with Maughan and enquired when Downer proposed to file his signed affidavit. Downer informed him that he proposed to do so first thing the following morning; 
+The respondent through his attorneys also delivered the postponement application via email to Koen J’s Registrar later that evening, to which was annexed the letter and signed affidavit from Mdutywa.
+The following morning, Tuesday, 10 August 2021, Downer advised Breitenbach that he had signed his affidavit and filed it at court. Breitenbach conveyed this to Maughan at 8:01am that morning; 
+It was only after this that Maughan published the article on the News 24 platform at 9h14am.
+The submissions of Downer in this regard and certainly which served before Koen J in the section 106 plea proceedings was that the unsigned affidavit had been delivered to his Registrar on 9 August 2021 and in terms of the Sanral judgment,37 was part of the record, therefore not confidential. 
+Koen J found, and with which we respectfully agree, that the document was not confidential and, in any event, confidentiality had been waived  
+[2023] 3 All SA 484 (KZP) at 509
+  by the filing of the respondent’s affidavit. There was much debate as to the timing of the affidavit deposed to by Mdutywa and the date of the letter, but this has adequately been dealt with in Koen J’s judgment and we respectfully align ourselves with those remarks expressed by him. In addition, that these documents are public documents and can be made available is something that must not be lost sight of. In our view, as the charge against Downer is unsustainable, we agree with the submission by Downer that the private prosecution is an attempt to further delay the criminal prosecution and prevent him from performing and executing his statutory and professional duties. It constitutes an abuse of process.
+Downer submits that it is against this context that the counts in the indictment must be viewed. On a factual level we know that Downer has denied making any disclosure to Maughan and authorising it. It is evident from both Breitenbach’s affidavit and that of Maughan, filed in answer to the respondent’s criminal complaint, that the exchange took place between her and Breitenbach and not Downer and that he was ex post facto apprised of their exchange by Breitenbach. Downer was no way involved in the disclosure to Maughan of the letter from Mdutywa. Although the respondent, in the affidavit filed in his criminal complaint against Downer, alleged that “Downer unlawfully handed a medical report involving me in an affidavit leaked to a journalist, Karen Maughan” he did not persist with the allegation and rather alleged that Downer sanctioned Breitenbach to make such disclosure. 
+Downer correctly submits, in our view, that the charge against him in relation to counts 1–2 are unsustainable and as a consequence the prosecution is per se an abuse of the process of court. 
+
+The allegations relating to the unauthorised disclosure to Mr Sam Sole (“Mr Sole”)
+The allegations which the respondent makes in relation to the alleged disclosure to Mr Sole arises from events which took place between 4 and 13 June 2008. This is common cause between the parties. The conversations between Downer and Mr Sole formed part of the “spy tapes” which were utilised by the respondent to persuade the Acting National Director of Prosecutions at the time, Mpshe, to withdraw the charges against him in April 2009. The respondent has had the transcripts of the conversation between Downer and Mr Sole since at least April 2009. The respondent alleges that the offence in relation to the disclosure to Mr Sole was committed in Johannesburg. It is evident from Downer’s response that at the time, Mr Sole was in Johannesburg and he was in Cape Town. Consequently, this Court does not have jurisdiction to adjudicate on his private prosecution.
+Downer has always denied that he disclosed any information to Mr Sole relating to the respondent’s case and indicated that what the exchange between him and Mr Sole concerned, related to Mr Sole’s queries about the procedure to be followed when the NPA obtains mutual legal assistance from other countries. This has not been disputed by the respondent. In fact, the respondent’s response to this is the following: 
+
+ “48. I wish to bring to the attention of this Honourable Court that the alleged lacking (sic) (leaking) of information to Mr Sole has been repeatedly 
+
+ 
+[2023] 3 All SA 484 (KZP) at 510
+
+  admitted by the applicant while admittedly also seeking to avoid any liability. It is also indirectly admitted in the founding affidavit here. 
+
+ 49. However and for the reasons already articulated above, I leave these factual issues for their proper ventilation in the criminal trial.”
+
+In any event, the respondent’s allegations in relation to the alleged disclosure by Downer to Mr Sole have already been canvassed and dealt with in Koen J’s judgment in the section 106 application wherein he found that the respondent’s accusations were “based on speculation, unsupported by admissible evidence from Mr Zuma”. In addition, they were also raised during the application for a permanent stay. At paragraph 234 of his judgment, Koen J found that the respondent had specifically disavowed and waived reliance on the complaint when he said the following: 
+
+“At the hearing of the stay application Mr Zuma through his counsel, expressly disavowed and accordingly waived reliance on the leaks. That this was so, has not been disputed in reply. Mr Masuku, who co-signed a special plea in this matter, is one of the senior Counsel who represented Mr Zuma in the stay of prosecution application. The alleged media leaks to Mr Sole are accordingly, at that level, no longer an issue on which reliance can again be placed.” 
+
+Koen J further found that the respondent had not gainsaid or disputed Downer’s account of his conversations with Mr Sole. Consequently, the charge relating to the alleged “leak” to Mr Sole is unsustainable. It also demonstrates an ulterior motive on the part of the respondent, which in turn constitutes an abuse of process. Why does the respondent raise this now again when it has already been dealt with in two other proceedings and disposed of in both the application for a permanent stay and in the section 106 plea proceedings before Koen J and in circumstances where this Court does not have jurisdiction to deal with the charges in respect of this count? The only reasonable inference one can draw is that the respondent seeks to discredit Downer and prevent him from executing his duties as a prosecutor in the criminal trial.
+It does not behove the respondent to say he is doing so now based on the “advice” which Koen J mentioned in his judgment. He has been represented by legal professionals throughout and they ought to have advised him to lay a criminal complaint against Downer a long time ago before a court with the requisite jurisdiction. 
+As an ongoing indication of the respondent’s continuing abuse of the process of court, Downer filed a supplementary affidavit to deal with the events which took place after the pleadings in the application were closed. Reference is made to the respondent’s institution of a private prosecution on 15 December 2022 of President Cyril Ramaphosa (“Mr Ramaphosa”). The charges in relation to the private prosecution of Mr Ramaphosa emanate from the public disclosure of Mdutywa’s letter. In essence, the respondent alleges that Mr Ramaphosa failed, despite being requested by the respondent in a letter on 19 August 2021, to act against Downer and others in respect of the alleged contravention of section 41(6)–(7) of the NPA Act which are the subject matter of Downer’s and Maughan’s private prosecution. This is despite Mr Ramaphosa acknowledging in correspondence dated 25 August 2021 that he was aware of the conduct complained of and advising that he had referred the complaint to the responsible functionary, being the Minister of Justice and Correctional  
+[2023] 3 All SA 484 (KZP) at 511
+  Services, to take the necessary steps. In count 2, Mr Ramaphosa is charged with obstructing or attempting to obstruct the ends of justice by failing to act. 
+It is common cause that the private prosecution against Mr Ramaphosa was instituted on 15 December 2022. In addition, the summons directed Mr Ramaphosa to attend at court in January 2023. Mr Ramaphosa instituted an urgent application and obtained an interim interdict which was heard by the Full Court in the Gauteng High Court, Johannesburg pending a hearing in due course as to whether or not the respondent ought to be entitled to proceed with the said private prosecution of Mr Ramaphosa. 
+The respondent has also sought leave to file a further supplementary affidavit to deal with the new information which he submits only came to his attention after the finalisation of his answering affidavit. He seeks to amplify his response to the allegations by putting up correspondence exchanged between his attorneys and the offices of the DPP in relation to the request for the nolle prosequi and also to deal with aspects which have come to light in the private prosecution against Mr Ramaphosa, which he says has relevance to the current matter.
+Having regard to this supplementary affidavit, it demonstrates the respondent’s continued campaign to discredit Downer.
+
+Maughan
+Maughan submits that the respondent’s prosecution is a blatant and egregious abuse of the private prosecution process. It is not disputed that Maughan has commented on all litigation involving the respondent since inception and remains one among a few journalists who continue to do so despite the media comments and harassment she has been subject to. The respondent’s recent criminal trial has been plagued by various adjournments and has not commenced as the court has been dealing with interlocutory matters. 
+Prior to the institution of the private prosecution, she has reported on matters involving the Public Protector and politically charged matters which has drawn criticism from the Jacob Zuma Foundation, supporters of the respondent and members of the respondent’s family. As a journalist she is seen as part of a “hostile media with menacing commentary”. She is regarded as an “implicated party in matters of Downer” and a “co-accused who has provided a statement to the police”. 
+It is evident that the respondent harbours great hostility towards her and this is demonstrated in his affidavit and by the respondent’s associates and supporters. The tweets annexed to the founding papers demonstrate that the applicant has repeatedly been maligned and threatened for her reporting of the respondent and his court matters. It is evident that this emanates from members of the respondent’s family, being his daughter as well as Mr Manyi, the spokesperson for the Jacob Zuma Foundation. Her affidavit references instances of social media abuse by the respondent’s daughter and the Jacob Zuma Foundation. Among these include the following:
+
+“The Foundation is pleased to announce that in the past 48 hours and in a coordinated operation the Sheriffs have served criminal summons on 
+
+ 
+[2023] 3 All SA 484 (KZP) at 512
+
+Mr Downer in Cape Town and one of his accomplices Ms Karyn Maughan in Johannesburg.”
+
+ “27.1 ‘Criminally Accused . . . You Look Good in Orange Sisi’ (A manipulated photograph depicting me in orange prison uniform with the text ‘Sboshwa’ (prisoner))”;
+
+ “27.2 ‘Criminally Accused, Karyn Maughan, Was Yesterday Served by The Sheriff for Breaking The Law. Accused Number Two, Karyn Maughan, Looks to Serve Up to 15 Years In Prison WHEN Found Guilty. This Will Be A Lesson For “BoBreak The Story First Journalists”!’”;
+
+ “27.3 ‘Oksalalayo . . . According to Your White Laws, YOU ARE A CRIMINAL!!!’ (this was in a tweet which responded to and quoted one of my own tweets, a direct reference to me)”;
+
+ “27.4 ‘We Will Meet In Court. Open Your Comments Miss SC.’”;
+
+ “27.5 ‘The Whites Are Busy Here Today’ (a tweet with a photograph of myself and Mr Downer), identifying us as ‘Accused No 1’ and ‘Accused No 2’”.
+
+Maughan has indicated that she has been referred to as:
+
+“. . . a thing, a bitch, a lying bitch, a white bitch, a witch, a racist, a pig, an alcoholic, a criminal, a hypocrite, a propaganda journalist, a racist, a servant of white privilege, a hack and an askari (traitor).”
+
+  The fact that the tweets were sent and these comments were made has not being disputed or denied. The respondent in answer says that he has no control over the tweets and posts. 
+
+As attractive as the argument may be, Maughan, in our view, has been harassed and prohibited from proper reporting and does so with a cloud hanging over her head and with the threat of either private prosecution in a criminal court or possible civil litigation being instituted against her. In addition, some of these comments may incite physical harm. 
+However, the respondent contents himself with the submission that he cannot take responsibility for the tweets posted by members of his family, supporters and the Jacob Zuma Foundation of which he is merely a patron. Whilst on paper he may be a patron of the foundation, it is true that the Jacob Zuma Foundation is an avid and ardent supporter of the respondent. It wastes no time in criticising any legal proceedings instituted against him. It is evident that this has resulted in a negative image of Maughan despite the respondent contending that she has been able to continue to report and function as a journalist.
+Having regard to the respondent’s answering affidavit, his personal animosity toward Maughan is exposed. She is alleged to have colluded, conspired and been in partnership with State prosecutors perpetuating a false narrative about his conduct toward litigation and the delays in the criminal trial. This is repeated on a number of occasions in the answering affidavit and his hatred, impatience and vitriolism toward her is patently obvious. For example, in paragraphs 28–29 of his answering affidavit, he states the following: 
+
+ “28 . . . As seen in this application, her decade long reporting on my case has been to advance the State’s misconceived view that I have employed delaying tactics to avoid my criminal trial. The view that she falsely and consistently perpetrates is that I, assisted by my legal representatives, faked my medical condition as part and parcel of the stratagem of delaying my criminal trial. This is also the State’s often repeated view – that when I 
+
+ 
+[2023] 3 All SA 484 (KZP) at 513
+
+  have employed permissible legal strategies to hold the State to the standard of a fair trial, I have done so as part and parcel of a so-called Stalingrad to avoid my trial. The accused applicant happily and uncritically hosts these views . . .
+
+ 29. There is ample evidence to support the conclusion that the applicant promoted the idea that my legal challenges to the constitutionality of my prosecution did not constitute genuine legal challenges but delaying tactics designed to evade justice. This included my challenge to Adv Downer SC’s title to prosecute me. Ironically and now that the shoe is on the other foot, Ms Maughan is employing exactly the same weapons or strategy which she has consistently labelled as Stalingrad. In my view, this is nothing but duplicity and disingenuity laced with a touch of racist bigotry.”
+
+Maughan indicates that she is “the only one left” who follows and reports on his matters. This the respondent says is denotative of her negative attitude toward him and has labelled her a hostile journalist who is there to be used by the NPA for their unlawful views and she is thus incapable of balanced reporting and is an anti-Zuma crusader. This is evident from the answering affidavit at paragraph 82 where he says she is being used as the “propaganda machinery of the media” and used by the NPA to perpetuate falsehood, a hostile journalist who is incapable of balanced reporting and an anti-Zuma crusader”. 
+In relation to the unfounded and baseless charges in the private prosecution, one need only have regard to the timeline referred to hereinbefore in the judgment. It is clear that the documents already formed part of the court papers at the time it was published by Maughan. She requested and obtained them from Breitenbach not Downer and did so in the public interest. In any event, by the time she published them, they were public documents. 
+The respondent has not disputed her averment that it is common practice among journalists to request court documents with a view to reporting on matters – that she has done so in the past in relation to the respondent has also not been disputed. As at the time of publication of her article the documents had been filed in court three times.
+At the time the respondent filed the summons and summary of substantial facts and instituted the private prosecution, these facts were already within his knowledge. Despite this and despite Koen J’s judgment, he persists in the private prosecution of Maughan. We agree that the only inference to be drawn from this coupled with the social media attacks on her are done with the intent to intimidate and harass her and prevent her from performing her duties as a journalist. It is done for an improper motive not with the intent of addressing any wrongdoing on her part.
+Maughan also indicates in her affidavit that the respondent will stop at nothing to malign her and falsely implicate her. As a further example of this she alludes to the respondent’s reference that “she deleted tweets” of 9 August 2021 relating to the medical information. In support of this allegation he annexes annexure “JZD7” in support of this. However, such annexure does not support this contention but rather evidences an attempt to manufacture evidence against her.
+When viewed holistically we agree with Maughan that the private prosecution constitutes a violation of the rights recognised in section 16(1) of  
+[2023] 3 All SA 484 (KZP) at 514
+  the Constitution. The right to freedom of the media has been acknowledged by our courts.
+In Van Breda v Media 24 Limited and others,38 the SCA explained:
+
+“The right to freedom of expression is one of a ‘web of mutually supporting rights’ that holds up the fabric of the constitutional order. The right is not limited to the right to speak, but also to receive information and ideas. The media hold a key position in society. They are not only protected by the right to freedom of expression, but are also the ‘key facilitator and guarantor’ of the right. The media’s right to freedom of expression is thus not just (or even primarily) for the benefit of the media: it is for the benefit of the public.”
+
+Such right we agree encompasses the right of journalists to report freely on matters of public interest without threats and without intimidation and harassment. 
+
+The submissions of the amici in relation to whether the private prosecution of Downer and Maughan is an abuse of process
+
+Respondent’s opposition to the submissions of the amici
+We propose to deal with some preliminary observations relating to the respondent’s stance in respect of the submissions of the amici. The respondent submits that although the amici were admitted by consent, this Court must disregard and/or reject their submissions. In respect of the HSF, the respondent submits that it is partisan and is advancing Downer’s case and therefore not a true amici. Accordingly, that all the submissions of the HSF ought to be dismissed as they are “highly ill-advised and undesirable”. Having regard to the principles applicable to the admission of amicus curiae they ought not to have been admitted as they do not meet the requirements for admission.
+In respect of the first to third amici, similarly he submits they are partisan and not impartial. Their submissions are not useful and are proffered to advance support for Maughan. There is no merit in their submissions that the private prosecution has been instituted for an improper purpose or motive. The submissions in relation to SLAPP suits do not add to the submissions advanced by Maughan, nor do they advance the abuse of process argument. 
+The respondent argues that the SLAPP suit defence must be invoked at the criminal trial after evidence has been led by the accused and not by the amici who is not a party in the criminal proceedings. Properly interpreted, SLAPP suits do not extend to criminal proceedings as the court in Mineral Sands Resources (Pty) Ltd and others v Reddell and others39 did not extend the scope of the defence to criminal matters or beyond the scope on which the United States developed it, it being limited to defamation suits. One cannot extend the SLAPP suit defence to criminal trials as this would frustrate the administration of justice and constitute an impediment to the NPA and private prosecutors from conducting fair criminal trials.  
+[2023] 3 All SA 484 (KZP) at 515
+It is for these reasons that the respondent argues that the submissions of the amici must be rejected for lacking merit and impartiality and therefore have not conducted themselves in a manner that reflects their status as a friend of the court.
+In respect of Democracy in Action (the “DIA”), the respondent does not raise any substantial objection to the submissions they make. The DIA however joins issue with the respondent relating to the submissions of the first to fourth amici and indicates that the court ought to disregard their submissions. They, likewise, submit the other amici do not meet the crucial requirement of being “a disinterested friend of the court” and are not neutral as they support Downer and Maughan in the main proceedings and their submissions advance their cause.
+This, they submit, is demonstrated by the various media statements issued by the first to third amici in support of Maughan. DIA submit that the first to third amici do not draw the attention of the court to relevant matters of law and fact to which attention would otherwise not be drawn in exchange for the privilege of participation in the proceedings without having to qualify as a party. They submit further that an amicus has a special duty to the court and to provide helpful submissions not already canvassed by a party to the proceedings. In addition, they submit the amici have not met the requirements for admission as amicus curiae as envisaged in rule 16A. 
+The submissions of the respondent in respect of the individual and various submissions of the amici will be dealt with as we canvass the individual submissions of the amici. At the outset however, it is necessary to consider the request by the respondent and the DIA for this Court to disregard and/or ignore the amici’s submissions. We do not accept this invitation by the respondent and DIA in light of the authorities which have been considered in the admission of amicus curiae.
+
+The role of an amicus
+In its role of assisting the court, the amicus does not need to have a direct interest in the outcome of the litigation and joins the proceedings due to its expertise on or interest in the matter before the court.40 In In re Certain amicus curiae applications: Minister of Health and others v Treatment Action Campaign and others,41 the Constitutional Court described the role of an amicus as follows:
+
+“The role of an amicus is to draw the attention of the Court to relevant matters of law and fact to which attention would not otherwise be drawn. In return for the privilege of participating in the proceeding without having to qualify as a party, an amicus has a special duty to the Court. That duty is to provide cogent and helpful submissions that assist the Court. The amicus must not repeat arguments already made but must raise new contentions; and generally these new contentions must be raised on the data already before the 
+
+ 
+[2023] 3 All SA 484 (KZP) at 516
+
+Court. Ordinarily it is inappropriate for an amicus to try to introduce new contentions based on fresh evidence.” 
+
+Rule 16A governs the admission of an amicus curiae. The rule provides that a party seeking admission as amicus curiae must:
+seek the written consent of the parties and in the absence of such consent apply to court for admission;42
+show that it has an interest in the proceedings;43 and
+demonstrate that it will make submissions that are relevant, and which will assist the court, and which submissions are different from those of the other parties.44 
+Emanating from the case law concerning the admission of amicus curiae a number of principles have emerged. These relate to the nature of the amicus curiae’s role in the proceedings and in the determination of whether or not it ought to be admitted. These principles are the following:
+an amicus curiae’s contribution lies in the additional, new and different45 perspective it brings on the issues between the parties;46
+the amicus is not prevented from supporting one party’s side of the case and neutrality of the amicus is not a requirement in the proceedings;
+the contribution which an amicus makes must materially affect the outcome of the proceedings.
+With regard to the respondent’s submissions that certain of the amici are not neutral parties and support the contentions of the applicants in the main application, our courts have indicated that there is nothing improper in an amicus curiae supporting the contentions of one of the parties. This is demonstrated if one has regard to the Constitutional Court decision in Chakanyuka and others v Minister of Justice and Correctional Services and others (Scalabrini Centre of Cape Town, The International Commission of Jurists and The Pan-African Bar Association of South Africa amicus curiae)47 and Minister of  
+[2023] 3 All SA 484 (KZP) at 517
+  Police and others v Fidelity Security Services.48 In these instances, all of the amici supported the stance taken by one of the parties to the litigation. Similarly, in Economic Freedom Fighters v Manuel49 the amici supported the respondent’s submission that a party ought to be able to approach a court on application to seek relief including the recovery of damages.
+The Constitutional Court in S v Molimi50 remarked, on the approach of the amicus curiae, that it did not only generally support the contentions of the applicant but also contributed a different perspective.51 Even where an amicus’ support for one side of the case was described as vigorous, the court allowed its admission and did not make an adverse costs order.52
+The interest of an amicus must be an interest in the correct application of the law.53 What is required is for an amicus’ submissions to be directed towards a just outcome and often this may necessitate written submissions before a court steering it towards a particular direction. But this does not disqualify a prospective applicant from admission as an amicus or their submissions being considered.
+That neutrality is not a requirement for admission has been upheld in a number of cases. In S v Engelbrecht54 the court held that “neutrality is neither necessary nor a requirement of the amicus curiae function”. Satchwell J further observed at paragraph 51 that:
+
+“. . . it is difficult to conceive that any individual or organisation would wish to intervene as an amicus unless there was a particular piece of information or area of learning or point of view of which the amicus wished the Court to be cognisant. The aloof and disinterested and apathetic would be highly unlikely to seek to enter the arena at all.”
+
+Having regard to the submissions of the first to fourth amici although they support the relief sought in the applications by Downer and Maughan, their submissions and contributions and reasons advanced differ from those of the applicants.
+
+The Helen Suzman Foundation (“HSF”)
+The HSF was admitted as amicus curiae to advance two primary submissions, both of these are aimed at the rule of law and the Constitution. The two primary submissions are that:
+Private prosecutions have few inbuilt safeguards and is an extraordinarily unique process susceptible to abuse. This particular private  
+[2023] 3 All SA 484 (KZP) at 518
+  prosecution impacts on prosecutorial independence which must be considered by the court when it determines the main application and whether the respondent’s private prosecution is an abuse of process;
+The respondent has commenced the private prosecution for an ulterior purpose having regard to the documents filed in the private prosecution, namely the summons, summary of substantial facts and list of witnesses. When one considers this with the fact that reasonable and probable grounds for prosecuting Downer are absent, this Court may grant the relief which Downer seeks.
+
+The respondent’s opposition to the HSF
+The respondent opposes the HSF’s submissions on a number of grounds, namely:
+HSF is biased and disingenuous;
+HSF has failed to establish a tangible interest in the proceedings and its submissions do not contain “clearly identified evidence that ‘Mr Zuma’s prosecution is an abuse of the sort that this court should not countenance’”;
+courts are reluctant to admit amici in criminal cases;
+HSF’s submissions will add nothing new to the consideration of the issues; 
+the Zuma judgment of Harms JA indicates that a court ought only to interfere with the “legitimate” exercise of power in exceptional and clear cases;
+it is trite law that ulterior purpose and motive are irrelevant to the validity of a private prosecution;
+that the arguments and submissions advanced by HSF are not supported by any evidence. 
+
+  Ms Hofmeyr SC, on behalf of HSF, submitted that the private prosecution constituted an abuse of the process of court as it was being pursued by the respondent for an ulterior purpose, which ulterior purpose was evident from the respondent’s own documents in the private prosecution. She submitted that our law recognises that powers are conferred for a particular purpose and when such power is used for an ulterior purpose or a purpose not authorised by law, the principle of legality is undermined.55 
+
+Private prosecutions which have been instituted without any true intention to bring an accused person to justice but rather to promote a party’s business interest and to intimidate a banking institution into giving more cooperation and recognition to the private prosecutor was interdicted from continuing.56 Our courts have allowed private prosecutions where  
+[2023] 3 All SA 484 (KZP) at 519
+  the true purpose to prosecute is to bring the person accountable to book, so to speak, and where it has been used to bring a person to prosecution.57 
+The contention that ulterior purpose or motive is not relevant to the validity of a prosecution does not find favour with the line of decisions which HSF has referred to nor with the authorities we have had regard to and have referred to earlier on in this judgment. Ulterior purpose and motive becomes relevant where a private prosecution is pursued for a purpose other than bringing the “guilty” person to account.
+HSF submits that the manner in which the respondent has conducted the private prosecution demonstrates that such private prosecution is not being pursued with the genuine purpose of bringing Downer to justice. It is being pursued for an ulterior political purpose and this is evident from the documents which the respondent relies on to found the private prosecution, as they deal with matters not relevant to the charges; and his subsequent conduct in the matter. 
+The HSF seeks to make submissions to assist the court in exercising its discretion to grant an interdict against the private prosecution on two bases: firstly, that it is evident from the respondent’s own documents and conduct that he has instituted the private prosecution for an ulterior purpose, having regard to his conduct, the summary of substantial facts, the docket and his witness list. This differs from the submissions of Downer, who advances his case based on the delay and its impact on him as a prosecutor.
+In support of these contentions, HSF submits that in circumstances where the exercise of a power is used for an ulterior purpose, it implicates the principle of legality and the rule of law. It cites various illustrative examples in which the courts have found conduct to be unlawful and interdicted it as the exercise of such power was for an ulterior purpose. The cases referred to by HSF in both its heads of argument and its oral submissions highlight that if there is a misuse of power, such abuse can be interdicted.58 
+The relevance of the decision in Sex Worker Education and Advocacy Task Force v Minister of Safety and Security and others was that the powers of arrest were being used to frighten or harass the sex workers and, in those circumstances, the arrest was ruled illegal.
+What must be emphasised is that motive must not be confused with an ulterior purpose. The respondent says that the ulterior purpose and/or motive are irrelevant to the validity of the prosecution. It is correct that in circumstances where the exercise of the power is being used for its proper purpose, the mere fact that a person is influenced by ulterior motive does not detract from, for example, the legality of the arrest. However, the cases referred to show a distinction where the exercise of the power is being used for an ulterior purpose. This, for example, may occur in circumstances where the power of prosecution is being used for a purpose other  
+[2023] 3 All SA 484 (KZP) at 520
+  than to bring an accused person to justice. In those circumstances, the authorities demonstrate that the courts will intervene to interdict the conduct if the exercise of that power constitutes an abuse of process and if the power granted is being abused. We find ourselves in respectful agreement with the submission of HSF that this argument by the respondent cannot stand.
+The decision of Nedcor Bank Ltd and another v Gcilitshana and others59 is relevant to the respondent’s submissions that motive and purpose are irrelevant. In such decision, Erasmus J assumed that there was merit in the private prosecution. However, despite that, he granted an interdict. He took the view that the reason for invoking the court’s inherent power to stop the private prosecution was to protect the administration of justice. He explained this as follows:
+
+“Ordinarily, the reasons and motives of a party for instituting legal proceedings are irrelevant. However, ‘(w)hen . . . the Court finds an attempt made to use for ulterior purposes machinery devised for the better administration of justice, it is the duty of the Court to prevent such abuse. But it is a power which has to be exercised with great caution, and only in a clear case’ (per De Villiers JA in Hudson v Hudson and another 1927 AD 259 at 268). The learned Judge made the comment in the context of misuse of a Rule of the Court by one of the litigants, but in Solomon . . . Roper J found the dictum to be applicable also to private prosecutions. In Van Deventer v Reichenberg and another [1996] 1 All SA 125 (C) at 132f–g, the Court held that it has the power to interdict a private prosecution which is irregular, vexatious or an abuse of the process of the court. The power derives from the inherent jurisdiction of our superior Courts to prevent abuse of their process.60 Although such power will be exercised with caution and only in a clear case, the courts will not hesitate to act where necessary – lest the administration of justice attract disrepute. The power shall be exercised in light of all the relevant facts and circumstances, and with due regard to the intention of the legislature as reflected in the statutory provisions, if any, pertaining to the particular proceedings.”61 
+
+Having regard to the summons and charges, the respondent accuses Downer of breaching the provisions of section 41(6)–(7) of the NPA Act by his disclosure to Mr Sole between 4 to 13 June 2008 and his disclosure to Maughan on 9 August 2021 of “confidential” medical information relating to the respondent. HSF submits that only evidence which proves or disproves one or more of the elements of the charge is relevant and that evidence which does not prove or disprove the elements of the charge is irrelevant.
+Counts 1–2 in the charge sheet relate to the events of 9 August 2021 and Mdutywa’s letter and count 3 relates to the conversations with Mr Sole which are alleged to have occurred between 4 June and 13 June 2008. Count 3 alleges that Downer disclosed information pertaining to the pending prosecution of the respondent to Mr Sole. If one then turns to the statement of substantial facts which accompanied the indictment, it contains facts which are unrelated to these charges that Downer faces.  
+[2023] 3 All SA 484 (KZP) at 521
+In respect of count 3, the only allegations relevant to the charges emanate from paragraphs 24–25 of the summary of substantial facts. These include, inter alia, that between 4 and 13 June 2008, Downer engaged in numerous telephone discussions with Mr Sole, during which Downer disclosed information in relation to the prosecution of the respondent. Such information had come to Downer’s attention as a consequence of his employment with the NPA and such disclosure was without the authority of the NDPP. 
+Only 10 paragraphs of the statement of substantial facts are devoted to the disclosure to Maughan. However, these paragraphs do not deal with the facts relevant to the charges and but [sic] rather, they deal with facts relevant to the first prosecution of the respondent on charges of corruption and the subsequent decision not to prosecute him. We agree with the submission by HSF that whether or not the respondent was initially indicted and whether or not his prosecution was pursued for a political purpose and whether the decision to prosecute him was made, are irrelevant to the charges which Downer faces. The statement of substantial facts on the whole are largely devoted to the suspicions of the respondent that there was a political agenda involved in his prosecution.
+When one turns to the witness list, which concludes the statement of substantial facts, the respondent alleges that he “intends to call the witnesses indicated in the attached witness list in support of his case”. Several witnesses identified on the list are not referred to in the summary of substantial facts and are not linked to the charges faced by Downer. Three of the witnesses are President Ramaphosa, the Minister of Justice and Correctional Services, Mr Ronald Lamola, and the Director-General of the State Security Agency, Thembisile Majola. However, in none of the documents which form the subject matter of the private prosecution does the respondent indicate precisely what their role is or the relevance of their being witnesses in the private prosecution against Downer. 
+Then reference is also made to William Hofmeyer, the former Deputy National Director of Public Prosecutions, Mokotedi Mpshe, former acting National Director of Public Prosecutions, and Mr Lawrence Mushwana, the former Public Protector. The summary of substantial facts does not indicate what role Mr Hofmeyer played in Downer’s sharing of information with Mr Sole and Maughan. The decision of Mr Mpshe not to prosecute the respondent has nothing to do with whether Downer unlawfully shared information with Mr Sole in 2008 and Maughan in 2021 and lastly, reference to Mr Mushwana appears to be solely at the level that he commented on Bulelani Ngcuka’s averment that there was prima facie evidence against the respondent. Mr Mushwana’s comment is in no way connected to or relevant to whether or not Downer unlawfully shared information with Mr Sole and Maughan. 
+HSF submits that if one considers the witness list together with the statement of substantial facts, it becomes evident that the respondent has once again revisited and repeated his allegations relating to his perception of the political interference in his prosecution. These “facts” are in no way relevant to the charges levelled against Downer. We agree that the fact that these witnesses were previously involved in the decision to prosecute the respondent is irrelevant to the charges against Downer. 
+[2023] 3 All SA 484 (KZP) at 522
+Downer, in his founding affidavit, submits that the witness list of the respondent is “sensationalist”. The respondent’s response to this suggestion is to merely deny this and to aver that the “details of witnesses listed therein has a contribution to make in the factual exposition of the offence”. That does not constitute an explanation or response to Downer’s allegation that the witness list is sensationalist. We agree that in response to this, one would have expected that the respondent would have provided a brief account of each witness and their link to and relevance of their evidence to the charges against Downer. However, despite it being pertinently raised in the founding affidavit, no explanation has been forthcoming from the respondent.
+A copy of the docket produced by the respondent in the private prosecution to Downer on 13 February 2023, contains statements which the respondent says he will rely on in the private prosecution of Downer. There are no statements from any of the respondent’s proposed witnesses and the only statements are those that were already in the police docket in the criminal complaint lodged by the respondent. We agree with HSF, that the absence of witness statements in the docket in the private prosecution, leads to the ineluctable inference that the respondent has no intention to call these witnesses on the list and the names on the list have been included as an “abuse or an attempt at sensationalist publicity”. 
+The response by the respondent to the request to interdict the private prosecution and prevent it from continuing, is twofold. Firstly, he says that there are inbuilt protections in the CPA which are available to an accused person at the end of the trial, namely to obtain a costs order if the prosecution is vexatious or abusive litigation. However, we agree with the submissions of HSF that this is not an answer because once the rule of law has been violated by a private prosecution which has been pursued for an ulterior purpose, it cannot be cured or rescued by an adverse costs order at the end of the trial. It therefore follows that we agree with the submission that the only proper response is to interdict the private prosecution at the outset if indeed Downer and Maughan are able to demonstrate that it had been instituted for an ulterior purpose and/or constitutes an abuse of process. 
+Secondly, the respondent indicates that the HSF is attempting to dictate to him how he must plead and present his case. The HSF in response has indicated that it takes no issue with the manner in which the respondent has pleaded or presented his case and agrees that he is dominus litis as a private prosecutor and may determine the manner he does so in his discretion. However, if one considers the four documents referred to and which form the foundation of the private prosecution, one can only conclude from the manner in which he has presented his case that it is for an ulterior purpose.
+
+CFE, MMA and SANEF
+CFE, MMA and SANEF advance the following submissions in relation to the respondent’s private prosecution of Maughan. They submit that the courts have a duty to prevent an abuse of its processes and that duty must be understood in the light of three contextual factors, namely:
+the growing trend to attack journalists, specifically female journalists; 
+the private prosecution in the context of SLAPP62 suits; and
+the exercise of freedom of expression by the press in the context of section 41(6) of the NPA Act. 
+The respondent, in dealing with the submissions of CFE, MMA and SANEF submits that SLAPP suits are not part of our law and our law does need not be developed to have regard to such lawsuits and, more importantly, SLAPP suits ought not to apply to criminal proceedings and are limited to defamation suits. 
+The applicability of SLAPP suits in our law is the subject of a unanimous Constitutional Court decision in Mineral Sands Resources (Pty) Ltd and others v Reddell and others63 delivered on 14 November 2022. The issue before the court was whether or not our law prohibited a SLAPP suit under the abuse of process doctrine and if not, whether our law ought to be developed in that regard. Among the issues the court considered in determining an abuse of its process, was whether the sole enquiry was ulterior motive or whether the enquiry involved ulterior motive and a consideration of the merits of the claim.
+The Constitutional Court recognised that SLAPP suits are described as: 
+
+“(L)awsuits initiated against individuals or organisations that speak out or take a position on an issue of public interest . . . not as a direct tool to vindicate a bona fide claim, but as an indirect tool to limit the expression of others . . . and deter that party, or other potential interested parties, from participating in public affairs.”64
+
+The decision in Mineral Sands concerned an exception to a claim for defamation, in which it was pleaded that the conduct of the plaintiff:
+
+“. . . ‘forms part of a pattern of conduct’ [which] involves these mining companies and their directors bringing ‘defamation actions for the ulterior purpose’ of–
+
+discouraging, censoring, intimidating and silencing the defendants in relation to public criticism of the plaintiffs; and 
+intimidating and silencing members of civil society, the public and the media in relation to public criticism of the plaintiffs.”65 
+The defendants in the above case had, in their special plea, indicated that the institution of the defamation actions constituted an abuse of process of court; amounted to the use of court processes to achieve an improper end; to use litigation to cause the defendant’s financial and/or other prejudice in order to silence them; and lastly, violated the right to freedom of expression entrenched in section 16 of the Constitution.66
+One of the issues raised in response to the exception was that allowing the SLAPP suit special plea would run contrary to the decision in Maphanga which placed emphasis on the merits of a claim in the abuse of process analysis, whereas SLAPP suits postulate that a litigant may raise an abuse of process as a stand-alone defence to a substantive claim. 
+[2023] 3 All SA 484 (KZP) at 524
+The Constitutional Court, in determining its jurisdiction, held it was required to decide whether the common-law doctrine of the abuse of process catered for a SLAPP suit defence and SLAPP suits, by definition, limit public participation by abusing the legal process to silence and deter public participation. The court embarked on an analysis of the origin of the SLAPP suits in the USA and Canada and remarked that SLAPP suits were frequently brought as defamation claims, abuse of process, malicious prosecution or delictual liability cases. The primary aim of SLAPP suits is not to enforce a legitimate right but to silence or fluster the opponent and: 
+
+“. . . are intended to silence critics by burdening them with the cost of litigation in the hope that their criticism or opposition will be abandoned or weakened . . . the plaintiff does not necessarily expect to win its case, but will have accomplished its objective if the defendant yields to the intimidation, mounting legal costs or exhaustion and abandons its defence and also, importantly, its criticism of and opposition to the project or development.”67 
+
+The court, in analysing the defence proffered on whether or not SLAPP suits could be accommodated under our common law abuse of process, opined that the special defences pleaded by the defendant, “distilled to its essence, was a defence of abuse of process”. It analysed the South African cases over the years in which courts have used their inherent powers to protect the institution from litigious abuse. It referenced the decision in Lawyers for Human Rights v Minister of Home Affairs and others,68 MEC, Department of Co-Operative Governance and Traditional Affairs v Maphanga,69 Phillips v Botha,70 Beinash v Wixley71 and Ascendis Animal Health (Pty) Ltd v Merck Sharp Dohme Corporation and others.72 The court further stated that “[t]here can be no doubt that every Court is entitled to protect itself and others against an abuse of its processes”. An enquiry into abuse of process depends on the facts and circumstances of each case.
+The court also remarked that there is a difference between “abuse of process that impinges upon the court’s integrity [and] abuse that is designed to cause harm to a party.”73 The judgment endorsed Phillips in the context of a private prosecution and found that a court has a duty to intervene in circumstances where there is an attempt to utilise court processes for an ulterior purpose. 
+In Mineral Sands, the court held that in considering the abuse of process and SLAPP suit defence “both motive and merits must play a role in that enquiry.”74 It confirmed the court’s powers to protect its own processes by thwarting an abuse of process and agreed that what constitutes an  
+[2023] 3 All SA 484 (KZP) at 525
+  abuse of process will always be “fact-specific and there can be no all-encompassing definition of it. A close examination of all the relevant circumstances must be made.”75 
+At paragraphs 91–93 of the judgment, the court identified the different forms of abuse of process in our law. The first is the use of the rules of court to delay a case or to deliberately misemploy a claim for urgency. Such abuse uses the procedural rules in a manner that they were not intended to be used and also causes prejudice to the opposing party. The second kind of abuse relates to that of the vexatious litigant who repeatedly brings unmeritorious cases. The focus is on the nature of the case rather than the procedure employed. The vexatious litigant unreasonably, persistently and habitually brings unsustainable cases. The third type of abuse of process cases involves illegal conduct, where the underlying reasons that motivated it being brought is irrelevant. The sole issue is its illegality, an example being an illegal arrest. These do not abuse the court process, but are illegal in respect of other processes and thus also constitute a form of abuse. The fourth type of abuse is where conduct plays a central, indispensable role. Cases like malicious prosecution or the integrity of a private prosecution fall into that latter category. The last type of abuse of process recognised by the Constitutional Court is SLAPP suits. 
+At paragraph 93, the court recognised that “[t]here is another species of abuse, though, that does in my view deserve the nomenclature abuse of process. It is in the form of what we have before us in this matter.” The court also recognised those instances where a court process was not being utilised to resolve a genuine dispute but was employed to achieve a result that undermines the rights in the Constitution. This the court referred to as being “abusive litigation”. The court specifically recognised that abusive litigation would have nothing to do with the right to access to courts in section 34 of the Constitution. It would be about the use of court process and associated legal costs as a means to an impermissible end and is about motive and consequence.76 The court acknowledged that this kind of abusive litigation would fall within the common-law doctrine of abuse of process and would consist of a consideration of both the merits and the motive for bringing the case. The merits would be relevant to the question whether the plaintiff had a right to vindicate and the motive would be relevant to the true object of the litigation. 
+The court in Mineral Sands found that merit plays a central role in a SLAPP suit defence and consequently there was no need to engage in a section 34 analysis. A SLAPP suit defence was specifically a defence in our law as a species of the common-law doctrine of abuse of process.77
+The court acknowledged that the common-law doctrine of abuse of process can accommodate the SLAPP suit defence and ensures that courts can protect their own integrity by guarding over the use of their processes. Ultimately, it ensures that the law serves its primary purpose, namely,  
+[2023] 3 All SA 484 (KZP) at 526
+  to see that justice is done and not to be abused for odious, or for ulterior purposes.78
+SLAPP suits have specifically been recognised as a means by which lawsuits are instituted to quash criticism and debate through litigation that is deemed an abuse of process. SLAPP suits involving journalists are instituted to intimidate and harass them and prevent them from reporting. This has been a growing trend internationally and has been recognised by media bodies globally. SLAPP suits are not used to vindicate any right but are used rather to silence journalists who are perceived to report in the public interest.
+CFE, MMA and SANEF submit that the private prosecution of Maughan by the respondent must be viewed in the context of SLAPP suits. This in the context of Maughan reporting on the litigation involving the respondent since inception and that, of the journalists who commenced their reporting of the respondent, she is among a few who remain critical in her reporting of him. The decision in Mineral Sands also recognises that SLAPP suits can apply where criminal proceedings are abused in the same way, although the judgment concerned the use of civil proceedings. This has been specifically acknowledged in Brown and another v Papadakis and another NNO79 and in Mineral Sands80 where the court referred to Phillips. 
+In view of the Phillips decision there seems to be no merit in the respondent’s assertion and that of DIA that SLAPP suits ought not to apply to criminal proceedings or private prosecutions. The respondent submits that if one were to pursue SLAPP suits in the context of a private prosecution, the section 34 rights of access to the courts would be violated. However, the court in Mineral Sands found that SLAPP suits have nothing to do with the right of access to courts.81
+We agree with the submissions of CFE, MMA and SANEF that there exists a need for protection against SLAPP suits in criminal proceedings and that this is particularly evident where a private prosecution is permitted under the law. Essentially, a private prosecutor is “stepping into the shoes of the State to punish crime”. Without the inbuilt safeguards recognised in other jurisdictions, private prosecutions create an environment where criminal proceedings and the threat of criminal sanctions are used to intimidate, harass, sensor and silence critics. In any event, whilst our courts have recognised that a private prosecution is used to facilitate access to court for victims of crime in circumstances where the State declines to prosecute an alleged offence82 they have acknowledged that private prosecutions may amount to an abuse of process in certain circumstances.
+A number of international examples have been referenced in which courts have recognised that SLAPP suits against journalists warrant protection by the courts. This would be consistent with the provisions of section 16 of the Constitution which guarantee freedom of expression, including the  
+[2023] 3 All SA 484 (KZP) at 527
+  freedom of the press and media. The importance of free engagement and debate on matters of public importance, which is often initiated and reported upon by the press, has received constitutional recognition in Khumalo and others v Holomisa83 where the court remarked that freedom of expression is “integral to a democratic society for many reasons”. In South African Broadcasting Corp Ltd v National Director of Public Prosecutions and others84 the Constitutional Court recognised the importance of a free press for public participation when it held the following:
+
+“A vibrant and independent media encourages citizens to be actively involved in public affairs, to identify themselves with public institutions and to derive the benefits that flow from living in a constitutional democracy. Access to information and facilitation of learning and understanding are essential for meaningful involvement of ordinary citizens in public life.”
+
+Thus, the courts have recognised that it is quintessential to the freedom of expression and freedom of the press to protect the abuse to intimidate, sensor [sic] and silence journalists by means of SLAPP suits. SLAPP suits give recognition to the various international instruments where the attacks on journalists, specifically female journalists, have been recognised.85 The private prosecution of Maughan arises from her reporting specifically on the respondent’s criminal cases. Maughan’s reporting of the respondent’s criminal trial is essential to ensure that the public learns the truth about the criminal allegations, sees justice being done and maintains trust in the criminal justice system. These are issues which Maughan not only has the right to report but a duty to report on. In Khumalo86 at paragraph 23, the court held the following:
+
+“It is the function of the press to ferret out corruption, dishonesty and graft wherever it may occur and to expose the perpetrators. The press must reveal dishonest mal- and inept administration . . .”
+
+The Supreme Court of Appeal (the “SCA”) has also similarly recognised the role of the media in reporting on corruption. This was specifically acknowledged in Maharaj and others v Mandag Centre of Investigative Journalism NPC and others87 in which the SCA recognised that “given the scourge of corruption, the role of the media in reporting on such activities is indubitably in the public interest” and the media “had not just a right to publish, but indeed a duty to keep the public informed”.  
+[2023] 3 All SA 484 (KZP) at 528
+If one accepts the submissions of Maughan relating to the relief she seeks in the application to interdict the respondent, then we agree with the first to third amici that the respondent’s private prosecution of Maughan has all the elements of a SLAPP suit in that, it relates to her obligations as a journalist to report on matters in the public interest. It infringes on her right to freedom of expression specifically, press freedom and the public’s right to receive such information. It has the effect of intimidating, harassing and silencing her as its ulterior motive and for reasons already mentioned in the judgment, the prosecution lacks prospects of success. If one accepts Maughan’s submissions, then she has demonstrated that the respondent’s private prosecution has been instituted for the sole purpose of silencing her and not to vindicate a right. 
+Maughan has, in her founding affidavit and in the annexures, demonstrated the attacks which have taken place against her as a journalist as a consequence of her reporting and those which have emanated as a consequence of the private prosecution. She indicates that such attacks are ongoing and have escalated and are designed to intimidate and harass her. There are examples of online intimidation, which demonstrate the harmful environment in which journalists, specifically female journalists, have to conduct their work. 
+The respondent has indicated that the SLAPP suit defence ought not to be advanced by the amici. However, we agree that the abuse of process is not only available to the respondent. Where it can be demonstrated that an abuse is taking place it is the court’s duty to arrest an abuse of the administration of justice and such right is available to the court and the public. We also do not agree with the respondent’s submission that by interdicting the private prosecution, it would result in the media and journalists acting with impunity. The submissions of Maughan, CFE, MMA and SANEF cannot be regarded as amounting to a blanket protection from private prosecution or civil proceedings of journalists. All it does in this instance is protect journalists, members of the press and media houses from a meritless private prosecution which amounts to an abuse of process. 
+In addition, the fifth amici DIA, submits the SLAPP suit defence and the abuse of process argument ought only to be raised before a criminal court. It has advanced no authority for this submission and in any event, earlier on in this judgment, we have expressly found that the civil court has jurisdiction to deal with this matter.
+A matter which warrants some attention relates to the subsequent written submissions which were sent through by DIA after the matter had been fully argued and adjourned for the attention of the court. We have not considered these for the following reasons. Firstly, at the hearing of the matter, Mr Ngalwana sought to be excused from attendance at the second day of hearing. This was despite Kruger J raising the possibility of the DIA needing to make any further submissions. His reason for not attending and declining the invitation extended by Kruger J was that the amici did not have a right of reply. Secondly, no leave was sought from the court for the admission of these further written submissions and thirdly, there was an objection raised to the filing thereof.  
+[2023] 3 All SA 484 (KZP) at 529
+In the result, we are of the view that considering the respective grounds advanced by Downer and Maughan, the submissions of the respective amici, and the various case authorities referred to hereinbefore, the respondent’s private prosecution of Downer and Maughan constitutes an abuse of process as it has been instituted for an ulterior purpose and consequently, they are entitled to the relief sought in the respective notices of motion. 
+In the result we grant the following orders: 
+
+A:  Case number 12770/22P
+The summons issued out of the KwaZulu-Natal Division of the High Court, Pietermaritzburg on 5 September 2022, under case number CC52/2022P, for the purpose of instituting a private prosecution against the applicant by the respondent is set aside. 
+The respondent is interdicted and restrained from reinstituting, proceeding with, or from taking any further steps pursuant to, the private prosecution referred to in paragraph 1. 
+The costs of this application are to be paid by the respondent on an attorney and own-client scale, such costs to include the costs of two Counsel where so employed. 
+
+B:  Case number 13062/22P
+The summons, by which the respondent instituted a private prosecution of the applicant in this Court in case number CC52/2022P, is set aside. 
+The respondent is interdicted from pursuing any private prosecution of the applicant on substantially the same charges as those advanced in the summons set aside. 
+The respondent is ordered to pay the applicant’s costs on the scale as between attorney and own client, such costs to include the costs of two Counsel where so employed.
+
+Case number 13062/22P:
+
+
+
+Footnotes
+1	 Moyo and another v Minister of Justice and Constitutional Development and others; Sonti and another v Minister of Justice and Correctional Services and others 2018 (8) BCLR 972 (SCA) [also reported at [2018] 3 All SA 342 (SCA) – Ed].
+2	 President of the Republic of South Africa v Zuma and others [2023] ZAGPJHC 11 (16 January 2023) [reported at [2023] JOL 57081 (GJ) – Ed].
+3	 Solomon v Magistrate, Pretoria and another 1950 (3) SA 603 (T) [also reported [1950] 3 All SA 20 (T) – Ed].
+4	 Phillips v Botha 1999 (2) SA 555 (SCA) [also reported at [1999] 1 All SA 524 (A) – Ed].
+5	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others [2022] ZACC 37 (14 November 2022) [reported at [2022] JOL 56254 (CC) – Ed].
+6	 Zuma v Democratic Alliance and another 2021 (5) SA 189 (SCA) [also reported at [2021] 3 All SA 149 (SCA) – Ed].
+7	 Nundalal v Director of Public Prosecutions KZN and others [2015] ZAKZPHC 25 (8 May 2015) [reported at [2015] JOL 33232 (KZP) – Ed].
+8	 Spilhaus Property Holdings (Pty) Ltd and others v Mobile Telephone Networks (Pty) Ltd and another 2019 (4) SA 406 (CC) [also reported at 2019 (6) BCLR 772 (CC) – Ed] at paras [44]–[45]. 
+9	 Motala v Master, North Gauteng High Court 2019 (6) SA 68 (SCA) [also reported at [2019] 3 All SA 17 (SCA) – Ed] at para [65].
+10	 Van Deventer v Reichenberg and another 1996 (1) SACR 119 (C) at 127c–g [also reported at [1996] 1 All SA 125 (C) – Ed].
+11	 S v Zuma and another [2021] ZAKZPHC 89 (26 October 2021) [reported at [2022] 1 All SA 533 (KZP) – Ed].
+12	  In order for there to be genuine disputes of fact bald allegations of denial are not sufficient to create a dispute of fact. Here reference is made to the decision by Harms JA in National Director of Public Prosecutions v Zuma 2009 (2) SA 277 (SCA) [also reported at [2009] 2 All SA 243 (SCA) – Ed] at para [26].
+13	 Lawyers for Human Rights v Minister in the Presidency and others 2017 (1) SA 645 (CC) [also reported at 2017 (4) BCLR 445 (CC) – Ed] at para [20].
+14	 Hudson v Hudson and another 1927 AD 259 at 267–8.
+15	 Ascendis Animal Health (Pty) Ltd v Merck Sharp Dohme Corporation and others 2020 (1) SA 327 (CC) [also reported at 2020 (1) BCLR 1 (CC) – Ed].
+16	  Solomon v Magistrate, Pretoria and another 1950 (3) SA 603 (T), supra.
+17	 Van Deventer v Reichenberg and another, supra, at 125c–d. 
+18	 Phillips v Botha, supra, at 565F–G.
+19	 Western Assurance Company v Caldwell’s Trustee 1918 AD 262. 
+20	 Hudson v Hudson and another, supra.
+21	 Phillips v Botha, supra, at 565I. 
+22	 Nedcor Bank Ltd and another v Gcilitshana and others 2004 (1) SA 232 (SE) [also reported at [2003] JOL 11721 (SE) – Ed]. 
+23	 Nedcor Bank Ltd and another v Gcilitshana and others, supra, at para [27].
+24	 Van Deventer v Reichenberg and another, supra, at 126h–127c.
+25	  At 125c–d, 126f–127c.
+26	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [78].
+27	 Nedcor Bank Ltd and another v Gcilitshana and others, supra, at para [27].
+28	 Nedcor Bank Ltd and another v Gcilitshana and others, supra, at para [31]. 
+29	 National Director of Public Prosecutions v Zuma 2009 (2) SA 277 (SCA) [also reported at [2009] 2 All SA 243 (SCA) – Ed] at para [37].
+30	 National Director of Public Prosecutions v Zuma, supra, at para [38].
+31	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [78].
+32	  Since the matter was adjourned the respondent has instituted the interlocutory application for the recusal of Downer in the criminal trial.
+33	 Villa Crop Protection (Pty) Ltd v Bayer Intellectual Property GmbH (CCT 237/21) [2022] ZACC 42 (8 December 2022) [reported at 2023 (4) BCLR 461 (CC) – Ed]. 
+34	 African Farms and Townships Ltd v Cape Town Municipality 1963 (2) SA 555 (A) at 565 [also reported at [1963] 3 All SA 20 (A) – Ed].
+35	 MEC, Department of Co-Operative Governance and Traditional Affairs v Maphanga 2021 (4) SA 131 (SCA) [also reported at [2020] 1 All SA 52 (SCA) – Ed] at para [25]. 
+36	  Solomon v Magistrate, Pretoria, supra, at 607.
+37	 Cape Town City v South African National Roads Authority and others 2015 (3) SA 386 (SCA) [also reported as City of Cape Town v South African National Roads Authority Limited and others [2015] 2 All SA 517 (SCA) – Ed]. 
+38	 Van Breda v Media 24 Limited and others 2017 (2) SACR 491 (SCA) [also reported at [2017] 3 All SA 622 (SCA) – Ed] at para [10].
+39	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra.
+40	 Hoffmann v South African Airways 2001 (1) SA 1 (CC) at 27H–28B [also reported at 2000 (11) BCLR 1211 (CC) – Ed].
+41	 In re Certain amicus curiae applications: Minister of Health and others v Treatment Action Campaign and others 2002 (5) SA 713 (CC) [also reported at 2002 (10) BCLR 1023 (CC) – Ed] at para [5]. 
+42	Uniform rule 16A(2) and 16A(5).
+43	Uniform rule 16A(6)(a).
+44	Uniform rule 16A(6)(b).
+45	 Minister of Defence v Potsane and another; Legal Soldier (Pty) Ltd and others v Minister of Defence and others 2002 (1) SA 1 (CC) [also reported at 2001 (11) BCLR 1137 (CC) – Ed] at para [9].
+46	 Koyabe and others v Minister of Home Affairs and others (Lawyers for Human Rights as amicus curiae) 2010 (4) SA 327 (CC) [also reported at 2009 (12) BCLR 1192 (CC) – Ed] at para [80], the Constitutional Court made the following remarks: 
+  “Amici curiae have made and continue to make an invaluable contribution to this court’s jurisprudence. Most, if not all, constitutional matters present issues, the resolution of which will invariably have an impact beyond the parties directly litigating before the court. Constitutional litigation by its very nature requires the determination of issues squarely in the public interest, and insofar as amici introduce additional, new and relevant perspectives, leading to more nuanced judicial decisions, their participation in litigation is to be welcomed and encouraged.”
+47	 Chakanyuka and others v Minister of Justice and Correctional Services and others (Scalabrini Centre of Cape Town, The International Commission of Jurists and Pan-African Bar Association of South Africa amicus curiae) 2022 JDR 2207 (CC) [also reported at [2022] JOL 54772 (CC) – Ed] at para [64]. 
+48	 Minister of Police and others v Fidelity Security Services (Pty) Limited (Sakeliga NPC, National Hunting and Shooting Association, Professional Hunting Association of South Africa and Gun Owners South Africa NPC amicus curiae) 2022 (2) SACR 519 (CC) at para [22].
+49	 Economic Freedom Fighters and others v Manuel 2021 (3) SA 425 (SCA) [also reported at [2021] 1 All SA 623 (SCA) – Ed] at para [110].
+50	 S v Molimi 2008 (3) SA 608 (CC) [also reported at 2008 (5) BCLR 451 (CC) – Ed].
+51	 S v Molimi, supra, at para [22].
+52	 Koka NO v Willow Waters Home Owners Association (Pty) Ltd (Association of Residential Communities CC and the National Association of Managing Agents amicus curiae) 2013 JDR 1338 (GNP) at para [44]. 
+53	 Ex parte Goosen and others 2020 (1) SA 569 (GJ) at para [18].
+54	 S v Engelbrecht (Centre for Applied Legal Studies intervening as amicus curiae) 2004 (2) SACR 391 (W) at para [50].
+55	 Bernstein and others v Bester and others NNO 1996 (2) SA 751 (CC) at 780G–H [also reported at 1996 (4) BCLR 449 (CC) – Ed]; Ex parte Speaker of the National Assembly: In re Dispute Concerning the Constitutionality of Certain Provisions of the National Education Policy Bill 83 of 1995 1996 (3) SA 289 (CC) at 305D–E [also reported at 1996 (4) BCLR 518 (CC) – Ed].
+56	 Nedcor Bank Ltd and another v Gcilitshana and others, supra, at para [38].
+57	  Beckenstrater v Rottcher and Theunissen 1955 (1) SA 129 (A) at 140. 
+58	 Highstead Entertainment (Pty) Ltd t/a “The Club” v Minister of Law and Order and others 1994 (1) SA 387 (C) [also reported at [1993] 3 All SA 444 (C) – Ed]; Sex Worker Education and Advocacy Task Force v Minister of Safety and Security and others 2009 (6) SA 513 (WCC) [also reported at [2009] JOL 23461 (WCC) – Ed] at paras [16]–[28] and [60].
+59	 Nedcor Bank Ltd and another v Gcilitshana and others, supra.
+60	 Herbstein and Van Winsen The Civil Practice of the Supreme Court of South Africa (4 ed) edited by Dendy at 245.
+61	 Nedcor Bank Ltd and another v Gcilitshana and others, supra, at para [27].
+62	SLAPP is an acronym for Strategic Litigation Against Public Participation.
+63	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra.
+64	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [2].
+65	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [14].
+66	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [15]. 
+67	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at paras [42]–[43]. 
+68	 Lawyers for Human Rights v Minister of Home Affairs and others [2017] ZACC 22, 2017 (5) SA 480 (CC), 2017 (10) BCLR 1242 (CC).
+69	 MEC, Department of Co-Operative Governance and Traditional Affairs v Maphanga, supra. 
+70	 Phillips v Botha 1999 (1) SACR 1 (SCA) [also reported at [1999] 1 All SA 524 (A) – Ed].
+71	 Beinash v Wixley [1997] ZASCA 32, 1997 (3) SA 721 (SCA) at 734 [also reported at [1997] 2 All SA 241 (A) – Ed].
+72	 Ascendis Animal Health (Pty) Ltd v Merck Sharp Dohme Corporation and others, supra.
+73	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [52]. 
+74	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [78].
+75	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [90].
+76	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [94]. 
+77	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [98]. 
+78	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [100]. 
+79	 Brown and another v Papadakis and another NNO 2009 (3) SA 542 (C).
+80	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [71].
+81	 Mineral Sands Resources (Pty) Ltd and others v Reddell and others, supra, at para [94].
+82	  S 7 of the CPA, Nundalal v Director of Public Prosecutions KZN, supra, at para [54].
+83	 Khumalo and others v Holomisa 2002 (5) SA 401 (CC) [also reported at 2002 (8) BCLR 771 (CC) – Ed] at para [21]. 
+84	 South African Broadcasting Corp Ltd v National Director of Public Prosecutions and others 2007 (1) SA 523 (CC) [also reported at 2007 (2) BCLR 167 (CC) – Ed] at para [28].
+85	  United Nations Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression, the Organisation for Security and Cooperation in Europe representative on Freedom of the media, the Organisation of American States Special Rapporteur on freedom of expression and the African Commission on Human and People’s Rights, Special Rapporteur on freedom of expression and access to information. In addition, the UN Human Rights Council, which adopted a special resolution on the safety of journalists and condemned all attacks and violence against journalists.
+86	  The court in Khumalo referred to Government of the Republic of South Africa v “Sunday Times” Newspaper and another 1995 (2) SA 221 (T) [also reported at [1995] 2 All SA 160 (T) – Ed].
+87	 Maharaj and others v Mandag Centre of Investigative Journalism NPC and others 2018 (1) SA 471 (SCA) [also reported at [2018] 1 All SA 369 (SCA) – Ed] at paras [22] and [28]. 
+
+For the applicant:
+
+G Budelender SC and H Rajah instructed by the State Attorney, Durban c/o DPP KZN, Pietermaritzburg
+For the respondent:
+
+D Mpofu SC, T Masuku SC, MQN Buthelezi and N Xulu instructed by Ntanga Nkuhlu Incorporated, Honeydew c/o P Indrajith Attorneys, Pietermaritzburg
+
+Case number 12770/22P:
+For the applicant:
+
+S Budlender SC and J Bleazard instructed by Willem de Klerk Attorneys, Johannesburg
+
+For the first to third amici curiae:
+
+T Palmer instructed by Webber Wentzel, Johannesburg c/o Stowell and Comapny, Pietermaritzburg
+
+For the fourth amicus:
+
+K Hofmeyr SC and M Sibanda instructed by Adams & Adams, Pretoria c/o Shepstone & Wylie, Pietermaritzburg
+
+For the fifth amicus:
+
+V Ngalwana SC and S Manganye instructed by Ramusha Mashile Twala Incorporated, Sandton c/o Diedericks Attorneys Incorporated, Pietermaritzburg 
+
+
+End of Document

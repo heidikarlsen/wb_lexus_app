@@ -1,0 +1,138 @@
+
+
+
+
+Sefolo / Tshwane University of Technology [2012] 11 BALR 1193 (CCMA)
+Arbitration Law Reports
+
+Division: Commission for Conciliation, Mediation and Arbitration
+Case No: GATW 3291-12
+Date: 10/08/2012
+Before: GS Jansen van Vuuren, Commissioner
+Keywords
+
+
+Referral in terms of section 191(5)(a)(iv) of the LRA
+Commission for Conciliation, Mediation and Arbitration — Jurisdiction — CCMA having jurisdiction to arbitrate disputes concerning alleged occupational detriments, unless employee elects to refer dispute to Labour Court.
+
+Editor’s Summary
+
+
+After the applicant reported alleged irregularities to the respondent’s HR department, he was summoned to a disciplinary hearing, but was cleared of all charges. The applicant referred a dispute to the CCMA, alleging that he had been subjected to an unfair labour practice in the form of an “occupational detriment”. The respondent contended in limine that the Commissioner lacked jurisdiction to entertain the dispute. 
+
+The Commissioner noted that the Protected Disclosures Act 26 of 2000 permits employees who have been subjected to occupational detriments as contemplated by that Act to approach any court, including the Labour Court, for appropriate relief. However, the LRA deems any occupational detriment, other than a dismissal, to constitute an unfair labour practice and provides that, after conciliation, such disputes may be referred to the Labour Court. The Commissioner noted further that at the time the PDA was enacted, the definition of and remedies for unfair labour practices were contained in a schedule to the LRA, since repealed. That schedule provided that, after conciliation, disputes concerning discrimination had to be referred to the Labour Court, and disputes concerning other forms of unfair labour practice had to be referred for statutory arbitration. Under the current LRA, all unfair labour practice disputes must be referred for arbitration. However, section 191(13) provides that employees may refer disputes concerning alleged occupational detriments to the Labour Court. That provision merely gives employees a choice of referring disputes concerning alleged occupational detriments to either the Labour Court for adjudication, or for statutory arbitration. The existence of such a choice cannot deprive the CCMA of its jurisdiction to arbitrate all forms of unfair labour practices. There was, accordingly, no merit to the respondent’s contention to the contrary.
+
+The respondent’s point in limine was dismissed.
+
+____________________________________________________________________________________
+
+Award
+
+Details of hearing and representation
+The proceedings were conducted at the Metro Park Building in Pretoria on 8 August 2012. The applicant conducted his own case and the respondent was represented by Ms N Wagemaker (Employee Relations Officer). 
+The proceedings were recorded digitally. 
+[2012] 11 BALR 1193 (CCMA) at 1194
+
+Background
+The applicant (former Head of Logistics at the respondent’s Nelspruit campus) disclosed alleged irregularities in a report to the respondent’s Industrial Relations Department in July 2011. He was subsequently charged with misconduct, but was found not guilty at a disciplinary hearing.
+The applicant, believing that he had been subjected to an occupational detriment as contemplated in the Protected Disclosures Act 26 of 2000, referred a dispute to the Commission on 9 March 2012. The applicant claimed that the respondent had committed an unfair labour practice as contemplated in section 186(2)(d) of the Labour Relations Act 66 of 1995 and the matter was set down for con-arb on 10 April 2012.
+The respondent objected to the con-arb procedure, but attended the proceedings on 10 April 2012. The dispute could not be resolved and a certificate of non-resolution was issued.
+The matter was eventually set down for arbitration before me, but Ms Wagemaker at the outset raised a point in limine, questioning the Commission’s jurisdiction. 
+
+The respondent’s point in limine
+Ms Wagemaker referred me to the provisions of section 4 of the Protected Disclosures Act, 2000 as well as sections 186(2)(d) and 191(13) of the Labour Relations Act, 1995 and submitted that the Commission lacked jurisdiction to arbitrate in this matter.
+Ms Wagemaker contended that the applicant should have referred the present dispute to the Labour Court and referred me to Van Zyl, B, Schlesinger, E and Brand, F “CCMA Rules” (2ed) Van Zyl, Rudd & Associates (Pty) Ltd, 2005, at179–180 – the authors state that the Labour Court has jurisdiction in respect of “unfair labour practice disputes in terms of section 191(5)(b) read with section 191(13) of the LRA where the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act 26 of 2000, for having made a protected disclosure in terms of the said Act.”
+Ms Wagemaker, relying on a passage from Van Zyl, B, Schlesinger, E and Brand, F, op cit 181, in fact, suggested that the Labour Court has exclusive jurisdiction in respect of the dispute in casu.
+Ms Wagemaker argued that the judgments of the Labour Court in Grieve v Denel (Pty) Ltd (2003) 24 ILJ 551 (LC) at 558 (paragraph 9) [also reported at [2003] 4 BLLR 366 (LC) – Ed] and Feni v Pan SA Language Board (2011) 32 ILJ 2136 (LC) at 2142 (paragraphs 16 and 17) [also reported at [2011] JOL 27062 (LC) – Ed] lent support to her view that the Commission lacks jurisdiction to arbitrate in the current dispute. 
+
+  Pillemer AJ in Grieve v Denel (Pty) Ltd (2003) 24 ILJ 551 (LC) at 557–558 (paragraph 8) [also reported at [2003] 4 BLLR 366 (LC) – Ed] pointed out that the LRA had been amended since the promulgation of the PDA and drew attention to the provisions of section 191(13) of the LRA. The Court at paragraph 9 stated that “the powers conferred upon this court  
+[2012] 11 BALR 1193 (CCMA) at 1195
+  are expressed in wide terms so that any employee who has been subjected, is subject or may be subjected to an occupational detriment in breach of section 3 may approach the Labour Court for appropriate relief.” 
+
+  The Labour Court in Feni v Pan SA Language Board (2011) 32 ILJ 2136 (LC) at 2142 (paragraph 17) [also reported at [2011] JOL 27062 (LC) – Ed] held as follows:
+
+“In terms of s 4(1) of the PDA an employee who has been subjected or may be subjected to an occupational detriment may approach any court (including the Labour Court) for appropriate relief or pursue any other process allowed or prescribed by any law. Where an employee has been subjected to an occupational detriment (in breach of s 3 of the PDA) other than dismissal, such an occupational detriment is, as already pointed out, deemed to be an unfair labour practice as contemplated by the LRA. A dispute about an occupational detriment (short of dismissal) may be referred to the Labour Court provided that the matter has been referred to conciliation and the matter remains unresolved (s 4(2)(b) of the PDA). This much is also clear from s 191(13) of the LRA, where it is specifically stated that the Labour Court has jurisdiction to adjudicate a dispute about a occupational detriment (which is deemed to be an unfair labour practice) referred to it but provided that the dispute was first referred to conciliation in terms of the LRA and provided that the CCMA has issued a certificate of non-resolution of the dispute.” (Own underlining.)
+
+
+Relevant legislation
+
+Protected Disclosures Act 26 of 2000
+Section 3 of the Protected Disclosures Act, 2000 (hereinafter referred to as the “PDA”) reads as follows:
+
+“Employee making protected disclosure not to be subjected to occupational detriment.
+
+No employee may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure.”
+
+Section 4 of the PDA describes the remedies. Subsections (1) and (2) read as follows:
+“(1) Any employee who has been subjected, is subject or may be subjected, to an occupational detriment in breach of section 3, may –
+(a) approach any court having jurisdiction, including the Labour Court established by section 151 of the Labour Relations Act, 1995 (Act 66 of 1995), for appropriate relief; or
+(b) pursue any other process allowed or prescribed by any law.
+(2) For the purposes of the Labour Relations Act, 1995, including the consideration of any matter emanating from this Act by the Labour Court –
+(a) any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal as contemplated in section 187 of that Act, and the dispute about such a dismissal must follow the procedure set out in Chapter VIII of that Act; and
+(b) any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in Part B of Schedule 7 to that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part: Provided that if the matter fails to be resolved through conciliation, it may be referred to the Labour Court for adjudication.” (Own underlining.)
+The PDA’s date of commencement was 16 February 2001.
+
+Labour Relations Act 66 of 1995
+Part B of Schedule 7 of the Labour Relations Act, 1995 (hereinafter referred to as “the LRA”) contained Transitional Arrangements. At the time of the PDA’s commencement the said Part B read as follows:
+“2. Residual unfair labour practices
+(1) For the purposes of this item, an unfair labour practice means any unfair act or omission that arises between an employer and an employee, involving –
+. . .
+the unfair conduct of the employer relating to the promotion, demotion or training of an employee or relating to the provision of benefits to an employee.
+the unfair suspension of an employee or any other disciplinary action, short of dismissal, in respect of an employee.
+the failure or refusal of an employer to reinstate or re-employ a former employee in terms of any agreement.”
+(2) . . .
+3. Disputes about unfair labour practices
+(1) Any party may refer a dispute about an alleged unfair labour practice in writing to –
+a council, if the parties to the dispute fall within the registered scope of that council; or 
+the Commission, if no council has jurisdiction.
+(2) The party who refers the dispute must satisfy the council or the Commission that a copy of the referral has been served on all the other parties to the dispute.
+(3) The council or the Commission must attempt to resolve the dispute through conciliation.
+(4)  If the dispute remains unresolved – 
+. . .; 
+any party to the dispute, if the dispute is about an act or omission referred to in item 2(1)(b), (c) or (d), may request that the dispute be resolved through arbitration.
+4. Powers of Labour Court and Commission
+(1) The Labour Court has the power to determine any dispute that has been referred to it in terms of item 3 on terms it deems reasonable, including, but not limited to, the ordering of reinstatement or compensation.
+(2) The arbitrator has the power to determine any dispute that has been referred to it in terms of item 3 on reasonable terms.”
+
+Items 2(1)(a), 2(2) and 3(4)(a) related to unfair discrimination and these items had been repealed by section 64 of the Employment Equity Act, 1998 – with effect from 1 December 1999.”
+
+Items 2–4 of Schedule 7 (constituting the entire Part B) were deleted by section 55(a) of the Labour Relations Amendment Act 12 of 2002, but the legislature failed to amend section 4(2)(b) of the PDA accordingly.
+Section 41(c) of the Labour Relations Amendment Act added to the LRA section 186(2) which defined the unfair labour practice afresh. Section 186(2)(d) of the LRA, in particular, described as an unfair labour practice “any unfair act or omission that arises between an employer and an employee involving an occupational detriment, other than dismissal, in contravention of the Protected Disclosures Act, 2000 (Act 26 of 2000), on account of the employee having made a protected disclosure defined in that Act.”
+Section 191(1)(a) of the LRA, inter alia, provides that a dispute about an unfair labour practice may be referred to a bargaining council or the Commission. And section 191(5)(a)(iv) provides that a bargaining council or the Commission must arbitrate an unresolved dispute at the request of the employee if the dispute concerns an unfair labour practice – this subsection was added by section 46(f) of the Labour Relations Amendment Act 12 of 2002.
+Section 191(13) of the LRA reads as follows:
+“(a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+(b)  A referral in terms of paragraph (a) is deemed to be made in terms of subsection (5)(b).”
+
+  (This section was added by section 46(i) of the Labour Relations Amendment Act 12 of 2002.)
+
+Analysis and findings
+The provisions of section 4(2)(b) of the PDA have always been problematic. Landman A (Labour Court Judge), in “A Charter For Whistle Blowers – A Note On The Protected Disclosures Act 26 of 2000 (2001) 22 ILJ 37” seemed to hold the view that the Commission did not have jurisdiction to arbitrate in disputes about occupational detriments that were deemed to be unfair labour practices. Landman at 43 said: 
+
+“A dismissal of a whistle blower constitutes an automatically unfair dismissal. The Labour Court is entitled to order the reinstatement of the whistle blower or to order compensation not exceeding an amount equal to 24 months times the monthly remuneration payable to the employee at the date of dismissal. Lesser occupational detriments are treated as alleged unfair labour practices. Such disputes, like dismissal, must be referred to a bargaining council having jurisdiction or the CCMA, as the case may be, and thereafter to the Labour Court for adjudication. What remedy is the Labour Court to 
+
+ 
+[2012] 11 BALR 1193 (CCMA) at 1198
+
+award for an unfair labour practice concerning a lesser occupational detriment than dismissal? The Act does not slot this kind of unfair labour practice into the routes provided for in schedule 7 to the LRA, i.e. those unfair labour practices leading to adjudication and those leading to arbitration by the CCMA or a council. The powers of an arbitrator differ slightly from those of the court. Item 4(1) of the LRA deals with the powers of the Labour Court to determine any dispute referred to it in terms of item 3 ‘on terms it deems reasonable, including, but not limited to, the ordering of reinstatement or compensation’. Two points need be made. This power, in item 4(1), hangs in the air in the LRA. The Employment Equity Act 55 of 1998 repealed the kind of unfair labour practice which it was intended to remedy. The second point is that assuming it is applicable, reinstatement would not be an option, for the unfair labour practice concerning a lesser detriment does not involve dismissal. It may be that the Act intends the court to exercise the powers which the CCMA or council could have exercised had they been given jurisdiction. If this is so item 4(2) permits the dispute to be resolved ‘on reasonable terms’.” (Own underlining.)
+
+At the time when Landman wrote this article Part B of Schedule 7 of the LRA still existed. The Legislature had, for some or other reason, chosen not to repeal item 4(1) with items 2(1)(a), 2(2) and 3(4)(a) in December 1999 and that explains Landman’s statement that item 4(1) “hangs in the air”. It might perhaps also have created the impression that only the Labour Court was empowered to determine unfair labour practice disputes in terms of section 4(2)(b) of the PDA. It is, however, necessary to point out that item 4(1) only applied to disputes referred to the Labour Court in terms of item 3. The only unfair labour practice disputes that could ever have been referred to the Labour Court in terms of item 3 were disputes as contemplated in item 3(4)(a) – ie disputes relating to unfair discrimination. It was, however, no longer possible to refer any unfair labour practice dispute to the Labour Court in terms of the provisions of item 3(4)(a) at the time when the PDA was promulgated.
+Section 4(2)(b) of the PDA has, of course, always contained a proviso to the effect that a matter which fails to be resolved through conciliation may be referred to the Labour Court for adjudication, but that does not imply that the Commission lacks jurisdiction to arbitrate in a dispute concerning an occupational detriment deemed to be an unfair labour practice. It simply means that the employee also has an option to refer the matter to the Labour Court.
+The Legislature failed to amend or repeal section 4(2)(b) of the PDA when it repealed Part B of Schedule 7 of the LRA, but section 191(5)(a)(iv) of the LRA now explicitly provides that a bargaining council or the Commission must arbitrate an unresolved dispute at the request of the employee if the dispute concerns an unfair labour practice. There is no reason whatsoever why this should not apply to an unfair labour practice as contemplated in section 186(2)(d) of the LRA and the Commission consequently has jurisdiction to arbitrate in the present dispute.
+Section 191(13)(a) of the LRA merely gives the employee an option to refer such an unfair labour practice to the Labour Court for adjudication. This was the view of the High Court in Engineering Council of SA and  
+[2012] 11 BALR 1193 (CCMA) at 1199
+  another v City of Tshwane Metropolitan Municipality and another (2008) 29 ILJ 899 (T) [also reported at [2008] 6 BLLR 571 (T) – Ed]. Prinsloo J at 938 (paragraph 125) stated:
+
+“I am alive to the fact that ss 186 and 187 of the LRA recognize a contravention of the PDA by an employer as an unfair labour practice and also as a basis for complaining of an automatically unfair dismissal. However, s 191 of the LRA, dealing with disputes about unfair dismissals and unfair labour practices, appears to provide, in subsection (13)(a), an employee with an option to refer a dispute concerning such an unfair labour practice to the Labour Court for adjudication. The provision is not peremptory. It appears to be in harmony with s 4(1)(a) of the PDA and s 157(2) of the LRA.”
+
+It was also the import of the Labour Court’s judgments in Grieve v Denel (Pty) Ltd (2003) 24 ILJ 551 (LC) [also reported at [2003] 4 BLLR 366 (LC) – Ed] and Feni v Pan SA Language Board (2011) 32 ILJ 2136 (LC) [also reported at [2011] JOL 27062 (LC) – Ed]. These judgments merely endorsed the fact that an employee “may” also refer an unfair labour practice as contemplated in section 186(2)(d) of the LRA to the Labour Court for adjudication. Van Zyl, B, Schlesinger, E and Brand, F “CCMA rules” simply confirmed that the Labour Court had jurisdiction to adjudicate in such a dispute.
+The Supreme Court of Appeal in City of Tshwane Metropolitan Municipality v Engineering Council of SA and another (2010) 31 ILJ 322 (SCA) at 340 (paragraph 35) to 342 (paragraph 39) [also reported at [2010] 3 BLLR 229 (SCA) – Ed] rejected the notion that the Labour Court has exclusive jurisdiction in a case such as this. The High Court also has jurisdiction.
+The Commission also has jurisdiction to arbitrate in this dispute. There is no substance in Ms Wagemaker’s contention to the contrary.
+
+Ruling
+The respondent’s point in limine is dismissed.
+The Commission does have jurisdiction to arbitrate in this dispute.
+
+The following cases were referred to in the above award:
+
+
+End of Document

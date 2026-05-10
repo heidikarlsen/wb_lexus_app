@@ -1,0 +1,170 @@
+
+
+
+
+Operational requirements and unprotected disclosures
+IR - Editorial
+
+Operational requirements and unprotected disclosures 
+
+Whistle-blowing often occurs in the context of management wishing to enforce discipline. Managers do not take kindly to employees who are regarded as not acting in the best interests of the business. Whether or not employees enjoy protection against whistle-blowing in terms of the common law was put beyond doubt when parliament passed the  Protected Disclosures Act 26 of 2000 (PDA). Managers have to be very careful when dismissing for operational requirements to ensure that the reason is unrelated to a protected disclosure by a legitimate whistle-blower.
+
+Background and 2002 amendment of the Labour Relations Act (LRA)
+
+Section  4(2) of the PDA provides that for the purposes of the Labour Relations Act, 1995, including the consideration of any matter emanating from this Act by the Labour Court — 
+
+(a) any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal as contemplated in section 187 of that Act, and the dispute about such a dismissal must follow the procedure set out in Chapter VIII of that Act; and 
+
+(b) any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in Part B of Schedule 7 to that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part…’”
+
+In 2002 the LRA was amended to give effect to section 4(2) of the PDA. Sections  186(2)(d) and 187(1)(h) were introduced in the LRA to harmonise the two statutes. As will be seen later some confusion has been caused about whether applicants are still required to refer such disputes to the CCMA before approaching the Labour Court (LC). 
+
+Developments through case law
+
+To trace the important developments concerning the PDA it is proposed to highlight six important recent judgments of the Supreme Court of Appeal (SCA), Labour Appeal Court (LAC) and the LC:
+
+City of Tshwane Metropolitan Municipality v Engineering Council of SA  (2009) 18 SCA 1.11.5
+
+Purpose of the PDA
+
+The purpose of the PDA was clearly spelt out by justice Wallis AJA (as he then was): 
+
+“[33] According to its long title the purpose of the PDA is to make provision for procedures in terms of which employees in both the private and the public sectors may disclose unlawful or irregular conduct by their employers or by other employees and to provide for the protection of employees who make such disclosures. The preamble records that employees bear a responsibility to disclose criminal and any other irregular conduct in the workplace, and that employers have a responsibility to take all necessary steps to protect employees who make disclosures from reprisals as a result of making such disclosures. All of this is located within the constitutional imperative of good, effective, accountable and transparent government in organs of state”. 
+
+Justice Wallis AJA went on to state:
+
+“Section 3(1) of the PDA states as its objects the protection of an employee who makes a protected disclosure from any occupational detriment; the provision of remedies for those who suffer an occupational detriment in consequence of having made a protected disclosure and the provision of procedures to enable an employee, in a responsible manner, to disclose information concerning improprieties by his or her employer. Whilst it was submitted to us that the purpose was to have the subject of a disclosure investigated, and no doubt it is hoped that will flow from disclosures, that is not a stated purpose of the PDA. It recognises that disclosures are frequently not welcome to an employer and seeks to protect the employee who makes a protected disclosure from retribution from their employer in consequence of having made a protected disclosure”.
+
+Overlap of interests
+
+Not infrequently there is an overlap between the interests of employers and those of the community at large as will appear from these extracts:
+
+“[39] The issues in this case, whilst arising in the context of employment, relate to questions of public safety and the professional obligations of persons in the position of Mr Weyers in the context of the accountability of a municipality for proper service delivery of electricity within its municipal area”.
+
+“[40] I turn then to consider the provisions of the PDA. Under section 3 of the PDA an employee who makes a protected disclosure may not be subjected to an occupational detriment by his or her employer on account, wholly or partly, of having made that disclosure. An occupational detriment is defined in section 1 as including being subjected to any disciplinary action. Accordingly the question is whether Mr Weyers’ action in sending his letter to the Department of Labour and the Engineering Council constituted a protected disclosure. If it did then the appellant was not entitled to institute disciplinary proceedings against him and he was entitled to obtain the interdict that was granted by the Pretoria High Court”.
+
+Meaning of ‘information’ and opinion
+
+An important issue concerned the meaning of the word ‘information’ and again it is worth quoting what justice Wallis AJA had to say. 
+
+[41] 
+The first argument advanced before us was that the contents of the letter did not constitute information because they contained only Mr Weyers’ opinion that people who were not competent were about to be appointed as system operators and not a fact or similar form of information. However a person’s opinion is itself a fact, for as Bowen LJ pointed out:  
+
+‘the state of a man's mind is as much a fact as the state of his digestion’.
+
+Justice Wallis continued by referring to the views of suitably qualified experts:
+
+“In addition an opinion often relates to a fact the existence of which can only be determined by considering the views of a suitably qualified expert. Whether a person has the requisite skills to undertake a dangerous and skilled task is a question of fact, but prior to their appointment, which was the relevant time in this instance, that fact can only be ascertained by way of tests and the assessment of people who know what the job requires of their level of skill. The letter dealt with that issue and as such contained information concerning the possible lack of competence of those who were likely to be appointed to the system operator posts. It also contained information to the reader about the state of mind of Mr Weyers as the person in charge of the PSC centre and the person responsible, both under his contract and by virtue of his appointment under the OHSA, for the safety of the machinery under his control and that of the PSC centre staff”.
+
+State Information Technology Agency (Pty) Ltd v Sekgobela  (2012) 21 LAC 1.11.51
+
+Justice Mlambo JP (as he then was) held that the dismissal of a former employee, a programme manager, was automatically unfair after he had lodged a grievance about his performance review and other perceived irregularities. 
+
+Onus of proof
+
+The LAC dealt with the issue of the onus set out in section  192 of the LRA: 
+
+[15] 
+In cases where it is alleged that the dismissal is automatically unfair, the situation is not much different save that the ‘the evidentiary burden to produce evidence that is sufficient to raise a credible possibility that an automatically unfair dismissal has taken place rests on the applicant [employee]. If the applicant succeeds in discharging his evidentiary burden then the burden to show that the reason for the dismissal did not fall within the circumstances envisaged by section 187(1) of the LRA rests with UNISA [employer].’
+
+Legitimacy of disclosure and good faith
+
+[31] 
+The legitimacy of any disclosure does not depend on how it is treated by whoever it is made to. The test remains whether the person making disclosure is acting in good faith and whether that person reasonably believes that there is an impropriety. The respondent in this case reasonably believes that the information he disclosed to the office of the Public Protector is true and he had not been contradicted in that regard. The only criticism levelled at his disclosure was that it is confusing so as to be no disclosure within the contemplation of the PDA. I do not agree. http://10.120.33.74/nxt/gateway.dll/fehj/u35m/ea6m/ka6m/gp2uc/hp2uc/di6uc
+
+Radebe v Premier of Free State Province (LAC)  (2013) 22 LAC 10.10.1
+
+In allowing the appeal justice Mlambo JP (as he then was) found the former employee had made a protected disclosure in good faith in that he reasonably and honestly believed that the disclosure tended to show past or continuing irregularities. He was not required to prove the allegations.
+
+Definition of ‘employer’
+
+The LRA does not define an ‘employer’ so the definition in the PDA is interesting:
+
+ ‘any person who employs or provides work for any other person and who remunerates or expressly or tacitly undertakes to remunerate that other person; or who permits any other person in any manner to assist in the carrying on or conducting of his, her or its business, including any person acting on behalf of or on the authority of such employer.’ 
+
+Based on that definition the LAC held that the provincial MEC for Education was the employer of employees in the provincial education department and the disclosure made to the MEC complied with the PDA. 
+
+Meaning of ‘information’
+
+With regard to the meaning of ‘information’ it could be factual, opinion or hearsay but it must be based on some facts. It is not a requirement to prove the truth or accuracy of information disclosed. 
+
+Temba Xakaza v Ekurhuleni Metropolitan Municipality  (2013) 22 LC 11.5.3
+
+The internal disciplinary investigation was still under way and acting justice Boqwana stated that  it ‘seemed bizarre to me that the parties would still require this application to proceed in light of a pending outcome of the disciplinary inquiry. Nevertheless they chose to do so’. 
+
+Reasonable belief
+
+Interdictory relief was refused because the applicant could not show that he had reason to believe that the information contained in the disclosure was substantially true. 
+
+[70]
+ Whilst the employee’s belief is subjective it must be reasonable. For the belief to be held reasonable there must be a factual basis for believing that the information discloses impropriety. In this case the applicant did not demonstrate that. 
+[71] I therefore find that the applicant has not been able to show that he suffered an occupational detriment warranting protection in terms of the PDA. 
+
+Magagane v MTN South Africa (Pty) Ltd 2013/05/17 Myburgh [AT] AJ 
+
+The applicant who had been employed by MTN as a senior legal advisor in its commercial legal department was dismissed on 31 July 2011 and she alleged that she had been automatically unfairly dismissed after having made a protected disclosure. But she failed to prove any causal link and her dismissal was not regarded as being automatically unfair. The employer failed to follow the statutory procedures to enable it to rely on a dismissal based on ‘operational requirements’ and compensation was awarded.
+
+Employer’s Hotline
+
+[71] 
+. . . Where an employer has a hotline, but an employee decides instead to make a confidential report to a director of her employer, and is then asked to co-operate with the auditors appointed by the employer to investigate the complaint and does so on a confidential basis (this being the procedure authorised by the employer), as occurred herein, it cannot be contended that the disclosure is unprotected for want of compliance with the prescribed / authorised procedure. 
+
+Dismissal based on operational requirements
+
+It is worth quoting what acting justice Myburgh AJ had to say about the reason to dismiss based on operational requirements:
+
+[101] 
+Although the LAC has in the past adopted divergent views regarding the test for the substantive fairness of a retrenchment, in its recent judgment in Super Group Supply Chain Partners v Dlamini & another (2013) 34 ILJ 108 (LAC), the full court endorsed the following dictum of the LAC in Kotze v Rebel Discount Liquor Group (Pty) Ltd [(2000) 9 LAC 5.2.4] :    
+
+‘The requirement of consultation is essentially a formal or procedural one, but it also has a substantive purpose. That purpose is to ensure that such a decision is properly and genuinely justifiable by the operational requirements or by a commercial or business rationale [authority omitted]. … The function of the court in scrutinizing the consultation process is not to second-guess the commercial or business efficacy of the employer's ultimate decision but to pass judgment on whether such a decision was genuine and not merely a sham. The court's function is not to decide whether the employer made the best decision under the circumstances, but only whether it was a rational commercial or operational decision, properly taking into account what emerged during the consultation process [authority omitted].’ 
+
+Van Alphen v Rheinmetall Denel Munition (Pty) Ltd 2013/06/21 Steenkamp AJ
+
+The employee claimed that she had made a protected disclosure and applied to have the pending disciplinary hearing interdicted. But the applicant failed to discharge the onus to show that she had made a ‘disclosure’ of an ‘impropriety’.
+
+Dishonest or unacceptable behaviour
+
+[38] 
+It is important to note that the PDA makes it clear that “'impropriety' means any conduct which falls within any of the categories referred to in paragraphs (a) to (g) of the definition of 'disclosure'”.
+
+Breach of legal obligation ?
+
+[39] 
+In order to succeed, the applicant has to show that she made a disclosure of an impropriety. She claims that that impropriety was a breach of a legal obligation. But her real complaint is the alleged non-performance of Kleinhaans and the QA technicians who report to him, and what she perceives to be ‘extreme chaos’ in the quality systems department. That does not, to my mind, amount to ‘criminal or other irregular conduct’ as contemplated by the preamble of the PDA. Nor does it fall within the definition of a ‘disclosure’ of an ‘impropriety’. I fully agree that the PDA should be given a wide rather than a restrictive interpretation in order to encourage a culture of whistleblowing, especially in a country such as ours that is increasingly plagued by the scourge of corruption, both in the public and the private sector. However, the legislature could not have intended that concerns about the alleged poor performance of a quality systems department and an apparent lack of concern about customer complaints should be given the protection offered by the PDA. 
+
+Alternative remedy
+
+[43] 
+Section  4(2)(b) of the PDA also contemplates an alternative remedy for cases such as this, where the employee has not been dismissed. It specifies that ‘any other occupational detriment’ – such as a disciplinary hearing – is deemed to be an unfair labour practice.
+
+LRA section 191(13)
+
+Justice Steenkamp expressed surprise that neither party had referred him to section 191(13) of the LRA as that section provides that: 
+
+“(a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+
+(b) A referral in terms of paragraph (a) is deemed to be made in terms of subsection (5)(b).”
+
+It was pointed out that the subsection sits somewhat uncomfortably with section 186(2)(d).
+
+[46] 
+Section 186 read with s 191(5)(a)(14) prescribes a referral to the CCMA, while s 191(13) speaks of a referral to the Labour Court. In line with the common design of the LRA, it seems to me that a referral to conciliation is still envisaged as a first step; but if conciliation fails, the dispute may be referred to this Court for adjudication (and not to the CCMA for arbitration). That reading is also in line with section 4(2)(b) of the PDA.
+
+It was held that the applicant had not referred a dispute to the CCMA for conciliation and that in terms of the PDA read together with the LRA it was a prescribed first step. Justice Steenkamp went on as follows:
+
+[47] 
+It is also an alternative remedy prescribed by the dispute resolution structure of those two Acts. The applicant could conceivably have asked for interim relief while the conciliation is pending; but she has elected to approach this Court on an urgent basis for final relief without having followed the avenues for alternative relief required by the LRA and the PDA. For this reason, also, she has not satisfied the requirements for final relief in motion proceedings.
+
+Conclusion
+
+In the circumstances it was concluded that the applicant had not discharged the onus to show that she was entitled to the relief sought under the PDA. He went on to state that:
+
+[48]
+ She must take part in the disciplinary hearing and lead the evidence she deems necessary to rebut the allegations of misconduct. It is important to point out, though, that this Court expresses no view on the fairness of that disciplinary hearing and the question whether the allegations against her, arising from the concerns she raised, constitute misconduct. That is for the chairperson of the hearing to decide; and, should the applicant be dissatisfied with the outcome, she has recourse to the dispute resolution procedure provided for in the LRA.
+
+July 2013
+
+Graham Giles
+
+
+End of Document

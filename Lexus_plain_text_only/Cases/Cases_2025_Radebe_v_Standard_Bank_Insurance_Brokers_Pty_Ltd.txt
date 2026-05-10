@@ -1,0 +1,270 @@
+
+
+
+
+Radebe v Standard Bank Insurance Brokers (Pty) Ltd [2025] JOL 69923 (LC)
+Judgments Online
+
+Division: Johannesburg
+Case No: 2025-159767
+Hearing Date(s): 23 / 09 / 2025
+Judgment Date(s): 31 / 10 / 2025
+Bench: Lagrange J
+
+
+Keywords
+
+
+Labour and Employment — Suspension from employment — Application to uplift — Disciplinary proceedings — Application to halt — Urgency
+
+Mini Summary
+
+
+Material Facts
+
+• The applicant (Radebe) was employed by the respondent. 
+
+• His failure to fulfil his duties properly led to a final written warning in February 2025. In April 2025, he received another written warning for failing to follow instructions and for misconduct in his interactions with a colleague. His appeal against the warning was dismissed.
+
+• In July 2025, Radebe sent confidential bank information to external email addresses, including a competitor (FNB). 
+
+• He was suspended with pay on 30 July 2025 and issued a notice of disciplinary hearing for breaching the bank’s confidentiality policies. 
+
+• Radebe filed an urgent application to halt the disciplinary inquiry and uplift his suspension, claiming the disciplinary action and suspension were occupational detriments for making a protected disclosure under the Protected Disclosures Act 26 of 2000 (PDA).
+
+Issues
+
+• Whether the application met the requirements of urgency.
+
+• Whether Radebe’s communication with his legal advisor constituted a protected disclosure under section 5 of the PDA.
+
+• Whether the disciplinary inquiry and suspension amounted to an occupational detriment in contravention of the PDA.
+
+Relevant cases
+
+• Grieve v Denel (Pty) Ltd [2003] 4 BLLR 366 (LC)
+
+• Engineering Council of SA & Another v City of Tshwane Metropolitan Municipality & Another [2008] 6 BLLR 571 (T)
+
+• Young v Coega Development Corporation (Pty) Ltd (1) [2009] 6 BLLR 597 (ECP)
+
+• Mamodupi v Property Practitioners Regulatory Authority and Another (J68/23) [2023] ZALCJHB 19
+
+Application and rationale
+
+Radebe’s application to uplift his suspension lacked urgency, as he did not act promptly after the suspension was imposed. However, the application to halt the disciplinary inquiry was deemed urgent because Radebe acted promptly in that regard.
+
+Section 5 of the PDA defines a protected disclosure to a legal advisor as one made with the object of obtaining legal advice. Radebe’s communication with his legal advisor fell within that definition.
+
+A prima facie case was established that the disciplinary inquiry was instituted, at least partly, in response to Radebe’s protected disclosure. 
+
+The balance of convenience did not favour granting interim relief to halt the disciplinary inquiry as Radebe could pursue his claim through the CCMA or the Labour Court, and suspending the inquiry could cause prejudice to the employer.
+
+Conclusion
+
+The court struck off the application to uplift the suspension for lack of urgency. The application to halt the disciplinary inquiry was heard as urgent but ultimately dismissed. 
+
+ 
+[2025] JOL 69923 (LC) at 2
+
+LAGRANGE, J
+
+Nature of the application
+
+[1]    This is an opposed application brought on an urgent basis for interim relief to halt a disciplinary inquiry and prevent any disciplinary action being taken against the applicant, Mr J Radebe ('Radebe'), based on charges issued to him on 19 August 2025, pending the outcome of the arbitration of a dispute he has referred to the CCMA on 1 September 2025, or the adjudication of the dispute by the Labour Court, assuming the dispute is not settled at conciliation. A second leg of the relief he seeks is an interim order uplifting the paid suspension imposed on him on 30 July 2025 uplifted.
+
+[2]    The dispute he referred to the CCMA is alleges that the disciplinary action instituted by his employer ('the company' or 'Standard') and his associated suspension amount to occupational detriments for making a protected disclosure under the Protected Disclosures Act 26 of 2000 ('the PDA'). In terms of section 186(2)(d) of the Labour Relations Act, 66 of 1995 ('the LRA') an unfair act between an employer and employee involving an occupational detriment, other than dismissal, in contravention of the PDA on account of the employee having made a protected disclosure defined in that Act is an unfair labour practice.
+
+Brief chronology
+
+[3]    In November 2019, Radebe commenced employment with the respondent ('Standard') as a Partner: Learning and Development, Wealth Insurance. Part of his duties included ensuring that the bank's training initiatives met various regulatory requirements and obtaining Expressions of Interest from company's  
+[2025] JOL 69923 (LC) at 3
+work team members on their training needs. These were the basis for applying for training funds from the Insurance Sector Education and Training Authority (INSETA).
+
+[4]    During November and December 2024, discussions were held between Radebe and Ms. R Phiri ('Phiri'), the Manager: Skills Development, regarding the Discretionary Grant funding applications to be made to INSETA.
+
+[5]    On 20 November 2024, Radebe received notification from INSETA that the funding window had opened, along with the prescribed application template. The internal cut-off date for expressions of interest to be submitted was 6 December 2024. Radebe failed to obtain them by that date.
+
+[6]    10 December 2024, Radebe sent an email to Ms. L Govender ('Govender') containing the 2023 list of learnerships to ascertain whether it would assist with the funding applications. She forwarded it to Phiri, who responded that it did not meet all her needs and
+
+[7]    On 11 December 2024, Govender instructed Radebe to share a revised 2023 application in the required spreadsheet format with Ms. Phiri by 16:30. Phiri subsequently emailed Ms F Limbada ('Limbada'), Radebe's Line Manager, pointing out that he had not submitted the required expression of interest by the due date.
+
+[8]    Limbada and Govender jointly completed the submission to INSETA on 12 December 2024. Because all the information required had not been prepared timeously, they had to prepare the funding application base on the previous year's training needs data.
+
+[9]    Quite independently of the INSETA funding proposal developments, on 21 February 2025, Radebe was issued with a final written warning for sending confidential bank information to an external email address. He did not dispute that warning at the time it was issued.
+
+[10]    4 March 2025 a meeting was held between Radebe, Mr A Kennedy, and Ms. Limbada to discuss the work-related activities, during which Radebe explained his reasons for not submitting the INSETA Expression of Interest in the required 2025 format.
+
+ 
+[2025] JOL 69923 (LC) at 4
+
+[11]    On 15 April 2025 Radebe was issued with a written warning for misconduct, specifically for: (1) failing to follow a reasonable instruction on 11 December 2024 (potentially losing approximately R2.4 million in funding) by not submitting the Damond for the discretionary funding in the required template; and (2) misconduct in the manner he had addressed Phiri during the period 9–12 December 2024.
+
+[12]    Radebe appealed against the written warning, arguing the instruction was unethical/unlawful, as it allegedly involved fabricating the number of expressions of interest, because no expressions of interest had been submitted by business leaders in the company and the previous year that he was being subjected to unfair treatment.
+
+[13]    On or about 10 June 2025, Radebe's appeal was dismissed, and the written warning was upheld. On 24 July 2025, he referred an unfair labour practice dispute to the CCMA, challenging the fairness of a written warning issued to him. At the time this application was heard that dispute had not been set down for arbitration by the CCMA. At the same time he also referred a dispute about the warning issued to him on 21 February 2025, which he had hitherto not disputed.
+
+[14]    On or about 10 July 2025, concerns arose that Radebe had sent confidential information of the business via email to external addresses belonging to a person at First National Bank and his personal G-mail account, prompting a request for an IT report. The company had become aware of the emails sent by Radebe to external email addresses through its IT monitoring and internal review processes.
+
+[15]    Radebe claimed the emails he sent, were to a Mr Mnguni, a legal advisor appointed under the FNB Law on Call Insurance scheme, from whom he sought legal advice. The emails included details of the disciplinary process, including the written warning issued to Radebe on 15 April 2025. Other information related to the background on the INSETA discretionary funding application. In particular this included information about: his refusal to submit outdated 2023 data in the 2025 application register format; his belief that doing so would misrepresent information to a statutory authority (INSETA); internal  
+[2025] JOL 69923 (LC) at 5
+communications with managers like Loshini Govender and Refilwe Phiri, and documentation and correspondence exchanged between Radebe and his employer, which he believed demonstrated impropriety or unfair treatment. Radebe's contention is that these communications constituted protected disclosures under Section 5 of the PDA.
+
+[16]    The company was not satisfied with his explanation, which it saw as a clear violation of its policy about downloading and transmitting confidential information externally. It was concerned about confidential information being sent to an email address at a rival bank.
+
+[17]    On 30 July 2025, Radebe was suspended, and he was issued with a notice of the disciplinary hearing on 19 August 2025. The charge read:
+
+"Misconduct in that during the period of June 2025-July 2025, you had sent work-related emails containing confidential bank information to external email addresses (jayrradebe@gmail.com;mhlengi.mguni@fnb.co.za and locclaims@fnb.co.za). The incident had to be reported to the regulator. Your conduct is in breach of the data, confidentiality and email policies of the Bank."
+
+The company viewed the emails as a misconduct, alleging that Radebe had sent confidential bank information to external email addresses, including a competitor (FNB). The company argued that Radebe's disclosures were not protected under the Protected Disclosures Act (PDA), asserting that his intent was not to expose wrongdoing but to advance a personal dispute at the CCMA.
+
+[18]    The hearing was scheduled for 29 August 2025 but did not proceed on that date because Radebe submitted a sick note on 28 August 2025, which led to it being postponed to 12 September 2025.
+
+[19]    On 1 September 2025, Radebe's attorneys wrote to the Respondent requesting the disciplinary hearing be suspended, arguing the charges flowed from his protected disclosures. Radebe also referred the dispute to the CCMA on this date. On 2 September 2025, Standard refused the request to hold the disciplinary hearing in abeyance. Further attempts were made by Radebe's attorneys on 5 and 11 September 2025 to secure an undertaking from the Standard to suspend the disciplinary hearing, which were rejected.
+
+ 
+[2025] JOL 69923 (LC) at 6
+
+[20]    The application was served by email on Standard on 5 September 2025, at 16:45, but only came to the attention of the company on the evening of 8 September 2025 and filed on Caselines the same day.
+
+[21]    On 12 September 2025, the chairperson aspirant the inquiry pending the outcome of the urgent application but rejected other reasons relating to Radebe's alleged ill health as a justification for postponing it.
+
+Analysis
+
+[22]    Essentially, this an urgent application for interim relief pending the final determination of an unfair labour practice claim entailing being subject to an occupational detriment on account of making a protected disclosure under the PDA.
+
+[23]    It is trite that the test for granting interim relief is the following:
+
+The requirements for the granting of an interim interdict are set out in Knox D'Arcy Ltd and Others v Jamieson and Others 1996 (4) SA 348 (A) at 372E - G. They are (a) that the right which is the subject-matter of the main application and which the applicant seeks to protect by means of interim relief is clear or, if not clear, is prima facie established, though open to some doubt; (b) if such case is only prima facie established, there is a well-grounded apprehension of irreparable harm to the applicant if the interim interdict is not granted and the applicant ultimately succeeds in establishing his or her right (Bester v Bethge 1911 EDL 18; Malan v Dumas 1920 CPD 357; Collett v Priest 1931 EDL 27; Ncongwane v Molorane 1941 OPD 125; Stern and Ruskin NO v Appleson 1951 (3) SA 800 (W); Meyer NO v Netherlands Bank of SA Ltd and Another 1961 (1) SA 578 (GW); Steenkamp v Steenkamp 1966 (3) SA 294 (T); Bricktec (Pty) Ltd v Pantland 1977 (2) SA 489 (T)); (c) there is no other satisfactory remedy; and (d) the balance of convenience favours the granting of interim relief."1 
+[2025] JOL 69923 (LC) at 7
+
+Urgency
+
+[24]    The requirements of urgency must also be met. In East Rock Trading 7 (Pty) Ltd & another v Eagle Valley Granite (Pty) Ltd & others2 the South Gauteng High Court held that:
+
+"An applicant has to set forth explicitly the circumstances which he avers render the matter urgent. More importantly, the applicant must state the reasons why he claims that he cannot be afforded substantial redress at a hearing in due course. The question of whether a matter is sufficiently urgent to be enrolled and heard as an urgent application is underpinned by the issue of absence of substantial redress in an application in due course. The rules allow the Court to come to the assistance of a litigant because if the latter were to wait for the normal course laid down by the rules it will not obtain substantial redress"'
+
+[25]    That said, an applicant cannot simply rely on the absence of an alternative remedy to bring an application on short notice, when there is no explanation why it did not act promptly at the time the facts on which the application is brought came to light, even though there will be cases in which an unwarranted deviation from the normal Court process will still be excused3.
+
+[26]    Radebe contended that the matter was urgent because the disciplinary hearing was imminent. He disputed Standard's claim that the agency was self-created because he only brought the application after the employer refused to suspend the disciplinary process. Standard argues that, in view of his suspension on 30 July and notification of the charges on 19 August he had plenty of time to bring the application. Consequently, it contends the urgency is self-created. Given that he did not know what the charges would consist of when he was suspended, even if he might have had some suspicion that it was connected with his alleged protected disclosure, it was only when the charges were articulated that it would have been apparent that the alleged misconduct directly concerned the alleged acts of disclosure. Until that stage, it is fair to say it would have been premature of him to act without knowledge of the charges.
+
+ 
+[2025] JOL 69923 (LC) at 8
+
+[27]    It is arguable that between receiving the notice on 19 August and the scheduled date of the hearing on 29 August, that Radebe could have acted during that interval, bearing in mind that it appears he only seemed to have fallen ill very shortly before the scheduled date of hearing. Nonetheless, the request to hold the hearing in abeyance was made the same day he referred his dispute to the CCMA on 1 September. From that date his dispute was pending before the CCMA and the urgent application was launched two days later. He also did not wait indefinitely for a change of heart on the part of Standard, launching the application the day after it first rejected the request to hold the inquiry in abeyance. In the circumstances, I am satisfied that it cannot be said that he dragged his feet or acted in a way to contrive circumstances to give the appearance of acting promptly.
+
+[28]    However, the same cannot be said for his delay in acting on his suspension with pay which was implemented on 30 July 2025, assuming without deciding that it could conceivably be construed as an occupational detriment. It was only in this application for the first time that he alleged the suspension was an occupational detriment. It was not even identified as such in his attorney's letter of 1 September 2025. No explanation is provided why this contention was not raised at the time it was imposed or shortly thereafter. Accordingly, his claim that his suspension should be uplifted pending the outcome of the arbitration or Court adjudication must be struck off the roll for lack of urgency.
+
+[29]    The second leg of the examination of urgency, is whether Radebe has a suitable alternative remedy to interdicting the pending enquiry. He claims he could suffer irreparable harm if the internal inquiry proceeds, while his occupational detriment claim is still awaiting a hearing at the CCMA. He faces the potential threat of dismissal in the meantime, which the relief the CCMA can provide for his unfair labour practice claim would not be able to address. He relies on the decisions in Grieve v Denel (Pty) Ltd4, Engineering Council of SA & Another v City of Tshwane Metropolitan Municipality & Another5 and Young v  
+[2025] JOL 69923 (LC) at 9
+Coega Development Corporation (Pty) Ltd (1)6, in which the Courts granted interdictory relief.
+
+[30]    Standard argues that the alternative remedy Radebe has is the primary one which he has already invoked when he referred his claim of an alleged unfair labour practice involving an occupational detriment, other than dismissal, in contravention of the Protected Disclosures Act, 2000 (Act 26 of 2000), on account of him allegedly making a protected disclosure. It also relies on the principle that intervention in incomplete internal disciplinary proceedings should not be countenanced by the Court except in the most exceptional circumstances.
+
+[31]    An employee facing an occupational detriment in the form of a disciplinary enquiry is not in quite the same position as an employee facing disciplinary action in the absence of an alleged protected disclosure being in issue. In Grieve v Denel (Pty) Ltd7 the this Court held that one of the 'appropriate' forms of relief an employee faced with an occupational detriment could obtain under s 4(1)(a) of the PDA is status quo relief in the form of an interim order preserving the status quo pending the resolution of the occupational detriment dispute referred to the CCMA8. Thus, notwithstanding the principle enunciated by the Labour Appeal Court in Booysen v Minister of Safety and Security & Others9, that "the Labour Court has jurisdiction to interdict any unfair conduct including disciplinary action, but such intervention should be exercised in exceptional cases", in s 1(4)(a) the legislature did envisage a one exceptional situation in which such relief might be granted. Accordingly, where a protected disclosure is in issue it must be recognised that it is one of those instances where a Court might more readily intervene because it is the very institution of disciplinary proceedings which can constitute an occupational detriment.
+
+[32]    What factors should be taken into account in deciding if this is an instance in which such status quo relief would be appropriate? Standard argues that the  
+[2025] JOL 69923 (LC) at 10
+same factors which a Court ought to consider in deciding whether to interdict an enquiry pending the outcome of a request for an enquiry under s 188A(11) of the LRA, as identified in Mamodupi v Property Practitioners Regulatory Authority and Another ought to apply10. Whatever principles ought to apply in applications to interdict pending disciplinary enquiries where a request has been made under s 188A(11) of the LRA, the circumstances in which interdictory relief is contemplated in relation to that section and the circumstances in which interim relief contemplated in s 4(1)(a) of the PDA should be granted are not necessarily the same.
+
+[33]    In this application for interdictory relief under s 4(1)(a), the relief sought is to prevent the alleged harm of being subjected to an occupational detriment under the PDA because one is deserving of protection as a whistleblower. By contrast, interdictory relief to prevent an internal enquiry proceeding in relation to s 188A(11) is not to thwart the continuation of the employer's disciplinary process altogether, but to preserve the right to an opportunity to transfer the disciplinary inquiry to a more independent forum. In the present application, the application is brought to underpin Radebe's substantive right to protection against being prejudiced on account of his alleged whistleblowing.
+
+[34]    Radebe must demonstrate either a clear right or a prima facie right though open to doubt to the relief he ultimately seeks in the CCMA hearing of a determination that the disciplinary enquiry amounts to an occupational detriment which he is being subjected to wholly, or partly on account of making a protected disclosure and that, if the internal enquiry is allowed to proceed he will suffer irreparable harm if he is ultimately proven to be right that the enquiry  
+[2025] JOL 69923 (LC) at 11
+amounts to an occupational detriment. He must also demonstrate, that there is no other way he can avoid the harm of being subject to the detriment and the balance of convenience favours him.
+
+[35]    Has Radebe made out a prima facie case he made a protected disclosure and that the pending enquiry is a punitive response to that? The alleged protected disclosure of information consists of a disclosure Radebe made to his legal advisor, to obtain legal advice from him about his CCMA referral of his unfair labour practice claim concerning the warning he was issued with. Part of the information he conveyed to his advisor concerned what he claims he believed was the improper and unlawful instruction of Govender to submit outdated 2023 data in making the 2025 discretionary grant application to INSETA. The disciplinary charge directly related to his email communication with the legal advisor and was a direct response to Radebe making it.
+
+[36]    Standard does not dispute that such information was conveyed by Radebe to his advisor but argues that it was not conveyed for the purpose of bringing to light some wrongdoing on its part, but simply for the purpose of obtaining legal advice about the unsatisfactory outcome of his appeal against the written warning he received. Moreover, there was no evidence he had invoked the internal whistleblowing processes of the company. I agree that it cannot be argued on the evidence of the affidavits that the disclosure about the suspected impropriety to his legal advisor was made with the intention of exposing wrongdoing and stamping out corrupt practices. However, based on the way a protected disclosure to a legal advisor is defined, that does not necessarily mean he has not made out a basis for contending he did make one.
+
+[37]    Section 5 of the PDA states:
+
+5 Protected disclosure to legal adviser
+
+Any disclosure made-
+
+(a) to a legal practitioner or to a person whose occupation involves the giving of legal advice; and
+(b) with the object of and in the course of obtaining legal advice, is a protected disclosure. 
+[2025] JOL 69923 (LC) at 12
+
+(emphasis added0
+
+The provision does not require Radebe to have made the disclosure to his legal advisor for any reason other than to obtain legal advice. All other disclosures made to third parties under sections 6, 7, 8 and 9 of the PDA have to be made 'in good faith' to those parties. No such requirement applies to disclosures made by him to his legal advisor. Accordingly, the company's contention that Radebe's communication with the advisor could not amount to a protected disclosure is at odds with this provision.
+
+[38]    What still needs to be considered is whether Radebe has laid a plausible basis for contending that the information conveyed amounted to a disclosure as defined in the PDA11. He claims that the use of the 2023 data for the 2025 application for funding amounted to a material misrepresentation to a statutory body which could have exposed him and the company to reputational and financial risk. The company stated that here was nothing unlawful or irregular with the process of submitting the previous year's application data to the INSETA. The Company ordinarily applies for funding for similar programmes year on year. It and it was reasonable to assume it would utilise the same programmes in the 2025 cycle. Moreover, the funding proposal was essentially a provisional one and could be adjusted as part of the application process. To  
+[2025] JOL 69923 (LC) at 13
+the extent that the company was nonetheless expected to make its provisional bid for funding on actual expressions of interest and not merely project future demand based on past trends it is possible to infer that it did not comply with an obligation to present current data. How serious this would, or ought to, be regarded in the context of a funding process in which initial proposals have to be revised and reworked before they are accepted by INSETA, is debatable.
+
+[39]    Nonetheless, it is not implausible for Radebe to claim that the company was not compliant with the INSETA requirements. It might well turn out, given the context of how funding applications are finalised, that his claim that his supposed unwillingness to be party to an allegedly material misrepresentation was not a plausible justification for his failure to comply with the instruction he was given on 11 December 2024. However, on what is available on the papers it is not completely untenable for him to argue that if he had obeyed the instruction, he would have been complicit in not complying with the INSETA requirements for funding applications, which amounted to a breach of a legal obligation not to misrepresent the correct status of training needs.
+
+[40]    On the question of whether there is a causal connection between the act of making the disclosure to his legal advisor and the institution of disciplinary action, it seems an inescapable conclusion that if he had not made the disclosure to his legal advisor he would not have been charged. The company contends the disciplinary enquiry is not concerned with whether he was revealing evidence of some wrongdoing to a third party, but merely that he was in breach of his confidentiality obligations. Nevertheless, at least some of the information he conveyed to his legal advisor fell within the ambit of a protected disclosure as defined in section 5 was the discovery of the emails. Accordingly, it is not unreasonable to infer that the disciplinary action was taken, at least in part in respect of a communication that was a protected disclosure, so a causal connection appears to exist between the disclosure and the disciplinary action.
+
+[41]    The last issue is whether, notwithstanding the existence of a prima facie case that Radebe is facing disciplinary action at least partly because he made a protected disclosure in the unique sense envisaged in section 5, the balance of convenience might alter the merits of granting interim relief. If the enquiry  
+[2025] JOL 69923 (LC) at 14
+proceeds, and Radebe is found guilty, despite section 5 of the PDA, he may either be issued with a warning or dismissed. In the worst case scenario that he is dismissed, and if he requests the CCMA to arbitrate the dispute, the proceeding would not be moot because the arbitrator could make an award requiring the company to remedy the occupational detriment. The remedial powers of an arbitrator or judge adjudicating an unfair labour practice involving the institution of a disciplinary procedure are much wider than merely awarding compensation and specifically include ordering the payment of damages or directing the employer to take steps to remedy the occupational detriment12. Aside from the medical use of the verb, in general terms to 'remedy' something means "to put right, reform, (a state of things); rectify, make good". 13
+
+[42]    In circumstances where the institution of a disciplinary enquiry is found to have been an occupational detriment a full rectification of that could include an order that the employer may not proceed with the enquiry or, if it has already been held, that it may not give effect to any adverse verdict or sanction imposed on the employee and remove the enquiry from the employee's disciplinary records. To the extent the employer might already have acted on the outcome of the enquiry to the employee's detriment it could order the employer to reverse such action taken, with retrospective effect. In my view, this would fall within the ambit of an appropriate order, which is just and equitable, to remedy the detriment, because a complete remedy for an enquiry that should never have taken place could entail restoring the employee's position to the status quo before the enquiry was initiated, even if there is also relief obtainable for an  
+[2025] JOL 69923 (LC) at 15
+occupational detriment in the form of a dismissal. Accordingly, such an outcome appears feasible if Radebe pursues his claim in arbitration proceedings before the CCMA, which ought to be obtainable without significant delay.
+
+[43]    If the enquiry is suspended and the matter proceeds to arbitration at the CCMA, if the company, is successful in opposing the unfair labour practice claim based on the alleged occupational detriment of facing a disciplinary enquiry, the company can proceed with the enquiry. The disadvantage it will suffer is that of a delay in concluding the enquiry, but not an intolerable one, if the matter is disposed of in arbitration proceedings. On the other hand, if Radebe refers his PDA dispute to the Labour Court under s 191(13)(a) of the LRA14, the delay in concluding the proceeding could be several months at least, given this Court's trial roll. Radebe's prayer for suspension of the disciplinary enquiry includes the possibility of the suspension being upheld pending the outcome of the referring of the dispute to the Labour Court.
+
+[44]    Weighing the prejudice to Radebe if the enquiry proceeds, even if the consequences prove to be serious, but he successfully pursues his PDA claim in the CCMA, against the prejudice to the company of suspending the enquiry now, yet it ultimately defeats Radebe's PDA claim in the Labour Court, a long way down the line, the prejudice to the company is greater. This is chiefly because it cannot prevent Radebe from choosing the Labour Court as the forum to adjudicate his PDA claim thereby significantly prolonging the period within which the disciplinary action can be finalised, whereas Radebe has the option of using the CCMA to adjudicate the claim in a shorter period, in proceedings which can effectively reverse any adverse consequences of the enquiry.
+
+ 
+[2025] JOL 69923 (LC) at 16
+
+Conclusion
+
+[45]    In light of the above, I am not persuaded that it would be appropriate to grant the interim relief Radebe seeks, and the company may continue with the enquiry.
+
+[46]    On the matter of costs, difficult though the relationship between the parties appears to be, it is nonetheless ongoing. I also cannot say the application was without any merit. Accordingly, it would not be appropriate as a matter of law or fairness to make a cost order.
+
+Order
+
+The application to set aside the Applicant's suspension, pending the outcome of the dispute he referred to the CCMA on 1 September 2025 concerning an unfair labour practice dispute involving an alleged occupational detriment, to be determined either by an arbitrator or the Labour Court, is struck off the roll for lack of urgency
+The application to halt the disciplinary enquiry into charges brought against the Applicant on 19 August 2025, pending the outcome of the unfair labour practice dispute involving an alleged occupational detriment, which he referred to the CCMA on 1 September, to be determined either by an arbitrator or the Labour Court, is heard as a matter of urgency in terms of Rule 38 of the Labour Court Rules.
+The application to halt the disciplinary enquiry into charges brought against the Applicant on 19 August 2025, pending the outcome of the unfair labour practice dispute involving an alleged occupational detriment, which he referred to the CCMA on 1 September, to be determined either by an arbitrator or the Labour Court, is dismissed.
+No order is made as to costs.
+
+
+Footnotes
+1	  Johannesburg Municipal Pension Fund And Others v City of Johannesburg and Others 2005 (6) SA 273 (W) at paragraph [8].
+2	  [2011] ZAGPJHC 196; [2012] JOL 28244 (GSJ) at para [6].
+3	  See Nelson Mandela Metropolitan Municipality & Others v Greyvenouw CC and Others 2004 (2) SA 81 (SE) at paragraphs [37] to [40].
+4	  [2003] 4 BLLR 366 (LC),
+5	  [2008] 6 BLLR 571 (T)
+6	  [2009] 6 BLLR 597 (ECP)
+7	  (2003) 24 ILJ 551 (LC)
+8	  At paragraph [9].
+9	  (2011) 32 ILJ 112 (LAC), at paragraph [54]
+10	  (J68/23) [2023] ZALCJHB 19 (13 February 2023) Viz:
+  "[46] . . ..Accordingly, in my view the provisions of the subsection are evocable if the following jurisdictional facts are present in the order set out below:
+  45.1 The employee must make a protected disclosure;
+  45.2 Thereafter, the employer must subject the employee who already made a protected disclosure to an occupational detriment;
+  45.3 Once so subjected, an employee must allege honestly and sincerely so that a causal connection does exist between his or her protected disclosure and the occupational detriment. Differently put, it is because of having made a protected disclosure that an employer chose to respond by an occupational detriment."
+11	  The definition reads:
+  'disclosure' means any disclosure of information regarding any conduct of an employer, or of an employee or of a worker of that employer, made by any employee or worker who has reason to believe that the information concerned shows or tends to show one or more of the following:
+  (a) That a criminal offence has been committed, is being committed or is likely to be committed;
+  (b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+  (c) that a miscarriage of justice has occurred, is occurring or is likely to occur;
+  (d that the health or safety of an individual has been, is being or is likely to be endangered;
+  (e) that the environment has been, is being or is likely to be damaged;
+  (f) unfair discrimination as contemplated in Ch II of the Employment Equity Act, 1998 (Act 55 of 1998), or the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000); or
+  (g) that any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed;
+12	  Section 4(1B) of the PDA reads:
+  "(1B) If the Court or tribunal, including the Labour Court is satisfied that an employee or worker has been subjected to or will be subjected to an occupational detriment on account of a protected disclosure, it may make an appropriate order that is just and equitable in the circumstances, including-
+  (a) payment of compensation by the employer or client, as the case may be, to that employee or worker;
+  (b) payment by the employer or client, as the case may be, of actual damages suffered by the employee or worker; or
+  (c) an order directing the employer or client, as the case may be, to take steps to remedy the occupational detriment."
+  (emphasis added)
+13	  Shorter Oxford English Dictionary, (6ed), 2007.
+14	  Section 191(13) reads:
+  "(13) (a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+  (b) A referral in terms of paragraph (a) is deemed to be made in terms of subsection (5) (b)."
+
+Appearance:
+N A Moyo, Africa and Associates (At); A Redding, SC, Webber Wentzel Inc (R)
+
+
+End of Document

@@ -1,0 +1,216 @@
+
+
+
+
+John v Afrox Oxygen Ltd [2018] 5 BLLR 476 (LAC)
+Labour Law Reports
+
+Division: Labour Appeal Court, Johannesburg
+Case No: JA90/15
+Date: 29/01/2018
+Before: B Waglay Judge President, SK Ndlovu and P Coppin Judges of Appeal
+Keywords
+
+
+Appeal in terms of section 166 of the LRA
+Dismissal — Automatically unfair — Protected disclosure — Employee disclosing information concerning irregularities in grading system to management and dismissed for alleged “incompatibility” — Dismissal automatically unfair.
+Protected disclosures — Test for — Employee dismissed for disclosing information to management concerning irregularities in grading system — Dismissal constituting occupational detriment because employee reasonably believed in truth of complaint and publication reasonable.
+Sections of the LRA considered
+Section 187(1)(h)
+
+Editor’s Summary
+
+
+The appellant, then employed as Head of Talent Management in the respondent’s human resources department, was dismissed after refusing a “termination offer”. The appellant claimed that she had been dismissed for complaining about the grading of a number of her colleagues, which she claimed had not only negatively affected their prospects of advancement, but had also distorted the respondent’s employment equity reports. The appellant claimed in the Labour Court that she had been subjected to an occupational detriment for disclosing information concerning the grading process, and that her dismissal was automatically unfair. The respondent claimed that the reason for the dismissal was incompatibility with her colleagues and that the appellant had not made a protected disclosure because her complaints about the grading were baseless and the information she had disclosed was in any case known to the HR officials, and that the appellant had failed to prove that she reasonably believed in the truth of her complaints. The Labour Court dismissed the application. The appellant contended on appeal that she had made the disclosures in good faith, reasonably believing them to be correct, and in accordance with the respondent’s procedures. The respondent persisted with its claim that she had been dismissed for incompatibility.
+
+The Court noted that section 187(1)(h) of the LRA renders automatically unfair dismissals as a result of employees making protected disclosures. A “protected disclosure” is defined in the Protected Disclosures Act 26 of 2000 as including, inter alia, any disclosure made in good faith to an employer by an employee who reasonably believes that the disclosure is substantially true and  
+[2018] 5 BLLR 476 (LAC) at 477
+concerns an impropriety of a serious nature. In this case, the disclosure had been made only to the employer. To qualify for protection, the appellant had to show that she had made the disclosure in good faith and in accordance with the procedure devised by the respondent. The Labour Court’s finding that the appellant had to show in addition that the disclosure was based on facts was misconceived. The requirement of reasonable belief in the truth of the disclosure could not be elevated into a requirement that the disclosure must be based on proven facts. The appellant reasonably believed that there were irregularities in the grading procedure. The next inquiry was, accordingly, whether it was reasonable for the appellant to have made the disclosure. The Court accepted that re-grading had been done without consulting the affected employees. The respondent had claimed that it was unnecessary to consult these employees because their salaries and benefits were not affected. However, this was incorrect. The respondent had failed to adhere to the basic principle that employees whose rights are affected should be consulted. The same applied to the appellant’s claim that the grading affected the respondent’s equity reports. The appellant had reasonably believed that the grading was performed in a manner which violated the respondent’s legal obligations and that it was reasonable to make the disclosure. The respondent’s contention that the appellant was dismissed for “incompatibility” was a fiction. The dismissal was a response for making a protected disclosure. The appellant had, accordingly, been subjected to an occupational detriment, and her dismissal was automatically unfair. 
+
+The appeal was upheld with costs and the appellant was awarded compensation equal to 18 months’ remuneration.
+
+____________________________________________________________________________________
+
+Waglay JP:
+
+Central to this appeal is the question whether the appellant made a protected dismissal consequent to such disclosure or whether she was dismissed for incompatibility. 
+It is common cause that the respondent re-grades positions within its organisation so as to match each position with similar positions with other similar employers in the industry. This also provides for industrial salary consistency. Positions were graded by bands. Each band had three grades: low, medium and high. The grades constitute different salary ranges. 
+The appellant commenced employment with the respondent on 12 June 2012 as the Head of Talent Management based in the Human Resources Department. She had a number of persons under her supervision. 
+The genesis of this matter is the discrepancy in the re-grading of one Ms Armstrong. Armstrong worked under the appellant. On Armstrong’s return from maternity leave, to enhance her growth and development within the respondent, she was moved to the position of Organisational Development manager. Previously Armstrong held the position of a Recruitment manager. What concerned the appellant was the fact that Armstrong was not re-graded properly. The catalyst to the dispute lies in an email dated 28 January 2013 which the appellant received from the  
+[2018] 5 BLLR 476 (LAC) at 478
+  respondent’s manager of remuneration, compensation and benefits, Nico Wagner (“Wagner”). The email was in reply to the appellant’s email wherein she suggested the salary offer to be made to Armstrong. Wagner responded that he could not recommend an increase to Armstrong at that stage because:
+
+“The transfer [of Armstrong] was lateral (Band 2M into Band 2M).
+
+Her current salary is well established (CR 102%) within the salary band for Band 2M.”1
+
+When the appellant received the email, she looked at the respondent’s record and found that Armstrong’s position had changed on 01 January 2013 from grade 2H (2 high) to grade 2M (2 medium). The appellant emailed her immediate superior, Francis Graham (“Graham”) on 14 February 2013. The essence of the email which was copied to Wagner reads:
+
+“. . .
+
+Also, according to my records from SAP, the Resourcing Manager was graded a 2H and therefore Aine [Ms Armstrong]) was a 2H. I’ am not aware of any changes to the grading for her or her previous role and would be concerned if this was done without any consultation.”
+
+  On the same day, Wagner responded by stating that the grading validation was done before the appellant joined the respondent and was at Band 2M. Further, because it was a lateral transfer with no changes in salary and benefits, consultation was unnecessary. Dissatisfied with what she believed was a lack of integrity in the process and a discovery of further discrepancies in the re-grading of five other employees, the appellant referred the matter to the internal audit department, Mr Carter, for further investigation. The appellant also discussed the matter with Mr Cilliers, the respondent general manager corporate and governance and the managing director, Mr Kimber, all of whom she averred promised to take the matter further as she did the right thing.
+
+The appellant did not receive any feedback. However, on 14 March 2013, the respondent, represented by Mr Werner Boekels (“Boekels”), the German representative of the respondent, and Ms Winky Makwela (“Makwela”), provided the appellant with an offer of termination of her services. The termination offer, according to the respondent, was the result of a feedback from the appellant’s subordinates about the appellant’s negative actions on the human resources team. When the appellant protested about the process being contrary to our labour laws, Boekels’ reaction was that he did not “give a shit” about the labour laws of this country. On 19 March 2013, when it became clear that the appellant would not accept the offer, the respondent summarily terminated her services. The reasons given for the dismissal was incompatibility with colleagues. 
+Unhappy with her dismissal, the appellant referred the dispute to conciliation at the National Bargaining Council for the Chemical Industry, alleging an automatically unfair dismissal. The court a quo subsequently adjudicated the matter. 
+[2018] 5 BLLR 476 (LAC) at 479
+The appellant’s case in the court a quo was that the re-grading of the position, without consultation, negatively impacted on the future salary increase of the affected employees and also distorted the accuracy of the employment equity report submitted to the Department of Labour. According to the appellant, the distortion of the employment equity report was in relation to the wage differentials. 
+The respondent, on the other hand, contended that the dismissal of the appellant had nothing to do with the disclosure but was the result of her incompatibility with her colleagues. Further, that the information which the appellant claimed to have disclosed was already known to the employees working in the Human Resources department.
+The issue which the court a quo was to determine was whether the dismissal of the appellant was automatically unfair, because she had allegedly been subjected to an occupational detriment arising from making a protected disclosure as defined by the PDA. 
+The court a quo held that the disclosure must satisfy the criteria set out in section 9 of the PDA to be protected. The court a quo then considered relevant authorities and held that the information the appellant disclosed to support the existence of a reasonable belief, in order to enjoy the protection provided by the PDA, required a factual basis and was limited to a particular section, or sections, of the Labour Relations Act 66 of 1995 (“LRA”), Basic Conditions of Employment Act 75 of 1997 (“BCEA”) or other labour legislation. 
+In relation to the appellant’s contention that the re-grading without consultation of the positions would affect the employees’ future salary increase, the court a quo held that this contention was baseless. It took the view that the information was not serious enough to elevate the information disclosed to the overriding importance of public interest. The court a quo then drew an inference that the information claimed to be protected was already known to the person to whom it was disclosed and therefore not protected. 
+As regards the failure by the respondent to consult the affected employees before the re-grading, the court a quo held that the appellant was unable, during cross-examination, to show on what basis she was contending that the respondent had a duty to consult with those employees who were re-graded. It rejected her reliance on the provisions of the LRA and the BCEA on the basis that a “simple investigation by a person at her level regarding the provisions of the two legislation would have revealed that there was no basis to claim failure on the part of the respondent to consult before undertaking the grading of employees.”2 
+In relation to the employment equity reporting, the court a quo held that the appellant had failed to show that her belief was reasonable. It upheld the respondent’s contention that the employment equity report is made online to the Department of Labour, audited and published in its annual  
+[2018] 5 BLLR 476 (LAC) at 480
+  report. In this regard, it concluded that the appellant had failed to provide a factual basis for her belief that because the salaries of the employees would remain unchanged after the re-grading, that would affect the report on the wage differentials to be made to the Department of Labour. Having satisfied itself that the appellant had failed to show the existence of a reasonable belief about the information, the court a quo concluded thus:
+
+“In light of the above, I am of the view that the applicant has failed to make out a case that the information she disclosed to the respondent is worthy of protection envisaged in the PDA. Put in another way, the applicant has on the facts she presented, failed to show the existence of a reasonable belief that the respondent had engaged in conduct that falls within the definition of protected disclosure as envisage in the PDA.”3
+
+  The court a quo consequently dismissed her automatically unfair dismissal claim. It is this finding with leave of the court a quo that the appellant seeks to have overturned in this appeal.
+
+The appellant’s contention may be summed-up as follows: that the court a quo erred in finding that it was required of her to comply with section 9 of the PDA. She submits that as the disclosure was made to her employer, she needs only to comply with section 6 of the PDA in that the requirement of a reasonable belief is only present in section 9. The appellant then submits that in light of section 6, she was only required to prove a credible possibility that:
+She had reason to believe that the information she disclosed tended to show that a criminal offence had been committed, is being committed or may be committed in the future, or that the respondent failed, is failing or may in the future fail to comply with a legal obligation;
+She made the disclosure in good faith; and
+She followed a procedure prescribed or authorised by her employer.
+
+  Consequently, she submitted that she had discharged her evidentiary burden and that even if section 9 applies, she did have a reasonable belief. The appellant also seeks notice pay due to her as a result of her dismissal without notice. 
+
+The respondent, as was the case in the court a quo, pursued in this Court the same line of argument, namely, that the appellant was dismissed for incompatibility.
+Dismissal for occupational detriment is governed by section 187(1)(h) of the LRA. It renders automatically unfair a dismissal as a result of an employee having made a protected disclosure. Section 4(2)(a) of the PDA also provides that any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal as contemplated in section 187 of the LRA. 
+[2018] 5 BLLR 476 (LAC) at 481
+In section 1 of the PDA, “disclosure” is defined as: 
+
+“any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show that –
+
+(a) that a criminal offence has been committed, is being committed or is likely to be committed;
+(b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+(c) that a miscarriage of justice has occurred, is occurring or is likely to occur;
+(d) that the health or safety of an individual has been, is being or is likely to be endangered;
+(e) that the environment has been, is being or is likely to be damaged;
+(f) unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000); or
+(g) that any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed.”
+Further disclosures made by an employee to its own employer is dealt with in section 6(1) of the PDA which provides:
+
+“(1) Any disclosure made in good faith –
+
+  (a) and substantially in accordance with any procedure prescribed, or authorised by the employee’s employer for reporting or otherwise remedying the impropriety concerned; or 
+
+  (b) to the employer of the employee, where there is no procedure as contemplated in paragraph (a),
+
+is a protected disclosure.”
+
+Section 9 also concerns disclosures made by an employee concerning his/her employer to a party other than an employer. That this is so is evident from section 9, which provides:
+“(1) Any disclosure made in good faith by an employee –
+
+  (a) who reasonably believes that the information disclosed, and any allegation contained in it, are substantially true; and
+
+  (b) who does not make the disclosure for purposes of personal gain, excluding any reward payable in terms of any law;
+
+is a protected disclosure if –
+
+one or more of the conditions referred to in subsection (2) apply; and
+in all the circumstances of the case, it is reasonable to make the disclosure.
+(2) The conditions referred to in subsection (1)(i) are –
+
+  (a) that at the time the employee who makes the disclosure has reason to believe that he or she will be subjected to an occupational detriment if he or she makes a disclosure to his or her employer in accordance with section 6;
+
+  (b) that in a case where no person or body is prescribed for the purposes of section 8 in relation to the relevant impropriety, the employee making the disclosure has reason to believe that it is likely that evidence relating to the impropriety will be concealed or destroyed if her or she makes the disclosure to his or her employer; 
+[2018] 5 BLLR 476 (LAC) at 482
+  (c) that the employee making the disclosure has previously made a disclosure of substantially the same information to –
+
+ (i) his or her employer; or
+
+ (ii) a person or body referred to in section 8,
+
+
+In respect of which no action was taken within a reasonable period after the disclosure; or
+
+  (d) that the impropriety is of an exceptional serious nature.
+
+(3) In determining for the purposes of section (1)(ii) whether it is reasonable for the employee to make the disclosure, consideration must be given to –
+
+  (a) the identity of the person to whom the disclosure is made;
+
+  (b) the seriousness of the impropriety;
+
+  (c) whether the impropriety is continuing or is likely to occur in the future;
+
+  (d) whether the disclosure is made in breach of a duty of confidentiality of the employer towards any other person; 
+
+  (e) in a case falling within subsection (2)(c), any action which the employer or the person or body to whom the disclosure was made, has taken, or might reasonably be expected to have taken, as a result of the previous disclosure; 
+
+  (f) in the case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the employee complied with any procedure which was authorised by the employer; and
+
+  (g) the public interest.
+
+(4) For the purposes of this section a subsequent disclosure may be regarded as a disclosure of substantially the same information referred to in subsection (2)(c) where such subsequent disclosure extends to information concerning an action taken or not taken by any person as a result of the previous disclosure.” (Own underlying.)
+In the circumstances and in terms of the definition, an employee needs only have “reason to believe” that the information concerned “shows” or “tends to show” that the listed impropriety “has been” or “is being” or “may be committed in the future”.4
+In this matter, the appellant made the disclosure only to her employer and, as such, in my view, it is only section 6 of the PDA that is relevant. The court a quo’s view that section 9 also applies cannot be sustained. Section 9 is concerned with disclosures made to someone other than, or in addition to the employer, or a co-employee. To the extent that the court a quo relied on this Court’s judgment in Malan v Johannesburg Philharmonic Orchestra5 it erred. In that matter, the employee concerned made disclosures to colleagues who were not all employees of his employer. (See also State Information Technology Agency (Pty) Ltd v Sekgobela (2012) 33 ILJ 2374 (LAC) at paragraph 27 also reported at [2012] 10 BLLR 1001 (LAC) – Ed]; SA Municipal Workers Union National Fund v Arbuthnot (2014) 35 ILJ 2434 (LAC) at paragraph 5.) 
+[2018] 5 BLLR 476 (LAC) at 483
+It is also instructive to note that the heading to section 6 is “Protected disclosure to employer” and section 9 is headed “General protected disclosure” this is a further pointer that section 6 is the applicable section where the disclosure is only made to the employer. 
+A proper reading of section 9 reinforces this view as it provides for disclosure to a party in circumstances where the employee may fear tampering of evidence by the employer or possibly occupational detriment. 
+In the circumstances, for the disclosures made by the appellant to qualify as protected disclosure as stated earlier, the appellant had to have reason to believe that the information she disclosed, at the very least, tended to show that an impropriety has, is being, or may be committed, or that the respondent has, is failing, or may in the future fail to comply with its legal obligation. Furthermore, that the appellant acted in good faith when she made the disclosures and in doing so followed procedures either prescribed or authorised by the employer. 
+The court a quo, while accepting that the belief needs not be correct, took a contrary view that the belief must be based on facts in order to enjoy the protection of the PDA. Based on that the court a quo held that the appellant had “on the facts she presented, failed to show the existence of a reasonable belief that the respondent had engaged in conduct that falls within the definition of protected disclosure as envisaged in the PDA”.6 This approach is misconceived. In SA Municipal Workers Union National Fund v Arbuthnot,7 the court held that “the enquiry is not about the reasonableness of the information, but about the reasonableness of the belief”. This is so because the “requirement of ‘reasonable belief’ does not entail demonstrating the correctness of the information, because a belief can still be reasonable even if the information turns out to be inaccurate.”8
+In Radebe, this Court held that the requirement of a reasonable belief:
+
+“. . . cannot be equated to personal knowledge of the information disclosed. That would set so high a standard as to frustrate the operation of the PDA. Disclosure of hearsay opinion would, depending on the reliability, be reasonable. A mistaken belief or one that is factually inaccurate can nevertheless be reasonable. A mistaken belief or one that is factually inaccurate can nevertheless be reasonable unless the information is so inaccurate that no one can have interest in its disclosure.”9
+
+In holding that the appellant should prove the correctness of the facts for existence of the belief in order to enjoy protection, the court a quo elevated the requirement of the reasonableness of the belief to one of the accuracy of the facts upon which the belief was based. This sets a higher standard than what is required by the PDA, and such a requirement would frustrate the operation of the PDA.  
+[2018] 5 BLLR 476 (LAC) at 484
+All that is required is for the appellant to reasonably believe that the conduct is unlawful. In this matter, the appellant’s contention is that the discrepancies she noticed in the re-grading process would be detrimental to any future salary increase of the affected re-graded employees and that it would also affect the employer’s employment equity reports, which it is legally obliged to make to the Department of Labour. The appellant reasonably believed that there were inaccuracies in the re-grading system. This was conceded by the respondent’s witness, Ms Makwela, under cross-examination. The explanation she gave for the inaccuracy is that the system takes longer to implement the change.10 In view of the concession that the system was not up to date with the changes, it was not erroneous for the appellant to believe that the information she disclosed was substantively true. Having found that the appellant reasonably believed that the disclosure was substantively true, namely, that the employees were re-graded to a lower grade without their knowledge or consent, the next leg of the inquiry is whether it was reasonable for the appellant to have made the disclosure. 
+The court a quo did not deal with the question of whether it was reasonable to have made the disclosure, being content with its finding on the failure of the appellant to prove the existence of a reasonable belief. Consequently, the parties did not deal with the question, save for the appellant’s submission that the respondent had failed to comply with its legal obligation to consult the employees who were being prejudiced by the unilateral re-grading. In any event, the assessment of the reasonableness of the disclosure is done in light of the two reasons advanced by the appellant in justifying her disclosure viz (i) that the re-grading without consultation would affect future salary increases of the employees and (ii) the incorrect re-grading would affect the report submitted to the Department of Labour.
+The appellant’s case is that the re-grading was not in compliance with the employer’s legal obligation. In the case of Armstrong, the appellant observed her notch has changed from 2H to 2M and alerted the employer. She first emailed her immediate supervisor, Wagner, who stated that because it was a lateral transfer, the salary should remain unchanged. She then emailed Graham and stated that Armstrong was graded 2H and was not aware of any change. A further email from Wagner explained that the grading process was done prior to the appellant joining the respondent. 
+What is surprising in all of these explanations is that the change occurred in early January 2013. By that time the appellant had been with the respondent for some six months. The explanation that the grading process was done before the appellant joined the respondent is irreconcilable with the explanation of Ms Makwela under cross-examination. She testified that the change to the system does not happen immediately, in that there is always a delay in the implementation date. It is improbable that the  
+[2018] 5 BLLR 476 (LAC) at 485
+  respondent would take more than six months to effect a change in the system. Moreover, I find it strange that the appellant was not given that same explanation when she queried the discrepancies. 
+Furthermore, Ms Makwela’s testimony was that the positions were downgraded because the reporting line changed from Graham to the appellant. This, if anything, indicates that there was non-compliance in the re-grading process. The further question that arises is why did the explanations only surfaced during the court proceedings especially, as put by the appellant, when she had discussed the matter with no less than five senior managers. 
+Following on SFW Group Limited and another v Martel et cie and others,11 I am of the view that the probabilities favour the appellant. The initial explanations provided by the respondent about the discrepancies in the re-grading process, differ from the explanation given in the court proceedings. The respondent’s evidence also demonstrates that the re-grading was done without following due process. The explanations provided by the respondent are, in my view, all an afterthought. Since there was no compliance with due process, it, ultimately, follows that the appellant rightly believed that the re-grading process would prejudicially affect employees’ future salary increase. This is also borne out by Wagner’s email to the appellant, that no salary increase was foreseeable for Armstrong in the near future because of the re-grading. The re-grading had placed Armstrong on a scale above the norm for her new grade.
+It is curious that the court a quo held that there was no duty on the part of the respondent to consult because the appellant failed to refer to specific provisions of the LRA or the BCEA enjoining consultation. 
+It is not disputed that the employees that were re-graded were not consulted. The respondent’s justification for the failure to do so is that the grading did not affect employees’ salary and benefit, thus there was no need to consult with them. By failing to consult the affected employees and by unilaterally re-grading the employees, the respondent failed to follow the very basic prescript of our labour laws which is to consult an employee or his/her representative when the employees’ rights are to be affected. The appellant was rightly concerned with the legal flaw in the re-grading process and properly raised it with her employer. 
+In relation to the employment equity reporting: the court a quo held that the appellant failed to show that her belief was reasonable. The court a quo upheld the version of the respondent as unchallenged, namely, that the report is made online to the Department of Labour, audited and published in its annual report. This was never put to the appellant in cross-examination for comment. That being the case, there was no basis for the court a quo to accept the respondent’s version or regard it as unchallenged. The court a quo then held that the appellant had again failed to provide a factual basis for her belief that because the salaries of the employees would remain unchanged after the re-grading, that would not  
+[2018] 5 BLLR 476 (LAC) at 486
+  affect the report on the wage differentials to be made to the Department of Labour. As stated earlier, the court a quo’s finding is misconceived. The appellant should simply have a reasonable belief that the discrepancies in the re-grading process would influence the employment equity report. To require the appellant to factually prove the basis for the reasonableness of her belief is not a requirement. In fact, the court in SA Municipal Workers Union National Fund v Arbuthnot, held that a belief can still be reasonable even if the information turns out to be inaccurate.12
+In this case, it is found that there were irregularities, but even if the reasons for her belief appear unfounded, that does not render the disclosure unreasonable, because the information disclosed was substantively true. I agree with the court a quo that section 27 of the Employment Equity Act 55 of 1998 only requires a designated employer to put measures in place where there is a disproportionate income in order to progressively reduce such differentials, but failed to recognise that a skewed report could affect how the information is interpreted. As submitted by the appellant, all what was required of the appellant was a reasonable belief that the information she disclosed tends to show that “a skewed report may be produced for purposes of the Employment Equity Act”. 
+In light of the above, the appellant reasonably believed that the re-grading process was done in a manner that violated the legal obligation to which the respondent was bound and it was reasonable to have made the disclosure. There is no ulterior motive; the appellant acted in good faith and reasonably believed that the information was substantively true. It then follows that the respondent’s contention that the appellant was dismissed for incompatibility is nothing short of fiction and the only probability is that the appellant’s dismissal was in retaliation for her disclosure of the irregularities in the re-grading process. The appellant was dismissed for making a protected disclosure and as a result suffered occupational detriment. Her dismissal is therefore automatically unfair and, as such, she is awarded compensation equivalent to 18 months’ remuneration based on the gross salary she was earning at the time of her dismissal.
+With regards to the claim of notice pay, in view of the above compensatory order, I see no reason to add notice pay to her award. 
+Having regard to considerations of law and fairness, there is no reason why costs should not follow the result, both in this Court and in the court a quo.
+
+Order 
+In the result, the following is ordered:
+The appeal is upheld with costs. 
+[2018] 5 BLLR 476 (LAC) at 487
+The order of the court a quo is substituted with the following order:
+
+  “(i) The applicant’s dismissal constitutes an automatically unfair dismissal and the respondent is ordered to compensate the applicant in a sum equal to 18 months’ salary.
+
+  (ii) The respondent is to pay the costs of suit.” 
+
+(Coppin JA concurred in the judgment of Waglay JP.)
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  Record vol 1 at 40.
+2	  At para [35].
+3	  At para [39]. 
+4	  See Radebe and another v Premier Free State Province and others (2012) 33 ILJ 2353 (LAC) at para [20] [also reported at [2012] 12 BLLR 1246 (LAC) – Ed] (“Radebe”).
+5	  (JA61/11) [2013] ZALAC 24 at para [11] [reported at [2016] JOL 37380 (LAC) – Ed].
+6	  At para [35].
+7	  (2014) 35 ILJ 2434 (LAC) at para [15].
+8	  At para [15].
+9	  At para [36]. 
+10	  Record vol 2 p 103. 
+11	  2003 (1) SA 11 (SCA) [also reported at [2002] JOL 10175 (SCA) – Ed].
+12	  At para [15].
+
+For the appellant:
+
+Adv H Van der Merwe instructed by Senekal Simmonds Incorporated
+For the respondent:
+
+Adv T Motau SC instructed by Baloyi Attorneys 
+
+
+End of Document

@@ -1,0 +1,134 @@
+
+
+
+
+Charlton v Parliament of the RSA [2011] 12 BLLR 1143 (SCA)
+Labour Law Reports
+
+Division: Supreme Court of Appeal
+Case No: 680/2010
+Date: 16/09/2011
+Before: FDJ Brand, MML Maya, NJ Mhlantla, BJ van Heerden Judges of Appeal and YS Meer Acting Judge of Appeal
+Keywords
+
+
+Appeal from the Labour Appeal Court
+Appeals — Against exception rulings — General rule is that rulings on exceptions not appealable, unless exception relates to court’s jurisdiction — Ruling dismissing exception to employer’s challenge to statement of claim on basis of alleged absence of cause of action not appealable.
+Appeals — Appealable matters — Employer seeking to appeal against Labour Court’s decision to delay determining jurisdictional point until evidence heard relating to “whistle blowing” — Decision not appealable as no ruling yet made.
+Practice and procedure — Exceptions — Appeal against ruling on exception — General rule is that rulings on exception not appealable, unless exception relates to court’s jurisdiction — Ruling dismissing exception to statement of claim on basis of alleged absence of cause of action not appealable.
+Section of the LRA considered:
+Section 166(1)
+
+Editor’s Summary
+
+
+The appellant, then Parliament’s chief financial officer, was dismissed in 2006 for alleged misconduct. He claimed that the true reason for his dismissal was his disclosure of information concerning fraudulent travel claims by certain MPs and Ministers, and referred a claim for an automatically unfair dismissal to the Labour Court. Parliament raised a number of exceptions to the appellant’s statement of claim. Among these were (i) that the appellant’s disclosures were not covered by the Protected Disclosures Act 26 of 2000 because they had not been made by an employee to his employer, and that the appellant had, accordingly, not made out a case for his claim relating to an automatically unfair dismissal; (ii) that the alternative claims that the appellant’s dismissal was without valid reason and not in accordance with a fair procedure should have been referred for arbitration under the LRA. The Labour Court dismissed both exceptions (see Charlton v Parliament of RSA [2007] 10 BLLR 943 (LC)). The appellant appealed to the Labour Appeal Court, which ruled that the Court’s rulings on the exception were appealable and that the Labour Court’s finding that the disclosures were covered by the PDA was wrong, and upheld the appeal (see Parliament of the RSA v Charlton [2010] 10 BLLR 1024 (LAC)). 
+
+The Court noted that the LAC had approached the matter on the basis of the view that rulings on exception are generally appealable. This approach was fallacious; rulings on exception are generally not appealable unless they relate to a court’s jurisdiction. The first exception in casu did not relate to jurisdiction, but to the alleged absence of a cause  
+[2011] 12 BLLR 1143 (SCA) at 1144
+of action. While the Rules of the Labour Court do not deal with exception proceedings, it is accepted practice in that court that such matters are dealt with as they are dealt with in the High Court. In terms of the Supreme Court Act 59 of 1959 only judgments and orders (as opposed to rulings) are appealable. A judgment or order is final if it is not susceptible to alteration by the court, if it is definitive of the rights of the parties and if it substantially disposes of the relief claimed in the main proceedings. The Labour Court’s ruling was not final, and nothing prevented Parliament from raising the same issue during the trial. All the Court had done by dismissing the exception was to decline to set aside the statement of claim. The Labour Court should, accordingly, not have granted Parliament leave to appeal.
+
+The Court held further that the exception to the “ordinary” unfair dismissal claims related to the Labour Court’s jurisdiction and that this ruling was, accordingly, appealable. However, the Labour Court had declined to rule on that exception; it had expressly deferred a decision on that point until it heard evidence. This made perfect sense, because the evidence would indicate whether the claims relating to “ordinary” unfair dismissal would arise at all. The LAC should not have entertained the appeal because the Labour Court had made no decision to appeal against.
+
+The appeal was upheld.
+
+____________________________________________________________________________________
+
+Van Heerden JA: 
+
+This appeal relates to several exceptions raised by the respondent, Parliament of the Republic of South Africa (“Parliament”), to the appellant’s (Charlton’s) claim for unfair dismissal under the Labour Relations Act 66 of 1995 (“the LRA”). Charlton was the Chief Financial officer to Parliament from 1 May 2002 (initially on a three-year fixed term contract, permanently appointed from 1 March 2004). He held this position until his purported dismissal on 13 January 2006, ostensibly on the grounds of work-related misconduct. He, however, insists that he was dismissed for being a whistleblower in relation to fraud perpetrated by Members of Parliament (“members”) in respect of claims for their travel benefits. His allegations pertain to what has nationally and popularly become known as the “Travelgate scandal”. These allegations, and the background that follows, appear from his statement of claim which, by the nature of exception proceedings, we must accept as true.
+In about December 2002, Charlton informed the incumbent Secretary to Parliament, Mr Mfenyana (“Mfenyana”), of the discovery within the Financial Management Office of an alleged improper travel benefits claim by a member of Parliament. With Mfenyana’s approval, Charlton investigated the matter further. In April 2003, Charlton submitted a written report to Parliament (represented by Mfenyana and the Senior Presiding officers of Parliament, namely the Speaker of the National Assembly and the Chairperson of the National Council of Provinces) that there was prima facie evidence of fraud having been perpetrated on Parliament by, inter alia, certain travel agents, in relation to travel entitlements of members. 
+[2011] 12 BLLR 1143 (SCA) at 1145
+In the course of Charlton’s investigations (carried out on the authority of the above-mentioned Presiding Officers and including a forensic investigation by PriceWaterhouseCoopers), Charlton formed the view that the said fraud had been perpetrated on a very large scale, that Members had benefitted improperly from and/or were implicated in the fraud and that a member of staff in the Parliamentary Service was also implicated.
+Charlton remained actively involved in pursuing the matter and made a series of detailed written and oral reports to the Secretary of Parliament and the Senior Presiding Officers, informing them of the processes followed and the emerging details of the travel fraud. The list of current and past Members in respect of whom such information was disclosed to Parliament numbered in the hundreds. The South African Police Service, the Scorpions and the National Prosecuting Authority were also involved in the investigation.
+According to Charlton, during the period up to April 2004, he enjoyed the support of Parliament in his pursuit and investigation of the travel fraud. As at 31 March 2004, the investigation had identified fraud on Parliament in the amount of R13 million perpetrated over a 15-month period.
+After the April 2004 elections, the previous Senior Presiding Officers departed and Mr Dingani (“Dingani”) replaced Mfenyana as Secretary. According to Charlton, from the time of Dingani’s appointment, Parliament’s support for Charlton and for the investigation and pursuit of the travel fraud declined substantially. So, for example, Charlton reported to Dingani that another dimension to the travel fraud (referred to by Charlton as “type 3 fraud”) had been identified, which would involve an increase in Parliament’s total likely claim from R16.5 million to R35,7 million, and which would implicate prominent current and former members and/or office bearers of Parliament. Charlton also furnished Dingani with detailed lists of the members concerned. According to Charlton, Dingani effectively frustrated the conduct of a proper investigation into this type 3 fraud, inter alia, by not making the external resources required for such investigation available to him.
+A further example (amongst many) given by Charlton was to the effect that Dingani was allegedly placed in possession of prima facie evidence that certain ministers and another high-ranking official had improperly benefitted from travel facilities, but failed to cause such information to be further investigated, recommending only that the persons involved repay the applicable amounts.
+In summary, Charlton alleged that, from August 2004 to the date of his dismissal on 13 January 2006, Parliament failed to take appropriate action in regard to the finalisation of the travel fraud issue. The allocated budget and resources were inadequate given the number of transactions, and the number of Members potentially involved (the names of whom had been furnished to Parliament by Charlton) exceeded by far the number charged or convicted. 
+[2011] 12 BLLR 1143 (SCA) at 1146
+On 18 November 2005, Parliament suspended Charlton from his employment without any prior hearing. A disciplinary enquiry into the various charges of alleged misconduct against him was conducted between 12 and 21 December 2005. The disciplinary enquiry recommended his dismissal. On 13 January 2006, Dingani accepted this recommendation and summarily dismissed Charlton.
+Charlton challenged his dismissal. In his amended statement of claim in the Labour Court (“the LC”), he relied on five causes of action:
+his dismissal was automatically unfair in terms of section 187(1)(h) of the LRA because he was dismissed for having made protected disclosures as envisaged in the Protected Disclosures Act 26 of 2000 (“the PDA”) – “the first cause of action”;
+his dismissal was automatically unfair in terms of the introductory portion of section 187(1) of the LRA, read with section 5(2)(c)(v) of the LRA, because he was dismissed for having made disclosures that he was lawfully entitled or required to make in his capacity as Chief Financial Officer – “the second cause of action”;
+his dismissal was automatically unfair in terms of section 187(1)(f) of the LRA because he was dismissed for having made disclosures in circumstances where his decision to make such disclosures was a manifestation of conscience – “the third cause of action”;
+his dismissal was substantively unfair in terms of section 188(1)(a)(i), the charges against him being baseless – “the fourth cause of action”; and
+his dismissal was procedurally unfair in terms of section 188(1)(b) – “the fifth cause of action”.
+In the LC, Parliament excepted to Charlton’s statement of claim on six grounds (identified as grounds A–F). Grounds B–E was, however, not pursued at the LC hearing, leaving only exceptions A and F to be dealt with. Exception A related to the first cause of action, while exception F related to the LC’s alleged lack of jurisdiction to entertain the fourth and fifth causes of action. The LC dismissed both exceptions in June 2007, but Parliament was granted leave to appeal to the Labour Appeal Court (“the LAC”). In July 2010, the LAC upheld the exceptions previously dismissed by the LC and made orders staying “the proceedings” under section 158(2)(a) of the LRA1 and referring “the dispute” to the Commission for Conciliation, Mediation & Arbitration (“the CCMA”) for arbitration. Hence this appeal by Charlton, which serves before us with special leave granted by this Court.
+
+Exception A
+The basis for this exception taken by Parliament and persisted in before us is as follows. Parliament submitted that, in order to enjoy the protection  
+[2011] 12 BLLR 1143 (SCA) at 1147
+  of the PDA, the disclosure by the employee concerned had to relate to conduct by his or her employer or by a co-employee. In terms of section 187(1)(h) of the LRA, a dismissal is automatically unfair if the reason for the dismissal is “a contravention of the [PDA], by the employer, on account of an employee having made a protected disclosure defined in that Act”. Exception A was to the effect that members are neither “employees” nor “employers” for purposes of the PDA; that Charlton did not enjoy protection under the PDA when he made disclosures about their conduct; that his dismissal was, accordingly, not automatically unfair in terms of section 187(1)(h) of the LRA and hence that the first claim disclosed no cause of action.
+In dealing with the exception, the LC held that members are both employees and employers for purposes of the PDA. It ruled that the disclosures made by Charlton thus constituted protected disclosures under the PDA and that exception A fell to be dismissed.2
+As stated above, Parliament appealed to the LAC against the dismissal of the exception. The LAC entertained the appeal. As regards the appealability of the dismissal of the exception, the LAC, relying on Zweni v Minister of Law & Order 1993 (1) SA 523 (A) [also reported at [1993] 1 All SA 365 (A) – Ed], held as follows:
+
+“Clearly the first exception raised by Parliament does not go to jurisdiction but is instead an attack on the respondent’s [Charlton’s] cause of action . . . The court a quo in a reasoned judgment made a final determination that Parliamentarians are both employers and employees for the purpose of the PDA. This decision is final in effect and not susceptible to alteration by the court a quo and at least finally disposes of this problem and will not be revisited by the court a quo . . . To that extent, this decision is appealable.”3
+
+The approach by the LAC is fallacious. It failed to appreciate that it is established law that the dismissal of an exception is generally not appealable. The qualification to that general principle relates to exceptions going to jurisdiction.4
+Section 166(1) of the LRA provides that any party to proceedings before the LC may apply for leave to appeal to the LAC “against any final judgment or final order of the Labour Court”. There is no specific provision dealing with exceptions in the Labour Court Rules, hence rule 11(3) dictates that “the court may adopt any procedure that it deems appropriate in the circumstances”. It is established practice that exceptions are dealt with in the Labour Court and the Labour Appeal Court in the same manner as in the High Court. 
+[2011] 12 BLLR 1143 (SCA) at 1148
+In terms of section 20(1) of the Supreme Court Act 59 of 1959, only “judgments” and “orders” (and not merely “rulings”) are appealable. In Zweni v Minister of Law & Order,5 the test for what is meant by a “judgment” or “order” was expressed as follows: 
+
+“. . . first, the decision must be final in effect and not susceptible of alteration by the Court of first instance; second, it must be definitive of the rights of the parties; and third, it must have the effect of disposing of at least a substantial portion of the relief claimed in the main proceedings.”
+
+Flowing from the first of the three Zweni requirements, it has been consistently held that, except in very limited circumstances, the dismissal of an exception is not appealable. This is because the order is not final in effect: there is nothing to prevent the aggrieved party from raising and arguing the same issue at the trial. In the words of Innes CJ in Blaauwbosch Diamonds Ltd v Union Government (Minister of Finance) 1915 AD 599 at 601:
+
+“[O]ne would say that an order dismissing an exception is not the final word in the suit on that point that it may always be repaired at the final stage. All the Court does is to refuse to set aside the declaration; the case proceeds; there is nothing to prevent the same law points being re-argued at the trial; and though the Court is hardly likely to change its mind there is no legal obstacle to its doing so upon a consideration of fresh argument and further authority.”
+
+More recently, in Maize Board v Tiger Oats Ltd & others 2002 (5) SA 365 (SCA) at paragraph [14], [also reported at [2002] 3 All SA 593 (A) – Ed] this Court (per Streicher JA) expressed the principle thus:
+
+“In the light of this Court’s interpretation of s 20, the decisions in Blaauwbosch, Wellington6 and Kett,7 and the well-established principle that this Court will not readily depart from its previous decisions, it now has to be accepted that a dismissal of an exception (save an exception to the jurisdiction of the Court), presented and argued as nothing other than an exception, does not finally dispose of the issue raised by the exception and is not appealable. Such acceptance would on the present state of the law and jurisprudence of this Court create certainty and accordingly be in the best interests of litigating parties.”
+
+It follows that leave to appeal against the dismissal of exception A should not have been given by the LC and the LAC ought simply to have struck Parliament’s appeal in respect of exception A from the roll. In this regard, Charlton’s appeal must succeed.
+
+Exception F
+This exception was to the effect that the fourth and fifth causes of action (i.e. the ordinary unfair dismissal claims, as opposed to the automatically unfair dismissal claims) had to be resolved through arbitration in the CCMA and not through adjudication in the LC. 
+[2011] 12 BLLR 1143 (SCA) at 1149
+Accordingly, so the contention went, the LC lacked jurisdiction to entertain the matter. As indicated above, as an exception to the Blaauwbosch Diamonds principle, appeals against the dismissal of such exceptions are allowed.8 The reason is fairly obvious – if the court lacks jurisdiction, it cannot legitimately adjudicate the exception. In this case, however, in dealing with exception F, the LC did not in fact decide on the issue of jurisdiction. It held that:
+
+“[I]f the dispute raises two different reasons for the dismissal, the court can proceed with the adjudication. What it would be required to do is to find first if the automatically unfair dismissal has been proved. If there is evidence to establish an automatically unfair dismissal, the question of jurisdiction would no longer arise. If, on the other hand, the court finds that there is no evidence to establish an automatically unfair dismissal, the question of the jurisdiction will still remain in relation to the allegation of unfair dismissal . . .
+
+This Court cannot simply dismiss the dispute based on unfair dismissal at this stage when it is coupled with the allegation that the same dismissal is automatically unfair. The true reason has to be established by evidence. It is only after hearing the evidence that the court would be in a better position to decide if the unfair dismissal has to be referred to arbitration.”9
+
+The LC in effect took the approach that section 158(2)(a)10 of the LRA should be applied as and when the need arose. It made no decision at all on the issue of jurisdiction. It thus in effect declined to determine the issue at that stage. No doubt an appeal will avail a party aggrieved by the decision, were it still to be a live issue at that time, once the matter has been finally determined. The LAC thus clearly erred in holding that: 
+
+“. . . the [LC] in dismissing the exception made a finding that it had jurisdiction. Hearing of evidence would make no difference to this finding.”11 
+
+  The LC made no such finding. Moreover, the hearing of evidence would clearly make a difference, as from this would emerge whether the jurisdictional point on the ordinary unfair dismissal dispute would arise at all. It follows that the raising of an exception in this regard was misconceived.
+
+As there was no final judgment or order on exception F, no appeal could arise in relation thereto. Here too, the LAC ought to have struck the matter from the roll.
+
+Order
+In the light of the above, the following order is made:
+The appeal is upheld with costs, including the costs of two counsel, where applicable.
+
+“The appeal is struck from the roll with costs, including the costs of two counsel.”
+
+ 
+[2011] 12 BLLR 1143 (SCA) at 1150
+
+  (Brand, Maya, Mhlantla JJA and Meer AJA concurred in the judgment of Van Heerden JA.)
+
+The following cases were referred to in the above judgment:
+
+
+Footnotes
+1	  S 158(2)(a) provides that, if at any stage after a dispute has been referred to the Labour Court, it becomes apparent that the dispute ought to have been referred to arbitration, the court may stay the proceedings and refer the dispute to arbitration.
+2	 Charlton v Parliament of the RSA (2007) 28 ILJ 2263 (LC) [also reported at [2007] JOL 20090 (LC) – Ed].
+3	 Parliament of the RSA v Charlton (2010) 31 ILJ 2353 (LAC) at para [5] [also reported at [2010] 10 BLLR 1024 (LAC) – Ed].
+4	  See Moch v Nedtravel (Pty) Ltd t/a American Express Travel Service 1996 (3) SA 1 (A) at 10E–11B [also reported at [1997] JOL 161 (A) – Ed]; Maize Board v Tiger Oats Ltd & another 2002 (5) SA 365 (SCA) at paras [9] and [14] [also reported at [2002] 3 All SA 593 (A) – Ed]; Phillips & others v National Director of Public Prosecutions 2003 (6) SA 447 (SCA) at para [19] [also reported at [2003] 4 All SA 16 (SCA) – Ed].
+5	  At 532J–533A.
+6	 Wellington Court Shareblock v Johannesburg City Council; Agar Properties (Pty) Ltd v Johannesburg City Council 1995 (3) SA 827 (A) [also reported at [1995] 2 All SA 642 (A) – Ed].
+7	 Kett v Afro Adventures (Pty) Ltd & another 1997 (1) SA 62 (A) [also reported at [1997] 1 All SA 1 (A) – Ed].
+8	  See above para [15] fn 4.
+9	 Charlton v Parliament of the RSA above fn 2 paras [67]–[68].
+10	  See fn 1 above.
+11	 Parliament of the RSA v Charlton above fn 3 para [5].
+
+For the applicant:
+MW Janisch instructed by Herold Gie Attorneys
+For the respondent:
+JJ Gauntlett SC and CJ Kahanowitz SC instructed by Chennels Albertyn Attorneys
+
+
+End of Document

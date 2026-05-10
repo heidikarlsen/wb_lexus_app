@@ -1,0 +1,95 @@
+
+
+
+
+“Incompatibility” and diversity of opinion or belief: A thin dividing line?
+IR - Editorial
+
+“Incompatibility” and diversity of opinion or belief: A thin dividing line?
+
+Dismissal on grounds of incompatibility is not a very frequent occurrence, perhaps because it is so difficult to pin down and tends to express itself in forms of “conduct” that may present a basis for disciplinary action. And, to the extent that expectations of “compatible” behaviour may amount to imposing the employer’s value system, it could infringe an employee’s right to freedom of conscience, belief or expression and expose the employer to a claim of automatically unfair dismissal.
+
+A clash of this nature might well have been imminent in the dispute in John v Afrox Oxygen Ltd (Case no: JS 532/11, 4 August 2015) where the employee was dismissed on grounds of incompatibility. However, the claim which she chose to bring was one of automatically unfair dismissal due to having made a protected disclosure in terms of the Protected Disclosures Act (“PDA).
+
+The applicant, Ms John, had been employed as Head of Talent Management in the respondent company’s HR department. The problem arose after she recommended that a certain Ms Armstrong be transferred to the position of manager of organisational development.  The group manager agreed to this, but stipulated that Ms Armstrong would remain on the same salary scale, described as “2M”. Mrs John disagreed, stating that to her knowledge Ms Armstrong’s existing position was graded as 2H. 
+
+It should be explained that, in terms of the company’s grading system, there were three salary bands within each grade, classified as High (H), Middle (M) and Lower (L). Ms John’s concern appeared to be that a discrepancy would be created between Ms Armstrong’s grading level and salary scale. A regrading process had been carried out before Ms John joined the company. And, the court noted, “during the investigation into the grading of the OD position, the applicant discovered that there were other employees affected by that process” (para 13).
+
+All of this might seem to be little more than a relatively minor debate about the application of an employment policy, this was not what happened. Ms John took the view that the regrading of positions should have been done in consultation with the affected employees and that, as it was, the regrading distorted the company’s report in terms of the Employment Equity Act (EEA) in respect of wage differentials.
+
+The reference here is to section 27 of the EEA which requires designated employers (such as Afrox Oxygen) to submit an annual report to the Department of Labour and, where disproportionate income differentials among employees within occupational levels are reflected, to “take measures to progressively reduce such differentials”. Although the details are unclear, Ms John apparently felt that the regrading exercise distorted the disclosure of wage differentials among employees on the same occupational level.
+
+The upshot was that she wrote to the group manager on 1 March 2013, stating that she was “extremely unhappy about the lack of integrity of this process”. Events then followed thick and fast:
+
+• On 14 March the company wrote back indicating its intention “to terminate the employment relationship with immediate effect, due to incompatibility” (para 6]. 
+
+• On 19 March Ms John wrote to the company indicating amongst other things that she was being victimised as a result of her “disclosure”.
+
+• On the same day she received a letter notifying her of her summary dismissal.
+
+This was followed by the referral of an automatically unfair dismissal dispute based on the company‘s alleged infringement of the PDA by dismissing her for making a protected disclosure. The disclosure in question apparently related to the (alleged) irregularities in the regrading process and the consequent (alleged) distortions in the company’s report to the Department of Labour in terms of section 27 of the EEA.
+
+The court spent some time dissecting the requirements of section 187(1)(h) of the LRA, which classifies dismissal as being automatically unfair if it is “a contravention of the Protected Disclosures Act, 2000, by the employer, on account of an employee having made a protected disclosure defined in that Act”. The case law is fairly clear. The relevant requirements for a “protected disclosure” have been summarised by the Labour Appeal Court as follows:
+
+• there must be a disclosure; 
+
+• it must be made in good faith; 
+
+• it must concern an impropriety, either a criminal offence or that a person has failed or is likely to fail to comply with any legal obligation; 
+
+• it must be reasonable for the employee to make the disclosure; and 
+
+• one or more of the conditions referred to in section 9(2) of the PDA must be satisfied (e.g. that the employee has previously disclosed substantially the same information to the employer or the impropriety is of an exceptional serious nature).
+
+Measured against these criteria Ms John’s claim was unsuccessful. Arguably, it failed at the first hurdle: the company’s witness “testified that the information which the applicant claims to have disclosed was already known to the employees of the respondent working in the HR department” (para 14). In other words, it was not a “disclosure”.
+
+Nevertheless Molahlehi J went on to examine, in particular, the requirement that disclosure must have been “reasonable”. In this regard, he noted, it has been held that 
+
+“the intention of the PDA was not to protect disclosures that amount to rumours and conjuncture. In other words, for the disclosure together with its allegation to deserve protection, it must be supported by facts” (para 26).
+
+This does not mean that the disclosure must necessarily be factually correct. In this regard the Labour Appeal Court has endorsed the proposition that “[a] mistaken belief or one that is factually inaccurate can nevertheless be reasonable unless the information is so inaccurate that no one can have interest in its disclosure.”1 
+
+However, it also means that a protected disclosure cannot be simply “an expression of a subjectively held opinion or an accusation”. 2 And, it was found, Ms John’s “disclosure” failed this test. In the court’s view, the information “disclosed” by her had “no factual basis to support the existence of a reasonable belief required in order to qualify as protected disclosure” (para 32). It was no more than an unfounded opinion.
+
+A further criterion of “reasonableness” is whether the disclosure was “in the public interest” (section 9(3)(g), PDA). However, there was no evidence of a collective agreement or sectoral determination requiring the employer to consult with employees or otherwise determining the way in which regrading should be done. There was thus no basis for alleging non-compliance with any legal obligation on this score or any action contrary to the public interest. 
+
+For all these reasons it was held that Ms John’s allegation of impropriety was not “reasonable” for purposes of the PDA. Her claim of automatically unfair dismissal on this ground was accordingly dismissed.
+
+This is not necessarily the end of the matter. In the alternative, Ms John had alleged that her dismissal on grounds of incompatibility was unfair. This falls beyond the jurisdiction of the Labour Court and, should she pursue it, would need to be referred to arbitration. The question would be whether the opinion she expressed was sufficient to establish “incompatibility” justifying dismissal.
+
+The finding that “an expression of a subjectively held opinion” in itself cannot amount to a protected disclosure, however, reminds us that such an opinion could nevertheless amount to a “belief” or, possibly, a “political opinion”. Section 187(1)(f) states that a dismissal will be automatically unfair if it is based on “any arbitrary ground, including … race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, political opinion, culture, language, marital status or family responsibility” on the part of the employee.
+
+When will “belief” qualify as a protected ground against dismissal? Obviously, it does not refer to situations where an employee faced with dismissal on an unrelated ground – such as misconduct – alleges that his/her belief was the “true” reason for dismissal. In such a case the fairness of the dismissal will depend solely on whether the employer is able to establish the existence of misconduct and the fairness of its decision to dismiss on this basis – not on any alternative basis alleged by the employee. It refers to situations where an employee’s belief – for example, the belief in particular moral values – emerges as the actual or main reason for dismissal.
+
+Here it has been held, for example, that disapproval of extra-marital affairs may qualify as a “belief” and that, consequently, dismissal of an employee for this reason would be automatically unfair. 3 It may be noted that this finding was made in a context where an employee dismissed for misappropriating a cellphone belonging to the employer alleged that the dismissal was actually motivated by her disapproval of her superior’s alleged extra-marital relations. Had this been established as the most probable reason for dismissal, it would have been automatically unfair.
+
+Could the same be said of a “belief” that the employer’s interpretation of its duties in terms of the EEA – or any other law – is incorrect and that the employer is acting improperly? Although the PDA would not enter the equation, it is likely that a similar approach would be followed: the rationality of the employee’s belief would have to be considered. A “belief” that has no objective foundation would be difficult to sustain in the face of a reasonable or justifiable decision.
+
+It should be noted that this does not apply to “religion” as a basis for conduct. The courts have accepted that religion, by its nature, arises from shared faith rather than logic, rationality or individual perceptions. The crucial test here is the actual precepts of the religion on which an employee might rely and the degree to which the employee has acted in accordance with those precepts.
+
+“Incompatibility”, then, could encompass situations where the employer’s beliefs are at odds with an employee’s beliefs. This goes much further than issues of legal compliance. Cases of this nature have yet to reach the courts, but are not unknown in practice. For example, workplaces with a particular corporate culture may be uncomfortable for employees with different values and may breed friction between such employees and their colleagues. This could potentially create situations where the non-conformist employee comes to be regarded as a “problem” and, by extension, to be “incompatible” with the employer’s requirements.
+
+Incompatibility has been defined as “a species of incapacity” relating to “the subjective relationship of an employee and other co-workers, within the employment environment, regarding the employee’s inability to maintain cordial and harmonious relationships with his peers”. 4 To prove it, thus, it is not enough for the employer to show that the employee did not “fit in”; it must be shown that the employee was in some way responsible for the conflict of values. This opens the way to some scrutiny of the employment environment and the justifiability of the behaviour expected of the employee. 
+
+This has parallels with disciplinary codes which, likewise, are in practice determined by the employer (even though, in law, the contractual relationship between employer and employee places limits on the extent to which an employer is entitled to do so). But it seems obvious that an employer’s power to prescribe “relationships” beyond the scope of disciplinary codes, let alone overrule employees’ “beliefs”, must be even more limited.
+
+This brings us back to the case of Ms John. Although she was unable to persuade the court of any wrongdoing on the part of the employer, it does signal a further question: what if an employee has ethical questions about an employer’s conduct? 
+
+In the absence of unlawful action by the employer there will be no scope for legal intervention or, possibly, protected disclosures. But, by the same token, an employee’s genuine beliefs – that is, of an ethical rather than religious nature – must offer a shield against employer retaliation for conduct regarded as obstructive. It may also offer some protection against dismissal for refusal to carry our instructions which the employee believes to be morally wrong. 
+
+All of which points once again at the importance of effective lines of communication (in real terms, not just on organograms) in determining norms and standards in the workplace in a society where diversity is the norm.
+
+Till next week.
+
+Darcy Du Toit
+
+
+
+Footnotes
+1	   Cited in SA Municipal Workers Union National Fund v Arbuthnot (2014) 35 ILJ 2434 (LAC) at para 15.
+2	   CWU v MTN (2003) 8 BLLR 741 (LC) at para 22.
+3	   See Zabala v Gold Reef City Casino [2009] 1 BLLR 94 (LC).
+4	   Jabari v Telkom SA (Pty) Ltd [2006] 10 BLLR 924 (LC) at 937.
+
+
+End of Document

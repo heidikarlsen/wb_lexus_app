@@ -1,0 +1,576 @@
+
+
+
+
+Mineral Sands Resources (Pty) Limited and others v Reddell and others (Centre for Applied Legal Studies and another as Amici Curiae) [2022] JOL 56254 (CC)
+Judgments Online
+
+Division: Constitutional Court
+Case No: CCT 66 / 21
+Hearing Date(s): 17 / 02 / 2022
+Judgment Date(s): 14 / 11 / 2022
+Bench: SA Majiedt, NJ Kollapen, MR Madlanga, RS Mathopo, NZ Mhlantla, LV Theron, ZLL Tshiqi JJ; D Mlambo, D Unterhalter AJJ
+
+
+On direct appeal from the High Court of the Western Cape, Cape Town, against the finding of Goliath DJP (sitting as a court of) reported sub nom Mineral Sands Resources (Pty) Ltd and another v Reddell and others and related matters [2021] JOL 49560 (WCC), [2021] 2 All SA 183 (WCC) – Ed. 
+
+Keywords
+
+
+Civil Procedure — SLAPP suit — Abuse of court’s process — Ulterior motive
+
+Mini Summary
+
+
+At the heart of this case lay the phenomenon referred to as SLAPP (Strategic Litigation Against Public Participation) – initiated against parties that speak out or take a position on an issue of public interest and aimed at deterring undesired participating in public affairs.
+
+Applicants were Australian mining companies and their executives, and respondents were environmental lawyers and activists. The mining companies brought defamation actions emanating from various allegedly defamatory statements made by the environmentalists. The claims in the actions totaled in excess of R14m. The respondents raised a special plea – the SLAPP special plea –that the actions were brought for the ulterior purpose of discouraging, censoring, intimidating, and silencing them and others in relation to public criticism of the mining companies. The High Court’s dismissal of the applicants’ exception to the SLAPP special plea led to an application for leave to appeal to the Constitutional Court.
+
+Held that it was in the interests of justice for a direct appeal to the court be allowed.
+
+The next question related to the appealability of the dismissal of an exception. Whether an interlocutory decision is appealable is an interests of justice enquiry. A similar “interests of justice” enquiry is applied to the appealability of the dismissal of an exception. As the exceptions in this case raised questions concerning the constitutional validity of the common law of defamation, and there were reasonable prospects of success, the decision was held to be appealable.
+
+Describing the origin, nature, and development of the SLAPP suit, the court stated that such lawsuits are usually brought for the purpose of preventing or discouraging political expression and comment on public issues. Their objective is to limit protest and dissuade individuals, citizens and activists from political participation. They are often brought to discourage a party from pursuing or vindicating their rights, often with the intention not necessarily to win the case, but simply to waste the resources and time of the other party, until they abandon their defence. SLAPP suits are frequently brought as defamation claims, abuse of process, malicious prosecution or delictual liability cases.
+
+The defendants pleaded the legal conclusion to their special defences that the plaintiff’s conduct in bringing the defamation action was an abuse of process due to ulterior motive. The court found that the common law doctrine of abuse of process can accommodate the SLAPP suit defence.
+
+The exception that the special plea lacked averments necessary to sustain a defence should have been upheld. The appeal thus succeeded.
+
+ 
+[2022] JOL 56254 (CC) at 3
+
+
+
+
+MAJIEDT J:
+
+Introduction
+
+[1]    One of the more positive features of our nascent democratic order is vibrant, vigilant and vociferous civil society participation in public affairs. In a truly broad based participatory democracy characterised by that kind of active participation, our Constitution's aspirations and values find meaning in the lives of the populace for whose benefit the Constitution of the Republic of South Africa, 1996 ("the Constitution") was ultimately enacted.1 One of the notably active voices is that of the environmental interests lobby.
+
+[2]    At the heart of this case lies the phenomenon of what has become known as SLAPP, short for Strategic Litigation Against Public Participation. It has been described as:
+
+"[L]awsuits initiated against individuals or organisations that speak out or take a position on an issue of public interest . . . not as a direct tool to vindicate a bona fide claim, but as an indirect tool to limit the expression of others . . . and deter that party, or other potential interested parties, from participating in public affairs."2
+
+ 
+[2022] JOL 56254 (CC) at 4
+
+It is relatively new in this country,3 but far more settled in jurisdictions such as Canada and the United States of America. This is the first time that it has reached this Court. We must determine whether our law prohibits a SLAPP suit under the abuse of process doctrine and, if not, whether it should be developed in that regard. Thus, the central issue is whether our law currently permits that ulterior motive alone, to the exclusion of the merits of a claim, may be determinative of abuse of process, so that the claim can be dismissed solely on that basis. If not, ought this Court to develop the common law to recognise abuse of this kind?
+
+[3]    The case originates from three defamation suits instituted by the present applicants, Australian mining companies and some of their executives, as plaintiffs in the High Court of South Africa, Western Cape Division, Cape Town ("the High Court"). The defendants in the suits are the present respondents before us; they are environmental lawyers and activists. For ease of reference, the parties will be referred to as they are in this Court, although the context may sometimes require reference to them as they were cited in the High Court.4 From time to time they may also be referred to as "the mining companies" or "the mining executives" (plaintiffs/applicants) and "the environmentalists" (defendants/respondents).
+
+[4]    The Centre for Applied Legal Studies ("CALS") was admitted as the first amicus curiae. CALS is a public interest organisation and is also registered as a law clinic based at the University of the Witwatersrand's School of Law. Two of their programmes, the Environmental Justice Programme and the Civil and Political Justice Programme, are of relevance to this application. The former aims to hold corporate actors accountable for environmental damage and to make section 24 environmental rights a reality for all who live in South Africa. The latter seeks to further the rule of law and respect for the Constitution as the supreme law of the land. Because of what it does under these two programmes, CALS has an interest in the present litigation. CALS made useful written and oral submissions in this case, setting out the nature and treatment of SLAPP suits in foreign jurisdictions, focusing  
+[2022] JOL 56254 (CC) at 5
+primarily on the tests used in foreign jurisdictions to identify and address cases presenting as or alleged to be SLAPP suits. CALS adopted the stance that, considering the nature of SLAPP suits (with reference to our jurisprudence and comparative foreign jurisprudence) against the scope of abuse of process, this type of lawsuit differs from abuse of process and ought not to be conflated with our common law of abuse of process. It is CALS's considered view that neither the current process of dealing with abuse of process, nor the elevation of ulterior motive within the common-law abuse of process test is sufficient to deal with SLAPP suits. This Court is indebted to CALS for its helpful submissions.
+
+[5]    The Southern Africa Human Rights Defenders Network ("SAHRDN") was admitted as second amicus curiae. The SAHRDN is a non-profit sub-regional network of human rights organisations from Southern Africa. It was established as a strategic response to the shrinking civic space and increased systematic attacks on civil society and human rights defenders across Southern Africa. It contributes to the respect and recognition of human rights defenders as legitimate actors and agents of social change with universally recognised and guaranteed constitutional rights. Since 2013, the SAHRDN has operated with close support from a steering committee with members consisting of the International Commission of Jurists, the Southern Africa Litigation Centre and Zimbabwe Lawyers for Human Rights. The SAHRDN's written and oral submissions centered on international law with the aim of ensuring that the broader context of international law is taken into account by this Court. In particular, they sought to ensure that the court considered international law principles that promote the ability of human rights defenders to participate in public interest issues that may involve litigation. Their submissions were helpful to the court for which we are indebted.
+
+[6]    The three defamation actions emanate from various allegedly defamatory statements made by the environmentalists. The claims in the actions total in excess of R14 000 000. In response to each of the defamation actions, the defendants raised two special pleas, both of which elicited exceptions from the plaintiffs.
+
+[7]    The first special plea – the SLAPP special plea – was that the actions were brought for the ulterior purpose of discouraging, censoring, intimidating, and  
+[2022] JOL 56254 (CC) at 6
+silencing the applicants and members of the public in relation to public criticism of the mining companies. The plaintiffs excepted to this special plea, contending that the SLAPP suit defence did not exist in our law and that therefore, the special plea did not disclose a defence. This is the first set of exceptions – the second set of exceptions dealt with the second special plea of the defendants. That second special plea, styled "the corporate defamation special plea" in the High Court proceedings, was that the claims of the mining companies were bad in law because a for-profit company has no claim for general damages in relation to defamation without alleging and proving falsity, wilfulness and patrimonial loss. That special plea is the subject of a separate matter before this Court (Reddell and others v Mineral Sands Resources (Pty) Ltd and others CCT 67/21).
+
+[8]    The High Court heard the two exceptions together.5 The exception to the SLAPP special plea was dismissed by the High Court. The applicants now seek leave to appeal to this Court for the reversal of the High Court's decision to dismiss the exception. The applicants assert that this case is closely related to CCT 67/21. In that case, both the High Court and Supreme Court of Appeal are bound by the latter court's decision in SA Taxi.6 A direct appeal to this Court is thus necessary and leave to appeal should be granted.
+
+Background
+
+[9]    The plaintiffs are engaged in extensive mining operations in the exploration and development of major mineral sands projects in South Africa, namely, the Tormin Mineral Sands Project and the Xolobeni Mineral Sands Project. There appears to be fierce community opposition to these mining activities and the defendants are apparently at the forefront of that opposition. In the course of this opposition, the defendants are alleged to have made statements which are defamatory of the plaintiffs.
+
+[10]    The first to third applicants made the alleged defamatory statements as presenters of a lecture series at the University of Cape Town, concerning the  
+[2022] JOL 56254 (CC) at 7
+respondents' Tormin mining project, entitled "Mining the Wild and West Coast: 'Development' at what cost?". The alleged defamatory statements concern what was said to be the duplicitous and unlawful nature of the mining operations which were said to be ravaging the environment. The claims against them totalled R1 250 000.
+
+[11]    The fourth and fifth applicants participated in a radio interview in which the present fourth respondent (the second plaintiff in the High Court) was also a participant. The interview was posted on the radio station's website. The fourth and fifth applicants discussed the mining activities, expressed certain contentious opinions and trenchantly criticised the plaintiffs' mining operations. They are sued for a total of R3 000 000.
+
+[12]    Lastly, in respect of the sixth applicant, the alleged defamatory statements appeared in two e-books7 published by him, several of his radio interviews, video clips posted by him on YouTube, numerous emails that he had written, and a number of his interviews published on various social media platforms online. He also participated in a panel discussion on a SABC television programme known as 50/50 relating to mining and mineral regulation issues; he posted an article on an online journalism platform called Medium, entitled "Behind the Irony Curtain: Blood Diamond, Xolobeni and the Real Story of MRC";8 and engaged in general advocacy around environmental issues. In the end, the plaintiffs instituted 27 defamation claims against him totalling R10 000 000.
+
+[13]    The plaintiffs sought damages for the alleged defamation, alternatively, public apologies. In their SLAPP special plea, the defendants pleaded that these claims are brought against the individual defendants even though:
+
+the mining companies do not allege any patrimonial loss;
+the mining companies do not allege that the alleged defamatory statements concerned are false; and 
+[2022] JOL 56254 (CC) at 8
+(c) the mining companies do not honestly believe that they have any prospect of recovering the amount of damages claimed from the individual defendants.
+
+[14]    The defendants pleaded that the plaintiffs' conduct in this regard "forms part of a pattern of conduct". This "pattern of conduct" involves these mining companies and their directors bringing "defamation actions for the ulterior purpose" of:
+
+discouraging, censoring, intimidating, and silencing the defendants in relation to public criticism of the plaintiffs; and
+intimidating and silencing members of civil society, the public, and the media in relation to public criticism of the plaintiffs.
+
+[15]    The defendants concluded in their special plea that the bringing of the defamation actions:
+
+is an abuse of process of court;
+amounts to the use of court process to achieve an improper end and to use litigation to cause the defendants financial and/or other prejudice in order to silence them; and
+violates the right to freedom of expression entrenched in section 16 of the Constitution.
+
+[16]    Finally, the defendants pleaded that, in so far as it may be held that the existing common law does not allow for the dismissal of an action on this basis, the common law should be developed in terms of sections 8(3) and 39(2) of the Constitution.
+
+[17]    The plaintiffs excepted to the SLAPP special plea. They did so: first, on the basis that the defendants had not brought an application in terms of the Vexatious Proceedings Act9 ("the Act"); and, second, on the basis that the defendants had not satisfied the requirements for abuse of process at common law which, they say, "require that the court finds that the proceedings are obviously unsustainable as a certainty and not merely on the preponderance of possibility". The reliance on  
+[2022] JOL 56254 (CC) at 9
+the Act has effectively fallen away and we are only concerned here with abuse of process under the common law. This is because, as the applicants rightly say, the respondents do not purport to rely on the Act, nor could they. Section 2(1)(b) of that Act would not apply here – the section requires a separate application for protection against a vexatious litigant to be brought by a defendant. Protection cannot be obtained simply by filing a plea in which abuse is alleged.
+
+The applicants' main submissions
+
+[18]    First, as to appealability, the applicants submit that the order of the High Court meets the requirements for appealability, laid down in Zweni,10 that is: it is final in effect and not susceptible to alteration by that court; it is definitive in certain respects of the rights of the parties; and has the effect of disposing of a substantial portion of the relief claimed.11 The order also complies with the adaptation of the Zweni test by this Court in, amongst others, SCAW,12 as it is in the interests of justice that it be heard by this Court.
+
+[19]    In essence, the applicants' case is that recognising the SLAPP suit defence on the terms that it is pleaded permits the respondents (as defendants) to put the applicants (as plaintiffs) on trial in the actions where the only issue will be the applicants' motives. Findings of ulterior motive would result in the actions being dismissed without any regard to the merits of the applicants' claims for defamation.13
+
+[20]    On leave to appeal, the applicants' contention is that the application engages both this Court's constitutional and general jurisdiction. They submit that their right to access to courts in terms of section 34 of the Constitution is of cardinal importance. The applicants argue that a resolution of the disputes between the parties, without reference to the merits of those disputes, implicates their right to a fair public hearing. What may constitute an abuse of process and the protections afforded to a  
+[2022] JOL 56254 (CC) at 10
+litigant confronted with an abuse of process raise arguable points of law of general public importance that transcend the interests of the parties.
+
+[21]    The applicants say that there is no dispute between them and the respondents that the interests of justice favour an appeal directly to this Court. The issues are important and of broader application than the parties. Pragmatism strongly favours this matter being heard together with that under CCT 67/21,14 and the Supreme Court of Appeal is unlikely to entertain one or both matters. According to the applicants, it appears that the respondents confine their opposition to the merits of the application. Their preference also seems to be for this Court to engage with the merits of the application at this stage.
+
+[22]    The respondents' SLAPP special pleas, according to the applicants, postulate that under the common law a litigant may raise an abuse of process as a stand-alone defence to a substantive claim and that ulterior motive alone, to the exclusion of the merits of a claim, may give rise to an abuse of process. The applicants argue that this runs contrary to cases like Maphanga15 that place clear (if not exclusive) emphasis on the merits of a claim in the abuse of process analysis.
+
+[23]    The applicants further assert that the respondents' SLAPP special pleas lack averments necessary to sustain the defence they wish to raise, as the respondents seek to have the merits of a claim excluded from the abuse of process analysis, contrary to that doctrine. Therefore, the applicants submit that their first set of exceptions, otherwise compliant with the exception procedure, accordingly, stand to be upheld.
+
+[24]    The applicants oppose the development of the common law, for which the respondents contend in the alternative, on the basis that the respondents have failed to satisfy the applicable test, as summarised by this Court in DZ.16 The applicants  
+[2022] JOL 56254 (CC) at 11
+further submit that the common-law principles of abuse of process are not inconsistent with section 16 or section 34 of the Constitution, relied on by the respondents, nor the constitutional value system. Moreover, the applicants submit that the international approach to the regulation of SLAPP suits, invoked by the respondents, is merits-centric and establishes that law reform on the topic is a complicated exercise best left to the Legislature.
+
+The respondents' main submissions
+
+[25]    The respondents assert that, on the well-established approach to exceptions, it must be accepted as true that:
+
+the plaintiffs do not honestly believe that they have any prospect of recovering the amount of damages claimed from the defendants;
+the plaintiffs' defamation actions are brought for the purpose of:
+discouraging, censoring, intimidating, and silencing the defendants in relation to public criticism of them; and
+intimidating and silencing members of civil society, the public, and the media in relation to public criticism of them; and
+this forms part of a "pattern of conduct" by the mining companies and their directors in which they seek to bring defamation actions for these purposes.
+
+[26]    The respondents assert that it must also be accepted as true that the mining companies have not brought a defamation claim for a reasonable amount, likely to be recovered, to compensate them for injury to dignity. Instead, they have brought a series of claims for amounts which they know they will not recover, in order to silence their critics.
+
+[27]    The main thrust of the respondents' argument is that the existing doctrine of abuse of process encompasses a SLAPP suit defence and that the existing common law allows and requires courts to consider ulterior motive when assessing whether a litigant has abused court proceedings. Ultimately, the respondents submit that the common law also allows for ulterior motive solely to be determinative of abuse of process in certain circumstances. They rely heavily on Lawyers for Human Rights17
+
+ 
+[2022] JOL 56254 (CC) at 12
+
+as authority that an ulterior motive can be considered solely determinative of abuse of process. According to the respondents, that case holds that, generally, abuses of process occur when court processes are used for ulterior or extraneous purposes. This finding makes clear that: (a) ulterior motives will be considered; and (b) ulterior motives can be determinative of abuse of process.
+
+[28]    The respondents also rely on a number of other cases for their submission that "our courts have repeatedly referred to the purpose of the litigation as being relevant to and possibly determinative of the question of abuse of process".18 They take issue with the applicants' contention that these cases are distinguishable.
+
+[29]    The respondents make extensive submissions as to why the applicants' strong reliance on Maphanga19 is misplaced. First, they say that in that case the question of improper motive does not appear to have been at issue. Second, if Maphanga did indeed purport to hold that the motive or purpose of the litigation was irrelevant to debates about abuse of process, this would have been wrong. It would have been inconsistent with a series of decisions of our courts, including the Supreme Court of Appeal and this Court. Furthermore, the respondents assert that the applicants' invocation of cases dealing with the legality of arrests and criminal prosecutions are inapposite. Those cases are distinguishable, as there is plainly good reason for the law to refuse to provide a route for a person who commits a crime to avoid arrest or prosecution by asserting bad motives against an arresting officer or prosecutor.
+
+[30]    The respondents further submit that this Court need not decide the question when an ulterior purpose can be enough to conclude that there is abuse of process in order to dismiss the appeal. It only needs to decide whether, given the facts pleaded by the respondents (which must be accepted as true), the ulterior motive of  
+[2022] JOL 56254 (CC) at 13
+the mining companies behind their defamation claims could conceivably constitute an abuse of process. According to the respondents, litigation brought for an ulterior purpose is patently impermissible. It constitutes an abuse of process. This is for two reasons: first, the importance of free engagement and debate on matters of public importance; and, second, the environmental context in which these actions have been brought is especially concerning.
+
+[31]    The respondents conclude that under the existing common law, the special pleas are good in law. Whether they are established on the facts is a matter for the trial court to determine in due course. The notion that the special pleas can be rejected at this stage, before evidence on them is even led, is, according to the respondents, not correct. The respondents therefore submit that the plaintiff's' appeal and exception must fail.
+
+[32]    If they are wrong for any reason on the position of the existing common law, say the respondents, then the existing common law falls to be developed. They contend that this case falls squarely within the principles laid down in DZ.20 The respondents are at pains to emphasise that they do not suggest that this Court should create an entire SLAPP suit regime via the development of the common law. What they propose, instead, is that the real and pressing concerns alluded to on this score must be considered in determining whether and how the existing common-law principles of abuse of process are to be developed. They draw an analogy to the development of the common law regulating class actions.21
+
+[33]    The respondents maintain that it would be untenable to uphold the applicants' contention that would preclude the development of the common law at this stage on exception. It cannot seriously be contended that it is "legally impossible" for the common law to be developed in a manner that would sustain the special plea. Doing  
+[2022] JOL 56254 (CC) at 14
+so would foreclose the development of the common law on this critical issue and be directly at odds with this Court's approach in Fetal Assessment Centre.22
+
+Jurisdiction and leave to appeal
+
+[34]    For leave to appeal to be granted in this Court, an applicant must meet two requirements. First, the matter must fall within the jurisdiction of this Court in that it raises a constitutional issue or an arguable point of law of general public importance and second, the interests of justice must warrant that leave to appeal be granted.
+
+[35]    The issues are plainly of manifest importance. The parties are agreed that the interests of justice favour granting the application for leave to appeal. They are in agreement that the issues are of pressing constitutional import. This Court has both constitutional and general jurisdiction in this case. We are concerned here with whether the common-law doctrine of abuse of process currently provides for a SLAPP suit defence. In addition, this matter concerns the development of the common law and right of access to courts in line with Boesak.23 This matter is directly linked to CCT 67/21 (the corporate defamation defence), and as in that case, this matter transcends the parties' narrow interests. SLAPP suits, by definition, limit public participation by abusing the legal process to silence and deter public participation. The restrictions upon public participation, particularly in environmental matters where "meaningful public participation" is required, is a matter of general public importance.24 Furthermore, and again much like the case in CCT 67/21, this  
+[2022] JOL 56254 (CC) at 15
+matter engages the constitutional rights of freedom of speech25 as well as access to courts.26
+
+[36]    Direct appeals to this Court are permitted only where the interests of justice so permit.27 In Khumalo, this Court granted leave to appeal directly to it on the basis that:
+
+"The extent to which the Constitution requires a development of the law of defamation is a question which has been frequently asked. The issue was raised but not answered in an early decision of this Court, Du Plessis and Others v De Klerk and Another 1996 (3) SA 850 (CC) (1996 (5) BCLR 658), and has been considered in a considerable number of High Court judgments since. It is also a matter which has received the attention of the Supreme Court of Appeal in National Media Ltd v Bogoshi and has also troubled Courts in many other jurisdictions. In all these circumstances, therefore, it seems that it would be in the interests of justice for this Court to consider the appeal. The application for leave to appeal is therefore granted  
+[2022] JOL 56254 (CC) at 16
+(though to avoid confusion I shall continue to refer to the appellants as applicants)"28 (footnotes omitted).
+
+[37]    Leave to appeal ought to be granted directly to this Court. Unlike the case in CCT 67/21, this matter does not face the challenge of binding precedent in the Supreme Court of Appeal (SA Taxi, as alluded to in paragraph 0 above). However, the two cases are closely linked, relate to the same parties, are based on the same causes of action and engage public policy considerations, so that it is undoubtedly in the interests of justice for the cases to be heard and dealt with simultaneously. I am cognisant of the fact that this Court is reluctant to bypass the Supreme Court of Appeal in matters relating to the development of the common law, however, the fact that that court has already heard the case on corporate defamation in SA Taxi and that it is not desirable to split the two cases, weighs in favour of this Court granting leave. It is thus in the interests of justice that the two cases be heard on direct appeal by this Court. As will appear, there are also reasonable prospects of success.
+
+[38]    What bears consideration next, is the appealability of the dismissal of an exception. In Informal Traders, this Court held that whether an interlocutory decision is appealable is an interests of justice enquiry.29 A similar "interests of justice" enquiry ought to apply here. In Zweni, the Supreme Court of Appeal held that decisions that can be appealed must have the following three attributes: they must be final in effect and not susceptible to alteration by the court of first instance; they must be definitive in some respect of the rights of the parties; and they must have the effect of disposing of a substantial portion of the relief claimed.30 However, where an exception is not upheld, an appeal will not lie because it does not meet the criteria enumerated in Zweni. Previously, the Supreme Court of Appeal has pertinently declined to reconsider the question of the appealability of decisions dismissing exceptions.31 However, the interests of justice criterion is more expansive. As this  
+[2022] JOL 56254 (CC) at 17
+Court held in OUTA: "This Court has granted leave to appeal in relation to interim orders before. It has made it clear that the operative standard is the 'interests of justice'."32 As stated, there are reasonable prospects of success here. This set of exceptions plainly raise questions concerning the constitutional validity of the common law of defamation, as was the case in Khumalo.
+
+[39]    The question whether an appeal may lie to this Court against the dismissal of an exception by a High Court depends on whether such dismissal constitutes a "decision on a constitutional matter" as contemplated by rule 1933 and, if it does, whether it is "in the interests of justice" – the standard set by section 167(6) of the Constitution34 – for this Court to hear the appeal. This first set of exceptions raise questions concerning the constitutional right to freedom of expression, the right to access to courts, as well as meaningful public participation in matters of public importance, such as compliance with environmental regulations by mining companies. In considering and then dismissing these exceptions, the High Court was clearly concerned with a constitutional matter and that order constitutes a decision on a constitutional matter as contemplated in rule 19.
+
+[40]    As stated, there is a close link between this matter and CCT 67/21, and this further supports the appealability of this case. The High Court found that our common law recognises a SLAPP suit defence to an action for defamation which requires no consideration at all of the merits of the claim. This effectively permits a defendant to seek the dismissal of an action solely on the basis that it is brought for  
+[2022] JOL 56254 (CC) at 18
+an ulterior purpose and without any regard to the merits of the plaintiff's claim. This may potentially be definitive of the rights of the parties in the actions and may later on dispose of the actions. Usually, a dismissal of an exception is not appealable on the basis that the question of law can be argued again at the end of the trial. But sometimes, as here, this position must yield to a circumstance where an important and novel question of law requires determination so that the trial may proceed with certainty as to whether the defence as pleaded is in fact good in law. In this respect, the present matter is different to Baliso,35 where this Court refused leave against the dismissal of an exception. It is thus in the interests of justice for leave to appeal to be granted in this matter. In respect of the merits, regard must first briefly be had to the well-established general approach to exceptions as they would apply to this case.
+
+Merits
+
+The approach to be adopted in respect of the exceptions
+
+[41]    The excipient must satisfy the court that the conclusion of law pleaded by a defendant cannot be supported by any reasonable interpretation of the particulars of claim.36 In adjudicating an exception, the facts pleaded by the defendants must all be accepted as true.37 Applied to this case, it means that it must be accepted as true that the plaintiffs have not brought a defamation claim for a reasonable amount, likely to be recovered in order to compensate them for injury to dignity. Instead, they have brought a series of claims for amounts which they know they will not recover, in order to intimidate their critics, the environmentalists, into silence. What bears consideration next in brief is the SLAPP suit's origin, nature and development.
+
+The SLAPP suit – origin, nature and development
+
+[42]    As stated, the SLAPP suit has its origin in the United States of America and Canada. The term "SLAPP" originated in the 1980s in the United States of America.38 Lawsuits of this kind are usually brought for the purpose of preventing or  
+[2022] JOL 56254 (CC) at 19
+discouraging political expression and comment on public issues. Their objective is to limit protest and dissuade individuals, citizens and activists from political participation. There appears to be an increase in such cases, particularly in foreign jurisdictions like Canada and the United States of America, and they take a wide range of forms. They are often described as cases without merit brought to discourage a party from pursuing or vindicating their rights, often with the intention not necessarily to win the case, but simply to waste the resources and time of the other party, until they abandon their defence. SLAPP suits are frequently brought as defamation claims, abuse of process, malicious prosecution or delictual liability cases.39 Their aim is to intimidate and scare a litigant who may previously have brought to light matters of public concern.40
+
+[43]    A common feature of SLAPP suits is that the primary aim of the litigation is not to enforce a legitimate right. The objective is to silence or fluster the opponent, tie them up with paperwork or bankrupt them with legal costs. Therefore, the hallmark of a SLAPP suit is that it often (but not necessarily always) lacks merit, and that it is brought with the goals of obtaining an economic or other advantage over a party by increasing the cost of litigation to the point that the party's case will be weakened or abandoned. They are primarily legal proceedings that are intended to silence critics by burdening them with the cost of litigation in the hope that their criticism or opposition will be abandoned or weakened. In a typical SLAPP suit, the plaintiff does not necessarily expect to win its case, but will have accomplished its objective if the defendant yields to the intimidation, mounting legal costs or exhaustion and abandons its defence and also, importantly, its criticism of and opposition to the project or development.41 It appears from this initial analysis that  
+[2022] JOL 56254 (CC) at 20
+both merit and motive play a role in the test for a SLAPP suit and the one may inform the other.
+
+[44]    SLAPP suits are not brought only in the context of environmental litigation, they are encountered in various other types of litigation. It bears repetition that environmentalists appear to be quite active worldwide, and also in our country. A further factor is that "meaningful public participation" is a key requirement in environmental legislation.42 Those most commonly at the receiving end of defamation SLAPP suits are media institutions, whistleblowers, and activists. SLAPP suits in all spheres, but particularly in the context of public interest environmental litigation, evince a deeper contestation in society. It is the manifestation of the increasing contest between the competing interests of developers pursing their property rights, and environmentalists pursuing conservation objectives. These lawsuits demonstrate the need for a balance between competing rights such as freedom of expression, right to privacy, and the right to property.
+
+[45]    SLAPP suit defences have been introduced by legislation in some foreign jurisdictions, primarily on the basis that SLAPP suits impede freedom of expression.43 Thus, for example, in California, the Code of Civil Procedure  
+[2022] JOL 56254 (CC) at 21
+pertinently declares that it is intended to protect the American constitutional right to free speech in the context of participation in matters of public significance.44 And in Canada, the anti-SLAPP legislation is aimed at mitigating the harmful effects of strategic lawsuits against public participation, utilised not as a direct tool to vindicate a bona fide claim, but as an indirect tool to limit the expression and deter that party, or other potential interested parties, from participating in public affairs.45 There are elaborate procedures in most of these foreign jurisdictions, an aspect to be discussed in some detail presently. But can SLAPP suits be accommodated under our common-law abuse of process?
+
+Abuse of process in our law
+
+[46]    The defendants plead the legal conclusion to their special defences that the plaintiff's conduct in bringing the defamation:
+
+is an abuse of process;
+amounts to the use of court process to achieve an improper end and to use litigation to cause the defendants financial and/or other prejudice in order to silence them; and/or
+violates the right to freedom of expression entrenched in section 16 of the Constitution."
+
+[47]    Distilled to its essence, the defence is really one of abuse of process. The additional allegations pleaded regarding the improper use of litigation and a violation of the right of freedom of expression appear to be merely in support of this legal conclusion, as opposed to being further self-standing grounds. The defendants' contention is that abuse of process is a stand-alone defence and they rely entirely on the plaintiffs' ulterior motive for bringing the defamation actions as constituting the abuse. The merits of the plaintiffs' claims are to be left completely out of the reckoning – their ulterior motive in and of itself amounts to abuse of the process of the court. That is the crux of the defendants' SLAPP suit defence.
+
+ 
+[2022] JOL 56254 (CC) at 22
+
+[48]    The defendants submit that: 
+
+"The existing common law allows and requires courts to consider ulterior motive when assessing whether a litigant has abused court proceedings. The common law also allows for ulterior motive to be determinative of abuse of process in certain circumstances." 
+
+They rely on a number of cases to support this submission. Those cases will be examined presently. During oral argument in this Court, though, the respondents made some important concessions. They ultimately contended that the defence of abuse required that the object of the litigation was "a gross violation of constitutional rights". They also accepted that regard to the merits was permissible, but submitted that it was for the plaintiffs to raise.
+
+[49]    Our courts have over many years used their inherent powers to protect the institution from litigious abuse. The leading case is Lawyers for Human Rights,46 where this Court cited Beinash47 with approval, in which it was held that abuse of process can in general terms be said to occur "where the procedures permitted by the rules of the court to facilitate the pursuit of the truth are used for a purpose extraneous to that objective".48 It was held in Beinash that "[t]here can be no doubt that every court is entitled to protect itself and others against an abuse of its processes".49 An enquiry into abuse of process depends on the facts and circumstances of each case.50 The respondents rely heavily on Lawyers for Human Rights. They contend that "this Court has definitively held [in that case] that ulterior motive can be considered and be determinative of abuse of process. Yet the exception raised by the mining companies contends precisely the opposite." This submission will be analysed presently.
+
+[50]    In Phillips, the Supreme Court of Appeal defined abuse of process thus: 
+[2022] JOL 56254 (CC) at 23
+"The term 'abuse of process' connotes that the process is employed for some purpose other than the attainment of the claim in the action. If the proceedings are merely a stalking-horse to coerce the defendant in some way entirely outside the ambit of the legal claim upon which the Court is asked to adjudicate they are regarded as an abuse for this purpose."51
+
+[51]    Recently in Ascendis, this Court held:
+
+"Abuse of process concerns are motivated by the need to protect 'the integrity of the adjudicative functions of courts', doing so ensures that procedures permitted by the rules of the Court are not used for a purpose extraneous to the truth-seeking objective inherent to the judicial process."52
+
+[52]    In our common law a number of different categories of abuse have been developed by which our courts ensure the integrity of their own process. There are cases where there is gross abuse by the procedure employed by a litigant, to the extent that the court, as a rare instance, will dismiss the claim, without any regard to the merits. An example is Cassimjee.53 There, the appellant had appealed against the High Court's dismissal of his action for want of prosecution. The case emanated from a seizure by customs and excise officials of two tankers owned by the appellant's transport business some 32 years before (in 1977). After the initial exchange of pleadings, about 20 years elapsed during which no steps were taken by either party to advance the action. There was a brief stir from the slumber in 2001 when a firm of attorneys placed themselves on record for the appellant and gave notice purporting to place the matter on the awaiting trial roll. But another four years went by and eventually, in 2006, the dismissal application was brought by the Minister of Finance, which was granted in 2010. The Supreme Court of Appeal confirmed the High Court's dismissal, on the ground that the delay in prosecuting the claim was inordinate and the prejudice to the defendant (the Minister) was manifest. That court held that the High Court correctly exercised its discretion to dismiss the  
+[2022] JOL 56254 (CC) at 24
+action, through its inherent power to prevent abuse of its process. Self-evidently, abuse of process that impinges upon the court's integrity is quite distinct from abuse that is designed to cause harm to a party. Cassimjee is a typical example of the former, where the abuse of court was held to have resulted in prejudice to the defendant, the Minister.
+
+[53]    Then there are the cases concerning frivolous and vexatious litigation. There, self-evidently, the merits of the cases, both past and present, are germane in order to determine whether the court is being assailed by a further frivolous claim or something with arguable merits. In this category falls a case like Maphanga,54 on which much reliance was placed by the applicants. More about it later. Suffice to state for now that the passage relied upon reads:
+
+"It was firmly established in the South African common law, long before the advent of the Constitution, that the Supreme Court had the inherent power to regulate its own process and stop frivolous and vexatious proceedings before it. This power related solely to proceedings in the Supreme Court and not to proceedings in the inferior courts or other courts or tribunals. The following principles crystallised over the ages. It had to be shown that the respondent had 'habitually and persistently instituted vexatious legal proceedings without reasonable grounds'. Legal proceedings were vexatious and an abuse of the process of court if they were obviously unsustainable as a certainty, and not merely on a preponderance of probability. I must point out at this juncture that this definition applied to all litigation that amounted to an abuse of court process."55
+
+[54]    The third class of case concerns criminal proceedings, public and private. The issue that arises in those cases is different. The enquiry is whether the prosecution is being brought in the public interest and not to pursue some private objective. That is a question of the legality of the proceedings and the permissible statutory purpose  
+[2022] JOL 56254 (CC) at 25
+for which a prosecution may be instituted. A leading example is Zuma.56 In that case, the Supreme Court of Appeal had to consider an appeal against a decision of the High Court, in terms of which the decision on 27 December 2007 by the then Acting National Director of Public Prosecutions to indict former President Zuma on serious criminal charges, including charges of racketeering, corruption, money laundering and fraud, was held to be invalid and was reviewed and set aside. In dismissing the appeal, the Supreme Court of Appeal held that motive to prosecute is entirely irrelevant. Again, this will be discussed presently, as this is a case upon which the applicants place much reliance.
+
+[55]    The question before us is whether there may be a further species of abuse case of the kind set out in the special plea that falls within the inherent jurisdiction of the court to ensure that the court's processes are not abused. Before answering that question, a brief discussion of the cases relied upon by the parties for their respective contentions is required. I commence with Maphanga, the main arrow in the applicants' quiver.
+
+Does Maphanga find application?
+
+[56]    The case concerned an appeal against the dismissal of the appellant's (the MEC's) application by the KwaZulu-Natal Division of the High Court, Pietermaritzburg. The main relief was sought under section 2(1)(b) of the Act, alternatively the common law. It entailed repeated attempts by the respondent, Mr Maphanga, to resolve a dispute with the Department of Co-operative Governance and Traditional Affairs, KwaZulu-Natal which culminated in lengthy litigation. During the hearing of the appeal, reliance on section 2(1)(b) of the Act was abandoned and the case was based solely on the court's inherent jurisdiction to determine its own process under common law.
+
+[57]    In respect of the common law abuse of process argument, the Supreme Court of Appeal gave the introductory overview cited above. It then noted that: 
+[2022] JOL 56254 (CC) at 26
+". . . in granting this type of relief, [courts must] proceed very cautiously and only in a clear case make a general order prohibiting proceedings between the same parties on the same cause of action and in respect of the same subject-matter where there has been repeated and persistent litigation, and craft such order to meet only the immediate requirements of the particular case. The stringent onus on the applicant who seeks the relief and the need for the court's caution in exercising this power obviously arise from the fact that the relief curtails a litigant's access to court"57 (emphasis added).
+
+[58]    The Supreme Court of Appeal ultimately confirmed the High Court's findings:
+
+"Mr Maphanga clearly did not habitually and persistently institute legal proceedings against the MEC and the Department. Neither was it shown as a certainty that any of his claims were 'obviously unsustainable'."58
+
+[59]    Maphanga is distinguishable and does not assist the applicants' case. It plainly concerned frivolous and vexatious proceedings. Before us, the reliance on the provisions of the Act has been abandoned. Furthermore, improper motive was not in issue at all in Maphanga, since the case concerned frivolous and vexatious proceedings. The dictum relied on by the applicants therefore does not find application here. The applicants' strong reliance on Maphanga is misconceived. It is convenient to deal next with the other cases relied upon by the applicants. Those cases mostly concern the legality of arrests and criminal prosecutions.
+
+Other cases relied upon by the applicants
+
+[60]    It is immediately apparent that on the face of it, there is no discernible analogy between cases concerning arrest and criminal prosecutions and a SLAPP suit defence to a defamation claim. Self-evidently, the law has a real and direct interest in refusing to provide the means for a person who commits a crime to avoid arrest or prosecution by saying that some arresting officer or prosecutor had bad motives. As was said by the Supreme Court of Appeal in Zuma: 
+[2022] JOL 56254 (CC) at 27
+"The motive behind the prosecution is irrelevant because, as Schreiner JA said in connection with arrests, the best motive does not cure an otherwise illegal arrest and the worst motive does not render an otherwise legal arrest illegal. The same applies to prosecutions."59
+
+[61]    Notwithstanding the clearly distinguishable context of the Zuma judgments, the applicants say that it ought to apply in defamation cases as well. They contend that:
+
+"In terms of that dictum, the assessment of whether such actions are unlawful cannot take place without considering the merits of the claim. A party who claims that it has been defamed (on a basis that is not clearly unsustainable) should not be precluded from pursuing an action merely because it has a secondary purpose."
+
+For the reasons that follow, these submissions are only partially sustainable, in my view. While I agree that merits cannot be disregarded in the enquiry of a SLAPP suit defence, the question of motive must also play some role. There is an obvious difference between the legality of an arrest and the law of defamation. The legality of an arrest is an objective question of compliance with the requirements of effecting a lawful arrest. Because the law of defamation weighs up the rights to reputation and the right to freedom of expression, courts are always concerned with defining where that balance is best struck.
+
+[62]    The applicants also seek some support in the two cases cited in Zuma, namely, Tsose60 and Beckenstrater.61 The former concerned an unlawful arrest. Mr Tsose had been arrested on several occasions for contravening section 23 of Proclamation 150 of 1934, 
+[2022] JOL 56254 (CC) at 28
+in respect of the much-hated pass laws which concerned entrance to or presence on certain premises without a permit. Mr Tsose argued that he was arrested so as to prevent him from squatting on the farm. The Appellate Division held that no contravention of the Proclamation had taken place, as Mr Tsose was in lawful residence on the farm and, therefore, his arrest was unlawful. Schreiner JA said that "just as the best motive will not cure an otherwise illegal arrest so the worst motive will not render an otherwise lawful arrest illegal".62
+
+[63]    Beckenstrater is a case about an alleged malicious prosecution. The court had to determine whether the plaintiff had made out a case for the relief sought in respect of the alleged malicious prosecution. It held that in order to succeed, the plaintiff had to prove that the prosecution was actuated by an indirect or improper motive and that there was no reasonable or probable cause for instituting the prosecution. Schreiner JA said that:
+
+". . . persons who have reasonable and probable cause for prosecution should not be deterred from setting the criminal law in motion against those whom they believe to have committed offences, even if in doing so they are actuated by indirect and improper motives."63
+
+[64]    Reliance is also placed on Estate Logie.64 There, a sequestration order was allegedly wrongfully obtained. The allegation was premised on the underlying proceedings allegedly having been brought for an ulterior purpose. In rejecting that contention, the Appellate Division relied on the English case, Ex parte Wilbran,65 where it was held that the motive for asserting a legal right is irrelevant. Thus, held the Appellate Division, there was nothing improper in using sequestration proceedings to secure the payment of a debt.
+
+ 
+[2022] JOL 56254 (CC) at 29
+
+[65]    Bissett66 concerned an application by the partners in a firm of attorneys for an order striking out an action instituted against them by a bank. The bank claimed damages for breach of an implied contractual term that the registration of a bond in respect of the purchase of property by a share block company would be carried out with reasonable professional knowledge, care and skill; alternatively, for breach of duty of care by the applicants for having registered the bond in contravention of the provisions of section 14(1) of the Share Blocks Control Act.67 The ground on which the applicants sought to have the action of the bank set aside was that the bank had already obtained judgment by default on the invalid bond and therefore the action by the bank against the applicants was an abuse of the process of court and it was vexatious for the bank to persist with that action.
+
+[66]    In its reasoning, the court held that it had an inherent power to strike out claims which were vexatious which, in this context, meant frivolous, improper, instituted without proper ground, to serve solely as an annoyance to the defendant. The court went on to find that while an action that was unsustainable was vexatious, that had to appear as a certainty and not merely on a preponderance of probabilities. The court dismissed the application on the basis that in relying on the default judgment obtained by the bank rather than seeking to prove facts showing that the bond was valid, the applicants had failed to show that the action against them was clearly unsustainable on the basis that the bond validly secured the loan.
+
+[67]    The applicants rely on this judgment only to argue that the inherent common-law power to strike out claims which constitute an abuse of process must be exercised with great caution and only in a clear case. There can hardly be any quarrel with that observation.68 But it bears noting that the court in Bissett appears to favour a merits assessment within an abuse of process enquiry by stating that an action which is unsustainable is vexatious. However, the judgment also makes reference to proceedings instituted "solely as an annoyance to the defendant".69 This  
+[2022] JOL 56254 (CC) at 30
+appears to include a consideration of the motive or purpose behind the institution of the claim.
+
+[68]    Like Zuma, the other cases relied upon by the applicants must be distinguished from the present one. As stated, the unlawful arrest and malicious prosecution cases rest on a different substratum – bad motive in and of itself can never be an adequate ground for escaping arrest and prosecution. The criminal law can simply not countenance it. And Estate Logie and Bissett do not bear direct relevance to the issue before this Court. The former must be understood in the context of the finding that the enforcement of a debt by utilising sequestration proceedings is unobjectionable and does not constitute an abuse of process. Bissett also rests on distinguishable facts, but in any event appears to include both merits and motive in its assessment. The respondents' reliance on case law in support of their primary contention that merits do not feature at all in an abuse of process enquiry, also do not bear scrutiny, which is the next topic of discussion.
+
+Cases relied on by the respondents
+
+[69]    Lawyers for Human Rights70 concerned whether a non-governmental organisation should be mulcted with costs for bringing an application late and on an urgent basis. The application was to vindicate constitutional rights, so Biowatch71 applied. But this Court held that if the application constituted an abuse of process, then the applicant could be saddled with costs. In reaching its decision, this Court said:
+
+"Ultimately the inquiry on the appropriateness of the proceedings requires a close and careful examination of all the circumstances. This is what we have to do here. The considerations include the period of the delay between the raids and the application, the reasons for bringing the application and the prejudice, if any, the urgent proceedings caused the respondents"72 (emphasis added).
+
+ 
+[2022] JOL 56254 (CC) at 31
+
+[70]    There the court found, in reliance on Beinash, that "[t]here can be no doubt that every court is entitled to protect itself and others against an abuse of its processes".73 But that dictum cannot be invoked as support of the respondents' stance. That case is plainly distinguishable as it related to an exception to the Biowatch74 rule and this does not give rise to a defence to a substantive claim. This Court merely found that improper motive is a factor to be considered when costs orders are made in constitutional cases. Furthermore, Lawyers for Human Rights differs, because there, court procedures were abused, while in a typical SLAPP suit, litigation is used as a means to some end that might infringe rights. That case can therefore hardly be applied, without more, to the present instance as support for the submission that merits play no role in an abuse of process enquiry.
+
+[71]    In Phillips,75 the facts were as follows. A private prosecution was initiated in relation to fraudulently drawn cheques. It was argued that the private prosecution was instituted as collateral, in order to extort money from the applicant in an amount greater than the fraudulent cheques rather than having criminal justice done to the offender. The Supreme Court of Appeal therefore had to determine whether the private prosecution instituted by the respondent against the applicant constituted an abuse of process. That court held that "[w]here the Court finds an attempt made to use for ulterior purposes machinery devised for the better administration of justice it is the Court's duty to prevent such abuse".76 That power, however, was to be exercised with great caution and only in a clear case. The gravamen of the judgment is that although motive is irrelevant in the case of public prosecutions, it is not permissible to use the power to prosecute for personal financial gain. To do so undermines the objectivity of the prosecuting process. It is not the motive, but the independence of the private prosecutor which was the problem. Again, this case is clearly distinguishable.
+
+ 
+[2022] JOL 56254 (CC) at 32
+
+[72]    Roering77 was an appeal against an order of the High Court setting aside as an abuse of process the summons calling for the MEC for Health in Gauteng, Ms Mahlangu's, appearance before a liquidation enquiry. The Supreme Court of Appeal concluded that there was no evidence that the issuing of the summons constituted an abuse. In upholding the appeal, the court held that the fundamental issue in determining whether there was an abuse was whether the enquiry was being used for a purpose not contemplated by the Act.78 This case, too, does not support the respondents' case. It does not entail a substantive claim based on motive alone.
+
+[73]    Another decision relied on is Gold Fields.79 That was a joinder application in a certification application in a contemplated class action for damages for the contracting of silicosis in certain mines. At issue was whether Motley was sufficiently in control of the certification application and whether it stood to benefit from it to a sufficient degree to justify its joinder. The joinder application was dismissed. The High Court held that there may still be exceptional circumstances in which champertous agreements may in fact constitute an abuse of process, in which case the court would not countenance them. This will be the case, for instance, where the litigation is frivolous or vexatious, or where litigation is being pursued for an ulterior motive.80 It seems to me that the reasoning in the case which dealt with the validity of champertous agreements cannot simply be applied to defamation claims. Champerty is a question of public policy. The question in Gold Fields ultimately turned upon whether there was a sufficient interest to warrant joinder. That is about complying with the requirements for joinder, not using a process to achieve an impermissible end.
+
+[74]    Another case dealing with champertous agreements mentioned in the High Court's judgment is Price Waterhouse Coopers.81 The High Court's reliance on  
+[2022] JOL 56254 (CC) at 33
+Paragraph [50] of that judgment is misconceived. The Supreme Court of Appeal held that no all-embracing definition of "abuse of process" has been formulated in our law. It said that in general, legal process is used properly when it is invoked for the vindication of rights or the enforcement of just claims and it is abused when it is diverted from its true course so as to serve extortion or oppression; or to exert pressure so as to achieve an improper end. The passage that "[p]urpose or motive, even a mischievous or malicious motive, is not in general a criterion for unlawfulness or invalidity", is no authority at all for the proposition that ulterior motive on its own is recognised as an abuse of process giving rise to a self-standing defence to a substantive claim. Improper motive was merely regarded as a factor.
+
+[75]    Lastly, Ascendis82 concerned an application for the revocation of a patent. The question was raised whether findings in a revocation application have a binding effect in a later action based on infringement. This case further raised questions of res judicata,83 issue estoppel and piecemeal litigation in patent disputes. The dictum of Khampepe J relied upon relates to the fact that abuse of process had not been pleaded and therefore no finding needed to be made in this regard. The passage cited is merely a repeat of a well-established principle.
+
+[76]    I conclude by briefly saying something in general about the cases cited by the parties. These cases illustrate the fact that:
+
+sometimes, motive is constitutive of the cause of action for example, in a malicious prosecution;
+sometimes, the reason for the action is irrelevant, it is the legality of the action that counts for example, in an unlawful arrest;
+sometimes, it is the abuse of the court's processes that warrants sanction for example, in the case of Cassimjee;84 and
+SLAPP cases use the processes of the court with no evident abuse but to achieve an end that may be harmful for other reasons. 
+[2022] JOL 56254 (CC) at 34
+
+These categories can easily be confused as the parties do in this case.
+
+[77]    What then, is the position in our law – is there room for a SLAPP suit defence to be accommodated in the abuse of process doctrine? What role, if any, does motive and merit play?
+
+Abuse of process and the SLAPP suit defence
+
+[78]    There are two divergent positions postulated before us – as the applicants would have it, motive should play no role whatsoever in the enquiry whether the SLAPP suit defence can be accommodated in the abuse of process doctrine, and merits should be the only factor. Conversely, the respondents submit that the only criterion should be motive, and merits should play no role at all. As I see it, however, both motive and merits must play a role in that enquiry.
+
+[79]    The debate between the parties regarding the role of motive and merits in the abuse of proceedings doctrine appears to disregard the definition of a SLAPP suit outlined above. It also appears, from the case law relied on by each party, that their arguments went past each other. The respondents relied on case law broadly dealing with ulterior purpose in court proceedings. In that type of case, merits are not a consideration and motive alone is determinative. However, ulterior purpose and SLAPP ought not to be conflated in this way. On the other hand, the applicants rely heavily on Maphanga, which dealt with frivolous and vexatious proceedings. That type of abuse of process requires an assessment of the merits and a lack of merits alone cannot be determinative of an abuse in this instance. The parties' referencing of case law has not been particularly helpful. They each sought to show that there are cases of abuse that either place emphasis on ulterior purpose or on the merits. As I have sought to demonstrate, these cases fall into quite distinct categories which have little bearing on the problem before us, and they are of slight analogical relevance.
+
+[80]    As has already been established, there are various types of abuse of process and the dictum in Maphanga does not apply to all of them. The characteristics of a SLAPP suit are plainly distinguishable from frivolous and vexatious proceedings and Maphanga therefore does not find application in this case. For example, SLAPP  
+[2022] JOL 56254 (CC) at 35
+does not require the presence of a range of vexatious suits for the test to be met – just one suit would be sufficient. Maphanga may, however, find relevance in terms of the potential development of the common law in finding that determining a SLAPP suit requires an assessment of the merits.
+
+[81]    The applicants concede that had the respondents as defendants pleaded that these proceedings constituted an abuse of process, taking into account all relevant factors, including motive and merits, they would not have been in a position to have raised an exception. It is the special plea, narrowly defined in terms of motive alone, which the applicants argue is problematic. In my view, this is correct.
+
+[82]    As set out above, true SLAPP suits, as they operate in other jurisdictions, have particular features which require a more nuanced approach than simply ulterior purpose. It appears that both parties have used the term "abuse of process" too broadly and interchangeably with ulterior purpose and frivolous and vexatious proceedings, respectively. This is problematic in light of the fact that each of them relied on case law relating to a particular form of an abuse of process which have features and characteristics which are distinguishable from one another. A pure SLAPP suit defence is somewhat more nuanced than that of ulterior purpose and it seems to me that the respondents have conflated the two. It also does not fall within the category of frivolous and vexatious proceedings and the applicants' reliance on Maphanga is misconceived.
+
+[83]    What bears consideration is whether the defence as set out in the defendants' special plea constitutes a good defence in our law. There is certainly room for an argument that where a court recognises a species of abuse of that kind, as either completely new or as a variation or expansion of an existing type of abuse, it does so merely as part of regulating its own processes. In that instance, there is no need to develop the common law as the doctrine of abuse of process can accommodate this kind of defence, of the SLAPP nature. Before making that determination, it is useful to consider how other jurisdictions have accommodated the SLAPP suit defence.
+
+ 
+[2022] JOL 56254 (CC) at 36
+
+The position in the United States of America and Canada
+
+[84]    In the United States of America, 28 states, the District of Columbia, and one US territory have enacted anti-SLAPP statutes. Furthermore, rule 11 of the Federal Rules of Civil Procedure is fashioned to prevent litigants from filing lawsuits and claims "for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of litigation" in federal courts. The approach adopted there is aimed at providing a quick, effective, and inexpensive mechanism to combat SLAPP suits. Anti-SLAPP laws enable those subject to a SLAPP suit to seek early dismissal and often obtain financial relief for possible future costs.
+
+[85]    Generally speaking, anti-SLAPP legislation entails a quick and inexpensive application at an early stage of a SLAPP suit for the claim to be struck out. The onus is on the defendant to establish that it is worthy of protection and that the plaintiff's claim lacks genuine substance or prospects of success. The role of the merits of the claim bears noting. If established, the burden shifts to the plaintiff to establish a reasonable prospect of success of its claim. In certain states, such as California and Connecticut, anti-SLAPP legislation protects speech published in any forum regarding any issue, while others, such as Missouri, protect only speech relating to an issue of public importance published in certain forums.
+
+[86]    California's law exemplifies the factors that are to be taken into account in anti-SLAPP proceedings. As stated, the procedure is regulated by section 425.16 of the Californian Code of Civil Procedure. A defendant confronted with a lawsuit that threatens its participation in a matter of public significance in furtherance of its free speech rights, may bring a special motion to strike the lawsuit. The motion must be brought at an early stage – within 60 days of service of the impugned lawsuit or at any later time that the court may deem proper – and shall be set down for hearing no more than 30 days thereafter. Launching a special motion to strike stays the impugned lawsuit prior to the discovery stage. The motion places an onus on the plaintiff in the impugned lawsuit to establish the merits of its claim – it must establish a "probability that [it] will prevail on the claim".85 This determination is made with reference to the pleadings in the impugned lawsuit and the affidavits filed in the  
+[2022] JOL 56254 (CC) at 37
+special motion. Clearly, both the merits (probability of success) and motive play a role.
+
+[87]    Ontario's Protection of Public Participation Act, 2015, is an excellent example from Canada. That Act amended the courts of Justice Act of 1990, by introducing, in relevant part, sections 137.1–137.5. Section 137.1(3) places an initial burden on the applicant (there referred to as "the moving party") – the defendant in a lawsuit – to satisfy the motion Judge that the proceeding initiated against them arises from expression relating to a matter of public interest. This burden is a threshold one, meaning it is necessary for the moving party to meet in order to proceed to section 137.1(4) for the ultimate determination of whether the underlying proceeding should be dismissed. Then, if the threshold burden under section 137.1(3) is met by the moving party (the defendant), the burden shifts to the responding party (the plaintiff) to avoid having their proceeding dismissed. Under section 137.1(4), the plaintiff must satisfy the motion Judge that: 
+
+there are grounds to believe that their underlying proceeding has substantial merit and the defendant has no valid defence; and 
+the harm likely to be or having been suffered and the corresponding public interest in permitting the proceeding to continue outweighs the public interest in protecting the expression. 
+
+If either (a) or (b) is not met, then this will be fatal to the plaintiff discharging its burden and, as a consequence, the underlying proceeding will be dismissed. However, if the plaintiff can show that both are met, then the proceeding will be allowed to continue. Thus, both motive and merits play decisive roles.
+
+[88]    Having considered these jurisdictions, the next aspect for consideration is whether our common law does accommodate a SLAPP suit defence.
+
+A SLAPP suit defence under our present common law
+
+[89]    As stated, reduced to its core, the respondents' defence in respect of the SLAPP special plea is to rely upon an abuse of process. And I have pointed out that in Lawyers for Human Rights, this Court endorsed Beinash.86 In Beinash, the  
+[2022] JOL 56254 (CC) at 38
+Supreme Court of Appeal confirmed a court's powers to protect its own processes by thwarting abuse of process:
+
+"There can be no doubt that every court is entitled to protect itself and others against an abuse of its processes. Where it is satisfied that the issue of a subpoena in a particular case indeed constitutes an abuse it is quite entitled to set it aside."87
+
+[90]    A determination of what constitutes abuse of process will always be fact-specific and there can be no all-encompassing definition of it.88 A close examination of all the relevant circumstances must be made.89
+
+[91]    Abuse of process can, as stated, appear in different forms. That is evident from the cases discussed. The first, and arguably most common, type of abuse of process is the use of the rules of court, for example to delay a case or to deliberately misemploy a claim for urgency. This is the most obvious sense of abuse, as procedural rules are employed in a fashion they were not intended to be used so that offence is caused to the courts' integrity and efficacy. This kind of abuse is also prejudicial to the other parties.
+
+[92]    The second type of abuse is that of the vexatious litigant who repeatedly brings unmeritorious cases. The focus then is upon the nature of the case, rather than the procedure employed. The vexatious litigant unreasonably, persistently and habitually brings unsustainable cases. Then there are those cases of illegal conduct where the underlying reasons that motivated it being brought is irrelevant. The sole issue is its illegality. Illegal arrest is an example of these cases. They do not abuse court process, but are illegal in respect of other processes and thus also constitutes a form of abuse. That is the third type of abuse. The fourth type of abuse is where  
+[2022] JOL 56254 (CC) at 39
+conduct plays a central, indispensable role. Cases like malicious prosecution or the integrity of a private prosecution fall into this category.
+
+[93]    These various forms, though often referred to as abuse of process, do not have one common feature. Not all of them ought really to be called abuse of process. There is another species of abuse, though, that does in my view deserve the nomenclature abuse of process. It is in the form of what we have before us in this matter.
+
+[94]    Hypothetically, a plaintiff may sue for defamation in circumstances where there are very little, if any, prospects of establishing a case for defamation. The defendant is in a position to show that the defamation action is being brought not to vindicate the plaintiff's right to a good name and reputation, but to silence the defendant or to burden the defendant in a manner that causes grave harm to the defendant's right of expression and the public interest that is being served by that expression, with the likelihood that pursuing the action will have that negative effect. In that instance, court process is not being used to resolve a genuine dispute, but rather is employed to achieve a result that undermines the rights in the Constitution. One may call this, for present purposes, "abusive litigation". It would self-evidently not be easy to establish a case of abusive litigation, but if one is able to do so, abusive litigation would have nothing to do with the right to access to courts in section 34 of the Constitution. Instead, it would simply be about the use of court process and associated legal costs as a means to an impermissible end, likely to cause appreciable damage to fundamental rights. It is thus about motive and consequence.
+
+[95]    Framed in that manner, abusive litigation would fall within the common law doctrine of abuse of process. It would consist of a consideration of both the merits of and the motives for bringing the case, with its likely consequences. The merits are relevant to the question whether the plaintiff has a right to vindicate. The motive for bringing the case is relevant to the true object of the litigation. The likely effects of the suit bring into the reckoning what harm to free expression may result. If the case ultimately succeeds, the court would not be ensuring that justice is done as the overriding principle, but would instead be the means to an end that is likely to gravely  
+[2022] JOL 56254 (CC) at 40
+harm fundamental rights. This the court cannot allow. Courts have the power – at common law and under section 173 of the Constitution – to prevent this type of abuse.
+
+[96]    This approach is consonant with the doctrine of abuse of process as it now operates. It upholds the integrity of court process and resists the use of that process to achieve ulterior, nefarious ends not countenanced by the law, particularly the Constitution. It can conceivably accommodate the SLAPP type of defence pleaded by the defendants. Plainly, in the present instance, the defendants will have to prove at trial that the defamation suit brought by the plaintiffs:
+
+is an abuse of process of court;
+is not brought to vindicate a right;
+amounts to the use of court process to achieve an improper end and to use litigation to cause the defendants financial and/or other prejudice in order to silence them; and
+violates, or is likely to violate, the right to freedom of expression entrenched in section 16 of the Constitution in a material way.
+
+[97]    While, as stated, what the respondents raised is in effect a SLAPP suit defence, their understanding of that defence differs from that in the United States of America and Canada in so far as the respondents contend that the defence can be found on ulterior purpose alone. That the contours of that defence may differ in other jurisdictions is not determinative of the question before us. We must have regard to the exact terms in which this defence was raised by the respondents in their special plea. It may well be that the scope and definition of a SLAPP suit defence in South Africa need not mimic other jurisdictions. However, this cannot bring us to the conclusion that a SLAPP suit defence can be based on ulterior purpose alone. This is because it was conceded during oral argument by both parties that a consideration of both merits and motive is required, as well as the fact that a consideration of the lack of merits will inform the ulterior purpose. Furthermore, the respondents relied on case law dealing with ulterior purpose in court process, where merits are absent, which is of limited assistance. It bears repetition that merits play a central role in a SLAPP suit defence. This means that there is no need to engage in a section 34 analysis.
+
+ 
+[2022] JOL 56254 (CC) at 41
+
+[98]    I have set out the component parts of the SLAPP suit defence in our law, as a species of the common-law doctrine of abuse of process. The respondents' first special plea, as pleaded, is predicated upon the proposition that the actions are brought for an ulterior purpose. As I have explained, the respondents supported their special plea on the basis that improper motive alone suffices to warrant dismissal of the actions. That is not so. The merits also bear consideration. It follows that the first special plea does lack averments necessary to satisfy the requirements of the SLAPP suit defence. To this extent, the exception taken by the applicants holds good, and must be upheld. However, the substantive grounds upon which the exception was pleaded have not been sustained. I have found that the SLAPP suit defence does form part of our law. To make out the defence requires more than the respondents pleaded, but the defence commands a place in our law that the applicants have unsuccessfully resisted. This has consequences both for the order to be made and the question of costs.
+
+[99]    The foregoing conclusion means that it is not necessary to consider whether the common law needs to be developed, since it already has room for this type of defence in the doctrine of abuse of process. It is for Parliament to consider whether a more comprehensive, specific SLAPP suit defence of the kind developed in Canada and the United States of America, ought to be legislated here. After all, Parliament is, generally speaking, the main engine for law reform.90
+
+Conclusion
+
+[100]    SLAPP suits appear to be on the increase here,91 as is the case globally.92 The finding here that the common-law doctrine of abuse of process can accommodate the SLAPP suit defence ensures that courts can protect their own integrity by guarding over the use of their processes. And, ultimately, it ensures that  
+[2022] JOL 56254 (CC) at 42
+the law serves its primary purpose, to see that justice is done, and not to be abused for odious, ulterior purposes.
+
+[101]    The applicants' exception was properly taken, at least to the extent that it stated that the respondents' first special plea lacked averments necessary to sustain a defence. The first special plea cannot be allowed to stand. The exception must be upheld, and for this reason, so too, the appeal. The respondents must be afforded the opportunity to amend their first special plea, should they wish to do so.
+
+[102]    That leaves the question of costs, first, in this Court. The applicants have enjoyed success in that the first special plea has been found to be excipiable. But they have prevailed for reasons not relied upon in their exception. The respondents have secured the recognition of the SLAPP suit defence, albeit not on the basis that they pleaded the defence, or supported the defence in their submissions. The respondents' success is, nonetheless, substantial and they deserve part of their costs. In the premises, I propose making an apportionment of the costs in this Court. Second, with regard to the costs in the High Court, for the reasons advanced, I am of the view that each party should pay its own costs. Although the mining companies have been successful in having their exception upheld, the basis for this Court doing so was not as claimed by the mining companies. The High Court costs order against the mining companies ought therefore to be set aside and substituted with the one proposed. The differentiation in the costs orders is premised on the fact that the substantive outcome was fashioned in this Court, and it would be equitable to make different costs orders in the two courts.
+
+Order
+
+[103]    The following order is made:
+
+Leave to appeal directly to this Court is granted.
+The appeal is upheld.
+The order of the High Court is set aside, and the following order is made:
+The plaintiffs' exception to the first special plea of the defendants is upheld on the basis that the first special plea lacks averments necessary to establish a defence. 
+[2022] JOL 56254 (CC) at 43
+The defendants are afforded 30 days from the date of this order to seek leave to amend their first special plea, failing which, the first special plea is dismissed.
+The applicants are ordered to pay 60% of the respondents' costs in this Court, including the costs of two counsel.
+Each party must pay its own costs in the High Court.
+
+(Kollapen, Madlanga, Mathopo, Mhlantla, Theron, Tshiqi JJ, Mlambo and Unterhalter AJJ concurred in the judgment of Majiedt J.)
+
+
+
+Footnotes
+1	 See Phooko "What should be the form of public participation in the law-making process? An analysis of South African cases" (2014) Obiter 39 at 58. Phooko writes that "facilitating public participation is more than just hearing people's views, rather the views should have an influence in the end products".
+2	1704604 Ontario Ltd v Pointes Protection Association 2020 SCC 22 449 DLR (4th) 1 (Pointes) at para [2]. For ease of reference, I shall use the acronym SLAPP throughout.
+3	There are some though who will say that while the nomenclature is new, the phenomenon is not.
+4	Although there are three separate cases with different case numbers in the High Court, only one judgment was delivered in respect of them and there is only one application in this Court. The applicants and respondents are therefore numbered differently in this Court and the High Court.
+5	Mineral Sands Resources (Pty) Ltd v Redell [sic] and Two Related Cases 2021 (4) SA 268 (WCC) [also reported at [2021] JOL 49560 (WCC), [2021] 2 All SA 183 (WCC) – Ed].
+6	Media 24 Ltd and others v SA Taxi Securitisation (Pty) Ltd [2011] ZASCA 117, 2011 (5) SA 329 (SCA) [also reported at [2011] JOL 26339 (SCA), [2011] 4 All SA 9 (SCA) – Ed].
+7	An e-book is a book publication made available in digital form. The first e-book, is Clarke The Promise of Justice (2013), and the second is Clarke Survivor: Wild Coast – Before and Beyond "The Shore Break" (2015).
+8	 Clarke "Behind the Irony Curtain: Blood Diamond, Xolobeni and the Real Story of MRC" Medium (25 March 2018), available at https://johngiclarke.medium.com/behind-the-irony-curtain-blood-diamond-xolobeni-and-the-real-story-of-mrc-6a626c9c2913.
+9	 Act 3 of 1956.
+10	Zweni v Minister of Law and Order [1992] ZASCA 197, 1993 (1) SA 523 (A) [also reported at [1993] 1 All SA 365 (A) – Ed].
+11	Id at 532J–533A.
+12	International Trade Administration Commission v SCAW South Africa (Pty) Ltd [2010] ZACC 6, 2012 (4) SA 618 (CC), 2010 (5) BCLR 457 (CC) [also reported at [2010] JOL 25115 (CC) – Ed] at para [53].
+13	 In this regard, the applicants cite Khumalo and others v Holomisa [2002] ZACC 12, 2002 (5) SA 401 (CC), 2002 (8) BCLR 771 (CC) [also reported at [2002] JOL 9862 (CC) – Ed] at para [11].
+14	The so-called corporate defamation defence alluded to at para [7].
+15	Member of the Executive Council for the Department of Co-operative Governance and Traditional Affairs v Maphanga [2019] ZASCA 147, 2021 (4) SA 131 (SCA) [also reported at [2019] JOL 46276 (SCA), [2020] 1 All SA 52 (SCA) – Ed].
+16	MEC for Health and Social Development, Gauteng v DZ obo WZ [2017] ZACC 37, 2018 (1) SA 335 (CC), 2017 (12) BCLR 1528 (CC) at para [31].
+17	Lawyers for Human Rights v Minister in the Presidency and others [2017] ZACC 22, 2017 (5) SA 480 (CC), 2017 (10) BCLR 1242 (CC) [sic: [2016] ZACC 45, 2017 (1) SA 645 (CC), 2017 (4) BCLR 445 (CC) – Ed] [also reported at [2016] JOL 37003 (CC) – Ed].
+18	They cite Ascendis Animal Health (Pty) Ltd v Merck Sharpe Dohme Corporation and others [2019] ZACC 41, 2020 (1) SA 327 (CC), 2020 (1) BCLR 1 (CC) [also reported at [2019] JOL 46071 (CC) – Ed] ("Ascendis"); Roering NO and another v Mahlangu and others [2016] ZASCA 79, 2016 (5) SA 455 (SCA) [also reported at [2016] JOL 36031 (SCA), [2016] 3 All SA 466 (SCA) – Ed]; Phillips v Botha [1998] ZASCA 105, 1999 (2) SA 555 (SCA) [also reported at [1998] JOL 4278 (A), [1999] 1 All SA 524 (A) – Ed]; Gold Fields Ltd and others v Motley Rice LLC 2015 (4) SA 299 (GJ) [also reported at [2015] JOL 33171 (GJ), [2015] 2 All SA 686 (GJ) – Ed].
+19	Maphanga above fn 15.
+20	DZ above fn 16.
+21	In this regard, the respondents cite the Supreme Court of Appeal's judgments in Children's Resource Centre Trust and others v Pioneer Food (Pty) Ltd and others [2012] ZASCA 182, 2013 (2) SA 213 (SCA) [also reported at [2013] JOL 29858 (SCA), [2013] 1 All SA 648 (SCA), 2013 (3) BCLR 279 (SCA) – Ed] and Mukaddam v Pioneer Foods (Pty) Ltd and others [2013] ZACC 23, 2013 (5) SA 89 (CC), 2013 (10) BCLR 1135 (CC).
+22	H v Fetal Assessment Centre [2014] ZACC 34, 2015 (2) SA 193 (CC), 2015 (2) BCLR 127 (CC) [also reported at [2015] JOL 32668 (CC) – Ed].
+23	S v Boesak [2000] ZACC 25, 2001 (1) SA 912 (CC), 2001 (1) BCLR 36 (CC).
+24	 Compare the comments of the Supreme Court of Appeal in Company Secretary, Arcelormittal South Africa Ltd and another v Vaal Environmental Justice Alliance [2014] ZASCA 184, 2015 (1) SA 515 (SCA) [also reported at [2015] JOL 32582 (SCA), [2015] 1 All SA 261 (SCA) – Ed] at para [1], where the court noted:
+  "First, the world, for obvious reasons, is becoming increasingly ecologically sensitive. Second, citizens in democracies around the world are growing alert to the dangers of a culture of secrecy and unresponsiveness, both in respect of governments and in relation to corporations. In South Africa, because of our past, the latter aspect has increased significance."
+  And, at para [71], it said:
+  "It is clear, therefore, in accordance with international trends, and constitutional values and norms, that our legislature has recognised, in the field of environmental protection, inter alia, the importance of consultation and interaction with the public. After all, environmental degradation affects us all. One might rightly speak of collaborative corporate governance in relation to the environment."
+25	S 16 of the Constitution, which reads:
+ "(1) Everyone has the right to freedom of expression, which includes–
+ (a) freedom of the press and other media;
+ (b) freedom to receive or impart information or ideas;
+ (c) freedom of artistic creativity; and
+ (d) academic freedom and freedom of scientific research.
+ (2) The right in subsection (1) does not extend to–
+ (a) propaganda for war;
+ (b) incitement of imminent violence; or
+ (c) advocacy of hatred that is based on race, ethnicity, gender or religion, and that constitutes incitement to cause harm."
+26	S 34 of the Constitution, which reads:
+  "Everyone has the right to have any dispute that can be resolved by the application of law decided in a fair public hearing before a court or, where appropriate, another independent and impartial tribunal or forum."
+27	Khumalo above fn 13 at para [7]; see also Baloyi v Public Protector and others [2020] ZACC 27, 2022 (3) SA 321 (CC), 2021 (2) BCLR 101 (CC) [also reported at [2020] JOL 49101 (CC), [2021] 4 BLLR 325 (CC) – Ed] at para [13]; Public Protector v Commissioner for the South African Revenue Service and others [2020] ZACC 28, 2022 (1) SA 340 (CC), 2021 (5) BCLR 522 (CC) [also reported at [2021] JOL 49179 (CC) – Ed] at para [16] and United Democratic Movement v Speaker, National Assembly and others [2017] ZACC 21, 2017 (5) SA 300 (CC), 2017 (8) BCLR 1061 (CC) [also reported at [2017] JOL 38090 (CC) – Ed] at para [23].
+28	Khumalo id at para [16].
+29	South African Informal Traders Forum and others v City of Johannesburg and others; South African National Traders Retail Association v City of Johannesburg and others [2014] ZACC 8, 2014 (4) SA 371 (CC), 2014 (6) BCLR 726 (CC) at para [20].
+30	Zweni above fn 10 at 532J–533A.
+31	Minister of Safety and Security an another v Hamilton [2001] ZASCA 27, 2001 (3) SA 50 (SCA) at 53D–E [also reported at [2001] JOL 8064 (A) – Ed].
+32	National Treasury and others v Opposition to Urban Tolling Alliance and others [2012] ZACC 18, 2012 (6) SA 223 (CC), 2012 (11) BCLR 1148 (CC) [also reported at [2012] JOL 29422 (CC) – Ed] at para [25].
+33	R 19(2) reads:
+  "A litigant who is aggrieved by the decision of a court and who wishes to appeal against it directly to the court on a constitutional matter shall, within 15 days of the order against which the appeal is sought to be brought and after giving notice to the other party or parties concerned, lodge with the Registrar an application for leave to appeal: Provided that where the President has refused leave to appeal the period prescribed in this rule shall run from the date of the order refusing leave."
+34	 S 167(6) reads:
+  "National legislation or the rules of the Constitutional Court must allow a person, when it is in the interests of justice and with leave of the Constitutional Court–
+ (a) to bring a matter directly to the Constitutional Court; or
+ (b) to appeal directly to the Constitutional Court from any other court."
+35	Baliso v FirstRand Bank Ltd t/a Wesbank [2016] ZACC 23, 2017 (1) SA 292 (CC), 2016 (10) BCLR 1253 (CC) [also reported at [2016] JOL 36358 (CC) – Ed].
+36	Stewart and another v Botha and another [2008] ZASCA 84, 2008 (6) SA 310 (SCA) [also reported at [2009] JOL 24012 (SCA), [2009] 4 All SA 487 (SCA) – Ed] at para [4].
+37	Charlton v Parliament of the Republic of South Africa [2011] ZASCA 132, 2012 (1) SA 472 (SCA) [also reported at [2011] JOL 27799 (SCA) – Ed] at para [1].
+38	 Canan and Pring "Studying strategic lawsuits against public participation: Mixing quantitative and qualitative approaches" (1988) 22 Law & Society Review at 2; Canan "The SLAPP from, a sociological perspective" (1989) 7 Pace Environmental Law Review at 23; Pring "SLAPPs: Strategic lawsuits against public participation" (1989) 7 Pace Environmental Law Review at 3.
+39	Murombo and Valentine "SLAPP suits: An emerging obstacle to public interest environmental litigation in South Africa" (2011) 27 South African Journal on Human Rights at 82.
+40	See Hartzler "Protecting informed public participation: Anti-SLAPP law and the media defendant" (2007) 41 Valparaiso University Law Review at 1235.
+41	In Price v Stossel 620 F 3d 992 (9th Cir 2010), this was described as follows:
+  "The hallmark of a SLAPP suit is that it lacks merit, and that it is brought with the goals of obtaining an economic advantage over a citizen party by increasing the cost of litigation to the point that the citizen party's case will be weakened or abandoned. The anti-SLAPP statute attempts to counteract the chilling effect of strategic suits by providing that such suits should be dismissed under a special motion to strike."
+42	 S 24 of the Constitution provides:
+  "Everyone has the right–
+ (a) to an environment which is not harmful to their health or well-being; and
+ (b) to have the environment protected, for the benefit of present and future generations, through reasonable legislative and other measures that–
+ (i) prevent pollution and ecological degradation;
+ (ii) promote conservation; and
+ (iii) secure ecologically sustainable development and use of natural resources while promoting justifiable economic and social development."
+  S 2(4)(f) of the National Environmental Management Act 107 of 1998 ("NEMA") reads:
+  "The participation of all interested and affected parties in environmental governance must be promoted, and all people must have the opportunity to develop the understanding, skills and capacity necessary for achieving equitable and effective participation, and participation by vulnerable and disadvantaged persons must be ensured."
+43	Most notably, in California, SLAPP suits are regulated by s 425.16 of the Code of Civil Procedure; in British Columbia, Canada, SLAPP suits are regulated by the Protection of Public Participation Act, 2019; in Ontario, Canada, of application is the Protection of Public Participation Act, 2015; and in the Australian Capital Territory, SLAPP suits are regulated by the Public Participation Act, 2008.
+44	 S 425.16(a) of the Code of Civil Procedure.
+45	Pointes above fn 2 at para [2].
+46	 Lawyers for Human Rights above fn 17.
+47	Beinash v Wixley [1997] ZASCA 32, 1997 (3) SA 721 (SCA) [also reported at [1997] 2 All SA 241 (A) – Ed], cited at para [20] of Lawyers for Human Rights id.
+48	Id at 734F–G.
+49	Id at 734D.
+50	Lawyers for Human Rights above fn 17 at para [21].
+51	Phillips above fn 18 at 565E.
+52	Judgment of Khampepe J in Ascendis above fn Error! Bookmark not defined. at para [40].
+53	Cassimjee v Minister of Finance [2012] ZASCA 101, 2014 (3) SA 198 (SCA) [also reported at [2012] JOL 29651 (SCA) – Ed].
+54	Maphanga above fn 15 and the cases cited there.
+55	Id at para [25].
+56	National Director of Public Prosecutions v Zuma [2009] ZASCA 1, 2009 (2) SA 277 (SCA) [also reported at [2009] JOL 22975 (SCA), [2009] 2 All SA 243 (SCA), 2009 (4) BCLR 393 (SCA) – Ed].
+57	Maphanga above fn 15 at para [26].
+58	Id at para [28].
+59	Zuma above fn 56 at para [37]; see also Zuma v Democratic Alliance and others [2017] ZASCA 146, 2018 (1) SA 200 (SCA) [also reported at [2017] 4 All SA 726 (SCA) – Ed] at para [88]:
+  "Once it is accepted that the motive for a prosecution is irrelevant where the merits of the case against an accused are good, the motive for the timing of an indictment to begin the prosecution must equally be so."
+60	Tsose v Minister of Justice and others 1951 (3) SA 10 (A) [also reported at [1951] 3 All SA 158 (A) – Ed].
+61	Beckenstrater v Rottcher and Theunissen 1955 (1) SA 129 (A).
+62	Tsose above fn 60 at 17G–H.
+63	Beckenstrater above fn 62 at 135D–E.
+64	Estate Logie v Priest 1926 AD 312 at 320–32.
+65	Ex parte Wilbran (5 Madd. 1).
+66	Bissett and others v Boland Bank Ltd and others 1991 (4) SA 603 (D) [also reported at [1991] 2 All SA 271 (D) – Ed].
+67	 Act 59 of 1980.
+68	The same was said in Maphanga above fn 15 at para [26].
+69 	Bissett above fn 66 at 604E.
+70	Lawyers for Human Rights above fn Error! Bookmark not defined.
+71	Biowatch Trust v Registrar, Genetic Resources and others [2009] ZACC 14, 2009 (6) SA 232 (CC), 2009 (10) BCLR 1014 (CC) [also reported at [2009] JOL 23693 (CC) – Ed].
+72	Lawyers for Human Rights above fn 17 at para [21].
+73	Id at para [20].
+74	Biowatch above fn 71.
+75	Phillips above fn Error! Bookmark not defined..
+76	Id at 565G–H.
+77	Roering above fn 18.
+78	Id at para [35].
+79	Gold Fields above fn 18.
+80	Id at para [28].
+81	Price Waterhouse Coopers Inc and others v National Potato Co-operative Ltd [2004] ZASCA 64, 2004 (6) SA 66 (SCA) [also reported at [2005] JOL 12757 (SCA) – Ed].
+82	Ascendis above fn 18.
+83	 That is, whether the substance of the matter has already been judged.
+84	Cassimjee above fn 53.
+85	S 425.16(2) of the Code of Civil Procedure.
+86	Beinash above fn 47.
+87	Id at para [28]. The court referred to Hudson v Hudson 1927 AD 259 at 268 where the following was held:
+  "When . . . the court finds an attempt made to use for ulterior purposes machinery devised for the better administration of justice, it is the duty of the court to prevent such abuse."
+88	Id.
+89	Lawyers for Human Rights above fn 17 at para [21].
+90	Carmichele v Minister of Safety and Security [2001] ZACC 22, 2001 (4) SA 938 (CC), 2001 (10) BCLR 995 (CC) [also reported at [2001] JOL 8613 (CC) – Ed] at para [36].
+91	 See Murombo and Valentine above fn 39, who describe SLAPP suits as "an emerging obstacle".
+92	The Info Note on SLAPPs and FoAA rights of the United Nations Special Rapporteur on the Rights to Freedom of Peaceful Assembly and Association, Annalisa Ciampi, records that "SLAPPs have seen a significant increase worldwide" available at: https://www.ohchr.org/Documents/Issues/FAssociation/InfoNoteSLAPPsFoAA.docx.
+
+Appearance:
+Adv P Hodes SC, Adv J de Waal SC, Adv C Quinn, Kudo Law (At); Adv G Budlender SC, Adv S Budlender SC, Adv S Kazee, Adv E Cohen, Webber Wentzel (R); Adv L Phasha, Adv K Thobakgale, Centre for Applied Legal Studies (1amicus curiae), Adv J Bhima, Adv M Marongo, Lawyers for Human Rights (2amicus curiae)
+
+
+End of Document

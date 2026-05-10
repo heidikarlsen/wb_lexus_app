@@ -1,0 +1,389 @@
+REPUBLIC OF SOUTH AFRICA
+
+
+
+PROTECTED DISCLOSURES AMENDMENT BILL
+
+
+
+
+
+
+
+
+
+
+
+(As introduced in the National Assembly (proposed section 75); explanatory summary of Bill published in Government Gazette No.	of 2015)
+(The English text is the off?cial text of the Bill)
+
+
+
+
+
+
+
+
+
+(MINISTER OF JUSTICE AND CORRECTIONAL SERVICES)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[B —2015]	ISBN 978-1-4850-0000-0
+No. of copies printed	1 800
+
+GENERAL EXPLANATORY NOTE:
+
+[	]	Words in bold type in square brackets indicate omissions from existing enactments.
+		Words underlined with a solid line indicate insertions in existing enactments.
+
+
+
+
+
+
+BILL
+
+To amend the Protected Disclosures Act, 2000, so as to extend the application of the Act to any person who works or worked for the State or another person or who in any manner assists or assisted in carrying on or conducting the business of an employer or client as an independent contractor, consultant, agent or person rendering services to a client while being employed by a temporary employment service; to regulate joint liability of employers and their clients; to introduce a duty to inform employees or workers who have disclosed information regarding unlawful or irregular conduct; to provide for immunity against civil and criminal liability flowing from a disclosure of information which shows or tends to show that a criminal offence has been committed, is being committed or is reasonably likely to be committed; and to provide for matters connected therewith.
+
+PARLIAMENT of the Republic of South Africa enacts, as follows:—
+Amendment of section 1 of Act 26 of 2000
+  1. Section 1 of the Protected Disclosures Act, 2000 (hereinafter referred to as the principal Act), is hereby amended—	5
+(a) by the insertion of the following definition before the definition of ‘‘disclosure’’:
+‘‘ ‘business’ includes the whole or part of any business, trade, undertaking or service;’’;
+(b) by the substitution for the definition of ‘‘disclosure’’ of the following	10
+definition:
+‘‘ ‘disclosure’ means any disclosure of information regarding any conduct of an employer, or of an employee or of a worker of that employer, made by any employee or worker who has reason to believe
+that the information concerned shows or tends to show one or more of the	15
+following:
+(a) That a criminal offence has been committed, is being committed or is likely to be committed;
+(b) that a person has failed, is failing or is likely to fail to comply with
+any legal obligation to which that person is subject;	20
+(c) that a miscarriage of justice has occurred, is occurring or is likely to occur;
+
+(d) that the health or safety of an individual has been, is being or is likely to be endangered;
+(e) that the environment has been, is being or is likely to be damaged;
+(f) unfair discrimination as contemplated in Chapter II of the Employ-ment Equity Act, 1998 (Act No. 55 of 1998), or the Promotion of	5 Equality and Prevention of Unfair Discrimination Act, 2000 (Act
+No. 4 of 2000); or
+(g) that any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed;’’;
+(c) by the substitution for the definition of ‘‘employee’’ of the following 10 definition:
+‘‘ ‘employee’ means—
+(a) any person, excluding an independent contractor, who works or worked for another person or for the State, and who receives, or is entitled to receive, any remuneration; and	15
+(b) any other person who in any manner assists or assisted in carrying on or conducting or conducted the business of an employer;’’;
+(d) by the substitution for the definition of ‘‘occupational detriment’’ of the following definition:
+‘‘ ‘occupational detriment’, in relation to [the working environment	20
+of] an employee or a worker, means—
+(a) being subjected to any disciplinary action;
+(b) being dismissed, suspended, demoted, harassed or intimidated;
+(c) being transferred against his or her will;
+(d) being refused transfer or promotion;	25
+(e) being subjected to a term or condition of employment or retirement which is altered or kept altered to his or her disadvantage;
+(f) being refused a reference, or being provided with an adverse reference, from his or her employer;	30
+(g) being denied appointment to any employment, profession or office;
+(h) being subjected to any civil claim for the alleged breach of a duty of confidentiality or a confidentiality agreement arising out
+of the disclosure of a criminal offence;	35
+[(h)] (i) being threatened with any of the actions referred to in paragraphs (a) to [(g)] (h) above; or
+[(i)] (j) being otherwise adversely affected in respect of his or her employment, profession or office, including employment oppor-tunities, [and] work security and the retention or acquisition of	40
+contracts to perform work or render services;’’;
+(e) by the substitution in the definition of ‘‘protected disclosure’’ for the words following paragraph (e) of the following words:
+‘‘but does not include a disclosure—
+(i) in respect of which the employee or worker concerned	45
+commits an offence by making that disclosure; or
+(ii) made by a legal adviser to whom the information concerned was disclosed in the course of obtaining legal advice in accordance with section 5;’’;
+(f) by the insertion of the following definition after the definition of ‘‘protected 50
+disclosure’’:
+‘‘ ‘temporary employment service’ means any person who, for reward, procures for or provides to a client other persons who—
+(a) render services to, or perform work for, the client; and
+(b)  are remunerated by the temporary employment service;’’; and	55
+(g) by the insertion of the following definition after the definition of ‘‘this Act’’: ‘‘ ‘worker’ means—
+(a) any person who works or worked for another person or for the State; or
+(b) any other person who in any manner assists or assisted in carrying	60
+    on or conducting or conducted the business of an employer or client, as an independent contractor, consultant, agent; or
+
+(c) any person who renders services to a client while being employed by a temporary employment service.’’.
+Amendment of section 2 of Act 26 of 2000
+2. Section 2 of the principal Act is hereby amended—
+(a) by the substitution for subsection (1) of the following subsection:	5
+‘‘(1) The objects of this Act are—
+(a) to protect an employee or worker, whether in the private or the public sector, from being subjected to an occupational detriment on account of having made a protected disclosure;
+(b) to provide for certain remedies in connection with any occupational 10
+detriment suffered on account of having made a protected disclo-sure; and
+(c) to provide for procedures in terms of which an employee or worker can, in a responsible manner, disclose information regarding improprieties by his or her employer.’’; and	15
+(b) by the substitution for subsection (3) of the following subsection:
+  ‘‘(3) Any provision in a contract of employment or other agreement between an employer and an employee or worker is void in so far as it—
+(a) purports to exclude any provision of this Act, including an agreement to refrain from instituting or continuing any proceedings	20
+under this Act or any proceedings for breach of contract; or
+(b) (i) purports to preclude the employee or worker; or
+ (ii) has the effect of discouraging the employee or worker, from making a protected disclosure.’’.
+Substitution of section 3 of Act 26 of 2000	25
+3. The following section is hereby substituted for section 3 of the principal Act:
+‘‘Employee or worker making protected disclosure not to be subjected to occupational detriment
+  3. No employee or worker may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having	30
+made a protected disclosure.’’.
+Insertion of sections 3A and 3B in Act 26 of 2000
+4. The following sections are hereby inserted after section 3 of the principal Act: ‘‘Joint liability
+3A. Where an employer, under the express or implied authority or with 35
+the knowledge of a client, subjects an employee or a worker to an occupational detriment, both the employer and the client are jointly and severally liable.
+Duty to inform employee or worker
+  3B. (1) Any person or body to whom a protected disclosure has been 40 made in terms of section 6, 7 or 8, respectively, must, subject to subsection
+(3), as soon as reasonably possible, but in any event within 21 days after the
+protected disclosure has been made—
+(a) decide whether to—
+(i) investigate the matter or not; or	45
+(ii) refer the disclosure to another person or body if that disclosure could be investigated or dealt with more appropriately by that other person or body; and
+(b) in writing acknowledge receipt of the disclosure by informing the
+employee or worker of the decision—	50
+
+(i) to investigate the matter, and where possible, the time-frame within which the investigation will be completed;
+(ii) not to investigate the matter and the reasons for such decision; or
+(iii) to refer the disclosure to another person or body.	5
+  (2) The person or body to whom a disclosure is referred as contemplated in subsection (1)(a)(ii) must, subject to subsection (3), as soon as reasonably possible, but in any event within 21 days after such referral—
+(a) decide whether to investigate the matter or not; and
+(b) in writing inform the employee or worker of the decision—	10
+(i) to investigate the matter, and where possible, the time-frame within which the investigation will be completed; or
+(ii) not to investigate the matter and the reasons for such decision.
+(3) The person or body, referred to in subsection (1) or (2), who is unable
+to decide within 21 days whether a matter should be investigated or not,	15
+must—
+(a) in writing inform the employee or worker—
+(i) that he, she or it is unable to take the decision within 21 days; and
+(ii) on a regular basis, at intervals of not more than two months at	20
+a time, that the decision is still pending; and
+(b) as soon as reasonably possible, but in any event within six months after the protected disclosure has been made or after the referral has been made, as the case may be, in writing inform the employee or worker of the decision—	25
+(i) to investigate the matter, and where possible, the time-frame within which the investigation will be completed; or
+(ii) not to investigate the matter and the reasons for such decision.
+(4) The employee or worker must, at the conclusion of an investigation,
+be informed of the outcome thereof.’’.	30
+Amendment of section 4 of Act 26 of 2000
+5. Section 4 of the principal Act is hereby amended—
+(a) by the substitution in subsection (1) for the words preceding paragraph (a) of the following words:
+‘‘Any employee who has been subjected, is subject or may be subjected, 35
+to an occupational detriment in breach of section 3, or anyone acting on behalf of an employee who is not able to act in his or her own name, may—’’;
+(b) by the insertion of the following subsections after subsection (1):
+‘‘(1A) Any worker who has been subjected, is subjected or may be 40
+subjected, to an occupational detriment in breach of section 3, or anyone on behalf of a worker who is not able to act in his or her own name, may approach any court having jurisdiction for appropriate relief.
+(1B) If the court or tribunal, including the Labour Court is satisfied
+that an employee or worker has been subjected to or will be subjected to 45
+an occupational detriment on account of a protected disclosure, it may make an appropriate order that is just and equitable in the circumstances, including—
+(a) payment of compensation by the employer to that employee or
+worker;	50
+(b) payment by the employer of actual damages suffered by the
+employee or worker; or
+(c) an order directing the employer to take steps to remedy the
+occupational detriment.’’;
+(c) by the substitution in subsection (2) for paragraphs (a) and (b) of the following	55
+paragraphs:
+‘‘(a) any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal as contemplated in section 187 of that Act, and the dispute about such a dismissal [must] may follow
+the procedure set out in Chapter VIII of that Act or any other process 60
+to recover damages in a competent court; and
+
+(b) any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in [Part B of Schedule 7 to] section 186(2) of that Act, and the dispute about such an unfair labour practice must follow the procedure set out in [that Part]
+section 191: Provided that if the matter fails to be resolved through	5 conciliation, it may be referred to the Labour Court for adjudica-tion.’’; and
+(d) by the substitution for subsection (4) of the following subsection:
+‘‘(4) The terms and conditions of employment of a person transferred
+in terms of subsection [(2)] (3) may not, without his or her written 10 consent, be less favourable than the terms and conditions applicable to him or her immediately before his or her transfer.’’.
+Substitution of section 6 of Act 26 of 2000
+6. The following section is hereby substituted for section 6 of the principal Act: ‘‘Protected disclosure to employer	15
+6. (1) Any disclosure made in good faith—
+(a) and substantially in accordance with any procedure [prescribed, or] authorised by the employee’s or worker’s employer for reporting or otherwise remedying the impropriety concerned; or
+(b) to the employer of the employee or worker, where there is no 20
+    procedure as contemplated in paragraph (a), is a protected disclosure.
+(2) (a) Every employer must—
+(i) authorise appropriate internal procedures for receiving and dealing with information about improprieties; and	25
+(ii) take reasonable steps to bring the internal procedures to the attention of every employee and worker.
+  (b) Any employee or worker who, in accordance with a procedure authorised by his or her employer, makes a disclosure to a person other than
+his or her employer, is deemed, for the purposes of this Act, to be making	30
+the disclosure to his or her employer.’’.
+Amendment of section 7 of Act 26 of 2000
+  7. Section 7 of the principal Act is hereby amended by the substitution for the words preceding paragraph (a) of the following words:
+‘‘Any disclosure made in good faith to a member of Cabinet or of the Executive	35
+Council of a province is a protected disclosure if the employee’s or worker’s
+employer is—’’.
+Amendment of section 8 of Act 26 of 2000
+8. Section 8 of the principal Act is hereby amended—
+(a) by the substitution in subsection (1) for the words following paragraph (c) and	40
+preceding subparagraph (i) of the following words:
+‘‘in respect of which the employee or worker concerned reasonably believes that—’’; and
+(b) by the substitution for subsection (2) of the following subsection:
+‘‘(2) A person or body referred to in, or prescribed in terms of,	45
+subsection (1) who is of the opinion that the matter would be more appropriately dealt with by another person or body referred to in, or prescribed in terms of, that subsection, must render such assistance to the employee or worker as is necessary to enable that employee or worker to comply with this section.’’.	50
+
+Amendment of section 9 of Act 26 of 2000
+9. Section 9 of the principal Act is hereby amended—
+(a) by the substitution in subsection (1) for the words preceding paragraph (a) of the following words:
+‘‘Any disclosure made in good faith by an employee or worker—’’;	5
+(b) by the substitution for subsection (2) of the following subsection: ‘‘(2) The conditions referred to in subsection (1)(i) are—
+(a) that at the time the employee or worker who makes the disclosure
+has reason to believe that he or she will be subjected to an
+occupational detriment if he or she makes a disclosure to his or her	10
+employer in accordance with section 6;
+(b) that, in a case where no person or body is prescribed for the purposes of section 8 in relation to the relevant impropriety, the employee or worker making the disclosure has reason to believe that
+it is likely that evidence relating to the impropriety will be	15
+concealed or destroyed if he or she makes the disclosure to his or her employer;
+(c) that the employee or worker making the disclosure has previously made a disclosure of substantially the same information to—
+(i) his or her employer; or	20
+(ii) a person or body referred to in section 8,
+in respect of which no action was taken within a reasonable period after the disclosure; or
+(d) that the impropriety is of an exceptionally serious nature.’’;
+(c) by the substitution in subsection (3) for the words preceding paragraph (a) of	25
+the following words:
+‘‘In determining for the purposes of subsection (1)(ii) whether it is reasonable for the employee or worker to make the disclosure, consideration must be given to—’’; and
+(d) by the substitution in subsection (3) for paragraph (f) of the following 30
+paragraph:
+‘‘(f) in a case falling within subsection (2)(c)(i), whether in making the disclosure to the employer the employee or worker complied with any procedure which was authorised by the employer; and’’.
+Insertion of sections 9A and 9B in Act 26 of 2000	35
+10. The following sections are hereby inserted after section 9 of the principal Act: ‘‘Exclusion of civil and criminal liability
+  9A. (1) A court may find that an employee or worker who makes a protected disclosure of information in accordance with paragraph (a) of the definition of disclosure which shows or tends to show that a criminal	40
+offence has been committed, is being committed or is reasonably likely to be committed shall not be liable to any civil, criminal or disciplinary proceedings by reason of having made the disclosure if such disclosure is prohibited by any other law, oath, contract, practice or agreement requiring
+him or her to maintain confidentiality or otherwise restricting the disclosure  45
+of the information with respect to a matter.
+  (2) Exclusion of liability as contemplated in subsection (1) does not extend to the civil or criminal liability of the employee or worker for his or her participation in the disclosed impropriety.
+Disclosure of false information	50
+  9B. An employee or worker who intentionally discloses false information knowing that information to be false or who ought reasonably to have known that the information is false, is guilty of an offence and is liable on conviction to a fine or to imprisonment for a period not exceeding two years
+or to both a fine and such imprisonment.’’.	55
+
+Amendment of section 10 of Act 26 of 2000
+11. Section 10 of the principal Act is hereby amended—
+(a) by the substitution in subsection (4) for paragraphs (a) and (c) of the following paragraphs, respectively:
+  ‘‘(a) The Minister must, after consultation with the Minister for the	5 Public Service and Administration, issue practical guidelines which explain the provisions of this Act and all procedures which are available
+in terms of any law to employees or workers who wish to report or otherwise remedy an impropriety; and
+  (c) All organs of state must give to every employee or worker a copy 10 of the guidelines referred to in paragraph (a) or must take reasonable steps to bring the relevant notice to the attention of every employee or worker.’’.
+Amendment of long title of Act 26 of 2000
+12. The following long title is hereby substituted for the long title of the principal Act: 15
+‘‘To make provision for procedures in terms of which employees and workers in both the private and the public sector may disclose information regarding unlawful or irregular conduct by their employ-ers or other employees or workers in the employ of their employers; to
+provide for the protection of employees or workers who make a 20 disclosure which is protected in terms of this Act; and to provide for matters connected therewith.’’.
+Amendment of Preamble to Act 26 of 2000
+  13. The Preamble of the principal Act is hereby amended by the substitution for the fourth, fifth, sixth and seventh paragraphs of the following paragraphs, respectively:  25
+‘‘? neither the South African common law nor statutory law makes provision for mechanisms or procedures in terms of which employees or workers may, without fear of reprisals, disclose information relating to suspected or alleged criminal or other irregular conduct by their employers, whether in the private or
+the public sector;	30
+? every employer, [and] employee and worker has a responsibility to disclose criminal and any other irregular conduct in the workplace;
+? every employer has a responsibility to take all necessary steps to ensure that employees and workers who disclose such information are protected from any reprisals as a result of such disclosure;	35
+And in order to—
+? create a culture which will facilitate the disclosure of information by employees and workers relating to criminal and other irregular conduct in the workplace in a responsible manner by providing comprehensive statutory guidelines for the
+disclosure of such information and protection against any reprisals as a result of 40
+such disclosures;’’.
+Short title
+14. This Act is called the Protected Disclosures Amendment Act, 2015.
+
+MEMORANDUM ON THE OBJECTS OF THE PROTECTED DISCLOSURES AMENDMENT BILL, 2015
+1. PURPOSE OF BILL
+The Protected Disclosures Amendment Bill, 2015 (the Bill), emanates from the South African Law Reform Commission’s report on protected disclosures. The Bill aims to extend the application of the Protected Disclosures Act, 2000 (Act No. 26 of 2000) (‘‘the principal Act’’), beyond the traditional employer and employee relationship. The Bill also aims to amend the principal Act in order to regulate joint liability, to introduce a duty to inform employees or workers who have made disclosures and to provide for immunity against civil and criminal liability under certain circumstances.
+2. OBJECTS OF BILL
+2.1.1 Clause 1 aims to amend section 1 of the principal Act by—
+(i) extending the ambit of the Act beyond the traditional employer and employee relationship by inserting definitions of ‘‘business’’, ‘‘worker’’ and ‘‘temporary employment service’’;
+(ii) amending the definition of ‘‘occupational detriment’’ so as to bring it in line with the proposed extension of the ambit of the Act; and
+(iii) extending the definition of ‘‘disclosure’’ to include additional conduct in respect of which a disclosure may be made.
+2.1.2 Paragraph (a) of clause 1 aims to insert a definition of ‘‘business’’ so as to clarify the term as it appears in the proposed new definition of ‘‘employee’’. The proposed amendment of the definition of ‘‘employee’’ reflected in paragraph (c) of clause 1 is intended to clarify that persons who have worked for another person (for example former employees or pensioners) or assisted in carrying on the business of an employer are also included within the meaning of the definition.
+2.1.3 Paragraphs (f) and (g) aim to introduce two new definitions, namely, that of ‘‘temporary employment service’’ and ‘‘worker’’, respectively. Paragraph (f) aims to extend the ambit of the Act by including persons who are employed by temporary employment services. The proposed definition aims to define the term as it is used in the proposed definition of ‘‘worker’’. The proposed introduction of the definition of ‘‘worker’’ (paragraph (g) of clause 1) is based on two reasons. Firstly, independent contractors are not considered as employees in terms of labour legislation and are expressly excluded from the reach of the remedies contained in the labour legislation. Amending the definition of ‘‘employee’’ to include for example, independent contractors will therefore create confusion regarding the remedies that are available to such persons in terms of the principal Act. Secondly, by defining the term ‘‘worker’’ separately the protection offered by the principal Act will be extended to independent contractors, agents and consultants.
+
+2.1.4 The proposed amendment of the definition of ‘‘disclosure’’ in paragraph (b) of clause 1 aims to serve a dual purpose. Firstly, it aims to effect a consequential amendment to the definition so as to ensure that a disclosure for purposes of the principal Act also means a disclosure of information by a worker. Secondly, it should be noted that Chapter II of the Employment Equity Act, 1998 (Act No. 55 of 1998), contains a range of grounds considered to be unfair discrimination within the context of employment policy and practice. The definition of ‘‘disclosure’’ should therefore be amended to include reference to family responsibility, HIV status, political opinion and medical and psychological testing as grounds that are considered to be unfair discrimination.
+
+2.1.5 Paragraph (d) of clause 1 contains a proposed amendment to the definition of ‘‘occupational detriment’’. The proposed amendment aims to introduce two additional forms of occupational detriment that an employee may be
+
+subjected to as a result of having made a protected disclosure. The definition will be extended to include reprisals such as defamation suits and suits based on the alleged breach of a confidentiality agreement or duty. The term ‘‘occupational detriment’’ will further be extended to include a specific form of detriment typically experienced by contract workers (who do not currently fall within the ambit of the Act), namely the loss of a contract or the failure to be awarded a contract.
+2.2.1 Clauses 2, 3, 6, 7, 8 and 9 of the Bill aim to amend sections 2, 3, 6, 7, 8, and 9 of the principal Act, respectively. The proposed amendments, with the exception of the substantive amendments contained in clause 6, are consequential in nature. The proposed amendments aim to ensure that the substantive provisions of the Act reflect the proposed extension of the ambit of the Act correctly. The proposed amendments entail the inclusion of the term ‘‘worker’’ after the word ‘‘employee’’ wherever it appears in sections 2, 3, 6, 7, 8, and 9 of the principal Act.
+2.2.2 The substantive amendments that are reflected in clause 6 aim to introduce an obligation in respect of employers to have appropriate internal procedures in operation for receiving and dealing with information about improprieties.
+2.3.1 Clause 4 aims to introduce two new provisions in the principal Act, dealing with joint liability and a duty to investigate a disclosure, respectively. As far as joint liability (proposed new section 3A) is concerned the proposed provision will cater for the scenario where a protected disclosure is made for example by a nurse who is employed by an agency to either the agency or to the care home where she works and the entity to which the disclosure has been made meets the disclosure with an occupational detriment. The nurse will, in view of the proposed new section 3A, be entitled to the remedies provided in terms of the Act.
+2.3.2 It is acknowledged that a number of employees who make protected disclosures experience difficulties where they, in the absence of an obligation to give feedback or to be notified, are not notified of a decision not to investigate the disclosure or of a decision to refer the matter to another body to investigate, or the outcome of an investigation. The proposed new section 3B aims to address the aforementioned concern.
+2.4.1 Clause 5 of the Bill contains proposed amendments to section 4 of the Act which deals with remedies that are available to persons who were subjected to occupational detriment as a result of having made protected disclosures.
+2.4.2 Section 4(1) of the Act, among others, provides that an employee who has been subjected, is subjected or may be subjected, to an occupational detriment may approach any court having jurisdiction, including the Labour Court, for appropriate relief. Employees are therefore required to institute proceedings in their own names. However, circumstances may prevail that make it difficult or impossible to do so. The proposed amendment reflected in subsection (1) is aimed at providing an avenue by which an application for redress can be made on behalf of those employees who are unable to do so in their own name.
+2.4.3 The restrictive nature of the remedies currently provided for in terms of section 4 will also, in view of the proposed extension of the ambit of the principal Act, have to receive attention. The section 4 remedies, read with the Labour Relations Act, 1995 (Act No. 66 of 1995), are limited to ‘‘employees’’ in the strict sense and do not cater for independent contractors, consultants and agents. The proposed amendment of section 4 therefore aims to ensure that workers (independent contractors, consultants and agents) will also be enabled to exercise certain remedies if they are subjected to occupational detriment as a result of having made protected disclosures.
+
+2.4.4 The proposed new subsection (1A) aims, in similar fashion to the proposed amendment of subsection (1), to provide that any worker, or anyone on behalf of a worker who is not able to act in his or her own name, may approach any court having jurisdiction for appropriate relief.
+2.4.5 The proposed new subsection (1B) makes it clear that a court may order an employer to pay compensation or actual damages to an employee or worker and further provides that a court may issue an order directing an employer to take steps to remedy the occupational detriment.
+2.4.6 The proposed amendment of section 4(2) of the Act is consequential in nature. Subsection (2)(b) of the Act currently refers to Part B of Schedule 7 to the Labour Relations Act, 1995. However, the provisions of Part B were repealed in 2002 and, at the same time, inserted in section 186 of that Act. It is therefore necessary to replace the reference to Part B of Schedule 7 to the Labour Relations Act, 1995, in subsection (2)(b) with a reference to sections 186(2) and 191 of that Act.
+2.5.1 Clause 10 of the Bill aims to introduce a new section 9A in the Act which deals with the exclusion of civil and criminal liability. Since the Act does not protect persons from criminal or civil liability, it is argued that the introduction of such protection would help achieve one of the aims of the Act, namely, to facilitate and encourage disclosures. It should be noted that the new provision does not introduce blanket immunity. The need to protect certain information either in the national interest of the country or in the interest of the livelihood of an employer militates against granting blanket immunity from liability for disclosures relating to all improprieties provided for in the Act. Exposing an employer to such a risk would only be justified where the content of the disclosure is sufficiently serious, namely, where the disclosure relates to the commission of an offence. Immunity from civil and criminal liability will, in terms of the proposed new section 9A, not be automatic but will be granted subject to the discretion of the court in which an action is brought.
+2.5.2 The Act places a high premium on the responsible manner in which employees must disclose information regarding improprieties. However, the Act only deals with one consequence of a false disclosure, namely, that such a disclosure does not qualify as a protected disclosure. It does not deal with the other more serious consequence of a false disclosure, namely, the reputational damage that such a disclosure may cause to an innocent employee or employer. Clause 10 therefore also aims to introduce a new provision, namely section 9B, in the Act in terms of which employees or workers who make false disclosures are guilty of an offence.
+2.6 The proposed amendment of section 10(4)(a) and (c) of the Act is consequential in nature. The proposed amendments that are reflected in clause 11 entail the inclusion of the term ‘‘worker’’ after the word ‘‘employee’’ wherever it appears in section 10.
+2.7 Clauses 12 and 13 of the Bill aim to amend the long title and pre-amble of the Act, respectively, in order to bring the provisions concerned in line with the proposed amendment of the principal Act.
+3. DEPARTMENTS/BODIES/PERSONS CONSULTED
+The South African Law Reform Commission consulted widely during the course of its investigation and solicited comments from a variety of interested parties in the public and private sectors.
+4. IMPLICATIONS FOR PROVINCES
+None.
+
+5. FINANCIAL IMPLICATIONS FOR STATE
+None.
+6. PARLIAMENTARY PROCEDURE
+6.1 The State Law Advisers and the Department of Justice and Constitutional Development are of the opinion that the Bill must be dealt with in accordance with the procedure established by section 75 of the Constitution since it contains no provision to which the procedure set out in section 74 or 76 of the Constitution applies.
+6.2 The State Law Advisers are of the opinion that it is not necessary to refer this Bill to the National House of Traditional Leaders in terms of section 18(1)(a) of the Traditional Leadership and Governance Framework Act, 2003 (Act No. 41 of 2003), since it does not contain provisions pertaining to customary law or customs of traditional communities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Printed by Creda Communications
+ISBN 978-1-4850-????-?
+
+

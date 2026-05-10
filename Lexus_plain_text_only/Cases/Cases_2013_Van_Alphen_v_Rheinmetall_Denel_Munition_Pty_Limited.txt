@@ -1,0 +1,356 @@
+
+
+
+
+Van Alphen v Rheinmetall Denel Munition (Pty) Limited [2013] JOL 30939 (LC)
+Judgments Online
+
+Division: Cape Town
+Case No: C 418 / 2013
+Hearing Date(s): 12 / 06 / 2013
+Judgment Date(s): 21 / 06 / 2013
+Bench: Steenkamp J
+
+
+Keywords
+
+
+Labour law — Disciplinary enquiry — Interdict — Protected disclosures
+
+Mini Summary
+
+
+The applicant (the employee) had raised certain complaints about the alleged failure of her employer (the respondent) to deal with customer complaints. She also complained that certain employees and senior managers were not doing their job and that the respondent’s Quality Assurance (“QA”) Department was in “extreme chaos”. As a result of her comments in that regard in email correspondence, she was called to a disciplinary enquiry. She submitted that the nature of her complaints falls within the definition of a “protected disclosure” in the Protected Disclosures Act 26 of 2000, and that the contemplated disciplinary hearing constituted an “occupational detriment” in terms of that Act.
+
+In the present application, she sought to interdict the enquiry.
+
+Held that the requirements for a final interdict (which was what was sought by the applicant) are a clear right; an injury actually committed or reasonably apprehended; and the absence of another suitable remedy.
+
+The critical question was whether the applicant had made a protected disclosure as defined. The Protected Disclosures Act is designed to protect whistleblowers who make protected disclosures against occupational detriments such as victimisation and dismissal.
+
+The applicant bore the onus of proving her entitlement to the relief sought. Having regard to the conduct of the applicant, the Court found that she had not discharged the onus of showing that she had made a “disclosure” of an “impropriety” and was thus entitled to the protection of the Act. A clear right was therefore not established – nor was the requirement of absence of another suitable remedy established. The applicant was therefore to take part in the disciplinary hearing and lead the evidence she deems necessary to rebut the allegations of misconduct.
+
+ 
+[2013] JOL 30939 (LC) at 1
+
+STEENKAMP J:  
+
+Introduction
+
+[1]    The applicant claims to have made a protected disclosure in terms of the eponymous Act. She seeks to interdict a disciplinary hearing on the basis that it is an occupational detriment.
+
+ 
+[2013] JOL 30939 (LC) at 2
+
+[2]    The applicant, Ms Marizanne Pascal van Alphen ("the employee"), raised certain complaints about the alleged failure of her employer, Rheinmetall Denel Munition (Pty) Ltd ("the respondent"), to deal with customer complaints. She also complained that certain employees and senior managers were not doing their job and that the respondent's Quality Assurance ("QA") Department was in "extreme chaos".
+
+[3]    Arising from her comments in e-mail correspondence and two meetings, the respondent notified the employee to attend a disciplinary hearing on 3 June 2013. The alleged misconduct complained of is:
+
+Accusing QA technicians of not doing their jobs and the QA manager, Izak Kleinhaans,1 of not managing them;
+Alleging in a widely distributed e-mail that the QA Department is "in extreme chaos"; and
+Accusing the head of the QA Department, Vanessa Naidoo, of not managing Kleinhaans's performance.
+
+[4]    The applicant avers that the nature of her complaints falls within the definition of a "protected disclosure" in the Protected Disclosures Act2 and that the contemplated disciplinary hearing constitutes an "occupational detriment" in terms of that Act.
+
+[5]    The applicant has brought an urgent application in terms of section 158(1)(a) of the Labour Relations Act,3 read with section 191(13) of the LRA and section 4 of the PDA to interdict the disciplinary hearing.
+
+The relief sought: requirement for a final interdict
+
+[6]    The applicant has framed her claim in the form of a final interdict. She does not seek interim relief in the form of a rule nisi or, indeed, in the form of interim relief pending the referral of an unfair labour practice dispute to the Commission for Conciliation, Mediation and Arbitration ("the CCMA").
+
+[7]    The requirements for a final interdict are well known:4
+
+ 
+[2013] JOL 30939 (LC) at 3
+A clear right;
+An injury actually committed or reasonably apprehended; and
+The absence of another suitable remedy.
+
+[8]    In an application for final relief, the evidence of affidavit must be considered according to the equally well-known principles in Plascon-Evans Paints Ltd v Van Riebeeck Paints (Pty) Ltd:5
+
+"In such a case the general rule was stated by VAN WYK J (with whom DE VILLIERS JP and ROSENOW J concurred) in Stellenbosch Farmers' Winery Ltd v Stellenvale Winery (Pty) Ltd 1957 (4) SA 234 (C) at 235E–G, to be:
+
+'. . . where there is a dispute as to the facts a final interdict should only be granted in notice of motion proceedings if the facts as stated by the respondents together with the admitted facts in the applicant's affidavits justify such an order . . . Where it is clear that facts, though not formally admitted, cannot be denied, they must be regarded as admitted.'
+
+This rule has been referred to several times by this Court . . . It seems to me, however, that this formulation of the general rule, and particularly the second sentence thereof, requires some clarification and, perhaps, qualification. It is correct that, where in proceedings on notice of motion disputes of fact have arisen on the affidavits, a final order, whether it be an interdict or some other form of relief, may be granted if those facts averred in the applicant's affidavits which have been admitted by the respondent, together with the facts alleged by the respondent, justify such an order. The power of the Court to give such final relief on the papers before it is, however, not confined to such a situation. In certain instances the denial by respondent of a fact alleged by the applicant may not be such as to raise a real, genuine or bona fide dispute of fact . . . If in such a case the respondent has not availed himself of his right to apply for the deponents concerned to be called for cross-examination . . . and the Court is satisfied as to the inherent credibility of the applicant's factual averment, it may proceed on the basis of the correctness thereof and include this fact among those upon which it determines whether the applicant is entitled to the final relief which he seeks. Moreover, there may be exceptions to this general rule, as, for example, where the allegations or denials of the respondent are so far-fetched  
+[2013] JOL 30939 (LC) at 4
+or clearly untenable that the Court is justified in rejecting them merely on the papers."
+
+[9]    It is on this basis that the evidence on the affidavits before this Court must be considered. The crux of the matter is whether the applicant made a protected disclosure as defined; if she did, there is no doubt that the pending disciplinary hearing would comprise an occupational detriment.
+
+Background facts
+
+[10]    Rheinmetall Denel Munition ("RDM") is an arms manufacturer. It sells arms to a number of customers, being defence forces and other entities worldwide.6 It subscribes to standards of the International Standards Organisation ("ISO") to ensure quality control of its products.
+
+[11]    The applicant is employed as a senior quality auditor in RDM's quality systems section. She does quality audits and follows up on customer complaints. She complained that, in her view, Kleinhaans was not adequately following up with the QA technicians – who reported to him – regarding outstanding customer complaints.
+
+[12]    On 3 May 2013 the applicant had a discussion with the General Manager: Business Systems who is in charge of the QA department, Ms Vanessa Naidoo. She pointed out that a high number of customer complaints was outstanding.
+
+[13]    The applicant followed this up with a telephone call to Naidoo. It is disputed whether that was on 6 or 8 May 2013. The telephone call was prompted by the applicant discovering that Kleinhaans had signed off a report showing that certain actions had been completed regarding one particular customer complaint, when in fact they had not been completed. What is common cause, is that Naidoo's secretary set up a meeting for 10 May 2013. She sent out a "meeting request" by e-mail to Naidoo, Van Alphen (the applicant) and Kleinhaans by e-mail and indicated the subject as being "QA responsibilities".
+
+ 
+[2013] JOL 30939 (LC) at 5
+
+[14]    At the meeting of 10 May 2013, the applicant raised her concerns about the QA Department and, more specifically, what she perceived to be Kleinhaans's lack of performance. Kleinhaans took offence. There was a difference of opinion between him and the applicant as to whether she had raised it with him before. Naidoo also said it was the first time that she had been informed of the applicant's concerns that Kleinhaans and the QA technicians were not doing their job properly. The applicant said that she had addressed this in her previous reports.
+
+[15]    The applicant then sent an e-mail to Naidoo on 13 May, copying in the company's head of quality systems, Mr Anthony Battison; its COO, Mr Marcel Mbuye; and its CEO, Mr Norbert Schulze. It reads as follows:
+
+"Dear Vanessa
+
+Referring to Friday, 10 May 2013 meeting with regards to QA responsibilities (Mr Izak Kleinhaans, Somerset West SHEQ manager) and QA's poor performance on the timely handling of customer complaints and accompanying corrective actions:
+
+I would like to refresh your memory that I have continuously kept you and Anthony Battison (my line manager) informed (verbally and/or email message) of my concern; and
+
+I also confirmed on Friday there is currently very little teamwork and support in the Quality Department.
+
+The above-mentioned in itself is a concern confirming the extreme chaos in the Quality Department."
+
+[16]    Mbuye arranged a meeting for the same day, 13 May 2013. He chaired the meeting and the applicant and Naidoo attended. At that meeting, Mbuye told the applicant to speak freely and openly. The applicant questioned Naidoo's management of Kleinhaans and also accused her of not having been truthful about what they had discussed in the meeting of 10 May 2013. Naidoo was taken aback and said that there may have been a misunderstanding about the purpose of the 10 May meeting: Naidoo's understanding was that they were meant to discuss the QA Department's responsibilities regarding customer complaints, and not about the QA technicians – who fall under Kleinhaans's supervision – not performing  
+[2013] JOL 30939 (LC) at 6
+audits. The applicant insisted that Naidoo was lying. Naidoo told Mbuye that she viewed this accusation in a very serious light.
+
+[17]    In the meeting of 13 May, Naidoo also raised the allegation of "extreme chaos" in the QA Department in the applicant's e-mail. The applicant explained that her concerns were Kleinhaans's performance and Naidoo's management of Kleinhaans. Naidoo viewed the allegations as unjustified.
+
+[18]    As a result of this sequence of events, RDM called the applicant to the disciplinary hearing that the applicant now seeks to interdict. The allegations of misconduct raised by RDM are:7
+
+Incompatibility by deliberately causing disharmony in the workplace in that:
+On Friday 10th May 2013, you called a meeting with the General Manager, Business Systems, Ms Vanessa Naidoo and the SHEQ manager, Mr Izak Kleinhaans, where you accused the QA Technologists (Mr Frans Aldrich and Mr Sakkie van Zyl) of failing to do their jobs and by implication accused Mr Kleinhaans of failing to manage the QA Technologists.
+On Monday 13th May 2013 you wrote an e-mail to Naidoo, copying in the company's COO, Mr Marcel Mbuye and CEO, Mr Norbert Schulze, making unfounded allegations that Ms Naidoo's department was in extreme chaos.
+On 13th May 2013, in a meeting held with the COO as a result of the e-mail mentioned above, you accused Ms Naidoo of failing to manage Mr Kleinhaans's performance.
+Insubordination in that:
+In the same meeting held with the COO you were disrespectful to Ms Naidoo by accusing her of being untruthful and telling lies regarding the meeting you called on Friday 10th May 2013 between yourself, Mr Kleinhaans and Ms Naidoo. 
+[2013] JOL 30939 (LC) at 7
+Failure to follow company policy and procedure with regard to raining of grievances in that:
+On both the 10th and 13th May you deliberately and in direct contrast to the grievance policy and procedure escalated your grievances to senior management.
+
+[19]    This prompted the applicant's attorneys of record to write to RDM on 24 May 2013. In that letter, they claim that the e-mail of 13 May 2013 comprises a "protected disclosure" in terms of the PDA; ask for the disciplinary hearing to be withdrawn; and say that if it is not withdrawn, they would launch this application. The hearing was not withdrawn and the applicant launched this application.
+
+The Protected Disclosures Act
+
+[20]    The PDA is designed to protect whistleblowers who make protected disclosures against occupational detriments such as victimisation and dismissal. The sections that are relevant to this dispute are the following:
+
+"Preamble
+
+Recognising that–
+
+the Bill of Rights in the Constitution of the Republic of South Africa, 1996, enshrines the rights of all people in the Republic and affirms the democratic values of human dignity, equality and freedom;
+section 8 of the Bill of Rights provides for the horizontal application of the rights in the Bill of Rights, taking into account the nature of the right and the nature of any duty imposed by the right;
+criminal and other irregular conduct in organs of state and private bodies are detrimental to good, effective, accountable and transparent governance in organs of state and open and good corporate governance in private bodies and can endanger the economic stability of the Republic and have the potential to cause social damage;
+
+And bearing in mind that–
+
+neither the South African common law nor statutory law makes provision for mechanisms or procedures in terms of which employees may, without fear of reprisals, disclose information relating to suspected or alleged criminal or other irregular conduct by their employers, whether in the private or the public sector; 
+[2013] JOL 30939 (LC) at 8
+every employer and employee has a responsibility to disclose criminal and any other irregular conduct in the workplace;
+every employer has a responsibility to take all necessary steps to ensure that employees who disclose such information are protected from any reprisals as a result of such disclosure;
+
+And in order to–
+
+create a culture which will facilitate the disclosure of information by employees relating to criminal and other irregular conduct in the workplace in a responsible manner by providing comprehensive statutory guidelines for the disclosure of such information and protection against any reprisals as a result of such disclosures;
+promote the eradication of criminal and other irregular conduct in organs of state and private bodies,
+
+BE IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:–
+
+1  Definitions
+
+In this Act, unless the context otherwise indicates–
+
+'disclosure' means any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+that a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject;
+that a miscarriage of justice has occurred, is occurring or is likely to occur;
+that the health or safety of an individual has been, is being or is likely to be endangered;
+that the environment has been, is being or is likely to be damaged;
+unfair discrimination as contemplated in the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act 4 of 2000); or
+that any matter referred to in paragraphs (a) to (f) has been, is being or is likely to be deliberately concealed;
+
+'impropriety' means any conduct which falls within any of the categories referred to in paragraphs (a) to (g) of the definition of 'disclosure', irrespective of whether or not– 
+[2013] JOL 30939 (LC) at 9
+ (a) the impropriety occurs or occurred in the Republic of South Africa or elsewhere;
+
+the law applying to the impropriety is that of the Republic of South Africa or of another country;
+
+'occupational detriment', in relation to the working environment of an employee, means– 
+
+being subjected to any disciplinary action;
+. . .
+
+'protected disclosure' means a disclosure made to–
+
+. . .
+an employer in accordance with section 6;
+. . .
+2  Objects and application of Act
+The objects of this Act are– 
+to protect an employee, whether in the private or the public sector, from being subjected to an occupational detriment on account of having made a protected disclosure;
+to provide for certain remedies in connection with any occupational detriment suffered on account of having made a protected disclosure; and
+to provide for procedures in terms of which an employee can, in a responsible manner, disclose information regarding improprieties by his or her employer.
+. . .
+3  Employee making protected disclosure not to be subjected to occupational detriment
+
+No employee may be subjected to any occupational detriment by his or her employer on account, or partly on account, of having made a protected disclosure.
+
+4  Remedies
+Any employee who has been subjected, is subject or may be subjected, to an occupational detriment in breach of section 3, may–
+approach any court having jurisdiction, including the Labour Court established by section 151 of the Labour Relations Act, 1995 (Act 66 of 1995), for appropriate relief; or
+pursue any other process allowed or prescribed by any law. 
+[2013] JOL 30939 (LC) at 10
+For the purposes of the Labour Relations Act, 1995, including the consideration of any matter emanating from this Act by the Labour Court–
+any dismissal in breach of section 3 is deemed to be an automatically unfair dismissal as contemplated in section 187 of that Act, and the dispute about such a dismissal must follow the procedure set out in Chapter VIII of that Act; and
+any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in Part B of Schedule 7 to that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part: Provided that if the matter fails to be resolved through conciliation, it may be referred to the Labour Court for adjudication."
+
+[21]    In this case, the applicant locates her application in subsection (b) of the definition of "disclosure", ie "that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject". If that is so, the disciplinary action against her will constitute an occupational detriment.
+
+[22]    The applicant further submits that she made a disclosure as defined; and that is a protected disclosure, having been made to her employer in terms of section 6 of the PDA.
+
+[23]    The onus to prove that she is entitled to the relief sought rests on the applicant.8 She has to prove that she made a disclosure as defined. If so, the resultant disciplinary hearing will be an occupational detriment.
+
+Relevant case law
+
+[24]    Given the murky and secretive world of the international arms trade, it is perhaps not surprising that one of the first reported cases dealing with the then newly-enacted PDA involved the parent company of the same employer as this one, viz Denel (Pty) Ltd.9 In that case, the aggrieved Mr Grieve blew the whistle on gratifications paid to senior Denel employees, awarding of contracts to acquaintances, and the conducting of personal business with Denel resources. In short, as the Court pointed out, his  
+[2013] JOL 30939 (LC) at 11
+disclosures revealed a breach of legal obligations and possible criminal conduct.10
+
+[25]    The requirements for a successful interdict in the context of the PDA were also considered in CWU v MTN.11 In that case, Van Niekerk J was not persuaded that the disclosure relied upon by the employee comprised an impropriety as contemplated by the PDA:12
+
+"The disclosure relied on by the second applicant as a protected disclosure was no more than an expression of a subjectively held opinion or an accusation, rather than a disclosure of information. It is clear from the judgment in Grieve v Denel (supra) that the disclosure considered worthy of protection in that instance was a disclosure of information that, on a prima facie basis at least, was both carefully documented and supported. The disclosure was clearly indicative of a breach of legal obligations and possibly criminal conduct on the part of the employer concerned. In the present instance, the only information proffered by the second applicant (and this was conceded by his counsel) was that contained in his e-mail dated 4 April 2003, and in particular his statement to the effect that Thlalefang was being used as a sole agency to supply temporary employees. There is no factual basis, however tenuous, in any of the second applicant's communications to justify the conclusion that they constituted anything other than his personal opinion that what appears to amount to a preferred supplier arrangement was improper. There is no information offered that indicates in the slightest any impropriety on the part of any member of MTN's management."
+
+[26]    The provisions of the PDA were scrutinised in detail in Tshishonga v Minister of Justice and Constitutional Development.13 That discussion arose from a claim for compensation in terms of the PDA, and not for interdictory relief. In that matter, the applicant raised allegations of impropriety surrounding the appointment of a liquidator, Mr Enver Motala, at the behest of the then Minister of Justice, Penuell Maduna. In that case, the  
+[2013] JOL 30939 (LC) at 12
+applicant reasonably believed that a crime was likely to be committed; that the Minister was failing to comply with his legal obligations; and that these improprieties were likely to be deliberately concealed.14 The crux of the matter was whether the applicant's disclosures to the media were protected under the PDA. In the context of alleged corruption in the public service, the Court pointed out that employees have a responsibility to disclose criminal and other irregular conduct in the workplace; and that public servants have an obligation to report fraud, corruption, nepotism, maladministration and other offences.15 Pillay J also pointed out that the disclosure must be of improprieties:16
+
+"Disclosure about disagreement with the employer's policy is not disclosure of an impropriety."
+
+[27]    The employee in City of Tshwane Metropolitan Municipality v Engineering Council of SA and another17 raised concerns pertaining to health and safety issues in a context where one of his duties was to ensure that safety requirements in terms of the Occupational Health and Safety Act18 were met. The SCA found that raising these issues with the Department of Labour and the Engineering Council of SA constituted a protected disclosure and that he was entitled to interdict a disciplinary hearing arising from that disclosure. The concerns he raised about health and safety clearly brought the disclosure within the definition contemplated in subsection (d) of the definition of "protected disclosure" in the PDA. As Wallis AJA remarked:19
+
+"An 'impropriety' is defined in section 1 as being conduct in any of the categories in the definition of disclosure, which includes any conduct that shows or tends to show that the health or safety of an individual has been, is being or is likely to be endangered. Having regard to the nature of the enterprise and the nature of the work that system operators would be  
+[2013] JOL 30939 (LC) at 13
+employed to perform it would be likely that the safety of an individual would be endangered by the appointment of a person who did not possess the skills necessary to do the job safely. That is an impropriety as defined and, against the background set out in paragraphs [3]–[6] above, it cannot be contended that it was not an impropriety of an exceptionally serious nature. Clearly, lives were at risk as the municipality's own advertisement for the position had stated."
+
+[28]    The employees in Radebe and another v Premier, Free State Province and others20 raised allegations about corruption, nepotism and fraud in the Department of Education in the Free State. The question of what an "impropriety" is did not arise. The LAC merely held that, if an employee discloses information in good faith and reasonably believes that the information disclosed shows or tends to show that improprieties were committed then the disclosure is protected.21
+
+Evaluation / Analysis
+
+[29]    Given these background facts and the governing law, has the applicant discharged the onus of establishing the requirements for final relief?
+
+A clear right?
+
+[30]    In order to establish a clear right to the relief she seeks, the applicant must, firstly, establish that the complaints she raised satisfy the definition of a "protected disclosure".
+
+[31]    The applicant's complaints are that:
+
+Kleinhaans did not perform as he should; more specifically, as explained more fully in oral argument, he completed a report form indicating that certain processes were ISO compliant when they were not.
+Kleinhaans did not ensure that the QA technicians attended to customer complaints timeously.
+There was "extreme chaos" in the QA department. 
+[2013] JOL 30939 (LC) at 14
+
+[32]    A "disclosure" is defined as :
+
+"any disclosure of information regarding any conduct of an employer, or an employee of that employer, made by any employee who has reason to believe that the information concerned shows or tends to show one or more of the following:
+
+that a criminal offence has been committed, is being committed or is likely to be committed;
+that a person has failed, is failing or is likely to fail to comply with any legal obligation to which that person is subject . . ."
+
+[33]    Mr Brown, for the applicant, submitted that she expressed a view, honestly held, that Kleinhaans and his team did not attend to outstanding customer complaints. He submitted, with reference to Radebe, that "it is clear that the information is relevant, reasonably held and tends to show non-compliance with a legal obligation."
+
+[34]    As the Court pointed out in debating the matter with Mr Brown, that is far from clear. It may well be that the applicant believed that Kleinhaans and the QA technicians were not doing their job properly; that the customer complaints were not being dealt with expeditiously; and even that there was "extreme chaos" in the QA Department. But how does that locate her complaint in the definition of a "protected disclosure" in the sense that the information shows:
+
+". . . that a person has failed, or is failing or is likely to fail to comply with any legal obligation to which that person is subject"?22
+
+[35]    In response, Mr Brown argued that RDM purports to be ISO compliant; that Kleinhaans signed off on a report that a product so complied when it did not; that that constituted a misrepresentation that could cause a "major non compliance"; and that it followed that RDM was in breach of a legal obligation.
+
+[36]    In my view, that does not follow. Firstly, it is common cause that the report was not sent to the customer; there was no contractual breach. Secondly, I doubt that raising concerns of this type – ie the alleged poor performance of a superior – could have been intended to form the subject-matter of a disclosure as defined in the PDA.
+
+ 
+[2013] JOL 30939 (LC) at 15
+
+[37]    Mr Brown also submitted, having quoted the allegations of misconduct, that "from the aforegoing . . . there can be no doubt that the applicant's view as expressed by her in the meeting of 10 May 2013 is that Mr Kleynhans was not managing the QAT's [sic], is a protected disclosure." I do not agree. The allegations of misconduct do not show without doubt that the concerns raised by the applicant comprise a protected disclosure as defined. As set out in the disciplinary notice, the information disclosed by the applicant pertain to the work performance of Naidoo, Kleinhaans and the QATs; an allegation that the QA department is in "extreme chaos"; and an allegation that Naidoo was untruthful. None of this is a disclosure that any person in RDM's employ had committed a criminal offence or failed to comply with a legal obligation.
+
+[38]    It is important to note that the PDA makes it clear that:
+
+"'impropriety' means any conduct which falls within any of the categories referred to in paragraphs (a) to (g) of the definition of 'disclosure'."
+
+[39]    In order to succeed, the applicant has to show that she made a disclosure of an impropriety. She claims that that impropriety was a breach of a legal obligation. But her real complaint is the alleged non-performance of Kleinhaans and the QA technicians who report to him, and what she perceives to be "extreme chaos" in the quality systems department. That does not, to my mind, amount to "criminal or other irregular conduct" as contemplated by the preamble of the PDA. Nor does it fall within the definition of a "disclosure" of an "impropriety". I fully agree that the PDA should be given a wide rather than a restrictive interpretation in order to encourage a culture of whistleblowing, especially in a country such as ours that is increasingly plagued by the scourge of corruption, both in the public and the private sector. However, the Legislature could not have intended that concerns about the alleged poor performance of a quality systems department and an apparent lack of concern about customer complaints should be given the protection offered by the PDA.
+
+[40]    This is not a case such as City of Tshwane concerning an impropriety threatening the lives, health and safety of others; or alleging corruption and nepotism, as in Radebe; or serious irregularities and the abuse of  
+[2013] JOL 30939 (LC) at 16
+public money, as in Tshishonga. In short, the applicant has not discharged the onus to show that she has made a "disclosure" of an "impropriety" and is thus entitled to the protection of the PDA.
+
+Irreparable harm
+
+[41]    Any harm that the applicant may suffer, is in any event not irreparable. She will have the opportunity to state her case and to lead evidence at the disciplinary hearing. RDM's Battison has already indicated under oath that, even if the allegations of misconduct against her were to be proven, the likely sanction would be no more than a final written warning – it is highly unlikely that she will face dismissal.
+
+[42]    This Court and the Labour Appeal Court have pointed out that it is only in exceptional circumstances that it will intervene to interdict pending disciplinary hearings.23 A genuine protected disclosure would constitute such exceptional circumstances. The applicant in this case has not shown that those exceptional circumstances exist in her case.
+
+Alternative remedy
+
+[43]    Section 4(2)(b) of the PDA also contemplates an alternative remedy for cases such as this, where the employee has not been dismissed. It specifies that "any other occupational detriment" – such as a disciplinary hearing – is deemed to be an unfair labour practice:
+
+"(b)  any other occupational detriment in breach of section 3 is deemed to be an unfair labour practice as contemplated in Part B of Schedule 7 to that Act, and the dispute about such an unfair labour practice must follow the procedure set out in that Part: Provided that if the matter fails to be resolved through conciliation, it may be referred to the Labour Court for adjudication."
+
+[44]    Mr Brown argued that, as Part B of Schedule 7 has been deleted, that subsection no longer applies. That is a spurious argument. That item has been replaced by section 186(2)(d) of the LRA by the 2002 Labour Relations Amendment Act.24 And that subsection spells it out: 
+[2013] JOL 30939 (LC) at 17
+ "(2) 'Unfair labour practice' means any unfair act or omission that arises between an employer and an employee involving–
+
+. . .
+an occupational detriment, other than dismissal, in contravention of the Protected Disclosures Act, 2000 (Act No. 26 of 2000), on account of the employee having made a protected disclosure defined in that Act."
+
+[45]    What is somewhat confusing, is section 191(13) of the LRA, to which neither party referred in argument. That section provides that:
+
+ "(13) (a) An employee may refer a dispute concerning an alleged unfair labour practice to the Labour Court for adjudication if the employee has alleged that the employee has been subjected to an occupational detriment by the employer in contravention of section 3 of the Protected Disclosures Act, 2000, for having made a protected disclosure defined in that Act.
+
+A referral in terms of paragraph (a) is deemed to be made in terms of subsection (5)(b)."
+
+[46]    That subsection sits somewhat uncomfortably with section 186(2)(d). Section 186 read with section 191(5)(a)(14) prescribes a referral to the CCMA, while section 191(13) speaks of a referral to the Labour Court. In line with the common design of the LRA, it seems to me that a referral to conciliation is still envisaged as a first step; but if conciliation fails, the dispute may be referred to this Court for adjudication (and not to the CCMA for arbitration). That reading is also in line with section 4(2)(b) of the PDA.
+
+[47]    In this case, the applicant has not referred a dispute to the CCMA for conciliation. That is, as I read the PDA together with the LRA, a prescribed first step. It is also an alternative remedy prescribed by the dispute resolution structure of those two Acts. The applicant could conceivably have asked for interim relief while the conciliation is pending; but she has elected to approach this Court on an urgent basis for final relief without having followed the avenues for alternative relief required by the LRA and the PDA. For this reason, also, she has not satisfied the requirements for final relief in motion proceedings.
+
+ 
+[2013] JOL 30939 (LC) at 18
+
+Conclusion
+
+[48]    The applicant has not discharged the onus to show that she is entitled to the relief she seeks under the PDA. She must take part in the disciplinary hearing and lead the evidence she deems necessary to rebut the allegations of misconduct. It is important to point out, though, that this Court expresses no view on the fairness of that disciplinary hearing and the question whether the allegations against her, arising from the concerns she raised, constitute misconduct. That is for the chairperson of the hearing to decide; and, should the applicant be dissatisfied with the outcome, she has recourse to the dispute resolution procedure provided for in the LRA.
+
+Costs
+
+[49]    The applicant is still employed by the respondent. The continuation of that employment relationship will, to an extent, be determined by the outcome of the pending disciplinary hearing; but even so, Battisonn – the head of quality systems – has indicated that, even if the chairperson of that hearing were to uphold the allegations of misconduct against her, the likely sanction will be a written warning and not dismissal. I take into account that there is currently and is likely to be in future a continuing relationship between the parties. I also take into account that, even though the concerns raised by the applicant do not comprise a "protected disclosure" as defined, whistleblowers should be encouraged rather than discouraged from speaking out. An adverse costs order may have a chilling effect on whistleblowers who may be subjected to occupational detriments arising from the type of disclosures the legislature had in mind. In law and fairness a costs order would not be appropriate.
+
+Order
+
+[50]    The application is dismissed.
+
+
+
+Footnotes
+1	  This is the spelling on the pleadings, rather than the more conventional Kleynhans.
+2	  Act 26 of 2000 ("the PDA").
+3	  Act 66 of 1995 ("the LRA").
+4	 Setlogelo v Setlogelo 1914 AD 221 at 227.
+5	  1984 (3) SA 623 (A) 634G–635C.
+6	  RDM was at pains to elide any references identifying these 'customers' from the documents before court.
+7	 Verbatim notice abbreviated and corrected; unnecessary capitalisation removed.
+8	 Randles v Chemical Specialities Ltd (2010) 31 ILJ 2150 (LC), [2010] 7 BLLR 730 (LC) [also reported at [2010] JOL 25167 (LC) – Ed].
+9	 Grieve v Denel [2003] 4 BLLR 366 (LC), (2203) 24 ILJ 551 (LC).
+10	 Grieve v Denel (supra) at para [12].
+11	 Communications Workers' Union v Mobile Telephone Networks (Pty) Ltd [2003] 8 BLLR 741 (LC), (2003) 24 ILJ 1670 (LC) [also reported at [2003] JOL 11147 (LC) – Ed].
+12	 CWU v MTN (supra) at para [22].
+13	  [2007] 4 BLLR 327 (LC) [also reported at [2007] JOL 18875 (LC) – Ed].
+14	 Tshishonga at para [218].
+15	 Tshishonga at para [169].
+16	 Tshishonga at para [184].
+17	  (2010) 31 ILJ 322 (SCA), [2010] 3 BLLR 229 (SCA) [also reported at [2009] JOL 24640 (SCA) – Ed].
+18	  Act 85 of 1993 ("OHSA").
+19	 City of Tshwane (supra) at para [50].
+20	  [2012] 12 BLLR 1246 (LAC).
+21	 Radebe at para [36].
+22	  PDA s 1 s.v. "disclosure" ss (b).
+23	 Booysen v Minister of Safety and Security [2011] 1 BLLR 83 (LAC) [also reported at [2010] JOL 26450 (LAC) – Ed].
+24	  Act 12 of 2002.
+
+Appearance:
+Mr R Brown, Herold Gie Attorneys (At); Mr W Jacobs (R)
+
+
+End of Document

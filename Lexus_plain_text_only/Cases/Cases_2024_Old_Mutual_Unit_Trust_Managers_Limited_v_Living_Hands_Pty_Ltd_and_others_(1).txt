@@ -1,0 +1,443 @@
+
+
+
+
+Old Mutual Unit Trust Managers Limited v Living Hands (Pty) Ltd and others [2024] JOL 64639 (SCA)
+Judgments Online
+
+Division: Supreme Court of Appeal 
+Case No: 18 / 2023
+Hearing Date(s): 14 / 03 / 2024
+Judgment Date(s): 16 / 05 / 2024
+Bench: A Schippers, CH Nicholls, GG Goosen JJA
+
+
+This is the appeal from the Gauteng Division of the High Court, Johannesburg, against the finding of Siwendu J (sitting as a court of first instance) reported sub nom Living Hands (Pty) Limited NO and others v Old Mutual Unit Trust Managers Ltd (Living Hands (Pty) Limited and others and third parties) [2022] JOL 55615 (GJ) – Ed. 
+
+Keywords
+
+
+Delict/ Personal Injury — Claim for delictual damages — Alleged negligent omission by financial institution — Pure economic loss — Delictual liability
+
+Mini Summary
+
+
+The first to third respondents in their capacities as the trustees of a trust, instituted action against the appellant (“OMUT”), claiming damages in delict, based on a negligent omission by OMUT which caused the trust to suffer pure economic loss. Unusually, the undisputed primary cause of the loss was the criminal conduct of individuals comprising the controlling mind of the first respondent, a trust administration company. At the relevant times, it was the sole trustee of the trust and the sole plaintiff when the action was instituted. The High Court upheld the claim, but OMUT was granted leave to appeal the order dismissing its claim for apportionment against the first respondent, and a contribution from the fourth to ninth respondents (the third parties).
+
+In 2002, the first respondent entered into an agreement with OMUT pertaining to the buying, selling and switching of units in portfolios administered by OMUT, a manager as defined in the Collective Investment Schemes Control Act 45 of 2002. In 2004, OMUT was presented with a letter confirming the appointment of Fidentia Asset Managers (FAM) as the portfolio manager of the trust, and an instruction by FAM to OMUT to liquidate R150 million of the trust’s assets with immediate effect, and to transfer the proceeds into FAM’s trust account. The first respondent subsequently informed OMUT that it was calling up its entire investment portfolio with OMUT with immediate effect, and requested OMUT to transfer the funds to the first respondent’s bank account. OMUT requested confirmation of authority, and on receipt of a letter from the first respondent, it paid all the funds which the first respondent had invested through OMUT in various collective investment schemes, totalling R1 130 319 447.32, into the first respondent’s designated bank account. The first respondent transferred the investment portfolio to FAM, after which an amount of R854 654 of the funds were misappropriated by the first respondent’s directors. The respondents alleged that by repaying the funds to the first respondent, OMUT had acted wrongfully and that the Fidentia wrongdoers would not have been able to act as they did, had OMUT complied with its alleged duties.
+
+Held on appeal that the central issue was whether the respondents had established wrongfulness, negligence and causation, which were the elements of delictual liability. The appellants had to show that an entity in the position of OMUT, which carried out an instruction of its client to call up an investment, owed a legal duty not to cause harm to the beneficiaries of the trusts administered by that client. OMUT had acted as any reasonable investment manager would have done. It ensured that the instruction from the first respondent was properly authorised, and then acted upon it as contractually bound to do. The respondents’ loss occurred as a result of theft and fraud by its directors. None of the statutory and constitutional provisions on which they relied granted them a right of action, or a basis for inferring a claim for civil damages at common law. In any event, the loss was not foreseeable. It would be unreasonable and overly burdensome to impose liability on OMUT.
+
+The High Court’s finding of negligence was based, not on any failure by OMUT to act prudently, but on its failure to notify the regulatory bodies (not specified) of the disinvestment. That finding was erroneous as there was nothing to report to any regulatory body. The findings on causation were also unsupportable. The loss was too remote to be recoverable from OMUT as damages and was not of a kind that was reasonably foreseeable.
+
+The appeal was accordingly dismissed.
+
+ 
+[2024] JOL 64639 (SCA) at 3
+
+
+
+
+SCHIPPERS JA: 
+
+Introduction
+
+[1]    The appellant, Old Mutual Unit Trust Managers Limited ("OMUT"), a financial institution, was the defendant in an action instituted in the Gauteng Division of the High Court of South Africa, Johannesburg ("the High Court"), by the first, second and third respondents ("the plaintiffs") in their capacities as the trustees of the Living Hands Umbrella Trust ("the Trust"). The fourth to ninth respondents ("the third parties"), former directors and employees of the Fidentia Group of Companies ("the Fidentia Group"), were joined in the action by OMUT.
+
+[2]    In the action the plaintiffs claimed damages in delict, based on a negligent omission by OMUT which caused the Trust to suffer pure economic loss. The extraordinary feature of the action is that the undisputed, primary cause of the loss was the criminal conduct of individuals comprising the controlling mind of the first  
+[2024] JOL 64639 (SCA) at 4
+plaintiff, Living Hands (Pty) Ltd, a trust administration company. At the relevant times it was the sole trustee of the Trust and the sole plaintiff when the action was instituted.
+
+[3]    OMUT defended the action on the grounds that it did not act wrongfully or negligently and did not cause the plaintiffs to suffer any loss. In the alternative and to the extent that its primary defences were rejected, OMUT claimed an apportionment of damages from the first plaintiff and a contribution from the third parties, on the basis that the loss sustained by the Trust was caused by their criminal conduct.
+
+[4]    The High Court upheld the plaintiffs' claim and ordered OMUT to pay the Trust an amount of R854 654, together with in duplum interest and costs. It granted OMUT leave to appeal against that order. This Court granted OMUT leave to appeal the High Court's order dismissing its claim for apportionment against the first plaintiff, and a contribution from the third parties.
+
+The plaintiffs' case
+
+[5]    In broad summary, the plaintiffs allege the following in the particulars of claim. On 5 September 2000 Mercantile Asset Trust Company (Pty) Ltd ("Mercantile") and the Mineworkers Provident Fund ("the Provident Fund") entered into a service level agreement. In terms of that agreement Mercantile agreed to establish and administer trusts into which the Provident Fund would, from time to time, pay death benefits for dependants of deceased members of the Provident Fund.
+
+ 
+[2024] JOL 64639 (SCA) at 5
+
+[6]    The Trust was accordingly the recipient of funds from sources such as the Provident Fund. It was required to administer those funds for the benefit of the Trust beneficiaries.
+
+[7]    In early 2002 Mercantile sold its administration business to the first plaintiff. The latter assumed the rights under the service level agreement with the Provident Fund and became the sole trustee of the Trust. The first plaintiff was thus obliged to perform the administration function.
+
+[8]    On 10 May 2002 the first plaintiff, then known as Mantadia Asset Trust Company ("Matco"), entered into an agreement with OMUT, which was replaced by a new agreement concluded on 15 September 2004 ("the OMUT agreement"). These agreements regulated the relationship between the first plaintiff and OMUT pertaining to the buying, selling and switching of units in portfolios administered by OMUT, a manager as defined in the Collective Investment Schemes Control Act 45 of 2002 ("CISCA").1
+
+[9]    On 5 October 2004 Fidentia Holdings (Pty) Ltd ("Fidentia Holdings") concluded a sale of shares agreement with the shareholders of the first plaintiff (then Matco), in terms of which the latter sold its entire share capital to Fidentia Holdings for R93 million. The directors of Fidentia Holdings were Mr Joseph Arthur Walter Brown (the fifth respondent), Mr Graham Alan Maddock, Mr Andrew Herbert Tucker (the sixth respondent), Mr Hjalmar Mulder (the eighth respondent) and Mr Johannes Cornelis Linde.
+
+ 
+[2024] JOL 64639 (SCA) at 6
+
+[10]    Fidentia Asset Managers (Pty) Ltd ("FAM"), was a wholly-owned subsidiary of Fidentia Holdings. Messrs Brown, Maddock and De Jongh were its directors. FAM was an approved portfolio manager in terms of section 4 of the Stock Exchange Control Act 1 of 1985 ("the Stock Exchange Control Act") and section 5 of the Financial Markets Control Act 55 of 1989 ("the Financial Markets Control Act"). When these statutes were repealed, FAM was registered as a financial services provider in terms of section 8 of the Financial Advisory and Intermediary Services Act 37 of 2002 ("the FAIS Act").
+
+[11]    On 15 October 2004, prior to the closing date of the sale of shares agreement, Mr Steven de Kock, Mr Johannes de Jongh (the ninth respondent) and Mr Linde, acting on behalf of FAM, met with representatives of OMUT. At that meeting they handed two letters to Mr Andries Cronje, a compliance officer employed by Old Mutual. The first was a letter by Matco to FAM confirming FAM's appointment as the "Portfolio Manager" of the Trust; that FAM was registered with the Financial Services Board ("the FSB"); and that Mr De Jongh, also registered with the FSB, would manage the portfolio. The second letter was an instruction by FAM to OMUT to liquidate R150 million of the Trust's assets with immediate effect, and to transfer the proceeds into FAM's trust account.
+
+[12]    As at 15 October 2004, OMUT had invested some R1,24 billion in various portfolios forming part of collective investment schemes as defined in CISCA. These investments were made in accordance with its agreements with the first plaintiff.
+
+[13]    OMUT did not act on FAM's instruction to immediately liquidate R150 million of the Trust's assets. Instead, by letter dated 15 October 2004, OMUT informed FAM that it would only act on a signed, written instruction from the first  
+[2024] JOL 64639 (SCA) at 7
+plaintiff confirming the proper appointment of FAM. On the same day OMUT wrote to Mr Geoff Gover, the first plaintiff's Managing Director, advising him of the meeting and what OMUT had communicated to FAM.
+
+[14]    On 19 October 2004 Mr Gover authorised Symmetry Multi Manager ("Symmetry") to provide information to FAM regarding the Trust's investment with OMUT. Symmetry is a division within Old Mutual which gave investment advice concerning the Trust's portfolio with OMUT.
+
+[15]    On 19 October 2004 Fidentia Holdings became the first plaintiff's sole shareholder, pursuant to the sale of shares agreement. The first plaintiff thus became a wholly-owned subsidiary of Fidentia Holdings. The existing directors of the first plaintiff resigned. Fidentia Holdings appointed Mr Linde, Mr Tucker and Mr Philippus Johannes Malan (the seventh respondent), as directors of the first plaintiff.
+
+[16]    By letter dated 19 October 2004, the first plaintiff informed Symmetry and OMUT that its board had resolved to call up its entire investment portfolio with OMUT with immediate effect, and requested OMUT to transfer the funds to the first plaintiff's bank account by no later than 5pm that day. The letter was signed by the first plaintiff's Managing Director, Mr Malan, and its director, Mr Tucker. It states that the first plaintiff was "legally and morally unable to perpetuate the status quo", for the following reasons:
+
+No legally binding written mandate is currently in existence;
+The provisions of the Financial Advisory and Intermediary Services Act do not appear to have been fully complied with;
+There is no written appointment of an asset manager;
+Questions around fees, performance bonuses, and incentives derived from the portfolio have not been adequately answered; 
+[2024] JOL 64639 (SCA) at 8
+ 5. There appears to be a discrepancy between the portfolio balances as calculated by Old Mutual and Symmetry;
+Compliance documentation could not be produced and no plausible explanation [was] given therefor;
+Questions around the construction of the underlying portfolio have not been adequately answered – in this regard, you originally undertook to revert with answers by 17:00 on 18 October 2004, which time was later extended to 18:00, where after you confirmed to us that no mandate is currently in existence."
+
+[17]    On 20 October 2004 Mr Chris Potgieter, OMUT's Finance, Risk and Compliance Manager, replied to the letter of 19 October 2004. He stated that OMUT would accept the letter calling up the entire Matco investment trust portfolio "as soon as we receive confirmation of authority from the beneficial owner".
+
+[18]    On the same day (20 October 2004) the first plaintiff faxed a letter, signed by its Managing Director, Mr Malan, to OMUT and Symmetry. In the letter the first plaintiff confirmed that: 
+
+Mr Malan was the sole representative trustee of the Trust; 
+FAM had been given a full discretionary mandate on 14 October 2004 to act as the investment manager of the Trust; and 
+in terms of that mandate, FAM was authorised to liquidate the entire investment portfolio with OMUT or portions thereof, as it deemed fit.
+
+[19]    Between 22 October and 10 November 2004, OMUT paid all the funds which the first plaintiff had invested through OMUT in various collective investment schemes, totalling R1 130 319 447,32 ("the Funds"), into the first plaintiff's designated bank account. The plaintiffs alleged that OMUT did so without insisting on the 90-day written notice of intention to terminate, specified in the OMUT agreement.
+
+ 
+[2024] JOL 64639 (SCA) at 9
+
+[20]    Following the transfer of the Funds from OMUT to the first plaintiff, the latter paid them over to Fidentia Holdings and its wholly-owned subsidiary, Fidentia Capitalwise (Pty) Ltd. The Funds were then under the control of "the Fidentia wrongdoers", as the plaintiffs describe them in the particulars of claim. They did not invest the Funds for the benefit of the Trust or its beneficiaries. Instead, they misappropriated the Funds.
+
+[21]    The plaintiffs alleged that by repaying the Funds to the first plaintiff, OMUT acted wrongfully. More specifically, it was alleged that "OMUT owed the Trust and the Trust beneficiaries a legal duty to comply with the statutory duties" set out in CISCA, the Financial Institutions (Protection of Funds Act) 28 of 2001 ("the Protection of Funds Act"), the Trust Property Control Act 57 of 1988 ("the Trust Property Control Act"), and sections 27–28 of the Constitution of the Republic of South Africa, 1996 ("the Constitution"). This legal duty, so the plaintiffs alleged, arose by virtue of the contractual relationship between OMUT and the first plaintiff, the provisions of the trust deed pertaining to the Trust ("the Trust Deed"), and the nature of the Funds.
+
+[22]    The plaintiffs further alleged that OMUT was negligent in that it failed to ensure that its staff was properly supervised in the exercise of their duties and it did not act with the necessary skill, care and diligence, and in the interests of the investor, as required by CISCA. It was also alleged that OMUT contravened the provisions of the Trust Property Control Act and the Protection of Funds Act.
+
+[23]    In February 2007 the Western Cape High Court placed the whole of the financial services business of FAM and Fidentia Holdings under provisional curatorship. Curators were appointed and the provisional order was made final on 27 March 2007. When the curators took control of the Fidentia Group, including the Trust and FAM, an amount of R1 133 911 822,12 was supposed to have been  
+[2024] JOL 64639 (SCA) at 10
+under the control of FAM and the Trust for the benefit of Trust beneficiaries. The curators recovered R403 806 196, incurred expenses of R100 071 674 in doing so, and distributed the remaining R272 689 727 to the plaintiffs. The plaintiffs claimed payment [of] the balance of R861 222 095,12 (amended during the trial to R854 654) as damages from OMUT.
+
+[24]    The plaintiffs alleged that OMUT caused this loss. They claimed that the Fidentia wrongdoers would not have been able to act as they did, had OMUT complied with its alleged duties.
+
+The evidence
+
+[25]    The claim was tried before Siwendu J in 2022. The main witnesses for the plaintiffs were Mr De Jongh, Mr Malan, Ms Invanka Atcheson (a former trustee of Matco), Mr George Nicholas Papadakis, a chartered accountant and curator of the Fidentia Group, and Mr German Emmanuel Anderson, a former employee of the FSB and its successor, the Financial Sector Conduct Authority ("the FSCA").
+
+[26]    As appears more fully below, the evidence of these witnesses was merely a narrative of the events that led to the transfer of the Funds from OMUT to the first plaintiff. Their evidence did not establish the elements of the plaintiff's claim. OMUT did not adduce any evidence and closed its case.
+
+[27]    Mr De Jongh testified about the meeting on 15 October 2004 with Mr Cronje at OMUT. He confirmed that the Trust had appointed FAM as its portfolio manager and that he had signed the letter instructing OMUT to liquidate R150 million of the Trust's assets. Mr De Jongh said that he had no reason to doubt that those within the Fidentia Group were persons of integrity. He stated that he had not seen any  
+[2024] JOL 64639 (SCA) at 11
+wrongdoing such as theft or fraud and that had there been such wrongdoing, he would have reported it to the authorities.
+
+[28]    Mr Malan described the circumstances surrounding his appointment as a trustee of the first plaintiff (then Matco) and its appointment of FAM as portfolio manager. He said that FAM's appointment was part of the Fidentia Group's business model. He explained how it came about that he, together with Mr Gover and Mr Arthur Brown, had signed the letter authorising FAM to verify the extent of the investment portfolio with OMUT; to make and execute investment decisions; and to instruct Symmetry to implement any decision taken by FAM.
+
+[29]    Mr Malan said that there was no harm or imprudence in appointing FAM to manage all the issues around the funds invested with OMUT, since FAM was approved and registered with the FSB. He confirmed his involvement in drafting the letter of 20 October 2004, advising OMUT of the mandate given to FAM to liquidate the investment portfolio with OMUT as FAM deemed fit.
+
+[30]    Ms Atcheson was employed by the first plaintiff (then Matco) since the early 1990s and subsequently became a shareholder. She described the process in making payments to beneficiaries and guardians, and how Matco carried out its functions under the Trust Deed. She testified that when the sale of shares agreement was concluded, there was nothing to indicate that the persons involved in Fidentia Holdings were dishonest. She and the other shareholders were guided by Investec Bank Limited, which was aware of the Matco's functions and the type of beneficiaries it served. Ms Atcheson said that she would have had major doubts about proceeding with the sale of Matco's shares to Fidentia Holdings if there was any indication that Matco was dealing with dishonest people.
+
+ 
+[2024] JOL 64639 (SCA) at 12
+
+[31]    The testimony of Mr Papadakis concerned the circumstances in which FAM's licence as an authorised financial services provider ("FSP") was withdrawn, and the Fidentia Group placed under curatorship by the Registrar of Financial Services Providers ("the Registrar"). Mr Papadakis was one of the curators. An inspection report dated 16 January 2007 issued by the FSB, in sum, states that FAM and its key individuals failed to comply with the requirements of honesty and integrity contained in the fit and proper requirements in the FAIS Act, and that R685 million of client funds were unaccounted for.
+
+[32]    Mr Papadakis said that a whistle blower had alerted the FSB to the improprieties occurring within the Fidentia Group; that the curators discovered that FAM was run as a Ponzi scheme; and that the amount of funds unaccounted for was even higher than R685 million. He gave details of the amounts recovered and what was paid to the plaintiffs. Mr Papadakis also said that the unlawful conduct of persons within the Fidentia Group was not in the public domain when the investment portfolio was transferred to FAM, which was an approved FSP.
+
+[33]    Mr Anderson's witness statement was admitted into evidence. In short, the statement describes the procedure followed by the FSB when it receives information indicating a failure to adhere to the legislation which it oversees. The FSB would usually request information from the FSP relating to the allegations against it; the type of licence granted to it; the mandates given by its clients; and details of the funds invested and the investment strategies adopted by the FSP.
+
+The High Court's judgment
+
+[34]    The High Court found that the first plaintiff, as a trustee, owed a fiduciary duty to the Trust and its beneficiaries; and that "Trust assets in the form of the portfolio were liquidated from units to cash on the instruction of the Trustee". 
+
+ 
+[2024] JOL 64639 (SCA) at 13
+
+Despite this finding, the court held that "the legislative reach goes beyond the narrow strictures of OMUT's contractual relationship with the Trust administration company and included the Trust as a party to whom a duty would be owed by a manager", apparently in terms of section 71 of CISCA. It then held that "OMUT owed a direct duty of care to the Trust on whose behalf the assets were held and managed", which "ranks higher than duties arising from the contractual obligations" under the OMUT agreement.
+
+[35]    The High Court stated that the legislation on which the plaintiffs relied to establish wrongfulness "does not expressly create liability for losses to individual investors or beneficiaries", but granted them "indirect protection through the effective regulation of the responsible financial institution". The ultimate goal of regulation, the court said, is "the best interests of . . . investors as a whole"; and the fact that the FSB may not have investigated particular conduct, "does not exclude statutory liability or liability at common law if it is found that the institution negligently breached its institutional obligations".
+
+[36]    The High Court held that public and legal policy considerations dictated that it would be reasonable to impose liability for pure economic loss in this case, which it said, "would be wholly consistent with constitutional norms". The court stated that "the nature of the harm and the manner in which it occurred is what is contemplated by the relevant statutes", the provisions of which are intended to protect the Funds and the end beneficiaries, albeit indirectly.
+
+[37]    OMUT, the High Court found, failed to report the facts and events leading to the release of the Funds to the Master of the High Court, and consequently contravened section 9(1) of the Trust Property Control Act, read with section 2(b) of the Protection of Funds Act.
+
+ 
+[2024] JOL 64639 (SCA) at 14
+
+This, the court said, rendered its conduct "wrongful and culpable in respect of the Trust and the Trust beneficiaries".
+
+[38]    As regards negligence, the High Court held that in the absence of an explanation by OMUT, the inescapable inference was that it "quickly yielded to the self-seeking posturing of the Fidentia wrongdoers"; and that "despite demonstrating the level of prudence, diligence and skill and care required" (by insisting on a signed, written instruction from the first plaintiff confirming the appointment of FAM, and confirmation of authority from the beneficial owner before accepting the letter calling up the entire Matco investment trust portfolio), OMUT "did not follow through". This conduct, the High Court held, was "not reasonable and not one expected of a prudent manager".
+
+[39]    The court went on to say that OMUT had 90 days to comply with the first plaintiff's instruction, which was "sufficient time to notify the regulatory bodies of the dis-investment, given the scale and size of the portfolio". A "measure of due diligence on Fidentia and FAM as well as notification to the regulatory bodies", the court held, "is not an unreasonable, burdensome or costly exercise or requirement for an entity of OMUT's calibre and size". Consequently, the court found that the plaintiffs had proved negligence.
+
+[40]    On the issue of causation, the High Court made the following findings. OMUT was "aware of its obligations to the Trust and in turn, the end beneficiaries". It was alive to the material risks of liquidating the portfolio and paying over the Funds. There was "a real probability that Fidentia's conduct would have been detected early but for OMUT's failure to report it" (to Standard Bank, the Registrar  
+[2024] JOL 64639 (SCA) at 15
+and the Master).2 This failure, the High Court found, "enabled the acquisition [of the Funds] and what followed thereafter".
+
+[41]    OMUT, the High Court said, led no evidence to show that its failure to report the disinvestment would have made no difference to the events that followed and the loss suffered. The court stated that on the facts and the sheer size of the portfolio, the material risks and detrimental consequences would have been foreseen by a prudent manager. The plaintiffs, the court concluded, had established factual and legal causation.
+
+The issues
+
+[42]    The central issue raised by this appeal is whether the plaintiffs established the elements of delictual liability. These are:
+
+wrongfulness;
+negligence; and
+causation.
+
+Wrongfulness
+
+Pure economic loss and omissions
+
+[43]    The plaintiffs' claim is for pure economic loss based on an omission. OMUT, they say, culpably failed to take steps to prevent the loss caused to the Trust and the Trust beneficiaries by the misappropriation of the Funds by the Fidentia wrongdoers.
+
+ 
+[2024] JOL 64639 (SCA) at 16
+
+[44]    There is no general right not to be caused pure economic loss.3 Wrongfulness must be positively established.4 Thus, the plaintiffs were required to show that an entity in the position of OMUT, which carried out an instruction of its client to call up an investment, owed a legal duty not to cause harm to the beneficiaries of one or more of the trusts administered by that client.
+
+[45]    In Loureiro5 the Constitutional Court stated that the wrongfulness enquiry focuses on:
+
+". . . the [harm-causing] conduct and goes to whether the policy and legal convictions of the community, constitutionally understood, regard it as acceptable. It is based on the duty not to cause harm – indeed to respect rights – and questions the reasonableness of imposing liability."
+
+[46]    The Constitutional Court in Country Cloud6 described wrongfulness thus: 
+
+"Wrongfulness is an element of delictual liability. It functions to determine whether the infliction of culpably caused harm demands the imposition of liability or, conversely, whether 'the social, economic and other costs are just too high to justify the use of the law of delict for the resolution of the particular issue'. Wrongfulness typically acts as a brake on liability, particularly in areas of the law of delict where it is undesirable or overly burdensome to impose liability."
+
+[47]    It is therefore not surprising that the courts have been cautious in extending liability to new situations involving pure financial loss. This is because of the spectre of exposing defendants "to a liability in an indeterminate amount for an indeterminate time to an indeterminate class".7
+
+ 
+[2024] JOL 64639 (SCA) at 17
+
+The plaintiffs' allegations
+
+[48]    The plaintiffs allege that OMUT's conduct in paying out the Funds was wrongful for the following reasons. By 22 October 2004 OMUT knew or should have known that Fidentia Holdings had taken control of the first plaintiff, and that the latter would place the Funds under the administration of FAM. There was a material risk that the Trust had come under the control of individuals who may not act in the best interests of the Trust beneficiaries, and if the Funds were repaid to the first plaintiff, they would be depleted to the prejudice of the Trust and the Trust beneficiaries.
+
+[49]    The plaintiffs relied on various pieces of legislation as well as the Constitution for their allegation that OMUT owed a statutory duty – not to its client, the first plaintiff – but to "the Trust and the Trust beneficiaries", not to release the Funds to the first plaintiff without having taken steps to safeguard the Funds. These steps, so the plaintiffs alleged, included OMUT satisfying itself that the first plaintiff and FAM would act honestly, prudently and in the interests of the trust beneficiaries.
+
+[50]    The statutory provisions on which the plaintiffs relied were these:
+
+Sections 2(1) and 4(4) of CISCA, which regulate the functions of a manager in administering collective investment schemes.
+Section 2 of the Protection of Funds Act, which requires financial institutions, inter alia, to exercise utmost good faith and proper care and diligence.
+Section 9 of the Trust Property Control Act, which enjoins trustees to perform their duties and exercise their powers with care, diligence and skill.
+Sections 27–28 of the Constitution, which guarantee the right to social security and children's rights, respectively. 
+[2024] JOL 64639 (SCA) at 18
+
+[51]    The plaintiffs further alleged that OMUT owed the Trust and the Trust beneficiaries a legal duty to comply with the constitutional and statutory duties described above, by virtue of "the contractual relationship arising from the first and subsequently the second OMUT agreements" as well as "the provisions of the Trust Deed".
+
+No legal duty established
+
+[52]    As this Court explained in Olitzki,8 whether the breach of a statutory duty is delictually wrongful is a matter of statutory interpretation:
+
+"Where the legal duty the plaintiff invokes derives from breach of a statutory provision, the jurisprudence of this Court has developed a supple test. The focal question remains one of statutory interpretation, since the statute may on a proper construction by implication itself confer a right of action, or alternatively provide the basis for inferring that a legal duty exists at common law. The process in either case requires a consideration of the statute as a whole, its objects and provisions, the circumstances in which it was enacted, and the kind of mischief it was designed to prevent. But where a common-law duty is at issue, the answer now depends less on the application of formulaic approaches to statutory construction than on a broad assessment by the court whether it is 'just and reasonable' that a civil claim for damages should be accorded. 'The conduct is wrongful, not because of the breach of the statutory duty per se, but because it is reasonable in the circumstances to compensate the plaintiff for the infringement of his legal right.' The determination of reasonableness here in turn depends on whether affording the plaintiff a remedy is congruent with the court's appreciation of the sense of justice of the community. This appreciation must unavoidably include the application of broad considerations of public policy determined also in the light of the Constitution and the impact upon them that the grant or refusal of the remedy the plaintiff seeks will entail." 
+[2024] JOL 64639 (SCA) at 19
+[53]  In Steenkamp9 the Constitutional Court held that factors pointing to wrongfulness include the following: whether the object of the statutory scheme is mainly to protect individuals or advance the public good; whether the relevant statute envisages, directly or by inference, a claim for damages by the aggrieved party; whether the imposition of liability for damages will have a "chilling effect" on the performance of administrative or statutory functions; whether the ensuing harm was foreseeable; and whether the party bearing the loss is the author of its own misfortune.
+
+[54]    Applied to the present case, the first plaintiff – which intentionally misappropriated the Funds and consequently is the author of its own misfortune – asks that liability for damages be imposed on OMUT on the basis that OMUT negligently enabled that misappropriation by repaying the Funds to the first plaintiff. And this, when the Funds were repaid in accordance with the OMUT agreement and the first plaintiff's duly authorised instruction. The proposition needs merely to be stated to appreciate its absurdity.
+
+[55]    It goes without saying that such a claim is contrary to the legal convictions of the community, and the imposition of liability sought by the plaintiffs is both unreasonable and inconsistent with public policy. OMUT acted as any reasonable investment manager would have done. It ensured that the instruction from the first plaintiff was properly authorised, and then acted upon it as it was contractually bound to do. OMUT had no duty to involve itself in the inner workings of the Trust, and it was not permitted to refuse to comply with a duly authorised instruction to call up the Funds. On this basis alone, the plaintiffs failed to prove wrongfulness.
+
+ 
+[2024] JOL 64639 (SCA) at 20
+
+[56]    Aside from this, it is clear from the evidence that OMUT could not, and did not, foresee that if the Funds were repaid to the first plaintiff, they would be dissipated to the prejudice of the Trust and its beneficiaries. Rather, the evidence points the other way.
+
+[57]    Mr De Jongh stated that there was no reason to doubt that those within the Fidentia Group were persons of integrity. Mr Malan said that FAM was appointed to manage the funds invested with OMUT, because FAM was approved by and registered with the FSB. Ms Atcheson testified that she wanted to ensure that the interests of the trust beneficiaries were protected; that there was no indication that the persons involved in Fidentia Holdings were dishonest; and that if they were, it was doubtful that Matco would have proceeded with the sale of its shares.
+
+[58]    Mr Papadakis confirmed that FAM was properly licensed and there was nothing in the public domain at the time to cast any doubt on the integrity of persons within the Fidentia Group. FAM was entitled to manage a portfolio of assets, since it was an approved portfolio manager in terms of the Stock Exchange Control Act and the Financial Markets Control Act. Mr Anderson stated that because FAM was an approved portfolio manager under these statutes, it was entitled to follow a shortened application process for its licence under the FAIS Act, since it fell into the category of entities "whose details were substantially known and credentials approved of by the FSB".
+
+[59]    Turning to OMUT's alleged breach of its statutory duties, a plaintiff who seeks to establish a delictual duty based on the breach of a statutory provision is required to demonstrate that the provision has been breached; that the plaintiff is a person for whose benefit and protection the statutory duty was imposed; that the nature of the harm and the manner in which it occurred are contemplated by the  
+[2024] JOL 64639 (SCA) at 21
+enactment; and that the defendant acted negligently.10 None of these requirements were met in this case.
+
+[60]    Contrary to the High Court's conclusion, section 71 of CISCA does not extend beyond OMUT's contractual relationship with the first plaintiff. Neither does the provision "include the Trust as a party to whom a duty would be owed by a manager". Section 71 provides:
+
+"Status of assets
+
+For purposes of this Act any–
+
+money or other assets received from an investor; and
+an asset of a portfolio,
+
+are regarded as being trust property for the purposes of the Financial Institutions (Protection of Funds) Act, 2001 (Act 28 of 2001), and a manager, its authorised agent, trustee or custodian must deal with such money or other assets in terms of this Act and the deed and in the best interests of investors."
+
+[61]    The Protection of Funds Act defines "trust property" as meaning:
+
+". . . any corporeal or incorporeal, movable or immovable asset invested, held, kept in safe custody, controlled, administered or alienated by any person, partnership, company or trust for, or on behalf of, another person, partnership, company or trust, and such other person, partnership, company or trust is hereinafter referred to as the principal."
+
+[62]    Thus, section 71 of CISCA does nothing more than oblige OMUT to treat the assets invested with it as property held in trust, and to deal with those assets in accordance with that Act, the deed in terms of which the collective investment scheme is established and administered,11 and the best interests of the investor  
+[2024] JOL 64639 (SCA) at 22
+(defined as "the holder of a participating interest in a portfolio in the Republic"). This is consistent with section 2(1) and section 4(4) of CISCA which enjoins a manager to administer a collective investment scheme reasonably, honestly, fairly, with skill, care and diligence "in the interests of investors".
+
+[63]    These provisions reinforce the fact that OMUT's obligations under CISCA are to the first plaintiff – not to the Trust and its beneficiaries. Consequently, the High Courts' interpretation that section 71 imposes on OMUT a legal duty to deal with money or assets in the best interests of the Trust, which "ranks higher" than its contractual obligations to the first plaintiff, is incorrect.
+
+[64]    Similarly, there is nothing in the Protection of Funds Act or the Trust Property Control Act which suggests that OMUT owed a statutory duty not to cause harm to the Trust and its beneficiaries. Rather, the objects of the Protection of Funds Act are to provide for and consolidate the laws relating to the investment, safe custody and administration of funds and trust property by financial institutions, so as to enable the Registrar to protect such funds and property.
+
+[65]    Section 2 of the Protection of Funds Act states:
+
+"Duties of persons dealing with funds of, and with trust property controlled by, financial institutions
+
+A financial institution or nominee company, or director, member, partner, official, employee or agent of the financial institution or nominee company, who invests, holds, keeps in safe custody, controls, administers or alienates any funds of the financial institution or any trust property– 
+[2024] JOL 64639 (SCA) at 23
+ (a) must, with regard to such funds, observe the utmost good faith and exercise proper care and diligence;
+
+must, with regard to the trust property and the terms of the instrument or agreement by which the trust or agency in question has been created, observe the utmost good faith and exercise the care and diligence required of a trustee in the exercise or discharge of his or her powers and duties; and
+may not alienate, invest, pledge, hypothecate or otherwise encumber or make use of the funds or trust property or furnish any guarantee in a manner calculated to gain directly or indirectly any improper advantage for any person to the prejudice of the financial institution or principal concerned."
+
+[66]    Section 2 of the Protection of Funds Act sets the standard of conduct – the utmost good faith and proper care and diligence – for persons dealing with the funds of and trust property controlled by financial institutions which hold, control, administer and alienate funds or trust property. In similar vein, section 9(1) of the Trust Property Control Act requires trustees to "act with care, diligence and skill which can reasonably be expected of a person who manages the affairs of another".
+
+[67]    Both these provisions are focused on the duties that the institution owes to the entity on whose behalf it holds and administers the funds – in this case the first plaintiff. They do not impose a duty on the institution to second-guess a lawful instruction by a principal to call up funds, nor to anticipate what the principal may do with those funds in future.
+
+[68]    Consequently, the High Court's finding that OMUT had contravened section 9(1) of the Trust Property Control Act read with section 2(b) of the Protection of Funds Act, is erroneous. Further, there is no evidence to support this finding. The court paid insufficient attention to the fact that at the relevant time, Mr Brown, Mr Malan and  
+[2024] JOL 64639 (SCA) at 24
+Mr Mulder were the first plaintiff's nominees in terms of section 6 of the Trust Property Control Act and as such, owed the section 9(1) duties to the Trust and its beneficiaries.12
+
+[69]    More fundamentally, the nature of the harm and the manner in which it occurred – the loss of the Funds because of the first plaintiff's own theft and fraud after it had issued a duly authorised instruction to OMUT to release the Funds – are simply not contemplated by the constitutional and statutory provisions on which the plaintiffs rely. They do not envisage that a financial institution in the position of OMUT, should be required to compensate beneficiaries whose interests the principal failed to protect. A contrary interpretation would not only produce manifestly absurd results,13 but also result in the imposition of liability to an indeterminate class that cannot be justified in principle.
+
+[70]    Finally, the plaintiffs failed to prove that there was a legal duty on OMUT not to cause the financial loss, on account of the contractual relationship arising from the OMUT agreement and the provisions of the Trust Deed. There was no contractual relationship between OMUT and the Trust and its beneficiaries. That relationship was between the first plaintiff, a trust administration company, and OMUT.
+
+[71]    The relevant terms of the OMUT agreement, in sum, are these. The stated purpose of the agreement is to set out the terms and conditions under which the first plaintiff would buy, sell and switch units in the portfolios administered by OMUT. All transactions relating to unit trust funds would be carried out by OMUT on receipt of instructions from the client (the first plaintiff). Any payments which  
+[2024] JOL 64639 (SCA) at 25
+OMUT was required to make in terms of the agreement would be paid into the first plaintiff's account at Standard Bank, within two days of OMUT's receipt of the request for payment (clause 9.1).
+
+[72]    The High Court mistakenly held that OMUT had 90 days to comply with the first plaintiff's instruction (in terms of the OMUT agreement). OMUT paid the Funds into the first plaintiff's Standard Bank account in terms of clause 9.1, as it was contractually obliged to do. And the plaintiffs' allegation that OMUT should have insisted on the full 90-day written notice to terminate the OMUT agreement, defies logic. The first plaintiff was entitled to call up the investment at any stage and exercised its right under clause 9.1. It instructed OMUT to transfer the Funds into its bank account by no later than 5pm on 20 October 2004.
+
+[73]    In the circumstances, there was no duty on OMUT to notify the regulatory bodies of the disinvestment, nor to perform "due diligence on Fidentia and FAM". In any event, and as the evidence shows, there was nothing to indicate that the Fidentia wrongdoers would misappropriate the Funds.
+
+[74]    In addition, it is a settled principle that in general, parties to a contract contemplate that their contract should lay down the ambit of their reciprocal rights and obligations. A court should therefore be loath to extend the law of delict into this area and thereby eliminate provisions which the parties considered necessary.14 As Brand JA put it in Two Oceans Aquarium:15 There is "no policy imperative for the law to superimpose a further remedy".
+
+ 
+[2024] JOL 64639 (SCA) at 26
+
+[75]    The Constitutional Court expanded on this point in Country Cloud:16
+
+"Where parties take care to delineate their relationship by contractual boundaries, the law should hesitate before scrubbing out the lines they have laid down by superimposing delictual liability. That could subvert their autonomous dealings. This underscores the broader point made by this court in Barkhuizen that, within bounds, contractual autonomy claims some measure of respect."
+
+[76]    It also does not avail the plaintiffs to attempt to found a legal duty on the Trust Deed. OMUT is not a party to and has no obligations under the Trust Deed, by virtue of its contractual relationship with the first plaintiff. Ironically, the Trust Deed protects the trustees – including the first plaintiff – against any loss occasioned by any cause, save for losses on account of personal dishonesty or gross misconduct; yet the first plaintiff seeks the imposition of liability on OMUT, without there being any hint of dishonesty or misconduct on the part of OMUT.
+
+Conclusion on wrongfulness
+
+[77]    The plaintiffs' loss occurred as a result of theft and fraud by the first plaintiff's directors. None of the statutory and constitutional provisions on which the plaintiffs rely grants them a right of action, neither do these provisions provide a basis for inferring a claim for civil damages at common law. In any event, the loss was not foreseeable. Public policy as informed by constitutional norms, dictates that it is both unreasonable and overly burdensome to impose liability on OMUT.
+
+ 
+[2024] JOL 64639 (SCA) at 27
+
+Negligence
+
+[78]    The authoritative test for negligence is that of Holmes JA in Kruger v Coetzee:17
+
+"For the purposes of liability culpa arises if–
+
+a diligens paterfamilias in the position of the defendant–
+would foresee the reasonable possibility of his conduct injuring another in his person or property and causing him patrimonial loss; and
+would take reasonable steps to guard against such occurrence; and
+the defendant failed to take such steps."
+
+[79]    The test was tersely stated by Scott JA in Sea Harvest Corporation:18
+
+"[T]he true criterion for determining negligence is whether in the particular circumstances the conduct complained of falls short of the standard of the reasonable person. Dividing the inquiry into various stages, however useful, is no more than an aid or guideline for resolving this issue."
+
+[80]    The plaintiffs did not adduce any evidence in support of their allegation that OMUT was negligent, because it failed to ensure that its staff was properly supervised in the exercise of their duties. Neither was there any evidence to show that OMUT failed to act with the necessary skill, care and diligence, and in the interests of the investor.
+
+[81]    The high-water mark of the plaintiffs' case on negligence – and indeed, the High Court's finding that OMUT should have taken steps to prevent the loss of the Funds – is the meeting at the OMUT offices on 15 October 2004. It will be recalled that at that meeting Messrs De Kock, De Jongh and Linde handed two letters to Mr Cronje of OMUT: 
+
+by Matco, confirming FAM's appointment as Portfolio  
+[2024] JOL 64639 (SCA) at 28
+Manager with immediate effect; and 
+by FAM, instructing OMUT to forthwith liquidate R150 million and transfer the money to FAM's bank account.
+
+[82]    As stated, OMUT did not act on the latter instruction. Indeed, this is common ground. On the same day, ie 15 October 2004, Mr Cronje of OMUT wrote to Mr Gover, the Managing Director of Matco, informing him of the meeting. Mr Cronje stated that OMUT required a valid instruction from Matco to liquidate R150 million of the investments; that OMUT would only act on a signed, written instruction based on proper authority from Matco as its client; and that the proceeds of the repurchase would only be paid into the account stipulated in the OMUT agreement, not to any third party. Mr Cronje also confirmed that Mr Gover was satisfied that OMUT was acting in Matco's best interests.
+
+[83]    These steps taken by Mr Cronje, the High Court found, demonstrated "the level of prudence, diligence and skill and care required" of a manager in his position. But then the court stated that OMUT "did not follow through", because it failed to notify the regulatory bodies (not specified) of the disinvestment, and to conduct due diligence on Fidentia and FAM. Consequently, OMUT was held to be negligent.
+
+[84]    On the facts, however, there was nothing to report to any regulatory body. And there is no basis for the inference that OMUT "yielded to the self-seeking posturing of the Fidentia wrongdoers", in the absence of an explanation – the plaintiffs bore the onus of proving negligence. The evidence shows that on 20 October 2004, Mr Malan, both in his capacity as the Managing Director of the first plaintiff and trustee of the Trust, confirmed the mandate given to and the appointment of FAM on 14 October 2004, and that FAM was mandated to liquidate the entire investment portfolio.
+
+ 
+[2024] JOL 64639 (SCA) at 29
+
+[85]    Moreover, there was no indication that the Funds would be misappropriated by the Fidentia wrongdoers. There was no possibility, let alone a reasonable possibility, that OMUT could have foreseen this. OMUT was merely the management company required to carry out the instruction of its client (the first plaintiff) in accordance with the OMUT agreement. It did so.
+
+[86]    For the above reasons, the plaintiffs failed to prove negligence on the part of OMUT. On this basis also, their claim ought to have been dismissed.
+
+Causation
+
+[87]    In Minister of Police v Skosana19 Corbett JA said:
+
+"Causation in the law of delict gives rise to two rather distinct problems. The first is a factual one and relates to the question as to whether the negligent act or omission in question caused or materially contributed to . . . the harm giving rise to the claim. If it did not, then no legal liability can arise and cadit quaestio. If it did, then the second problem becomes relevant, viz. whether the negligent act or omission is linked to the harm sufficiently closely or directly for legal liability to ensue or whether, as it is said, the harm is too remote. This is basically a juridical problem in which considerations of legal policy may play a part."
+
+[88]    The plaintiffs' case on causation is essentially this. Had OMUT complied with its statutory duties, Standard Bank and the Registrar of Collective Investment Schemes would have been informed of the facts (the attempted withdrawal of the R150 million and the instruction to call up the first plaintiff's investment portfolio), which the Registrar of Collective Investment Schemes would have regarded as an "irregularity". Thereafter, a convoluted chain of events would have followed involving, amongst others, Standard Bank, the Registrar of Collective Investment  
+[2024] JOL 64639 (SCA) at 30
+Schemes, the Registrar of Financial Services Providers and the Master of the High Court, that would have prevented the Fidentia wrongdoers from dealing with the funds and avoided the resultant loss.
+
+[89]    However, the plaintiffs presented no evidence in support of these allegations. Mr Anderson's evidence, on which the plaintiffs' relied, comprised general assertions and did not establish causation. He stated:
+
+"Where information was received indicating possible failures to adhere to the legislation overseen by the FSB, the usual procedure was to make enquiries with the relevant service provider. This would usually take the form of a request for information. Questions that would have been asked, would be specifically about the allegations made against the service provider, and for the type of licence granted to FAM, also include details about the mandates from clients held by the service provider, details of the investment strategy/ies employed by the service provider, and details of where funds were invested."
+
+[90]    The High Court was thus asked to speculate as to what Standard Bank, the Registrar of Collective Investment Schemes, the Registrar of Financial Services Providers and the Master of the High Court would have done, had OMUT reported the innocuous fact that FAM had attempted to liquidate R150 million of the first plaintiff's investment, prematurely by two business days. There was nothing to report to the bank or any regulatory authority concerning the withdrawal of the first plaintiff's investment portfolio, which was done in accordance with its instructions and the terms of the OMUT agreement.
+
+[91]    The High Court held that "OMUT cannot plausibly rely on speculative consequences of such reporting" and that it "led no evidence to show that it would have made no difference to the chain of events that ensued and the loss suffered". But that turns the inquiry on its head. OMUT did not adduce evidence because the  
+[2024] JOL 64639 (SCA) at 31
+onus of proving causation rested on the plaintiffs. And the facts show that on causation, there was no case to meet.
+
+[92]    Apart from this, on a straightforward application of the test for factual causation, OMUT's repayment of the Funds to the first plaintiff in terms of the OMUT agreement, was not the factual cause of the loss. OMUT carried out the first plaintiff's instruction to call up its investment, convert the unit trusts into cash and pay the money into the first plaintiff's account at Standard Bank. In its capacity as a trustee of the Trust, the first plaintiff continued to hold those assets. In liquidating the investment and transferring the Funds to the first plaintiff, OMUT caused no loss.
+
+[93]    The factual cause of the loss, instead, was the misappropriation of the Funds by the Fidentia wrongdoers who acted fraudulently and dishonestly. In fact, that was the evidence of the plaintiffs' own witness, Mr Papadakis. He said that FAM was run as a Ponzi scheme (save that Mr Brown and his cohort targeted pooled investor funds rather than individuals); that the huge drain from the proceeds of the portfolio of the Trust "was as a result of fraudulent conduct within the Fidentia group"; and that the directors and officers of Fidentia Holdings were the "criminals who perpetrated the crimes" (both Mr Arthur Brown and Mr Graham Maddock were convicted of fraud and sent to prison).
+
+[94]    What is more, OMUT was not the legal cause of the loss. The purpose of legal causation (or the remoteness of damage rule) is to "curb liability",20 by determining whether a factual link between conduct and consequence should be  
+[2024] JOL 64639 (SCA) at 32
+recognised in law.21 It takes into account factors such as reasonable foreseeability, directness, the presence or absence of a new intervening act (novus actus interveniens), legal policy, reasonableness, fairness and justice.22
+
+[95]    A consideration of these factors leads to the conclusion that the loss is too remote to be recoverable from OMUT as damages. When it paid the Funds into the first plaintiff's banking account, nobody, least of all OMUT, could have known that the Fidentia wrongdoers were going to embark on a course of criminal conduct that would result in the depletion of the Funds. The loss suffered was not of a kind that was reasonably foreseeable.
+
+[96]    It follows that the High Court's conclusions on causation are insupportable as a matter of law, and on the evidence. The underlying policy reason for the remoteness rule is that the defendant must not be held liable for all loss factually caused by the delict, however far removed in time and space. There was no evidence of any "material risk" in liquidating the portfolio and paying over the Funds; and no evidence that the conduct of the Fidentia wrongdoers could have been detected earlier. Causation, as in the case of the other elements of delictual liability, was not proved.
+
+Conclusion
+
+[97]    The various reasons given for allowing the plaintiffs' claim, are in principle not legally sound. The plaintiffs, on whom the burden of proof lay, failed to establish wrongfulness, negligence and causation. The appeal must therefore succeed.
+
+ 
+[2024] JOL 64639 (SCA) at 33
+
+[98]    The parties agreed that the costs of three counsel in the court below and on appeal, are justified. In the particular circumstances of this case, this Court considers orders to that effect, appropriate.
+
+[99]    The following order is made:
+
+The appeal is upheld with costs, including the costs of three counsel.
+The order of the court below is set aside and replaced with the following:
+
+"The plaintiffs' claim is dismissed with costs, including the costs of three counsel."
+
+(Nicholls and Goosen JJA concurred in the judgment of Schippers JA.)
+
+
+
+Footnotes
+1	 The Collective Investment Schemes Control Act 45 of 2002 defines a "manager" as "a person who is authorised in terms of this Act to administer a collective investment scheme".
+2	 Emphasis in the original.
+3	Administrateur, Natal v Trust Bank Van Afrika Bpk 1979 (3) SA 824 (A) at 833A–B [also reported at [1979] 2 All SA 270 (A) – Ed], affirmed in Country Cloud Trading CC v MEC, Department of Infrastructure Development, Gauteng [2014] ZACC 28, 2015 (1) SA 1 (CC), 2014 (12) BCLR 1397 (CC) at para [22].
+4	Telematrix (Pty) Ltd t/a Matrix Vehicle Tracking v Advertising Standards Authority SA 2006 (1) SA 461 (SCA) [also reported at [2005] JOL 15447 (SCA), [2006] 1 All SA 6 (SCA) – Ed] at para [13]; Country Cloud fn 3 at para [24].
+5	Loureiro and others v Imvula Quality Protection (Pty) Ltd [2014] ZACC 4, 2014 (5) BCLR 511 (CC), 2014 (3) SA 394 (CC) at para [53].
+6	Country Cloud fn 3 at para [20].
+7	Ultramares Corp v Touche (1931) 255 NY 170 (74 ALR 1139; 174 NE 441), approved in Country Cloud fn 3 at para [24].
+8	Olitzki Property Holdings v State Tender Board and another 2001 (3) SA 1247 (SCA) [also reported at [2001] JOL 8203 (A), 2001 (8) BCLR 779 (SCA) – Ed] at para [12], affirmed in Steenkamp NO v Provincial Tender Board, Eastern Cape 2007 (3) SA 121 (CC) [also reported at [2006] JOL 18364 (CC), 2007 (3) BCLR 300 (CC) – Ed] at footnotes omitted.
+9	Steenkamp NO v Provincial Tender Board of the Eastern Cape [2006] ZACC 16, 2007 (3) SA 121 (CC), 2007 (3) BCLR 300 (CC) [also reported at [2006] JOL 18364 (CC) – Ed] at para [42].
+10	Da Silva and another v Coutinho 1971 (3) SA 123 (A) at 140 [also reported at [1971] 3 All SA 264 (A) – Ed]; J Neethling and JM Potgieter Law of Delict (8 ed) (2020) at 90–2; JC van der Walt and JR Midgley Principles of the Law of Delict (4 ed) (2016) at 154–8 para 95.
+11	 The Collective Investment Schemes Control Act defines "deed" to mean:
+  "the agreement between a manager and a trustee or custodian, or the document of incorporation whereby a collective investment scheme is established and in terms of which it is administered, and includes–
+ (i) the deed of a management company which immediately prior to the commencement of this Act was a management company in terms of any law repealed by this Act; and
+ (ii) a supplemental deed entered into in terms of a deed."
+12	 See in this regard 43 Lawsa (3 ed) at paras 224–7.
+13	Shenker v The Master and another 1936 AD 136 at 142; S v Toms; S v Bruce 1990 (2) SA 802 (A) at 807H–I [also reported at [1990] 2 All SA 248 (A) – Ed]; Independent Institute of Education (Pty) Limited v KwaZulu-Natal Law Society and others [2019] ZACC 47, 2020 (2) SA 325 (CC), 2020 (4) BCLR 495 (CC) [also reported at [2019] JOL 46412 (CC) – Ed] at para [18].
+14	Lillicrap, Wassenaar and Partners v Pilkington Brothers (SA) (Pty) Ltd 1985 (1) SA 475 (A) at 501 [also reported at [1985] 1 All SA 347 (A) – Ed], affirmed in Country Cloud.
+15	Trustees, Two Oceans Aquarium Trust v Kantey & Templer (Pty) Ltd 2006 (3) SA 138 (SCA) [also reported at [2006] JOL 18647 (SCA) – Ed] at para [18].
+16	Country Cloud fn 3 at para [65], footnotes omitted.
+17	Kruger v Coetzee 1966 (2) SA 428 (A) at 430 [also reported at [1966] 2 All SA 490 (A) – Ed], affirmed in Oppelt v Department of Health, Western Cape 2016 (1) SA 325 (CC) [also reported at [2015] JOL 34281 (CC), 2015 (12) BCLR 1471 (CC) – Ed] at para [69].
+18	Sea Harvest Corporation (Pty) Ltd and another v Duncan Dock Cold Storage (Pty) Ltd and another 2000 (1) SA 827 (SCA) at 839F–G [also reported at [1999] JOL 5815 (A), [2000] 1 All SA 128 (A) – Ed]; Oppelt v Department of Health, Western Cape 2016 (1) SA 325 (CC) [also reported at [2015] JOL 34281 (CC), 2015 (12) BCLR 1471 (CC) – Ed] at para [70].
+19	Minister of Police v Skosana 1977 (1) SA 31 (A) at 34–5 [also reported at [1977] 1 All SA 219 (A) – Ed], affirmed in Lee v Minister of Correctional Services [2012] ZACC 30, 2013 (2) BCLR 129 (CC), 2013 (2) SA 144 (CC), 2013 (1) SACR 213 (CC) at para [38]; De Klerk v Minister of Police 2021 (4) SA 585 (CC) [also reported at [2019] JOL 45492 (CC), 2019 (12) BCLR 1425 (CC) – Ed] at para [77].
+20	Country Cloud fn 3 at para [25].
+21	 15 Lawsa (3 ed) at para 181.
+22	International Shipping Co (Pty) Ltd v Bentley 1990 (1) SA 680 (A), [1990] 1 All SA 498 (A) at 701C–E; Standard Chartered Bank of Canada v Nedperm Bank Ltd 1994 (4) SA 747 (A) at 769I–771A [also reported at [1994] 2 All SA 524 (A) – Ed]; Fourway Haulage SA (Pty) Ltd v SA National Roads Agency Ltd 2009 (2) SA 150 (SCA), [2008] JOL 22803 (SCA) [also reported at [2009] 1 All SA 525 (SCA) – Ed] at paras [30]–[5].
+
+Appearance:
+Adv AE Bham SC, Adv EW Fagan SC, Adv MBE Mbikiwa, Webber Wentzel (Johannesburg), Symington and De Kok Attorneys (Bloemfontein) (A); Adv H Epstein SC, Adv A Bester SC, Adv A Ngioli, Knowles Husain Lindsay Incorporated (Johannesburg), McIntyre Van der Post (Bloemfontein) (R)
+
+
+End of Document

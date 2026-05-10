@@ -1,0 +1,68 @@
+
+
+
+
+Protected disclosures, safety and affirmative action
+IR - Editorial
+
+Protected disclosures, safety and affirmative action
+
+In January 2008 the High Court’s decision in Engineering Council of SA & another v City of Tshwane Metropolitan Municipality & another (2007) 16 HC 11.1.1 attracted some interest ⎯ but less interest than the case actually deserved. The case shows the interaction (and confusion) between a number of principles and policies. There is an affirmative action aspect to the case together with a workplace safety aspect. There is the question as to how far an employee can go to announce to others what he thinks is wrong in the workplace. And there is the question of how an employer should respond if such a matter arises. 
+
+What happened?
+
+The facts of this case are pivotal ⎯ it is necessary to get a good grasp as to what happened and who all the role players were. The employee concerned, occupying a managerial position, was a registered professional engineer ⎯ registered in terms of the Engineering Profession Act 46 of 2000. He worked for the municipality as the Managing Engineer: Power System Control and he held this position for some time. As is clear from his job title, his duties included managing and controlling various power systems and to ensure that the city’s electricity networks were configured correctly and that a number of safety measures were kept in place. 
+
+His responsibilities also included recruiting and appointing system operators ⎯ the people who could maintain and control the electricity supply without endangering their own lives and the lives of the public. There could be no doubt in anyone’s mind that the controlling and maintenance of the city’s electricity supply presented considerable risks ⎯ employees would be required to work on dangerous, high-voltage electrical networks while current was flowing through them. 
+
+Systems operators proved to be hard to find. They needed specific and specialised knowledge and skills. The employer tried, without success, to argue before the High Court that this was not so, but the Court rejected the argument. Mistakes by system controllers could lead to whole suburbs being without power. Putting an unqualified person in the post would mean that that person is a danger not only to himself, but to others. In the court papers the employee in this case referred to another incident where an employee who did not have the relevant knowledge and experience or grasp of operating procedures made a mistake that led to the death of a child.
+
+Unqualified operators
+
+The present case arose when the employer required the employee to appoint system operators who did not have the necessary skills and experience in his view. The employee raised his issues and concerns with higher level managers, but to no avail. He then refused to cooperate in the appointment of the under-qualified employees. Exasperated, the employee then wrote a letter to senior managers in the municipality ⎯ and sent copies of the letters to the Department of Labour and the Engineering Council. 
+
+It was the employee’s writing this letter that led to the employer’s taking disciplinary action. The charge was essentially that he had written and sent the letter without the prior knowledge or approval of the city’s Head of Electricity. The municipality’s point of departure was that the employee should have raised his concerns with his superiors instead of sending the letter to others. 
+
+There was, of course, a shortage of skilled and knowledgeable system operators, which meant that the operators employed had to work considerable amounts of overtime. The pressure was on for the appointment of additional system operators and the employee prepared a test for the selection of a foreman and operators. This test was approved by his immediate superior and by the human resources management department. 
+
+Candidates for the post
+
+The vacancies were advertised in the municipality and the top four candidates scored between 62% and 42% on the test that had been compiled. The next eight candidates obtained scores ranging from 38% to 21%. The problem was that these 12 candidates were all white ⎯ the one and only black candidate scored 12%. As could be expected, the employee then compiled a shortlist based on these scores, selecting the top four candidates ⎯ all white. Human resources did not approve of this short list.
+
+A meeting was held between human resources, the employee and other managers and a number of measures were agreed to. Four operators would be appointed from the competent group (as indicated by their scores). Four other posts would be re-advertised and they would be filled with people who had the necessary qualifications and who could be trained to do the job within a reasonable period of time. Again an advertisement was placed and more than 120 applications received.
+
+The problem persisted ⎯ of the 120 applicants, only 15 were “employment equity” candidates (as its put in the decision). Only 11 applicants eventually turned up to take the test and the scores this time around ranged from 32% to 2%.
+
+A new manager (with the designation General Manager: Electricity Development and Energy Business) was appointed, and he effectively upset the entire process that had been followed up to this point. The deal that had been made was that system operators would be appointed from both the employment equity candidates and the white candidates who had applied for the post. The new General Manager said that those candidates who failed to meet the employment equity targets were to be taken off the shortlist altogether. All the agreements struck were blown out of the water, and the tests for the candidates would now be compiled with him and human resources management ⎯ without the input of the employee. It was at this point that the employee wrote the letter to the Engineering Council and copied it to others. 
+
+The High Court’s judgment
+
+The High Court found that the employee’s concerns were genuine and that he acted in good faith. This is not, however, how others saw him: the new General Manager saw his actions as demonstrating a lack of commitment to transformation. This is a difficult balance to strike, said the Court, a balance between employment equity considerations and transformation in the workplace:
+
+“[79] In all these circumstances, I fail to see how I can express approval for actions aimed at achieving (and accelerating) equity transformation at all costs and in disregard of safety considerations. This must be particularly true in the case of a lethal commodity like high voltage electricity. In my view there must be a sensible balance between considerations of employment equity on the one side and safety on the other side.”
+
+But this was not really what the case was about ⎯ the matter related to the employee’s letter and whether this letter constituted a protected disclosure and whether various other pieces of legislation served to protect the employee’s action. The Court found, for instance, that the Engineering Profession Act effectively protected the employee’s disclosure ⎯ the rules of conduct for registered engineers effectively compelled him to make the disclosure he had made. He had acted in good faith and he had sincerely believed that the actions of his employer endangered the health and safety of the public or co-workers. The next piece of legislation the High Court considered was the Occupational Health and Safety Act 85 of 1993. Section 26 of this Act protects an employee against victimisation.
+
+With virtually no explanation, the Court also linked the employee’s actions to section 16 of the Constitution (protecting freedom of expression) and the labour rights protected in section 23 of the Constitution. The employer’s actions had infringed these fundamental rights. 
+
+Naturally, the High Court devotes considerable attention to the application of the Protected Disclosures Act 26 of 2000 (the PDA). There was no doubt in the Court’s mind that the employee had been subjected to an occupational detriment as defined in section 1 of the PDA. At the very least, his suspension constituted an occupational detriment. The High Court found that the employee had made a general protected disclosure (as provided for in section 9 of the PDA) and that the PDA protected him for making that disclosure. With reference to the requirements of the PDA, the High Court found that the employee reasonably believed that the information and allegations were substantially true. He did not make the disclosure for the purposes of personal gain. It was also important that the employee had previously made a similar disclosure of more or less the same information to his employer ⎯ but the employer had not taken any action. Making the disclosure was in the public interests and the Court found that the disclosure was reasonable.
+
+The question of jurisdiction
+
+While the application of the other pieces of legislation and the High Court’s powers to hear disputes in terms of these other statutes was not really in dispute, the question arose whether the High Court had jurisdiction to hear disputes relating to protected disclosures and the PDA. The relevant provision here was section 4(2) of the PDA ⎯ and the introductory part of this provision created the impression that only the Labour Court had jurisdiction. But the High Court then also took into account the contents of section 4(1) of the PDA (which deals with remedies), and from the wording of these two provisions the High Court concluded that an employee may approach any Court with jurisdiction in terms of the PDA. The Labour Court was not, however, the only court with jurisdiction and the High Court retained its jurisdiction in respect of these disputes. 
+
+That did not end the Court’s judgment on this point ⎯ there was still the provisions of the Labour Relations Act (the LRA) to deal with, specifically section 157 of the LRA. Sections 186 and 187 of the LRA provide that subjecting an employee to an occupational detriment in contravention of the PDA would constitute either an unfair labour practice or, if dismissal ensued, an automatically unfair dismissal. But when it comes to section 191 of the LRA (setting out the processes that have to be followed after a dismissal), the employee has a choice:
+
+“[125] I am alive to the fact that sections 186 and 187 of he LRA recognize a contravention of the PDA by an employer as an unfair labour practice and also as a basis for complaining of an automatically unfair dismissal. However, section 191 of the LRA, dealing with disputes about unfair dismissals and unfair labour practices, appears to provide, in subsection 13(a), an employee with an option to refer a dispute concerning such an unfair labour practice to the Labour Court for adjudication. The provision is not peremptory. It appears to be in harmony with section 4(1) of the PDA and section 157(2) of the LRA.”
+
+By now, this approach can, with respect, no longer be good law. Given the developments in our law brought about by the decisions of the Constitutional Court last year, the position is now that the Labour Relations Act represents a comprehensive legal framework for the resolution of labour disputes. The High Court makes a concerted effort to protect its own jurisdiction in this case, but its interpretation of section 191 of the LRA (that employees have a choice as to forum) is new and uneasy. It seems clear, instead, that reading the LRA and the PDA together means that an employee seeking redress under the PDA, may well be limited to the Labour Court in cases where automatically unfair dismissals or unfair labour practices arise. 
+
+The High Court issues an order prohibiting the employer from imposing any disciplinary sanction on the manager concerned for sending letters to the Engineering Council and the Department of Labour. The municipality was also ordered to pay costs.
+
+Carl Mischke
+
+June 2008
+
+
+
+End of Document

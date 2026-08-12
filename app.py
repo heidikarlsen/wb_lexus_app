@@ -254,3 +254,343 @@ st.dataframe(
     use_container_width=True,
     hide_index=True
 )
+
+
+# ---------------------------------------------------------
+# CASE RELEVANCE SCREENING
+# ---------------------------------------------------------
+
+st.subheader("Case relevance screening")
+
+st.write(
+    """
+    Cases are ranked according to the occurrence of a small set of
+    strongly relevant terms. The relevance score combines:
+
+    - **Breadth**: how many different relevant term groups occur
+    - **Absolute frequency**: total number of relevant occurrences
+    - **Relative frequency**: occurrences per 1,000 words
+
+    The terms currently used are: **whistle\\***, **protected disclosure\\***,
+    **PDA**, **retaliation**, and **unfair dismissal**.
+    """
+)
+
+
+@st.cache_data
+def calculate_case_relevance(case_df):
+
+    # Regex patterns for the five strong term groups
+    patterns = {
+        # Matches e.g. whistleblower, whistleblowing,
+        # whistle-blower, whistle blower, whistle
+        "whistle*": re.compile(
+            r"\bwhistle(?:[\s\-]?blow\w*)?\b",
+            re.IGNORECASE
+        ),
+
+        # Matches protected disclosure / protected disclosures
+        "protected disclosure*": re.compile(
+            r"\bprotected\s+disclosures?\b",
+            re.IGNORECASE
+        ),
+
+        # Exact acronym
+        "PDA": re.compile(
+            r"\bPDA\b",
+            re.IGNORECASE
+        ),
+
+        "retaliation": re.compile(
+            r"\bretaliation\b",
+            re.IGNORECASE
+        ),
+
+        # Allows multiple spaces / line breaks
+        "unfair dismissal": re.compile(
+            r"\bunfair\s+dismissal\b",
+            re.IGNORECASE
+        )
+    }
+
+    rows = []
+
+    for _, row in case_df.iterrows():
+
+        path = Path(row["path"])
+
+        try:
+            text = path.read_text(encoding="utf-8", errors="ignore")
+        except Exception:
+            continue
+
+        # Simple word count
+        word_count = len(re.findall(r"\b\w+\b", text))
+
+        counts = {}
+
+        for term, pattern in patterns.items():
+            counts[term] = len(pattern.findall(text))
+
+        total_hits = sum(counts.values())
+
+        # Number of different term groups represented
+        breadth = sum(count > 0 for count in counts.values())
+
+        # Relative frequency
+        hits_per_1000 = (
+            (total_hits / word_count) * 1000
+            if word_count > 0 else 0
+        )
+
+        rows.append({
+            "year": row["year"],
+            "filename": row["filename"],
+            "path": row["path"],
+            "words": word_count,
+            "breadth": breadth,
+            "total_hits": total_hits,
+            "hits_per_1000": hits_per_1000,
+            **counts
+        })
+
+    result = pd.DataFrame(rows)
+
+    if result.empty:
+        return result
+
+    # -----------------------------------------
+    # NORMALISE COMPONENTS FOR RELEVANCE SCORE
+    # -----------------------------------------
+
+    # Breadth is naturally 0–5
+    result["breadth_score"] = result["breadth"] / 5
+
+    # log1p prevents a few documents with extremely many hits
+    # from dominating the entire scale
+    abs_log = result["total_hits"].apply(lambda x: __import__("math").log1p(x))
+    rel_log = result["hits_per_1000"].apply(lambda x: __import__("math").log1p(x))
+
+    if abs_log.max() > abs_log.min():
+        result["absolute_score"] = (
+            (abs_log - abs_log.min()) /
+            (abs_log.max() - abs_log.min())
+        )
+    else:
+        result["absolute_score"] = 0
+
+    if rel_log.max() > rel_log.min():
+        result["relative_score"] = (
+            (rel_log - rel_log.min()) /
+            (rel_log.max() - rel_log.min())
+        )
+    else:
+        result["relative_score"] = 0
+
+    # Combined relevance score
+    result["relevance_score"] = (
+        0.45 * result["breadth_score"]
+        + 0.20 * result["absolute_score"]
+        + 0.35 * result["relative_score"]
+    )
+
+    result["relevance_score"] = result["relevance_score"].round(3)
+    result["hits_per_1000"] = result["hits_per_1000"].round(2)
+
+    return result.sort_values(
+        "relevance_score",
+        ascending=False
+    ).reset_index(drop=True)
+
+
+# Only analyse the Cases subcorpus
+case_df = df[df["subcorpus"] == "Cases"].copy()
+
+case_relevance = calculate_case_relevance(case_df)
+
+
+if not case_relevance.empty:
+
+    # -----------------------------------------
+    # CONTROLS
+    # -----------------------------------------
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        minimum_score = st.slider(
+            "Minimum relevance score",
+            min_value=0.0,
+            max_value=1.0,
+            value=0.0,
+            step=0.01
+        )
+
+    with col2:
+        high_relevance_threshold = st.slider(
+            "Threshold for 'highly relevant' cases",
+            min_value=0.0,
+            max_value=1.0,
+            value=0.40,
+            step=0.01
+        )
+
+
+    ranked_cases = case_relevance[
+        case_relevance["relevance_score"] >= minimum_score
+    ].copy()
+
+
+    # -----------------------------------------
+    # SUMMARY
+    # -----------------------------------------
+
+    col1, col2, col3 = st.columns(3)
+
+    col1.metric(
+        "Cases above selected score",
+        len(ranked_cases)
+    )
+
+    col2.metric(
+        "Highly relevant cases",
+        int(
+            (
+                case_relevance["relevance_score"]
+                >= high_relevance_threshold
+            ).sum()
+        )
+    )
+
+    col3.metric(
+        "Total cases analysed",
+        len(case_relevance)
+    )
+
+
+    # -----------------------------------------
+    # RANKED TABLE
+    # -----------------------------------------
+
+    st.markdown("#### Cases ranked by relevance")
+
+    display_columns = [
+        "year",
+        "filename",
+        "relevance_score",
+        "breadth",
+        "total_hits",
+        "hits_per_1000",
+        "whistle*",
+        "protected disclosure*",
+        "PDA",
+        "retaliation",
+        "unfair dismissal",
+        "words"
+    ]
+
+    st.dataframe(
+        ranked_cases[display_columns],
+        use_container_width=True,
+        hide_index=True
+    )
+
+
+    # -----------------------------------------
+    # RELEVANCE OVER TIME
+    # -----------------------------------------
+
+    st.markdown("#### Relevance over time")
+
+    time_df = case_relevance.dropna(subset=["year"]).copy()
+
+    time_df["highly_relevant"] = (
+        time_df["relevance_score"]
+        >= high_relevance_threshold
+    )
+
+
+    # 1. Average relevance score per year
+    average_by_year = (
+        time_df
+        .groupby("year")["relevance_score"]
+        .mean()
+        .reset_index()
+    )
+
+    fig_average = px.line(
+        average_by_year,
+        x="year",
+        y="relevance_score",
+        markers=True,
+        labels={
+            "year": "Year",
+            "relevance_score": "Average relevance score"
+        },
+        title="Average case relevance by year"
+    )
+
+    st.plotly_chart(
+        fig_average,
+        use_container_width=True
+    )
+
+
+    # 2. Number of highly relevant cases per year
+    relevant_by_year = (
+        time_df
+        .groupby("year")["highly_relevant"]
+        .sum()
+        .reset_index(name="highly_relevant_cases")
+    )
+
+    fig_number = px.bar(
+        relevant_by_year,
+        x="year",
+        y="highly_relevant_cases",
+        labels={
+            "year": "Year",
+            "highly_relevant_cases": "Highly relevant cases"
+        },
+        title="Number of highly relevant cases by year"
+    )
+
+    st.plotly_chart(
+        fig_number,
+        use_container_width=True
+    )
+
+
+    # 3. Share of cases that are highly relevant
+    share_by_year = (
+        time_df
+        .groupby("year")
+        .agg(
+            total_cases=("filename", "count"),
+            highly_relevant_cases=("highly_relevant", "sum")
+        )
+        .reset_index()
+    )
+
+    share_by_year["share_relevant"] = (
+        share_by_year["highly_relevant_cases"]
+        / share_by_year["total_cases"]
+        * 100
+    )
+
+    fig_share = px.line(
+        share_by_year,
+        x="year",
+        y="share_relevant",
+        markers=True,
+        labels={
+            "year": "Year",
+            "share_relevant": "Highly relevant cases (%)"
+        },
+        title="Share of highly relevant cases by year"
+    )
+
+    st.plotly_chart(
+        fig_share,
+        use_container_width=True
+    )

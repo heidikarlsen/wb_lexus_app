@@ -620,7 +620,7 @@ st.write(
 
 
 @st.cache_data
-def calculate_case_relevance(IR_Network_df):
+def calculate_IR_Network_relevance(IR_Network_df):
 
     # Regex patterns for the five strong term groups
     patterns = {
@@ -657,7 +657,7 @@ def calculate_case_relevance(IR_Network_df):
 
     rows = []
 
-    for _, row in IR_Network.iterrows():
+    for _, row in IR_Network_df.iterrows():
 
         path = Path(row["path"])
 
@@ -746,7 +746,7 @@ def calculate_case_relevance(IR_Network_df):
 
 
 # Only analyse the IR_Network subcorpus
-IR_Network = df[df["subcorpus"] == "IR_Network"].copy()
+IR_Network_df = df[df["subcorpus"] == "IR_Network"].copy()
 
 IR_Network_relevance = calculate_IR_Network_relevance(IR_Network_df)
 
@@ -765,16 +765,18 @@ if not IR_Network_relevance.empty:
             min_value=0.0,
             max_value=1.0,
             value=0.0,
-            step=0.01
+            step=0.01,
+            key= "ir_network_minimum_score"
         )
 
     with col2:
         high_relevance_threshold = st.slider(
-            "Threshold for 'highly relevant' cases",
+            "Threshold for 'highly relevant' IR_Network ducuments",
             min_value=0.0,
             max_value=1.0,
             value=0.40,
-            step=0.01
+            step=0.01,
+            key="ir_network_high_relevance_threshold"
         )
 
 

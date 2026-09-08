@@ -304,12 +304,6 @@ def calculate_case_relevance(case_df):
         "retaliation": re.compile(
             r"\bretaliation\b",
             re.IGNORECASE
-        ),
-
-        # Allows multiple spaces / line breaks
-        "unfair dismissal": re.compile(
-            r"\bunfair\s+dismissal\b",
-            re.IGNORECASE
         )
     }
 

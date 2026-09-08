@@ -304,6 +304,12 @@ def calculate_case_relevance(case_df):
         "retaliation": re.compile(
             r"\bretaliation\b",
             re.IGNORECASE
+        ),
+
+        # Allows multiple spaces / line breaks
+        "unfair dismissal": re.compile(
+            r"\bunfair\s+dismissal\b",
+            re.IGNORECASE
         )
     }
 
@@ -358,7 +364,7 @@ def calculate_case_relevance(case_df):
     # -----------------------------------------
 
     # Breadth is naturally 0–5
-    result["breadth_score"] = result["breadth"] / 4
+    result["breadth_score"] = result["breadth"] / 5
 
     # log1p prevents a few documents with extremely many hits
     # from dominating the entire scale
@@ -479,6 +485,7 @@ if not case_relevance.empty:
         "protected disclosure*",
         "PDA",
         "retaliation",
+        "unfair dismissal",
         "words"
     ]
 

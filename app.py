@@ -18,7 +18,7 @@ st.title("Lexus Corpus Overview")
 st.write("Simple overview of document distribution across the corpus.")
 
 
-@st.cache_data
+#@st.cache_data
 def load_metadata():
     rows = []
 

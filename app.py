@@ -294,6 +294,12 @@ def calculate_case_relevance(case_df):
             re.IGNORECASE
         ),
 
+                # Exact acronym
+        "PDA": re.compile(
+            r"\bPDA\b",
+            re.IGNORECASE
+        ),
+
 
         "retaliation": re.compile(
             r"\bretaliation\b",
@@ -628,6 +634,12 @@ def calculate_IR_Network_relevance(IR_Network_df):
         # Matches protected disclosure / protected disclosures
         "protected disclosure*": re.compile(
             r"\bprotected\s+disclosures?\b",
+            re.IGNORECASE
+        ),
+
+                # Exact acronym
+        "PDA": re.compile(
+            r"\bPDA\b",
             re.IGNORECASE
         ),
 

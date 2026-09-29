@@ -261,8 +261,39 @@ st.dataframe(
 
 st.subheader("Cases relevance screening")
 
+
+RELEVANCE_PATTERNS = {
+    "whistle*": re.compile(
+        r"\bwhistle(?:[\s\-]?blow\w*)?\b",
+        re.IGNORECASE
+    ),
+
+    "protected disclosure*": re.compile(
+        r"\bprotected\s+disclosures?\b",
+        re.IGNORECASE
+    ),
+
+    "PDA": re.compile(
+        r"\bPDA\b",
+        re.IGNORECASE
+    ),
+
+    "retaliation": re.compile(
+        r"\bretaliation\b",
+        re.IGNORECASE
+    ),
+
+    "unfair dismissal": re.compile(
+        r"\bunfair\s+dismissal\b",
+        re.IGNORECASE
+    )
+}
+
+
+terms_text = ", ".join(RELEVANCE_PATTERNS.keys())
+
 st.write(
-    """
+    f"""
     Cases are ranked according to the occurrence of a small set of
     strongly relevant terms. The relevance score combines:
 
@@ -270,48 +301,14 @@ st.write(
     - **Absolute frequency**: total number of relevant occurrences
     - **Relative frequency**: occurrences per 1,000 words
 
-    The terms currently used are: **whistle\\***, **protected disclosure\\***,
-    **PDA**, **retaliation**, and **unfair dismissal**.
+    **Terms currently used:** {terms_text}
     """
 )
-
 
 @st.cache_data
 def calculate_case_relevance(case_df):
 
-    # Regex patterns for the five strong term groups
-    patterns = {
-        # Matches e.g. whistleblower, whistleblowing,
-        # whistle-blower, whistle blower, whistle
-        "whistle*": re.compile(
-            r"\bwhistle(?:[\s\-]?blow\w*)?\b",
-            re.IGNORECASE
-        ),
-
-        # Matches protected disclosure / protected disclosures
-        "protected disclosure*": re.compile(
-            r"\bprotected\s+disclosures?\b",
-            re.IGNORECASE
-        ),
-
-                # Exact acronym
-        "PDA": re.compile(
-            r"\bPDA\b",
-            re.IGNORECASE
-        ),
-
-
-        "retaliation": re.compile(
-            r"\bretaliation\b",
-            re.IGNORECASE
-        ),
-
-        # Allows multiple spaces / line breaks
-        "unfair dismissal": re.compile(
-            r"\bunfair\s+dismissal\b",
-            re.IGNORECASE
-        )
-    }
+    patterns = RELEVANCE_PATTERNS 
 
     rows = []
 
@@ -363,8 +360,8 @@ def calculate_case_relevance(case_df):
     # NORMALISE COMPONENTS FOR RELEVANCE SCORE
     # -----------------------------------------
 
-    # Breadth is naturally 0–5
-    result["breadth_score"] = result["breadth"] / 5
+    # Normalise breadth by the number of relevance term groups
+    result["breadth_score"] = result["breadth"] / len(patterns)
 
     # log1p prevents a few documents with extremely many hits
     # from dominating the entire scale
@@ -481,11 +478,7 @@ if not case_relevance.empty:
         "breadth",
         "total_hits",
         "hits_per_1000",
-        "whistle*",
-        "protected disclosure*",
-        "PDA",
-        "retaliation",
-        "unfair dismissal",
+        *RELEVANCE_PATTERNS.keys(),
         "words"
     ]
 

@@ -312,7 +312,7 @@ st.write(
     """
 )
 
-@st.cache_data
+#@st.cache_data
 def calculate_case_relevance(case_df):
 
     patterns = RELEVANCE_PATTERNS 
@@ -620,7 +620,7 @@ st.write(
 
 
 
-@st.cache_data
+#@st.cache_data
 def calculate_IR_Network_relevance(IR_Network_df):
 
 

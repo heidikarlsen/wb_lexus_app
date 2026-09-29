@@ -256,10 +256,8 @@ st.dataframe(
 
 
 # ---------------------------------------------------------
-# CASE RELEVANCE SCREENING
+# RELEVANCE SCREENING
 # ---------------------------------------------------------
-
-st.subheader("Cases relevance screening")
 
 
 RELEVANCE_PATTERNS = {
@@ -286,11 +284,20 @@ RELEVANCE_PATTERNS = {
     "unfair dismissal": re.compile(
         r"\bunfair\s+dismissal\b",
         re.IGNORECASE
+    ),
+
+    "occupational detriment": re.compile(
+    r"\boccupational\s+detriment\b",
+    re.IGNORECASE
     )
 }
 
 
 terms_text = ", ".join(RELEVANCE_PATTERNS.keys())
+
+
+st.subheader("Cases relevance screening")
+
 
 st.write(
     f"""
@@ -592,13 +599,14 @@ if not case_relevance.empty:
 #
 
 # ---------------------------------------------------------
-# CASE RELEVANCE SCREENING
+# IR_Network RELEVANCE SCREENING
 # ---------------------------------------------------------
 
 st.subheader("IR_Network relevance screening")
 
+
 st.write(
-    """
+    f"""
     IR_Network documents are ranked according to the occurrence of a small set of
     strongly relevant terms. The relevance score combines:
 
@@ -606,48 +614,17 @@ st.write(
     - **Absolute frequency**: total number of relevant occurrences
     - **Relative frequency**: occurrences per 1,000 words
 
-    The terms currently used are: **whistle\\***, **protected disclosure\\***,
-    **PDA**, **retaliation**, and **unfair dismissal**.
+    **Terms currently used:** {terms_text}
     """
 )
+
 
 
 @st.cache_data
 def calculate_IR_Network_relevance(IR_Network_df):
 
-    # Regex patterns for the five strong term groups
-    patterns = {
-        # Matches e.g. whistleblower, whistleblowing,
-        # whistle-blower, whistle blower, whistle
-        "whistle*": re.compile(
-            r"\bwhistle(?:[\s\-]?blow\w*)?\b",
-            re.IGNORECASE
-        ),
 
-        # Matches protected disclosure / protected disclosures
-        "protected disclosure*": re.compile(
-            r"\bprotected\s+disclosures?\b",
-            re.IGNORECASE
-        ),
-
-                # Exact acronym
-        "PDA": re.compile(
-            r"\bPDA\b",
-            re.IGNORECASE
-        ),
-
-
-        "retaliation": re.compile(
-            r"\bretaliation\b",
-            re.IGNORECASE
-        ),
-
-        # Allows multiple spaces / line breaks
-        "unfair dismissal": re.compile(
-            r"\bunfair\s+dismissal\b",
-            re.IGNORECASE
-        )
-    }
+    patterns = RELEVANCE_PATTERNS
 
     rows = []
 
@@ -699,8 +676,8 @@ def calculate_IR_Network_relevance(IR_Network_df):
     # NORMALISE COMPONENTS FOR RELEVANCE SCORE
     # -----------------------------------------
 
-    # Breadth is naturally 0–5
-    result["breadth_score"] = result["breadth"] / 5
+    # Normalise breadth by the number of relevance term groups
+    result["breadth_score"] = result["breadth"] / len(patterns)
 
     # log1p prevents a few documents with extremely many hits
     # from dominating the entire scale
@@ -765,7 +742,7 @@ if not IR_Network_relevance.empty:
 
     with col2:
         high_relevance_threshold = st.slider(
-            "Threshold for 'highly relevant' IR_Network ducuments",
+            "Threshold for 'highly relevant' IR_Network documents",
             min_value=0.0,
             max_value=1.0,
             value=0.40,
@@ -819,11 +796,7 @@ if not IR_Network_relevance.empty:
         "breadth",
         "total_hits",
         "hits_per_1000",
-        "whistle*",
-        "protected disclosure*",
-        "PDA",
-        "retaliation",
-        "unfair dismissal",
+        *RELEVANCE_PATTERNS.keys(),
         "words"
     ]
 

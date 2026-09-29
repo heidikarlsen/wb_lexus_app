@@ -271,7 +271,6 @@ RELEVANCE_PATTERNS = {
         re.IGNORECASE
     ),
 
-
     "retaliation": re.compile(
         r"\bretaliation\b",
         re.IGNORECASE
@@ -292,39 +291,23 @@ RELEVANCE_PATTERNS = {
 terms_text = ", ".join(RELEVANCE_PATTERNS.keys())
 
 
-st.subheader("Cases relevance screening")
 
-
-st.write(
-    f"""
-    Cases are ranked according to the occurrence of a small set of
-    strongly relevant terms. The relevance score combines:
-
-    - **Breadth**: how many different relevant term groups occur
-    - **Absolute frequency**: total number of relevant occurrences
-    - **Relative frequency**: occurrences per 1,000 words
-
-    **Terms currently used:** {terms_text}
-    """
-)
-
-#@st.cache_data
-def calculate_case_relevance(case_df):
-
-    patterns = RELEVANCE_PATTERNS 
+def calculate_relevance(corpus_df, patterns):
 
     rows = []
 
-    for _, row in case_df.iterrows():
+    for _, row in corpus_df.iterrows():
 
         path = Path(row["path"])
 
         try:
-            text = path.read_text(encoding="utf-8", errors="ignore")
+            text = path.read_text(
+                encoding="utf-8",
+                errors="ignore"
+            )
         except Exception:
             continue
 
-        # Simple word count
         word_count = len(re.findall(r"\b\w+\b", text))
 
         counts = {}
@@ -333,11 +316,8 @@ def calculate_case_relevance(case_df):
             counts[term] = len(pattern.findall(text))
 
         total_hits = sum(counts.values())
-
-        # Number of different term groups represented
         breadth = sum(count > 0 for count in counts.values())
 
-        # Relative frequency
         hits_per_1000 = (
             (total_hits / word_count) * 1000
             if word_count > 0 else 0
@@ -359,17 +339,17 @@ def calculate_case_relevance(case_df):
     if result.empty:
         return result
 
-    # -----------------------------------------
-    # NORMALISE COMPONENTS FOR RELEVANCE SCORE
-    # -----------------------------------------
+    result["breadth_score"] = (
+        result["breadth"] / len(patterns)
+    )
 
-    # Normalise breadth by the number of relevance term groups
-    result["breadth_score"] = result["breadth"] / len(patterns)
+    abs_log = result["total_hits"].apply(
+        lambda x: __import__("math").log1p(x)
+    )
 
-    # log1p prevents a few documents with extremely many hits
-    # from dominating the entire scale
-    abs_log = result["total_hits"].apply(lambda x: __import__("math").log1p(x))
-    rel_log = result["hits_per_1000"].apply(lambda x: __import__("math").log1p(x))
+    rel_log = result["hits_per_1000"].apply(
+        lambda x: __import__("math").log1p(x)
+    )
 
     if abs_log.max() > abs_log.min():
         result["absolute_score"] = (
@@ -387,15 +367,19 @@ def calculate_case_relevance(case_df):
     else:
         result["relative_score"] = 0
 
-    # Combined relevance score
     result["relevance_score"] = (
         0.45 * result["breadth_score"]
         + 0.20 * result["absolute_score"]
         + 0.35 * result["relative_score"]
     )
 
-    result["relevance_score"] = result["relevance_score"].round(3)
-    result["hits_per_1000"] = result["hits_per_1000"].round(2)
+    result["relevance_score"] = (
+        result["relevance_score"].round(3)
+    )
+
+    result["hits_per_1000"] = (
+        result["hits_per_1000"].round(2)
+    )
 
     return result.sort_values(
         "relevance_score",
@@ -403,11 +387,29 @@ def calculate_case_relevance(case_df):
     ).reset_index(drop=True)
 
 
-# Only analyse the Cases subcorpus
+st.subheader("Cases relevance screening")
+
+
+st.write(
+    f"""
+    Cases are ranked according to the occurrence of a small set of
+    strongly relevant terms. The relevance score combines:
+
+    - **Breadth**: how many different relevant term groups occur
+    - **Absolute frequency**: total number of relevant occurrences
+    - **Relative frequency**: occurrences per 1,000 words
+
+    **Terms currently used:** {terms_text}
+    """
+)
+
+
 case_df = df[df["subcorpus"] == "Cases"].copy()
 
-case_relevance = calculate_case_relevance(case_df)
-
+case_relevance = calculate_relevance(
+    case_df,
+    RELEVANCE_PATTERNS
+)
 
 if not case_relevance.empty:
 
@@ -616,109 +618,14 @@ st.write(
 
 
 
-#@st.cache_data
-def calculate_IR_Network_relevance(IR_Network_df):
-
-
-    patterns = RELEVANCE_PATTERNS
-
-    rows = []
-
-    for _, row in IR_Network_df.iterrows():
-
-        path = Path(row["path"])
-
-        try:
-            text = path.read_text(encoding="utf-8", errors="ignore")
-        except Exception:
-            continue
-
-        # Simple word count
-        word_count = len(re.findall(r"\b\w+\b", text))
-
-        counts = {}
-
-        for term, pattern in patterns.items():
-            counts[term] = len(pattern.findall(text))
-
-        total_hits = sum(counts.values())
-
-        # Number of different term groups represented
-        breadth = sum(count > 0 for count in counts.values())
-
-        # Relative frequency
-        hits_per_1000 = (
-            (total_hits / word_count) * 1000
-            if word_count > 0 else 0
-        )
-
-        rows.append({
-            "year": row["year"],
-            "filename": row["filename"],
-            "path": row["path"],
-            "words": word_count,
-            "breadth": breadth,
-            "total_hits": total_hits,
-            "hits_per_1000": hits_per_1000,
-            **counts
-        })
-
-    result = pd.DataFrame(rows)
-
-    if result.empty:
-        return result
-
-    # -----------------------------------------
-    # NORMALISE COMPONENTS FOR RELEVANCE SCORE
-    # -----------------------------------------
-
-    # Normalise breadth by the number of relevance term groups
-    result["breadth_score"] = result["breadth"] / len(patterns)
-
-    # log1p prevents a few documents with extremely many hits
-    # from dominating the entire scale
-    abs_log = result["total_hits"].apply(lambda x: __import__("math").log1p(x))
-    rel_log = result["hits_per_1000"].apply(lambda x: __import__("math").log1p(x))
-
-    if abs_log.max() > abs_log.min():
-        result["absolute_score"] = (
-            (abs_log - abs_log.min()) /
-            (abs_log.max() - abs_log.min())
-        )
-    else:
-        result["absolute_score"] = 0
-
-    if rel_log.max() > rel_log.min():
-        result["relative_score"] = (
-            (rel_log - rel_log.min()) /
-            (rel_log.max() - rel_log.min())
-        )
-    else:
-        result["relative_score"] = 0
-
-    # Combined relevance score
-    result["relevance_score"] = (
-        0.45 * result["breadth_score"]
-        + 0.20 * result["absolute_score"]
-        + 0.35 * result["relative_score"]
-    )
-
-    result["relevance_score"] = result["relevance_score"].round(3)
-    result["hits_per_1000"] = result["hits_per_1000"].round(2)
-
-    return result.sort_values(
-        "relevance_score",
-        ascending=False
-    ).reset_index(drop=True)
-
-
-# Only analyse the IR_Network subcorpus
 IR_Network_df = df[df["subcorpus"] == "IR_Network"].copy()
 
-IR_Network_relevance = calculate_IR_Network_relevance(IR_Network_df)
+IR_Network_relevance = calculate_relevance(
+    IR_Network_df,
+    RELEVANCE_PATTERNS
+)
 
-
-if not IR_Network_relevance.empty:
+if not case_relevance.empty:
 
     # -----------------------------------------
     # CONTROLS
@@ -901,3 +808,105 @@ if not IR_Network_relevance.empty:
         fig_share,
         use_container_width=True
     )
+
+
+
+st.markdown("#### Term sensitivity analysis")
+
+term_to_test = st.selectbox(
+    "Test the effect of removing a term",
+    options=list(RELEVANCE_PATTERNS.keys())
+)
+
+patterns_without_term = {
+    term: pattern
+    for term, pattern in RELEVANCE_PATTERNS.items()
+    if term != term_to_test
+}
+
+
+# Recalculate relevance without the selected term
+cases_without_term = calculate_relevance(
+    case_df,
+    patterns_without_term
+)
+
+ir_without_term = calculate_relevance(
+    IR_Network_df,
+    patterns_without_term
+)
+
+# Use the same threshold for the sensitivity analysis
+sensitivity_threshold = 0.40
+
+
+def compare_models(full_result, reduced_result, threshold):
+
+    full_relevant = set(
+        full_result.loc[
+            full_result["relevance_score"] >= threshold,
+            "filename"
+        ]
+    )
+
+    reduced_relevant = set(
+        reduced_result.loc[
+            reduced_result["relevance_score"] >= threshold,
+            "filename"
+        ]
+    )
+
+    # Relevant only after removing the term
+    added = reduced_relevant - full_relevant
+
+    # Relevant in the full model, but not after removing the term
+    lost = full_relevant - reduced_relevant
+
+    return added, lost
+
+
+cases_added, cases_lost = compare_models(
+    case_relevance,
+    cases_without_term,
+    sensitivity_threshold
+)
+
+ir_added, ir_lost = compare_models(
+    IR_Network_relevance,
+    ir_without_term,
+    sensitivity_threshold
+)
+
+
+st.write(
+    f"Effect of removing **{term_to_test}** "
+    f"at relevance threshold {sensitivity_threshold:.2f}"
+)
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("##### Cases")
+    st.metric("Become relevant", len(cases_added))
+    st.metric("No longer relevant", len(cases_lost))
+
+with col2:
+    st.markdown("##### IR_Network")
+    st.metric("Become relevant", len(ir_added))
+    st.metric("No longer relevant", len(ir_lost))
+
+
+    
+with st.expander("Show documents that changed classification"):
+
+    st.markdown("##### Cases — become relevant")
+    st.write(sorted(cases_added))
+
+    st.markdown("##### Cases — no longer relevant")
+    st.write(sorted(cases_lost))
+
+    st.markdown("##### IR_Network — become relevant")
+    st.write(sorted(ir_added))
+
+    st.markdown("##### IR_Network — no longer relevant")
+    st.write(sorted(ir_lost))

@@ -271,10 +271,6 @@ RELEVANCE_PATTERNS = {
         re.IGNORECASE
     ),
 
-    "PDA": re.compile(
-        r"\bPDA\b",
-        re.IGNORECASE
-    ),
 
     "retaliation": re.compile(
         r"\bretaliation\b",

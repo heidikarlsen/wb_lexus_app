@@ -1,6 +1,5 @@
 from pathlib import Path
 import re
-
 import pandas as pd
 import plotly.express as px
 import streamlit as st
@@ -295,11 +294,6 @@ def calculate_case_relevance(case_df):
             re.IGNORECASE
         ),
 
-        # Exact acronym
-        "PDA": re.compile(
-            r"\bPDA\b",
-            re.IGNORECASE
-        ),
 
         "retaliation": re.compile(
             r"\bretaliation\b",
@@ -637,11 +631,6 @@ def calculate_IR_Network_relevance(IR_Network_df):
             re.IGNORECASE
         ),
 
-        # Exact acronym
-        "PDA": re.compile(
-            r"\bPDA\b",
-            re.IGNORECASE
-        ),
 
         "retaliation": re.compile(
             r"\bretaliation\b",

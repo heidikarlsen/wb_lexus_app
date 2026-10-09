@@ -433,7 +433,7 @@ if not case_relevance.empty:
             "Threshold for 'highly relevant' cases",
             min_value=0.0,
             max_value=1.0,
-            value=0.40,
+            value=0.30,
             step=0.01
         )
 
@@ -648,7 +648,7 @@ if not case_relevance.empty:
             "Threshold for 'highly relevant' IR_Network documents",
             min_value=0.0,
             max_value=1.0,
-            value=0.40,
+            value=0.30,
             step=0.01,
             key="ir_network_high_relevance_threshold"
         )

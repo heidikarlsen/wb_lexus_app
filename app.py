@@ -269,22 +269,8 @@ RELEVANCE_PATTERNS = {
     "protected disclosure*": re.compile(
         r"\bprotected\s+disclosures?\b",
         re.IGNORECASE
-    ),
-
-    "retaliation": re.compile(
-        r"\bretaliation\b",
-        re.IGNORECASE
-    ),
-
-    "unfair dismissal": re.compile(
-        r"\bunfair\s+dismissal\b",
-        re.IGNORECASE
-    ),
-
-    "occupational detriment": re.compile(
-    r"\boccupational\s+detriment\b",
-    re.IGNORECASE
     )
+
 }
 
 

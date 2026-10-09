@@ -837,7 +837,7 @@ ir_without_term = calculate_relevance(
 )
 
 # Use the same threshold for the sensitivity analysis
-sensitivity_threshold = 0.40
+sensitivity_threshold = 0.30
 
 
 def compare_models(full_result, reduced_result, threshold):
